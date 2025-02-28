@@ -1,0 +1,4677 @@
+{
+  "https://dblp.org/db/conf/lctrts/lctes2024.html": {
+    "header": "LCTES 2024:\nCopenhagen, Denmark",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "Accelerating Shared Library Execution in a DBT.",
+        "authors": [
+          "Tom Spink",
+          "Björn Franke"
+        ]
+      },
+      {
+        "title": "Efficient Implementation of Neural Networks Usual Layers on Fixed-Point Architectures.",
+        "authors": [
+          "Dorra Ben Khalifa",
+          "Matthieu Martel"
+        ]
+      },
+      {
+        "title": "TinySeg: Model Optimizing Framework for Image Segmentation on Tiny Embedded Systems.",
+        "authors": [
+          "Byungchul Chae",
+          "Jiae Kim",
+          "Seonyeong Heo"
+        ]
+      },
+      {
+        "title": "MixPert: Optimizing Mixed-Precision Floating-Point Emulation on GPU Integer Tensor Cores.",
+        "authors": [
+          "Zejia Lin",
+          "Aoyuan Sun",
+          "Xianwei Zhang",
+          "Yutong Lu"
+        ]
+      },
+      {
+        "title": "Optimistic and Scalable Global Function Merging.",
+        "authors": [
+          "Kyungwoo Lee",
+          "Manman Ren",
+          "Ellis Hoag"
+        ]
+      },
+      {
+        "title": "Language-Based Deployment Optimization for Random Forests (Invited Paper).",
+        "authors": [
+          "Jannik Malcher",
+          "Daniel Biebert",
+          "Kuan-Hsun Chen",
+          "Sebastian Buschjäger",
+          "Christian Hakert",
+          "Jian-Jia Chen"
+        ]
+      },
+      {
+        "title": "SmartVisor: User-Friendly Hypervisor for Mobile Robots.",
+        "authors": [
+          "Guanyu Chen",
+          "Pan Lv",
+          "Hong Li",
+          "Guoqing Yang"
+        ]
+      },
+      {
+        "title": "Orchestrating Multiple Mixed Precision Models on a Shared Precision-Scalable NPU.",
+        "authors": [
+          "Kiung Jung",
+          "Seok Namkoong",
+          "Hongjun Um",
+          "Hyejun Kim",
+          "Youngsok Kim",
+          "Yongjun Park"
+        ]
+      },
+      {
+        "title": "WoCA: Avoiding Intermittent Execution in Embedded Systems by Worst-Case Analyses with Device States.",
+        "authors": [
+          "Phillip Raffeck",
+          "Johannes Maier",
+          "Peter Wägemann"
+        ]
+      },
+      {
+        "title": "Unmasking the Lurking: Malicious Behavior Detection for IoT Malware with Multi-label Classification.",
+        "authors": [
+          "Ruitao Feng",
+          "Sen Li",
+          "Sen Chen",
+          "Mengmeng Ge",
+          "Xuewei Li",
+          "Xiaohong Li"
+        ]
+      },
+      {
+        "title": "TWFuzz: Fuzzing Embedded Systems with Three Wires.",
+        "authors": [
+          "Zhongwen Feng",
+          "Junyan Ma"
+        ]
+      },
+      {
+        "title": "OpenMP-RT: Native Pragma Support for Real-Time Tasks and Synchronization with LLVM under Linux.",
+        "authors": [
+          "Brayden McDonald",
+          "Frank Mueller"
+        ]
+      },
+      {
+        "title": "EVMBT: A Binary Translation Scheme for Upgrading EVM Smart Contracts to WASM.",
+        "authors": [
+          "Weimin Chen",
+          "Xiapu Luo",
+          "Haoyu Wang",
+          "Heming Cui",
+          "Shuyu Zheng",
+          "Xuanzhe Liu"
+        ]
+      },
+      {
+        "title": "CodeExtract: Enhancing Binary Code Similarity Detection with Code Extraction Techniques.",
+        "authors": [
+          "Lichen Jia",
+          "Chenggang Wu",
+          "Peihua Zhang",
+          "Zhe Wang"
+        ]
+      },
+      {
+        "title": "Foundations for a Rust-Like Borrow Checker for C.",
+        "authors": [
+          "Tiago Silva",
+          "João Bispo",
+          "Tiago Carvalho"
+        ]
+      },
+      {
+        "title": "Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation.",
+        "authors": [
+          "Shangqing Liu",
+          "Wei Ma",
+          "Jian Wang",
+          "Xiaofei Xie",
+          "Ruitao Feng",
+          "Yang Liu"
+        ]
+      },
+      {
+        "title": "A Flexible-Granularity Task Graph Representation and Its Generation from C Applications (WIP).",
+        "authors": [
+          "Tiago Santos",
+          "João Bispo",
+          "João M. P. Cardoso"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2023.html": {
+    "header": "LCTES 2023:\nOrlando, FL, USA",
+    "year": "2023",
+    "papers": [
+      {
+        "title": "Decreasing the Miss Rate and Eliminating the Performance Penalty of a Data Filter Cache (Keynote).",
+        "authors": [
+          "David B. Whalley"
+        ]
+      },
+      {
+        "title": "Facilitating the Bootstrapping of a New ISA.",
+        "authors": [
+          "Abigail Mortensen",
+          "Scott Pomerville",
+          "David B. Whalley",
+          "Soner Önder",
+          "Gang-Ryung Uh"
+        ]
+      },
+      {
+        "title": "Synchronization-Aware NAS for an Efficient Collaborative Inference on Mobile Platforms.",
+        "authors": [
+          "Beom Woo Kang",
+          "Junho Wohn",
+          "Seongju Lee",
+          "Sunghyun Park",
+          "Yung-Kyun Noh",
+          "Yongjun Park"
+        ]
+      },
+      {
+        "title": "MinUn: Accurate ML Inference on Microcontrollers.",
+        "authors": [
+          "Shikhar Jaiswal",
+          "Rahul Kranti Kiran Goli",
+          "Aayan Kumar",
+          "Vivek Seshadri",
+          "Rahul Sharma"
+        ]
+      },
+      {
+        "title": "reUpNix: Reconfigurable and Updateable Embedded Systems.",
+        "authors": [
+          "Niklas Gollenstede",
+          "Ulf Kulau",
+          "Christian Dietrich"
+        ]
+      },
+      {
+        "title": "Optimizing Function Layout for Mobile Applications.",
+        "authors": [
+          "Ellis Hoag",
+          "Kyungwoo Lee",
+          "Julián Mestre",
+          "Sergey Pupyrev"
+        ]
+      },
+      {
+        "title": "Thread-Level Attack-Surface Reduction.",
+        "authors": [
+          "Florian Rommel",
+          "Christian Dietrich",
+          "Andreas Ziegler",
+          "Illia Ostapyshyn",
+          "Daniel Lohmann"
+        ]
+      },
+      {
+        "title": "Sequential Scheduling of Dataflow Graphs for Memory Peak Minimization.",
+        "authors": [
+          "Pascal Fradet",
+          "Alain Girault",
+          "Alexandre Honorat"
+        ]
+      },
+      {
+        "title": "PinIt: Influencing OS Scheduling via Compiler-Induced Affinities.",
+        "authors": [
+          "Girish Mururu",
+          "Kangqi Ni",
+          "Ada Gavrilovska",
+          "Santosh Pande"
+        ]
+      },
+      {
+        "title": "Rep-RAID: An Integrated Approach to Optimizing Data Replication and Garbage Collection in RAID-Enabled SSDs.",
+        "authors": [
+          "Jun Li",
+          "Balazs Gerofi",
+          "François Trahay",
+          "Zhigang Cai",
+          "Jianwei Liao"
+        ]
+      },
+      {
+        "title": "ISVABI: In-Storage Video Analytics Engine with Block Interface.",
+        "authors": [
+          "Yi Zheng",
+          "Joshua Fixelle",
+          "Pingyi Huo",
+          "Mircea Stan",
+          "Michael P. Mesnier",
+          "Vijaykrishnan Narayanan"
+        ]
+      },
+      {
+        "title": "LUNAR: A Native Table Engine for Embedded Devices.",
+        "authors": [
+          "Xiaopeng Fan",
+          "Song Yan",
+          "Yuchen Huang",
+          "Chuliang Weng"
+        ]
+      },
+      {
+        "title": "Towards Secure MicroPython on Morello (WIP).",
+        "authors": [
+          "Jeremy Singer"
+        ]
+      },
+      {
+        "title": "Tiling for DMA-Based Hardware Accelerators (WIP).",
+        "authors": [
+          "Alexandre Singer",
+          "Kai-Ting Amy Wang"
+        ]
+      },
+      {
+        "title": "Towards Automated Identification of Layering Violations in Embedded Applications (WIP).",
+        "authors": [
+          "Mingjie Shen",
+          "James C. Davis",
+          "Aravind Machiry"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2022.html": {
+    "header": "LCTES 2022: San Diego, CA, USA",
+    "year": "2022",
+    "papers": [
+      {
+        "title": "Co-mining: a processing-in-memory assisted framework for memory-intensive PoW acceleration.",
+        "authors": [
+          "Tianyu Wang",
+          "Zhaoyan Shen",
+          "Zili Shao"
+        ]
+      },
+      {
+        "title": "Implicit state machines.",
+        "authors": [
+          "Fengyun Liu",
+          "Aleksandar Prokopec"
+        ]
+      },
+      {
+        "title": "JAX based parallel inference for reactive probabilistic programming.",
+        "authors": [
+          "Guillaume Baudart",
+          "Louis Mandel",
+          "Reyyan Tekin"
+        ]
+      },
+      {
+        "title": "TCPS: a task and cache-aware partitioned scheduler for hard real-time multi-core systems.",
+        "authors": [
+          "Yixian Shen",
+          "Jun Xiao",
+          "Andy D. Pimentel"
+        ]
+      },
+      {
+        "title": "ISKEVA: in-SSD key-value database engine for video analytics applications.",
+        "authors": [
+          "Yi Zheng",
+          "Joshua Fixelle",
+          "Nagadastagiri Challapalle",
+          "Pingyi Huo",
+          "Zhaoyan Shen",
+          "Zili Shao",
+          "Mircea Stan",
+          "Vijaykrishnan Narayanan"
+        ]
+      },
+      {
+        "title": "Optimizing data reshaping operations in functional IRs for high-level synthesis.",
+        "authors": [
+          "Christof Schlaak",
+          "Tzung-Han Juang",
+          "Christophe Dubach"
+        ]
+      },
+      {
+        "title": "Trace-and-brace (TAB): bespoke software countermeasures against soft errors.",
+        "authors": [
+          "Yousun Ko",
+          "Alex Bradbury",
+          "Bernd Burgstaller",
+          "Robert D. Mullins"
+        ]
+      },
+      {
+        "title": "An old friend is better than two new ones: dual-screen Android.",
+        "authors": [
+          "Zizhan Chen",
+          "Siqi Shang",
+          "Qihong Wu",
+          "Jin Xue",
+          "Zhaoyan Shen",
+          "Zili Shao"
+        ]
+      },
+      {
+        "title": "RollBin: reducing code-size via loop rerolling at binary level.",
+        "authors": [
+          "Tianao Ge",
+          "Zewei Mo",
+          "Kan Wu",
+          "Xianwei Zhang",
+          "Yutong Lu"
+        ]
+      },
+      {
+        "title": "Cache-coherent CLAM (WIP).",
+        "authors": [
+          "Chen Ding",
+          "Benjamin Reber",
+          "Dorin Patru"
+        ]
+      },
+      {
+        "title": "Scalable size inliner for mobile applications (WIP).",
+        "authors": [
+          "Kyungwoo Lee",
+          "Manman Ren",
+          "Shane Nay"
+        ]
+      },
+      {
+        "title": "Tighten rust's belt: shrinking embedded Rust binaries.",
+        "authors": [
+          "Hudson Ayers",
+          "Evan Laufer",
+          "Paul Mure",
+          "Jaehyeon Park",
+          "Eduardo Rodelo",
+          "Thea Rossman",
+          "Andrey Pronin",
+          "Philip Alexander Levis",
+          "Johnathan Van Why"
+        ]
+      },
+      {
+        "title": "Code generation criteria for buffered exposed datapath architectures from dataflow graphs.",
+        "authors": [
+          "Klaus Schneider",
+          "Anoop Bhagyanath",
+          "Julius Roob"
+        ]
+      },
+      {
+        "title": "A memory interference analysis using a formal timing analyzer (WIP).",
+        "authors": [
+          "Mihail Asavoae",
+          "Oumaima Matoussi",
+          "Asmae Bouachtala",
+          "Hai-Dang Vu",
+          "Mathieu Jan"
+        ]
+      },
+      {
+        "title": "Automated kernel fusion for GPU based on code motion.",
+        "authors": [
+          "Junji Fukuhara",
+          "Munehiro Takimoto"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2021.html": {
+    "header": "LCTES 2021: Virtual Event, Canada",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Robust I/O-compute concurrency for machine learning pipelines in constrained cyber-physical devices.",
+        "authors": [
+          "Jayaraj Poroor",
+          "Akash Lal",
+          "Sandesh Ghanta"
+        ]
+      },
+      {
+        "title": "Better atomic writes by exposing the flash out-of-band area to file systems.",
+        "authors": [
+          "Hongwei Qin",
+          "Dan Feng",
+          "Wei Tong",
+          "Yutong Zhao",
+          "Sheng Qiu",
+          "Fei Liu",
+          "Shu Li"
+        ]
+      },
+      {
+        "title": "MaPHeA: a lightweight memory hierarchy-aware profile-guided heap allocation framework.",
+        "authors": [
+          "Deok-Jae Oh",
+          "Yaebin Moon",
+          "Eojin Lee",
+          "Tae Jun Ham",
+          "Yongjun Park",
+          "Jae W. Lee",
+          "Jung Ho Ahn"
+        ]
+      },
+      {
+        "title": "Automatic mapping and code optimization for OpenCL kernels on FT-matrix architecture (WIP paper).",
+        "authors": [
+          "Xiaolei Zhao",
+          "Mei Wen",
+          "Zhaoyun Chen",
+          "Yang Shi",
+          "Chunyuan Zhang"
+        ]
+      },
+      {
+        "title": "CHaNAS: coordinated search for network architecture and scheduling policy.",
+        "authors": [
+          "Weiwei Chen",
+          "Ying Wang",
+          "Gangliang Lin",
+          "Chengsi Gao",
+          "Cheng Liu",
+          "Lei Zhang"
+        ]
+      },
+      {
+        "title": "Annotate once - analyze anywhere: context-aware WCET analysis by user-defined abstractions.",
+        "authors": [
+          "Simon Schuster",
+          "Peter Wägemann",
+          "Peter Ulbrich",
+          "Wolfgang Schröder-Preikschat"
+        ]
+      },
+      {
+        "title": "Optimus: towards optimal layer-fusion on deep learning processors.",
+        "authors": [
+          "Xuyi Cai",
+          "Ying Wang",
+          "Lei Zhang"
+        ]
+      },
+      {
+        "title": "WasmAndroid: a cross-platform runtime for native programming languages on Android (WIP paper).",
+        "authors": [
+          "Elliott Wen",
+          "Gerald Weber",
+          "Suranga Nanayakkara"
+        ]
+      },
+      {
+        "title": "Simple, light, yet formally verified, global common subexpression elimination and loop-invariant code motion.",
+        "authors": [
+          "David Monniaux",
+          "Cyril Six"
+        ]
+      },
+      {
+        "title": "Data-flow-sensitive fault-space pruning for the injection of transient hardware faults.",
+        "authors": [
+          "Oskar Pusz",
+          "Christian Dietrich",
+          "Daniel Lohmann"
+        ]
+      },
+      {
+        "title": "HyFM: function merging for free.",
+        "authors": [
+          "Rodrigo C. O. Rocha",
+          "Pavlos Petoumenos",
+          "Zheng Wang",
+          "Murray Cole",
+          "Kim M. Hazelwood",
+          "Hugh Leather"
+        ]
+      },
+      {
+        "title": "Break dancing: low overhead, architecture neutral software branch tracing.",
+        "authors": [
+          "Gabriel Marin",
+          "Alexey Alexandrov",
+          "Tipp Moseley"
+        ]
+      },
+      {
+        "title": "ARINC 653-inspired regularity-based resource partitioning on xen.",
+        "authors": [
+          "Pavan Kumar Paluri",
+          "Guangli Dai",
+          "Albert Mo Kim Cheng"
+        ]
+      },
+      {
+        "title": "Selective path-sensitive interval analysis (WIP paper).",
+        "authors": [
+          "Bharti Chimdyalwar",
+          "Shrawan Kumar"
+        ]
+      },
+      {
+        "title": "Cache abstraction for data race detection in heterogeneous systems with non-coherent accelerators.",
+        "authors": [
+          "May Young",
+          "Alan J. Hu",
+          "Guy G. F. Lemieux"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2020.html": {
+    "header": "LCTES 2020: London, UK",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "Compiler 2.0: Using Machine Learning to Modernize Compiler Technology.",
+        "authors": [
+          "Saman P. Amarasinghe"
+        ]
+      },
+      {
+        "title": "PAQSIM: Fast Performance Model for Graphics Workload on Mobile GPUs.",
+        "authors": [
+          "Xiang Gong",
+          "Chunling Hu",
+          "Chu-Cheow Lim"
+        ]
+      },
+      {
+        "title": "A Collaborative Filtering Approach for the Automatic Tuning of Compiler Optimisations.",
+        "authors": [
+          "Stefano Cereda",
+          "Gianluca Palermo",
+          "Paolo Cremonesi",
+          "Stefano Doni"
+        ]
+      },
+      {
+        "title": "ApproxRefresh: Enabling Uncorrectable Data Reuse on Flash Memory with Approximate Read Awareness.",
+        "authors": [
+          "Jinhua Cui",
+          "Junwei Liu",
+          "Jianhang Huang",
+          "Haoran Zhu",
+          "Laurence Tianruo Yang"
+        ]
+      },
+      {
+        "title": "Compiling Spiking Neural Networks to Neuromorphic Hardware.",
+        "authors": [
+          "Shihao Song",
+          "Adarsha Balaji",
+          "Anup Das",
+          "Nagarajan Kandasamy",
+          "James A. Shackleford"
+        ]
+      },
+      {
+        "title": "Performance Optimization on big.LITTLE Architectures: A Memory-latency Aware Approach.",
+        "authors": [
+          "Willy Wolff",
+          "Barry Porter"
+        ]
+      },
+      {
+        "title": "Path Sensitive Signatures for Control Flow Error Detection.",
+        "authors": [
+          "Ze Zhang",
+          "Sunghyun Park",
+          "Scott A. Mahlke"
+        ]
+      },
+      {
+        "title": "Exploiting the Trust Between Boundaries: Discovering Memory Corruptions in Printers via Driver-Assisted Testing.",
+        "authors": [
+          "Xiaoyu He",
+          "Erick Bauman",
+          "Feng Li",
+          "Lei Yu",
+          "Linyu Li",
+          "Bingchang Liu",
+          "Aihua Piao",
+          "Kevin W. Hamlen",
+          "Wei Huo",
+          "Wei Zou"
+        ]
+      },
+      {
+        "title": "Intermittent Computing with Peripherals, Formally Verified.",
+        "authors": [
+          "Gautier Berthou",
+          "Pierre-Évariste Dagand",
+          "Delphine Demange",
+          "Rémi Oudin",
+          "Tanguy Risset"
+        ]
+      },
+      {
+        "title": "CITTA: Cache Interference-aware Task Partitioning for Real-time Multi-core Systems.",
+        "authors": [
+          "Jun Xiao",
+          "Andy D. Pimentel"
+        ]
+      },
+      {
+        "title": "A Synergistic Approach to Predictable Compilation and Scheduling on Commodity Multi-Cores.",
+        "authors": [
+          "Björn Forsberg",
+          "Maxim Mattheeuws",
+          "Andreas Kurth",
+          "Andrea Marongiu",
+          "Luca Benini"
+        ]
+      },
+      {
+        "title": "Improving the Performance of WCET Analysis in the Presence of Variable Latencies.",
+        "authors": [
+          "Zhenyu Bai",
+          "Hugues Cassé",
+          "Marianne De Michiel",
+          "Thomas Carle",
+          "Christine Rochange"
+        ]
+      },
+      {
+        "title": "A Synthesis-Aided Compiler for DSP Architectures (WiP Paper).",
+        "authors": [
+          "Alexa VanHattum",
+          "Rachit Nigam",
+          "Vincent T. Lee",
+          "James Bornholt",
+          "Adrian Sampson"
+        ]
+      },
+      {
+        "title": "Towards Real-time CNN Inference from a Video Stream on a Mobile GPU (WiP Paper).",
+        "authors": [
+          "Chanyoung Oh",
+          "Gunju Park",
+          "Sumin Kim",
+          "Dohee Kim",
+          "Youngmin Yi"
+        ]
+      },
+      {
+        "title": "Beyond Base-2 Logarithmic Number Systems (WiP Paper).",
+        "authors": [
+          "Syed Asad Alam",
+          "David Gregg"
+        ]
+      },
+      {
+        "title": "Towards Building Better Mobile Web Browsers for Ad Blocking: The Energy Perspective (WiP Paper).",
+        "authors": [
+          "Nadja Heitmann",
+          "Benedikt Pirker",
+          "Sangyoung Park",
+          "Samarjit Chakraborty"
+        ]
+      },
+      {
+        "title": "FPGA-based Near Data Processing Platform Selection Using Fast Performance Modeling (WiP Paper).",
+        "authors": [
+          "Nazanin Farahpour",
+          "Zhenman Fang",
+          "Glenn Reinman"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2019.html": {
+    "header": "LCTES 2019: Phoenix, AZ, USA",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "New models and methods for programming cyber-physical systems (keynote).",
+        "authors": [
+          "Rajesh K. Gupta",
+          "Jason Koh",
+          "Dezhi Hong"
+        ]
+      },
+      {
+        "title": "An open, transparent, industry-driven approach to AV safety (keynote).",
+        "authors": [
+          "Jack Weast"
+        ]
+      },
+      {
+        "title": "Optimizing tensor contractions for embedded devices with racetrack memory scratch-pads.",
+        "authors": [
+          "Asif Ali Khan",
+          "Norman A. Rink",
+          "Fazal Hameed",
+          "Jerónimo Castrillón"
+        ]
+      },
+      {
+        "title": "SHAKTI-MS: a RISC-V processor for memory safety in C.",
+        "authors": [
+          "Sourav Das",
+          "R. Harikrishnan Unnithan",
+          "Arjun Menon",
+          "Chester Rebeiro",
+          "Kamakoti Veezhinathan"
+        ]
+      },
+      {
+        "title": "Crash recoverable ARMv8-oriented B+-tree for byte-addressable persistent memory.",
+        "authors": [
+          "Chundong Wang",
+          "Sudipta Chattopadhyay",
+          "Gunavaran Brihadiswarn"
+        ]
+      },
+      {
+        "title": "1+1>2: variation-aware lifetime enhancement for embedded 3D NAND flash systems.",
+        "authors": [
+          "Yejia Di",
+          "Liang Shi",
+          "Shuo-Han Chen",
+          "Chun Jason Xue",
+          "Edwin Hsing-Mean Sha"
+        ]
+      },
+      {
+        "title": "SA-SPM: an efficient compiler for security aware scratchpad memory (invited paper).",
+        "authors": [
+          "Thomas Haywood Dadzie",
+          "Jiwon Lee",
+          "Jihye Kim",
+          "Hyunok Oh"
+        ]
+      },
+      {
+        "title": "Efficient intermittent computing with differential checkpointing.",
+        "authors": [
+          "Saad Ahmed",
+          "Naveed Anwar Bhatti",
+          "Muhammad Hamad Alizai",
+          "Junaid Haroon Siddiqui",
+          "Luca Mottola"
+        ]
+      },
+      {
+        "title": "SPECTRUM: a software defined predictable many-core architecture for LTE baseband processing.",
+        "authors": [
+          "Vanchinathan Venkataramani",
+          "Aditi Kulkarni Mohite",
+          "Tulika Mitra",
+          "Li-Shiuan Peh"
+        ]
+      },
+      {
+        "title": "The betrayal of constant power × time: finding the missing Joules of transiently-powered computers.",
+        "authors": [
+          "Saad Ahmed",
+          "Abu Bakar",
+          "Naveed Anwar Bhatti",
+          "Muhammad Hamad Alizai",
+          "Junaid Haroon Siddiqui",
+          "Luca Mottola"
+        ]
+      },
+      {
+        "title": "WCET-aware hyper-block construction for clustered VLIW processors.",
+        "authors": [
+          "Xuesong Su",
+          "Hui Wu",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "From Java to real-time Java: a model-driven methodology with automated toolchain (invited paper).",
+        "authors": [
+          "Wanli Chang",
+          "Shuai Zhao",
+          "Ran Wei",
+          "Andy J. Wellings",
+          "Alan Burns"
+        ]
+      },
+      {
+        "title": "IA-graph based inter-app conflicts detection in open IoT systems.",
+        "authors": [
+          "Xinyi Li",
+          "Lei Zhang",
+          "Xipeng Shen"
+        ]
+      },
+      {
+        "title": "ApproxSymate: path sensitive program approximation using symbolic execution.",
+        "authors": [
+          "Himeshi De Silva",
+          "Andrew E. Santosa",
+          "Nhut-Minh Ho",
+          "Weng-Fai Wong"
+        ]
+      },
+      {
+        "title": "Automating the generation of hardware component knowledge bases.",
+        "authors": [
+          "Luke Hsiao",
+          "Sen Wu",
+          "Nicholas Chiang",
+          "Christopher Ré",
+          "Philip Alexander Levis"
+        ]
+      },
+      {
+        "title": "BitBench: a benchmark for bitstream computing.",
+        "authors": [
+          "Kyle Daruwalla",
+          "Heng Zhuo",
+          "Carly Schulz",
+          "Mikko H. Lipasti"
+        ]
+      },
+      {
+        "title": "An empirical comparison between monkey testing and human testing (WIP paper).",
+        "authors": [
+          "Mostafa Mohammed",
+          "Haipeng Cai",
+          "Na Meng"
+        ]
+      },
+      {
+        "title": "A compiler-based approach for GPGPU performance calibration using TLP modulation (WIP paper).",
+        "authors": [
+          "Yongseung Yu",
+          "Seokwon Kang",
+          "Yongjun Park"
+        ]
+      },
+      {
+        "title": "PANDORA: a parallelizing approximation-discovery framework (WIP paper).",
+        "authors": [
+          "Greg Stitt",
+          "David Campbell"
+        ]
+      },
+      {
+        "title": "On intermittence bugs in the battery-less internet of things (WIP paper).",
+        "authors": [
+          "Andrea Maioli",
+          "Luca Mottola",
+          "Muhammad Hamad Alizai",
+          "Junaid Haroon Siddiqui"
+        ]
+      },
+      {
+        "title": "Imprecision in WCET estimates due to library calls and how to reduce it (WIP paper).",
+        "authors": [
+          "Martin Becker",
+          "Samarjit Chakraborty",
+          "Ravindra Metta",
+          "R. Venkatesh"
+        ]
+      },
+      {
+        "title": "Raising binaries to LLVM IR with MCTOLL (WIP paper).",
+        "authors": [
+          "S. Bharadwaj Yadavalli",
+          "Aaron Smith"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2018.html": {
+    "header": "LCTES 2018: Philadelphia, PA, USA",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "A memory-bounded, deterministic and terminating semantics for the synchronous programming language Céu.",
+        "authors": [
+          "Rodrigo C. M. Santos",
+          "Guilherme F. Lima",
+          "Francisco Sant'Anna",
+          "Roberto Ierusalimschy",
+          "Edward Hermann Haeusler"
+        ]
+      },
+      {
+        "title": "MakeCode and CODAL: intuitive and efficient embedded systems programming for education.",
+        "authors": [
+          "James Devine",
+          "Joe Finney",
+          "Peli de Halleux",
+          "Michal Moskal",
+          "Thomas Ball",
+          "Steve Hodges"
+        ]
+      },
+      {
+        "title": "Adaptive deep learning model selection on embedded systems.",
+        "authors": [
+          "Ben Taylor",
+          "Vicent Sanz Marco",
+          "Willy Wolff",
+          "Yehia Elkhatib",
+          "Zheng Wang"
+        ]
+      },
+      {
+        "title": "Optimizing RAID/SSD controllers with lifetime extension for flash-based SSD array.",
+        "authors": [
+          "Lei Han",
+          "Zhaoyan Shen",
+          "Zili Shao",
+          "Tao Li"
+        ]
+      },
+      {
+        "title": "Compositionality in scenario-aware dataflow: a rendezvous perspective.",
+        "authors": [
+          "Mladen Skelin",
+          "Marc Geilen"
+        ]
+      },
+      {
+        "title": "Decoupling address generation from loads and stores to improve data access energy efficiency.",
+        "authors": [
+          "Michael Stokes",
+          "Ryan Baird",
+          "Zhaoxiang Jin",
+          "David B. Whalley",
+          "Soner Önder"
+        ]
+      },
+      {
+        "title": "Verification of coarse-grained reconfigurable arrays through random test programs.",
+        "authors": [
+          "Bernhard Egger",
+          "Eunjin Song",
+          "Hochan Lee",
+          "Daeyoung Shin"
+        ]
+      },
+      {
+        "title": "Deep neural networks compiler for a trace-based accelerator (short WIP paper).",
+        "authors": [
+          "Andre Xian Ming Chang",
+          "Aliasger Zaidy",
+          "Lukasz Burzawa",
+          "Eugenio Culurciello"
+        ]
+      },
+      {
+        "title": "Transparent standby for low-Power, resource-constrained embedded systems: a programming language-based approach (short WIP paper).",
+        "authors": [
+          "Francisco Sant'Anna",
+          "Alexandre Sztajnberg",
+          "Ana Lúcia de Moura",
+          "Noemi Rodrigues"
+        ]
+      },
+      {
+        "title": "Statically relating program properties for efficient verification (short WIP paper).",
+        "authors": [
+          "Bharti Chimdyalwar",
+          "Priyanka Darke"
+        ]
+      },
+      {
+        "title": "JSCore: architectural support for accelerating JavaScript execution (short WIP paper).",
+        "authors": [
+          "Gaurav Chadha"
+        ]
+      },
+      {
+        "title": "An open-source realtime computational platform (short WIP paper).",
+        "authors": [
+          "Pavan Mehrotra",
+          "Sabar Dasgupta",
+          "Samantha Robertson",
+          "Paul Nuyujukian"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2017.html": {
+    "header": "LCTES 2017: Barcelona, Spain",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "AOT vs. JIT: impact of profile data on code quality.",
+        "authors": [
+          "April W. Wade",
+          "Prasad A. Kulkarni",
+          "Michael R. Jantz"
+        ]
+      },
+      {
+        "title": "Adaptive optimization for OpenCL programs on embedded heterogeneous systems.",
+        "authors": [
+          "Ben Taylor",
+          "Vicent Sanz Marco",
+          "Zheng Wang"
+        ]
+      },
+      {
+        "title": "Auto-vectorization for image processing DSLs.",
+        "authors": [
+          "Oliver Reiche",
+          "Christof Kobylko",
+          "Frank Hannig",
+          "Jürgen Teich"
+        ]
+      },
+      {
+        "title": "Dynamic translation of structured Loads/Stores and register mapping for architectures with SIMD extensions.",
+        "authors": [
+          "Sheng-Yu Fu",
+          "Ding-Yong Hong",
+          "Yu-Ping Liu",
+          "Jan-Jan Wu",
+          "Wei-Chung Hsu"
+        ]
+      },
+      {
+        "title": "Optimal functional unit assignment and voltage selection for pipelined MPSoC with guaranteed probability on time performance.",
+        "authors": [
+          "Weiwen Jiang",
+          "Edwin Hsing-Mean Sha",
+          "Qingfeng Zhuge",
+          "Hailiang Dong",
+          "Xianzhang Chen"
+        ]
+      },
+      {
+        "title": "Integrated IoT programming with selective abstraction.",
+        "authors": [
+          "Gyeongmin Lee",
+          "Seonyeong Heo",
+          "Bongjun Kim",
+          "Jong Kim",
+          "Hanjun Kim"
+        ]
+      },
+      {
+        "title": "Towards SMT-based LTL model checking of clock constraint specification language for real-time and embedded systems.",
+        "authors": [
+          "Min Zhang",
+          "Yunhui Ying"
+        ]
+      },
+      {
+        "title": "Integrating task scheduling and cache locking for multicore real-time embedded systems.",
+        "authors": [
+          "Wenguang Zheng",
+          "Hui Wu",
+          "Chuanyao Nie"
+        ]
+      },
+      {
+        "title": "Towards memory-efficient processing-in-memory architecture for convolutional neural networks.",
+        "authors": [
+          "Yi Wang",
+          "Mingxu Zhang",
+          "Jing Yang"
+        ]
+      },
+      {
+        "title": "Unified nvTCAM and sTCAM architecture for improving packet matching performance.",
+        "authors": [
+          "Xianzhong Ding",
+          "Zhiyong Zhang",
+          "Zhiping Jia",
+          "Lei Ju",
+          "Mengying Zhao",
+          "Huawei Huang"
+        ]
+      },
+      {
+        "title": "A lightweight progress maximization scheduler for non-volatile processor under unstable energy harvesting.",
+        "authors": [
+          "Chen Pan",
+          "Mimi Xie",
+          "Yongpan Liu",
+          "Yanzhi Wang",
+          "Chun Jason Xue",
+          "Yuangang Wang",
+          "Yiran Chen",
+          "Jingtong Hu"
+        ]
+      },
+      {
+        "title": "OSEK-V: application-specific RTOS instantiation in hardware.",
+        "authors": [
+          "Christian Dietrich",
+          "Daniel Lohmann"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2016.html": {
+    "header": "LCTES 2016: Santa Barbara, CA, USA",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "Efficient asynchronous interrupt handling in a full-system instruction set simulator.",
+        "authors": [
+          "Tom Spink",
+          "Harry Wagstaff",
+          "Björn Franke"
+        ]
+      },
+      {
+        "title": "Code cache management in managed language VMs to reduce memory consumption for embedded systems.",
+        "authors": [
+          "Forrest J. Robinson",
+          "Michael R. Jantz",
+          "Prasad A. Kulkarni"
+        ]
+      },
+      {
+        "title": "A graph-based iterative compiler pass selection and phase ordering approach.",
+        "authors": [
+          "Ricardo Nobre",
+          "Luiz G. A. Martins",
+          "João M. P. Cardoso"
+        ]
+      },
+      {
+        "title": "Translation validation of loop and arithmetic transformations in the presence of recurrences.",
+        "authors": [
+          "Kunal Banerjee",
+          "Chittaranjan A. Mandal",
+          "Dipankar Sarkar"
+        ]
+      },
+      {
+        "title": "Loop-oriented array- and field-sensitive pointer analysis for automatic SIMD vectorization.",
+        "authors": [
+          "Yulei Sui",
+          "Xiaokang Fan",
+          "Hao Zhou",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "Generalized cache tiling for dataflow programs.",
+        "authors": [
+          "Lukasz Domagala",
+          "Duco van Amstel",
+          "Fabrice Rastello"
+        ]
+      },
+      {
+        "title": "Symbolic execution for memory consumption analysis.",
+        "authors": [
+          "Duc-Hiep Chu",
+          "Joxan Jaffar",
+          "Rasool Maghareh"
+        ]
+      },
+      {
+        "title": "TIC: a scalable model checking based approach to WCET estimation.",
+        "authors": [
+          "Ravindra Metta",
+          "Martin Becker",
+          "Prasad Bokil",
+          "Samarjit Chakraborty",
+          "R. Venkatesh"
+        ]
+      },
+      {
+        "title": "Compensate or ignore? meeting control robustness requirements through adaptive soft-error handling.",
+        "authors": [
+          "Kuan-Hsun Chen",
+          "Björn Bönninghoff",
+          "Jian-Jia Chen",
+          "Peter Marwedel"
+        ]
+      },
+      {
+        "title": "Opportunity for compute partitioning in pursuit of energy-efficient systems.",
+        "authors": [
+          "Prasenjit Chakraborty",
+          "Gautam Doshi",
+          "Shashank Shekhar",
+          "Vikrant Kumar"
+        ]
+      },
+      {
+        "title": "Compiling a gesture recognition application for a low-power spatial architecture.",
+        "authors": [
+          "Phitchaya Mangpo Phothilimthana",
+          "Michael Schuldt",
+          "Rastislav Bodík"
+        ]
+      },
+      {
+        "title": "A machine learning approach to mapping streaming workloads to dynamic multicore processors.",
+        "authors": [
+          "Paul-Jules Micolet",
+          "Aaron Smith",
+          "Christophe Dubach"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2015.html": {
+    "header": "LCTES 2015: Portland, OR, USA",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Optimizing Transfers of Control in the Static Pipeline Architecture.",
+        "authors": [
+          "Ryan Baird",
+          "Peter Gavin",
+          "Magnus Själander",
+          "David B. Whalley",
+          "Gang-Ryung Uh"
+        ]
+      },
+      {
+        "title": "Clover: Compiler Directed Lightweight Soft Error Resilience.",
+        "authors": [
+          "Qingrui Liu",
+          "Changhee Jung",
+          "Dongyoon Lee",
+          "Devesh Tiwari"
+        ]
+      },
+      {
+        "title": "Improving Data Access Efficiency by Using Context-Aware Loads and Stores.",
+        "authors": [
+          "Alen Bardizbanyan",
+          "Magnus Själander",
+          "David B. Whalley",
+          "Per Larsson-Edefors"
+        ]
+      },
+      {
+        "title": "A Practical Getaway: Applications of Escape Analysis in Embedded Real-Time Systems.",
+        "authors": [
+          "Isabella Stilkerich",
+          "Clemens Lang",
+          "Christoph Erhardt",
+          "Michael Stilkerich"
+        ]
+      },
+      {
+        "title": "Free Rider: A Tool for Retargeting Platform-Specific Intrinsic Functions.",
+        "authors": [
+          "Stanislav Manilov",
+          "Björn Franke",
+          "Anthony Magrath",
+          "Cedric Andrieu"
+        ]
+      },
+      {
+        "title": "Cross-Kernel Control-Flow-Graph Analysis for Event-Driven Real-Time Systems.",
+        "authors": [
+          "Christian Dietrich",
+          "Martin Hoffmann",
+          "Daniel Lohmann"
+        ]
+      },
+      {
+        "title": "Enabling Efficient Alias Speculation.",
+        "authors": [
+          "Soumyadeep Ghosh",
+          "Yongjun Park",
+          "Arun Raman"
+        ]
+      },
+      {
+        "title": "WCET-Aware Dynamic D-cache Locking for A Single Task.",
+        "authors": [
+          "Wenguang Zheng",
+          "Hui Wu"
+        ]
+      },
+      {
+        "title": "StarL: Towards a Unified Framework for Programming, Simulating and Verifying Distributed Robotic Systems.",
+        "authors": [
+          "Yixiao Lin",
+          "Sayan Mitra"
+        ]
+      },
+      {
+        "title": "Improving the Precision of Abstract Interpretation Based Cache Persistence Analysis.",
+        "authors": [
+          "Zhenkai Zhang",
+          "Xenofon D. Koutsoukos"
+        ]
+      },
+      {
+        "title": "Implementation-Aware Model Analysis: The Case of Buffer-Throughput Tradeoff in Streaming Applications.",
+        "authors": [
+          "Kamyar Mirzazad Barijough",
+          "Matin Hashemi",
+          "Volodymyr Khibin",
+          "Soheil Ghiasi"
+        ]
+      },
+      {
+        "title": "Secure and Durable (SEDURA): An Integrated Encryption and Wear-leveling Framework for PCM-based Main Memory.",
+        "authors": [
+          "Chen Liu",
+          "Chengmo Yang"
+        ]
+      },
+      {
+        "title": "Semantics Driven Hardware Design, Implementation, and Verification with ReWire.",
+        "authors": [
+          "Adam M. Procter",
+          "William L. Harrison",
+          "Ian Graves",
+          "Michela Becchi",
+          "Gerard Allwein"
+        ]
+      },
+      {
+        "title": "TrilobiteG: A programming architecture for autonomous underwater vehicles.",
+        "authors": [
+          "Hans Christian Woithe",
+          "Ulrich Kremer"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2014.html": {
+    "header": "LCTES 2014: Edinburgh, UK",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Energy efficient data access techniques.",
+        "authors": [
+          "David B. Whalley"
+        ]
+      },
+      {
+        "title": "Efficient code generation in a region-based dynamic binary translator.",
+        "authors": [
+          "Tom Spink",
+          "Harry Wagstaff",
+          "Björn Franke",
+          "Nigel P. Topham"
+        ]
+      },
+      {
+        "title": "CASM: optimized compilation of abstract state machines.",
+        "authors": [
+          "Roland Lezuo",
+          "Philipp Paulweber",
+          "Andreas Krall"
+        ]
+      },
+      {
+        "title": "Combinatorial spill code optimization and ultimate coalescing.",
+        "authors": [
+          "Roberto Castañeda Lozano",
+          "Mats Carlsson",
+          "Gabriel Hjort Blindell",
+          "Christian Schulte"
+        ]
+      },
+      {
+        "title": "Cache-related preemption delay analysis for FIFO caches.",
+        "authors": [
+          "Clément Ballabriga",
+          "Lee Kee Chong",
+          "Abhik Roychoudhury"
+        ]
+      },
+      {
+        "title": "How to compute worst-case execution time by optimization modulo theory and a clever encoding of program semantics.",
+        "authors": [
+          "Julien Henry",
+          "Mihail Asavoae",
+          "David Monniaux",
+          "Claire Maiza"
+        ]
+      },
+      {
+        "title": "WCET: aware dynamic instruction cache locking.",
+        "authors": [
+          "Wenguang Zheng",
+          "Hui Wu"
+        ]
+      },
+      {
+        "title": "Exploration of compiler optimization sequences using clustering-based selection.",
+        "authors": [
+          "Luiz G. A. Martins",
+          "Ricardo Nobre",
+          "Alexandre C. B. Delbem",
+          "Eduardo Marques",
+          "João M. P. Cardoso"
+        ]
+      },
+      {
+        "title": "Partitioning data-parallel programs for heterogeneous MPSoCs: time and energy design space exploration.",
+        "authors": [
+          "Kiran Chandramohan",
+          "Michael F. P. O'Boyle"
+        ]
+      },
+      {
+        "title": "Energy efficient data access and storage through HW/SW co-design.",
+        "authors": [
+          "Minyi Guo"
+        ]
+      },
+      {
+        "title": "Exploiting function similarity for code size reduction.",
+        "authors": [
+          "Tobias J. K. Edler von Koch",
+          "Björn Franke",
+          "Pranav Bhandarkar",
+          "Anshuman Dasgupta"
+        ]
+      },
+      {
+        "title": "ASAC: automatic sensitivity analysis for approximate computing.",
+        "authors": [
+          "Pooja Roy",
+          "Rajarshi Ray",
+          "Chundong Wang",
+          "Weng-Fai Wong"
+        ]
+      },
+      {
+        "title": "em-SPADE: a compiler extension for checking rules extracted from processor specifications.",
+        "authors": [
+          "Sandeep Chaudhary",
+          "Sebastian Fischmeister",
+          "Lin Tan"
+        ]
+      },
+      {
+        "title": "VOBLA: a vehicle for optimized basic linear algebra.",
+        "authors": [
+          "Ulysse Beaugnon",
+          "Alexey Kravets",
+          "Sven van Haastregt",
+          "Riyadh Baghdadi",
+          "David Tweed",
+          "Javed Absar",
+          "Anton Lokhmotov"
+        ]
+      },
+      {
+        "title": "A framework to schedule parametric dataflow applications on many-core platforms.",
+        "authors": [
+          "Vagelis Bebelis",
+          "Pascal Fradet",
+          "Alain Girault"
+        ]
+      },
+      {
+        "title": "Improving performance of loops on DIAM-based VLIW architectures.",
+        "authors": [
+          "Jinyong Lee",
+          "Jongwon Lee",
+          "Jongeun Lee",
+          "Yunheung Paek"
+        ]
+      },
+      {
+        "title": "Superoptimization of memory subsystems.",
+        "authors": [
+          "Joseph G. Wingbermuehle",
+          "Ron K. Cytron",
+          "Roger D. Chamberlain"
+        ]
+      },
+      {
+        "title": "Lightweight and block-level concurrent sweeping for javascript garbage collection.",
+        "authors": [
+          "Hongjune Kim",
+          "Seonmyeong Bak",
+          "Jaejin Lee"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2013.html": {
+    "header": "LCTES 2013: Seattle, WA, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "HW/SW co-designed acceleration of dynamic languages.",
+        "authors": [
+          "Youfeng Wu"
+        ]
+      },
+      {
+        "title": "Low cost control flow protection using abstract control signatures.",
+        "authors": [
+          "Daya Shanker Khudia",
+          "Scott A. Mahlke"
+        ]
+      },
+      {
+        "title": "Boosting efficiency of fault detection and recovery throughapplication-specific comparison and checkpointing.",
+        "authors": [
+          "Hao Chen",
+          "Chengmo Yang"
+        ]
+      },
+      {
+        "title": "A JVM for soft-error-prone embedded systems.",
+        "authors": [
+          "Isabella Stilkerich",
+          "Michael Strotz",
+          "Christoph Erhardt",
+          "Martin Hoffmann",
+          "Daniel Lohmann",
+          "Fabian Scheler",
+          "Wolfgang Schröder-Preikschat"
+        ]
+      },
+      {
+        "title": "Improving processor efficiency by statically pipelining instructions.",
+        "authors": [
+          "Ian Finlayson",
+          "Brandon Davis",
+          "Peter Gavin",
+          "Gang-Ryung Uh",
+          "David B. Whalley",
+          "Magnus Själander",
+          "Gary S. Tyson"
+        ]
+      },
+      {
+        "title": "LUCAS: latency-adaptive unified cluster assignment and instruction scheduling.",
+        "authors": [
+          "Vasileios Porpodas",
+          "Marcelo Cintra"
+        ]
+      },
+      {
+        "title": "Practical speculative parallelization of variable-length decompression algorithms.",
+        "authors": [
+          "Hakbeom Jang",
+          "Channoh Kim",
+          "Jae W. Lee"
+        ]
+      },
+      {
+        "title": "Program performance spectrum.",
+        "authors": [
+          "Sudipta Chattopadhyay",
+          "Lee Kee Chong",
+          "Abhik Roychoudhury"
+        ]
+      },
+      {
+        "title": "Non-intrusive program tracing and debugging of deployed embedded systems through side-channel analysis.",
+        "authors": [
+          "Carlos Moreno",
+          "Sebastian Fischmeister",
+          "M. Anwar Hasan"
+        ]
+      },
+      {
+        "title": "The role of C in the dark ages of multi-core.",
+        "authors": [
+          "Marcel Beemster"
+        ]
+      },
+      {
+        "title": "FTL2: a hybrid flash translation layer with logging for write reduction in flash memory.",
+        "authors": [
+          "Tianzheng Wang",
+          "Duo Liu",
+          "Yi Wang",
+          "Zili Shao"
+        ]
+      },
+      {
+        "title": "Compiler directed write-mode selection for high performance low power volatile PCM.",
+        "authors": [
+          "Qing'an Li",
+          "Lei Jiang",
+          "Youtao Zhang",
+          "Yanxiang He",
+          "Chun Jason Xue"
+        ]
+      },
+      {
+        "title": "BLog: block-level log-block management for NAND flash memorystorage systems.",
+        "authors": [
+          "Yong Guan",
+          "Guohui Wang",
+          "Yi Wang",
+          "Renhai Chen",
+          "Zili Shao"
+        ]
+      },
+      {
+        "title": "A two-step optimization technique for functions placement, partitioning, and priority assignment in distributed systems.",
+        "authors": [
+          "Asma Mehiaoui",
+          "Ernest Wozniak",
+          "Sara Tucci Piergiovanni",
+          "Chokri Mraidha",
+          "Marco Di Natale",
+          "Haibo Zeng",
+          "Jean-Philippe Babau",
+          "Laurent Lemarchand",
+          "Sébastien Gérard"
+        ]
+      },
+      {
+        "title": "Buffer minimization in earliest-deadline first scheduling of dataflow graphs.",
+        "authors": [
+          "Adnan Bouakaz",
+          "Jean-Pierre Talpin"
+        ]
+      },
+      {
+        "title": "Automatic dataflow model extraction from modal real-time stream processing applications.",
+        "authors": [
+          "Stefan J. Geuns",
+          "Joost P. H. M. Hausmans",
+          "Marco Jan Gerrit Bekooij"
+        ]
+      },
+      {
+        "title": "Portable mapping of openMP to multicore embedded systems using MCA APIs.",
+        "authors": [
+          "Cheng Wang",
+          "Sunita Chandrasekaran",
+          "Peng Sun",
+          "Barbara M. Chapman",
+          "Jim Holt"
+        ]
+      },
+      {
+        "title": "Combined WCET analysis of bitcode and machine code using control-flow relation graphs.",
+        "authors": [
+          "Benedikt Huber",
+          "Daniel Prokesch",
+          "Peter P. Puschner"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2012.html": {
+    "header": "LCTES 2012: Beijing, China",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "Rethinking Java call stack design for tiny embedded devices.",
+        "authors": [
+          "Faisal Aslam",
+          "Ghufran Baig",
+          "Mubashir Adnan Qureshi",
+          "Zartash Afzal Uzmi",
+          "Luminous Fennell",
+          "Peter Thiemann",
+          "Christian Schindelhauer",
+          "Elmar Haussmann"
+        ]
+      },
+      {
+        "title": "Lightweight generics in embedded systems through static analysis.",
+        "authors": [
+          "Olivier Sallenave",
+          "Roland Ducournau"
+        ]
+      },
+      {
+        "title": "Efficiently parallelizing instruction set simulation of embedded multi-core processors using region-based just-in-time dynamic binary translation.",
+        "authors": [
+          "Stephen C. Kyle",
+          "Igor Böhm",
+          "Björn Franke",
+          "Hugh Leather",
+          "Nigel P. Topham"
+        ]
+      },
+      {
+        "title": "WCET-aware re-scheduling register allocation for real-time embedded systems with clustered VLIW architecture.",
+        "authors": [
+          "Yazhi Huang",
+          "Mengying Zhao",
+          "Chun Jason Xue"
+        ]
+      },
+      {
+        "title": "WCET-aware data selection and allocation for scratchpad memory.",
+        "authors": [
+          "Qing Wan",
+          "Hui Wu",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "A modular memory optimization for synchronous data-flow languages: application to arrays in a lustre compiler.",
+        "authors": [
+          "Léonard Gérard",
+          "Adrien Guatto",
+          "Cédric Pasteur",
+          "Marc Pouzet"
+        ]
+      },
+      {
+        "title": "Mapping a data-flow programming model onto heterogeneous platforms.",
+        "authors": [
+          "Alina Simion Sbîrlea",
+          "Yi Zou",
+          "Zoran Budimlic",
+          "Jason Cong",
+          "Vivek Sarkar"
+        ]
+      },
+      {
+        "title": "FORMLESS: scalable utilization of embedded manycores in streaming applications.",
+        "authors": [
+          "Matin Hashemi",
+          "Mohammad H. Foroozannejad",
+          "Soheil Ghiasi",
+          "Christoph Etzel"
+        ]
+      },
+      {
+        "title": "Profile-guided deployment of stream programs on multicores.",
+        "authors": [
+          "Sardar M. Farhad",
+          "Yousun Ko",
+          "Bernd Burgstaller",
+          "Bernhard Scholz"
+        ]
+      },
+      {
+        "title": "Improving dynamic prediction accuracy through multi-level phase analysis.",
+        "authors": [
+          "Zhenman Fang",
+          "Jiaxin Li",
+          "Weihua Zhang",
+          "Yi Li",
+          "Haibo Chen",
+          "Binyu Zang"
+        ]
+      },
+      {
+        "title": "Efficient soft error protection for commodity embedded microprocessors using profile information.",
+        "authors": [
+          "Daya Shanker Khudia",
+          "Griffin Wright",
+          "Scott A. Mahlke"
+        ]
+      },
+      {
+        "title": "Compiler-assisted preferred caching for embedded systems with STT-RAM based hybrid cache.",
+        "authors": [
+          "Qing'an Li",
+          "Mengying Zhao",
+          "Chun Jason Xue",
+          "Yanxiang He"
+        ]
+      },
+      {
+        "title": "\"Smart\" design space sampling to predict Pareto-optimal solutions.",
+        "authors": [
+          "Marcela Zuluaga",
+          "Andreas Krause",
+          "Peter A. Milder",
+          "Markus Püschel"
+        ]
+      },
+      {
+        "title": "An operational semantics for Simulink's simulation engine.",
+        "authors": [
+          "Olivier Bouissou",
+          "Alexandre Chapoutot"
+        ]
+      },
+      {
+        "title": "Symbolic consistency checking of OpenMp parallel programs.",
+        "authors": [
+          "Fang Yu",
+          "Shun-Ching Yang",
+          "Farn Wang",
+          "Guan-Cheng Chen",
+          "Che-Chang Chan"
+        ]
+      },
+      {
+        "title": "Creating portable, repeatable, realistic benchmarks for embedded systems and the challenges thereof.",
+        "authors": [
+          "Shay Gal-On",
+          "Markus Levy"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2011.html": {
+    "header": "LCTES 2011: Chicago, IL, USA",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "Scheduling of stream-based real-time applications for heterogeneous systems.",
+        "authors": [
+          "Bruno Virlet",
+          "Xing Zhou",
+          "Jean Pierre Giacalone",
+          "Bob Kuhn",
+          "María Jesús Garzarán",
+          "David A. Padua"
+        ]
+      },
+      {
+        "title": "Static bus schedule aware scratchpad allocation in multiprocessors.",
+        "authors": [
+          "Sudipta Chattopadhyay",
+          "Abhik Roychoudhury"
+        ]
+      },
+      {
+        "title": "Task-level analysis for a language with async/finish parallelism.",
+        "authors": [
+          "Elvira Albert",
+          "Puri Arenas",
+          "Samir Genaim",
+          "Damiano Zanardini"
+        ]
+      },
+      {
+        "title": "A low-cost wear-leveling algorithm for block-mapping solid-state disks.",
+        "authors": [
+          "Li-Pin Chang",
+          "Li-Chun Huang"
+        ]
+      },
+      {
+        "title": "An approach to improving the structure of error-handling code in the linux kernel.",
+        "authors": [
+          "Suman Saha",
+          "Julia Lawall",
+          "Gilles Muller"
+        ]
+      },
+      {
+        "title": "Targeting complex embedded architectures by combining the multicore communications API (mcapi) with compile-time virtualisation.",
+        "authors": [
+          "Ian Gray",
+          "Neil C. Audsley"
+        ]
+      },
+      {
+        "title": "Divide and recycle: types and compilation for a hybrid synchronous language.",
+        "authors": [
+          "Albert Benveniste",
+          "Timothy Bourke",
+          "Benoît Caillaud",
+          "Marc Pouzet"
+        ]
+      },
+      {
+        "title": "Static analysis of synchronous programs in signal for efficient design of multi-clocked embedded systems.",
+        "authors": [
+          "Abdoulaye Gamatié",
+          "Laure Gonnord"
+        ]
+      },
+      {
+        "title": "Synchronous programming of device drivers for global resource control in embedded operating systems.",
+        "authors": [
+          "Nicolas Berthier",
+          "Florence Maraninchi",
+          "Laurent Mounier"
+        ]
+      },
+      {
+        "title": "Dependence-based multi-level tracing and replay for wireless sensor networks debugging.",
+        "authors": [
+          "Man Wang",
+          "Zhiyuan Li",
+          "Feng Li",
+          "Xiaobing Feng",
+          "Saurabh Bagchi",
+          "Yung-Hsiang Lu"
+        ]
+      },
+      {
+        "title": "Lowering overhead in sampling-based execution monitoring and tracing.",
+        "authors": [
+          "Johnson J. Thomas",
+          "Sebastian Fischmeister",
+          "Deepak Kumar"
+        ]
+      },
+      {
+        "title": "Software debugging and testing using the abstract diagnosis theory.",
+        "authors": [
+          "Samaneh Navabpour",
+          "Borzoo Bonakdarpour",
+          "Sebastian Fischmeister"
+        ]
+      },
+      {
+        "title": "Cache persistence analysis: a novel approachtheory and practice.",
+        "authors": [
+          "Christoph Cullmann"
+        ]
+      },
+      {
+        "title": "Predictable task migration for locked caches in multi-core systems.",
+        "authors": [
+          "Abhik Sarkar",
+          "Frank Mueller",
+          "Harini Ramaprasad"
+        ]
+      },
+      {
+        "title": "Precise and efficient parametric path analysis.",
+        "authors": [
+          "Ernst Althaus",
+          "Sebastian Altmeyer",
+          "Rouven Naujoks"
+        ]
+      },
+      {
+        "title": "An instruction-scheduling-aware data partitioning technique for coarse-grained reconfigurable architectures.",
+        "authors": [
+          "Choonki Jang",
+          "Jungwon Kim",
+          "Jaejin Lee",
+          "Hee-Seok Kim",
+          "Donghoon Yoo",
+          "Sukjin Kim",
+          "Hongseok Kim",
+          "Soojung Ryu"
+        ]
+      },
+      {
+        "title": "Global productiveness propagation: a code optimization technique to speculatively prune useless narrow computations.",
+        "authors": [
+          "Indu Bhagat",
+          "Enric Gibert",
+          "F. Jesús Sánchez",
+          "Antonio González"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2010.html": {
+    "header": "LCTES 2010: Stockholm, Sweden",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Analysis and approximation for bank selection instruction minimization on partitioned memory architecture.",
+        "authors": [
+          "Minming Li",
+          "Chun Jason Xue",
+          "Tiantian Liu",
+          "Yingchao Zhao"
+        ]
+      },
+      {
+        "title": "Versatile system-level memory-aware platform description approach for embedded MPSoCs.",
+        "authors": [
+          "Robert Pyka",
+          "Felipe Klein",
+          "Peter Marwedel",
+          "Stylianos Mamagkakis"
+        ]
+      },
+      {
+        "title": "Operation and data mapping for CGRAs with multi-bank memory.",
+        "authors": [
+          "Yongjoo Kim",
+          "Jongeun Lee",
+          "Aviral Shrivastava",
+          "Yunheung Paek"
+        ]
+      },
+      {
+        "title": "Look into details: the benefits of fine-grain streaming buffer analysis.",
+        "authors": [
+          "Mohammad H. Foroozannejad",
+          "Matin Hashemi",
+          "Trevor L. Hodges",
+          "Soheil Ghiasi"
+        ]
+      },
+      {
+        "title": "Modeling structured event streams in system level performance analysis.",
+        "authors": [
+          "Simon Perathoner",
+          "Tobias Rein",
+          "Lothar Thiele",
+          "Kai Lampka",
+          "Jonas Rox"
+        ]
+      },
+      {
+        "title": "Translating concurrent action oriented specifications to synchronous guarded actions.",
+        "authors": [
+          "Jens Brandt",
+          "Klaus Schneider",
+          "Sandeep K. Shukla"
+        ]
+      },
+      {
+        "title": "Contracts for modular discrete controller synthesis.",
+        "authors": [
+          "Gwenaël Delaval",
+          "Hervé Marchand",
+          "Éric Rutten"
+        ]
+      },
+      {
+        "title": "Semi-automatic derivation of timing models for WCET analysis.",
+        "authors": [
+          "Marc Schlickling",
+          "Markus Pister"
+        ]
+      },
+      {
+        "title": "Design exploration and automatic generation of MPSoC platform TLMs from Kahn Process Network applications.",
+        "authors": [
+          "Ines Viskic",
+          "Lochi Yu",
+          "Daniel Gajski"
+        ]
+      },
+      {
+        "title": "Compiler directed network-on-chip reliability enhancement for chip multiprocessors.",
+        "authors": [
+          "Ozcan Ozturk",
+          "Mahmut T. Kandemir",
+          "Mary Jane Irwin",
+          "Sri Hari Krishna Narayanan"
+        ]
+      },
+      {
+        "title": "Improving both the performance benefits and speed of optimization phase sequence searches.",
+        "authors": [
+          "Prasad A. Kulkarni",
+          "Michael R. Jantz",
+          "David B. Whalley"
+        ]
+      },
+      {
+        "title": "An efficient code update scheme for DSP applications in mobile embedded systems.",
+        "authors": [
+          "Weijia Li",
+          "Youtao Zhang"
+        ]
+      },
+      {
+        "title": "Elastic computing: a framework for transparent, portable, and adaptive multi-core heterogeneous computing.",
+        "authors": [
+          "John Robert Wernsing",
+          "Greg Stitt"
+        ]
+      },
+      {
+        "title": "Integrating safety analysis into the model-based development toolchain of automotive embedded systems.",
+        "authors": [
+          "Matthias Biehl",
+          "De-Jiu Chen",
+          "Martin Törngren"
+        ]
+      },
+      {
+        "title": "Sampling-based program execution monitoring.",
+        "authors": [
+          "Sebastian Fischmeister",
+          "Yanmeng Ba"
+        ]
+      },
+      {
+        "title": "Cache vulnerability equations for protecting data in embedded processor caches from soft errors.",
+        "authors": [
+          "Aviral Shrivastava",
+          "Jongeun Lee",
+          "Reiley Jeyapaul"
+        ]
+      },
+      {
+        "title": "Resilience analysis: tightening the CRPD bound for set-associative caches.",
+        "authors": [
+          "Sebastian Altmeyer",
+          "Claire Maiza",
+          "Jan Reineke"
+        ]
+      },
+      {
+        "title": "RNFTL: a reuse-aware NAND flash translation layer for flash memory.",
+        "authors": [
+          "Yi Wang",
+          "Duo Liu",
+          "Meng Wang",
+          "Zhiwei Qin",
+          "Zili Shao",
+          "Yong Guan"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2009.html": {
+    "header": "LCTES 2009: Dublin, Ireland",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Modulo scheduling without overlapped lifetimes.",
+        "authors": [
+          "Eric Stotzer",
+          "Ernst L. Leiss"
+        ]
+      },
+      {
+        "title": "Synchronous objects with scheduling policies: introducing safe shared memory in lustre.",
+        "authors": [
+          "Paul Caspi",
+          "Jean-Louis Colaço",
+          "Léonard Gérard",
+          "Marc Pouzet",
+          "Pascal Raymond"
+        ]
+      },
+      {
+        "title": "Recurrence cycle aware modulo scheduling for coarse-grained reconfigurable architectures.",
+        "authors": [
+          "Taewook Oh",
+          "Bernhard Egger",
+          "Hyunchul Park",
+          "Scott A. Mahlke"
+        ]
+      },
+      {
+        "title": "PTIDES on flexible task graph: real-time embedded systembuilding from theory to practice.",
+        "authors": [
+          "Jia Zou",
+          "Joshua S. Auerbach",
+          "David F. Bacon",
+          "Edward A. Lee"
+        ]
+      },
+      {
+        "title": "A compiler optimization to reduce soft errors in register files.",
+        "authors": [
+          "Jongeun Lee",
+          "Aviral Shrivastava"
+        ]
+      },
+      {
+        "title": "Raced profiles: efficient selection of competing compiler optimizations.",
+        "authors": [
+          "Hugh Leather",
+          "Michael F. P. O'Boyle",
+          "Bruce Worton"
+        ]
+      },
+      {
+        "title": "Eliminating the call stack to save RAM.",
+        "authors": [
+          "Xuejun Yang",
+          "Nathan Cooprider",
+          "John Regehr"
+        ]
+      },
+      {
+        "title": "Live-range unsplitting for faster optimal coalescing.",
+        "authors": [
+          "Sandrine Blazy",
+          "Benoît Robillard"
+        ]
+      },
+      {
+        "title": "Push-assisted migration of real-time tasks in multi-core processors.",
+        "authors": [
+          "Abhik Sarkar",
+          "Frank Mueller",
+          "Harini Ramaprasad",
+          "Sibin Mohan"
+        ]
+      },
+      {
+        "title": "Software transactional memory for multicore embedded systems.",
+        "authors": [
+          "Jennifer Mankin",
+          "David R. Kaeli",
+          "John Ardini"
+        ]
+      },
+      {
+        "title": "Synergistic execution of stream programs on multicores with accelerators.",
+        "authors": [
+          "Abhishek Udupa",
+          "R. Govindarajan",
+          "Matthew J. Thazhuthaveetil"
+        ]
+      },
+      {
+        "title": "Towards device emulation code generation.",
+        "authors": [
+          "Thomas Heinz",
+          "Reinhard Wilhelm"
+        ]
+      },
+      {
+        "title": "Guaranteeing instruction fetch behavior with a lookahead instruction fetch engine (LIFE).",
+        "authors": [
+          "Stephen Roderick Hines",
+          "Yuval Peress",
+          "Peter Gavin",
+          "David B. Whalley",
+          "Gary S. Tyson"
+        ]
+      },
+      {
+        "title": "Debugging FPGA-based packet processing systems through transaction-level communication-centric monitoring.",
+        "authors": [
+          "Paul Edward McKechnie",
+          "Michaela Blott",
+          "Wim Vanderbauwhede"
+        ]
+      },
+      {
+        "title": "Tracing interrupts in embedded software.",
+        "authors": [
+          "Giovani Gracioli",
+          "Sebastian Fischmeister"
+        ]
+      },
+      {
+        "title": "Addressing the challenges of DBT for the ARM architecture.",
+        "authors": [
+          "Ryan W. Moore",
+          "José Baiocchi",
+          "Bruce R. Childers",
+          "Jack W. Davidson",
+          "Jason Hiser"
+        ]
+      },
+      {
+        "title": "Integrating hardware and software information flow analyses.",
+        "authors": [
+          "Colin J. Fidge",
+          "Diane Corney"
+        ]
+      },
+      {
+        "title": "Specification and verification of time requirements with CCSL and Esterel.",
+        "authors": [
+          "Charles André",
+          "Frédéric Mallet"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2008.html": {
+    "header": "LCTES 2008: Tucson, AZ, USA",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Flexible task graphs: a unified restricted thread programming model for java.",
+        "authors": [
+          "Joshua S. Auerbach",
+          "David F. Bacon",
+          "Rachid Guerraoui",
+          "Jesper Honig Spring",
+          "Jan Vitek"
+        ]
+      },
+      {
+        "title": "Enhanced hot spot detection heuristics for embedded java just-in-time compilers.",
+        "authors": [
+          "Seong-Won Lee",
+          "Soo-Mook Moon",
+          "Seong-Moo Kim"
+        ]
+      },
+      {
+        "title": "Impact of JVM superoperators on energy consumption in resource-constrained embedded systems.",
+        "authors": [
+          "Carmen Badea",
+          "Alexandru Nicolau",
+          "Alexander V. Veidenbaum"
+        ]
+      },
+      {
+        "title": "Generalized instruction selection using SSA-graphs.",
+        "authors": [
+          "Dietmar Ebner",
+          "Florian Brandner",
+          "Bernhard Scholz",
+          "Andreas Krall",
+          "Peter Wiedermann",
+          "Albrecht Kadlec"
+        ]
+      },
+      {
+        "title": "Compiler driven data layout optimization for regular/irregular array access patterns.",
+        "authors": [
+          "Doosan Cho",
+          "Sudeep Pasricha",
+          "Ilya Issenin",
+          "Nikil D. Dutt",
+          "Yunheung Paek",
+          "SunJun Ko"
+        ]
+      },
+      {
+        "title": "Relative competitive analysis of cache replacement policies.",
+        "authors": [
+          "Jan Reineke",
+          "Daniel Grund"
+        ]
+      },
+      {
+        "title": "Robust and sustainable schedulability analysis of embedded software.",
+        "authors": [
+          "Madhukar Anand",
+          "Insup Lee"
+        ]
+      },
+      {
+        "title": "Improving performance and reducing energy-delay with adaptive resource resizing for out-of-order embedded processors.",
+        "authors": [
+          "Houman Homayoun",
+          "Sudeep Pasricha",
+          "Mohammad A. Makhzan",
+          "Alexander V. Veidenbaum"
+        ]
+      },
+      {
+        "title": "A domain specific interconnect for reconfigurable computing.",
+        "authors": [
+          "Sanjay V. Rajopadhye",
+          "Gautam Gupta",
+          "Lakshminarayanan Renganarayanan"
+        ]
+      },
+      {
+        "title": "FaCSim: a fast and cycle-accurate architecture simulator for embedded systems.",
+        "authors": [
+          "Jaejin Lee",
+          "Junghyun Kim",
+          "Choonki Jang",
+          "Seungkyun Kim",
+          "Bernhard Egger",
+          "Kwangsub Kim",
+          "Sangyong Han"
+        ]
+      },
+      {
+        "title": "A type system for the automatic distribution of higher-order synchronous dataflow programs.",
+        "authors": [
+          "Gwenaël Delaval",
+          "Alain Girault",
+          "Marc Pouzet"
+        ]
+      },
+      {
+        "title": "EventScript: an event-processing language based on regular expressions with actions.",
+        "authors": [
+          "Norman H. Cohen",
+          "Karl Trygve Kalleberg"
+        ]
+      },
+      {
+        "title": "Clock-directed modular code generation for synchronous data-flow languages.",
+        "authors": [
+          "Dariusz Biernacki",
+          "Jean-Louis Colaço",
+          "Grégoire Hamon",
+          "Marc Pouzet"
+        ]
+      },
+      {
+        "title": "Design and evaluation of a compiler for embedded stream programs.",
+        "authors": [
+          "Ryan Newton",
+          "Lewis Girod",
+          "Michael B. Craig",
+          "Samuel Madden",
+          "J. Gregory Morrisett"
+        ]
+      },
+      {
+        "title": "Post-pass periodic register allocation to minimise loop unrolling degree.",
+        "authors": [
+          "Mounira Bachir",
+          "Sid Ahmed Ali Touati",
+          "Albert Cohen"
+        ]
+      },
+      {
+        "title": "Placement-and-routing-based register allocation for coarse-grained reconfigurable arrays.",
+        "authors": [
+          "Bjorn De Sutter",
+          "Paul Coene",
+          "Tom Vander Aa",
+          "Bingfeng Mei"
+        ]
+      },
+      {
+        "title": "Optimizing scientific application loops on stream processors.",
+        "authors": [
+          "Li Wang",
+          "Xuejun Yang",
+          "Jingling Xue",
+          "Yu Deng",
+          "Xiaobo Yan",
+          "Tao Tang",
+          "Quan Hoang Nguyen"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2007.html": {
+    "header": "LCTES 2007: San Diego, California, USA",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "A type system for preventing data races and deadlocks in the java virtual machine language: 1.",
+        "authors": [
+          "Pratibha Permandla",
+          "Michael Roberson",
+          "Chandrasekhar Boyapati"
+        ]
+      },
+      {
+        "title": "Automated fault localization with statistically suspicious program states.",
+        "authors": [
+          "Tai-Yi Huang",
+          "Pin-Chuan Chou",
+          "Cheng-Han Tsai",
+          "Hsin-An Chen"
+        ]
+      },
+      {
+        "title": "Frequency-aware energy optimization for real-time periodic and aperiodic tasks.",
+        "authors": [
+          "Xiliang Zhong",
+          "Cheng-Zhong Xu"
+        ]
+      },
+      {
+        "title": "DVSleak: combining leakage reduction and voltage scaling in feedback EDF scheduling.",
+        "authors": [
+          "Yifan Zhu",
+          "Frank Mueller"
+        ]
+      },
+      {
+        "title": "Integrated CPU and l2 cache voltage scaling using machine learning.",
+        "authors": [
+          "Nevine AbouGhazaleh",
+          "Alexandre Peixoto Ferreira",
+          "Cosmin Rusu",
+          "Ruibin Xu",
+          "Frank Liberato",
+          "Bruce R. Childers",
+          "Daniel Mossé",
+          "Rami G. Melhem"
+        ]
+      },
+      {
+        "title": "Java takes flight: time-portable real-time programming with exotasks.",
+        "authors": [
+          "Joshua S. Auerbach",
+          "David F. Bacon",
+          "Daniel T. Iercan",
+          "Christoph M. Kirsch",
+          "V. T. Rajan",
+          "Harald Röck",
+          "Rainer Trummer"
+        ]
+      },
+      {
+        "title": "Java client ahead-of-time compiler for embedded systems.",
+        "authors": [
+          "SungHyun Hong",
+          "Jin-Chul Kim",
+          "Jin Woo Shin",
+          "Soo-Mook Moon",
+          "Hyeong-Seok Oh",
+          "Jaemok Lee",
+          "Hyung-Kyu Choi"
+        ]
+      },
+      {
+        "title": "Bee+Cl@k: an implementation of lattice-based array contraction in the source-to-source translator rose.",
+        "authors": [
+          "Christophe Alias",
+          "Fabrice Baray",
+          "Alain Darte"
+        ]
+      },
+      {
+        "title": "Combining source-to-source transformations and processor instruction set extensions for the automated design-space exploration of embedded systems.",
+        "authors": [
+          "Richard Vincent Bennett",
+          "Alastair Colin Murray",
+          "Björn Franke",
+          "Nigel P. Topham"
+        ]
+      },
+      {
+        "title": "Optimistic coalescing for heterogeneous register architectures.",
+        "authors": [
+          "Minwook Ahn",
+          "Jooyeon Lee",
+          "Yunheung Paek"
+        ]
+      },
+      {
+        "title": "On the complexity of spill everywhere under SSA form.",
+        "authors": [
+          "Florent Bouchez",
+          "Alain Darte",
+          "Fabrice Rastello"
+        ]
+      },
+      {
+        "title": "Tetris: a new register pressure control technique for VLIW processors.",
+        "authors": [
+          "Weifeng Xu",
+          "Russell Tessier"
+        ]
+      },
+      {
+        "title": "Hierarchical real-time garbage collection.",
+        "authors": [
+          "Filip Pizlo",
+          "Antony L. Hosking",
+          "Jan Vitek"
+        ]
+      },
+      {
+        "title": "Issues and challenges in compiling for the CBEA.",
+        "authors": [
+          "Kathryn M. O'Brien"
+        ]
+      },
+      {
+        "title": "Safe worst-case execution time analysis by abstract interpretation of executable code.",
+        "authors": [
+          "Daniel Kästner"
+        ]
+      },
+      {
+        "title": "Enabling seamless mobility: an enablers, experiences and tools perspective.",
+        "authors": [
+          "Jonathan Engelsma"
+        ]
+      },
+      {
+        "title": "Joint throughput and energy optimization for pipelined execution of embedded streaming applications.",
+        "authors": [
+          "Po-Kuan Huang",
+          "Matin Hashemi",
+          "Soheil Ghiasi"
+        ]
+      },
+      {
+        "title": "Interface synthesis for heterogeneous multi-core systems from transaction level models.",
+        "authors": [
+          "Hansu Cho",
+          "Samar Abdi",
+          "Daniel Gajski"
+        ]
+      },
+      {
+        "title": "Automatic generation of embedded communication SW for heterogeneous MPSoC platforms.",
+        "authors": [
+          "Ines Viskic",
+          "Samar Abdi",
+          "Daniel D. Gajski"
+        ]
+      },
+      {
+        "title": "Enabling compiler flow for embedded VLIW DSP processors with distributed register files.",
+        "authors": [
+          "Chung-Kai Chen",
+          "Ling-Hua Tseng",
+          "Shih-Chang Chen",
+          "Young-Jia Lin",
+          "Yi-Ping You",
+          "Chia-Han Lu",
+          "Jenq Kuen Lee"
+        ]
+      },
+      {
+        "title": "Analyzing the real-time behaviour of deeply embedded event driven systems.",
+        "authors": [
+          "Karsten Walther",
+          "René Herzog",
+          "Jörg Nolte"
+        ]
+      },
+      {
+        "title": "Generalizing parametric timing analysis.",
+        "authors": [
+          "Joel Coffman",
+          "Christopher A. Healy",
+          "Frank Mueller",
+          "David B. Whalley"
+        ]
+      },
+      {
+        "title": "Compiler-directed application mapping for NoC based chip multiprocessors.",
+        "authors": [
+          "Guangyu Chen",
+          "Feihui Li",
+          "Mahmut T. Kandemir"
+        ]
+      },
+      {
+        "title": "Stream execution on wide-issue clustered VLIW architectures.",
+        "authors": [
+          "Shan Yan",
+          "Bill Lin"
+        ]
+      },
+      {
+        "title": "Code and data partitioning for fine-grain parallelism.",
+        "authors": [
+          "Michael L. Chu",
+          "Scott A. Mahlke"
+        ]
+      },
+      {
+        "title": "Addressing instruction fetch bottlenecks by using an instruction register file.",
+        "authors": [
+          "Stephen Roderick Hines",
+          "Gary S. Tyson",
+          "David B. Whalley"
+        ]
+      },
+      {
+        "title": "WCET analysis of instruction caches with prefetching.",
+        "authors": [
+          "Jun Yan",
+          "Wei Zhang"
+        ]
+      },
+      {
+        "title": "External memory page remapping for embedded multimedia systems.",
+        "authors": [
+          "Ke Ning",
+          "David R. Kaeli"
+        ]
+      },
+      {
+        "title": "Dynamic data scratchpad memory management for a memory subsystem with an MMU.",
+        "authors": [
+          "Hyungmin Cho",
+          "Bernhard Egger",
+          "Jaejin Lee",
+          "Heonshik Shin"
+        ]
+      },
+      {
+        "title": "Scratchpad allocation for data aggregates in superperfect graphs.",
+        "authors": [
+          "Lian Li",
+          "Quan Hoang Nguyen",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "SWL: a search-while-load demand paging scheme with NAND flash memory.",
+        "authors": [
+          "Jihyun In",
+          "Ilhoon Shin",
+          "Hyojun Kim"
+        ]
+      },
+      {
+        "title": "Optimizing software cache performance of packet processing applications.",
+        "authors": [
+          "Qin Wang",
+          "Junpu Chen",
+          "Weihua Zhang",
+          "Min Yang",
+          "Binyu Zang"
+        ]
+      },
+      {
+        "title": "Compiler-managed partitioned data caches for low power.",
+        "authors": [
+          "Rajiv A. Ravindran",
+          "Michael L. Chu",
+          "Scott A. Mahlke"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2006.html": {
+    "header": "LCTES 2006: Ottawa, Ontario, Canada",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "Embedded systems in the wild: ZebraNet software, hardware, and deployment experiences.",
+        "authors": [
+          "Margaret Martonosi"
+        ]
+      },
+      {
+        "title": "Feedback linking: optimizing object code layout for updates.",
+        "authors": [
+          "Carl von Platen",
+          "Johan Eker"
+        ]
+      },
+      {
+        "title": "Minimizing downtime in seamless migrations of mobile applications.",
+        "authors": [
+          "Kun Zhang",
+          "Santosh Pande"
+        ]
+      },
+      {
+        "title": "Storing a persistent transactional object heap on flash memory.",
+        "authors": [
+          "Michal Spivak",
+          "Sivan Toledo"
+        ]
+      },
+      {
+        "title": "Deriving abstract transfer functions for analyzing embedded software.",
+        "authors": [
+          "John Regehr",
+          "Usit Duongsaa"
+        ]
+      },
+      {
+        "title": "Pluggable abstract domains for analyzing embedded software.",
+        "authors": [
+          "Nathan Cooprider",
+          "John Regehr"
+        ]
+      },
+      {
+        "title": "Field-sensitive value analysis of embedded C programs with union types and pointer arithmetics.",
+        "authors": [
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Reducing the cost of conditional transfers of control by using comparison specifications.",
+        "authors": [
+          "William C. Kreahling",
+          "Stephen Hines",
+          "David B. Whalley",
+          "Gary S. Tyson"
+        ]
+      },
+      {
+        "title": "Effective thread management on network processors with compiler analysis.",
+        "authors": [
+          "Xiaotong Zhuang",
+          "Santosh Pande"
+        ]
+      },
+      {
+        "title": "In search of near-optimal optimization phase orderings.",
+        "authors": [
+          "Prasad A. Kulkarni",
+          "David B. Whalley",
+          "Gary S. Tyson",
+          "Jack W. Davidson"
+        ]
+      },
+      {
+        "title": "An EDF schedulability test for periodic tasks on reconfigurable hardware devices.",
+        "authors": [
+          "Klaus Danne",
+          "Marco Platzner"
+        ]
+      },
+      {
+        "title": "Faster WCET flow analysis by program slicing.",
+        "authors": [
+          "Christer Sandberg",
+          "Andreas Ermedahl",
+          "Jan Gustafsson",
+          "Björn Lisper"
+        ]
+      },
+      {
+        "title": "Synthesizing safe state machines from Esterel.",
+        "authors": [
+          "Steffen Prochnow",
+          "Claus Traulsen",
+          "Reinhard von Hanxleden"
+        ]
+      },
+      {
+        "title": "Efficient code generation from SHIM models.",
+        "authors": [
+          "Stephen A. Edwards",
+          "Olivier Tardieu"
+        ]
+      },
+      {
+        "title": "Generating optimized code from SCR specifications.",
+        "authors": [
+          "Tom Rothamel",
+          "Yanhong A. Liu",
+          "Constance L. Heitmeyer",
+          "Elizabeth I. Leonard"
+        ]
+      },
+      {
+        "title": "Effective compiler generation by architecture description.",
+        "authors": [
+          "Stefan Farfeleder",
+          "Andreas Krall",
+          "Edwin Steiner",
+          "Florian Brandner"
+        ]
+      },
+      {
+        "title": "Procrastination for leakage-aware rate-monotonic scheduling on a dynamic voltage scaling processor.",
+        "authors": [
+          "Jian-Jia Chen",
+          "Tei-Wei Kuo"
+        ]
+      },
+      {
+        "title": "Compiler-directed thermal management for VLIW functional units.",
+        "authors": [
+          "Madhu Mutyam",
+          "Feihui Li",
+          "Narayanan Vijaykrishnan",
+          "Mahmut T. Kandemir",
+          "Mary Jane Irwin"
+        ]
+      },
+      {
+        "title": "Bypass aware instruction scheduling for register file power reduction.",
+        "authors": [
+          "Sanghyun Park",
+          "Aviral Shrivastava",
+          "Nikil D. Dutt",
+          "Alexandru Nicolau",
+          "Yunheung Paek",
+          "Eugene Earlie"
+        ]
+      },
+      {
+        "title": "Area and delay estimation for FPGA implementation of coarse-grained reconfigurable architectures.",
+        "authors": [
+          "Leipo Yan",
+          "Thambipillai Srikanthan",
+          "Niu Gang"
+        ]
+      },
+      {
+        "title": "BOTS: a constraint-based component system for synthesizing scalable software systems.",
+        "authors": [
+          "Raju Pandey",
+          "Jeffrey Wu"
+        ]
+      },
+      {
+        "title": "Optimizing compiler for shared-memory multiple SIMD architecture.",
+        "authors": [
+          "Weihua Zhang",
+          "Xinglong Qian",
+          "Ye Wang",
+          "Binyu Zang",
+          "Chuanqi Zhu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2005.html": {
+    "header": "LCTES 2005: Chicago, IL, USA",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "Energy-efficient policies for embedded clusters.",
+        "authors": [
+          "Ruibin Xu",
+          "Dakai Zhu",
+          "Cosmin Rusu",
+          "Rami G. Melhem",
+          "Daniel Mossé"
+        ]
+      },
+      {
+        "title": "Efficient application migration under compiler guidance.",
+        "authors": [
+          "Kun Zhang",
+          "Santosh Pande"
+        ]
+      },
+      {
+        "title": "Composable code generation for distributed giotto.",
+        "authors": [
+          "Thomas A. Henzinger",
+          "Christoph M. Kirsch",
+          "Slobodan Matic"
+        ]
+      },
+      {
+        "title": "Transparent distribution of real-time components based on logical execution time.",
+        "authors": [
+          "Emilia Farcas",
+          "Claudiu Farcas",
+          "Wolfgang Pree",
+          "Josef Templ"
+        ]
+      },
+      {
+        "title": "Software design patterns for TinyOS.",
+        "authors": [
+          "David Gay",
+          "Philip Alexander Levis",
+          "David E. Culler"
+        ]
+      },
+      {
+        "title": "Preventing interrupt overload.",
+        "authors": [
+          "John Regehr",
+          "Usit Duongsaa"
+        ]
+      },
+      {
+        "title": "Nonintrusive precision instrumentation of microcontroller software.",
+        "authors": [
+          "Ben L. Titzer",
+          "Jens Palsberg"
+        ]
+      },
+      {
+        "title": "ACME: adaptive compilation made efficient.",
+        "authors": [
+          "Keith D. Cooper",
+          "Alexander Grosul",
+          "Timothy J. Harvey",
+          "Steven W. Reeves",
+          "Devika Subramanian",
+          "Linda Torczon",
+          "Todd Waterman"
+        ]
+      },
+      {
+        "title": "Probabilistic source-level optimisation of embedded programs.",
+        "authors": [
+          "Björn Franke",
+          "Michael F. P. O'Boyle",
+          "John Thomson",
+          "Grigori Fursin"
+        ]
+      },
+      {
+        "title": "On the design of the local variable cache in a hardware translation-based java virtual machine.",
+        "authors": [
+          "Hitoshi Oi"
+        ]
+      },
+      {
+        "title": "System-wide compaction and specialization of the linux kernel.",
+        "authors": [
+          "Dominique Chanet",
+          "Bjorn De Sutter",
+          "Bruno De Bus",
+          "Ludo Van Put",
+          "Koen De Bosschere"
+        ]
+      },
+      {
+        "title": "A dictionary construction technique for code compression systems with echo instructions.",
+        "authors": [
+          "Philip Brisk",
+          "Jamie Macbeth",
+          "Ani Nahapetian",
+          "Majid Sarrafzadeh"
+        ]
+      },
+      {
+        "title": "Cache aware optimization of stream programs.",
+        "authors": [
+          "Janis Sermulins",
+          "William Thies",
+          "Rodric M. Rabbah",
+          "Saman P. Amarasinghe"
+        ]
+      },
+      {
+        "title": "Static strands: safely collapsing dependence chains for increasing embedded power efficiency.",
+        "authors": [
+          "Peter G. Sassone",
+          "D. Scott Wills",
+          "Gabriel H. Loh"
+        ]
+      },
+      {
+        "title": "Complementing software pipelining with software thread integration.",
+        "authors": [
+          "Won So",
+          "Alexander G. Dean"
+        ]
+      },
+      {
+        "title": "Generation of permutations for SIMD processors.",
+        "authors": [
+          "Alexei Kudriavtsev",
+          "Peter M. Kogge"
+        ]
+      },
+      {
+        "title": "Scalable precision cache analysis for preemptive scheduling.",
+        "authors": [
+          "Jan Staschulat",
+          "Rolf Ernst"
+        ]
+      },
+      {
+        "title": "A sample-based cache mapping scheme.",
+        "authors": [
+          "Rong Xu",
+          "Zhiyuan Li"
+        ]
+      },
+      {
+        "title": "WCRT analysis for a uniprocessor with a unified prioritized cache.",
+        "authors": [
+          "Yudong Tan",
+          "Vincent John Mooney III"
+        ]
+      },
+      {
+        "title": "Syncopation: generational real-time garbage collection in the metronome.",
+        "authors": [
+          "David F. Bacon",
+          "Perry Cheng",
+          "David Grove",
+          "Martin T. Vechev"
+        ]
+      },
+      {
+        "title": "Static determination of allocation rates to support real-time garbage collection.",
+        "authors": [
+          "Tobias Mann",
+          "Morgan Deters",
+          "Rob LeGrand",
+          "Ron Cytron"
+        ]
+      },
+      {
+        "title": "Feedback EDF scheduling exploiting hardware-assisted asynchronous dynamic voltage scaling.",
+        "authors": [
+          "Yifan Zhu",
+          "Frank Mueller"
+        ]
+      },
+      {
+        "title": "Compiling for memory emergency.",
+        "authors": [
+          "Mahmut T. Kandemir",
+          "Guangyu Chen",
+          "Ismail Kadayif"
+        ]
+      },
+      {
+        "title": "Upper bound for defragmenting buddy heaps.",
+        "authors": [
+          "Delvin C. Defoe",
+          "Sharath R. Cholleti",
+          "Ron Cytron"
+        ]
+      },
+      {
+        "title": "An energy efficient garbage collector for java embedded devices.",
+        "authors": [
+          "Paul A. Griffin",
+          "Witawas Srisa-an",
+          "J. Morris Chang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2004.html": {
+    "header": "LCTES 2004: Washington, DC, USA",
+    "year": "2004",
+    "papers": [
+      {
+        "title": "GraalBench: a 3D graphics benchmark suite for mobile phones.",
+        "authors": [
+          "Iosif Antochi",
+          "Ben H. H. Juurlink",
+          "Stamatis Vassiliadis",
+          "Petri Liuha"
+        ]
+      },
+      {
+        "title": "Modeling and simulating electronic textile applications.",
+        "authors": [
+          "Thomas Martin",
+          "Mark T. Jones",
+          "Joshua Nathaniel Edmison",
+          "Tanwir Sheikh",
+          "Zahi Nakad"
+        ]
+      },
+      {
+        "title": "Spinach: a liberty-based simulator for programmable network interface architectures.",
+        "authors": [
+          "Paul Willmann",
+          "Michael Brogioli",
+          "Vijay S. Pai"
+        ]
+      },
+      {
+        "title": "NDL: a domain-specific language for device drivers.",
+        "authors": [
+          "Christopher L. Conway",
+          "Stephen A. Edwards"
+        ]
+      },
+      {
+        "title": "Asynchronous software thread integration for efficient software.",
+        "authors": [
+          "Nagendra J. Kumar",
+          "Siddhartha Shivshankar",
+          "Alexander G. Dean"
+        ]
+      },
+      {
+        "title": "A formal concurrency model based architecture description language for synthesis of software development tools.",
+        "authors": [
+          "Wei Qin",
+          "Subramanian Rajagopalan",
+          "Sharad Malik"
+        ]
+      },
+      {
+        "title": "Procrastination scheduling in fixed priority real-time systems.",
+        "authors": [
+          "Ravindra Jejurikar",
+          "Rajesh K. Gupta"
+        ]
+      },
+      {
+        "title": "Power-efficient prefetching via bit-differential offset assignment on embedded processors.",
+        "authors": [
+          "Xiaotong Zhuang",
+          "Santosh Pande"
+        ]
+      },
+      {
+        "title": "Speculative software management of datapath-width for energy optimization.",
+        "authors": [
+          "Gilles Pokam",
+          "Olivier Rochecouste",
+          "André Seznec",
+          "François Bodin"
+        ]
+      },
+      {
+        "title": "Dynamic voltage scaling for real-time multi-task scheduling using buffers.",
+        "authors": [
+          "Chaeseok Im",
+          "Soonhoi Ha"
+        ]
+      },
+      {
+        "title": "A trace-based binary compilation framework for energy-aware computing.",
+        "authors": [
+          "Lian Li",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "ESys.Net: a new solution for embedded systems modeling and simulation.",
+        "authors": [
+          "James Lapalme",
+          "El Mostapha Aboulhamid",
+          "Gabriela Nicolescu",
+          "Luc Charest",
+          "François R. Boyer",
+          "J. P. David",
+          "Guy Bois"
+        ]
+      },
+      {
+        "title": "XTREM: a power simulator for the Intel XScale® core.",
+        "authors": [
+          "Gilberto Contreras",
+          "Margaret Martonosi",
+          "Jinzhan Peng",
+          "Roy Ju",
+          "Guei-Yuan Lueh"
+        ]
+      },
+      {
+        "title": "Feedback driven instruction-set extension.",
+        "authors": [
+          "Uwe Kastens",
+          "Dinh Khoi Le",
+          "Adrian Slowik",
+          "Michael Thies"
+        ]
+      },
+      {
+        "title": "Compositional static instruction cache simulation.",
+        "authors": [
+          "Kaustubh Patil",
+          "Kiran Seth",
+          "Frank Mueller"
+        ]
+      },
+      {
+        "title": "Measuring the cache interference cost in preemptive real-time systems.",
+        "authors": [
+          "Johan Stärner",
+          "Lars Asplund"
+        ]
+      },
+      {
+        "title": "Adaptive code unloading for resource-constrained JVMs.",
+        "authors": [
+          "Lingli Zhang",
+          "Chandra Krintz"
+        ]
+      },
+      {
+        "title": "Advanced control flow in Java card programming.",
+        "authors": [
+          "Peng Li",
+          "Steve Zdancewic"
+        ]
+      },
+      {
+        "title": "Generating fast code from concurrent program dependence graphs.",
+        "authors": [
+          "Jia Zeng",
+          "Cristian Soviani",
+          "Stephen A. Edwards"
+        ]
+      },
+      {
+        "title": "EMBARC: an efficient memory bank assignment algorithm for retargetable compilers.",
+        "authors": [
+          "Jason Hiser",
+          "Jack W. Davidson"
+        ]
+      },
+      {
+        "title": "Hardware-managed register allocation for embedded processors.",
+        "authors": [
+          "Xiaotong Zhuang",
+          "Tao Zhang",
+          "Santosh Pande"
+        ]
+      },
+      {
+        "title": "A retargetable register allocation framework for embedded processors.",
+        "authors": [
+          "Jean-Marc Daveau",
+          "Thomas Thery",
+          "Thierry Lepley",
+          "Miguel Santana"
+        ]
+      },
+      {
+        "title": "Link-time optimization of ARM binaries.",
+        "authors": [
+          "Bruno De Bus",
+          "Bjorn De Sutter",
+          "Ludo Van Put",
+          "Dominique Chanet",
+          "Koen De Bosschere"
+        ]
+      },
+      {
+        "title": "Optimizing for space and time usage with speculative partial redundancy elimination.",
+        "authors": [
+          "Bernhard Scholz",
+          "R. Nigel Horspool",
+          "Jens Knoop"
+        ]
+      },
+      {
+        "title": "Finding effective compilation sequences.",
+        "authors": [
+          "L. Almagor",
+          "Keith D. Cooper",
+          "Alexander Grosul",
+          "Timothy J. Harvey",
+          "Steven W. Reeves",
+          "Devika Subramanian",
+          "Linda Torczon",
+          "Todd Waterman"
+        ]
+      },
+      {
+        "title": "Code protection for resource-constrained embedded devices.",
+        "authors": [
+          "Hendra Saputra",
+          "Guangyu Chen",
+          "Richard R. Brooks",
+          "Narayanan Vijaykrishnan",
+          "Mahmut T. Kandemir",
+          "Mary Jane Irwin"
+        ]
+      },
+      {
+        "title": "Input data reuse in compiling window operations onto reconfigurable hardware.",
+        "authors": [
+          "Zhi Guo",
+          "Betul Buyukkurt",
+          "Walid A. Najjar"
+        ]
+      },
+      {
+        "title": "Flattening statecharts without explosions.",
+        "authors": [
+          "Andrzej Wasowski"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2003.html": {
+    "header": "LCTES 2003: San Diego, CA, USA",
+    "year": "2003",
+    "papers": [
+      {
+        "title": "Predicting the impact of optimizations for embedded systems.",
+        "authors": [
+          "Min Zhao",
+          "Bruce R. Childers",
+          "Mary Lou Soffa"
+        ]
+      },
+      {
+        "title": "Finding effective optimization phase sequences.",
+        "authors": [
+          "Prasad A. Kulkarni",
+          "Wankang Zhao",
+          "Hwashin Moon",
+          "Kyunghwan Cho",
+          "David B. Whalley",
+          "Jack W. Davidson",
+          "Mark W. Bailey",
+          "Yunheung Paek",
+          "Kyle A. Gallivan"
+        ]
+      },
+      {
+        "title": "Advanced copy propagation for arrays.",
+        "authors": [
+          "Peter Vanbroekhoven",
+          "Henk Corporaal",
+          "Francky Catthoor"
+        ]
+      },
+      {
+        "title": "A java virtual machine architecture for very small devices.",
+        "authors": [
+          "Nik Shaylor",
+          "Douglas N. Simon",
+          "William R. Bush"
+        ]
+      },
+      {
+        "title": "Compiling java for low-end embedded systems.",
+        "authors": [
+          "Ulrik Pagh Schultz",
+          "Kim Burgaard",
+          "Flemming Gram Christensen",
+          "Jørgen Lindskov Knudsen"
+        ]
+      },
+      {
+        "title": "Efficient memory-reference checks for real-time java.",
+        "authors": [
+          "Angelo Corsaro",
+          "Ron Cytron"
+        ]
+      },
+      {
+        "title": "Data size optimizations for java programs.",
+        "authors": [
+          "C. Scott Ananian",
+          "Martin C. Rinard"
+        ]
+      },
+      {
+        "title": "Memory safety without runtime checks or garbage collection.",
+        "authors": [
+          "Dinakar Dhurjati",
+          "Sumant Kowshik",
+          "Vikram S. Adve",
+          "Chris Lattner"
+        ]
+      },
+      {
+        "title": "Controlling fragmentation and space consumption in the metronome, a real-time garbage collector for Java.",
+        "authors": [
+          "David F. Bacon",
+          "Perry Cheng",
+          "V. T. Rajan"
+        ]
+      },
+      {
+        "title": "Time-triggered garbage collection: robust and adaptive real-time GC scheduling for embedded systems.",
+        "authors": [
+          "Sven Gestegard Robertz",
+          "Roger Henriksson"
+        ]
+      },
+      {
+        "title": "Phased scheduling of stream programs.",
+        "authors": [
+          "Michal Karczmarek",
+          "William Thies",
+          "Saman P. Amarasinghe"
+        ]
+      },
+      {
+        "title": "Schedulability-driven frame packing for multi-cluster distributed embedded systems.",
+        "authors": [
+          "Paul Pop",
+          "Petru Eles",
+          "Zebo Peng"
+        ]
+      },
+      {
+        "title": "Robustness analysis of avionics embedded systems.",
+        "authors": [
+          "Yamine Aït Ameur",
+          "Gérard Bel",
+          "Frédéric Boniol",
+          "S. Pairault",
+          "Virginie Wiels"
+        ]
+      },
+      {
+        "title": "Time weaver: a software-through-models framework for embedded real-time systems.",
+        "authors": [
+          "Dionisio de Niz",
+          "Raj Rajkumar"
+        ]
+      },
+      {
+        "title": "Transport layer abstraction in event channels for embedded systems.",
+        "authors": [
+          "Ravi Pratap",
+          "Ron Cytron",
+          "David C. Sharp",
+          "Edward Pla"
+        ]
+      },
+      {
+        "title": "From simulink to SCADE/lustre to TTA: a layered approach for distributed embedded applications.",
+        "authors": [
+          "Paul Caspi",
+          "Adrian Curic",
+          "Aude Maignan",
+          "Christos Sofronis",
+          "Stavros Tripakis",
+          "Peter Niebert"
+        ]
+      },
+      {
+        "title": "On efficient program synthesis from statecharts.",
+        "authors": [
+          "Andrzej Wasowski"
+        ]
+      },
+      {
+        "title": "Generating embedded software from hierarchical hybrid models.",
+        "authors": [
+          "Rajeev Alur",
+          "Franjo Ivancic",
+          "Jesung Kim",
+          "Insup Lee",
+          "Oleg Sokolsky"
+        ]
+      },
+      {
+        "title": "An algorithm for mapping loops onto coarse-grained reconfigurable architectures.",
+        "authors": [
+          "Jong-eun Lee",
+          "Kiyoung Choi",
+          "Nikil D. Dutt"
+        ]
+      },
+      {
+        "title": "Profiling tools for hardware/software partitioning of embedded applications.",
+        "authors": [
+          "Dinesh C. Suresh",
+          "Walid A. Najjar",
+          "Frank Vahid",
+          "Jason R. Villarreal",
+          "Greg Stitt"
+        ]
+      },
+      {
+        "title": "A graph covering algorithm for a coarse grain reconfigurable system.",
+        "authors": [
+          "Yuanqing Guo",
+          "Gerard J. M. Smit",
+          "Hajo Broersma",
+          "Paul M. Heysters"
+        ]
+      },
+      {
+        "title": "Tamper-resistant whole program partitioning.",
+        "authors": [
+          "Tao Zhang",
+          "Santosh Pande",
+          "Antonio Valverde Garcia"
+        ]
+      },
+      {
+        "title": "Storage assignment optimizations through variable coalescence for embedded processors.",
+        "authors": [
+          "Xiaotong Zhuang",
+          "ChokSheak Lau",
+          "Santosh Pande"
+        ]
+      },
+      {
+        "title": "A DISE implementation of dynamic code decompression.",
+        "authors": [
+          "Marc L. Corliss",
+          "E. Christopher Lewis",
+          "Amir Roth"
+        ]
+      },
+      {
+        "title": "On the side-effects of code abstraction.",
+        "authors": [
+          "Bjorn De Sutter",
+          "Hans Vandierendonck",
+          "Bruno De Bus",
+          "Koenraad De Bosschere"
+        ]
+      },
+      {
+        "title": "Enhancing the performance of 16-bit code using augmenting instructions.",
+        "authors": [
+          "Arvind Krishnaswamy",
+          "Rajiv Gupta"
+        ]
+      },
+      {
+        "title": "Energy-balanced task allocation for collaborative processing in networked embedded systems.",
+        "authors": [
+          "Yang Yu",
+          "Viktor K. Prasanna"
+        ]
+      },
+      {
+        "title": "Adapting instruction level parallelism for optimizing leakage in VLIW architectures.",
+        "authors": [
+          "Hyun Suk Kim",
+          "Narayanan Vijaykrishnan",
+          "Mahmut T. Kandemir",
+          "Mary Jane Irwin"
+        ]
+      },
+      {
+        "title": "Energy management for real-time embedded applications with compiler support.",
+        "authors": [
+          "Nevine AbouGhazaleh",
+          "Bruce R. Childers",
+          "Daniel Mossé",
+          "Rami G. Melhem",
+          "Matthew Craven"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2002.html": {
+    "header": "LCTES-SCOPES 2002: Berlin, Germany",
+    "year": "2002",
+    "papers": [
+      {
+        "title": "Systems-on-chip needs for embedded software development: an industrial perspective.",
+        "authors": [
+          "Philippe Magarshack"
+        ]
+      },
+      {
+        "title": "Energy-conscious compilation based on voltage scaling.",
+        "authors": [
+          "Hendra Saputra",
+          "Mahmut T. Kandemir",
+          "Narayanan Vijaykrishnan",
+          "Mary Jane Irwin",
+          "Jie S. Hu",
+          "Chung-Hsing Hsu",
+          "Ulrich Kremer"
+        ]
+      },
+      {
+        "title": "Fractional rate dataflow model and efficient code synthesis for multimedia applications.",
+        "authors": [
+          "Hyunok Oh",
+          "Soonhoi Ha"
+        ]
+      },
+      {
+        "title": "Rapid design space exploration of heterogeneous embedded systems using symbolic search and multi-granular simulation.",
+        "authors": [
+          "Sumit Mohanty",
+          "Viktor K. Prasanna",
+          "Sandeep Neema",
+          "James R. Davis"
+        ]
+      },
+      {
+        "title": "Design space optimization of embedded memory systems via data remapping.",
+        "authors": [
+          "Krishna V. Palem",
+          "Rodric M. Rabbah",
+          "Vincent John Mooney",
+          "Pinar Korkmaz",
+          "Kiran Puttaswamy"
+        ]
+      },
+      {
+        "title": "Footprint and feature management using aspect-oriented programming techniques.",
+        "authors": [
+          "Frank Hunleth",
+          "Ron Cytron"
+        ]
+      },
+      {
+        "title": "Generic control flow reconstruction from assembly code.",
+        "authors": [
+          "Daniel Kästner",
+          "Stephan Wilhelm"
+        ]
+      },
+      {
+        "title": "Profile guided selection of ARM and thumb instructions.",
+        "authors": [
+          "Arvind Krishnaswamy",
+          "Rajiv Gupta"
+        ]
+      },
+      {
+        "title": "Standardization approach of ITRON debugging interface specification and evaluation of its adaptability.",
+        "authors": [
+          "Takayuki Wakabayashi",
+          "Hiroaki Takada"
+        ]
+      },
+      {
+        "title": "On systematic design of globally consistent executable assertions in embedded software.",
+        "authors": [
+          "Arshad Jhumka",
+          "Martin Hiller",
+          "Vilgot Claesson",
+          "Neeraj Suri"
+        ]
+      },
+      {
+        "title": "Automatic formal verification for scheduled VLIW code.",
+        "authors": [
+          "Xiushan Feng",
+          "Alan J. Hu"
+        ]
+      },
+      {
+        "title": "DSPs: why don't they just go away!.",
+        "authors": [
+          "Gerhard P. Fettweis"
+        ]
+      },
+      {
+        "title": "Energy aware compilation for DSPs with SIMD instructions.",
+        "authors": [
+          "Markus Lorenz",
+          "Lars Wehmeyer",
+          "Thorsten Dräger"
+        ]
+      },
+      {
+        "title": "Optimal integrated code generation for clustered VLIW architectures.",
+        "authors": [
+          "Christoph W. Keßler",
+          "Andrzej Bednarski"
+        ]
+      },
+      {
+        "title": "Loop fusion for clustered VLIW architectures.",
+        "authors": [
+          "Yi Qian",
+          "Steve Carr",
+          "Philip H. Sweany"
+        ]
+      },
+      {
+        "title": "Compiling with code-size constraints.",
+        "authors": [
+          "Mayur Naik",
+          "Jens Palsberg"
+        ]
+      },
+      {
+        "title": "Efficient register and memory assignment for non-orthogonal architectures via graph coloring and MST algorithms.",
+        "authors": [
+          "Jeonghun Cho",
+          "Yunheung Paek",
+          "David B. Whalley"
+        ]
+      },
+      {
+        "title": "Register allocation for irregular architectures.",
+        "authors": [
+          "Bernhard Scholz",
+          "Erik Eckstein"
+        ]
+      },
+      {
+        "title": "Inter-task register-allocation for static operating systems.",
+        "authors": [
+          "Volker Barthelmann"
+        ]
+      },
+      {
+        "title": "VISTA: a system for interactive code improvement.",
+        "authors": [
+          "Wankang Zhao",
+          "Baosheng Cai",
+          "David B. Whalley",
+          "Mark W. Bailey",
+          "Robert van Engelen",
+          "Xin Yuan",
+          "Jason Hiser",
+          "Jack W. Davidson",
+          "Kyle A. Gallivan",
+          "Douglas L. Jones"
+        ]
+      },
+      {
+        "title": "Compiler-directed cache polymorphism.",
+        "authors": [
+          "Jie S. Hu",
+          "Mahmut T. Kandemir",
+          "Narayanan Vijaykrishnan",
+          "Mary Jane Irwin",
+          "Hendra Saputra",
+          "Wei Zhang"
+        ]
+      },
+      {
+        "title": "Quick piping:  a fast, high-level model for describing processor pipelines.",
+        "authors": [
+          "Christopher W. Milner",
+          "Jack W. Davidson"
+        ]
+      },
+      {
+        "title": "Application specific compiler/architecture codesign: a case study.",
+        "authors": [
+          "Oliver Wahlen",
+          "Tilman Glökler",
+          "Achim Nohl",
+          "Andreas Hoffmann",
+          "Rainer Leupers",
+          "Heinrich Meyr"
+        ]
+      },
+      {
+        "title": "When to use a compilation service?",
+        "authors": [
+          "Jeffrey Palm",
+          "Han Bok Lee",
+          "Amer Diwan",
+          "J. Eliot B. Moss"
+        ]
+      },
+      {
+        "title": "Proxy compilation of dynamically loaded Java classes with MoJo.",
+        "authors": [
+          "Matt Newsome",
+          "Des Watson"
+        ]
+      },
+      {
+        "title": "Energy-conserving feedback EDF scheduling for embedded systems with real-time constraints.",
+        "authors": [
+          "Ajay Dudani",
+          "Frank Mueller",
+          "Yifan Zhu"
+        ]
+      },
+      {
+        "title": "Perfecting preemption threshold scheduling for object-oriented real-time system design: from the perspective of real-time synchronization.",
+        "authors": [
+          "Saehwa Kim",
+          "Seongsoo Hong",
+          "Tae-Hyung Kim"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2001.html": {
+    "header": "LCTES/OM 2001: Snowbird, Utah, USA",
+    "year": "2001",
+    "papers": [
+      {
+        "title": "An Accurate Instruction-Level Energy Consumption Model for Embedded RISC Processors.",
+        "authors": [
+          "Sheayun Lee",
+          "Andreas Ermedahl",
+          "Sang Lyul Min",
+          "Naehyuck Chang"
+        ]
+      },
+      {
+        "title": "Hybrid Run-time Power Management Technique for Real-time Embedded System with Voltage Scalable Processor.",
+        "authors": [
+          "Minyoung Kim",
+          "Soonhoi Ha"
+        ]
+      },
+      {
+        "title": "Power-Aware Design Synthesis Techniques for Distributed Real-Time Systems.",
+        "authors": [
+          "Dong-In Kang",
+          "Stephen P. Crago",
+          "Jinwoo Suh"
+        ]
+      },
+      {
+        "title": "Combining Global Code and Data Compaction.",
+        "authors": [
+          "Bjorn De Sutter",
+          "Bruno De Bus",
+          "Koenraad De Bosschere",
+          "Saumya K. Debray"
+        ]
+      },
+      {
+        "title": "Register Allocation for Banked Register File.",
+        "authors": [
+          "Jinpyo Park",
+          "Je-Hyung Lee",
+          "Soo-Mook Moon"
+        ]
+      },
+      {
+        "title": "Loop Transformations for Architectures with Partitioned Register Banks.",
+        "authors": [
+          "Xianglong Huang",
+          "Steve Carr",
+          "Philip H. Sweany"
+        ]
+      },
+      {
+        "title": "ENSEMBLE: A Communication Layer for Embedded Multi-Processor Systems.",
+        "authors": [
+          "Sidney Cadot",
+          "Frits Kuijlman",
+          "Koen Langendoen",
+          "Kees van Reeuwijk",
+          "Henk J. Sips"
+        ]
+      },
+      {
+        "title": "Embedded Control Systems Development with Giotto.",
+        "authors": [
+          "Thomas A. Henzinger",
+          "Benjamin Horowitz",
+          "Christoph M. Kirsch"
+        ]
+      },
+      {
+        "title": "A Tool for Simulation and Fast Prototyping of Embedded Control Systems.",
+        "authors": [
+          "Luigi Palopoli",
+          "Giuseppe Lipari",
+          "Luca Abeni",
+          "Marco Di Natale",
+          "Paolo Ancilotti",
+          "Fabio Conticelli"
+        ]
+      },
+      {
+        "title": "MILAN: A Model Based Integrated Simulation Framework for Desgin of Embedded Suystems.",
+        "authors": [
+          "Amol Bakshi",
+          "Viktor K. Prasanna",
+          "Ákos Lédeczi"
+        ]
+      },
+      {
+        "title": "Parametric Timing Analysis.",
+        "authors": [
+          "Emilio Vivancos",
+          "Christopher A. Healy",
+          "Frank Mueller",
+          "David B. Whalley"
+        ]
+      },
+      {
+        "title": "Interval-Based Analysis of Software Processes.",
+        "authors": [
+          "Dirk Ziegenbein",
+          "Fabian Wolf",
+          "Kai Richter",
+          "Marek Jersak",
+          "Rolf Ernst"
+        ]
+      },
+      {
+        "title": "Automatic Accurate Live Memory Analysis for Garbage-Collected Languages.",
+        "authors": [
+          "Leena Unnikrishnan",
+          "Scott D. Stoller",
+          "Yanhong A. Liu"
+        ]
+      },
+      {
+        "title": "Generating Decision Trees for Decoding Binaries.",
+        "authors": [
+          "Henrik Theiling"
+        ]
+      },
+      {
+        "title": "Dealing with Hardware in Embedded Software: A General Framework Based on the Devil Language.",
+        "authors": [
+          "Fabrice Mérillon",
+          "Gilles Muller"
+        ]
+      },
+      {
+        "title": "Morphable Cache Architectures: Potential Benefits.",
+        "authors": [
+          "Ismail Kadayif",
+          "Mahmut T. Kandemir",
+          "Narayanan Vijaykrishnan",
+          "Mary Jane Irwin",
+          "J. Ramanujam"
+        ]
+      },
+      {
+        "title": "Software Pipelining Irregular Loops on the TMS320C6000 VLIW DSP Architecture.",
+        "authors": [
+          "Elana D. Granston",
+          "Eric Stotzer",
+          "Joe Zbiciak"
+        ]
+      },
+      {
+        "title": "ILP-based Instruction Scheduling for IA-64.",
+        "authors": [
+          "Daniel Kästner",
+          "Sebastian Winkel"
+        ]
+      },
+      {
+        "title": "C Compiler Design for an Industrial Network Processor.",
+        "authors": [
+          "Jens Wagner",
+          "Rainer Leupers"
+        ]
+      },
+      {
+        "title": "A Dynamic Programming Approach to Optimal Integrated Code Generation.",
+        "authors": [
+          "Christoph W. Keßler",
+          "Andrzej Bednarski"
+        ]
+      },
+      {
+        "title": "Stuck in the Middle: Challenges and Trends in Optimizing Middleware.",
+        "authors": [
+          "Daniel M. Yellin"
+        ]
+      },
+      {
+        "title": "Optimizing Component Interaction.",
+        "authors": [
+          "Mark N. Wegman",
+          "Karin Högstedt",
+          "Doug Kimelman",
+          "V. T. Rajan",
+          "Tova Roth",
+          "Nan Wang"
+        ]
+      },
+      {
+        "title": "Using Cohort Scheduling to Enhance Server Performance (Extended Abstract).",
+        "authors": [
+          "James R. Larus",
+          "Michael Parkes"
+        ]
+      },
+      {
+        "title": "Middleware For Building Adaptive Systems Via Configuration.",
+        "authors": [
+          "Sanjai Narain",
+          "Ravichander Vaidyanathan",
+          "Stanley Moyer",
+          "William Stephens",
+          "Kirthika Parmeswaran",
+          "Abdul-Rahim Shareef"
+        ]
+      },
+      {
+        "title": "Designing and Optimizing a Scalable CORBA Notification Service.",
+        "authors": [
+          "Pradeep Gore",
+          "Ron Cytron",
+          "Douglas C. Schmidt",
+          "Carlos O'Ryan"
+        ]
+      },
+      {
+        "title": "Issues in the Design of Adaptive Middleware Load Balancing.",
+        "authors": [
+          "Ossama Othman",
+          "Douglas C. Schmidt"
+        ]
+      },
+      {
+        "title": "Evaluating and Optimizing Thread Pool Strategies for Real-Time CORBA.",
+        "authors": [
+          "Irfan Pyarali",
+          "Marina Spivak",
+          "Ron Cytron",
+          "Douglas C. Schmidt"
+        ]
+      },
+      {
+        "title": "Designing an Efficient and Scalable Server-side Asynchrony Model for CORBA.",
+        "authors": [
+          "Darrell Brunsch",
+          "Carlos O'Ryan",
+          "Douglas C. Schmidt"
+        ]
+      },
+      {
+        "title": "Integration of QoS-Enabled Distributed Object Computing Middleware for Developing Next-Generation Distributed Application.",
+        "authors": [
+          "Yamuna Krishnamurthy",
+          "Vishal Kachroo",
+          "David A. Karr",
+          "Craig Rodrigues",
+          "Joseph P. Loyall",
+          "Richard E. Schantz",
+          "Douglas C. Schmidt"
+        ]
+      },
+      {
+        "title": "Language and Compiler Support for Adaptive Distributed Applications.",
+        "authors": [
+          "Vikram S. Adve",
+          "Vinh Vi Lam",
+          "Brian Ensink"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes2000.html": {
+    "header": "LCTES 2000: Vancouver, BC, Canada",
+    "year": "2000",
+    "papers": [
+      {
+        "title": "Randomization-Based Approaches for Dynamic Priority Scheduling of Aperiodic Messages on a CAN Network.",
+        "authors": [
+          "Lucia Lo Bello",
+          "Orazio Mirabella"
+        ]
+      },
+      {
+        "title": "Complex Reactive Control with Simple Synchronous Models.",
+        "authors": [
+          "Reinhard Budde",
+          "Axel Poigné"
+        ]
+      },
+      {
+        "title": "Optimistic Secure Real-Time Concurrency Control Using Multiple Data Version.",
+        "authors": [
+          "Byeong-Soo Jeong",
+          "Daeho Kim",
+          "Sungyoung Lee"
+        ]
+      },
+      {
+        "title": "Array Reference Allocation Using SSA-Form and Live Range Growth.",
+        "authors": [
+          "Marcelo Silva Cintra",
+          "Guido Araujo"
+        ]
+      },
+      {
+        "title": "PROPAN: A Retargetable System for Postpass Optimisations and Analyses.",
+        "authors": [
+          "Daniel Kästner"
+        ]
+      },
+      {
+        "title": "A Framework for Enhancing Code Quality in Limited Register Set Embedded Processors.",
+        "authors": [
+          "Deepankar Bairagi",
+          "Santosh Pande",
+          "Dharma P. Agrawal"
+        ]
+      },
+      {
+        "title": "A Stochastic Framework for Co-synthesis of Real-Time Systems.",
+        "authors": [
+          "Shampa Chakraverty",
+          "C. P. Ravikumar"
+        ]
+      },
+      {
+        "title": "A Fault Tolerance Extension to the Embedded CORBA for the CAN Bus Systems.",
+        "authors": [
+          "Gwangil Jeon",
+          "Tae-Hyung Kim",
+          "Seongsoo Hong",
+          "Sunil Kim"
+        ]
+      },
+      {
+        "title": "A Real-Time Animator for Hybrid Systems.",
+        "authors": [
+          "Tobias Amnell",
+          "Alexandre David",
+          "Wang Yi"
+        ]
+      },
+      {
+        "title": "Reordering Memory Bus Transactions for Reduced Power Consumption.",
+        "authors": [
+          "Bruce R. Childers",
+          "Tarun Nakra"
+        ]
+      },
+      {
+        "title": "A Power Efficient Cache Structure for Embedded Processors Based on the Dual Cache Structure.",
+        "authors": [
+          "Gi-Ho Park",
+          "Kil-Whan Lee",
+          "Jae-Hyuk Lee",
+          "Tack-Don Han",
+          "Shin-Dug Kim"
+        ]
+      },
+      {
+        "title": "Approximation of Worst-Case Execution Time for Preemptive Multitasking Systems.",
+        "authors": [
+          "Matteo Corti",
+          "Roberto Brega",
+          "Thomas R. Gross"
+        ]
+      },
+      {
+        "title": "A Design and Implementation of a Remote Debugging Environment for Embedded Internet Software.",
+        "authors": [
+          "Kwangyong Lee",
+          "Chaedeok Lim",
+          "Kisok Kong",
+          "Heung-Nam Kim"
+        ]
+      },
+      {
+        "title": "Optimizing Code Size through Procedural Abstraction.",
+        "authors": [
+          "Johan Runeson",
+          "Sven-Olof Nyström",
+          "Jan Sjödin"
+        ]
+      },
+      {
+        "title": "Automatic Validation of Code-Improving Transformations.",
+        "authors": [
+          "Robert van Engelen",
+          "David B. Whalley",
+          "Xin Yuan"
+        ]
+      },
+      {
+        "title": "Towards Energy-Aware Iteration Space Tiling.",
+        "authors": [
+          "Mahmut T. Kandemir",
+          "Narayanan Vijaykrishnan",
+          "Mary Jane Irwin",
+          "Hyun Suk Kim"
+        ]
+      },
+      {
+        "title": "An Integrated Push/Pull Buffer Management Method in Multimedia Communication Environments.",
+        "authors": [
+          "Sungyoung Lee",
+          "Hyonwoo Seung",
+          "Taewoong Jeon"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes1999.html": {
+    "header": "LCTES 1999: Atlanta, Georgia, USA",
+    "year": "1999",
+    "papers": [
+      {
+        "title": "Optimizing for Reduced Code Space using Genetic Algorithms.",
+        "authors": [
+          "Keith D. Cooper",
+          "Philip J. Schielke",
+          "Devika Subramanian"
+        ]
+      },
+      {
+        "title": "Effective Exploitation of a Zero Overhead Loop Buffer.",
+        "authors": [
+          "Gang-Ryung Uh",
+          "Yuhong Wang",
+          "David B. Whalley",
+          "Sanjay Jinturkar",
+          "Chris Burns",
+          "Vincent Cao"
+        ]
+      },
+      {
+        "title": "Minimizing Cost of Local Variables Access for DSP-Processors.",
+        "authors": [
+          "Erik Eckstein",
+          "Andreas Krall"
+        ]
+      },
+      {
+        "title": "Modulo Scheduling for the TMS320C6x VLIW DSP Architecture.",
+        "authors": [
+          "Eric Stotzer",
+          "Ernst L. Leiss"
+        ]
+      },
+      {
+        "title": "Pipeline Behavior Prediction for Superscalar Processors by Abstract Interpretation.",
+        "authors": [
+          "Jörn Schneider",
+          "Christian Ferdinand"
+        ]
+      },
+      {
+        "title": "Live Memory Analysis for Garbage Collection in Embedded Systems.",
+        "authors": [
+          "Patrik Persson"
+        ]
+      },
+      {
+        "title": "Scheduling Garbage Collector for Embedded Real-Time Systems.",
+        "authors": [
+          "Taehyoun Kim",
+          "Naehyuck Chang",
+          "Namyun Kim",
+          "Heonshik Shin"
+        ]
+      },
+      {
+        "title": "Table-based QoS Control for Embedded Real-Time Systems.",
+        "authors": [
+          "Tomoyoshi Sugawara",
+          "Kosuke Tatsukawa"
+        ]
+      },
+      {
+        "title": "A Secure Dynamic Copy Protocol in Real-Time Secure Database Systems.",
+        "authors": [
+          "Sungyoung Lee",
+          "Byeong-Soo Jeong",
+          "Hyonwoo Seung"
+        ]
+      },
+      {
+        "title": "Performance Re-engineering of Embedded Real-Time Systems.",
+        "authors": [
+          "Minsoo Ryu",
+          "Jungkeun Park",
+          "Kimoon Kim",
+          "Yangmin Seo",
+          "Seongsoo Hong"
+        ]
+      },
+      {
+        "title": "A Software Synthesis Tool for Distributed Embedded System Design.",
+        "authors": [
+          "Dong-In Kang",
+          "Richard Gerber",
+          "Leana Golubchik",
+          "Jeffrey K. Hollingsworth",
+          "Manas Saksena"
+        ]
+      },
+      {
+        "title": "Why SpecInt95 Should Not Be Used to Benchmark Embedded Systems Tools.",
+        "authors": [
+          "Jakob Engblom"
+        ]
+      },
+      {
+        "title": "Issues and Challenges in Developing Embedded Software for Information Appliances and Telecommunication Terminals.",
+        "authors": [
+          "In Ryu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctes1998.html": {
+    "header": "LCTES 1998: Montreal, Canada",
+    "year": "1998",
+    "papers": [
+      {
+        "title": "Integrating Path and Timing Analysis Using Instruction-Level Simulation Techniques.",
+        "authors": [
+          "Thomas Lundqvist",
+          "Per Stenström"
+        ]
+      },
+      {
+        "title": "On Predicting Data Cache Behavior for Real-Time Systems.",
+        "authors": [
+          "Christian Ferdinand",
+          "Reinhard Wilhelm"
+        ]
+      },
+      {
+        "title": "Automatic Accurate Time-Bound Analysis for High-Level Languages.",
+        "authors": [
+          "Yanhong A. Liu",
+          "Gustavo Gomez"
+        ]
+      },
+      {
+        "title": "Extending RT-Linux to Support Flexible Hard Real-Time Systems with Optional Components.",
+        "authors": [
+          "Andrés Terrasa",
+          "Agustín Espinosa",
+          "Ana García-Fornes"
+        ]
+      },
+      {
+        "title": "Limited Preemptible Scheduling to Embrace Cache Memory in Real-Time Systems.",
+        "authors": [
+          "Sheayun Lee",
+          "Chang-Gun Lee",
+          "Minsuk Lee",
+          "Sang Lyul Min",
+          "Chong-Sang Kim"
+        ]
+      },
+      {
+        "title": "A Uniform Reliable Multicast Protocol with Guaranteed Response Times.",
+        "authors": [
+          "Laurent George",
+          "Pascale Minet"
+        ]
+      },
+      {
+        "title": "A Tool to Assist in Fine-Tuning and Debugging Embedded Real-Time Systems.",
+        "authors": [
+          "Gaurav Arora",
+          "David B. Stewart"
+        ]
+      },
+      {
+        "title": "Debugging Distributed Implementations of Modal Process Systems.",
+        "authors": [
+          "Ken Hines",
+          "Gaetano Borriello"
+        ]
+      },
+      {
+        "title": "Using InfernoTM to Execute JavaTM on Small Devices.",
+        "authors": [
+          "C. F. Yurkoski",
+          "L. R. Rau",
+          "Bruce K. Ellis"
+        ]
+      },
+      {
+        "title": "TurboJ, a Java Bytecode-to-Native Compiler.",
+        "authors": [
+          "Michael Weiss",
+          "François de Ferrière",
+          "Bertrand Delsart",
+          "Christian Fabre",
+          "Frederick Hirsch",
+          "E. Andrew Johnson",
+          "Vania Joloboff",
+          "Fred Roy",
+          "Fridtjof Siebert",
+          "Xavier Spengler"
+        ]
+      },
+      {
+        "title": "Cache-Sensitive Pre-runtime Scheduling.",
+        "authors": [
+          "Daniel Kästner",
+          "Stephan Thesing"
+        ]
+      },
+      {
+        "title": "Priority Assignment for Embedded Reactive Real-Time Systems.",
+        "authors": [
+          "Felice Balarin"
+        ]
+      },
+      {
+        "title": "Mapping an Embedded Hard Real-Time Systems SDL Specification to an Analyzable Task Network - A Case Study.",
+        "authors": [
+          "Thomas Kolloch",
+          "Georg Färber"
+        ]
+      },
+      {
+        "title": "Efficient User-Level I/O in the ARX Real-Time Operating System.",
+        "authors": [
+          "Yangmin Seo",
+          "Jungkeun Park",
+          "Seongsoo Hong"
+        ]
+      },
+      {
+        "title": "Machine Descriptions to Build Tools for Embedded Systems.",
+        "authors": [
+          "Norman Ramsey",
+          "Jack W. Davidson"
+        ]
+      },
+      {
+        "title": "Non-local Instruction Scheduling with Limited Code Growth.",
+        "authors": [
+          "Keith D. Cooper",
+          "Philip J. Schielke"
+        ]
+      },
+      {
+        "title": "An Efficient Data Partitioning Method for Limited Memory Embedded Systems.",
+        "authors": [
+          "Sundaram Anantharaman",
+          "Santosh Pande"
+        ]
+      },
+      {
+        "title": "A Design Environment for Counterflow Pipeline Synthesis.",
+        "authors": [
+          "Bruce R. Childers",
+          "Jack W. Davidson"
+        ]
+      },
+      {
+        "title": "End-to-End Optimization in Heterogeneous Distributed Real-Time Systems.",
+        "authors": [
+          "Seonho Choi"
+        ]
+      },
+      {
+        "title": "Using UML for Modeling Complex Real-Time Systems.",
+        "authors": [
+          "Bran Selic"
+        ]
+      },
+      {
+        "title": "Evaluating ASIC, DSP, and RISC Architectures for Embedded Applications.",
+        "authors": [
+          "Marc Campbell"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/lctrts/lctrts95.html": {
+    "header": "LCT-RTS 1995: La Jolla, California",
+    "year": "1995",
+    "papers": [
+      {
+        "title": "Predicting the Worst-Case Execution Time of the Concurrent Execution of Instructions and Cycle-Stealing DMA I/O Operations.",
+        "authors": [
+          "Tai-Yi Huang",
+          "Jane W.-S. Liu"
+        ]
+      },
+      {
+        "title": "Scheduling of Hard Aperiodic Tasks in Hybrid Static/Dynamic Priority Systems.",
+        "authors": [
+          "Jongwon Lee",
+          "Sungyoung Lee",
+          "Hyungill Kim"
+        ]
+      },
+      {
+        "title": "Worst-Case Execution Time Analysis on Modern Processors.",
+        "authors": [
+          "Kelvin D. Nilsen",
+          "Bernt Rygg"
+        ]
+      },
+      {
+        "title": "Re-usable Software Design for Programmable Logic Controllers.",
+        "authors": [
+          "Flavio Bonfatti",
+          "Gianni Gadda",
+          "Paola Daniela Monari"
+        ]
+      },
+      {
+        "title": "Language Constructs and Transformation for Hard Real-time Systems.",
+        "authors": [
+          "Tai M. Chung",
+          "Henry G. Dietz"
+        ]
+      },
+      {
+        "title": "RTsynchronizer: Language Support for Real-Time Specifications in Distributed Systems.",
+        "authors": [
+          "Shangping Ren",
+          "Gul Agha"
+        ]
+      },
+      {
+        "title": "Software Synthesis for Real-Time Information Processing Systems.",
+        "authors": [
+          "Filip Thoen",
+          "Marco Cornero",
+          "Gert Goossens",
+          "Hugo De Man"
+        ]
+      },
+      {
+        "title": "Verus: A Tool for Quantitative Analysis of Finite-State Real-Time Systems.",
+        "authors": [
+          "Sérgio Vale Aguiar Campos",
+          "Edmund M. Clarke",
+          "Wilfredo R. Marrero",
+          "Marius Minea"
+        ]
+      },
+      {
+        "title": "Static Timing Analysis of Real-Time Systems.",
+        "authors": [
+          "Muriel Jourdan",
+          "Florence Maraninchi"
+        ]
+      },
+      {
+        "title": "Performance Analysis of Embedded Software Using Implicit Path Enumeration.",
+        "authors": [
+          "Yau-Tsun Steven Li",
+          "Sharad Malik"
+        ]
+      },
+      {
+        "title": "Supporting User-Friendly Analysis of Timing Constraints.",
+        "authors": [
+          "Lo Ko",
+          "David B. Whalley",
+          "Marion G. Harmon"
+        ]
+      },
+      {
+        "title": "The Cluster Compiler - A Tool for the Design of Time-Triggered Real-Time Systems.",
+        "authors": [
+          "Hermann Kopetz",
+          "Roman Nossal"
+        ]
+      },
+      {
+        "title": "WindView: A Tool for Understanding Real-time Embedded Software Through System Visualization.",
+        "authors": [
+          "David N. Wilner"
+        ]
+      },
+      {
+        "title": "Appropriate Interfaces Between Design Tools, Languages, Compilers and Runtimes in Real-Time Systems (Panel).",
+        "authors": [
+          "Richard Gerber",
+          "Steven W. K. Tjiang",
+          "David B. Whalley",
+          "David N. Wilner",
+          "Michael Wolfe"
+        ]
+      },
+      {
+        "title": "Compiler Support for Software-Based Cache Partitioning.",
+        "authors": [
+          "Frank Mueller"
+        ]
+      },
+      {
+        "title": "Automatic Generation of Scheduling and Communication Code in Real-Time Parallel Programs.",
+        "authors": [
+          "André Bakkers",
+          "Johan Sunter",
+          "Evert Ploeg"
+        ]
+      },
+      {
+        "title": "The ControlShell Component-Based Real-Time Programming System, and its Application to the Marsokhod Martian Rover.",
+        "authors": [
+          "Stanley A. Schneider",
+          "Vincent W. Chen",
+          "Jay Steele",
+          "Gerardo Pardo-Castellote"
+        ]
+      }
+    ]
+  }
+}

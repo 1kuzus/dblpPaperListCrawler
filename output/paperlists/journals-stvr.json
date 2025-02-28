@@ -1,0 +1,5847 @@
+{
+  "https://dblp.org/db/journals/stvr/stvr34.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 34",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "Test case prioritization and mutation testing.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Semantic-aware two-phase test case prioritization for continuous integration.",
+        "authors": [
+          "Yingling Li",
+          "Ziao Wang",
+          "Junjie Wang",
+          "Jie Chen",
+          "Rui Mou",
+          "Guibing Li"
+        ]
+      },
+      {
+        "title": "Mutation testing optimisations using the Clang front-end.",
+        "authors": [
+          "Sten Vercammen",
+          "Serge Demeyer",
+          "Markus Borg",
+          "Niklas Pettersson",
+          "Görel Hedin"
+        ]
+      },
+      {
+        "title": "Bud hunting with directed fuzz testing and source code vulnerability detection with advanced graph neural networks.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "The progress, challenges, and perspectives of directed greybox fuzzing.",
+        "authors": [
+          "Pengfei Wang",
+          "Xu Zhou",
+          "Tai Yue",
+          "Peihong Lin",
+          "Yingying Liu",
+          "Kai Lu"
+        ]
+      },
+      {
+        "title": "Tensor-based gated graph neural network for automatic vulnerability detection in source code.",
+        "authors": [
+          "Jia Yang",
+          "Ou Ruan",
+          "JiXin Zhang"
+        ]
+      },
+      {
+        "title": "Test code evolution and mutation testing.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Towards automatically identifying the co-change of production and test code.",
+        "authors": [
+          "Yuan Huang",
+          "Zhicao Tang",
+          "Xiangping Chen",
+          "Xiaocong Zhou"
+        ]
+      },
+      {
+        "title": "A new perspective on the competent programmer hypothesis through the reproduction of real faults with repeated mutations.",
+        "authors": [
+          "Zaheed Ahmed",
+          "Eike Schwass",
+          "Steffen Herbold",
+          "Fabian Trautsch",
+          "Jens Grabowski"
+        ]
+      },
+      {
+        "title": "Investigating fault injection techniques in hardware-based deep neural networks and mutation-based fault localization.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Investigating the impact of transient hardware faults on deep learning neural network inference.",
+        "authors": [
+          "Md Hasanur Rahman",
+          "Sabuj Laskar",
+          "Guanpeng Li"
+        ]
+      },
+      {
+        "title": "Delta4Ms: Improving mutation-based fault localization by eliminating mutant bias.",
+        "authors": [
+          "Hengyuan Liu",
+          "Zheng Li",
+          "Baolong Han",
+          "Yangtao Liu",
+          "Xiang Chen",
+          "Yong Liu"
+        ]
+      },
+      {
+        "title": "Unsafe code detection in Rust and metamorphic testing of autonomous driving systems.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "SafeNet: Towards mitigating replaceable unsafe Rust code via a recommendation-based approach.",
+        "authors": [
+          "Yan Dong",
+          "Zhicong Zhang",
+          "Mohan Cui",
+          "Hui Xu"
+        ]
+      },
+      {
+        "title": "MetaSem: metamorphic testing based on semantic information of autonomous driving scenes.",
+        "authors": [
+          "Zhen Yang",
+          "Song Huang",
+          "Tongtong Bai",
+          "Yongming Yao",
+          "Yang Wang",
+          "Changyou Zheng",
+          "Chunyan Xia"
+        ]
+      },
+      {
+        "title": "Fault tolerance and metamorphic relation prediction.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Perception simplex: Verifiable collision avoidance in autonomous vehicles amidst obstacle detection faults.",
+        "authors": [
+          "Ayoosh Bansal",
+          "Hunmin Kim",
+          "Simon Yu",
+          "Bo Li",
+          "Naira Hovakimyan",
+          "Marco Caccamo",
+          "Lui Sha"
+        ]
+      },
+      {
+        "title": "Boosting Metamorphic Relation Prediction via Code Representation Learning: An Empirical Study.",
+        "authors": [
+          "Xuedan Zheng",
+          "Mingyue Jiang",
+          "Zhi Quan Zhou"
+        ]
+      },
+      {
+        "title": "Metamorphic Testing and Web Element Localization.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Boosting Multimode Ruling in DHR Architecture With Metamorphic Relations.",
+        "authors": [
+          "Ruosi Li",
+          "Xianglong Kong",
+          "Wei Guo",
+          "Jingdong Guo",
+          "Hongfa Li",
+          "Fan Zhang"
+        ]
+      },
+      {
+        "title": "Scenario-Driven Metamorphic Testing for Autonomous Driving Simulators.",
+        "authors": [
+          "Yifan Zhang",
+          "Dave Towey",
+          "Matthew Pike",
+          "Jia Cheng Han",
+          "Zhi Quan Zhou",
+          "Chenghao Yin",
+          "Qian Wang",
+          "Chen Xie"
+        ]
+      },
+      {
+        "title": "Improving Web Element Localization by Using a Large Language Model.",
+        "authors": [
+          "Michel Nass",
+          "Emil Alégroth",
+          "Robert Feldt"
+        ]
+      },
+      {
+        "title": "DNN Testing, Regression Testing and Software Reliability Prediction.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Validity Matters: Uncertainty-Guided Testing of Deep Neural Networks.",
+        "authors": [
+          "Zhouxian Jiang",
+          "Honghui Li",
+          "Rui Wang",
+          "Xuetao Tian",
+          "Ci Liang",
+          "Fei Yan",
+          "Junwen Zhang",
+          "Zhen Liu"
+        ]
+      },
+      {
+        "title": "Generation of Regression Tests From Logs With Clustering Guided by Usage Patterns.",
+        "authors": [
+          "Frédéric Tamagnan",
+          "Alexandre Vernotte",
+          "Fabrice Bouquet",
+          "Bruno Legeard"
+        ]
+      },
+      {
+        "title": "Software Reliability Prediction by Adaptive Gated Recurrent Unit-Based Encoder-Decoder Model With Ensemble Empirical Mode Decomposition.",
+        "authors": [
+          "Minghao Yang",
+          "Shunkun Yang",
+          "Chong Bian"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr33.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 33",
+    "year": "2023",
+    "papers": [
+      {
+        "title": "Fuzz testing for digital TV receivers and multitasking control software verification.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "A fuzzing-based test-creation approach for evaluating digital TV receivers via transport streams.",
+        "authors": [
+          "Fabrício Izumi",
+          "Eddie B. de Lima Filho",
+          "Lucas C. Cordeiro",
+          "Orlewilson B. Maia",
+          "Rômulo Fabrício",
+          "Bruno Farias",
+          "Aguinaldo Silva"
+        ]
+      },
+      {
+        "title": "OS-in-the-Loop verification for multi-tasking control software.",
+        "authors": [
+          "Yunja Choi"
+        ]
+      },
+      {
+        "title": "Model-based testing.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "RATE: A model-based testing approach that combines model refinement and test execution.",
+        "authors": [
+          "Andrea Bombarda",
+          "Silvia Bonfanti",
+          "Angelo Gargantini",
+          "Yu Lei",
+          "Feng Duan"
+        ]
+      },
+      {
+        "title": "Coloured Petri nets for abstract test generation in software engineering.",
+        "authors": [
+          "Alvaro Sobrinho",
+          "Ially Almeida",
+          "Leandro Dias da Silva",
+          "Lenardo Chaves e Silva",
+          "Adriano Araújo",
+          "Tássio Fernandes Costa",
+          "Angelo Perkusich"
+        ]
+      },
+      {
+        "title": "Test infrastructure and environment.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "JUGE: An infrastructure for benchmarking Java unit test generators.",
+        "authors": [
+          "Xavier Devroey",
+          "Alessio Gambi",
+          "Juan Pablo Galeotti",
+          "René Just",
+          "Fitsum Meshesha Kifetew",
+          "Annibale Panichella",
+          "Sebastiano Panichella"
+        ]
+      },
+      {
+        "title": "Test environments for large-scale software systems - An industrial study of intrinsic and extrinsic success factors.",
+        "authors": [
+          "Torvald Mårtensson",
+          "Göran Ancher",
+          "Daniel Ståhl"
+        ]
+      },
+      {
+        "title": "Combinatorial testing and machine learning for automated test generation.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "An investigation of distributed computing for combinatorial testing.",
+        "authors": [
+          "Edmond La Chance",
+          "Sylvain Hallé"
+        ]
+      },
+      {
+        "title": "The integration of machine learning into automated test generation: A systematic mapping study.",
+        "authors": [
+          "Afonso Fontes",
+          "Gregory Gay"
+        ]
+      },
+      {
+        "title": "Quality assurance for Internet of Things and speech recognition systems.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "HiRAM: A hierarchical risk assessment model and its implementation for an industrial Internet of Things in the cloud.",
+        "authors": [
+          "Wen-Lin Sun",
+          "Ying-Han Tang",
+          "Yu-Lun Huang"
+        ]
+      },
+      {
+        "title": "Adversarial example-based test case generation for black-box speech recognition systems.",
+        "authors": [
+          "Hanbo Cai",
+          "Pengcheng Zhang",
+          "Hai Dong",
+          "Lars Grunske",
+          "Shunhui Ji",
+          "Tianhao Yuan"
+        ]
+      },
+      {
+        "title": "Deep neural network supervision and data flow testing.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Uncertainty quantification for deep neural networks: An empirical comparison and usage guidelines.",
+        "authors": [
+          "Michael Weiss",
+          "Paolo Tonella"
+        ]
+      },
+      {
+        "title": "On subsumption relationships in data flow testing.",
+        "authors": [
+          "Marcos Lordello Chaim",
+          "Kesina Baral",
+          "Jeff Offutt",
+          "Mario Concilio Neto",
+          "Roberto Paulo Andrioli de Araujo"
+        ]
+      },
+      {
+        "title": "In vivo testing and integration of proving and testing.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "In vivo test and rollback of Java applications as they are.",
+        "authors": [
+          "Antonia Bertolino",
+          "Guglielmo De Angelis",
+          "Breno Miranda",
+          "Paolo Tonella"
+        ]
+      },
+      {
+        "title": "A failed proof can yield a useful test.",
+        "authors": [
+          "Li Huang",
+          "Bertrand Meyer"
+        ]
+      },
+      {
+        "title": "Model-based testing, test case prioritization and testing of virtual reality applications.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "On transforming model-based tests into code: A systematic literature review.",
+        "authors": [
+          "Fabiano Cutigi Ferrari",
+          "Vinicius H. S. Durelli",
+          "Sten F. Andler",
+          "Jeff Offutt",
+          "Mehrdad Saadatmand",
+          "Nils Müllner"
+        ]
+      },
+      {
+        "title": "Research on hyper-level of hyper-heuristic framework for MOTCP.",
+        "authors": [
+          "Junxia Guo",
+          "Rui Wang",
+          "Jinjin Han",
+          "Zheng Li"
+        ]
+      },
+      {
+        "title": "Exploiting deep reinforcement learning and metamorphic testing to automatically test virtual reality applications.",
+        "authors": [
+          "Stevão Alves de Andrade",
+          "Fátima L. S. Nunes",
+          "Márcio Eduardo Delamaro"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr32.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 32",
+    "year": "2022",
+    "papers": [
+      {
+        "title": "Model checking, testing and debugging.",
+        "authors": [
+          "Robert M. Hierons",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Model checking C++ programs.",
+        "authors": [
+          "Felipe R. Monteiro",
+          "Mikhail R. Gadelha",
+          "Lucas C. Cordeiro"
+        ]
+      },
+      {
+        "title": "GPU acceleration of finite state machine input execution: Improving scale and performance.",
+        "authors": [
+          "Vanya Yaneva",
+          "Ajitha Rajan",
+          "Christophe Dubach"
+        ]
+      },
+      {
+        "title": "Survey on test case generation, selection and prioritization for cyber-physical systems.",
+        "authors": [
+          "Zahra Sadri-Moshkenani",
+          "Justin M. Bradley",
+          "Gregg Rothermel"
+        ]
+      },
+      {
+        "title": "Effective fault localization and context-aware debugging for concurrent programs.",
+        "authors": [
+          "Justin Chu",
+          "Tingting Yu",
+          "Jane Huffman Hayes",
+          "Xue Han",
+          "Yu Zhao"
+        ]
+      },
+      {
+        "title": "Combinatorial testing and model-based testing.",
+        "authors": [
+          "Robert M. Hierons",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Combinatorial methods for testing Internet of Things smart home systems.",
+        "authors": [
+          "Bernhard Garn",
+          "Dominik-Philip Schreiber",
+          "Dimitris E. Simos",
+          "Rick Kuhn",
+          "Jeffrey M. Voas",
+          "Raghu Kacker"
+        ]
+      },
+      {
+        "title": "Effective grey-box testing with partial FSM models.",
+        "authors": [
+          "Robert Sachtleben",
+          "Jan Peleska"
+        ]
+      },
+      {
+        "title": "Metamorphic testing and test automation.",
+        "authors": [
+          "Robert M. Hierons",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Metamorphic relation prioritization for effective regression testing.",
+        "authors": [
+          "Madhusudan Srinivasan",
+          "Upulee Kanewala"
+        ]
+      },
+      {
+        "title": "Improving test automation maturity: A multivocal literature review.",
+        "authors": [
+          "Yuqing Wang",
+          "Mika V. Mäntylä",
+          "Zihao Liu",
+          "Jouni Markkula",
+          "Päivi Raulamo-Jurvanen"
+        ]
+      },
+      {
+        "title": "Farewell after an 11-year journey as joint editor-in-chief.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Integration testing and metamorphic testing.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Towards using coupling measures to guide black-box integration testing in component-based systems.",
+        "authors": [
+          "Dominik Hellhake",
+          "Justus Bogner",
+          "Tobias Schmid",
+          "Stefan Wagner"
+        ]
+      },
+      {
+        "title": "High-coverage metamorphic testing of concurrency support in C compilers.",
+        "authors": [
+          "Matt Windsor",
+          "Alastair F. Donaldson",
+          "John Wickerson"
+        ]
+      },
+      {
+        "title": "IEEE International Conference on Software Testing, Verification and Validation (ICST 2020).",
+        "authors": [
+          "Corina S. Pasareanu",
+          "Andreas Zeller"
+        ]
+      },
+      {
+        "title": "Fostering the diversity of exploratory testing in web applications.",
+        "authors": [
+          "Julien Leveau",
+          "Xavier Blanc",
+          "Laurent Réveillère",
+          "Jean-Rémy Falleri",
+          "Romain Rouvoy"
+        ]
+      },
+      {
+        "title": "RVprio: A tool for prioritizing runtime verification violations.",
+        "authors": [
+          "Lucas Cabral",
+          "Breno Miranda",
+          "Igor Lima",
+          "Marcelo d'Amorim"
+        ]
+      },
+      {
+        "title": "Automated black-box testing of nominal and error scenarios in RESTful APIs.",
+        "authors": [
+          "Davide Corradini",
+          "Amedeo Zampieri",
+          "Michele Pasqua",
+          "Emanuele Viglianisi",
+          "Michael Dallago",
+          "Mariano Ceccato"
+        ]
+      },
+      {
+        "title": "Combinatorial testing and model checking.",
+        "authors": [
+          "Yves Le Traon",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Combinatorial methods for dynamic gray-box SQL injection testing.",
+        "authors": [
+          "Bernhard Garn",
+          "Jovan Zivanovic",
+          "Manuel Leithner",
+          "Dimitris E. Simos"
+        ]
+      },
+      {
+        "title": "Comprehensive evaluation of file systems robustness with SPIN model checking.",
+        "authors": [
+          "Jingcheng Yuan",
+          "Toshiaki Aoki",
+          "Xiaoyun Guo"
+        ]
+      },
+      {
+        "title": "Mutation analysis and its industrial applications.",
+        "authors": [
+          "Rahul Gopinath",
+          "Jie M. Zhang",
+          "Marinos Kintis",
+          "Mike Papadakis"
+        ]
+      },
+      {
+        "title": "A mutation framework for evaluating security analysis tools in IoT applications.",
+        "authors": [
+          "Manar H. Alalfi",
+          "Sajeda Parveen",
+          "Bara' Nazzal"
+        ]
+      },
+      {
+        "title": "Assessing test suites of extended finite state machines against model- and code-based faults.",
+        "authors": [
+          "Khaled El-Fakih",
+          "Ayman Alzaatreh",
+          "Uraz Cengiz Türker"
+        ]
+      },
+      {
+        "title": "Learning-based mutant reduction using fine-grained mutation operators.",
+        "authors": [
+          "Yunho Kim",
+          "Shin Hong"
+        ]
+      },
+      {
+        "title": "Mutation analysis and its industrial applications.",
+        "authors": [
+          "Rahul Gopinath",
+          "Jie M. Zhang",
+          "Marinos Kintis",
+          "Mike Papadakis"
+        ]
+      },
+      {
+        "title": "HOTFUZ: Cost-effective higher-order mutation-based fault localization.",
+        "authors": [
+          "Jong-In Jang",
+          "Duksan Ryu",
+          "Jongmoon Baik"
+        ]
+      },
+      {
+        "title": "MuFBDTester: A mutation-based test sequence generator for FBD programs implementing nuclear power plant software.",
+        "authors": [
+          "Lingjun Liu",
+          "Eunkyoung Jee",
+          "Doo-Hwan Bae"
+        ]
+      },
+      {
+        "title": "TRANSMUT-Spark: Transformation mutation for Apache Spark.",
+        "authors": [
+          "João Batista de Souza Neto",
+          "Anamaria Martins Moreira",
+          "Genoveva Vargas-Solar",
+          "Martin A. Musicante"
+        ]
+      },
+      {
+        "title": "A mapping study on mutation testing for mobile applications.",
+        "authors": [
+          "Henrique Neves da Silva",
+          "Jackson A. Prado Lima",
+          "Silvia Regina Vergilio",
+          "André Takeshi Endo"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr31.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 31",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Special Issue: IEEE International Conference on Software Testing, Validation & Verification 2018.",
+        "authors": [
+          "Robert Feldt",
+          "Shin Yoo"
+        ]
+      },
+      {
+        "title": "DEMINER: test generation for high test coverage through mutant exploration.",
+        "authors": [
+          "Yunho Kim",
+          "Shin Hong"
+        ]
+      },
+      {
+        "title": "Effective automated repair of internationalization presentation failures in web applications using style similarity clustering and search-based techniques.",
+        "authors": [
+          "Sonal Mahajan",
+          "Abdulmajeed Alameer",
+          "Phil McMinn",
+          "William G. J. Halfond"
+        ]
+      },
+      {
+        "title": "Special issue on new generations of UI testing.",
+        "authors": [
+          "Emil Alégroth",
+          "Luca Ardito",
+          "Riccardo Coppola",
+          "Robert Feldt"
+        ]
+      },
+      {
+        "title": "Functional test generation from UI test scenarios using reinforcement learning for android applications.",
+        "authors": [
+          "Yavuz Köroglu",
+          "Alper Sen"
+        ]
+      },
+      {
+        "title": "testar - scriptless testing through graphical user interface.",
+        "authors": [
+          "Tanja E. J. Vos",
+          "Pekka Aho",
+          "Fernando Pastor Ricós",
+          "Olivia Rodriguez Valdes",
+          "Ad Mulders"
+        ]
+      },
+      {
+        "title": "Comparing the effectiveness of capture and replay against automatic input generation for Android graphical user interface testing.",
+        "authors": [
+          "Sergio Di Martino",
+          "Anna Rita Fasolino",
+          "Luigi Libero Lucio Starace",
+          "Porfirio Tramontana"
+        ]
+      },
+      {
+        "title": "Generating and selecting resilient and maintainable locators for Web automated testing.",
+        "authors": [
+          "Vu Nguyen",
+          "Thanh To",
+          "Gia-Han Diep"
+        ]
+      },
+      {
+        "title": "Sidereal: Statistical adaptive generation of robust locators for web testing.",
+        "authors": [
+          "Maurizio Leotta",
+          "Filippo Ricca",
+          "Paolo Tonella"
+        ]
+      },
+      {
+        "title": "The IEEE 12th International Conference on Software Testing, Verification & Validation.",
+        "authors": [
+          "Atif M. Memon",
+          "Myra B. Cohen"
+        ]
+      },
+      {
+        "title": "Automated visual classification of DOM-based presentation failure reports for responsive web pages.",
+        "authors": [
+          "Ibrahim Althomali",
+          "Gregory M. Kapfhammer",
+          "Phil McMinn"
+        ]
+      },
+      {
+        "title": "BUGSJS: a benchmark and taxonomy of JavaScript bugs.",
+        "authors": [
+          "Péter Gyimesi",
+          "Béla Vancsics",
+          "Andrea Stocco",
+          "Davood Mazinanian",
+          "Árpád Beszédes",
+          "Rudolf Ferenc",
+          "Ali Mesbah"
+        ]
+      },
+      {
+        "title": "Statically driven generation of concurrent tests for thread-safe classes.",
+        "authors": [
+          "Valerio Terragni",
+          "Mauro Pezzè"
+        ]
+      },
+      {
+        "title": "Editorial: Testing, Debugging, and Defect Prediction.",
+        "authors": [
+          "Robert M. Hierons",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Performance mutation testing.",
+        "authors": [
+          "Pedro Delgado-Pérez",
+          "Ana Belén Sánchez",
+          "Sergio Segura",
+          "Inmaculada Medina-Bulo"
+        ]
+      },
+      {
+        "title": "Localizing software performance regressions in web applications by comparing execution timelines.",
+        "authors": [
+          "Frolin S. Ocariza Jr.",
+          "Boyang Zhao"
+        ]
+      },
+      {
+        "title": "How detrimental is coincidental correctness to coverage-based fault detection and localization? An empirical study.",
+        "authors": [
+          "Rawad Abou Assi",
+          "Wes Masri",
+          "Chadi Trad"
+        ]
+      },
+      {
+        "title": "CSSG: A cost-sensitive stacked generalization approach for software defect prediction.",
+        "authors": [
+          "Zeinab Eivazpour",
+          "Mohammad Reza Keyvanpour"
+        ]
+      },
+      {
+        "title": "Cover Image.",
+        "authors": [
+          "Kai Hu",
+          "Ji Wan",
+          "Kan Luo",
+          "Yuzhuang Xu",
+          "Zijing Cheng",
+          "Wei-Tek Tsai"
+        ]
+      },
+      {
+        "title": "Editorial: Verification, reliability and performance.",
+        "authors": [
+          "Robert M. Hierons",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Verification algebra for multi-tenant applications in VaaS architecture.",
+        "authors": [
+          "Kai Hu",
+          "Ji Wan",
+          "Kan Luo",
+          "Yuzhuang Xu",
+          "Zijing Cheng",
+          "Wei-Tek Tsai"
+        ]
+      },
+      {
+        "title": "Entropy based enhanced particle swarm optimization on multi-objective software reliability modelling for optimal testing resources allocation.",
+        "authors": [
+          "Pooja Rani",
+          "G. S. Mahapatra"
+        ]
+      },
+      {
+        "title": "Performance assessment based on stochastic differential equation and effort data for edge computing.",
+        "authors": [
+          "Yoshinobu Tamura",
+          "Shigeru Yamada"
+        ]
+      },
+      {
+        "title": "Adaptive or embedded software testing and mutation testing.",
+        "authors": [
+          "Robert M. Hierons",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Testing of adaptive and context-aware systems: approaches and challenges.",
+        "authors": [
+          "Bento R. Siqueira",
+          "Fabiano Cutigi Ferrari",
+          "Kathiani Elisa de Souza",
+          "Valter Vieira de Camargo",
+          "Rogério de Lemos"
+        ]
+      },
+      {
+        "title": "Remote embedded devices test framework on the cloud.",
+        "authors": [
+          "Il-Seok (Benjamin) Choi",
+          "Chang-Sung Jeong"
+        ]
+      },
+      {
+        "title": "Analysing the combination of cost reduction techniques in Android mutation testing.",
+        "authors": [
+          "Macario Polo Usaola",
+          "Isyed Rodriguez"
+        ]
+      },
+      {
+        "title": "An ensemble-based predictive mutation testing approach that considers impact of unreached mutants.",
+        "authors": [
+          "Alireza Aghamohammadi",
+          "Seyed-Hassan Mirian-Hosseinabadi"
+        ]
+      },
+      {
+        "title": "Erratum.",
+        "authors": [
+          "Kai Hu",
+          "Ji Wan",
+          "Kan Luo",
+          "Yuzhuang Xu",
+          "Zijing Cheng",
+          "Wei-Tek Tsai"
+        ]
+      },
+      {
+        "title": "Property generation/verification and empirical studies.",
+        "authors": [
+          "Robert M. Hierons",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Documentation-based functional constraint generation for library methods.",
+        "authors": [
+          "Renhe Jiang",
+          "Zhengzhao Chen",
+          "Yu Pei",
+          "Minxue Pan",
+          "Tian Zhang",
+          "Xuandong Li"
+        ]
+      },
+      {
+        "title": "An empirical study of Linespots: A novel past-fault algorithm.",
+        "authors": [
+          "Maximilian Scholz",
+          "Richard Torkar"
+        ]
+      },
+      {
+        "title": "Integrating pattern matching and abstract interpretation for verifying cautions of microcontrollers.",
+        "authors": [
+          "Thuy Nguyen",
+          "Takashi Tomita",
+          "Junpei Endo",
+          "Toshiaki Aoki"
+        ]
+      },
+      {
+        "title": "Empirical analysis of practitioners' perceptions of test flakiness factors.",
+        "authors": [
+          "Azeem Ahmad",
+          "Ola Leifler",
+          "Kristian Sandahl"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr30.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 30",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "Special issue on testing extra-functional properties.",
+        "authors": [
+          "Mehrdad Saadatmand",
+          "Birgitta Lindström",
+          "Bernhard K. Aichernig"
+        ]
+      },
+      {
+        "title": "An exploration of effective fuzzing for side-channel cache leakage.",
+        "authors": [
+          "Tiyash Basu",
+          "Kartik Aggarwal",
+          "Chundong Wang",
+          "Sudipta Chattopadhyay"
+        ]
+      },
+      {
+        "title": "Reducing the maintenance effort for parameterization of representative load tests using annotations.",
+        "authors": [
+          "Henning Schulz",
+          "André van Hoorn",
+          "Alexander Wert"
+        ]
+      },
+      {
+        "title": "Leveraging metamorphic testing to automatically detect inconsistencies in code generator families.",
+        "authors": [
+          "Mohamed Boussaa",
+          "Olivier Barais",
+          "Gerson Sunyé",
+          "Benoit Baudry"
+        ]
+      },
+      {
+        "title": "Special issue: ISSRE 2018, the 29th IEEE International Symposium on Software Reliability Engineering.",
+        "authors": [
+          "Roberto Natella",
+          "Sudipto Ghosh"
+        ]
+      },
+      {
+        "title": "Using mutants to help developers distinguish and debug (compiler) faults.",
+        "authors": [
+          "Josie Holmes",
+          "Alex Groce"
+        ]
+      },
+      {
+        "title": "Testing microservice architectures for operational reliability.",
+        "authors": [
+          "Roberto Pietrantuono",
+          "Stefano Russo",
+          "Antonio Guerriero"
+        ]
+      },
+      {
+        "title": "Model-based hypothesis testing of uncertain software systems.",
+        "authors": [
+          "Matteo Camilli",
+          "Angelo Gargantini",
+          "Patrizia Scandurra"
+        ]
+      },
+      {
+        "title": "Fully Automated HTML and JavaScript Rewriting for Constructing a Self-healing Web Proxy.",
+        "authors": [
+          "Thomas Durieux",
+          "Youssef Hamadi",
+          "Martin Monperrus"
+        ]
+      },
+      {
+        "title": "Facilitating program performance profiling via evolutionary symbolic execution.",
+        "authors": [
+          "Andrea Aquino",
+          "Pietro Braione",
+          "Giovanni Denaro",
+          "Pasquale Salza"
+        ]
+      },
+      {
+        "title": "Working Across Boundaries.",
+        "authors": [
+          "Robert M. Hierons",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "A verified and optimized Stream X-Machine testing method, with application to cloud service certification.",
+        "authors": [
+          "Anthony J. H. Simons",
+          "Raluca Lefticaru"
+        ]
+      },
+      {
+        "title": "Search-based crash reproduction using behavioural model seeding.",
+        "authors": [
+          "Pouria Derakhshanfar",
+          "Xavier Devroey",
+          "Gilles Perrouin",
+          "Andy Zaidman",
+          "Arie van Deursen"
+        ]
+      },
+      {
+        "title": "Conference Virtualization.",
+        "authors": [
+          "Robert M. Hierons",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Can operational profile coverage explain post-release bug detection?",
+        "authors": [
+          "Lucas Andrade",
+          "Patrícia D. L. Machado",
+          "Wilkerson de L. Andrade"
+        ]
+      },
+      {
+        "title": "TimelyRep: Timing deterministic replay for Android web applications.",
+        "authors": [
+          "Yanqiang Liu",
+          "Fangge Yan",
+          "Mingyuan Xia",
+          "Zhengwei Qi",
+          "Xue Liu"
+        ]
+      },
+      {
+        "title": "On automation in software engineering.",
+        "authors": [
+          "Robert M. Hierons",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Automatic monitoring of service reliability for web applications: a simulation-based approach.",
+        "authors": [
+          "Sundeuk Kim",
+          "Ilhyun Suh",
+          "Yon Dohn Chung"
+        ]
+      },
+      {
+        "title": "Automatically identifying potential regressions in the layout of responsive web pages.",
+        "authors": [
+          "Thomas A. Walsh",
+          "Gregory M. Kapfhammer",
+          "Phil McMinn"
+        ]
+      },
+      {
+        "title": "Editorial for the special issue of STVR on the 10th IEEE International Conference on Software Testing, Verification, and Validation (ICST 2017).",
+        "authors": [
+          "Ina Schieferdecker",
+          "Atif Memon",
+          "Hironori Washizaki"
+        ]
+      },
+      {
+        "title": "Choosing the fitness function for the job: Automated generation of test suites that detect real faults.",
+        "authors": [
+          "Alireza Salahirad",
+          "Hussein K. Almulla",
+          "Gregory Gay"
+        ]
+      },
+      {
+        "title": "Complexity vulnerability analysis using symbolic execution.",
+        "authors": [
+          "Kasper Søe Luckow",
+          "Rody Kersten",
+          "Corina S. Pasareanu"
+        ]
+      },
+      {
+        "title": "Model-based testing of Apache ZooKeeper: Fundamental API usage and watchers.",
+        "authors": [
+          "Cyrille Artho",
+          "Kazuaki Banzai",
+          "Quentin Gros",
+          "Guillaume Rousset",
+          "Lei Ma",
+          "Takashi Kitamura",
+          "Masami Hagiya",
+          "Yoshinori Tanabe",
+          "Mitsuharu Yamamoto"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr29.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 29",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "Special issue on mutation testing and analysis.",
+        "authors": [
+          "René Just",
+          "Jens Krinke",
+          "Nan Li",
+          "José Miguel Rojas"
+        ]
+      },
+      {
+        "title": "On strong mutation and the theory of subsuming logic-based mutants.",
+        "authors": [
+          "Birgitta Lindström",
+          "András Márki"
+        ]
+      },
+      {
+        "title": "Possibility of cost reduction by mutant clustering according to the clustering scope.",
+        "authors": [
+          "Misun Yu",
+          "Yu-Seung Ma"
+        ]
+      },
+      {
+        "title": "Empirical evaluation of mutation-based test case prioritization techniques.",
+        "authors": [
+          "Donghwan Shin",
+          "Shin Yoo",
+          "Mike Papadakis",
+          "Doo-Hwan Bae"
+        ]
+      },
+      {
+        "title": "MuMonDE: A framework for evaluating model clone detectors using model mutation analysis.",
+        "authors": [
+          "Matthew Stephan",
+          "James R. Cordy"
+        ]
+      },
+      {
+        "title": "Fault-based test generation for regular expressions by mutation.",
+        "authors": [
+          "Paolo Arcaini",
+          "Angelo Gargantini",
+          "Elvinia Riccobene"
+        ]
+      },
+      {
+        "title": "Mutation operators for feature-oriented software product lines.",
+        "authors": [
+          "Jacob Krüger",
+          "Mustafa Al-Hajjaji",
+          "Thomas Leich",
+          "Gunter Saake"
+        ]
+      },
+      {
+        "title": "I love journal papers and you should too.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Event tree algorithms to generate test sequences for composite Web services.",
+        "authors": [
+          "André Takeshi Endo",
+          "Adenilso Simão"
+        ]
+      },
+      {
+        "title": "Coincidental correctness in the Defects4J benchmark.",
+        "authors": [
+          "Rawad Abou Assi",
+          "Chadi Trad",
+          "Marwan Maalouf",
+          "Wes Masri"
+        ]
+      },
+      {
+        "title": "Farewell and thanks for all the reviews.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "A formal approach to automatically analyse extra-functional properties in mobile applications.",
+        "authors": [
+          "Ana Rosario Espada",
+          "María-del-Mar Gallardo",
+          "Alberto Salmerón",
+          "Laura Panizo",
+          "Pedro Merino"
+        ]
+      },
+      {
+        "title": "Choosing the fitness function for the job: Automated generation of test suites that detect real faults.",
+        "authors": [
+          "Alireza Salahirad",
+          "Hussein K. Almulla",
+          "Gregory Gay"
+        ]
+      },
+      {
+        "title": "The world changes.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "An improved software reliability prediction model by using high precision error iterative analysis method.",
+        "authors": [
+          "Gul Jabeen",
+          "Ping Luo",
+          "Wasif Afzal"
+        ]
+      },
+      {
+        "title": "An end-user-centric test generation methodology for performance evaluation of mobile networked applications.",
+        "authors": [
+          "Mustafa Al-tekreeti",
+          "Atef Abdrabou",
+          "Kshirasagar Naik"
+        ]
+      },
+      {
+        "title": "Editorial: New Chapter Ahead.",
+        "authors": [
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "A heterogeneous single changepoint software reliability growth model framework.",
+        "authors": [
+          "Vidhyashree Nagaraju",
+          "Lance Fiondella",
+          "Thierry Wandji"
+        ]
+      },
+      {
+        "title": "Memory models in symbolic execution: key ideas and new thoughts.",
+        "authors": [
+          "Luca Borzacchiello",
+          "Emilio Coppa",
+          "Daniele Cono D'Elia",
+          "Camil Demetrescu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr28.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 28",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "Editorial: Do we need to teach ethics to PhD students?",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Why does the orientation change mess up my Android application? From GUI failures to code faults.",
+        "authors": [
+          "Domenico Amalfitano",
+          "Vincenzo Riccio",
+          "Ana C. R. Paiva",
+          "Anna Rita Fasolino"
+        ]
+      },
+      {
+        "title": "CoopREP: Cooperative record and replay of concurrency bugs.",
+        "authors": [
+          "Nuno Machado",
+          "Paolo Romano",
+          "Luís E. T. Rodrigues"
+        ]
+      },
+      {
+        "title": "Editorial: Self-plagiarism is not a thing.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Heterogeneous fault prediction with cost-sensitive domain adaptation.",
+        "authors": [
+          "Zhiqiang Li",
+          "Xiao-Yuan Jing",
+          "Xiaoke Zhu"
+        ]
+      },
+      {
+        "title": "Improving lazy abstraction for SCR specifications through constraint relaxation.",
+        "authors": [
+          "Renzo Degiovanni",
+          "Pablo Ponzio",
+          "Nazareno Aguirre",
+          "Marcelo F. Frias"
+        ]
+      },
+      {
+        "title": "Proper references is a matter of scholarship, ethics, and courtesy.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Systematic testing of actor systems.",
+        "authors": [
+          "Elvira Albert",
+          "Puri Arenas",
+          "Miguel Gómez-Zamalloa"
+        ]
+      },
+      {
+        "title": "Verifying OSEK/VDX automotive applications: A Spin-based model checking approach.",
+        "authors": [
+          "Haitao Zhang",
+          "Guoqiang Li",
+          "Zhuo Cheng",
+          "Jinyun Xue"
+        ]
+      },
+      {
+        "title": "Why don't we publish more TDD research papers?",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Random or evolutionary search for object-oriented test suite generation?",
+        "authors": [
+          "Sina Shamshiri",
+          "José Miguel Rojas",
+          "Luca Gazzola",
+          "Gordon Fraser",
+          "Phil McMinn",
+          "Leonardo Mariani",
+          "Andrea Arcuri"
+        ]
+      },
+      {
+        "title": "Pesto: Automated migration of DOM-based Web tests towards the visual approach.",
+        "authors": [
+          "Maurizio Leotta",
+          "Andrea Stocco",
+          "Filippo Ricca",
+          "Paolo Tonella"
+        ]
+      },
+      {
+        "title": "What is the value of the peer-reviewing system?",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Neural network for software reliability analysis of dynamically weighted NHPP growth models with imperfect debugging.",
+        "authors": [
+          "Pooja Rani",
+          "G. S. Mahapatra"
+        ]
+      },
+      {
+        "title": "Speeding up test execution with increased cache locality.",
+        "authors": [
+          "Panagiotis Stratis",
+          "Ajitha Rajan"
+        ]
+      },
+      {
+        "title": "What is a facade journal?",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "A novel reliability analysis approach for component-based software based on the complex network theory.",
+        "authors": [
+          "Kewen Li",
+          "Mingxiao Yu",
+          "Lu Liu",
+          "Jiannan Zhai",
+          "Wenying Liu"
+        ]
+      },
+      {
+        "title": "A systematic literature review of how mutation testing supports quality assurance processes.",
+        "authors": [
+          "Qianqian Zhu",
+          "Annibale Panichella",
+          "Andy Zaidman"
+        ]
+      },
+      {
+        "title": "How can we recognize facade journals?",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "A hybrid approach to testing for nonfunctional faults in embedded systems using genetic algorithms.",
+        "authors": [
+          "Tingting Yu",
+          "Witawas Srisa-an",
+          "Myra B. Cohen",
+          "Gregg Rothermel"
+        ]
+      },
+      {
+        "title": "Approaches for computing test-case-aware covering arrays.",
+        "authors": [
+          "Ugur Koc",
+          "Cemal Yilmaz"
+        ]
+      },
+      {
+        "title": "Why do people publish in facade journals?",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "MobSTer: A model-based security testing framework for web applications.",
+        "authors": [
+          "Michele Peroli",
+          "Federico De Meo",
+          "Luca Viganò",
+          "Davide Guardini"
+        ]
+      },
+      {
+        "title": "An automated functional testing approach for virtual reality applications.",
+        "authors": [
+          "Alinne Cristinne Corrêa Souza",
+          "Fátima L. S. Nunes",
+          "Márcio Eduardo Delamaro"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr27.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 27",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Editorial: Accepting shortened papers hurts science.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Automatic property-based testing and path validation of XQuery programs.",
+        "authors": [
+          "Jesús Manuel Almendros-Jiménez",
+          "Antonio Becerra-Terón"
+        ]
+      },
+      {
+        "title": "Test suite completeness and black box testing.",
+        "authors": [
+          "Adilson Luiz Bonifácio",
+          "Arnaldo Vieira Moura"
+        ]
+      },
+      {
+        "title": "How to manage a conference special issue.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Pattern-based GUI testing: Bridging the gap between design and quality assurance.",
+        "authors": [
+          "Rodrigo M. L. M. Moreira",
+          "Ana C. R. Paiva",
+          "Miguel Nabuco",
+          "Atif Memon"
+        ]
+      },
+      {
+        "title": "Bounded model checking of C++ programs based on the Qt cross-platform framework.",
+        "authors": [
+          "Felipe R. Monteiro",
+          "Mário Garcia",
+          "Lucas C. Cordeiro",
+          "Eddie Batista de Lima Filho"
+        ]
+      },
+      {
+        "title": "Is paper reviewing a transaction, a service, or an opportunity?",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Assessment of C++ object-oriented mutation operators: A selective mutation approach.",
+        "authors": [
+          "Pedro Delgado-Pérez",
+          "Sergio Segura",
+          "Inmaculada Medina-Bulo"
+        ]
+      },
+      {
+        "title": "An automated framework to support testing for process-level race conditions.",
+        "authors": [
+          "Tingting Yu",
+          "Witty Srisa-an",
+          "Gregg Rothermel"
+        ]
+      },
+      {
+        "title": "Editorial for the special issue of STVR on the 8th IEEE International Conference on Software Testing, Verification, and Validation (ICST 2015).",
+        "authors": [
+          "Gordon Fraser",
+          "Darko Marinov"
+        ]
+      },
+      {
+        "title": "QuickChecking static analysis properties.",
+        "authors": [
+          "Jan Midtgaard",
+          "Anders Møller"
+        ]
+      },
+      {
+        "title": "Causal inference based fault localization for numerical software with NUMFL.",
+        "authors": [
+          "Zhuofu Bai",
+          "Gang Shu",
+          "Andy Podgurski"
+        ]
+      },
+      {
+        "title": "Detecting display energy hotspots in Android apps.",
+        "authors": [
+          "Mian Wan",
+          "Yuchen Jin",
+          "Ding Li",
+          "Jiaping Gui",
+          "Sonal Mahajan",
+          "William G. J. Halfond"
+        ]
+      },
+      {
+        "title": "Prioritizing manual test cases in rapid release environments.",
+        "authors": [
+          "Hadi Hemmati",
+          "Zhihan Fang",
+          "Mika V. Mäntylä",
+          "Bram Adams"
+        ]
+      },
+      {
+        "title": "Evaluating code-based test input generator tools.",
+        "authors": [
+          "Lajos Cseppento",
+          "Zoltán Micskei"
+        ]
+      },
+      {
+        "title": "Editorial: Beware of predatory journals.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Debugging-workflow-aware software reliability growth analysis.",
+        "authors": [
+          "Marcello Cinque",
+          "Domenico Cotroneo",
+          "Antonio Pecchia",
+          "Roberto Pietrantuono",
+          "Stefano Russo"
+        ]
+      },
+      {
+        "title": "Prioritizing MCDC test cases by spectral analysis of Boolean functions.",
+        "authors": [
+          "Tolga Ayav"
+        ]
+      },
+      {
+        "title": "Color figures considered harmful.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Impediments for software test automation: A systematic literature review.",
+        "authors": [
+          "Kristian Wiklund",
+          "Sigrid Eldh",
+          "Daniel Sundmark",
+          "Kristina Lundqvist"
+        ]
+      },
+      {
+        "title": "GUICop: Approach and toolset for specification-based GUI testing.",
+        "authors": [
+          "Dalal Hammoud",
+          "Fadi A. Zaraket",
+          "Wes Masri"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr26.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 26",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "The dreaded desk reject.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Anomaly detection in performance regression testing by transaction profile estimation.",
+        "authors": [
+          "Shadi Ghaith",
+          "Miao Wang",
+          "Philip Perry",
+          "Zhen Ming Jiang",
+          "Patrick O'Sullivan",
+          "John Murphy"
+        ]
+      },
+      {
+        "title": "Cause reduction: delta debugging, even without bugs.",
+        "authors": [
+          "Alex Groce",
+          "Mohammad Amin Alipour",
+          "Chaoqiang Zhang",
+          "Yang Chen",
+          "John Regehr"
+        ]
+      },
+      {
+        "title": "Automatic fault localization for client-side JavaScript.",
+        "authors": [
+          "Frolin S. Ocariza Jr.",
+          "Guanpeng Li",
+          "Karthik Pattabiraman",
+          "Ali Mesbah"
+        ]
+      },
+      {
+        "title": "How to revise a research paper.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "A lightweight framework for dynamic GUI data verification based on scripts.",
+        "authors": [
+          "Pedro Luis Mateo Navarro",
+          "Diego Sevilla Ruiz",
+          "Gregorio Martínez Pérez"
+        ]
+      },
+      {
+        "title": "Model-based security testing: a taxonomy and systematic classification.",
+        "authors": [
+          "Michael Felderer",
+          "Philipp Zech",
+          "Ruth Breu",
+          "Matthias Büchler",
+          "Alexander Pretschner"
+        ]
+      },
+      {
+        "title": "Generating effective test cases based on satisfiability modulo theory solvers for service-oriented workflow applications.",
+        "authors": [
+          "Hongda Wang",
+          "Jianchun Xing",
+          "Qiliang Yang",
+          "Wei Song",
+          "Xuewei Zhang"
+        ]
+      },
+      {
+        "title": "How to write an effective \"Response to Reviewers\" letter.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Probabilistic reasoning in diagnosing causes of program failures.",
+        "authors": [
+          "Junjie Xu",
+          "Rong Chen",
+          "Zhenjun Du"
+        ]
+      },
+      {
+        "title": "Behaviour abstraction adequacy criteria for API call protocol testing.",
+        "authors": [
+          "Hernan Czemerinski",
+          "Víctor A. Braberman",
+          "Sebastián Uchitel"
+        ]
+      },
+      {
+        "title": "Predicting metamorphic relations for testing scientific software: a machine learning approach using graph kernels.",
+        "authors": [
+          "Upulee Kanewala",
+          "James M. Bieman",
+          "Asa Ben-Hur"
+        ]
+      },
+      {
+        "title": "Editorial: STVR policy on extending conference papers to journal submissions.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Stochastic modelling and simulation approaches to analysing enhanced fault tolerance on service-based software systems.",
+        "authors": [
+          "Kuan-Li Peng",
+          "Chin-Yu Huang"
+        ]
+      },
+      {
+        "title": "Exhaustive test sets for algebraic specifications.",
+        "authors": [
+          "Marc Aiguier",
+          "Agnès Arnould",
+          "Pascale Le Gall",
+          "Delphine Longuet"
+        ]
+      },
+      {
+        "title": "Using combinatorial testing to build navigation graphs for dynamic web applications.",
+        "authors": [
+          "Wenhua Wang",
+          "Sreedevi Sampath",
+          "Yu Lei",
+          "Raghu Kacker",
+          "D. Richard Kuhn",
+          "James Lawrence"
+        ]
+      },
+      {
+        "title": "Editorial: Changes to STVR's Editorial Board.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "A general modeling and analysis framework for software fault detection and correction process.",
+        "authors": [
+          "Yu Liu",
+          "Duo Li",
+          "Lujia Wang",
+          "Qingpei Hu"
+        ]
+      },
+      {
+        "title": "Seeding strategies in search-based unit test generation.",
+        "authors": [
+          "José Miguel Rojas",
+          "Gordon Fraser",
+          "Andrea Arcuri"
+        ]
+      },
+      {
+        "title": "Prioritizing test cases for early detection of refactoring faults.",
+        "authors": [
+          "Everton L. G. Alves",
+          "Patrícia D. L. Machado",
+          "Tiago Massoni",
+          "Miryung Kim"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Simulink fault localization: an iterative statistical debugging approach.",
+        "authors": [
+          "Bing Liu",
+          "Lucia",
+          "Shiva Nejati",
+          "Lionel C. Briand",
+          "Thomas Bruckmann"
+        ]
+      },
+      {
+        "title": "UCov: a user-defined coverage criterion for test case intent verification.",
+        "authors": [
+          "Rawad Abou Assi",
+          "Wes Masri",
+          "Fadi A. Zaraket"
+        ]
+      },
+      {
+        "title": "Editorial: How to extend a conference paper to a journal paper.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Non-negative sparse-based SemiBoost for software defect prediction.",
+        "authors": [
+          "Tiejian Wang",
+          "Zhiwu Zhang",
+          "Xiaoyuan Jing",
+          "Yanli Liu"
+        ]
+      },
+      {
+        "title": "Past-Free[ze] reachability analysis: reaching further with DAG-directed exhaustive state-space analysis.",
+        "authors": [
+          "Ciprian Teodorov",
+          "Luka Leroux",
+          "Zoé Drey",
+          "Philippe Dhaussy"
+        ]
+      },
+      {
+        "title": "Editorial: The Downward Death Spiral Review Process.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "A simplification of a real-time verification problem.",
+        "authors": [
+          "Suman Roy",
+          "Janardan Misra",
+          "Indranil Saha"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr25.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 25",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Editorial: Plagiarism Is For Losers.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Specification guidelines to avoid the state space explosion problem.",
+        "authors": [
+          "Jan Friso Groote",
+          "Tim W. D. M. Kouters",
+          "Ammar Osaiweran"
+        ]
+      },
+      {
+        "title": "Formal firewall conformance testing: an application of test and proof techniques.",
+        "authors": [
+          "Achim D. Brucker",
+          "Lukas Brügger",
+          "Burkhart Wolff"
+        ]
+      },
+      {
+        "title": "Editorial: Who Is An Author?",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Directed test suite augmentation: an empirical investigation.",
+        "authors": [
+          "Zhihong Xu",
+          "Yunho Kim",
+          "Moonzoo Kim",
+          "Myra B. Cohen",
+          "Gregg Rothermel"
+        ]
+      },
+      {
+        "title": "Reducing execution profiles: techniques and benefits.",
+        "authors": [
+          "Joan Farjo",
+          "Rawad Abou Assi",
+          "Wes Masri"
+        ]
+      },
+      {
+        "title": "Automated metamorphic testing of variability analysis tools.",
+        "authors": [
+          "Sergio Segura",
+          "Amador Durán",
+          "Ana Belén Sánchez",
+          "Daniel Le Berre",
+          "Emmanuel Lonca",
+          "Antonio Ruiz Cortés"
+        ]
+      },
+      {
+        "title": "Special issue on testing, analysis and debugging of concurrent programs.",
+        "authors": [
+          "Eitan Farchi",
+          "Robert M. Hierons",
+          "João Lourenço"
+        ]
+      },
+      {
+        "title": "UNICORN: a unified approach for localizing non-deadlock concurrency bugs.",
+        "authors": [
+          "Sangmin Park",
+          "Richard W. Vuduc",
+          "Mary Jean Harrold"
+        ]
+      },
+      {
+        "title": "A survey of race bug detection techniques for multithreaded programmes.",
+        "authors": [
+          "Shin Hong",
+          "Moonzoo Kim"
+        ]
+      },
+      {
+        "title": "Object-sensitive cost analysis for concurrent objects.",
+        "authors": [
+          "Elvira Albert",
+          "Puri Arenas",
+          "Jesús Correas Fernández",
+          "Samir Genaim",
+          "Miguel Gómez-Zamalloa",
+          "Germán Puebla",
+          "Guillermo Román-Díez"
+        ]
+      },
+      {
+        "title": "Advances in noise-based testing of concurrent software.",
+        "authors": [
+          "Jan Fiedor",
+          "Vendula Hrubá",
+          "Bohuslav Krena",
+          "Zdenek Letko",
+          "Shmuel Ur",
+          "Tomás Vojnar"
+        ]
+      },
+      {
+        "title": "Empirical evaluation of a new composite approach to the coverage criteria and reachability testing of concurrent programs.",
+        "authors": [
+          "Simone R. S. Souza",
+          "Paulo S. L. Souza",
+          "Maria A. S. Brito",
+          "Adenilso da Silva Simão",
+          "Ed Zaluska"
+        ]
+      },
+      {
+        "title": "Special issue for the ICST 2013 conference.",
+        "authors": [
+          "Benoit Baudry",
+          "Alessandro Orso"
+        ]
+      },
+      {
+        "title": "Are concurrency coverage metrics effective for testing: a comprehensive empirical investigation.",
+        "authors": [
+          "Shin Hong",
+          "Matt Staats",
+          "Jaemin Ahn",
+          "Moonzoo Kim",
+          "Gregg Rothermel"
+        ]
+      },
+      {
+        "title": "Coverage-based regression test case selection, minimization and prioritization: a case study on an industrial system.",
+        "authors": [
+          "Daniel Di Nardo",
+          "Nadia Alshahwan",
+          "Lionel C. Briand",
+          "Yvan Labiche"
+        ]
+      },
+      {
+        "title": "A study and toolkit of CHECK-THEN-ACT idioms of Java concurrent collections.",
+        "authors": [
+          "Yu Lin",
+          "Danny Dig"
+        ]
+      },
+      {
+        "title": "Defect prediction as a multiobjective optimization problem.",
+        "authors": [
+          "Gerardo Canfora",
+          "Andrea De Lucia",
+          "Massimiliano Di Penta",
+          "Rocco Oliveto",
+          "Annibale Panichella",
+          "Sebastiano Panichella"
+        ]
+      },
+      {
+        "title": "Introduction to the special issue on Mutation Testing.",
+        "authors": [
+          "Yue Jia",
+          "Mercedes G. Merayo",
+          "Mark Harman"
+        ]
+      },
+      {
+        "title": "Reducing mutation costs through uncovered mutants.",
+        "authors": [
+          "Pedro Reales Mateo",
+          "Macario Polo Usaola"
+        ]
+      },
+      {
+        "title": "Higher accuracy and lower run time: efficient mutation analysis using non-redundant mutation operators.",
+        "authors": [
+          "René Just",
+          "Franz Schweiggert"
+        ]
+      },
+      {
+        "title": "Employing second-order mutation for isolating first-order equivalent mutants.",
+        "authors": [
+          "Marinos Kintis",
+          "Mike Papadakis",
+          "Nicos Malevris"
+        ]
+      },
+      {
+        "title": "Quality metrics for mutation testing with applications to WS-BPEL compositions.",
+        "authors": [
+          "Antonia Estero-Botaro",
+          "Francisco Palomo-Lozano",
+          "Inmaculada Medina-Bulo",
+          "Juan José Domínguez-Jiménez",
+          "Antonio García-Domínguez"
+        ]
+      },
+      {
+        "title": "MuRanker: a mutant ranking tool.",
+        "authors": [
+          "Akbar Siami Namin",
+          "Xiaozhen Xue",
+          "Omar Rosas",
+          "Pankaj Sharma"
+        ]
+      },
+      {
+        "title": "Metallaxis-FL: mutation-based fault localization.",
+        "authors": [
+          "Mike Papadakis",
+          "Yves Le Traon"
+        ]
+      },
+      {
+        "title": "Using mutation to assess fault detection capability of model review.",
+        "authors": [
+          "Paolo Arcaini",
+          "Angelo Gargantini",
+          "Elvinia Riccobene"
+        ]
+      },
+      {
+        "title": "Towards an automation of the mutation analysis dedicated to model transformation.",
+        "authors": [
+          "Vincent Aranega",
+          "Jean-Marie Mottu",
+          "Anne Etien",
+          "Thomas Degueule",
+          "Benoit Baudry",
+          "Jean-Luc Dekeyser"
+        ]
+      },
+      {
+        "title": "Model-based mutation testing from security protocols in HLPSL.",
+        "authors": [
+          "Frédéric Dadeau",
+          "Pierre-Cyrille Héam",
+          "Rafik Kheddam",
+          "Ghazi Maatoug",
+          "Michaël Rusinowitch"
+        ]
+      },
+      {
+        "title": "How the web resuscitated evolutionary design.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Killing strategies for model-based mutation testing.",
+        "authors": [
+          "Bernhard K. Aichernig",
+          "Harald Brandl",
+          "Elisabeth Jöbstl",
+          "Willibald Krenn",
+          "Rupert Schlick",
+          "Stefan Tiran"
+        ]
+      },
+      {
+        "title": "Assessing and generating test sets in terms of behavioural adequacy.",
+        "authors": [
+          "Gordon Fraser",
+          "Neil Walkinshaw"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr24.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 24",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Globalization - references and citations.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Tool support for the Test Template Framework.",
+        "authors": [
+          "Maximiliano Cristiá",
+          "Pablo Albertengo",
+          "Claudia S. Frydman",
+          "Brian Plüss",
+          "Pablo Rodríguez Monetti"
+        ]
+      },
+      {
+        "title": "Model checking Trampoline OS: a case study on safety analysis for automotive software.",
+        "authors": [
+          "Yunja Choi"
+        ]
+      },
+      {
+        "title": "Design and industrial evaluation of a tool supporting semi-automated website testing.",
+        "authors": [
+          "Jalal Mahmud",
+          "Allen Cypher",
+          "Eben M. Haber",
+          "Tessa Lau"
+        ]
+      },
+      {
+        "title": "Globalization - standards for research quality.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "A practical model-based statistical approach for generating functional test cases: application in the automotive industry.",
+        "authors": [
+          "Roy Awedikian",
+          "Bernard Yannou"
+        ]
+      },
+      {
+        "title": "A novel approach to software quality risk management.",
+        "authors": [
+          "Vojo Bubevski"
+        ]
+      },
+      {
+        "title": "Automatic test case generation from Simulink/Stateflow models using model checking.",
+        "authors": [
+          "Swarup Mohalik",
+          "Ambar A. Gadkari",
+          "Anand Yeolekar",
+          "K. C. Shashidhar",
+          "S. Ramesh"
+        ]
+      },
+      {
+        "title": "Globalization-ethics and plagiarism.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Optimizing compilation with preservation of structural code coverage metrics to support software testing.",
+        "authors": [
+          "Raimund Kirner",
+          "Walter Haas"
+        ]
+      },
+      {
+        "title": "A Hitchhiker's guide to statistical tests for assessing randomized algorithms in software engineering.",
+        "authors": [
+          "Andrea Arcuri",
+          "Lionel C. Briand"
+        ]
+      },
+      {
+        "title": "Globalization - logical flow, motivation, and assumptions.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Analysis and testing of black-box component-based systems by inferring partial models.",
+        "authors": [
+          "Muzammil Shahbaz",
+          "Roland Groz"
+        ]
+      },
+      {
+        "title": "Sound and mechanised compositional verification of input-output conformance.",
+        "authors": [
+          "Augusto Sampaio",
+          "Sidney C. Nogueira",
+          "Alexandre Mota",
+          "Yoshinao Isobe"
+        ]
+      },
+      {
+        "title": "Towards the prioritization of system test cases.",
+        "authors": [
+          "Hema Srikanth",
+          "Sean Banerjee",
+          "Laurie A. Williams",
+          "Jason A. Osborne"
+        ]
+      },
+      {
+        "title": "Editorial for the special issue of STVR on the 5th IEEE International Conference on Software Testing, Verification, and Validation (ICST 2012).",
+        "authors": [
+          "Antonia Bertolino",
+          "Yvan Labiche"
+        ]
+      },
+      {
+        "title": "Automatic testing of GUI-based applications.",
+        "authors": [
+          "Leonardo Mariani",
+          "Mauro Pezzè",
+          "Oliviero Riganelli",
+          "Mauro Santoro"
+        ]
+      },
+      {
+        "title": "An efficient regression testing approach for PHP web applications: a controlled experiment.",
+        "authors": [
+          "Hyunsook Do",
+          "Md. Hossain"
+        ]
+      },
+      {
+        "title": "Automatic test case evolution.",
+        "authors": [
+          "Mehdi MirzaAghaei",
+          "Fabrizio Pastore",
+          "Mauro Pezzè"
+        ]
+      },
+      {
+        "title": "Editorial: how to get your paper rejected from STVR.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "An improved Pareto distribution for modelling the fault data of open source software.",
+        "authors": [
+          "Shao-Pu Luan",
+          "Chin-Yu Huang"
+        ]
+      },
+      {
+        "title": "Extending model checkers for hybrid system verification: the case study of SPIN.",
+        "authors": [
+          "María-del-Mar Gallardo",
+          "Laura Panizo"
+        ]
+      },
+      {
+        "title": "Search-based testing using constraint-based mutation.",
+        "authors": [
+          "Jan Malburg",
+          "Gordon Fraser"
+        ]
+      },
+      {
+        "title": "Editorial for the special issue of STVR on tests and proofs volume 1: tests and proofs in model-based testing.",
+        "authors": [
+          "Achim D. Brucker",
+          "Jacques Julliand"
+        ]
+      },
+      {
+        "title": "Test generation with Satisfiability Modulo Theories solvers in model-based testing.",
+        "authors": [
+          "Jérôme Cantenot",
+          "Fabrice Ambert",
+          "Fabrice Bouquet"
+        ]
+      },
+      {
+        "title": "Test generation from recursive tile systems.",
+        "authors": [
+          "Sébastien Chédor",
+          "Thierry Jéron",
+          "Christophe Morvan"
+        ]
+      },
+      {
+        "title": "Model-based testing for concurrent systems with labelled event structures.",
+        "authors": [
+          "Hernán Ponce de León",
+          "Stefan Haar",
+          "Delphine Longuet"
+        ]
+      },
+      {
+        "title": "Editorial for the special issue of STVR on tests and proofs volume 2: tests and proofs for improving the generation time and quality of test data suites.",
+        "authors": [
+          "Achim D. Brucker",
+          "Jacques Julliand"
+        ]
+      },
+      {
+        "title": "Bridging the gap between easy generation and efficient verification of unsatisfiability proofs.",
+        "authors": [
+          "Marijn Heule",
+          "Warren A. Hunt Jr.",
+          "Nathan Wetzler"
+        ]
+      },
+      {
+        "title": "Automated test case generation for FBD programs implementing reactor protection system software.",
+        "authors": [
+          "Eunkyoung Jee",
+          "Donghwan Shin",
+          "Sung Deok Cha",
+          "Jang-Soo Lee",
+          "Doo-Hwan Bae"
+        ]
+      },
+      {
+        "title": "RepOK-based reduction of bounded exhaustive testing.",
+        "authors": [
+          "Valeria S. Bengolea",
+          "Nazareno Aguirre",
+          "Darko Marinov",
+          "Marcelo F. Frias"
+        ]
+      },
+      {
+        "title": "A random testing approach using pushdown automata.",
+        "authors": [
+          "Aloïs Dreyfus",
+          "Pierre-Cyrille Héam",
+          "Olga Kouchnarenko",
+          "Catherine Masson"
+        ]
+      },
+      {
+        "title": "Exploring the missing link: an empirical study of software fixes.",
+        "authors": [
+          "Maggie Hamill",
+          "Katerina Goseva-Popstojanova"
+        ]
+      },
+      {
+        "title": "A model-free and state-cover testing scheme for semaphore-based and shared-memory concurrent programs.",
+        "authors": [
+          "Gwan-Hwan Hwang",
+          "Che-Sheng Lin",
+          "Teng-Shuo Lee",
+          "Chi Wu-Lee"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr23.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 23",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Error-preserving local transformations on communication protocols.",
+        "authors": [
+          "Monika Kapus-Kolar"
+        ]
+      },
+      {
+        "title": "An automated analysis methodology to detect inconsistencies in web services with WSDL interfaces.",
+        "authors": [
+          "Marc Fisher II",
+          "Sebastian G. Elbaum",
+          "Gregg Rothermel"
+        ]
+      },
+      {
+        "title": "A test purpose-based approach for testing timed input output automata.",
+        "authors": [
+          "Abdeslam En-Nouaary"
+        ]
+      },
+      {
+        "title": "Reliability assessment based on hazard rate model for an embedded OSS porting-phase.",
+        "authors": [
+          "Yoshinobu Tamura",
+          "Shigeru Yamada"
+        ]
+      },
+      {
+        "title": "What I have learned from usability.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "A new method for testing timed systems.",
+        "authors": [
+          "Adilson Luiz Bonifácio",
+          "Arnaldo Vieira Moura"
+        ]
+      },
+      {
+        "title": "It really does matter how you normalize the branch distance in search-based software testing.",
+        "authors": [
+          "Andrea Arcuri"
+        ]
+      },
+      {
+        "title": "Ranking of software engineering metrics by fuzzy-based matrix methodology.",
+        "authors": [
+          "Ramesh Kumar Garg",
+          "Kapil Sharma",
+          "Chander Kumar Nagpal",
+          "Rakesh Garg",
+          "Rajpal Garg",
+          "Rajive Kumar",
+          "Sandhya"
+        ]
+      },
+      {
+        "title": "The globalization of software engineering.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Using concepts of content-based image retrieval to implement graphical testing oracles.",
+        "authors": [
+          "Márcio Eduardo Delamaro",
+          "Fátima de Lourdes dos Santos Nunes",
+          "Rafael Alves Paes de Oliveira"
+        ]
+      },
+      {
+        "title": "A measurement-based ageing analysis of the JVM.",
+        "authors": [
+          "Domenico Cotroneo",
+          "Salvatore Orlando",
+          "Roberto Pietrantuono",
+          "Stefano Russo"
+        ]
+      },
+      {
+        "title": "Regression verification: proving the equivalence of similar programs.",
+        "authors": [
+          "Benny Godlin",
+          "Ofer Strichman"
+        ]
+      },
+      {
+        "title": "Editorial: globalization - language and dialects.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Testing and verification in service-oriented architecture: a survey.",
+        "authors": [
+          "Mustafa Bozkurt",
+          "Mark Harman",
+          "Youssef Hassoun"
+        ]
+      },
+      {
+        "title": "Parallel mutation testing.",
+        "authors": [
+          "Pedro Reales Mateo",
+          "Macario Polo Usaola"
+        ]
+      },
+      {
+        "title": "ICST 2010 Special Issue.",
+        "authors": [
+          "Ana R. Cavalli",
+          "Sudipto Ghosh"
+        ]
+      },
+      {
+        "title": "Covering and Uncovering Equivalent Mutants.",
+        "authors": [
+          "David Schuler",
+          "Andreas Zeller"
+        ]
+      },
+      {
+        "title": "Efficient mutation testing of multithreaded code.",
+        "authors": [
+          "Milos Gligoric",
+          "Vilas Jagannath",
+          "Qingzhou Luo",
+          "Darko Marinov"
+        ]
+      },
+      {
+        "title": "Formal specification and analysis of functional properties of graph rewriting-based model transformation.",
+        "authors": [
+          "Márk Asztalos",
+          "László Lengyel",
+          "Tihamer Levendovszky"
+        ]
+      },
+      {
+        "title": "Editorial for special issue of STVR on software testing, verification, and validation - volume 1 (extended selected papers from ICST 2011).",
+        "authors": [
+          "Mark Harman",
+          "Bogdan Korel"
+        ]
+      },
+      {
+        "title": "Configuring effective navigation models and abstract test cases for web applications by analysing user behaviour.",
+        "authors": [
+          "Sara Sprenkle",
+          "Lori L. Pollock",
+          "Lucy Simko"
+        ]
+      },
+      {
+        "title": "Testing of data-centric and event-based dynamic service compositions.",
+        "authors": [
+          "Waldemar Hummer",
+          "Orna Raz",
+          "Onn Shehory",
+          "Philipp Leitner",
+          "Schahram Dustdar"
+        ]
+      },
+      {
+        "title": "Demand-driven propagation-based strategies for testing changes.",
+        "authors": [
+          "Raúl A. Santelices",
+          "Mary Jean Harrold"
+        ]
+      },
+      {
+        "title": "Editorial for special issue of STVR on software testing, verification, and validation - volume 2 (extended selected papers from ICST 2011).",
+        "authors": [
+          "Mark Harman",
+          "Bogdan Korel"
+        ]
+      },
+      {
+        "title": "Checked coverage: an indicator for oracle quality.",
+        "authors": [
+          "David Schuler",
+          "Andreas Zeller"
+        ]
+      },
+      {
+        "title": "Handling test length bloat.",
+        "authors": [
+          "Gordon Fraser",
+          "Andrea Arcuri"
+        ]
+      },
+      {
+        "title": "A tribute to Mary Jean Harrold.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Incremental testing of finite state machines.",
+        "authors": [
+          "Lehilton Lelis Chaves Pedrosa",
+          "Arnaldo Vieira Moura"
+        ]
+      },
+      {
+        "title": "A survey of code-based change impact analysis techniques.",
+        "authors": [
+          "Bixin Li",
+          "Xiaobing Sun",
+          "Hareton Leung",
+          "Sai Zhang"
+        ]
+      },
+      {
+        "title": "Combining weak and strong mutation for a noninterpretive Java mutation system.",
+        "authors": [
+          "Sang-Woon Kim",
+          "Yu-Seung Ma",
+          "Yong Rae Kwon"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr22.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 22",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "The h-index beats the impact factor.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "On the testing of user-configurable software systems using firewalls.",
+        "authors": [
+          "Brian Robinson",
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "A case study in model-based testing of specifications and implementations.",
+        "authors": [
+          "Tim Miller",
+          "Paul A. Strooper"
+        ]
+      },
+      {
+        "title": "Regression testing minimization, selection and prioritization: a survey.",
+        "authors": [
+          "Shin Yoo",
+          "Mark Harman"
+        ]
+      },
+      {
+        "title": "Timing analysis of scenario-based specifications using linear programming.",
+        "authors": [
+          "Xuandong Li",
+          "Minxue Pan",
+          "Lei Bu",
+          "Linzhang Wang",
+          "Jianhua Zhao"
+        ]
+      },
+      {
+        "title": "Non-expert reviews considered helpful.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "A testing strategy for abstract classes.",
+        "authors": [
+          "Peter J. Clarke",
+          "James F. Power",
+          "Djuradj Babich",
+          "Tariq M. King"
+        ]
+      },
+      {
+        "title": "Test data regeneration: generating new test data from existing test data.",
+        "authors": [
+          "Shin Yoo",
+          "Mark Harman"
+        ]
+      },
+      {
+        "title": "Fuzzy Bayesian system reliability assessment based on prior two-parameter exponential distribution under different loss functions.",
+        "authors": [
+          "Ramin Gholizadeh",
+          "Aliakbar Mastani Shirazi",
+          "Bahram Sadeghpour Gildeh"
+        ]
+      },
+      {
+        "title": "Status and Awards.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Automated functional testing of online search services.",
+        "authors": [
+          "Zhiquan Zhou",
+          "Shujia Zhang",
+          "Markus Hagenbuchner",
+          "T. H. Tse",
+          "Fei-Ching Kuo",
+          "Tsong Yueh Chen"
+        ]
+      },
+      {
+        "title": "Automated verification and testing of user-interactive undo features in database applications.",
+        "authors": [
+          "Minh Ngoc Ngo",
+          "Hee Beng Kuan Tan"
+        ]
+      },
+      {
+        "title": "Testing aspect-oriented programs with finite state machines.",
+        "authors": [
+          "Dianxiang Xu",
+          "Omar el Ariss",
+          "Weifeng Xu",
+          "Linzhang Wang"
+        ]
+      },
+      {
+        "title": "Guest Editorial for the Special Issue on Model-Based Testing.",
+        "authors": [
+          "Paul Ammann",
+          "Gordon Fraser",
+          "Franz Wotawa"
+        ]
+      },
+      {
+        "title": "A taxonomy of model-based testing approaches.",
+        "authors": [
+          "Mark Utting",
+          "Alexander Pretschner",
+          "Bruno Legeard"
+        ]
+      },
+      {
+        "title": "Obstacles and opportunities in deploying model-based GUI testing of mobile software: a survey.",
+        "authors": [
+          "Marek Janicki",
+          "Mika Katara",
+          "Tuula Pääkkönen"
+        ]
+      },
+      {
+        "title": "Applying formal methods to PCEP: an industrial case study from modeling to test generation.",
+        "authors": [
+          "Iksoon Hwang",
+          "Ana R. Cavalli",
+          "Mounir Lallali",
+          "Dominique Verchère"
+        ]
+      },
+      {
+        "title": "Formal passive testing of timed systems: theory and tools.",
+        "authors": [
+          "César Andrés",
+          "Mercedes G. Merayo",
+          "Manuel Núñez"
+        ]
+      },
+      {
+        "title": "Scenario-based testing using symbolic animation of B models.",
+        "authors": [
+          "Frédéric Dadeau",
+          "Kalou Cabrera Castillos",
+          "Régis Tissot"
+        ]
+      },
+      {
+        "title": "On reducing test length for FSMs with extra states.",
+        "authors": [
+          "Adenilso da Silva Simão",
+          "Alexandre Petrenko",
+          "Nina Yevtushenko"
+        ]
+      },
+      {
+        "title": "Efficient coverage of parallel and hierarchical stateflow models for test case generation.",
+        "authors": [
+          "Manoranjan Satpathy",
+          "Anand Yeolekar",
+          "Prakash Mohan Peranandam",
+          "S. Ramesh"
+        ]
+      },
+      {
+        "title": "Regression test suite prioritization using system models.",
+        "authors": [
+          "Luay Ho Tahat",
+          "Bogdan Korel",
+          "Mark Harman",
+          "Hasan Ural"
+        ]
+      },
+      {
+        "title": "T-wise combinatorial interaction test suites construction based on coverage inheritance.",
+        "authors": [
+          "Andrea Calvagna",
+          "Angelo Gargantini"
+        ]
+      },
+      {
+        "title": "Flipping the testing classroom.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Testing-based process for component substitutability.",
+        "authors": [
+          "Andres Flores",
+          "Macario Polo"
+        ]
+      },
+      {
+        "title": "A framework for automatic generation of security controller.",
+        "authors": [
+          "Fabio Martinelli",
+          "Ilaria Matteucci"
+        ]
+      },
+      {
+        "title": "A formal framework to test soft and hard deadlines in timed systems.",
+        "authors": [
+          "Mercedes G. Merayo",
+          "Manuel Núñez",
+          "Ismael Rodríguez"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr21.html": {
+    "header": "Software Testing, Verification & Reliability, Volume 21",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "ICST 2008 Special Issue.",
+        "authors": [
+          "Robert M. Hierons",
+          "Aditya Mathur"
+        ]
+      },
+      {
+        "title": "On the number and nature of faults found by random testing.",
+        "authors": [
+          "Ilinca Ciupa",
+          "Alexander Pretschner",
+          "Manuel Oriol",
+          "Andreas Leitner",
+          "Bertrand Meyer"
+        ]
+      },
+      {
+        "title": "OSMOSE: automatic structural testing of executables.",
+        "authors": [
+          "Sébastien Bardin",
+          "Philippe Herrmann"
+        ]
+      },
+      {
+        "title": "Model-based quality assurance of protocol documentation: tools and methodology.",
+        "authors": [
+          "Wolfgang Grieskamp",
+          "Nicolas Kicillof",
+          "Keith Stobie",
+          "Víctor A. Braberman"
+        ]
+      },
+      {
+        "title": "Status of the journal.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "On the use of a similarity function for test case selection in the context of model-based testing.",
+        "authors": [
+          "Emanuela Gadelha Cartaxo",
+          "Patrícia D. L. Machado",
+          "Francisco G. Oliveira Neto"
+        ]
+      },
+      {
+        "title": "Fault-driven stress testing of distributed real-time software based on UML models.",
+        "authors": [
+          "Vahid Garousi"
+        ]
+      },
+      {
+        "title": "On the selection of software defect estimation techniques.",
+        "authors": [
+          "João W. Cangussu",
+          "Syed Waseem Haider",
+          "Kendra M. L. Cooper",
+          "Michael Baron"
+        ]
+      },
+      {
+        "title": "ICST 2009 Special Issue.",
+        "authors": [
+          "Jeff Offutt",
+          "Per Runeson"
+        ]
+      },
+      {
+        "title": "Reducing logic test set size while preserving fault detection.",
+        "authors": [
+          "Garrett Kent Kaminski",
+          "Paul Ammann"
+        ]
+      },
+      {
+        "title": "Improving penetration testing through static and dynamic analysis.",
+        "authors": [
+          "William G. J. Halfond",
+          "Shauvik Roy Choudhary",
+          "Alessandro Orso"
+        ]
+      },
+      {
+        "title": "An approach for testing pointcut descriptors in AspectJ.",
+        "authors": [
+          "Romain Delamare",
+          "Benoit Baudry",
+          "Sudipto Ghosh",
+          "Shashank Gupta",
+          "Yves Le Traon"
+        ]
+      },
+      {
+        "title": "JDAMA: Java database application mutation analyser.",
+        "authors": [
+          "Chixiang Zhou",
+          "Phyllis G. Frankl"
+        ]
+      },
+      {
+        "title": "Editorial: What is the purpose of publishing?",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Verification support for ARINC-653-based avionics software.",
+        "authors": [
+          "Pedro de la Cámara",
+          "J. Raúl Castro",
+          "María-del-Mar Gallardo",
+          "Pedro Merino"
+        ]
+      },
+      {
+        "title": "Improved code defect detection with fault links.",
+        "authors": [
+          "Jane Huffman Hayes",
+          "Inies R. Chemannoor",
+          "Elizabeth Ashlee Holbrook"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr20.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 20",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Editorial: OOP and discrete math.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Verification of real-time systems design.",
+        "authors": [
+          "María-Emilia Cambronero",
+          "Valentín Valero Ruiz",
+          "Gregorio Díaz"
+        ]
+      },
+      {
+        "title": "A systematic representation of path constraints for implicit path enumeration technique.",
+        "authors": [
+          "Tai Hyo Kim",
+          "Hojung Bang",
+          "Sung Deok Cha"
+        ]
+      },
+      {
+        "title": "Importance measures for modular software with uncertain parameters.",
+        "authors": [
+          "Lance Fiondella",
+          "Swapna S. Gokhale"
+        ]
+      },
+      {
+        "title": "Editorial: People are approximators, not perfectors.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Finding failures from passed test cases: improving the pattern classification approach to the testing of mesh simplification programs.",
+        "authors": [
+          "W. K. Chan",
+          "Jeffrey C. F. Ho",
+          "T. H. Tse"
+        ]
+      },
+      {
+        "title": "Fault localization based on information flow coverage.",
+        "authors": [
+          "Wes Masri"
+        ]
+      },
+      {
+        "title": "Fault localization using a model checker.",
+        "authors": [
+          "Andreas Griesmayer",
+          "Stefan Staber",
+          "Roderick Bloem"
+        ]
+      },
+      {
+        "title": "Editorial: Agility must be good for testing.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Improving the coverage criteria of UML state machines using data flow analysis.",
+        "authors": [
+          "Lionel C. Briand",
+          "Yvan Labiche",
+          "Q. Lin"
+        ]
+      },
+      {
+        "title": "Automatic string test data generation for detecting domain errors.",
+        "authors": [
+          "Ruilian Zhao",
+          "Michael R. Lyu",
+          "Yinghua Min"
+        ]
+      },
+      {
+        "title": "Full predicate coverage for testing SQL database queries.",
+        "authors": [
+          "Javier Tuya",
+          "María José Suárez Cabal",
+          "Claudio de la Riva"
+        ]
+      },
+      {
+        "title": "Editorial: Ethics and Publishing.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Testing coupling relationships in object-oriented programs.",
+        "authors": [
+          "Roger T. Alexander",
+          "Jeff Offutt",
+          "Andreas Stefik"
+        ]
+      },
+      {
+        "title": "Recognizing authors: an examination of the consistent programmer hypothesis.",
+        "authors": [
+          "Jane Huffman Hayes",
+          "Jeff Offutt"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr19.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 19",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Editorial: Is software testing essential or accidental?",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Generating input data structures for automated program testing.",
+        "authors": [
+          "Insang Chung",
+          "James M. Bieman"
+        ]
+      },
+      {
+        "title": "A density-based greedy algorithm for higher strength covering arrays.",
+        "authors": [
+          "Renée C. Bryce",
+          "Charles J. Colbourn"
+        ]
+      },
+      {
+        "title": "Transition covering tests for systems with queues.",
+        "authors": [
+          "Jiale Huo",
+          "Alexandre Petrenko"
+        ]
+      },
+      {
+        "title": "Software testing - testing across the entire software development lifecycle. By Gerald D Everett & Raymond McLeod Jr. Published by IEEE Press and Wiley Interscience, Hoboken, NJ, USA ISBN: 978-0-471-79371-7, 260 pages.",
+        "authors": [
+          "Ian Gilchrist"
+        ]
+      },
+      {
+        "title": "Editorial: Running a conference program meeting in the 21st century.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Automatic instantiation of abstract tests on specific configurations for large critical control systems.",
+        "authors": [
+          "Francesco Flammini",
+          "Nicola Mazzocca",
+          "Antonio Orazzo"
+        ]
+      },
+      {
+        "title": "Decreasing the cost of mutation testing with second-order mutants.",
+        "authors": [
+          "Macario Polo",
+          "Mario Piattini",
+          "Ignacio García Rodríguez de Guzmán"
+        ]
+      },
+      {
+        "title": "Structural coverage criteria for LUSTRE/SCADE programs.",
+        "authors": [
+          "Abdesselam Lakehal",
+          "Ioannis Parissis"
+        ]
+      },
+      {
+        "title": "Towards automatic software model checking of thousands of Linux modules - a case study with Avinux.",
+        "authors": [
+          "Hendrik Post",
+          "Carsten Sinz",
+          "Wolfgang Küchlin"
+        ]
+      },
+      {
+        "title": "Editorial: confidentiality and plagiarism.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Integrating testing with reliability.",
+        "authors": [
+          "Norman F. Schneidewind"
+        ]
+      },
+      {
+        "title": "Inclusion, subsumption, JJ-paths, and structured path testing: a Redress.",
+        "authors": [
+          "Derek F. Yates",
+          "Nikolaos Malevris"
+        ]
+      },
+      {
+        "title": "Testing with model checkers: a survey.",
+        "authors": [
+          "Gordon Fraser",
+          "Franz Wotawa",
+          "Paul Ammann"
+        ]
+      },
+      {
+        "title": "Editorial: Testing my new building.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Modelling methods for web application verification and testing: state of the art.",
+        "authors": [
+          "Manar H. Alalfi",
+          "James R. Cordy",
+          "Thomas R. Dean"
+        ]
+      },
+      {
+        "title": "System testing for object-oriented systems with test case prioritization.",
+        "authors": [
+          "Debasish Kundu",
+          "Monalisa Sarma",
+          "Debasis Samanta",
+          "Rajib Mall"
+        ]
+      },
+      {
+        "title": "Pragmatic Software Testing. By Rex Black. Published by Wiley. ISBN: 978-0-470-12790-2, 366 pages.",
+        "authors": [
+          "Graham A. Thomas"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr18.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 18",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Editorial: The journal impact factor.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Modular formal verification of specifications of concurrent systems.",
+        "authors": [
+          "Sara Gradara",
+          "Antonella Santone",
+          "Gigliola Vaglini",
+          "Maria Luisa Villani"
+        ]
+      },
+      {
+        "title": "Simulated time for host-based testing with TTCN-3.",
+        "authors": [
+          "Stefan Blom",
+          "Thomas Deiß",
+          "Natalia Ioustinova",
+          "Ari Kontio",
+          "Jaco van de Pol",
+          "Axel Rennoch",
+          "Natalia Sidorova"
+        ]
+      },
+      {
+        "title": "Error-preserving reductions on communication protocols.",
+        "authors": [
+          "Lihua Duan",
+          "Jessica Chen"
+        ]
+      },
+      {
+        "title": "Editorial: Testing practice and research.",
+        "authors": [
+          "Mark Harman",
+          "Zheng Li",
+          "Phil McMinn"
+        ]
+      },
+      {
+        "title": "Quality assurance for TTCN-3 test specifications.",
+        "authors": [
+          "Helmut Neukirchen",
+          "Benjamin Zeiss",
+          "Jens Grabowski",
+          "Paul Baker",
+          "Dominic Evans"
+        ]
+      },
+      {
+        "title": "Automated discovery of state transitions and their functions in source code.",
+        "authors": [
+          "Neil Walkinshaw",
+          "Kirill Bogdanov",
+          "Shaukat Ali",
+          "Mike Holcombe"
+        ]
+      },
+      {
+        "title": "Editorial: Science Fiction and Fantasy.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "IPOG/IPOG-D: efficient test generation for multi-way combinatorial testing.",
+        "authors": [
+          "Yu Lei",
+          "Raghu Kacker",
+          "D. Richard Kuhn",
+          "Vadim Okun",
+          "James Lawrence"
+        ]
+      },
+      {
+        "title": "Reconciling perspectives of software logic testing.",
+        "authors": [
+          "Garrett Kent Kaminski",
+          "Gregory Williams",
+          "Paul Ammann"
+        ]
+      },
+      {
+        "title": "Modeling and verification using UML Statecharts. By Doron Drusinsky. Published by Newnes Publishers, 2006, ISBN 0-7506-7617-5, 306 pages.",
+        "authors": [
+          "Gerald Lüttgen"
+        ]
+      },
+      {
+        "title": "Editorial: Software testing is an elephant.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "An analysis technique to increase testability of object-oriented components.",
+        "authors": [
+          "Supaporn Kansomkeat",
+          "Wanchai Rivepiboon"
+        ]
+      },
+      {
+        "title": "The determination of optimal software release times at different confidence levels with consideration of learning effects.",
+        "authors": [
+          "Jyh-Wen Ho",
+          "Chih-Chiang Fang",
+          "Yeu-Shiang Huang"
+        ]
+      },
+      {
+        "title": "Model-driven software development. By Thomas Stahl and Markus Volter. Published by John Wiley & Sons, New York, 2006. ISBN: 0470025700.",
+        "authors": [
+          "Richard F. Paige"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr17.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 17",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "Editorial: Reflections on the past, present and future.",
+        "authors": [
+          "Martin R. Woodward",
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Integrating techniques and tools for testing automation.",
+        "authors": [
+          "Macario Polo",
+          "Sergio Tendero",
+          "Mario Piattini"
+        ]
+      },
+      {
+        "title": "Heuristics for fault diagnosis when testing from finite state machines.",
+        "authors": [
+          "Qiang Guo",
+          "Robert M. Hierons",
+          "Mark Harman",
+          "Karnig Derderian"
+        ]
+      },
+      {
+        "title": "Editorial: Introduction and plans for the future.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "Using component metadata to regression test component-based software.",
+        "authors": [
+          "Alessandro Orso",
+          "Hyunsook Do",
+          "Gregg Rothermel",
+          "Mary Jean Harrold",
+          "David S. Rosenblum"
+        ]
+      },
+      {
+        "title": "Testing software components for integration: a survey of issues and techniques.",
+        "authors": [
+          "Muhammad Jaffar-Ur Rehman",
+          "Fakhra Jabeen",
+          "Antonia Bertolino",
+          "Andrea Polini"
+        ]
+      },
+      {
+        "title": "Editorial: Standards for reviewing papers.",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "An event-flow model of GUI-based applications for testing.",
+        "authors": [
+          "Atif M. Memon"
+        ]
+      },
+      {
+        "title": "The density algorithm for pairwise interaction testing.",
+        "authors": [
+          "Renée C. Bryce",
+          "Charles J. Colbourn"
+        ]
+      },
+      {
+        "title": "Practical ultra-reliability for abstract data types.",
+        "authors": [
+          "Borislav Nikolik",
+          "Dick Hamlet"
+        ]
+      },
+      {
+        "title": "Editorial: Why should I review papers?",
+        "authors": [
+          "Jeff Offutt"
+        ]
+      },
+      {
+        "title": "A combinatorial testing strategy for concurrent programs.",
+        "authors": [
+          "Yu Lei",
+          "Richard H. Carver",
+          "Raghu Kacker",
+          "David Chenho Kung"
+        ]
+      },
+      {
+        "title": "Studying the separability relation between finite state machines.",
+        "authors": [
+          "Natalia Spitsyna",
+          "Khaled El-Fakih",
+          "Nina Yevtushenko"
+        ]
+      },
+      {
+        "title": "Software component composition: a subdomain-based testing-theory foundation.",
+        "authors": [
+          "Dick Hamlet"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr16.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 16",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "Editorial: Testing for real!",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Event-based modelling, analysis and testing of user interactions: approach and case study.",
+        "authors": [
+          "Fevzi Belli",
+          "Christof J. Budnik",
+          "Lee White"
+        ]
+      },
+      {
+        "title": "Formal analysis of some secure procedures for certificate delivery.",
+        "authors": [
+          "Fabio Martinelli",
+          "Marinella Petrocchi",
+          "Anna Vaccarelli"
+        ]
+      },
+      {
+        "title": "Testing Commercial-off-the-Shelf Components and Systems. Edited by Sami Beydeda and Volker Gruhn. Springer, 2005, ISBN: 3-540-21871-8, pp 410.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Verification and Validation for Quality of UML 2.0 Models. By Bhuvan Unhelkar. Wiley, 2005, ISBN: 0-471-72783-0, 271 pp.",
+        "authors": [
+          "Anthony J. H. Simons"
+        ]
+      },
+      {
+        "title": "Editorial: Uncertainty and chaos.",
+        "authors": [
+          "Derek Yates"
+        ]
+      },
+      {
+        "title": "Exploiting design patterns to automate validation of class invariants.",
+        "authors": [
+          "Brian A. Malloy",
+          "James F. Power"
+        ]
+      },
+      {
+        "title": "Symbolic execution of floating-point computations.",
+        "authors": [
+          "Bernard Botella",
+          "Arnaud Gotlieb",
+          "Claude Michel"
+        ]
+      },
+      {
+        "title": "Successful Test Management: An Integral Approach. By Iris Pinkster, Bob van de Burgt, Dennis Janssen, and Erik van Veenendaal. Springer, 2004, ISBN: 3-540-22822-5, pp 373.",
+        "authors": [
+          "Peter Morgan"
+        ]
+      },
+      {
+        "title": "Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement. By Jeff Tian. Wiley/IEEE Computer Society Press, 2005. ISBN: 0-471-71345-7, pp 412.",
+        "authors": [
+          "Ian Gilchrist"
+        ]
+      },
+      {
+        "title": "Editorial: Addressing industrial challenges - UKTest 2005 and beyond.",
+        "authors": [
+          "Phil McMinn",
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "A theory of regression testing for behaviourally compatible object types.",
+        "authors": [
+          "Anthony J. H. Simons"
+        ]
+      },
+      {
+        "title": "Improving fault prediction using Bayesian networks for the development of embedded software applications.",
+        "authors": [
+          "Elena Pérez-Miñana",
+          "Jean-Jacques Gras"
+        ]
+      },
+      {
+        "title": "Search-based software test data generation for string data using program-specific search operators.",
+        "authors": [
+          "Mohammad Aref Alshraideh",
+          "Leonardo Bottaci"
+        ]
+      },
+      {
+        "title": "A Tribute to Martin Woodward.",
+        "authors": [
+          "Lee White",
+          "Jeff Offutt",
+          "Derek Yates",
+          "Robert M. Hierons",
+          "Michael A. Hennell",
+          "Peter Mitchell"
+        ]
+      },
+      {
+        "title": "Editorial: STVR Editor changes.",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "Integration testing of object-oriented components using finite state machines.",
+        "authors": [
+          "Leonard Gallagher",
+          "Jeff Offutt",
+          "Anthony Cincotta"
+        ]
+      },
+      {
+        "title": "Leveraging disposable instrumentation to reduce coverage collection overhead.",
+        "authors": [
+          "Kalyan-Ram Chilakamarri",
+          "Sebastian G. Elbaum"
+        ]
+      },
+      {
+        "title": "Software Testing Foundations: A Study Guide for the Certified Tester Exam. By Andreas Spillner, Tilo Linz and Hans Schaefer. Published by dpunkt.verlag, Heidelberg, Germany, 2006, ISBN: 3-89864-363-8, pp 266.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr14.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 14",
+    "year": "2004",
+    "papers": [
+      {
+        "title": "Editorial: Software testing as related to project risk.",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "Exploring risk-based testing and its implications.",
+        "authors": [
+          "Felix Redmill"
+        ]
+      },
+      {
+        "title": "An AGENDA for testing relational database applications.",
+        "authors": [
+          "David Chays",
+          "Yuetang Deng",
+          "Phyllis G. Frankl",
+          "Saikat Dan",
+          "Filippos I. Vokolos",
+          "Elaine J. Weyuker"
+        ]
+      },
+      {
+        "title": "Effective test case selection for component customization and its application to Enterprise JavaBeans.",
+        "authors": [
+          "Hoijin Yoon",
+          "Byoungju Choi"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Ian Gilchrist"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Editorial: A test of time across the generations.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Controlling test case explosion in test generation from B formal models.",
+        "authors": [
+          "Bruno Legeard",
+          "Fabien Peureux",
+          "Mark Utting"
+        ]
+      },
+      {
+        "title": "Search-based software test data generation: a survey.",
+        "authors": [
+          "Phil McMinn"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Marc Roper"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Silke Kuball"
+        ]
+      },
+      {
+        "title": "Editorial: Software testing in the United Kingdom.",
+        "authors": [
+          "John A. Clark",
+          "Mark Harman",
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Experimental evaluation of the tolerance for control-flow test criteria.",
+        "authors": [
+          "Kalpesh Kapoor",
+          "Jonathan P. Bowen"
+        ]
+      },
+      {
+        "title": "Refinement in statechart testing.",
+        "authors": [
+          "Kirill Bogdanov",
+          "Mike Holcombe"
+        ]
+      },
+      {
+        "title": "Preamble computation in automated test case generation using constraint logic programming.",
+        "authors": [
+          "Séverine Colin",
+          "Bruno Legeard",
+          "Fabien Peureux"
+        ]
+      },
+      {
+        "title": "Guest Editorial: An industrial viewpoint.",
+        "authors": [
+          "Michael A. Hennell"
+        ]
+      },
+      {
+        "title": "Eight maxims for software inspectors.",
+        "authors": [
+          "Diane Kelly",
+          "Terry Shepard"
+        ]
+      },
+      {
+        "title": "Applying simulation and design of experiments to the embedded software testing process.",
+        "authors": [
+          "Ljubomir Lazic",
+          "Dusan M. Velasevic"
+        ]
+      },
+      {
+        "title": "A Practitioner's Guide to Software Test Design. By Lee Copeland. Published by Artech House, Norwood, MA, USA, 2004, ISBN 1-58053-791-X, 320 pages.",
+        "authors": [
+          "Isabel Evans"
+        ]
+      },
+      {
+        "title": "Testing Web Security: Assessing the Security of Web Sites and Applications. By Steven Splaine. Published by John Wiley and Sons, New York, USA, 2002 ISBN 0-471-23281-5, 345 pages.",
+        "authors": [
+          "Sarika Agarwal"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr15.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 15",
+    "year": "2004",
+    "papers": [
+      {
+        "title": "Editorial: Looking for surprises in testing?",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "Theory and practice of risk-based testing.",
+        "authors": [
+          "Felix Redmill"
+        ]
+      },
+      {
+        "title": "A formal analysis of MCDC and RCDC test criteria.",
+        "authors": [
+          "Kalpesh Kapoor",
+          "Jonathan P. Bowen"
+        ]
+      },
+      {
+        "title": "Using symbolic execution to guide test generation.",
+        "authors": [
+          "Gareth Lee",
+          "John Morris",
+          "Kris Parker",
+          "Gary A. Bundell",
+          "Chiou Peng Lam"
+        ]
+      },
+      {
+        "title": "Editorial: On mutants, metaphors and scientific creativity.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "From genetic to bacteriological algorithms for mutation-based testing.",
+        "authors": [
+          "Benoit Baudry",
+          "Franck Fleurey",
+          "Jean-Marc Jézéquel",
+          "Yves Le Traon"
+        ]
+      },
+      {
+        "title": "MuJava: an automated class mutation system.",
+        "authors": [
+          "Yu-Seung Ma",
+          "Jeff Offutt",
+          "Yong Rae Kwon"
+        ]
+      },
+      {
+        "title": "Artificial Intelligence Methods In Software Testing. Edited by Mark Last, Abraham Kandel and Horst Bunke. Published by World Scientific Publishing, Singapore, Series in Machine Perception and Artificial Intelligence, Volume 56, 2004, ISBN 981-238-854-0.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "The Art of Software Testing, Second edition. Glenford J. Myers. Revised and updated by Tom Badgett and Todd M. Thomas, with Corey Sandler. John Wiley and Sons, New Jersey, USA, 2004, ISBN 0-471-46912-2.",
+        "authors": [
+          "Stuart Reid"
+        ]
+      },
+      {
+        "title": "Editorial: ... and the wheel keeps turning.",
+        "authors": [
+          "Derek Yates"
+        ]
+      },
+      {
+        "title": "A minimal test practice framework for emerging software organizations.",
+        "authors": [
+          "Daniel Karlström",
+          "Per Runeson",
+          "Sara Nordén"
+        ]
+      },
+      {
+        "title": "Combination testing strategies: a survey.",
+        "authors": [
+          "Mats Grindal",
+          "Jeff Offutt",
+          "Sten F. Andler"
+        ]
+      },
+      {
+        "title": "Software Testing and Continuous Quality Improvement. Second Edition. By William E. Lewis. Technical Contributor: Gunasekaran Veerapillai. Published by Auerbach Publications, 2005, ISBN: 0-8493-2524-2, pp 534.",
+        "authors": [
+          "Thomas Thelin"
+        ]
+      },
+      {
+        "title": "Verification of Reactive Systems: Formal Methods and Algorithms. By Klaus Schneider. Springer, Texts in Theoretical Computer Science Series, 2004, ISBN: 3-540-00296-0, pp 600.",
+        "authors": [
+          "Joël Ouaknine"
+        ]
+      },
+      {
+        "title": "Editorial: Validating our findings.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Specification and testing of autonomous agents in e-commerce systems.",
+        "authors": [
+          "Manuel Núñez",
+          "Ismael Rodríguez",
+          "Fernando Rubio"
+        ]
+      },
+      {
+        "title": "Tool support for executable documentation of Java class hierarchies.",
+        "authors": [
+          "Daniel Hoffman",
+          "Paul A. Strooper",
+          "Sarah Wilkin"
+        ]
+      },
+      {
+        "title": "An empirical study of regression test application frequency.",
+        "authors": [
+          "Jung-Min Kim",
+          "Adam A. Porter",
+          "Gregg Rothermel"
+        ]
+      },
+      {
+        "title": "Achieving Software Quality Through Teamwork. By Isabel Evans. Artech House, 2004, ISBN: 1-58053-662-X, pp 296.",
+        "authors": [
+          "Nathan Baddoo"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr13.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 13",
+    "year": "2003",
+    "papers": [
+      {
+        "title": "Editorial: Perhaps some parallels do converge?",
+        "authors": [
+          "Derek Yates"
+        ]
+      },
+      {
+        "title": "All-uses testing of shared memory parallel programs.",
+        "authors": [
+          "Cheer-Sun D. Yang",
+          "Lori L. Pollock"
+        ]
+      },
+      {
+        "title": "Generating test data from state-based specifications.",
+        "authors": [
+          "A. Jefferson Offutt",
+          "Shaoying Liu",
+          "Aynur Abdurazik",
+          "Paul Ammann"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Isabel Evans"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Harry W. Agius"
+        ]
+      },
+      {
+        "title": "Editorial: The merits of diversity.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Understanding the effects of changes on the cost-effectiveness of regression testing techniques.",
+        "authors": [
+          "Sebastian G. Elbaum",
+          "Praveen Kallakuri",
+          "Alexey G. Malishevsky",
+          "Gregg Rothermel",
+          "Satya Kanduri"
+        ]
+      },
+      {
+        "title": "A change-point perspective on the software failure process.",
+        "authors": [
+          "Feng-Zhong Zou"
+        ]
+      },
+      {
+        "title": "Test adequacy criteria for UML design models.",
+        "authors": [
+          "Anneliese Amschler Andrews",
+          "Robert B. France",
+          "Sudipto Ghosh",
+          "Gerald Craig"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "David Hayman"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Neil Thompson"
+        ]
+      },
+      {
+        "title": "Editorial: Testing in the large through the small?",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Test suite minimization for testing in context.",
+        "authors": [
+          "Ricardo Anido",
+          "Ana R. Cavalli",
+          "Luiz A. Paula Lima Jr.",
+          "Nina Yevtushenko"
+        ]
+      },
+      {
+        "title": "Combining formal verification and conformance testing for validating reactive systems.",
+        "authors": [
+          "Vlad Rusu"
+        ]
+      },
+      {
+        "title": "Checking security properties by model checking.",
+        "authors": [
+          "Nicoletta De Francesco",
+          "Giuseppe Lettieri"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Paul Gerrard"
+        ]
+      },
+      {
+        "title": "Editorial: The First International Workshop on Verification and Validation of Enterprise Information Systems (VVEIS 2003).",
+        "authors": [
+          "Juan Carlos Augusto",
+          "Marc Roper"
+        ]
+      },
+      {
+        "title": "High-level data races.",
+        "authors": [
+          "Cyrille Artho",
+          "Klaus Havelund",
+          "Armin Biere"
+        ]
+      },
+      {
+        "title": "Evaluating the sustained performance of COTS-based messaging systems.",
+        "authors": [
+          "Phong Tran",
+          "Jeffrey Gosper",
+          "Ian Gorton"
+        ]
+      },
+      {
+        "title": "Improved verification of linear-time properties within fairness: weakly continuation-closed behaviour abstractions computed from trace reductions.",
+        "authors": [
+          "Ulrich Ultes-Nitsche",
+          "Simon St. James"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Isabel Evans"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Ian Craggs"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr12.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 12",
+    "year": "2002",
+    "papers": [
+      {
+        "title": "Editorial: Find the missing links?",
+        "authors": [
+          "Derek Yates"
+        ]
+      },
+      {
+        "title": "Efficient model checking of properties of a distributed application: a multimedia case study.",
+        "authors": [
+          "Nicola Mazzocca",
+          "Antonella Santone",
+          "Gigliola Vaglini",
+          "Valeria Vittorini"
+        ]
+      },
+      {
+        "title": "Conditioned slicing supports partition testing.",
+        "authors": [
+          "Robert M. Hierons",
+          "Mark Harman",
+          "Chris Fox",
+          "Lahcen Ouarbya",
+          "Mohammed Daoudi"
+        ]
+      },
+      {
+        "title": "Preventing untestedness in data-flow based testing.",
+        "authors": [
+          "István Forgács",
+          "Antonia Bertolino"
+        ]
+      },
+      {
+        "title": "Digraphs: theory, algorithms and applications.",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      },
+      {
+        "title": "Refinement in Z and object-Z: foundations and advanced applications.",
+        "authors": [
+          "Perdita Stevens"
+        ]
+      },
+      {
+        "title": "List of Referees.",
+        "authors": [
+          "Lee J. White",
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Editorial: Formal methods and testing.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Additional transformations for multiple-level escape statements.",
+        "authors": [
+          "Ronald A. Olsson"
+        ]
+      },
+      {
+        "title": "Case study of testing a distributed internet-system.",
+        "authors": [
+          "Siegfried Göschl",
+          "Harry M. Sneed"
+        ]
+      },
+      {
+        "title": "Estimating the number of components with defects post-release that showed no defects in testing.",
+        "authors": [
+          "Catherine Stringfellow",
+          "Anneliese Amschler Andrews",
+          "Claes Wohlin",
+          "Håkan Petersson"
+        ]
+      },
+      {
+        "title": "Testing it: an off-the-shelf software testing process.",
+        "authors": [
+          "Geoff Thompson"
+        ]
+      },
+      {
+        "title": "Problem frames: analyzing and structuring software development problems.",
+        "authors": [
+          "Helen M. Edwards"
+        ]
+      },
+      {
+        "title": "Editorial: Little bugs and big bugs.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "State-of-the-art: software inspections after 25 years.",
+        "authors": [
+          "Aybüke Aurum",
+          "Håkan Petersson",
+          "Claes Wohlin"
+        ]
+      },
+      {
+        "title": "An empirical evaluation of six methods to detect faults in software.",
+        "authors": [
+          "Sun Sup So",
+          "Sung Deok Cha",
+          "Timothy J. Shimeall",
+          "Yong Rae Kwon"
+        ]
+      },
+      {
+        "title": "Syntactic reductions for efficient deadlock analysis.",
+        "authors": [
+          "Nicoletta De Francesco",
+          "Antonella Santone"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Michael Leuschel"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Florian Kammüller"
+        ]
+      },
+      {
+        "title": "Editorial: The importance of empirical work for software engineering papers.",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "Can fault-exposure-potential estimates improve the fault detection abilities of test suites?",
+        "authors": [
+          "Wei Chen",
+          "Roland H. Untch",
+          "Gregg Rothermel",
+          "Sebastian G. Elbaum",
+          "Jeffery von Ronne"
+        ]
+      },
+      {
+        "title": "Empirical studies of test-suite reduction.",
+        "authors": [
+          "Gregg Rothermel",
+          "Mary Jean Harrold",
+          "Jeffery von Ronne",
+          "Christie Hong"
+        ]
+      },
+      {
+        "title": "Model checking fault tolerant systems.",
+        "authors": [
+          "Cinzia Bernardeschi",
+          "Alessandro Fantechi",
+          "Stefania Gnesi"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Elizabeth Burd"
+        ]
+      },
+      {
+        "title": "Book Reviews.",
+        "authors": [
+          "Richard Banach"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr11.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 11",
+    "year": "2001",
+    "papers": [
+      {
+        "title": "Editorial: Specification-based testing revisited?",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "A rigorous method for test templates generation from object-oriented specifications.",
+        "authors": [
+          "Kasilingam Periyasamy",
+          "Vangalur S. Alagar"
+        ]
+      },
+      {
+        "title": "Statechart testing method for aircraft control systems.",
+        "authors": [
+          "Kirill Bogdanov",
+          "Mike Holcombe"
+        ]
+      },
+      {
+        "title": "Book Review: Formal Object-Oriented Specification Using Object-Z, by Roger Duke and Gordon Rose, Macmillan Press.",
+        "authors": [
+          "Kevin Lano"
+        ]
+      },
+      {
+        "title": "Book Review: Linux: The Complete Reference, Third Edition, by Richard Petersen, Osborne/McGraw-Hill.",
+        "authors": [
+          "Chris Fox"
+        ]
+      },
+      {
+        "title": "Editorial: The First International Workshop on Automated Program Analysis, Testing and Verification (WAPATV 2000).",
+        "authors": [
+          "Nigel Tracey",
+          "John Penix",
+          "Willem Visser"
+        ]
+      },
+      {
+        "title": "Software model checking: extracting verification models from source code.",
+        "authors": [
+          "Gerard J. Holzmann",
+          "Margaret H. Smith"
+        ]
+      },
+      {
+        "title": "ATGen: automatic test data generation using constraint logic programming and symbolic execution.",
+        "authors": [
+          "Christophe Meudec"
+        ]
+      },
+      {
+        "title": "A framework for practical, automated black-box testing of component-based software.",
+        "authors": [
+          "Stephen H. Edwards"
+        ]
+      },
+      {
+        "title": "Toward the determination of sufficient mutant operators for C.",
+        "authors": [
+          "Ellen Francine Barbosa",
+          "José Carlos Maldonado",
+          "Auri Marcelo Rizzo Vincenzi"
+        ]
+      },
+      {
+        "title": "Editorial: Putting specifications to the test.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Automated structural analysis of SCR-style software requirements specifications using PVS.",
+        "authors": [
+          "Taeho Kim",
+          "Sung Deok Cha"
+        ]
+      },
+      {
+        "title": "Test case selection strategies based on Boolean specifications.",
+        "authors": [
+          "Tsong Yueh Chen",
+          "Man Fai Lau"
+        ]
+      },
+      {
+        "title": "Teaching formal methods lite via testing.",
+        "authors": [
+          "Mark Utting",
+          "Steve Reeves"
+        ]
+      },
+      {
+        "title": "Book Review: Spin Model Checking and Software Verification, Proceedings of the 7th International SPIN Workshop, Stanford, CA, USA, By Klaus Havelund, John Penix and Willem Visser (eds.). LNCS 1885.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Book Review: Experimentation in Software Engineering: An Introduction. By Claes Wohlin, Per Runeson, Martin Höst, Magnus C. Ohlsson, Björn Regnell and Anders Wesslén. Kluwer Academic Publishers, 1999, ISBN 0-7923-8682-5.",
+        "authors": [
+          "Michelle Cartwright"
+        ]
+      },
+      {
+        "title": "Editorial: Mutation 2000 - A Symposium on Mutation Testing.",
+        "authors": [
+          "W. Eric Wong"
+        ]
+      },
+      {
+        "title": "Investigating the effectiveness of object-oriented testing strategies using the mutation method.",
+        "authors": [
+          "Sun-Woo Kim",
+          "John A. Clark",
+          "John A. McDermid"
+        ]
+      },
+      {
+        "title": "Interface mutation.",
+        "authors": [
+          "Sudipto Ghosh",
+          "Aditya P. Mathur"
+        ]
+      },
+      {
+        "title": "Unit and integration testing strategies for C programs using mutation.",
+        "authors": [
+          "Auri Marcelo Rizzo Vincenzi",
+          "José Carlos Maldonado",
+          "Ellen Francine Barbosa",
+          "Márcio Eduardo Delamaro"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr10.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 10",
+    "year": "2000",
+    "papers": [
+      {
+        "title": "Editorial: 'The Best Ever'.",
+        "authors": [
+          "Derek Yates"
+        ]
+      },
+      {
+        "title": "A Theoretical Study of Fault Coupling.",
+        "authors": [
+          "K. S. How Tai Wah"
+        ]
+      },
+      {
+        "title": "Effect of Fault Distribution and Execution Patterns on Fault Exposure in Software: A Simulation Study.",
+        "authors": [
+          "Anneliese von Mayrhauser",
+          "Dexing Chen"
+        ]
+      },
+      {
+        "title": "System Safety: HAZOP and Software HAZOP, Felix Redmill, Morris Chudleigh and James Catmur, Wiley, 1999 (Book Review).",
+        "authors": [
+          "John Murdoch"
+        ]
+      },
+      {
+        "title": "Test Process Improvement, Tim Koomen and Martin Pol, Addison-Wesley, 1999 (Book Review).",
+        "authors": [
+          "Richard N. Taylor"
+        ]
+      },
+      {
+        "title": "Editorial: 'The times they are a-changing'.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Regression Test Selection for C++ Software.",
+        "authors": [
+          "Gregg Rothermel",
+          "Mary Jean Harrold",
+          "Jeinay Dedhia"
+        ]
+      },
+      {
+        "title": "From Object-Z Specifications to ClassBench Test Suites.",
+        "authors": [
+          "David A. Carrington",
+          "Ian MacColl",
+          "Jason McDonald",
+          "Leesa Murray",
+          "Paul A. Strooper"
+        ]
+      },
+      {
+        "title": "Classical and Object-Oriented Software Engineering with UML and C++, Stephen R. Schach, McGraw-Hill, 1998 (Book Review).",
+        "authors": [
+          "Alexandra Poulovassilis"
+        ]
+      },
+      {
+        "title": "Software Test Automation: Effective Use of Test Execution Tools, Mark Fewster and Dorothy Graham, Addison-Wesley, 1999 (Book Review).",
+        "authors": [
+          "Paul Krause"
+        ]
+      },
+      {
+        "title": "Editorial: 'Collaboration, collaboration, collaboration'.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "State Generation and Automated Class Testing.",
+        "authors": [
+          "Thomas Ball",
+          "Daniel Hoffman",
+          "Frank Ruskey",
+          "Richard Webber",
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "An Empirical Investigation of the Relationship Between Spectra Differences and Regression Faults.",
+        "authors": [
+          "Mary Jean Harrold",
+          "Gregg Rothermel",
+          "Kent Sayre",
+          "Rui Wu",
+          "Liu Yi"
+        ]
+      },
+      {
+        "title": "Concurrent and Real-Time Systems: The CSP Approach, Steve Schneider, Wiley, 2000 (Book Review).",
+        "authors": [
+          "John Derrick"
+        ]
+      },
+      {
+        "title": "Testing Object-Oriented Software: Life-Cycle Solutions, Imran Bashir and Amrit L. Goel, Springer-Verlag, 2000 (Book Review).",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Editorial: special issue on specification-based testing.",
+        "authors": [
+          "Robert M. Hierons",
+          "John Derrick"
+        ]
+      },
+      {
+        "title": "A test sequence selection method for statecharts.",
+        "authors": [
+          "Hyoung Seok Hong",
+          "Young Gon Kim",
+          "Sung Deok Cha",
+          "Doo-Hwan Bae",
+          "Hasan Ural"
+        ]
+      },
+      {
+        "title": "Specification based test sequence generation with propositional logic.",
+        "authors": [
+          "Guido Wimmel",
+          "Heiko Lötzbeyer",
+          "Alexander Pretschner",
+          "Oscar Slotosch"
+        ]
+      },
+      {
+        "title": "Black-box testing using flowgraphs: an experimental assessment of effectiveness and automation potential.",
+        "authors": [
+          "Stephen H. Edwards"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr9.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 9",
+    "year": "1999",
+    "papers": [
+      {
+        "title": "Editorial: Crisis - What Crisis?",
+        "authors": [
+          "Derek Yates"
+        ]
+      },
+      {
+        "title": "Boundary Values and Automated Component Testing.",
+        "authors": [
+          "Daniel Hoffman",
+          "Paul A. Strooper",
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "Testing Refinements of State-based Formal Specifications.",
+        "authors": [
+          "John Derrick",
+          "Eerke A. Boiten"
+        ]
+      },
+      {
+        "title": "Path-sensitive Alias Analysis for Data Flow Testing.",
+        "authors": [
+          "Delia I. S. Marx",
+          "Phyllis G. Frankl"
+        ]
+      },
+      {
+        "title": "Software Fault Injection: Inoculating Programs Against Errors, by Jeffrey Voas and Gary McGraw, Wiley, 1998 (Book Review).",
+        "authors": [
+          "Stuart Reid"
+        ]
+      },
+      {
+        "title": "Correct Systems: Building a Business Process Solution, by Mike Holcombe and Florentin Ipate, Springer-Verlag, 1998 (Book Review).",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Editorial: V is for Verification.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Towards a Transformational Approach to Program Verification.",
+        "authors": [
+          "Myla Archer",
+          "Amy Lo",
+          "Ronald A. Olsson"
+        ]
+      },
+      {
+        "title": "LVT: A Layered Verification Technique for Distributed Computing Systems.",
+        "authors": [
+          "Cui Zhang",
+          "Brian R. Becker",
+          "Dave Peticolas",
+          "Ronald A. Olsson",
+          "Karl N. Levitt"
+        ]
+      },
+      {
+        "title": "Testing Safety-Related Software: a Practical Handbook, by S. Gardiner (Editor), Springer-Verlag, 1999 (Book Review).",
+        "authors": [
+          "Simon Burton"
+        ]
+      },
+      {
+        "title": "Surviving the Top Ten Challenges of Software Testing: a People-Oriented Approach, by William E. Perry and Randall W. Rice, Dorset House, 1997 (Book Review).",
+        "authors": [
+          "Dorothy R. Graham"
+        ]
+      },
+      {
+        "title": "Editorial: What does testing tell us?",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "A Contribution to the Evaluation of the Reliability of Iterative-Execution Software.",
+        "authors": [
+          "Andrea Bondavalli",
+          "Silvano Chiaradonna",
+          "Felicita Di Giandomenico",
+          "Lorenzo Strigini"
+        ]
+      },
+      {
+        "title": "Estimating the Number of Remaining Defects after Inspection.",
+        "authors": [
+          "James Miller"
+        ]
+      },
+      {
+        "title": "Machine Learning, by Tom M. Mitchell, McGraw-Hill, 1997 (Book Review).",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Testing Object-Oriented Software, by David C. Kung, Pei Hsia and Jerry Gao, IEEE Computer Society, 1998 (Book Review).",
+        "authors": [
+          "Marc Roper"
+        ]
+      },
+      {
+        "title": "Editorial: Submission of Position Papers and Letters to the Editor.",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "Tribute: John Gannon.",
+        "authors": [
+          "Richard G. Hamlet"
+        ]
+      },
+      {
+        "title": "Efficiency of Mutation Operators and Selective Mutation Strategies: An Empirical Study.",
+        "authors": [
+          "Elfurjani Sassi Mresa",
+          "Leonardo Bottaci"
+        ]
+      },
+      {
+        "title": "Using Program Slicing to Assist in the Detection of Equivalent Mutants.",
+        "authors": [
+          "Robert M. Hierons",
+          "Mark Harman",
+          "Sebastian Danicic"
+        ]
+      },
+      {
+        "title": "Test-Data Generation Using Genetic Algorithms.",
+        "authors": [
+          "Roy P. Pargas",
+          "Mary Jean Harrold",
+          "Robert Peck"
+        ]
+      },
+      {
+        "title": "The Renaissance of Legacy Systems: Method Support for Software-System Evolution, Ian Warren, Springer-Verlag, 1999 (Book Review).",
+        "authors": [
+          "Hongji Yang"
+        ]
+      },
+      {
+        "title": "Automated Software Testing: Introduction, Management and Performance, Elfriede Dustin, Jeff Rashka and John Paul, Addison-Wesley, 1999 (Book Review).",
+        "authors": [
+          "Geoff Quentin"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr8.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 8",
+    "year": "1998",
+    "papers": [
+      {
+        "title": "Editorial: A History Lesson?",
+        "authors": [
+          "Derek Yates"
+        ]
+      },
+      {
+        "title": "Specification for Testing - The Removal of Abstraction.",
+        "authors": [
+          "Ivor T. A. Spence"
+        ]
+      },
+      {
+        "title": "Declarative Paradigm of Test Coverage.",
+        "authors": [
+          "Fevzi Belli",
+          "Oliver Jack"
+        ]
+      },
+      {
+        "title": "Protocol Specification, Testing and Verification XV, by Piotr Dembinski and Marek Sredniawa (Editors), Chapman and Hall, 1996 (Book Review).",
+        "authors": [
+          "Mark B. Josephs"
+        ]
+      },
+      {
+        "title": "Editorial: Time and time again.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Specification and Testing Using Generalised Machines: A Presentation and a Case Study.",
+        "authors": [
+          "Florentin Ipate",
+          "Mike Holcombe"
+        ]
+      },
+      {
+        "title": "An Improvement of Partial-Order Verification.",
+        "authors": [
+          "Hans van der Schoot",
+          "Hasan Ural"
+        ]
+      },
+      {
+        "title": "Formal Methods in Human-Computer Interaction, by Philippe Palanque and Fabio Paterno (Editors), Springer-Verlag, 1998 (Book Review).",
+        "authors": [
+          "Harold W. Thimbleby"
+        ]
+      },
+      {
+        "title": "Software Process Improvement: Practical Guidelines for Business Success, by Sami Zahran, Addison-Wesley, 1997 (Book Review).",
+        "authors": [
+          "Colin Tully"
+        ]
+      },
+      {
+        "title": "Editorial: What is the Developer-to-Tester Ratio?",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "A Non-Parametric Order Statistics Software Reliability Model.",
+        "authors": [
+          "May Barghout",
+          "Bev Littlewood",
+          "Abdallah A. Abdel-Ghaly"
+        ]
+      },
+      {
+        "title": "Coupling-based Criteria for Integration Testing.",
+        "authors": [
+          "Zhenyi Jin",
+          "A. Jefferson Offutt"
+        ]
+      },
+      {
+        "title": "Assessing the Risk due to Software Faults: Estimates of Failure Rate versus Evidence of Perfection.",
+        "authors": [
+          "Antonia Bertolino",
+          "Lorenzo Strigini"
+        ]
+      },
+      {
+        "title": "Object-Oriented Development Process and Metrics, by Dennis de Champeaux and Penelope K. Faure, Prentice Hall, 1997 (Book Review).",
+        "authors": [
+          "Dilip Patel"
+        ]
+      },
+      {
+        "title": "Software Verification and Validation: A Practitioner's Guide, by Steven R. Rakitin, Artech House, 1997 (Book Review).",
+        "authors": [
+          "Robert Lockhart"
+        ]
+      },
+      {
+        "title": "Editorial: Quantum Computing, Software Testing and the Millennium Bug.",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      },
+      {
+        "title": "Change of Book Reviews Editor.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Toward a Cooperative Testing Process.",
+        "authors": [
+          "Manoochehr Ghiassi"
+        ]
+      },
+      {
+        "title": "A Knowledge-Based Test Plan Generator for Incremental Unit and Integration Software Testing.",
+        "authors": [
+          "Zorica Mihajlovic",
+          "Dusan M. Velasevic"
+        ]
+      },
+      {
+        "title": "Managing Risk: Methods for Software Systems Development, by Elaine M. Hall, Addison Wesley Longman, 1998 (Book Review).",
+        "authors": [
+          "Felix Redmill"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr7.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 7",
+    "year": "1997",
+    "papers": [
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Derek Yates"
+        ]
+      },
+      {
+        "title": "Improving the Testing Process Based Upon Standards.",
+        "authors": [
+          "Hareton K. N. Leung"
+        ]
+      },
+      {
+        "title": "Testing from a Z Specification.",
+        "authors": [
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Alternative Parameter Estimation Methods for the Compound Poisson Software Reliability Model with Clustered Failure Data.",
+        "authors": [
+          "Mehmet Sahinoglu",
+          "Ünal Can"
+        ]
+      },
+      {
+        "title": "Handbook of Software Reliability Engineering, by Michael R. Lyu (Editor), McGraw-Hill and IEEE Computer Society, 1996 (Book Review).",
+        "authors": [
+          "Min Xie"
+        ]
+      },
+      {
+        "title": "Object-Oriented Software Testing: A Hierarchical Approach, by Shel Siegel, Wiley, 1996 (Book Reviews).",
+        "authors": [
+          "Alan B. Hayes"
+        ]
+      },
+      {
+        "title": "Editorial: Research publication standards - making the right judgements.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "A Method for Continuous Real-Time Supervision.",
+        "authors": [
+          "R. Iorgulescu",
+          "Rudolph E. Seviora"
+        ]
+      },
+      {
+        "title": "A Software Inspection Process Definition Language and Prototype Support Tool.",
+        "authors": [
+          "Fraser MacDonald",
+          "James Miller"
+        ]
+      },
+      {
+        "title": "Specification in B: An Introduction Using the B Toolkit, by Kevin Lano and Howard Haughton, Imperial College Press, distributed by World Scientific Publishing, 1996 (Book Review).",
+        "authors": [
+          "Hélène Waeselynck"
+        ]
+      },
+      {
+        "title": "Software Inspection: An Industry Best Practice, by David A. Wheeler, Bill Brykczynski and Reginald N Meeson, Jr., IEEE Computer Society, 1996 (Book Review).",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      },
+      {
+        "title": "Editorial: What do we want to get out of testing?",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      },
+      {
+        "title": "The Effect of Fault Size on Testing.",
+        "authors": [
+          "Richard Bache"
+        ]
+      },
+      {
+        "title": "Estimation of Failure Rate using Random and Partition Testing.",
+        "authors": [
+          "Robert M. Hierons",
+          "Michael P. Wiper"
+        ]
+      },
+      {
+        "title": "Automatically Detecting Equivalent Mutants and Infeasible Paths.",
+        "authors": [
+          "A. Jefferson Offutt",
+          "Jie Pan"
+        ]
+      },
+      {
+        "title": "Reliability, Quality and Safety of Software-intensive Systems, by Dimitris Gritzalis (Editor), Chapman and Hall, 1997 (Book Review).",
+        "authors": [
+          "Richard Bache"
+        ]
+      },
+      {
+        "title": "Managing Software Quality, by Brian Hambling, McGraw-Hill, 1996 (Book Review).",
+        "authors": [
+          "Tracy Hall"
+        ]
+      },
+      {
+        "title": "Editorial: A six-year perspective - the readership and content of STVR.",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "Validation of Array Accesses: Integration of Flow Analysis and Program Verification Techniques.",
+        "authors": [
+          "Raymond W. Lo",
+          "Karl N. Levitt",
+          "Ronald A. Olsson"
+        ]
+      },
+      {
+        "title": "TIM - A Test Improvement Model.",
+        "authors": [
+          "Thomas Ericson",
+          "Anders Subotic",
+          "Stig Ursing"
+        ]
+      },
+      {
+        "title": "Information Security in Research and Business, by Louise Yngström and Jan Carlsen (Editors), Thomson Science & Professional, 1997 (Book Review).",
+        "authors": [
+          "Robert Lockhart"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr6.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 6",
+    "year": "1996",
+    "papers": [
+      {
+        "title": "Editorial: Testing - a Sisyphean or Herculean Task?",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "A Formal Interpretation of Software Testing as Inductive Inference.",
+        "authors": [
+          "Hong Zhu"
+        ]
+      },
+      {
+        "title": "On Testing Process Control Software for Reliability Assessment: the Effects of Correlation between Successive Failures.",
+        "authors": [
+          "Lorenzo Strigini"
+        ]
+      },
+      {
+        "title": "Black-Box Testing: Techniques for Functional Testing of Software and Systems, by Boris Beizer, Wiley, 1995 (Book Review).",
+        "authors": [
+          "K. S. How Tai Wah"
+        ]
+      },
+      {
+        "title": "Software Reliability and Testing, by Hoang Pham (Editor), IEEE Computer Society, 1995 (Book Review).",
+        "authors": [
+          "Richard Bache"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      },
+      {
+        "title": "Applying Inspection to Object-Oriented Code.",
+        "authors": [
+          "Fraser MacDonald",
+          "James Miller",
+          "Andrew Brooks",
+          "Marc Roper",
+          "Murray Wood"
+        ]
+      },
+      {
+        "title": "Program Slicing-Based Regression Testing Techniques.",
+        "authors": [
+          "Rajiv Gupta",
+          "Mary Jean Harrold",
+          "Mary Lou Soffa"
+        ]
+      },
+      {
+        "title": "Software Assessment: Reliability, Safety, Testability, by Michael A. Friedman and Jeffrey M. Voas, Wiley, 1995 (Book Review).",
+        "authors": [
+          "Antonia Bertolino"
+        ]
+      },
+      {
+        "title": "Design of Dependable Ada Software, by G. Motet, A. Mapinard and J. C. Geoffroy, Prentice Hall, 1995 (Book Review).",
+        "authors": [
+          "Brian A. Wichmann"
+        ]
+      },
+      {
+        "title": "Editorial: About the contents of this double issue - 'Testing Object-Oriented Software: A Survey' by Robert V. Binder.",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "Testing Object-Oriented Software: A Survey.",
+        "authors": [
+          "Robert V. Binder"
+        ]
+      },
+      {
+        "title": "Achieving Quality in Software: Proceedings of the Third International Conference on Achieving Quality in Software, by Sandro Bologna and Giacomo Bucci (Editors), Chapman and Hall, 1996 (Book Review).",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      },
+      {
+        "title": "Object-Oriented Metrics: Measures of Complexity, by Brian Henderson-Sellers, Prentice Hall, 1996 (Book Review).",
+        "authors": [
+          "Martin West"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr5.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 5",
+    "year": "1995",
+    "papers": [
+      {
+        "title": "Editorial: Testing Matters.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Fault Coupling in Finite Bijective Functions.",
+        "authors": [
+          "K. S. How Tai Wah"
+        ]
+      },
+      {
+        "title": "Algebraic Specifications and Sequencing: A Defect Detection Method.",
+        "authors": [
+          "Kurt M. Olender",
+          "James M. Bieman"
+        ]
+      },
+      {
+        "title": "Software Testing, by Marc Roper, McGraw-Hill, 1994 (Book Review).",
+        "authors": [
+          "Rachel Harrison"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Derek Yates"
+        ]
+      },
+      {
+        "title": "Error Masking in Computer Programs.",
+        "authors": [
+          "Janusz W. Laski",
+          "Wojciech Szermer",
+          "Piotr Luczycki"
+        ]
+      },
+      {
+        "title": "Decision Tables: Formalisation, Validation and Verification.",
+        "authors": [
+          "Stephen Murrell",
+          "Robert Plant"
+        ]
+      },
+      {
+        "title": "Software in Safety-Related Systems, by Brian Wichmann (Editor), Wiley, 1992 and Safety-Critical Systems: Current Issues, Techniques and Standards, Felix Redmill and Tom Anderson (Editors), Chapman & Hall, 1993 and Directions in Safety-Critical Systems, by Felix Redmill and Tom Anderson (Editors), Springer-Verlag, 1993 and Technology and Assessment of Safety-Critical Systems, Felix Redmill and Tom Anderson (Editors), Springer-Verlag, 1994 and Achievement and Assurance of Safety, Felix Redmill and Tom Anderson (Editors), Springer-Verlag, 1995 and Journal: High Integrity Systems, Andrew D. McGettrick (Editor), Oxford University Press (Books and Journal Review).",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      },
+      {
+        "title": "Guest Editorial: EuroSTAR '94.",
+        "authors": [
+          "Cindy Morelli",
+          "Bill Hetzel"
+        ]
+      },
+      {
+        "title": "Using Program Slicing to Simplify Testing.",
+        "authors": [
+          "Mark Harman",
+          "Sebastian Danicic"
+        ]
+      },
+      {
+        "title": "Systematic Testing: A Means for Validating Reactive Systems.",
+        "authors": [
+          "Monika Müllerburg"
+        ]
+      },
+      {
+        "title": "Evaluating the Reliability of the Software of a Switching System with a Multi-variable Model.",
+        "authors": [
+          "Patrizia Bondi",
+          "Guido Simonetti"
+        ]
+      },
+      {
+        "title": "Safer C: Developing Software for High-Integrity and Safety-Critical Systems, by Les Hatton, McGraw-Hill, 1995 (Book Review).",
+        "authors": [
+          "Deryk Pavey"
+        ]
+      },
+      {
+        "title": "The Handbook of MIS Application Software Testing: Methods, Techniques, and Tools for Assuring Quality Through Testing, by Daniel J. Mosley, Prentice Hall, 1992 (Book Review).",
+        "authors": [
+          "Jennifer Stapleton"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "An Experimental Evaluation of Capture-Recapture in Software Inspections.",
+        "authors": [
+          "Claes Wohlin",
+          "Per Runeson",
+          "Johan Brantestam"
+        ]
+      },
+      {
+        "title": "Techniques for the Verification and Validation of Knowledge-based Systems: A Survey Based on the Symbol/Knowledge Level Distinction.",
+        "authors": [
+          "Anca I. Vermesan",
+          "Trevor J. M. Bench-Capon"
+        ]
+      },
+      {
+        "title": "Software Quality: A Framework for Success in Software Development and Support, by Joc Sanders and Eugene Curran, Addison-Wesley, 1994 (Book Review).",
+        "authors": [
+          "David Wilson"
+        ]
+      },
+      {
+        "title": "Metrics and Models in Software Quality Engineering, by Stephen H. Kan, Addison-Wesley, 1995 (Book Review).",
+        "authors": [
+          "Martin Neil"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr4.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 4",
+    "year": "1994",
+    "papers": [
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Derek Yates"
+        ]
+      },
+      {
+        "title": "A Relationship Between Software Coverage Metrics and Reliability.",
+        "authors": [
+          "Alan Veevers",
+          "Adam C. Marshall"
+        ]
+      },
+      {
+        "title": "An Empirical Comparison of Data Flow and Mutation-Based Test Adequacy Criteria.",
+        "authors": [
+          "Aditya P. Mathur",
+          "W. Eric Wong"
+        ]
+      },
+      {
+        "title": "Validating Functional Equivalence of Re-engineered Programs via Control Path, Result, and Data Flow Comparison.",
+        "authors": [
+          "Harry M. Sneed"
+        ]
+      },
+      {
+        "title": "Rebuttal of the Book Review by R. Whitty of 'Software Testing Techniques' (2nd Edition).",
+        "authors": [
+          "Boris Beizer"
+        ]
+      },
+      {
+        "title": "Reply to the Rebuttal of the Review of Beizer's 'Software Testing Techniques' (2nd Edition).",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      },
+      {
+        "title": "User Interface Software, by Len Bass and Prasun Dewan (Editors), Wiley, 1993 (Book Review).",
+        "authors": [
+          "Thom Gillespie"
+        ]
+      },
+      {
+        "title": "Developing User Interfaces: Ensuring Usability Through Product and Process, by Deborah Hix and H. Rex Hartson, Wiley, 1993 (Book Review).",
+        "authors": [
+          "Mikey Williams"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      },
+      {
+        "title": "Defining Testability Metrics Axiomatically.",
+        "authors": [
+          "John Bainbridge"
+        ]
+      },
+      {
+        "title": "The Automated Generation of Test Cases for Compilers.",
+        "authors": [
+          "Colin J. Burgess"
+        ]
+      },
+      {
+        "title": "Inspecting Module Interface Specifications.",
+        "authors": [
+          "Ann Jackson",
+          "Daniel Hoffman"
+        ]
+      },
+      {
+        "title": "Software Engineering Metrics, Volume 1: Measures and Validations, by Martin Sheppard, McGraw-Hill, 1993 (Book Review).",
+        "authors": [
+          "Norman E. Fenton"
+        ]
+      },
+      {
+        "title": "ISO 9001 and Software Quality Assurance, by Darrel Ince, McGraw-Hill, 1994 (Book Review).",
+        "authors": [
+          "Norbert Fuchs"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Using Compiler Optimization Techniques to Detect Equivalent Mutants.",
+        "authors": [
+          "A. Jefferson Offutt",
+          "W. M. Craft"
+        ]
+      },
+      {
+        "title": "Transformational Program Analysis.",
+        "authors": [
+          "Kevin Lano"
+        ]
+      },
+      {
+        "title": "Z - An Introduction to Formal Methods, by Antoni Diller, Wiley, Second Edition, 1994 (Book Review).",
+        "authors": [
+          "David Mole"
+        ]
+      },
+      {
+        "title": "Cutting Your Test Development Time with HP VEE, an Iconic Programming Language, Hewlett-Packard, 1994 (Book Review).",
+        "authors": [
+          "Bruce Elliott"
+        ]
+      },
+      {
+        "title": "Editorial: Too Many Conference Choices?",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "Determining the Reliability of Prolog Programs.",
+        "authors": [
+          "Alireza Azem",
+          "Fevzi Belli"
+        ]
+      },
+      {
+        "title": "Re-designing Tasking Structures of Ada Programs for Analysis: A Case Study.",
+        "authors": [
+          "Wei Jen Yeh",
+          "Michal Young"
+        ]
+      },
+      {
+        "title": "Object-Oriented Software Metrics, by Mark Lorenz and Jeff Kidd, Prentice Hall, 1994 (Book Review).",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr3.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 3",
+    "year": "1993",
+    "papers": [
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Software Reliability Models: A Selected Annotated Bibliography.",
+        "authors": [
+          "Min Xie"
+        ]
+      },
+      {
+        "title": "Employing Static Information in the Generation of Test Cases.",
+        "authors": [
+          "Rajiv Gupta",
+          "Mary Lou Soffa"
+        ]
+      },
+      {
+        "title": "Independent Verification and Validation: a Life Cycle Engineering Process for Quality Software, by R. O. Lewis, Wiley, 1992 (Book Review).",
+        "authors": [
+          "Darius Karkaria"
+        ]
+      },
+      {
+        "title": "Discrete Event Simulation in C, by Kevin Watkins, McGraw-Hill, 1993 (Book Review).",
+        "authors": [
+          "Robert Lockhart"
+        ]
+      },
+      {
+        "title": "Editorial: Need for a Testing Metric - Error Detection Rate.",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "Classification Trees for Partition Testing.",
+        "authors": [
+          "Matthias Grochtmann",
+          "Klaus Grimm"
+        ]
+      },
+      {
+        "title": "Replay-Based Debugging of Occam Programs.",
+        "authors": [
+          "Aniello Cimitile",
+          "Ugo de Carlini",
+          "Umberto Villano"
+        ]
+      },
+      {
+        "title": "Using Symbolic Execution and Data Flow Criteria to Aid Test Data Selection.",
+        "authors": [
+          "Moheb R. Girgis"
+        ]
+      },
+      {
+        "title": "Method Integration: Concepts and Case Studies, by Klaus Kronlöf (Editor), Wiley, 1993 (Book Review).",
+        "authors": [
+          "Lesley Semmens"
+        ]
+      },
+      {
+        "title": "Guest Editorial: EuroSTAR '93.",
+        "authors": [
+          "Dorothy R. Graham",
+          "Bill Hetzel"
+        ]
+      },
+      {
+        "title": "Metrics Collection in Code and Unit Test as Part of Continuous Quality Improvement.",
+        "authors": [
+          "Shaun Davey",
+          "Dave Huxford",
+          "John Liddiard",
+          "Mark Powley",
+          "Alan Smith"
+        ]
+      },
+      {
+        "title": "An Integrated Methodology for the Specification, Verification and Testing of Systems.",
+        "authors": [
+          "Mike Holcombe"
+        ]
+      },
+      {
+        "title": "Software Testing Using Analysis and Design Based Techniques.",
+        "authors": [
+          "Marc Roper",
+          "Ab. Rashid bin Ab. Rahim"
+        ]
+      },
+      {
+        "title": "A Metric-Based Software Evaluation Method.",
+        "authors": [
+          "Dieter Welzel",
+          "Hans-Ludwig Hausen",
+          "Jørgen Bøegh"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr2.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 2",
+    "year": "1992",
+    "papers": [
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "An Example of Testing Versus Verification.",
+        "authors": [
+          "Kenneth A. Foster"
+        ]
+      },
+      {
+        "title": "Formal Specification and Testing: A Case Study.",
+        "authors": [
+          "Gilbert Thomas Laycock"
+        ]
+      },
+      {
+        "title": "The Revealing Power of a Test Case.",
+        "authors": [
+          "Jeffrey M. Voas",
+          "Keith W. Miller"
+        ]
+      },
+      {
+        "title": "Rapid Evolutionary Development: Requirements; Prototyping and Software Creation, by Lowell Jay Arthur, Wiley, 1992 (Book Review).",
+        "authors": [
+          "James M. Bieman"
+        ]
+      },
+      {
+        "title": "The Cleanroom Approach to Quality Software Development, by Michael Dyer, Wiley, 1992 (Book Review).",
+        "authors": [
+          "Norman E. Fenton"
+        ]
+      },
+      {
+        "title": "Dependable Computing and Fault-Tolerant Systems, Vol. 5 - Dependability: Basic Concepts and Terminology, by J. C. Laprie (Editor), Springer-Verlag, 1992 (Book Review).",
+        "authors": [
+          "Motoei Azuma"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "Employing Accumulated Knowledge to Refine Test Descriptions.",
+        "authors": [
+          "J. Christian Wild",
+          "Steven J. Zeil",
+          "Gao Feng",
+          "Ji Chen"
+        ]
+      },
+      {
+        "title": "Inductive Inference and Software Testing.",
+        "authors": [
+          "Hong Zhu",
+          "Patrick A. V. Hall",
+          "John H. R. May"
+        ]
+      },
+      {
+        "title": "Control Flow and Data Flow Oriented Integration Test Methods.",
+        "authors": [
+          "Andreas Spillner"
+        ]
+      },
+      {
+        "title": "Statistical Methods for Testing, Development and Manufacturing, by Forrest W. Breyfogle III, Wiley, 1992 (Book Review).",
+        "authors": [
+          "Marianne Müller"
+        ]
+      },
+      {
+        "title": "Reliability and Robustness of Engineering Software II, by C. A. Brebbia and A. J. Ferrante (Editors), Computational Mechanics Publications, 1991 (Book Review).",
+        "authors": [
+          "Bryan Bridge"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      },
+      {
+        "title": "Software Testing: A Selected Annotated Bibliography.",
+        "authors": [
+          "Marc Roper"
+        ]
+      },
+      {
+        "title": "Structured Inspections of Code.",
+        "authors": [
+          "Maarten H. van Emden"
+        ]
+      },
+      {
+        "title": "Software Quality: Theory and Management, by Alan C. Gillies, Chapman and Hall, 1992 (Book Review).",
+        "authors": [
+          "Norman E. Fenton"
+        ]
+      },
+      {
+        "title": "Software Metrics: a Practitioner's Guide to Improved Product Development, by K. H. Möller and D.J. Paulish, Chapman and Hall, 1992 (Book Review).",
+        "authors": [
+          "Chris Miller"
+        ]
+      },
+      {
+        "title": "ami Handbook: a Quantitative Approach to Software Management, by A. Combelles, J. Holdsworth and S. Shirlaw (Editors), Published by South Bank University, 1992 (Book Review).",
+        "authors": [
+          "Suman Sharma"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Derek Yates",
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Problems and Strategies for Software Component Testing Standards.",
+        "authors": [
+          "Brian A. Wichmann",
+          "M. G. Cox"
+        ]
+      },
+      {
+        "title": "A Specification Case Study Using the B-Methodology.",
+        "authors": [
+          "Andrew Storey"
+        ]
+      },
+      {
+        "title": "Dynamic Method of Software Test Data Generation.",
+        "authors": [
+          "Bogdan Korel"
+        ]
+      },
+      {
+        "title": "Software Testing Techniques, by Boris Beizer, Van Nostrand Reinhold, Second Edition, 1990 and Testing Computer Software, by C. Kaner, J. Falik and H. Q. Nguyen, Van Nostrand Reinhold, Second Edition, 1993 (Book Review).",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/stvr/stvr1.html": {
+    "header": "Software Testing, Verification & Reliability (STVR), Volume 1",
+    "year": "1991",
+    "papers": [
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Derek Yates"
+        ]
+      },
+      {
+        "title": "Program Testing versus Proofs of Correctness.",
+        "authors": [
+          "William E. Howden"
+        ]
+      },
+      {
+        "title": "Some Issues in Software Reliability Assessment.",
+        "authors": [
+          "Alan Veevers"
+        ]
+      },
+      {
+        "title": "How to Avoid Systematic Software Testing.",
+        "authors": [
+          "Michael A. Hennell"
+        ]
+      },
+      {
+        "title": "Software Reliability - What Is It?",
+        "authors": [
+          "M. Dyer"
+        ]
+      },
+      {
+        "title": "An Exercise in Weakest Preconditions.",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      },
+      {
+        "title": "GOTO considered alive and well.",
+        "authors": [
+          "Richard Bache"
+        ]
+      },
+      {
+        "title": "Engineering Quality Software: A Review of Current Practices, Standards and Guidelines Including New Methods and Development Tools, by avid J. Smith and Kenneth B. Wood, Elsevier (Book Review).",
+        "authors": [
+          "Bob Cole"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Lee J. White"
+        ]
+      },
+      {
+        "title": "An Investigation of Statistical Software Testing.",
+        "authors": [
+          "Pascale Thévenod-Fosse",
+          "Hélène Waeselynck"
+        ]
+      },
+      {
+        "title": "Validating Software Measures.",
+        "authors": [
+          "Norman E. Fenton",
+          "Barbara A. Kitchenham"
+        ]
+      },
+      {
+        "title": "The Managing Director Wants 100 per cent Automated Testing: A Case History.",
+        "authors": [
+          "Mark Fewster"
+        ]
+      },
+      {
+        "title": "Response to 'GOTO considered alive and well' by R. Bache.",
+        "authors": [
+          "J. D. Wigg"
+        ]
+      },
+      {
+        "title": "Software Design for Real-Time Systems, by J. E. Cooling, Chapman and Hall, 1990 (Book Review).",
+        "authors": [
+          "Richard Tinker"
+        ]
+      },
+      {
+        "title": "Software Quality and Reliability: Tools and Methods, by Darrel Ince (Editor), Chapman and Hall, 1991 (Book Review).",
+        "authors": [
+          "Martin Bush"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Robin W. Whitty"
+        ]
+      },
+      {
+        "title": "A Conceptual Model of Software Testing.",
+        "authors": [
+          "Adam C. Marshall"
+        ]
+      },
+      {
+        "title": "Software Testing Tools: A New Classification Scheme.",
+        "authors": [
+          "Dorothy R. Graham"
+        ]
+      },
+      {
+        "title": "Concerning Ordered Mutation Testing of Relational Operators.",
+        "authors": [
+          "Martin R. Woodward"
+        ]
+      },
+      {
+        "title": "Software Complexity: Measures and Methods, by Horst Zuse, Published by Walter de Gruyter, 1990 (Book Review).",
+        "authors": [
+          "Norman E. Fenton"
+        ]
+      },
+      {
+        "title": "Software Metrics: A Rigorous Approach, by Norman Fenton, Chapman and Hall, 1991 (Book Review).",
+        "authors": [
+          "Ronald E. Prather"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "Derek Yates"
+        ]
+      },
+      {
+        "title": "Parametrized Mutation Testing.",
+        "authors": [
+          "I. M. M. Duncan",
+          "D. J. Robson"
+        ]
+      },
+      {
+        "title": "Multivariate Assessment of Software Products.",
+        "authors": [
+          "Martin Neil"
+        ]
+      },
+      {
+        "title": "Systematic Testing of Data Abstractions Based on Software Specifications.",
+        "authors": [
+          "Stuart H. Zweben",
+          "Wayne D. Heym",
+          "Jon Kimmich"
+        ]
+      },
+      {
+        "title": "Methods and Tools for Software Configuration Management, by J. Whitgift, Wiley (Book Review).",
+        "authors": [
+          "Dave Preston"
+        ]
+      },
+      {
+        "title": "Software Configuration Management, by H. Ronald Berlack, Wiley (Book Review).",
+        "authors": [
+          "David Mole"
+        ]
+      }
+    ]
+  }
+}

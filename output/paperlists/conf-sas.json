@@ -1,0 +1,7048 @@
+{
+  "https://dblp.org/db/conf/sas/sas2024.html": {
+    "header": "31st SAS 2024: Pasadena, CA, USA",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "Static Analysis of Quantum Programs.",
+        "authors": [
+          "Nicola Assolini",
+          "Alessandra Di Pierro",
+          "Isabella Mastroeni"
+        ]
+      },
+      {
+        "title": "Trace Partitioning as an Optimization Problem.",
+        "authors": [
+          "M. Charles Babu",
+          "Matthieu Lemerre",
+          "Sébastien Bardin",
+          "Jean-Yves Marion"
+        ]
+      },
+      {
+        "title": "On the Role of Cognizance in Responsibility.",
+        "authors": [
+          "Laura Canaia",
+          "Mila Dalla Preda"
+        ]
+      },
+      {
+        "title": "Lift-Offline: Instruction Lifter Generators.",
+        "authors": [
+          "Nicholas Coughlin",
+          "A. Michael",
+          "Kait Lam"
+        ]
+      },
+      {
+        "title": "Full Control-Flow Sensitivity for Definitional Interpreters.",
+        "authors": [
+          "Kimball Germane"
+        ]
+      },
+      {
+        "title": "Synthesizing Abstract Transformers for Reduced-Product Domains.",
+        "authors": [
+          "Pankaj Kumar Kalita",
+          "Thomas W. Reps",
+          "Subhajit Roy"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation of ReLU Neural Networks with Optimizable Polynomial Relaxations.",
+        "authors": [
+          "Philipp Kern",
+          "Carsten Sinz"
+        ]
+      },
+      {
+        "title": "Should We Balance? Towards Formal Verification of the Linux Kernel Scheduler.",
+        "authors": [
+          "Julia Lawall",
+          "Keisuke Nishimura",
+          "Jean-Pierre Lozi"
+        ]
+      },
+      {
+        "title": "GoGuard: Efficient Static Blocking Bug Detection for Go.",
+        "authors": [
+          "Bozhen Liu",
+          "Dhruti Joshi"
+        ]
+      },
+      {
+        "title": "Verification of Programs with ADTs Using Shallow Horn Clauses.",
+        "authors": [
+          "Théo Losekoot",
+          "Thomas Genet",
+          "Thomas P. Jensen"
+        ]
+      },
+      {
+        "title": "Quantitative Static Timing Analysis.",
+        "authors": [
+          "Denis Mazzucato",
+          "Marco Campion",
+          "Caterina Urban"
+        ]
+      },
+      {
+        "title": "Under-Approximating Memory Abstractions.",
+        "authors": [
+          "Marco Milanese",
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Robustness Verification of Multi-label Neural Network Classifiers.",
+        "authors": [
+          "Julian Mour",
+          "Dana Drachsler-Cohen"
+        ]
+      },
+      {
+        "title": "An Order Theory Framework of Recurrence Equations for Static Cost Analysis - Dynamic Inference of Non-Linear Inequality Invariants.",
+        "authors": [
+          "Louis Rustenholz",
+          "Pedro López-García",
+          "José F. Morales",
+          "Manuel V. Hermenegildo"
+        ]
+      },
+      {
+        "title": "Fixing Latent Unsound Abstract Operators in the eBPF Verifier of the Linux Kernel.",
+        "authors": [
+          "Matan Shachnai",
+          "Harishankar Vishwanathan",
+          "Srinivas Narayana",
+          "Santosh Nagarakatte"
+        ]
+      },
+      {
+        "title": "ConstraintFlow: A Declarative DSL for Easy Development of DNN Certifiers.",
+        "authors": [
+          "Avaljot Singh",
+          "Yasmin Sarita",
+          "Charith Mendis",
+          "Gagandeep Singh"
+        ]
+      },
+      {
+        "title": "BinSub: The Simple Essence of Polymorphic Type Inference for Machine Code.",
+        "authors": [
+          "Ian Smith"
+        ]
+      },
+      {
+        "title": "Verifying Components of Arm® Confidential Computing Architecture with ESBMC.",
+        "authors": [
+          "Tong Wu",
+          "Shale Xiong",
+          "Edoardo Manino",
+          "Gareth Stockwell",
+          "Lucas C. Cordeiro"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2023.html": {
+    "header": "30th SAS 2023: Cascais, Portugal",
+    "year": "2023",
+    "papers": [
+      {
+        "title": "Verifying Infinitely Many Programs at Once.",
+        "authors": [
+          "Loris D'Antoni"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation in Industry - Experience and Lessons Learned.",
+        "authors": [
+          "Daniel Kästner",
+          "Reinhard Wilhelm",
+          "Christian Ferdinand"
+        ]
+      },
+      {
+        "title": "Building Trust and Safety in Artificial Intelligence with Abstract Interpretation.",
+        "authors": [
+          "Gagandeep Singh"
+        ]
+      },
+      {
+        "title": "Modular Optimization-Based Roundoff Error Analysis of Floating-Point Programs.",
+        "authors": [
+          "Rosa Abbasi",
+          "Eva Darulova"
+        ]
+      },
+      {
+        "title": "Unconstrained Variable Oracles for Faster Numeric Static Analyses.",
+        "authors": [
+          "Vincenzo Arceri",
+          "Greta Dolcetti",
+          "Enea Zaffanella"
+        ]
+      },
+      {
+        "title": "Symbolic Transformation of Expressions in Modular Arithmetic.",
+        "authors": [
+          "Jérôme Boillot",
+          "Jérôme Feret"
+        ]
+      },
+      {
+        "title": "A Formal Framework to Measure the Incompleteness of Abstract Interpretations.",
+        "authors": [
+          "Marco Campion",
+          "Caterina Urban",
+          "Mila Dalla Preda",
+          "Roberto Giacobazzi"
+        ]
+      },
+      {
+        "title": "BREWasm: A General Static Binary Rewriting Framework for WebAssembly.",
+        "authors": [
+          "Shangtong Cao",
+          "Ningyu He",
+          "Yao Guo",
+          "Haoyu Wang"
+        ]
+      },
+      {
+        "title": "Quantum Constant Propagation.",
+        "authors": [
+          "Yanbin Chen",
+          "Yannick Stade"
+        ]
+      },
+      {
+        "title": "Error Invariants for Fault Localization via Abstract Interpretation.",
+        "authors": [
+          "Aleksandar S. Dimovski"
+        ]
+      },
+      {
+        "title": "Generalized Program Sketching by Abstract Interpretation and Logical Abduction.",
+        "authors": [
+          "Aleksandar S. Dimovski"
+        ]
+      },
+      {
+        "title": "Mutual Refinements of Context-Free Language Reachability.",
+        "authors": [
+          "Shuo Ding",
+          "Qirun Zhang"
+        ]
+      },
+      {
+        "title": "ADCL: Acceleration Driven Clause Learning for Constrained Horn Clauses.",
+        "authors": [
+          "Florian Frohn",
+          "Jürgen Giesl"
+        ]
+      },
+      {
+        "title": "How Fitting is Your Abstract Domain?",
+        "authors": [
+          "Roberto Giacobazzi",
+          "Isabella Mastroeni",
+          "Elia Perantoni"
+        ]
+      },
+      {
+        "title": "A Product of Shape and Sequence Abstractions.",
+        "authors": [
+          "Josselin Giet",
+          "Félix Ridoux",
+          "Xavier Rival"
+        ]
+      },
+      {
+        "title": "Error Localization for Sequential Effect Systems.",
+        "authors": [
+          "Colin S. Gordon",
+          "Chaewon Yun"
+        ]
+      },
+      {
+        "title": "Scaling up Roundoff Analysis of Functional Data Structure Programs.",
+        "authors": [
+          "Anastasia Isychev",
+          "Eva Darulova"
+        ]
+      },
+      {
+        "title": "Reverse Template Processing Using Abstract Interpretation.",
+        "authors": [
+          "Matthieu Lemerre"
+        ]
+      },
+      {
+        "title": "Domain Precision in Galois Connection-Less Abstract Interpretation.",
+        "authors": [
+          "Isabella Mastroeni",
+          "Michele Pasqua"
+        ]
+      },
+      {
+        "title": "Lifting On-Demand Analysis to Higher-Order Languages.",
+        "authors": [
+          "Daniel Schoepe",
+          "David Seekatz",
+          "Ilina Stoilkovska",
+          "Sandro Stucki",
+          "Daniel Tattersall",
+          "Pauline Bolignano",
+          "Franco Raimondi",
+          "Bor-Yuh Evan Chang"
+        ]
+      },
+      {
+        "title": "Octagons Revisited - Elegant Proofs and Simplified Algorithms.",
+        "authors": [
+          "Michael Schwarz",
+          "Helmut Seidl"
+        ]
+      },
+      {
+        "title": "Polynomial Analysis of Modular Arithmetic.",
+        "authors": [
+          "Thomas Seed",
+          "Chris Coppins",
+          "Andy King",
+          "Neil Evans"
+        ]
+      },
+      {
+        "title": "Boosting Multi-neuron Convex Relaxation for Neural Network Verification.",
+        "authors": [
+          "Xuezhou Tang",
+          "Ye Zheng",
+          "Jiaxiang Liu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2022.html": {
+    "header": "29th SAS 2022: Auckland, New Zealand",
+    "year": "2022",
+    "papers": [
+      {
+        "title": "Specification-Guided Reinforcement Learning.",
+        "authors": [
+          "Suguman Bansal"
+        ]
+      },
+      {
+        "title": "Towards Efficient Reasoning of Quantum Programs.",
+        "authors": [
+          "Nengkun Yu"
+        ]
+      },
+      {
+        "title": "Solving Invariant Generation for Unsolvable Loops.",
+        "authors": [
+          "Daneshvar Amrollahi",
+          "Ezio Bartocci",
+          "George Kenison",
+          "Laura Kovács",
+          "Marcel Moosbrugger",
+          "Miroslav Stankovic"
+        ]
+      },
+      {
+        "title": "Principles of Staged Static+Dynamic Partial Analysis.",
+        "authors": [
+          "Aditya Anand",
+          "Manas Thakur"
+        ]
+      },
+      {
+        "title": "SecWasm: Information Flow Control for WebAssembly.",
+        "authors": [
+          "Iulia Bastys",
+          "Maximilian Algehed",
+          "Alexander Sjösten",
+          "Andrei Sabelfeld"
+        ]
+      },
+      {
+        "title": "Lifting Numeric Relational Domains to Algebraic Data Types.",
+        "authors": [
+          "Santiago Bautista",
+          "Thomas P. Jensen",
+          "Benoît Montagu"
+        ]
+      },
+      {
+        "title": "Automated Synthesis of Asynchronizations.",
+        "authors": [
+          "Sidi Mohamed Beillahi",
+          "Ahmed Bouajjani",
+          "Constantin Enea",
+          "Shuvendu K. Lahiri"
+        ]
+      },
+      {
+        "title": "Case Study on Verification-Witness Validators: Where We Are and Where We Go.",
+        "authors": [
+          "Dirk Beyer",
+          "Jan Strejcek"
+        ]
+      },
+      {
+        "title": "Deciding Program Properties via Complete Abstractions on Bounded Domains.",
+        "authors": [
+          "Roberto Bruni",
+          "Roberta Gori",
+          "Nicolas Manini"
+        ]
+      },
+      {
+        "title": "Invariant Inference with Provable Complexity from the Monotone Theory.",
+        "authors": [
+          "Yotam M. Y. Feldman",
+          "Sharon Shoham"
+        ]
+      },
+      {
+        "title": "Efficient Modular SMT-Based Model Checking of Pointer Programs.",
+        "authors": [
+          "Isabel Garcia-Contreras",
+          "Arie Gurfinkel",
+          "Jorge A. Navas"
+        ]
+      },
+      {
+        "title": "Property-Driven Code Obfuscations Reinterpreting Jones-Optimality in Abstract Interpretation.",
+        "authors": [
+          "Roberto Giacobazzi",
+          "Isabella Mastroeni"
+        ]
+      },
+      {
+        "title": "Bootstrapping Library-Based Synthesis.",
+        "authors": [
+          "Kangjing Huang",
+          "Xiaokang Qiu"
+        ]
+      },
+      {
+        "title": "Boosting Robustness Verification of Semantic Feature Neighborhoods.",
+        "authors": [
+          "Anan Kabaha",
+          "Dana Drachsler-Cohen"
+        ]
+      },
+      {
+        "title": "Fast and Incremental Computation of Weak Control Closure.",
+        "authors": [
+          "Abu Naser Masud"
+        ]
+      },
+      {
+        "title": "Local Completeness Logic on Kleene Algebra with Tests.",
+        "authors": [
+          "Marco Milanese",
+          "Francesco Ranzato"
+        ]
+      },
+      {
+        "title": "Semantic Foundations for Cost Analysis of Pipeline-Optimized Programs.",
+        "authors": [
+          "Gilles Barthe",
+          "Adrien Koutsos",
+          "Solène Mirliaz",
+          "David Pichardie",
+          "Peter Schwabe"
+        ]
+      },
+      {
+        "title": "Parameterized Recursive Refinement Types for Automated Program Verification.",
+        "authors": [
+          "Ryoya Mukai",
+          "Naoki Kobayashi",
+          "Ryosuke Sato"
+        ]
+      },
+      {
+        "title": "Adversarial Logic.",
+        "authors": [
+          "Julien Vanegue"
+        ]
+      },
+      {
+        "title": "CLEVEREST: Accelerating CEGAR-based Neural Network Verification via Adversarial Attacks.",
+        "authors": [
+          "Zhe Zhao",
+          "Yedi Zhang",
+          "Guangke Chen",
+          "Fu Song",
+          "Taolue Chen",
+          "Jiaxiang Liu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2021.html": {
+    "header": "28th SAS 2021: Chicago, IL, USA",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Fast and Efficient Bit-Level Precision Tuning.",
+        "authors": [
+          "Assalé Adjé",
+          "Dorra Ben Khalifa",
+          "Matthieu Martel"
+        ]
+      },
+      {
+        "title": "Hash Consed Points-To Sets.",
+        "authors": [
+          "Mohamad Barbar",
+          "Yulei Sui"
+        ]
+      },
+      {
+        "title": "Backward Symbolic Execution with Loop Folding.",
+        "authors": [
+          "Marek Chalupa",
+          "Jan Strejcek"
+        ]
+      },
+      {
+        "title": "Accelerating Program Analyses in Datalog by Merging Library Facts.",
+        "authors": [
+          "Yifan Chen",
+          "Chenyang Yang",
+          "Xin Zhang",
+          "Yingfei Xiong",
+          "Hao Tang",
+          "Xiaoyin Wang",
+          "Lu Zhang"
+        ]
+      },
+      {
+        "title": "Static Analysis of Endian Portability by Abstract Interpretation.",
+        "authors": [
+          "David Delmas",
+          "Abdelraouf Ouadjaout",
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Verified Functional Programming of an Abstract Interpreter.",
+        "authors": [
+          "Lucas Franceschino",
+          "David Pichardie",
+          "Jean-Pierre Talpin"
+        ]
+      },
+      {
+        "title": "Disjunctive Interval Analysis.",
+        "authors": [
+          "Graeme Gange",
+          "Jorge A. Navas",
+          "Peter Schachte",
+          "Harald Søndergaard",
+          "Peter J. Stuckey"
+        ]
+      },
+      {
+        "title": "Static Analysis of ReLU Neural Networks with Tropical Polyhedra.",
+        "authors": [
+          "Eric Goubault",
+          "Sébastien Palumby",
+          "Sylvie Putot",
+          "Louis Rustenholz",
+          "Sriram Sankaranarayanan"
+        ]
+      },
+      {
+        "title": "Exploiting Verified Neural Networks via Floating Point Numerical Error.",
+        "authors": [
+          "Kai Jia",
+          "Martin C. Rinard"
+        ]
+      },
+      {
+        "title": "Verifying Low-Dimensional Input Neural Networks via Input Quantization.",
+        "authors": [
+          "Kai Jia",
+          "Martin C. Rinard"
+        ]
+      },
+      {
+        "title": "Data Abstraction: A General Framework to Handle Program Verification of Data Structures.",
+        "authors": [
+          "Julien Braine",
+          "Laure Gonnord",
+          "David Monniaux"
+        ]
+      },
+      {
+        "title": "Toward Neural-Network-Guided Program Synthesis and Verification.",
+        "authors": [
+          "Naoki Kobayashi",
+          "Taro Sekiyama",
+          "Issei Sato",
+          "Hiroshi Unno"
+        ]
+      },
+      {
+        "title": "Selective Context-Sensitivity for k-CFA with CFL-Reachability.",
+        "authors": [
+          "Jingbo Lu",
+          "Dongjie He",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "Selectively-Amortized Resource Bounding.",
+        "authors": [
+          "Tianhan Lu",
+          "Bor-Yuh Evan Chang",
+          "Ashutosh Trivedi"
+        ]
+      },
+      {
+        "title": "Reduced Products of Abstract Domains for Fairness Certification of Neural Networks.",
+        "authors": [
+          "Denis Mazzucato",
+          "Caterina Urban"
+        ]
+      },
+      {
+        "title": "A Multilanguage Static Analysis of Python Programs with Native C Extensions.",
+        "authors": [
+          "Raphaël Monat",
+          "Abdelraouf Ouadjaout",
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Automated Verification of the Parallel Bellman-Ford Algorithm.",
+        "authors": [
+          "Mohsen Safari",
+          "Wytse Oortwijn",
+          "Marieke Huisman"
+        ]
+      },
+      {
+        "title": "Improving Thread-Modular Abstract Interpretation.",
+        "authors": [
+          "Michael Schwarz",
+          "Simmo Saan",
+          "Helmut Seidl",
+          "Kalmer Apinis",
+          "Julian Erhard",
+          "Vesal Vojdani"
+        ]
+      },
+      {
+        "title": "Thread-Modular Analysis of Release-Acquire Concurrency.",
+        "authors": [
+          "Divyanjali Sharma",
+          "Subodh Sharma"
+        ]
+      },
+      {
+        "title": "Symbolic Automatic Relations and Their Applications to SMT and CHC Solving.",
+        "authors": [
+          "Takumi Shimoda",
+          "Naoki Kobayashi",
+          "Ken Sakayori",
+          "Ryosuke Sato"
+        ]
+      },
+      {
+        "title": "Compositional Verification of Smart Contracts Through Communication Abstraction.",
+        "authors": [
+          "Scott Wesley",
+          "Maria Christakis",
+          "Jorge A. Navas",
+          "Richard J. Trefler",
+          "Valentin Wüstholz",
+          "Arie Gurfinkel"
+        ]
+      },
+      {
+        "title": "Automatic Synthesis of Data-Flow Analyzers.",
+        "authors": [
+          "Xuezheng Xu",
+          "Xudong Wang",
+          "Jingling Xue"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2020.html": {
+    "header": "27th SAS 2020: Virtual Event",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "Static Resource Analysis at Scale (Extended Abstract).",
+        "authors": [
+          "Ezgi Çiçek",
+          "Mehdi Bouaziz",
+          "Sungkeun Cho",
+          "Dino Distefano"
+        ]
+      },
+      {
+        "title": "Cost Analysis of Smart Contracts Via Parametric Resource Analysis.",
+        "authors": [
+          "Victor Perez-Carrasco",
+          "Maximiliano Klemen",
+          "Pedro López-García",
+          "José Francisco Morales",
+          "Manuel V. Hermenegildo"
+        ]
+      },
+      {
+        "title": "Memory-Efficient Fixpoint Computation.",
+        "authors": [
+          "Sung Kook Kim",
+          "Arnaud J. Venet",
+          "Aditya V. Thakur"
+        ]
+      },
+      {
+        "title": "Abstract Neural Networks.",
+        "authors": [
+          "Matthew Sotoudeh",
+          "Aditya V. Thakur"
+        ]
+      },
+      {
+        "title": "Termination of Polynomial Loops.",
+        "authors": [
+          "Florian Frohn",
+          "Marcel Hark",
+          "Jürgen Giesl"
+        ]
+      },
+      {
+        "title": "Stratified Guarded First-Order Transition Systems.",
+        "authors": [
+          "Christan Müller",
+          "Helmut Seidl"
+        ]
+      },
+      {
+        "title": "Predicate Abstraction and CEGAR for $\\nu \\mathrm {HFL}_\\mathbb {Z}$ Validity Checking.",
+        "authors": [
+          "Naoki Iwayama",
+          "Naoki Kobayashi",
+          "Ryota Suzuki",
+          "Takeshi Tsukada"
+        ]
+      },
+      {
+        "title": "Counterexample- and Simulation-Guided Floating-Point Loop Invariant Synthesis.",
+        "authors": [
+          "Anastasiia Izycheva",
+          "Eva Darulova",
+          "Helmut Seidl"
+        ]
+      },
+      {
+        "title": "Formal Framework for Reasoning About the Precision of Dynamic Analysis.",
+        "authors": [
+          "Mila Dalla Preda",
+          "Roberto Giacobazzi",
+          "Niccolò Marastoni"
+        ]
+      },
+      {
+        "title": "Simple and Efficient Computation of Minimal Weak Control Closure.",
+        "authors": [
+          "Abu Naser Masud"
+        ]
+      },
+      {
+        "title": "A Library Modeling Language for the Static Analysis of C Programs.",
+        "authors": [
+          "Abdelraouf Ouadjaout",
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Interprocedural Shape Analysis Using Separation Logic-Based Transformer Summaries.",
+        "authors": [
+          "Hugo Illous",
+          "Matthieu Lemerre",
+          "Xavier Rival"
+        ]
+      },
+      {
+        "title": "Probabilistic Lipschitz Analysis of Neural Networks.",
+        "authors": [
+          "Ravi Mangal",
+          "Kartik Sarangmath",
+          "Aditya V. Nori",
+          "Alessandro Orso"
+        ]
+      },
+      {
+        "title": "On Multi-language Abstraction - Towards a Static Analysis of Multi-language Programs.",
+        "authors": [
+          "Samuele Buro",
+          "Roy L. Crole",
+          "Isabella Mastroeni"
+        ]
+      },
+      {
+        "title": "Exact and Linear-Time Gas-Cost Analysis.",
+        "authors": [
+          "Ankush Das",
+          "Shaz Qadeer"
+        ]
+      },
+      {
+        "title": "Farkas-Based Tree Interpolation.",
+        "authors": [
+          "Sepideh Asadi",
+          "Martin Blicha",
+          "Antti E. J. Hyvärinen",
+          "Grigory Fedyukovich",
+          "Natasha Sharygina"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2019.html": {
+    "header": "26th SAS 2019: Porto, Portugal",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "Rethinking Static Analysis by Combining Discrete and Continuous Reasoning.",
+        "authors": [
+          "Mayur Naik"
+        ]
+      },
+      {
+        "title": "Static Analysis of Data Science Software.",
+        "authors": [
+          "Caterina Urban"
+        ]
+      },
+      {
+        "title": "Fast and Precise Handling of Positive Weight Cycles for Field-Sensitive Pointer Analysis.",
+        "authors": [
+          "Yuxiang Lei",
+          "Yulei Sui"
+        ]
+      },
+      {
+        "title": "Per-Dereference Verification of Temporal Heap Safety via Adaptive Context-Sensitive Analysis.",
+        "authors": [
+          "Hua Yan",
+          "Shiping Chen",
+          "Yulei Sui",
+          "Yueqian Zhang",
+          "Changwei Zou",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "A Change-Based Heuristic for Static Analysis with Policy Iteration.",
+        "authors": [
+          "Marcus Völker",
+          "Stefan Kowalewski"
+        ]
+      },
+      {
+        "title": "Syntactic and Semantic Soundness of Structural Dataflow Analysis.",
+        "authors": [
+          "Patrick Cousot"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation of Indexed Grammars.",
+        "authors": [
+          "Marco Campion",
+          "Mila Dalla Preda",
+          "Roberto Giacobazzi"
+        ]
+      },
+      {
+        "title": "Language Inclusion Algorithms as Complete Abstract Interpretations.",
+        "authors": [
+          "Pierre Ganty",
+          "Francesco Ranzato",
+          "Pedro Valero"
+        ]
+      },
+      {
+        "title": "On the Monniaux Problem in Abstract Interpretation.",
+        "authors": [
+          "Nathanaël Fijalkow",
+          "Engel Lefaucheux",
+          "Pierre Ohlmann",
+          "Joël Ouaknine",
+          "Amaury Pouly",
+          "James Worrell"
+        ]
+      },
+      {
+        "title": "Revisiting Polyhedral Analysis for Hybrid Systems.",
+        "authors": [
+          "Anna Becchi",
+          "Enea Zaffanella"
+        ]
+      },
+      {
+        "title": "An Efficient Parametric Linear Programming Solver and Application to Polyhedral Projection.",
+        "authors": [
+          "Hang Yu",
+          "David Monniaux"
+        ]
+      },
+      {
+        "title": "Analysis of Software Patches Using Numerical Abstract Interpretation.",
+        "authors": [
+          "David Delmas",
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Verifying Numerical Programs via Iterative Abstract Testing.",
+        "authors": [
+          "Banghu Yin",
+          "Liqian Chen",
+          "Jiangchao Liu",
+          "Ji Wang",
+          "Patrick Cousot"
+        ]
+      },
+      {
+        "title": "Robustness Verification of Support Vector Machines.",
+        "authors": [
+          "Francesco Ranzato",
+          "Marco Zanella"
+        ]
+      },
+      {
+        "title": "Analyzing Deep Neural Networks with Symbolic Propagation: Towards Higher Precision and Faster Verification.",
+        "authors": [
+          "Jianlin Li",
+          "Jiangchao Liu",
+          "Pengfei Yang",
+          "Liqian Chen",
+          "Xiaowei Huang",
+          "Lijun Zhang"
+        ]
+      },
+      {
+        "title": "Sorcar: Property-Driven Algorithms for Learning Conjunctive Invariants.",
+        "authors": [
+          "Daniel Neider",
+          "Shambwaditya Saha",
+          "Pranav Garg",
+          "P. Madhusudan"
+        ]
+      },
+      {
+        "title": "Direct Manipulation for Imperative Programs.",
+        "authors": [
+          "Qinheping Hu",
+          "Roopsha Samanta",
+          "Rishabh Singh",
+          "Loris D'Antoni"
+        ]
+      },
+      {
+        "title": "Responsibility Analysis by Abstract Interpretation.",
+        "authors": [
+          "Chaoqiang Deng",
+          "Patrick Cousot"
+        ]
+      },
+      {
+        "title": "Abstract Semantic Dependency.",
+        "authors": [
+          "Patrick Cousot"
+        ]
+      },
+      {
+        "title": "Temporal Verification of Programs via First-Order Fixpoint Logic.",
+        "authors": [
+          "Naoki Kobayashi",
+          "Takeshi Nishikawa",
+          "Atsushi Igarashi",
+          "Hiroshi Unno"
+        ]
+      },
+      {
+        "title": "A Temporal Logic for Higher-Order Functional Programs.",
+        "authors": [
+          "Yuya Okuyama",
+          "Takeshi Tsukada",
+          "Naoki Kobayashi"
+        ]
+      },
+      {
+        "title": "Multiphase-Linear Ranking Functions and Their Relation to Recurrent Sets.",
+        "authors": [
+          "Amir M. Ben-Amram",
+          "Jesús J. Doménech",
+          "Samir Genaim"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2018.html": {
+    "header": "25th SAS 2018: Freiburg, Germany",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "Fairness: A Formal-Methods Perspective.",
+        "authors": [
+          "Aws Albarghouthi"
+        ]
+      },
+      {
+        "title": "The MISRA C Coding Standard and its Role in the Development and Analysis of Safety- and Security-Critical Embedded Software.",
+        "authors": [
+          "Roberto Bagnara",
+          "Abramo Bagnara",
+          "Patricia M. Hill"
+        ]
+      },
+      {
+        "title": "Numerical Invariants via Abstract Machines.",
+        "authors": [
+          "Zachary Kincaid"
+        ]
+      },
+      {
+        "title": "Deductive Verification in Decidable Fragments with Ivy.",
+        "authors": [
+          "Kenneth L. McMillan",
+          "Oded Padon"
+        ]
+      },
+      {
+        "title": "Experience Developing and Deploying Concurrency Analysis at Facebook.",
+        "authors": [
+          "Peter W. O'Hearn"
+        ]
+      },
+      {
+        "title": "New Applications of Software Synthesis: Verification of Configuration Files and Firewall Repair.",
+        "authors": [
+          "Ruzica Piskac"
+        ]
+      },
+      {
+        "title": "Interactive Verification of Distributed Protocols Using Decidable Logic.",
+        "authors": [
+          "Sharon Shoham"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation of Stateful Networks.",
+        "authors": [
+          "Kalev Alpernas",
+          "Roman Manevich",
+          "Aurojit Panda",
+          "Mooly Sagiv",
+          "Scott Shenker",
+          "Sharon Shoham",
+          "Yaron Velner"
+        ]
+      },
+      {
+        "title": "Block-Size Independence for GPU Programs.",
+        "authors": [
+          "Rajeev Alur",
+          "Joseph Devietti",
+          "Nimit Singhania"
+        ]
+      },
+      {
+        "title": "Extending Constraint-Only Representation of Polyhedra with Boolean Constraints.",
+        "authors": [
+          "Alexey Bakhirkin",
+          "David Monniaux"
+        ]
+      },
+      {
+        "title": "An Efficient Abstract Domain for Not Necessarily Closed Polyhedra.",
+        "authors": [
+          "Anna Becchi",
+          "Enea Zaffanella"
+        ]
+      },
+      {
+        "title": "Modular Software Fault Isolation as Abstract Interpretation.",
+        "authors": [
+          "Frédéric Besson",
+          "Thomas P. Jensen",
+          "Julien Lepiller"
+        ]
+      },
+      {
+        "title": "Closing the Performance Gap Between Doubles and Rationals for Octagons.",
+        "authors": [
+          "Aziem Chawdhary",
+          "Andy King"
+        ]
+      },
+      {
+        "title": "Verifying Properties of Differentiable Programs.",
+        "authors": [
+          "Jan Hückelheim",
+          "Ziqing Luo",
+          "Sri Hari Krishna Narayanan",
+          "Stephen F. Siegel",
+          "Paul D. Hovland"
+        ]
+      },
+      {
+        "title": "A Reduced Product of Absolute and Relative Error Bounds for Floating-Point Analysis.",
+        "authors": [
+          "Maxime Jacquemin",
+          "Sylvie Putot",
+          "Franck Védrine"
+        ]
+      },
+      {
+        "title": "Modular Static Analysis of String Manipulations in C Programs.",
+        "authors": [
+          "Matthieu Journault",
+          "Antoine Miné",
+          "Abdelraouf Ouadjaout"
+        ]
+      },
+      {
+        "title": "Verifying Bounded Subset-Closed Hyperproperties.",
+        "authors": [
+          "Isabella Mastroeni",
+          "Michele Pasqua"
+        ]
+      },
+      {
+        "title": "Process-Local Static Analysis of Synchronous Processes.",
+        "authors": [
+          "Jan Midtgaard",
+          "Flemming Nielson",
+          "Hanne Riis Nielson"
+        ]
+      },
+      {
+        "title": "The Impact of Program Transformations on Static Program Analysis.",
+        "authors": [
+          "Kedar S. Namjoshi",
+          "Zvonimir Pavlinovic"
+        ]
+      },
+      {
+        "title": "Efficiently Learning Safety Proofs from Appearance as well as Behaviours.",
+        "authors": [
+          "Sumanth Prabhu",
+          "Kumar Madhukar",
+          "R. Venkatesh"
+        ]
+      },
+      {
+        "title": "Invertible Linear Transforms of Numerical Abstract Domains.",
+        "authors": [
+          "Francesco Ranzato",
+          "Marco Zanella"
+        ]
+      },
+      {
+        "title": "Incremental Verification Using Trace Abstraction.",
+        "authors": [
+          "Bat-Chen Rothenberg",
+          "Daniel Dietsch",
+          "Matthias Heizmann"
+        ]
+      },
+      {
+        "title": "Volume-Based Merge Heuristics for Disjunctive Numeric Domains.",
+        "authors": [
+          "Andrew Ruef",
+          "Kesha Hietala",
+          "Arlen Cox"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation of CTL Properties.",
+        "authors": [
+          "Caterina Urban",
+          "Samuel Ueltschi",
+          "Peter Müller"
+        ]
+      },
+      {
+        "title": "Inductive Termination Proofs with Transition Invariants and Their Relationship to the Size-Change Abstraction.",
+        "authors": [
+          "Florian Zuleger"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/entcs/entcs334.html": {
+    "header": "7th NSAD@SAS 2017: New York City, NY, USA",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Preface.",
+        "authors": [
+          "Francesca Scozzari"
+        ]
+      },
+      {
+        "title": "Experimental Evaluation of Numerical Domains for Inferring Ranges.",
+        "authors": [
+          "Gianluca Amato",
+          "Marco Rubino"
+        ]
+      },
+      {
+        "title": "Fuzzy Set Abstraction.",
+        "authors": [
+          "Jacob Lidman",
+          "Josef Svenningsson"
+        ]
+      },
+      {
+        "title": "On the Efficiency of Convex Polyhedra.",
+        "authors": [
+          "Enea Zaffanella"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2017.html": {
+    "header": "24th SAS 2017: New York, NY, USA",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Probabilistic Horn Clause Verification.",
+        "authors": [
+          "Aws Albarghouthi"
+        ]
+      },
+      {
+        "title": "Combining Forward and Backward Abstract Interpretation of Horn Clauses.",
+        "authors": [
+          "Alexey Bakhirkin",
+          "David Monniaux"
+        ]
+      },
+      {
+        "title": "Abstract Semantic Diffing of Evolving Concurrent Programs.",
+        "authors": [
+          "Ahmed Bouajjani",
+          "Constantin Enea",
+          "Shuvendu K. Lahiri"
+        ]
+      },
+      {
+        "title": "Learning Shape Analysis.",
+        "authors": [
+          "Marc Brockschmidt",
+          "Yuxin Chen",
+          "Pushmeet Kohli",
+          "Siddharth Krishna",
+          "Daniel Tarlow"
+        ]
+      },
+      {
+        "title": "Securing the SSA Transform.",
+        "authors": [
+          "Chaoqiang Deng",
+          "Kedar S. Namjoshi"
+        ]
+      },
+      {
+        "title": "Relative Store Fragments for Singleton Abstraction.",
+        "authors": [
+          "Leandro Facchinetti",
+          "Zachary Palmer",
+          "Scott F. Smith"
+        ]
+      },
+      {
+        "title": "Loop Invariants from Counterexamples.",
+        "authors": [
+          "Marius Greitschus",
+          "Daniel Dietsch",
+          "Andreas Podelski"
+        ]
+      },
+      {
+        "title": "A Context-Sensitive Memory Model for Verification of C/C++ Programs.",
+        "authors": [
+          "Arie Gurfinkel",
+          "Jorge A. Navas"
+        ]
+      },
+      {
+        "title": "Effect Summaries for Thread-Modular Analysis - Sound Analysis Despite an Unsound Heuristic.",
+        "authors": [
+          "Lukás Holík",
+          "Roland Meyer",
+          "Tomás Vojnar",
+          "Sebastian Wolff"
+        ]
+      },
+      {
+        "title": "Toward a Sound Analysis of Guarded LTI Loops with Inputs by Abstract Acceleration.",
+        "authors": [
+          "Colas Le Guernic"
+        ]
+      },
+      {
+        "title": "Scalable Minimizing-Operators on Polyhedra via Parametric Linear Programming.",
+        "authors": [
+          "Alexandre Maréchal",
+          "David Monniaux",
+          "Michaël Périn"
+        ]
+      },
+      {
+        "title": "Hyperhierarchy of Semantics - A Formal Framework for Hyperproperties Verification.",
+        "authors": [
+          "Isabella Mastroeni",
+          "Michele Pasqua"
+        ]
+      },
+      {
+        "title": "Thread-Local Semantics and Its Efficient Sequential Abstractions for Race-Free Programs.",
+        "authors": [
+          "Suvam Mukherjee",
+          "Oded Padon",
+          "Sharon Shoham",
+          "Deepak D'Souza",
+          "Noam Rinetzky"
+        ]
+      },
+      {
+        "title": "Quantitative Static Analysis of Communication Protocols Using Abstract Markov Chains.",
+        "authors": [
+          "Abdelraouf Ouadjaout",
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Portability Analysis for Weak Memory Models. PORTHOS: One Tool for all Models.",
+        "authors": [
+          "Hernán Ponce de León",
+          "Florian Furbach",
+          "Keijo Heljanko",
+          "Roland Meyer"
+        ]
+      },
+      {
+        "title": "Template Polyhedra with a Twist.",
+        "authors": [
+          "Sriram Sankaranarayanan",
+          "Mohamed Amin Ben Sassi"
+        ]
+      },
+      {
+        "title": "A New Abstraction Framework for Affine Transformers.",
+        "authors": [
+          "Tushar Sharma",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Synthesizing Imperative Programs from Examples Guided by Static Analysis.",
+        "authors": [
+          "Sunbeom So",
+          "Hakjoo Oh"
+        ]
+      },
+      {
+        "title": "A Gradual Interpretation of Union Types.",
+        "authors": [
+          "Matías Toro",
+          "Éric Tanter"
+        ]
+      },
+      {
+        "title": "Modular Demand-Driven Analysis of Semantic Difference for Program Versions.",
+        "authors": [
+          "Anna Trostanetski",
+          "Orna Grumberg",
+          "Daniel Kroening"
+        ]
+      },
+      {
+        "title": "Verifying Array Manipulating Programs by Tiling.",
+        "authors": [
+          "Supratik Chakraborty",
+          "Ashutosh Gupta",
+          "Divyesh Unadkat"
+        ]
+      },
+      {
+        "title": "Incremental Analysis for Probabilistic Programs.",
+        "authors": [
+          "Jieyuan Zhang",
+          "Yulei Sui",
+          "Jingling Xue"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/entcs/entcs331.html": {
+    "header": "6th NSAD@SAS 2016: Edinburgh, UK",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Preface.",
+        "authors": [
+          "Isabella Mastroeni"
+        ]
+      },
+      {
+        "title": "Static Analysis of Embedded Real-Time Concurrent Software with Dynamic Priorities.",
+        "authors": [
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Abstract Domains for Type Juggling.",
+        "authors": [
+          "Vincenzo Arceri",
+          "Sergio Maffeis"
+        ]
+      },
+      {
+        "title": "Sparsity Preserving Algorithms for Octagons.",
+        "authors": [
+          "Jacques-Henri Jourdan"
+        ]
+      },
+      {
+        "title": "Software Watermarking: A Semantics-based Approach.",
+        "authors": [
+          "Mila Dalla Preda",
+          "Michele Pasqua"
+        ]
+      },
+      {
+        "title": "Abstract Similarity Analysis.",
+        "authors": [
+          "Mila Dalla Preda",
+          "Vanessa Vidali"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2016.html": {
+    "header": "23. SAS 2016: Edinburgh, UK",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "Simulation and Invariance for Weak Consistency.",
+        "authors": [
+          "Jade Alglave"
+        ]
+      },
+      {
+        "title": "Quantitative Monitor Automata.",
+        "authors": [
+          "Krishnendu Chatterjee",
+          "Thomas A. Henzinger",
+          "Jan Otop"
+        ]
+      },
+      {
+        "title": "The Julia Static Analyzer for Java.",
+        "authors": [
+          "Fausto Spoto"
+        ]
+      },
+      {
+        "title": "Automated Verification of Linearization Policies.",
+        "authors": [
+          "Parosh Aziz Abdulla",
+          "Bengt Jonsson",
+          "Cong Quy Trinh"
+        ]
+      },
+      {
+        "title": "Structure-Sensitive Points-To Analysis for C and C++.",
+        "authors": [
+          "George Balatsouras",
+          "Yannis Smaragdakis"
+        ]
+      },
+      {
+        "title": "Bounded Abstract Interpretation.",
+        "authors": [
+          "Maria Christakis",
+          "Valentin Wüstholz"
+        ]
+      },
+      {
+        "title": "Completeness in Approximate Transduction.",
+        "authors": [
+          "Mila Dalla Preda",
+          "Roberto Giacobazzi",
+          "Isabella Mastroeni"
+        ]
+      },
+      {
+        "title": "Relational Verification Through Horn Clause Transformation.",
+        "authors": [
+          "Emanuele De Angelis",
+          "Fabio Fioravanti",
+          "Alberto Pettorossi",
+          "Maurizio Proietti"
+        ]
+      },
+      {
+        "title": "Securing a Compiler Transformation.",
+        "authors": [
+          "Chaoqiang Deng",
+          "Kedar S. Namjoshi"
+        ]
+      },
+      {
+        "title": "Exploiting Sparsity in Difference-Bound Matrices.",
+        "authors": [
+          "Graeme Gange",
+          "Jorge A. Navas",
+          "Peter Schachte",
+          "Harald Søndergaard",
+          "Peter J. Stuckey"
+        ]
+      },
+      {
+        "title": "Flow- and Context-Sensitive Points-To Analysis Using Generalized Points-To Graphs.",
+        "authors": [
+          "Pritam M. Gharat",
+          "Uday P. Khedker",
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "Learning a Variable-Clustering Strategy for Octagon from Labeled Data Generated by a Static Analysis.",
+        "authors": [
+          "Kihong Heo",
+          "Hakjoo Oh",
+          "Hongseok Yang"
+        ]
+      },
+      {
+        "title": "Static Analysis by Abstract Interpretation of the Functional Correctness of Matrix Manipulating Programs.",
+        "authors": [
+          "Matthieu Journault",
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Generalized Homogeneous Polynomials for Efficient Template-Based Nonlinear Invariant Synthesis.",
+        "authors": [
+          "Kensuke Kojima",
+          "Minoru Kinoshita",
+          "Kohei Suenaga"
+        ]
+      },
+      {
+        "title": "On the Linear Ranking Problem for Simple Floating-Point Loops.",
+        "authors": [
+          "Fonenantsoa Maurica",
+          "Frédéric Mesnard",
+          "Étienne Payet"
+        ]
+      },
+      {
+        "title": "Alive-FP: Automated Verification of Floating Point Based Peephole Optimizations in LLVM.",
+        "authors": [
+          "David Menendez",
+          "Santosh Nagarakatte",
+          "Aarti Gupta"
+        ]
+      },
+      {
+        "title": "A Parametric Abstract Domain for Lattice-Valued Regular Expressions.",
+        "authors": [
+          "Jan Midtgaard",
+          "Flemming Nielson",
+          "Hanne Riis Nielson"
+        ]
+      },
+      {
+        "title": "Cell Morphing: From Array Programs to Array-Free Horn Clauses.",
+        "authors": [
+          "David Monniaux",
+          "Laure Gonnord"
+        ]
+      },
+      {
+        "title": "Loopy: Programmable and Formally Verified Loop Transformations.",
+        "authors": [
+          "Kedar S. Namjoshi",
+          "Nimit Singhania"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation of Supermodular Games.",
+        "authors": [
+          "Francesco Ranzato"
+        ]
+      },
+      {
+        "title": "Validating Numerical Semidefinite Programming Solvers for Polynomial Invariants.",
+        "authors": [
+          "Pierre Roux",
+          "Yuen-Lam Voronin",
+          "Sriram Sankaranarayanan"
+        ]
+      },
+      {
+        "title": "Enforcing Termination of Interprocedural Analysis.",
+        "authors": [
+          "Stefan Schulze Frielinghaus",
+          "Helmut Seidl",
+          "Ralf Vogler"
+        ]
+      },
+      {
+        "title": "From Array Domains to Abstract Interpretation Under Store-Buffer-Based Memory Models.",
+        "authors": [
+          "Thibault Suzanne",
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Making k-Object-Sensitive Pointer Analysis More Precise with Still k-Limiting.",
+        "authors": [
+          "Tian Tan",
+          "Yue Li",
+          "Jingling Xue"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2015.html": {
+    "header": "22. SAS 2015: Saint-Malo, France",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Static Analysis of Non-interference in Expressive Low-Level Languages.",
+        "authors": [
+          "Peter Aldous",
+          "Matthew Might"
+        ]
+      },
+      {
+        "title": "Static Analysis with Set-Closure in Secrecy.",
+        "authors": [
+          "Woosuk Lee",
+          "Hyunsook Hong",
+          "Kwangkeun Yi",
+          "Jung Hee Cheon"
+        ]
+      },
+      {
+        "title": "A Binary Decision Tree Abstract Domain Functor.",
+        "authors": [
+          "Junjie Chen",
+          "Patrick Cousot"
+        ]
+      },
+      {
+        "title": "Precise Data Flow Analysis in the Presence of Correlated Method Calls.",
+        "authors": [
+          "Marianna Rapoport",
+          "Ondrej Lhoták",
+          "Frank Tip"
+        ]
+      },
+      {
+        "title": "May-Happen-in-Parallel Analysis for Asynchronous Programs with Inter-Procedural Synchronization.",
+        "authors": [
+          "Elvira Albert",
+          "Samir Genaim",
+          "Pablo Gordillo"
+        ]
+      },
+      {
+        "title": "Shape Analysis for Unstructured Sharing.",
+        "authors": [
+          "Huisong Li",
+          "Xavier Rival",
+          "Bor-Yuh Evan Chang"
+        ]
+      },
+      {
+        "title": "Synthesizing Heap Manipulations via Integer Linear Programming.",
+        "authors": [
+          "Anshul Garg",
+          "Subhajit Roy"
+        ]
+      },
+      {
+        "title": "Explaining the Effectiveness of Small Refinement Heuristics in Program Verification with CEGAR.",
+        "authors": [
+          "Tachio Terauchi"
+        ]
+      },
+      {
+        "title": "Safety Verification and Refutation by k-Invariants and k-Induction.",
+        "authors": [
+          "Martin Brain",
+          "Saurabh Joshi",
+          "Daniel Kroening",
+          "Peter Schrammel"
+        ]
+      },
+      {
+        "title": "Effective Soundness-Guided Reflection Analysis.",
+        "authors": [
+          "Yue Li",
+          "Tian Tan",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "SJS: A Type System for JavaScript with Fixed Object Layout.",
+        "authors": [
+          "Wontae Choi",
+          "Satish Chandra",
+          "George C. Necula",
+          "Koushik Sen"
+        ]
+      },
+      {
+        "title": "Refinement Type Inference via Horn Constraint Optimization.",
+        "authors": [
+          "Kodai Hashimoto",
+          "Hiroshi Unno"
+        ]
+      },
+      {
+        "title": "A Simple Abstraction of Arrays and Maps by Program Translation.",
+        "authors": [
+          "David Monniaux",
+          "Francesco Alberti"
+        ]
+      },
+      {
+        "title": "Property-based Polynomial Invariant Generation Using Sums-of-Squares Optimization.",
+        "authors": [
+          "Assalé Adjé",
+          "Pierre-Loïc Garoche",
+          "Victor Magron"
+        ]
+      },
+      {
+        "title": "Modularity in Lattices: A Case Study on the Correspondence Between Top-Down and Bottom-Up Analysis.",
+        "authors": [
+          "Ghila Castelnuovo",
+          "Mayur Naik",
+          "Noam Rinetzky",
+          "Mooly Sagiv",
+          "Hongseok Yang"
+        ]
+      },
+      {
+        "title": "Parallel Cost Analysis of Distributed Systems.",
+        "authors": [
+          "Elvira Albert",
+          "Jesús Correas",
+          "Einar Broch Johnsen",
+          "Guillermo Román-Díez"
+        ]
+      },
+      {
+        "title": "A Forward Analysis for Recurrent Sets.",
+        "authors": [
+          "Alexey Bakhirkin",
+          "Josh Berdine",
+          "Nir Piterman"
+        ]
+      },
+      {
+        "title": "Unbounded-Time Analysis of Guarded LTI Systems with Inputs by Abstract Acceleration.",
+        "authors": [
+          "Dario Cattaruzza",
+          "Alessandro Abate",
+          "Peter Schrammel",
+          "Daniel Kroening"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/entcs/entcs307.html": {
+    "header": "5th NSAD@SAS 2014: Munich, Germany",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Preface.",
+        "authors": [
+          "Axel Simon",
+          "Arnaud Venet"
+        ]
+      },
+      {
+        "title": "Efficient Constraint/Generator Removal from Double Description of Polyhedra.",
+        "authors": [
+          "Gianluca Amato",
+          "Francesca Scozzari",
+          "Enea Zaffanella"
+        ]
+      },
+      {
+        "title": "Computing Invariants with Transformers: Experimental Scalability and Accuracy.",
+        "authors": [
+          "Vivien Maisonneuve",
+          "Olivier Hermant",
+          "François Irigoin"
+        ]
+      },
+      {
+        "title": "An Abstract Domain to Infer Symbolic Ranges over Nonnegative Parameters.",
+        "authors": [
+          "Xueguang Wu",
+          "Liqian Chen",
+          "Ji Wang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2014.html": {
+    "header": "21. SAS 2014: Munich, Germany",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Block Me If You Can! - Context-Sensitive Parameterized Verification.",
+        "authors": [
+          "Parosh Aziz Abdulla",
+          "Frédéric Haziza",
+          "Lukás Holík"
+        ]
+      },
+      {
+        "title": "Peak Cost Analysis of Distributed Systems.",
+        "authors": [
+          "Elvira Albert",
+          "Jesús Correas Fernández",
+          "Guillermo Román-Díez"
+        ]
+      },
+      {
+        "title": "Backward Analysis via over-Approximate Abstraction and under-Approximate Subtraction.",
+        "authors": [
+          "Alexey Bakhirkin",
+          "Josh Berdine",
+          "Nir Piterman"
+        ]
+      },
+      {
+        "title": "SawjaCard: A Static Analysis Tool for Certifying Java Card Applications.",
+        "authors": [
+          "Frédéric Besson",
+          "Thomas P. Jensen",
+          "Pierre Vittet"
+        ]
+      },
+      {
+        "title": "Cyclic Abduction of Inductively Defined Safety and Termination Preconditions.",
+        "authors": [
+          "James Brotherston",
+          "Nikos Gorogiannis"
+        ]
+      },
+      {
+        "title": "Expectation Invariants for Probabilistic Program Loops as Fixed Points.",
+        "authors": [
+          "Aleksandar Chakarov",
+          "Sriram Sankaranarayanan"
+        ]
+      },
+      {
+        "title": "An Abstract Domain to Infer Octagonal Constraints with Absolute Value.",
+        "authors": [
+          "Liqian Chen",
+          "Jiangchao Liu",
+          "Antoine Miné",
+          "Deepak Kapur",
+          "Ji Wang"
+        ]
+      },
+      {
+        "title": "Verifying Recursive Programs Using Intraprocedural Analyzers.",
+        "authors": [
+          "Yu-Fang Chen",
+          "Chiao Hsieh",
+          "Ming-Hsien Tsai",
+          "Bow-Yaw Wang",
+          "Farn Wang"
+        ]
+      },
+      {
+        "title": "Automatic Analysis of Open Objects in Dynamic Language Programs.",
+        "authors": [
+          "Arlen Cox",
+          "Bor-Yuh Evan Chang",
+          "Xavier Rival"
+        ]
+      },
+      {
+        "title": "Invariance of Conjunctions of Polynomial Equalities for Algebraic Differential Equations.",
+        "authors": [
+          "Khalil Ghorbal",
+          "Andrew Sogokon",
+          "André Platzer"
+        ]
+      },
+      {
+        "title": "On Program Equivalence with Reductions.",
+        "authors": [
+          "Guillaume Iooss",
+          "Christophe Alias",
+          "Sanjay V. Rajopadhye"
+        ]
+      },
+      {
+        "title": "A Progress Bar for Static Analyzers.",
+        "authors": [
+          "Woosuk Lee",
+          "Hakjoo Oh",
+          "Kwangkeun Yi"
+        ]
+      },
+      {
+        "title": "Sparse Dataflow Analysis with Pointers and Reachability.",
+        "authors": [
+          "Magnus Madsen",
+          "Anders Møller"
+        ]
+      },
+      {
+        "title": "Reactivity of Cooperative Systems - Application to ReactiveML.",
+        "authors": [
+          "Louis Mandel",
+          "Cédric Pasteur"
+        ]
+      },
+      {
+        "title": "Synthesis of Memory Fences via Refinement Propagation.",
+        "authors": [
+          "Yuri Meshman",
+          "Andrei Marian Dan",
+          "Martin T. Vechev",
+          "Eran Yahav"
+        ]
+      },
+      {
+        "title": "Speeding Up Logico-Numerical Strategy Iteration.",
+        "authors": [
+          "David Monniaux",
+          "Peter Schrammel"
+        ]
+      },
+      {
+        "title": "Cost-Aware Automatic Program Repair.",
+        "authors": [
+          "Roopsha Samanta",
+          "Oswaldo Olivo",
+          "E. Allen Emerson"
+        ]
+      },
+      {
+        "title": "An Abstract Domain Combinator for Separately Conjoining Memory Abstractions.",
+        "authors": [
+          "Antoine Toubhans",
+          "Bor-Yuh Evan Chang",
+          "Xavier Rival"
+        ]
+      },
+      {
+        "title": "A Decision Tree Abstract Domain for Proving Conditional Termination.",
+        "authors": [
+          "Caterina Urban",
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Region-Based Selective Flow-Sensitive Pointer Analysis.",
+        "authors": [
+          "Sen Ye",
+          "Yulei Sui",
+          "Jingling Xue"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/entcs/entcs311.html": {
+    "header": "4th TAPAS@SAS 2013: Seattle, WA, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Preface.",
+        "authors": [
+          "Bor-Yuh Evan Chang"
+        ]
+      },
+      {
+        "title": "AnaDroid: Malware Analysis of Android with User-supplied Predicates.",
+        "authors": [
+          "Shuying Liang",
+          "Matthew Might",
+          "David Van Horn"
+        ]
+      },
+      {
+        "title": "PostHat and All That: Automating Abstract Interpretation.",
+        "authors": [
+          "Aditya V. Thakur",
+          "Akash Lal",
+          "Junghee Lim",
+          "Thomas W. Reps"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2013.html": {
+    "header": "20. SAS 2013: Seattle, WA, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Static Analysis by Abstract Interpretation of Numerical Programs and Systems, and FLUCTUAT.",
+        "authors": [
+          "Eric Goubault"
+        ]
+      },
+      {
+        "title": "Static Analysis in the Continuously Changing World.",
+        "authors": [
+          "Sriram Sankaranarayanan"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation over Non-lattice Abstract Domains.",
+        "authors": [
+          "Graeme Gange",
+          "Jorge A. Navas",
+          "Peter Schachte",
+          "Harald Søndergaard",
+          "Peter J. Stuckey"
+        ]
+      },
+      {
+        "title": "Localizing Widening and Narrowing.",
+        "authors": [
+          "Gianluca Amato",
+          "Francesca Scozzari"
+        ]
+      },
+      {
+        "title": "The Abstract Domain of Segmented Ranking Functions.",
+        "authors": [
+          "Caterina Urban"
+        ]
+      },
+      {
+        "title": "Symbolic Automata for Static Specification Mining.",
+        "authors": [
+          "Hila Peleg",
+          "Sharon Shoham",
+          "Eran Yahav",
+          "Hongseok Yang"
+        ]
+      },
+      {
+        "title": "Predicate Abstraction for Relaxed Memory Models.",
+        "authors": [
+          "Andrei Marian Dan",
+          "Yuri Meshman",
+          "Martin T. Vechev",
+          "Eran Yahav"
+        ]
+      },
+      {
+        "title": "On Solving Universally Quantified Horn Clauses.",
+        "authors": [
+          "Nikolaj S. Bjørner",
+          "Kenneth L. McMillan",
+          "Andrey Rybalchenko"
+        ]
+      },
+      {
+        "title": "From Concrete Examples to Heap Manipulating Programs.",
+        "authors": [
+          "Subhajit Roy"
+        ]
+      },
+      {
+        "title": "Local Shape Analysis for Overlaid Data Structures.",
+        "authors": [
+          "Cezara Dragoi",
+          "Constantin Enea",
+          "Mihaela Sighireanu"
+        ]
+      },
+      {
+        "title": "Quantified Data Automata on Skinny Trees: An Abstract Domain for Lists.",
+        "authors": [
+          "Pranav Garg",
+          "P. Madhusudan",
+          "Gennaro Parlato"
+        ]
+      },
+      {
+        "title": "Static Validation of Dynamically Generated HTML Documents Based on Abstract Parsing and Semantic Processing.",
+        "authors": [
+          "Hyunha Kim",
+          "Kyung-Goo Doh",
+          "David A. Schmidt"
+        ]
+      },
+      {
+        "title": "Byte-Precise Verification of Low-Level List Manipulation.",
+        "authors": [
+          "Kamil Dudka",
+          "Petr Peringer",
+          "Tomás Vojnar"
+        ]
+      },
+      {
+        "title": "Abstract Semantic Differencing for Numerical Programs.",
+        "authors": [
+          "Nimrod Partush",
+          "Eran Yahav"
+        ]
+      },
+      {
+        "title": "Precise Slicing in Imperative Programs via Term-Rewriting and Abstract Interpretation.",
+        "authors": [
+          "Raghavan Komondoor"
+        ]
+      },
+      {
+        "title": "Automatic Synthesis of Deterministic Concurrency.",
+        "authors": [
+          "Veselin Raychev",
+          "Martin T. Vechev",
+          "Eran Yahav"
+        ]
+      },
+      {
+        "title": "Witnessing Program Transformations.",
+        "authors": [
+          "Kedar S. Namjoshi",
+          "Lenore D. Zuck"
+        ]
+      },
+      {
+        "title": "Formal Verification of a C Value Analysis Based on Abstract Interpretation.",
+        "authors": [
+          "Sandrine Blazy",
+          "Vincent Laporte",
+          "André Maroneze",
+          "David Pichardie"
+        ]
+      },
+      {
+        "title": "Efficient Generation of Correctness Certificates for the Abstract Domain of Polyhedra.",
+        "authors": [
+          "Alexis Fouilhé",
+          "David Monniaux",
+          "Michaël Périn"
+        ]
+      },
+      {
+        "title": "Static Provenance Verification for Message Passing Programs.",
+        "authors": [
+          "Rupak Majumdar",
+          "Roland Meyer",
+          "Zilong Wang"
+        ]
+      },
+      {
+        "title": "Verification as Learning Geometric Concepts.",
+        "authors": [
+          "Rahul Sharma",
+          "Saurabh Gupta",
+          "Bharath Hariharan",
+          "Alex Aiken",
+          "Aditya V. Nori"
+        ]
+      },
+      {
+        "title": "Interpolation-Based Verification of Floating-Point Programs with Abstract CDCL.",
+        "authors": [
+          "Martin Brain",
+          "Vijay Victor D'Silva",
+          "Alberto Griggio",
+          "Leopold Haller",
+          "Daniel Kroening"
+        ]
+      },
+      {
+        "title": "Concise Analysis Using Implication Algebras for Task-Local Memory Optimisation.",
+        "authors": [
+          "Leo White",
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "Automatic Verification of Erlang-Style Concurrency.",
+        "authors": [
+          "Emanuele D'Osualdo",
+          "Jonathan Kochems",
+          "C.-H. Luke Ong"
+        ]
+      },
+      {
+        "title": "Contextual Locking for Dynamic Pushdown Networks.",
+        "authors": [
+          "Peter Lammich",
+          "Markus Müller-Olm",
+          "Helmut Seidl",
+          "Alexander Wenner"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/entcs/entcs287.html": {
+    "header": "4th NSAD@SAS 2012: Deauville, France",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "Preface.",
+        "authors": [
+          "Jan Midtgaard",
+          "Matthew Might"
+        ]
+      },
+      {
+        "title": "Accurate Evaluation of Arithmetic Expressions (Invited Talk).",
+        "authors": [
+          "Matthieu Martel"
+        ]
+      },
+      {
+        "title": "The Abstract Domain of Parallelotopes.",
+        "authors": [
+          "Gianluca Amato",
+          "Francesca Scozzari"
+        ]
+      },
+      {
+        "title": "Access-Based Localization for Octagons.",
+        "authors": [
+          "Eva Beckschulze",
+          "Stefan Kowalewski",
+          "Jörg Brauer"
+        ]
+      },
+      {
+        "title": "TreeKs: A Functor to Make Numerical Abstract Domains Scalable.",
+        "authors": [
+          "Mehdi Bouaziz"
+        ]
+      },
+      {
+        "title": "Generic Abstraction of Dictionaries and Arrays.",
+        "authors": [
+          "Jedrzej Fulara"
+        ]
+      },
+      {
+        "title": "An Accurate Join for Zonotopes, Preserving Affine Input/Output Relations.",
+        "authors": [
+          "Eric Goubault",
+          "Tristan Le Gall",
+          "Sylvie Putot"
+        ]
+      },
+      {
+        "title": "Proving Termination by Policy Iteration.",
+        "authors": [
+          "Damien Massé"
+        ]
+      },
+      {
+        "title": "Inferring Sufficient Conditions with Backward Polyhedral Under-Approximations.",
+        "authors": [
+          "Antoine Miné"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/entcs/entcs289.html": {
+    "header": "3rd TAPAS@SAS 2012: Deauville, France",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "Preface.",
+        "authors": [
+          "Bertrand Jeannet"
+        ]
+      },
+      {
+        "title": "High Performance Static Analysis for Industry.",
+        "authors": [
+          "Mark Bradley",
+          "Franck Cassez",
+          "Ansgar Fehnker",
+          "Thomas Given-Wilson",
+          "Ralf Huuck"
+        ]
+      },
+      {
+        "title": "PAGAI: A Path Sensitive Static Analyser.",
+        "authors": [
+          "Julien Henry",
+          "David Monniaux",
+          "Matthieu Moy"
+        ]
+      },
+      {
+        "title": "SMT for Polynomial Constraints on Real Numbers.",
+        "authors": [
+          "To Van Khanh",
+          "Mizuhito Ogawa"
+        ]
+      },
+      {
+        "title": "Normalisation of Loops with Covariant Variables.",
+        "authors": [
+          "Marianne De Michiel",
+          "Armelle Bonenfant",
+          "Hugues Cassé"
+        ]
+      },
+      {
+        "title": "GDSL: A Generic Decoder Specification Language for Interpreting Machine Language.",
+        "authors": [
+          "Alexander Sepp",
+          "Julian Kranz",
+          "Axel Simon"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2012.html": {
+    "header": "19. SAS 2012: Deauville, France",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "Computer-Aided Cryptographic Proofs.",
+        "authors": [
+          "Gilles Barthe",
+          "Benjamin Grégoire",
+          "Santiago Zanella Béguelin"
+        ]
+      },
+      {
+        "title": "A Voyage to the Deep-Heap.",
+        "authors": [
+          "Dino Distefano"
+        ]
+      },
+      {
+        "title": "Semantics and Analyses for JavaScript and the Web.",
+        "authors": [
+          "Shriram Krishnamurthi"
+        ]
+      },
+      {
+        "title": "Efficient May Happen in Parallel Analysis for Async-Finish Parallelism.",
+        "authors": [
+          "Jonathan K. Lee",
+          "Jens Palsberg",
+          "Rupak Majumdar",
+          "Hong Hong"
+        ]
+      },
+      {
+        "title": "Modular Static Analysis with Zonotopes.",
+        "authors": [
+          "Eric Goubault",
+          "Sylvie Putot",
+          "Franck Védrine"
+        ]
+      },
+      {
+        "title": "Polyhedral Analysis Using Parametric Objectives.",
+        "authors": [
+          "Jacob M. Howe",
+          "Andy King"
+        ]
+      },
+      {
+        "title": "Inference of Polynomial Invariants for Imperative Programs: A Farewell to Gröbner Bases.",
+        "authors": [
+          "David Cachera",
+          "Thomas P. Jensen",
+          "Arnaud Jobin",
+          "Florent Kirchner"
+        ]
+      },
+      {
+        "title": "A New Abstract Domain for the Representation of Mathematically Equivalent Expressions.",
+        "authors": [
+          "Arnault Ioualalen",
+          "Matthieu Martel"
+        ]
+      },
+      {
+        "title": "An Abstract Domain to Infer Types over Zones in Spreadsheets.",
+        "authors": [
+          "Tie Cheng",
+          "Xavier Rival"
+        ]
+      },
+      {
+        "title": "Bilateral Algorithms for Symbolic Abstraction.",
+        "authors": [
+          "Aditya V. Thakur",
+          "Matt Elder",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Making Abstract Interpretation Incomplete: Modeling the Potency of Obfuscation.",
+        "authors": [
+          "Roberto Giacobazzi",
+          "Isabella Mastroeni"
+        ]
+      },
+      {
+        "title": "Invariant Generation for Parametrized Systems Using Self-reflection - (Extended Version).",
+        "authors": [
+          "Alejandro Sánchez",
+          "Sriram Sankaranarayanan",
+          "César Sánchez",
+          "Bor-Yuh Evan Chang"
+        ]
+      },
+      {
+        "title": "Automatic Fence Insertion in Integer Programs via Predicate Abstraction.",
+        "authors": [
+          "Parosh Aziz Abdulla",
+          "Mohamed Faouzi Atig",
+          "Yu-Fang Chen",
+          "Carl Leonardsson",
+          "Ahmed Rezine"
+        ]
+      },
+      {
+        "title": "Control Flow Analysis for the Join Calculus.",
+        "authors": [
+          "Peter Calvert",
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "When the Decreasing Sequence Fails.",
+        "authors": [
+          "Nicolas Halbwachs",
+          "Julien Henry"
+        ]
+      },
+      {
+        "title": "Loop Leaping with Closures.",
+        "authors": [
+          "Sebastian Biallas",
+          "Jörg Brauer",
+          "Andy King",
+          "Stefan Kowalewski"
+        ]
+      },
+      {
+        "title": "Path-Sensitive Backward Slicing.",
+        "authors": [
+          "Joxan Jaffar",
+          "Vijayaraghavan Murali",
+          "Jorge A. Navas",
+          "Andrew E. Santosa"
+        ]
+      },
+      {
+        "title": "Symbolic Learning of Component Interfaces.",
+        "authors": [
+          "Dimitra Giannakopoulou",
+          "Zvonimir Rakamaric",
+          "Vishwanath Raman"
+        ]
+      },
+      {
+        "title": "Liveness-Based Pointer Analysis.",
+        "authors": [
+          "Uday P. Khedker",
+          "Alan Mycroft",
+          "Prashant Singh Rawat"
+        ]
+      },
+      {
+        "title": "Succinct Representations for Abstract Interpretation - Combined Analysis Algorithms and Experimental Evaluation.",
+        "authors": [
+          "Julien Henry",
+          "David Monniaux",
+          "Matthieu Moy"
+        ]
+      },
+      {
+        "title": "Craig Interpretation.",
+        "authors": [
+          "Aws Albarghouthi",
+          "Arie Gurfinkel",
+          "Marsha Chechik"
+        ]
+      },
+      {
+        "title": "Satisfiability Solvers Are Static Analysers.",
+        "authors": [
+          "Vijay Victor D'Silva",
+          "Leopold Haller",
+          "Daniel Kroening"
+        ]
+      },
+      {
+        "title": "A Generalization of Stålmarck's Method.",
+        "authors": [
+          "Aditya V. Thakur",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "A Structural Soundness Proof for Shivers's Escape Technique - A Case for Galois Connections.",
+        "authors": [
+          "Jan Midtgaard",
+          "Michael D. Adams",
+          "Matthew Might"
+        ]
+      },
+      {
+        "title": "Modular Heap Analysis for Higher-Order Programs.",
+        "authors": [
+          "Ravichandhran Madhavan",
+          "G. Ramalingam",
+          "Kapil Vaswani"
+        ]
+      },
+      {
+        "title": "Binary Reachability Analysis of Higher Order Functional Programs.",
+        "authors": [
+          "Ruslán Ledesma-Garza",
+          "Andrey Rybalchenko"
+        ]
+      },
+      {
+        "title": "On the Limits of the Classical Approach to Cost Analysis.",
+        "authors": [
+          "Diego Esteban Alonso-Blas",
+          "Samir Genaim"
+        ]
+      },
+      {
+        "title": "Termination Proofs for Linear Simple Loops.",
+        "authors": [
+          "Hong Yi Chen",
+          "Shaked Flur",
+          "Supratik Mukhopadhyay"
+        ]
+      },
+      {
+        "title": "Finding Non-terminating Executions in Distributed Asynchronous Programs.",
+        "authors": [
+          "Michael Emmi",
+          "Akash Lal"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/entcs/entcs288.html": {
+    "header": "3rd NSAD@SAS 2011: Venice, Italy",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "Preface.",
+        "authors": [
+          "Damien Massé",
+          "Laurent Mauborgne"
+        ]
+      },
+      {
+        "title": "Fully Bounded Polyhedral Analysis of Integers with Wrapping.",
+        "authors": [
+          "Stefan Bygde",
+          "Björn Lisper",
+          "Niklas Holsti"
+        ]
+      },
+      {
+        "title": "Checking Compatibility of Bit Sizes in Floating Point Comparison Operations.",
+        "authors": [
+          "Manuel Fähndrich",
+          "Francesco Logozzo"
+        ]
+      },
+      {
+        "title": "Sweeping in Abstract Interpretation.",
+        "authors": [
+          "Krzysztof Jakubczyk"
+        ]
+      },
+      {
+        "title": "Inferring Effective Types for Static Analysis of C Programs.",
+        "authors": [
+          "Bertrand Jeannet",
+          "Pascal Sotin"
+        ]
+      },
+      {
+        "title": "Convex Invariant Refinement by Control Node Splitting: a Heuristic Approach.",
+        "authors": [
+          "Vivien Maisonneuve"
+        ]
+      },
+      {
+        "title": "Stratified Static Analysis Based on Variable Dependencies.",
+        "authors": [
+          "David Monniaux",
+          "Julien Le Guen"
+        ]
+      },
+      {
+        "title": "Summarized Dimensions Revisited.",
+        "authors": [
+          "Holger Siegel",
+          "Axel Simon"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2011.html": {
+    "header": "18. SAS 2011: Venice, Italy",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "Widening and Interpolation.",
+        "authors": [
+          "Kenneth L. McMillan"
+        ]
+      },
+      {
+        "title": "Program Analysis and Machine Learning: A Win-Win Deal.",
+        "authors": [
+          "Aditya V. Nori",
+          "Sriram K. Rajamani"
+        ]
+      },
+      {
+        "title": "Program Analysis for Web Security.",
+        "authors": [
+          "John C. Mitchell"
+        ]
+      },
+      {
+        "title": "Astrée: Design and Experience.",
+        "authors": [
+          "Daniel Kästner"
+        ]
+      },
+      {
+        "title": "Formal Model Reduction.",
+        "authors": [
+          "Jérôme Feret"
+        ]
+      },
+      {
+        "title": "Purity Analysis: An Abstract Interpretation Formulation.",
+        "authors": [
+          "Ravichandhran Madhavan",
+          "Ganesan Ramalingam",
+          "Kapil Vaswani"
+        ]
+      },
+      {
+        "title": "The Complexity of Abduction for Separated Heap Abstractions.",
+        "authors": [
+          "Nikos Gorogiannis",
+          "Max I. Kanovich",
+          "Peter W. O'Hearn"
+        ]
+      },
+      {
+        "title": "Efficient Decision Procedures for Heaps Using STRAND.",
+        "authors": [
+          "P. Madhusudan",
+          "Xiaokang Qiu"
+        ]
+      },
+      {
+        "title": "The Flow-Insensitive Precision of Andersen's Analysis in Practice.",
+        "authors": [
+          "Sam Blackshear",
+          "Bor-Yuh Evan Chang",
+          "Sriram Sankaranarayanan",
+          "Manu Sridharan"
+        ]
+      },
+      {
+        "title": "Side-Effect Analysis of Assembly Code.",
+        "authors": [
+          "Andrea Flexeder",
+          "Michael Petter",
+          "Helmut Seidl"
+        ]
+      },
+      {
+        "title": "Directed Symbolic Execution.",
+        "authors": [
+          "Kin-Keung Ma",
+          "Yit Phang Khoo",
+          "Jeffrey S. Foster",
+          "Michael Hicks"
+        ]
+      },
+      {
+        "title": "Statically Validating Must Summaries for Incremental Compositional Dynamic Test Generation.",
+        "authors": [
+          "Patrice Godefroid",
+          "Shuvendu K. Lahiri",
+          "Cindy Rubio-González"
+        ]
+      },
+      {
+        "title": "On Sequentializing Concurrent Programs.",
+        "authors": [
+          "Ahmed Bouajjani",
+          "Michael Emmi",
+          "Gennaro Parlato"
+        ]
+      },
+      {
+        "title": "Verifying Fence Elimination Optimisations.",
+        "authors": [
+          "Viktor Vafeiadis",
+          "Francesco Zappa Nardelli"
+        ]
+      },
+      {
+        "title": "An Efficient Static Trace Simplification Technique for Debugging Concurrent Programs.",
+        "authors": [
+          "Jeff Huang",
+          "Charles Zhang"
+        ]
+      },
+      {
+        "title": "A Family of Abstract Interpretations for Static Analysis of Concurrent Higher-Order Programs.",
+        "authors": [
+          "Matthew Might",
+          "David Van Horn"
+        ]
+      },
+      {
+        "title": "Abstract Domains of Affine Relations.",
+        "authors": [
+          "Matt Elder",
+          "Junghee Lim",
+          "Tushar Sharma",
+          "Tycho Andersen",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Transitive Closures of Affine Integer Tuple Relations and Their Overapproximations.",
+        "authors": [
+          "Sven Verdoolaege",
+          "Albert Cohen",
+          "Anna Beletska"
+        ]
+      },
+      {
+        "title": "Logico-Numerical Abstract Acceleration and Application to the Verification of Data-Flow Programs.",
+        "authors": [
+          "Peter Schrammel",
+          "Bertrand Jeannet"
+        ]
+      },
+      {
+        "title": "Invisible Invariants and Abstract Interpretation.",
+        "authors": [
+          "Kenneth L. McMillan",
+          "Lenore D. Zuck"
+        ]
+      },
+      {
+        "title": "An Abstraction-Refinement Framework for Trigger Querying.",
+        "authors": [
+          "Guy Avni",
+          "Orna Kupferman"
+        ]
+      },
+      {
+        "title": "Bound Analysis of Imperative Programs with the Size-Change Abstraction.",
+        "authors": [
+          "Florian Zuleger",
+          "Sumit Gulwani",
+          "Moritz Sinn",
+          "Helmut Veith"
+        ]
+      },
+      {
+        "title": "Satisfiability Modulo Recursive Programs.",
+        "authors": [
+          "Philippe Suter",
+          "Ali Sinan Köksal",
+          "Viktor Kuncak"
+        ]
+      },
+      {
+        "title": "Probabilistically Accurate Program Transformations.",
+        "authors": [
+          "Sasa Misailovic",
+          "Daniel M. Roy",
+          "Martin C. Rinard"
+        ]
+      },
+      {
+        "title": "Probabilistic Abstractions with Arbitrary Domains.",
+        "authors": [
+          "Javier Esparza",
+          "Andreas Gaiser"
+        ]
+      },
+      {
+        "title": "Software Verification Using k-Induction.",
+        "authors": [
+          "Alastair F. Donaldson",
+          "Leopold Haller",
+          "Daniel Kroening",
+          "Philipp Rümmer"
+        ]
+      },
+      {
+        "title": "Using Bounded Model Checking to Focus Fixpoint Iterations.",
+        "authors": [
+          "David Monniaux",
+          "Laure Gonnord"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/nsad/nsad2010.html": {
+    "header": "2nd NSAD@SAS 2010: Perpignan, France",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Preface.",
+        "authors": [
+          "Antoine Miné",
+          "Enric Rodríguez-Carbonell"
+        ]
+      },
+      {
+        "title": "A Modular Static Analysis Approach to Affine Loop Invariants Detection.",
+        "authors": [
+          "Corinne Ancourt",
+          "Fabien Coelho",
+          "François Irigoin"
+        ]
+      },
+      {
+        "title": "Range and Set Abstraction using SAT.",
+        "authors": [
+          "Edd Barrett",
+          "Andy King"
+        ]
+      },
+      {
+        "title": "Abstract Fixpoint Computations with Numerical Acceleration Methods.",
+        "authors": [
+          "Olivier Bouissou",
+          "Yassamine Seladji",
+          "Alexandre Chapoutot"
+        ]
+      },
+      {
+        "title": "View-Augmented Abstractions.",
+        "authors": [
+          "Matt Elder",
+          "Denis Gopan",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Relational Abstract Domain of Weighted Hexagons.",
+        "authors": [
+          "Jedrzej Fulara",
+          "Konrad Durnoga",
+          "Krzysztof Jakubczyk",
+          "Aleksy Schubert"
+        ]
+      },
+      {
+        "title": "Static Analysis by Abstract Interpretation: A Mathematical Programming Approach.",
+        "authors": [
+          "Eric Goubault",
+          "Stéphane Le Roux",
+          "Jeremy Leconte",
+          "Leo Liberti",
+          "Fabrizio Marinelli"
+        ]
+      },
+      {
+        "title": "Quadtrees as an Abstract Domain.",
+        "authors": [
+          "Jacob M. Howe",
+          "Andy King",
+          "Charles Lawrence-Jones"
+        ]
+      },
+      {
+        "title": "Extending Abstract Acceleration Methods to Data-Flow Programs with Numerical Inputs.",
+        "authors": [
+          "Peter Schrammel",
+          "Bertrand Jeannet"
+        ]
+      },
+      {
+        "title": "A Note on the Inversion Join for Polyhedral Analysis.",
+        "authors": [
+          "Axel Simon"
+        ]
+      },
+      {
+        "title": "Speeding up Polyhedral Analysis by Identifying Common Constraints.",
+        "authors": [
+          "Axel Simon"
+        ]
+      },
+      {
+        "title": "Concrete Memory Models for Shape Analysis.",
+        "authors": [
+          "Pascal Sotin",
+          "Bertrand Jeannet",
+          "Xavier Rival"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/tapas2/tapas2010.html": {
+    "header": "1st TAPAS@SAS 2010: Perpignan, France",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Preface.",
+        "authors": [
+          "David Delmas",
+          "Xavier Rival"
+        ]
+      },
+      {
+        "title": "Accelerated Invariant Generation for C Programs with Aspic and C2fsm.",
+        "authors": [
+          "Paul Feautrier",
+          "Laure Gonnord"
+        ]
+      },
+      {
+        "title": "Explicit Versus Symbolic Algorithms for Solving ALFP Constraints.",
+        "authors": [
+          "Piotr Filipiuk",
+          "Hanne Riis Nielson",
+          "Flemming Nielson"
+        ]
+      },
+      {
+        "title": "Some Experience on the Software Engineering of Abstract Interpretation Tools.",
+        "authors": [
+          "Bertrand Jeannet"
+        ]
+      },
+      {
+        "title": "The Interval Analysis of Multilinear Expressions.",
+        "authors": [
+          "Cosimo Laneve",
+          "Tudor A. Lascu",
+          "Vania Sordoni"
+        ]
+      },
+      {
+        "title": "SMT-AI: an Abstract Interpreter as Oracle for k-induction.",
+        "authors": [
+          "Pierre Roux",
+          "Remi Delmas",
+          "Pierre-Loïc Garoche"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2010.html": {
+    "header": "17. SAS 2010: Perpignan, France",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Time of Time.",
+        "authors": [
+          "E. Allen Emerson"
+        ]
+      },
+      {
+        "title": "Static Verification for Code Contracts.",
+        "authors": [
+          "Manuel Fähndrich"
+        ]
+      },
+      {
+        "title": "Translation Validation of Loop Optimizations and Software Pipelining in the TVOC Framework - In Memory of Amir Pnueli.",
+        "authors": [
+          "Benjamin Goldberg"
+        ]
+      },
+      {
+        "title": "Size-Change Termination and Transition Invariants.",
+        "authors": [
+          "Matthias Heizmann",
+          "Neil D. Jones",
+          "Andreas Podelski"
+        ]
+      },
+      {
+        "title": "Using Static Analysis in Space: Why Doing so?",
+        "authors": [
+          "David Lesens"
+        ]
+      },
+      {
+        "title": "Statically Inferring Complex Heap, Array, and Numeric Invariants.",
+        "authors": [
+          "Bill McCloskey",
+          "Thomas W. Reps",
+          "Mooly Sagiv"
+        ]
+      },
+      {
+        "title": "From Object Fields to Local Variables: A Practical Approach to Field-Sensitive Analysis.",
+        "authors": [
+          "Elvira Albert",
+          "Puri Arenas",
+          "Samir Genaim",
+          "German Puebla",
+          "Diana V. Ramírez-Deantes"
+        ]
+      },
+      {
+        "title": "Multi-dimensional Rankings, Program Termination, and Complexity Bounds of Flowchart Programs.",
+        "authors": [
+          "Christophe Alias",
+          "Alain Darte",
+          "Paul Feautrier",
+          "Laure Gonnord"
+        ]
+      },
+      {
+        "title": "Deriving Numerical Abstract Domains via Principal Component Analysis.",
+        "authors": [
+          "Gianluca Amato",
+          "Maurizio Parton",
+          "Francesca Scozzari"
+        ]
+      },
+      {
+        "title": "Concurrent Separation Logic for Pipelined Parallelization.",
+        "authors": [
+          "Christian J. Bell",
+          "Andrew W. Appel",
+          "David Walker"
+        ]
+      },
+      {
+        "title": "Automatic Abstraction for Intervals Using Boolean Formulae.",
+        "authors": [
+          "Jörg Brauer",
+          "Andy King"
+        ]
+      },
+      {
+        "title": "Interval Slopes as a Numerical Abstract Domain for Floating-Point Variables.",
+        "authors": [
+          "Alexandre Chapoutot"
+        ]
+      },
+      {
+        "title": "A Shape Analysis for Non-linear Data Structures.",
+        "authors": [
+          "Renato Cherini",
+          "Lucas Rearte",
+          "Javier O. Blanco"
+        ]
+      },
+      {
+        "title": "Modelling Metamorphism by Abstract Interpretation.",
+        "authors": [
+          "Mila Dalla Preda",
+          "Roberto Giacobazzi",
+          "Saumya K. Debray",
+          "Kevin Coogan",
+          "Gregg M. Townsend"
+        ]
+      },
+      {
+        "title": "Small Formulas for Large Programs: On-Line Constraint Simplification in Scalable Static Analysis.",
+        "authors": [
+          "Isil Dillig",
+          "Thomas Dillig",
+          "Alex Aiken"
+        ]
+      },
+      {
+        "title": "Compositional Bitvector Analysis for Concurrent Programs with Nested Locks.",
+        "authors": [
+          "Azadeh Farzan",
+          "Zachary Kincaid"
+        ]
+      },
+      {
+        "title": "Computing Relaxed Abstract Semantics w.r.t. Quadratic Zones Precisely.",
+        "authors": [
+          "Thomas Martin Gawlitza",
+          "Helmut Seidl"
+        ]
+      },
+      {
+        "title": "Boxes: A Symbolic Abstract Domain of Boxes.",
+        "authors": [
+          "Arie Gurfinkel",
+          "Sagar Chaki"
+        ]
+      },
+      {
+        "title": "Alternation for Termination.",
+        "authors": [
+          "William R. Harris",
+          "Akash Lal",
+          "Aditya V. Nori",
+          "Sriram K. Rajamani"
+        ]
+      },
+      {
+        "title": "Interprocedural Analysis with Lazy Propagation.",
+        "authors": [
+          "Simon Holm Jensen",
+          "Anders Møller",
+          "Peter Thiemann"
+        ]
+      },
+      {
+        "title": "Verifying a Local Generic Solver in Coq.",
+        "authors": [
+          "Martin Hofmann",
+          "Aleksandr Karbyshev",
+          "Helmut Seidl"
+        ]
+      },
+      {
+        "title": "Thread-Modular Counterexample-Guided Abstraction Refinement.",
+        "authors": [
+          "Alexander Malkis",
+          "Andreas Podelski",
+          "Andrey Rybalchenko"
+        ]
+      },
+      {
+        "title": "Generating Invariants for Non-linear Hybrid Systems by Linear Algebraic Methods.",
+        "authors": [
+          "Nadir Matringe",
+          "Arnaldo Vieira Moura",
+          "Rachid Rebiha"
+        ]
+      },
+      {
+        "title": "Linear-Invariant Generation for Probabilistic Programs: - Automated Support for Proof-Based Methods.",
+        "authors": [
+          "Joost-Pieter Katoen",
+          "Annabelle McIver",
+          "Larissa Meinicke",
+          "Carroll C. Morgan"
+        ]
+      },
+      {
+        "title": "Abstract Interpreters for Free.",
+        "authors": [
+          "Matthew Might"
+        ]
+      },
+      {
+        "title": "Points-to Analysis as a System of Linear Equations.",
+        "authors": [
+          "Rupesh Nasre",
+          "Ramaswamy Govindarajan"
+        ]
+      },
+      {
+        "title": "Strictness Meets Data Flow.",
+        "authors": [
+          "Tom Schrijvers",
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "Automatic Verification of Determinism for Structured Parallel Programs.",
+        "authors": [
+          "Martin T. Vechev",
+          "Eran Yahav",
+          "Raghavan Raman",
+          "Vivek Sarkar"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2009.html": {
+    "header": "16. SAS 2009: Los Angeles, CA, USA",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Algorithmic Program Synthesis with Partial Programs and Decision Procedures.",
+        "authors": [
+          "Rastislav Bodík"
+        ]
+      },
+      {
+        "title": "Algorithmic Verification of Systems Software Using SMT Solvers.",
+        "authors": [
+          "Shaz Qadeer"
+        ]
+      },
+      {
+        "title": "Abstraction Refinement for Quantified Array Assertions.",
+        "authors": [
+          "Mohamed Nassim Seghir",
+          "Andreas Podelski",
+          "Thomas Wies"
+        ]
+      },
+      {
+        "title": "Inferring Dataflow Properties of User Defined Table Processors.",
+        "authors": [
+          "Songtao Xia",
+          "Manuel Fähndrich",
+          "Francesco Logozzo"
+        ]
+      },
+      {
+        "title": "Polymorphic Fractional Capabilities.",
+        "authors": [
+          "Hirotoshi Yasuoka",
+          "Tachio Terauchi"
+        ]
+      },
+      {
+        "title": "Automatic Parallelization and Optimization of Programs by Proof Rewriting.",
+        "authors": [
+          "Clément Hurlin"
+        ]
+      },
+      {
+        "title": "Refinement of Trace Abstraction.",
+        "authors": [
+          "Matthias Heizmann",
+          "Jochen Hoenicke",
+          "Andreas Podelski"
+        ]
+      },
+      {
+        "title": "The Causal Graph Revisited for Directed Model Checking.",
+        "authors": [
+          "Martin Wehrle",
+          "Malte Helmert"
+        ]
+      },
+      {
+        "title": "Proving the Correctness of the Implementation of a Control-Command Algorithm.",
+        "authors": [
+          "Olivier Bouissou"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation of FIFO Replacement.",
+        "authors": [
+          "Daniel Grund",
+          "Jan Reineke"
+        ]
+      },
+      {
+        "title": "A Verifiable, Control Flow Aware Constraint Analyzer for Bounds Check Elimination.",
+        "authors": [
+          "David Niedzielski",
+          "Jeffery von Ronne",
+          "Andreas Gampe",
+          "Kleanthis Psarris"
+        ]
+      },
+      {
+        "title": "Increasing the Scope and Resolution of Interprocedural Static Single Assignment.",
+        "authors": [
+          "Silvian Calman",
+          "Jianwen Zhu"
+        ]
+      },
+      {
+        "title": "Region Analysis for Race Detection.",
+        "authors": [
+          "Helmut Seidl",
+          "Vesal Vojdani"
+        ]
+      },
+      {
+        "title": "Bottom-Up Shape Analysis.",
+        "authors": [
+          "Bhargav S. Gulavani",
+          "Supratik Chakraborty",
+          "Ganesan Ramalingam",
+          "Aditya V. Nori"
+        ]
+      },
+      {
+        "title": "The Complexity of Andersen's Analysis in Practice.",
+        "authors": [
+          "Manu Sridharan",
+          "Stephen J. Fink"
+        ]
+      },
+      {
+        "title": "Optimizing Pointer Analysis Using Bisimilarity.",
+        "authors": [
+          "Luke Simon"
+        ]
+      },
+      {
+        "title": "Type Analysis for JavaScript.",
+        "authors": [
+          "Simon Holm Jensen",
+          "Anders Møller",
+          "Peter Thiemann"
+        ]
+      },
+      {
+        "title": "Abstract Parsing: Static Analysis of Dynamically Generated String Output Using LR-Parsing Technology.",
+        "authors": [
+          "Kyung-Goo Doh",
+          "Hyunha Kim",
+          "David A. Schmidt"
+        ]
+      },
+      {
+        "title": "Creating Transformations for Matrix Obfuscation.",
+        "authors": [
+          "Stephen Drape",
+          "Irina Voiculescu"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation from a Topological Perspective.",
+        "authors": [
+          "David A. Schmidt"
+        ]
+      },
+      {
+        "title": "Interval Polyhedra: An Abstract Domain to Infer Interval Linear Relationships.",
+        "authors": [
+          "Liqian Chen",
+          "Antoine Miné",
+          "Ji Wang",
+          "Patrick Cousot"
+        ]
+      },
+      {
+        "title": "Invariant Checking for Programs with Procedure Calls.",
+        "authors": [
+          "Guillem Godoy",
+          "Ashish Tiwari"
+        ]
+      },
+      {
+        "title": "Inter-program Properties.",
+        "authors": [
+          "Andrei Voronkov",
+          "Iman Narasamdya"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2008.html": {
+    "header": "15. SAS 2008: Valencia, Spain",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Transforming Abstract Interpretations by Abstract Interpretation.",
+        "authors": [
+          "Roberto Giacobazzi",
+          "Isabella Mastroeni"
+        ]
+      },
+      {
+        "title": "Reflections on the Role of Static Analysis in Cooperative Bug Isolation.",
+        "authors": [
+          "Ben Liblit"
+        ]
+      },
+      {
+        "title": "Relational Analysis of Correlation.",
+        "authors": [
+          "Jörg Bauer",
+          "Flemming Nielson",
+          "Hanne Riis Nielson",
+          "Henrik Pilegaard"
+        ]
+      },
+      {
+        "title": "Convex Hull of Arithmetic Automata.",
+        "authors": [
+          "Jérôme Leroux"
+        ]
+      },
+      {
+        "title": "Pointer Analysis, Conditional Soundness, and Proving the Absence of Errors.",
+        "authors": [
+          "Christopher L. Conway",
+          "Dennis Dams",
+          "Kedar S. Namjoshi",
+          "Clark W. Barrett"
+        ]
+      },
+      {
+        "title": "Protocol Inference Using Static Path Profiles.",
+        "authors": [
+          "Murali Krishna Ramanathan",
+          "Koushik Sen",
+          "Ananth Grama",
+          "Suresh Jagannathan"
+        ]
+      },
+      {
+        "title": "Solving Multiple Dataflow Queries Using WPDSs.",
+        "authors": [
+          "Akash Lal",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Field Flow Sensitive Pointer and Escape Analysis for Java Using Heap Array SSA.",
+        "authors": [
+          "Prakash Prabhu",
+          "Priti Shankar"
+        ]
+      },
+      {
+        "title": "Typing Linear Constraints for Moding CLP() Programs.",
+        "authors": [
+          "Salvatore Ruggieri",
+          "Frédéric Mesnard"
+        ]
+      },
+      {
+        "title": "On Polymorphic Recursion, Type Systems, and Abstract Interpretation.",
+        "authors": [
+          "Marco Comini",
+          "Ferruccio Damiani",
+          "Samuel Vrech"
+        ]
+      },
+      {
+        "title": "Modal Abstractions of Concurrent Behaviour.",
+        "authors": [
+          "Sebastian Nanz",
+          "Flemming Nielson",
+          "Hanne Riis Nielson"
+        ]
+      },
+      {
+        "title": "Hiding Software Watermarks in Loop Structures.",
+        "authors": [
+          "Mila Dalla Preda",
+          "Roberto Giacobazzi",
+          "Enrico Visentini"
+        ]
+      },
+      {
+        "title": "Inferring Min and Max Invariants Using Max-Plus Polyhedra.",
+        "authors": [
+          "Xavier Allamigeon",
+          "Stephane Gaubert",
+          "Eric Goubault"
+        ]
+      },
+      {
+        "title": "Conflict Analysis of Programs with Procedures, Dynamic Thread Creation, and Monitors.",
+        "authors": [
+          "Peter Lammich",
+          "Markus Müller-Olm"
+        ]
+      },
+      {
+        "title": "Automatic Inference of Upper Bounds for Recurrence Relations in Cost Analysis.",
+        "authors": [
+          "Elvira Albert",
+          "Puri Arenas",
+          "Samir Genaim",
+          "Germán Puebla"
+        ]
+      },
+      {
+        "title": "SLR: Path-Sensitive Analysis through Infeasible-Path Detection and Syntactic Language Refinement.",
+        "authors": [
+          "Gogul Balakrishnan",
+          "Sriram Sankaranarayanan",
+          "Franjo Ivancic",
+          "Ou Wei",
+          "Aarti Gupta"
+        ]
+      },
+      {
+        "title": "Flow Analysis, Linearity, and PTIME.",
+        "authors": [
+          "David Van Horn",
+          "Harry G. Mairson"
+        ]
+      },
+      {
+        "title": "Quantum Entanglement Analysis Based on Abstract Interpretation.",
+        "authors": [
+          "Simon Perdrix"
+        ]
+      },
+      {
+        "title": "Language Strength Reduction.",
+        "authors": [
+          "Nicholas Kidd",
+          "Akash Lal",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Analysing All Polynomial Equations in .",
+        "authors": [
+          "Helmut Seidl",
+          "Andrea Flexeder",
+          "Michael Petter"
+        ]
+      },
+      {
+        "title": "Splitting the Control Flow with Boolean Flags.",
+        "authors": [
+          "Axel Simon"
+        ]
+      },
+      {
+        "title": "Reasoning about Control Flow in the Presence of Transient Faults.",
+        "authors": [
+          "Frances Perry",
+          "David Walker"
+        ]
+      },
+      {
+        "title": "A Calculational Approach to Control-Flow Analysis by Abstract Interpretation.",
+        "authors": [
+          "Jan Midtgaard",
+          "Thomas P. Jensen"
+        ]
+      },
+      {
+        "title": "Heap Decomposition for Concurrent Shape Analysis.",
+        "authors": [
+          "Roman Manevich",
+          "Tal Lev-Ami",
+          "Mooly Sagiv",
+          "Ganesan Ramalingam",
+          "Josh Berdine"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2007.html": {
+    "header": "14. SAS 2007: Kongens Lyngby, Denmark",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "Refactoring Using Type Constraints.",
+        "authors": [
+          "Frank Tip"
+        ]
+      },
+      {
+        "title": "Programming Language Design and Analysis Motivated by Hardware Evolution.",
+        "authors": [
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "A Compilation Model for Aspect-Oriented Polymorphically Typed Functional Languages.",
+        "authors": [
+          "Kung Chen",
+          "Shu-Chun Weng",
+          "Meng Wang",
+          "Siau-Cheng Khoo",
+          "Chung-Hsin Chen"
+        ]
+      },
+      {
+        "title": "Lattice Automata: A Representation for Languages on Infinite Alphabets, and Some Applications to Verification.",
+        "authors": [
+          "Tristan Le Gall",
+          "Bertrand Jeannet"
+        ]
+      },
+      {
+        "title": "Compositional Verification and 3-Valued Abstractions Join Forces.",
+        "authors": [
+          "Sharon Shoham",
+          "Orna Grumberg"
+        ]
+      },
+      {
+        "title": "Formalised Inductive Reasoning in the Logic of Bunched Implications.",
+        "authors": [
+          "James Brotherston"
+        ]
+      },
+      {
+        "title": "Optimal Abstraction on Real-Valued Programs.",
+        "authors": [
+          "David Monniaux"
+        ]
+      },
+      {
+        "title": "Taming the Wrapping of Integer Arithmetic.",
+        "authors": [
+          "Axel Simon",
+          "Andy King"
+        ]
+      },
+      {
+        "title": "Under-Approximations of Computations in Real Numbers Based on Generalized Affine Arithmetic.",
+        "authors": [
+          "Eric Goubault",
+          "Sylvie Putot"
+        ]
+      },
+      {
+        "title": "A Framework for End-to-End Verification and Evaluation of Register Allocators.",
+        "authors": [
+          "V. Krishna Nandivada",
+          "Fernando Magno Quintão Pereira",
+          "Jens Palsberg"
+        ]
+      },
+      {
+        "title": "A New Algorithm for Identifying Loops in Decompilation.",
+        "authors": [
+          "Tao Wei",
+          "Jian Mao",
+          "Wei Zou",
+          "Yu Chen"
+        ]
+      },
+      {
+        "title": "Accelerated Data-Flow Analysis.",
+        "authors": [
+          "Jérôme Leroux",
+          "Grégoire Sutre"
+        ]
+      },
+      {
+        "title": "Abstract Error Projection.",
+        "authors": [
+          "Akash Lal",
+          "Nicholas Kidd",
+          "Thomas W. Reps",
+          "Tayssir Touili"
+        ]
+      },
+      {
+        "title": "Precise Thread-Modular Verification.",
+        "authors": [
+          "Alexander Malkis",
+          "Andreas Podelski",
+          "Andrey Rybalchenko"
+        ]
+      },
+      {
+        "title": "Modular Safety Checking for Fine-Grained Concurrency.",
+        "authors": [
+          "Cristiano Calcagno",
+          "Matthew J. Parkinson",
+          "Viktor Vafeiadis"
+        ]
+      },
+      {
+        "title": "Static Analysis of Dynamic Communication Systems by Partner Abstraction.",
+        "authors": [
+          "Jörg Bauer",
+          "Reinhard Wilhelm"
+        ]
+      },
+      {
+        "title": "Exploiting Pointer and Location Equivalence to Optimize Pointer Analysis.",
+        "authors": [
+          "Ben Hardekopf",
+          "Calvin Lin"
+        ]
+      },
+      {
+        "title": "Hierarchical Pointer Analysis for Distributed Programs.",
+        "authors": [
+          "Amir Kamil",
+          "Katherine A. Yelick"
+        ]
+      },
+      {
+        "title": "Semantics-Based Transformation of Arithmetic Expressions.",
+        "authors": [
+          "Matthieu Martel"
+        ]
+      },
+      {
+        "title": "A Fast Implementation of the Octagon Abstract Domain on Graphics Hardware.",
+        "authors": [
+          "Francesco Banterle",
+          "Roberto Giacobazzi"
+        ]
+      },
+      {
+        "title": "Fixpoint-Guided Abstraction Refinements.",
+        "authors": [
+          "Patrick Cousot",
+          "Pierre Ganty",
+          "Jean-François Raskin"
+        ]
+      },
+      {
+        "title": "Guided Static Analysis.",
+        "authors": [
+          "Denis Gopan",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Program Analysis Using Symbolic Ranges.",
+        "authors": [
+          "Sriram Sankaranarayanan",
+          "Franjo Ivancic",
+          "Aarti Gupta"
+        ]
+      },
+      {
+        "title": "Shape Analysis with Structural Invariant Checkers.",
+        "authors": [
+          "Bor-Yuh Evan Chang",
+          "Xavier Rival",
+          "George C. Necula"
+        ]
+      },
+      {
+        "title": "Footprint Analysis: A Shape Analysis That Discovers Preconditions.",
+        "authors": [
+          "Cristiano Calcagno",
+          "Dino Distefano",
+          "Peter W. O'Hearn",
+          "Hongseok Yang"
+        ]
+      },
+      {
+        "title": "Arithmetic Strengthening for Shape Analysis.",
+        "authors": [
+          "Stephen Magill",
+          "Josh Berdine",
+          "Edmund M. Clarke",
+          "Byron Cook"
+        ]
+      },
+      {
+        "title": "Astrée: From Research to Industry.",
+        "authors": [
+          "David Delmas",
+          "Jean Souyris"
+        ]
+      },
+      {
+        "title": "Magic-Sets Transformation for the Analysis of Java Bytecode.",
+        "authors": [
+          "Étienne Payet",
+          "Fausto Spoto"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2006.html": {
+    "header": "13. SAS 2006: Seoul, Korea",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "Unleashing the Power of Static Analysis.",
+        "authors": [
+          "Manuvir Das"
+        ]
+      },
+      {
+        "title": "Static Analysis in Disjunctive Numerical Domains.",
+        "authors": [
+          "Sriram Sankaranarayanan",
+          "Franjo Ivancic",
+          "Ilya Shlyakhter",
+          "Aarti Gupta"
+        ]
+      },
+      {
+        "title": "Static Analysis of Numerical Algorithms.",
+        "authors": [
+          "Eric Goubault",
+          "Sylvie Putot"
+        ]
+      },
+      {
+        "title": "Static Analysis of String Manipulations in Critical Embedded C Programs.",
+        "authors": [
+          "Xavier Allamigeon",
+          "Wenceslas Godard",
+          "Charles Hymans"
+        ]
+      },
+      {
+        "title": "Abstract Regular Tree Model Checking of Complex Dynamic Data Structures.",
+        "authors": [
+          "Ahmed Bouajjani",
+          "Peter Habermehl",
+          "Adam Rogalewicz",
+          "Tomás Vojnar"
+        ]
+      },
+      {
+        "title": "Structural Invariants.",
+        "authors": [
+          "Ranjit Jhala",
+          "Rupak Majumdar",
+          "Ru-Gang Xu"
+        ]
+      },
+      {
+        "title": "Existential Label Flow Inference Via CFL Reachability.",
+        "authors": [
+          "Polyvios Pratikakis",
+          "Jeffrey S. Foster",
+          "Michael Hicks"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation with Specialized Definitions.",
+        "authors": [
+          "Germán Puebla",
+          "Elvira Albert",
+          "Manuel V. Hermenegildo"
+        ]
+      },
+      {
+        "title": "Underapproximating Predicate Transformers.",
+        "authors": [
+          "David A. Schmidt"
+        ]
+      },
+      {
+        "title": "Combining Widening and Acceleration in Linear Relation Analysis.",
+        "authors": [
+          "Laure Gonnord",
+          "Nicolas Halbwachs"
+        ]
+      },
+      {
+        "title": "Beyond Iteration Vectors: Instancewise Relational Abstract Domains.",
+        "authors": [
+          "Pierre Amiranoff",
+          "Albert Cohen",
+          "Paul Feautrier"
+        ]
+      },
+      {
+        "title": "Separation Logic and Program Analysis.",
+        "authors": [
+          "Peter W. O'Hearn"
+        ]
+      },
+      {
+        "title": "Beyond Reachability: Shape Abstraction in the Presence of Pointer Arithmetic.",
+        "authors": [
+          "Cristiano Calcagno",
+          "Dino Distefano",
+          "Peter W. O'Hearn",
+          "Hongseok Yang"
+        ]
+      },
+      {
+        "title": "Specialized 3-Valued Logic Shape Analysis Using Structure-Based Refinement and Loose Embedding.",
+        "authors": [
+          "Gilad Arnold"
+        ]
+      },
+      {
+        "title": "Recency-Abstraction for Heap-Allocated Storage.",
+        "authors": [
+          "Gogul Balakrishnan",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Interprocedural Shape Analysis with Separated Heap Abstractions.",
+        "authors": [
+          "Alexey Gotsman",
+          "Josh Berdine",
+          "Byron Cook"
+        ]
+      },
+      {
+        "title": "Automated Verification of the Deutsch-Schorr-Waite Tree-Traversal Algorithm.",
+        "authors": [
+          "Alexey Loginov",
+          "Thomas W. Reps",
+          "Mooly Sagiv"
+        ]
+      },
+      {
+        "title": "Shape Analysis for Low-Level Code.",
+        "authors": [
+          "Hongseok Yang"
+        ]
+      },
+      {
+        "title": "Catching and Identifying Bugs in Register Allocation.",
+        "authors": [
+          "Yuqiang Huang",
+          "Bruce R. Childers",
+          "Mary Lou Soffa"
+        ]
+      },
+      {
+        "title": "Certificate Translation for Optimizing Compilers.",
+        "authors": [
+          "Gilles Barthe",
+          "Benjamin Grégoire",
+          "César Kunz",
+          "Tamara Rezk"
+        ]
+      },
+      {
+        "title": "Analysis of Low-Level Code Using Cooperating Decompilers.",
+        "authors": [
+          "Bor-Yuh Evan Chang",
+          "Matthew Harren",
+          "George C. Necula"
+        ]
+      },
+      {
+        "title": "Static Analysis for Java Servlets and JSP.",
+        "authors": [
+          "Christian Kirkegaard",
+          "Anders Møller"
+        ]
+      },
+      {
+        "title": "Cryptographically-Masked Flows.",
+        "authors": [
+          "Aslan Askarov",
+          "Daniel Hedin",
+          "Andrei Sabelfeld"
+        ]
+      },
+      {
+        "title": "Proving the Properties of Communicating Imperfectly-Clocked Synchronous Systems.",
+        "authors": [
+          "Julien Bertrane"
+        ]
+      },
+      {
+        "title": "Parametric and Termination-Sensitive Control Dependence.",
+        "authors": [
+          "Feng Chen",
+          "Grigore Rosu"
+        ]
+      },
+      {
+        "title": "Memory Leak Analysis by Contradiction.",
+        "authors": [
+          "Maksim Orlovich",
+          "Radu Rugina"
+        ]
+      },
+      {
+        "title": "Path-Sensitive Dataflow Analysis with Iterative Refinement.",
+        "authors": [
+          "Dinakar Dhurjati",
+          "Manuvir Das",
+          "Yue Yang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2005.html": {
+    "header": "12. SAS 2005: London, UK",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "Algorithmic Game Semantics and Static Analysis.",
+        "authors": [
+          "Samson Abramsky"
+        ]
+      },
+      {
+        "title": "From Typed Process Calculi to Source-Based Security.",
+        "authors": [
+          "Andrew D. Gordon"
+        ]
+      },
+      {
+        "title": "Widening Operators for Weakly-Relational Numeric Abstractions.",
+        "authors": [
+          "Roberto Bagnara",
+          "Patricia M. Hill",
+          "Elena Mazzi",
+          "Enea Zaffanella"
+        ]
+      },
+      {
+        "title": "Generation of Basic Semi-algebraic Invariants Using Convex Polyhedra.",
+        "authors": [
+          "Roberto Bagnara",
+          "Enric Rodríguez-Carbonell",
+          "Enea Zaffanella"
+        ]
+      },
+      {
+        "title": "Inference of Well-Typings for Logic Programs with Application to Termination Analysis.",
+        "authors": [
+          "Maurice Bruynooghe",
+          "John P. Gallagher",
+          "Wouter Van Humbeeck"
+        ]
+      },
+      {
+        "title": "Memory Space Conscious Loop Iteration Duplication for Reliable Execution.",
+        "authors": [
+          "Guilin Chen",
+          "Mahmut T. Kandemir",
+          "Mustafa Karaköy"
+        ]
+      },
+      {
+        "title": "Memory Usage Verification for OO Programs.",
+        "authors": [
+          "Wei-Ngan Chin",
+          "Huu Hai Nguyen",
+          "Shengchao Qin",
+          "Martin C. Rinard"
+        ]
+      },
+      {
+        "title": "Abstraction Refinement for Termination.",
+        "authors": [
+          "Byron Cook",
+          "Andreas Podelski",
+          "Andrey Rybalchenko"
+        ]
+      },
+      {
+        "title": "Data-Abstraction Refinement: A Game Semantic Approach.",
+        "authors": [
+          "Aleksandar S. Dimovski",
+          "Dan R. Ghica",
+          "Ranko Lazic"
+        ]
+      },
+      {
+        "title": "Locality-Based Abstractions.",
+        "authors": [
+          "Javier Esparza",
+          "Pierre Ganty",
+          "Stefan Schwoon"
+        ]
+      },
+      {
+        "title": "Type-Safe Optimisation of Plugin Architectures.",
+        "authors": [
+          "Neal Glew",
+          "Jens Palsberg",
+          "Christian Grothoff"
+        ]
+      },
+      {
+        "title": "Using Dependent Types to Certify the Safety of Assembly Code.",
+        "authors": [
+          "Matthew Harren",
+          "George C. Necula"
+        ]
+      },
+      {
+        "title": "The PER Model of Abstract Non-interference.",
+        "authors": [
+          "Sebastian Hunt",
+          "Isabella Mastroeni"
+        ]
+      },
+      {
+        "title": "A Relational Abstraction for Functions.",
+        "authors": [
+          "Bertrand Jeannet",
+          "Denis Gopan",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Taming False Alarms from a Domain-Unaware C Analyzer by a Bayesian Statistical Post Analysis.",
+        "authors": [
+          "Yungbum Jung",
+          "Jaehwang Kim",
+          "Jaeho Shin",
+          "Kwangkeun Yi"
+        ]
+      },
+      {
+        "title": "Banshee: A Scalable Constraint-Based Analysis Toolkit.",
+        "authors": [
+          "John Kodumal",
+          "Alex Aiken"
+        ]
+      },
+      {
+        "title": "A Generic Framework for Interprocedural Analysis of Numerical Properties.",
+        "authors": [
+          "Markus Müller-Olm",
+          "Helmut Seidl"
+        ]
+      },
+      {
+        "title": "Finding Basic Block and Variable Correspondence.",
+        "authors": [
+          "Iman Narasamdya",
+          "Andrei Voronkov"
+        ]
+      },
+      {
+        "title": "Boolean Heaps.",
+        "authors": [
+          "Andreas Podelski",
+          "Thomas Wies"
+        ]
+      },
+      {
+        "title": "Interprocedural Shape Analysis for Cutpoint-Free Programs.",
+        "authors": [
+          "Noam Rinetzky",
+          "Mooly Sagiv",
+          "Eran Yahav"
+        ]
+      },
+      {
+        "title": "Understanding the Origin of Alarms in Astrée.",
+        "authors": [
+          "Xavier Rival"
+        ]
+      },
+      {
+        "title": "Pair-Sharing Analysis of Object-Oriented Programs.",
+        "authors": [
+          "Stefano Secci",
+          "Fausto Spoto"
+        ]
+      },
+      {
+        "title": "Exploiting Sparsity in Polyhedral Analysis.",
+        "authors": [
+          "Axel Simon",
+          "Andy King"
+        ]
+      },
+      {
+        "title": "Secure Information Flow as a Safety Problem.",
+        "authors": [
+          "Tachio Terauchi",
+          "Alex Aiken"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2004.html": {
+    "header": "11. SAS 2004: Verona, Italy",
+    "year": "2004",
+    "papers": [
+      {
+        "title": "Injecting Life with Computers.",
+        "authors": [
+          "Ehud Shapiro"
+        ]
+      },
+      {
+        "title": "The Blast Query Language for Software Verification..",
+        "authors": [
+          "Dirk Beyer",
+          "Adam Chlipala",
+          "Thomas A. Henzinger",
+          "Ranjit Jhala",
+          "Rupak Majumdar"
+        ]
+      },
+      {
+        "title": "Program Generators and the Tools to Make Them.",
+        "authors": [
+          "Yannis Smaragdakis"
+        ]
+      },
+      {
+        "title": "Towards Declarative Programming for Web Services.",
+        "authors": [
+          "Sheila A. McIlraith"
+        ]
+      },
+      {
+        "title": "Closed and Logical Relations for Over- and Under-Approximation of Powersets.",
+        "authors": [
+          "David A. Schmidt"
+        ]
+      },
+      {
+        "title": "Completeness Refinement in Abstract Symbolic Trajectory Evaluation.",
+        "authors": [
+          "Mila Dalla Preda"
+        ]
+      },
+      {
+        "title": "Constraint-Based Linear-Relations Analysis.",
+        "authors": [
+          "Sriram Sankaranarayanan",
+          "Henny B. Sipma",
+          "Zohar Manna"
+        ]
+      },
+      {
+        "title": "Spatial Analysis of BioAmbients.",
+        "authors": [
+          "Hanne Riis Nielson",
+          "Flemming Nielson",
+          "Henrik Pilegaard"
+        ]
+      },
+      {
+        "title": "Modular and Constraint-Based Information Flow Inference for an Object-Oriented Language.",
+        "authors": [
+          "Qi Sun",
+          "Anindya Banerjee",
+          "David A. Naumann"
+        ]
+      },
+      {
+        "title": "Information Flow Analysis in Logical Form.",
+        "authors": [
+          "Torben Amtoft",
+          "Anindya Banerjee"
+        ]
+      },
+      {
+        "title": "Type Inference Against Races.",
+        "authors": [
+          "Cormac Flanagan",
+          "Stephen N. Freund"
+        ]
+      },
+      {
+        "title": "Pointer-Range Analysis.",
+        "authors": [
+          "Suan Hsi Yong",
+          "Susan Horwitz"
+        ]
+      },
+      {
+        "title": "A Scalable Nonuniform Pointer Analysis for Embedded Programs.",
+        "authors": [
+          "Arnaud Venet"
+        ]
+      },
+      {
+        "title": "Bottom-Up and Top-Down Context-Sensitive Summary-Based Pointer Analysis.",
+        "authors": [
+          "Erik M. Nystrom",
+          "Hong-Seok Kim",
+          "Wen-mei W. Hwu"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation of Combinational Asynchronous Circuits.",
+        "authors": [
+          "Sarah Thompson",
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "Static Analysis of Gated Data Dependence Graphs.",
+        "authors": [
+          "Charles Hymans",
+          "Eben Upton"
+        ]
+      },
+      {
+        "title": "A Polynomial-Time Algorithm for Global Value Numbering.",
+        "authors": [
+          "Sumit Gulwani",
+          "George C. Necula"
+        ]
+      },
+      {
+        "title": "Shape Analysis Quantitative Shape Analysis.",
+        "authors": [
+          "Radu Rugina"
+        ]
+      },
+      {
+        "title": "A Relational Approach to Interprocedural Shape Analysis.",
+        "authors": [
+          "Bertrand Jeannet",
+          "Alexey Loginov",
+          "Thomas W. Reps",
+          "Shmuel Sagiv"
+        ]
+      },
+      {
+        "title": "Partially Disjunctive Heap Abstraction.",
+        "authors": [
+          "Roman Manevich",
+          "Shmuel Sagiv",
+          "Ganesan Ramalingam",
+          "John Field"
+        ]
+      },
+      {
+        "title": "An Abstract Interpretation Approach for Automatic Generation of Polynomial Invariants.",
+        "authors": [
+          "Enric Rodríguez-Carbonell",
+          "Deepak Kapur"
+        ]
+      },
+      {
+        "title": "Approximating the Algebraic Relational Semantics of Imperative Programs.",
+        "authors": [
+          "Michael Colón"
+        ]
+      },
+      {
+        "title": "The Octahedron Abstract Domain.",
+        "authors": [
+          "Robert Clarisó",
+          "Jordi Cortadella"
+        ]
+      },
+      {
+        "title": "Path-Sensitive Analysis for Linear Arithmetic and Uninterpreted Functions.",
+        "authors": [
+          "Sumit Gulwani",
+          "George C. Necula"
+        ]
+      },
+      {
+        "title": "On Logics of Aliasing.",
+        "authors": [
+          "Marius Bozga",
+          "Radu Iosif",
+          "Yassine Lakhnech"
+        ]
+      },
+      {
+        "title": "Generalized Records and Spatial Conjunction in Role Logic.",
+        "authors": [
+          "Viktor Kuncak",
+          "Martin C. Rinard"
+        ]
+      },
+      {
+        "title": "Non-termination Inference for Constraint Logic Programs.",
+        "authors": [
+          "Étienne Payet",
+          "Frédéric Mesnard"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2003.html": {
+    "header": "10. SAS 2003: San Diego, California, USA",
+    "year": "2003",
+    "papers": [
+      {
+        "title": "Precise Analysis of String Expressions.",
+        "authors": [
+          "Aske Simon Christensen",
+          "Anders Møller",
+          "Michael I. Schwartzbach"
+        ]
+      },
+      {
+        "title": "Modular Class Analysis with DATALOG.",
+        "authors": [
+          "Frédéric Besson",
+          "Thomas P. Jensen"
+        ]
+      },
+      {
+        "title": "Class-Level Modular Analysis for Object Oriented Languages.",
+        "authors": [
+          "Francesco Logozzo"
+        ]
+      },
+      {
+        "title": "Checking Interference with Fractional Permissions.",
+        "authors": [
+          "John Boyland"
+        ]
+      },
+      {
+        "title": "Message Analysis for Concurrent Languages.",
+        "authors": [
+          "Richard Carlsson",
+          "Konstantinos Sagonas",
+          "Jesper Wilhelmsson"
+        ]
+      },
+      {
+        "title": "Instantaneous Termination in Pure Esterel.",
+        "authors": [
+          "Olivier Tardieu",
+          "Robert de Simone"
+        ]
+      },
+      {
+        "title": "Stack Size Analysis for Interrupt-Driven Programs.",
+        "authors": [
+          "Krishnendu Chatterjee",
+          "Di Ma",
+          "Rupak Majumdar",
+          "Tian Zhao",
+          "Thomas A. Henzinger",
+          "Jens Palsberg"
+        ]
+      },
+      {
+        "title": "Program Development Using Abstract Interpretation (And The Ciao System Preprocessor).",
+        "authors": [
+          "Manuel V. Hermenegildo",
+          "Germán Puebla",
+          "Francisco Bueno",
+          "Pedro López-García"
+        ]
+      },
+      {
+        "title": "Selective Tail Call Elimination.",
+        "authors": [
+          "Yasuhiko Minamide"
+        ]
+      },
+      {
+        "title": "Inserting Safe Memory Reuse Commands into ML-Like Programs.",
+        "authors": [
+          "Oukseh Lee",
+          "Hongseok Yang",
+          "Kwangkeun Yi"
+        ]
+      },
+      {
+        "title": "Weighted Pushdown Systems and Their Application to Interprocedural Dataflow Analysis.",
+        "authors": [
+          "Thomas W. Reps",
+          "Stefan Schwoon",
+          "Somesh Jha"
+        ]
+      },
+      {
+        "title": "Client-Driven Pointer Analysis.",
+        "authors": [
+          "Samuel Z. Guyer",
+          "Calvin Lin"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation of Programs as Markov Decision Processes.",
+        "authors": [
+          "David Monniaux"
+        ]
+      },
+      {
+        "title": "A Logic for Analyzing Abstractions of Graph Transformation Systems.",
+        "authors": [
+          "Paolo Baldan",
+          "Barbara König",
+          "Bernhard König"
+        ]
+      },
+      {
+        "title": "Type Systems for Distributed Data Sharing.",
+        "authors": [
+          "Ben Liblit",
+          "Alex Aiken",
+          "Katherine A. Yelick"
+        ]
+      },
+      {
+        "title": "Z-Ranking: Using Statistical Analysis to Counter the Impact of Static Analysis Approximations.",
+        "authors": [
+          "Ted Kremenek",
+          "Dawson R. Engler"
+        ]
+      },
+      {
+        "title": "Computer-Assisted Verification of a Protocol for Certified Email.",
+        "authors": [
+          "Martín Abadi",
+          "Bruno Blanchet"
+        ]
+      },
+      {
+        "title": "Craig Interpolation and Reachability Analysis.",
+        "authors": [
+          "Kenneth L. McMillan"
+        ]
+      },
+      {
+        "title": "Precise Widening Operators for Convex Polyhedra.",
+        "authors": [
+          "Roberto Bagnara",
+          "Patricia M. Hill",
+          "Elisa Ricci",
+          "Enea Zaffanella"
+        ]
+      },
+      {
+        "title": "Cartesian Factoring of Polyhedra in Linear Relation Analysis.",
+        "authors": [
+          "Nicolas Halbwachs",
+          "David Merchat",
+          "Catherine Parent-Vigouroux"
+        ]
+      },
+      {
+        "title": "Continuation-Based Partial Evaluation without Continuations.",
+        "authors": [
+          "Peter Thiemann"
+        ]
+      },
+      {
+        "title": "Loop Transformations for Reducing Data Space Requirements of Resource-Constrained Applications.",
+        "authors": [
+          "Priya Unnikrishnan",
+          "Guangyu Chen",
+          "Mahmut T. Kandemir",
+          "Mustafa Karaköy",
+          "Ibrahim Kolcu"
+        ]
+      },
+      {
+        "title": "Code Compaction of Matching Single-Entry Multiple-Exit Regions.",
+        "authors": [
+          "Wen-Ke Chen",
+          "Bengu Li",
+          "Rajiv Gupta"
+        ]
+      },
+      {
+        "title": "Existential Heap Abstraction Entailment Is Undecidable.",
+        "authors": [
+          "Viktor Kuncak",
+          "Martin C. Rinard"
+        ]
+      },
+      {
+        "title": "Typestate Verification: Abstraction Techniques and Complexity Results.",
+        "authors": [
+          "John Field",
+          "Deepak Goyal",
+          "G. Ramalingam",
+          "Eran Yahav"
+        ]
+      },
+      {
+        "title": "Static Analysis of Accessed Regions in Recursive Data Structures.",
+        "authors": [
+          "Stephen Chong",
+          "Radu Rugina"
+        ]
+      },
+      {
+        "title": "Establishing Local Temporal Heap Safety Properties with Applications to Compile-Time Memory Management.",
+        "authors": [
+          "Ran Shaham",
+          "Eran Yahav",
+          "Elliot K. Kolodner",
+          "Shmuel Sagiv"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2002.html": {
+    "header": "9. SAS 2002: Madrid, Spain",
+    "year": "2002",
+    "papers": [
+      {
+        "title": "Static Program Analysis via 3-Valued Logic.",
+        "authors": [
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Open Modeling in Multi-stakeholder Distributed Systems: Research and Tool Challenges.",
+        "authors": [
+          "Robert J. Hall"
+        ]
+      },
+      {
+        "title": "An Algebraic Approach to the Static Analysis of Concurrent Software.",
+        "authors": [
+          "Javier Esparza"
+        ]
+      },
+      {
+        "title": "Polynomial Constants Are Decidable.",
+        "authors": [
+          "Markus Müller-Olm",
+          "Helmut Seidl"
+        ]
+      },
+      {
+        "title": "Normalizable Horn Clauses, Strongly Recognizable Relations, and Spi.",
+        "authors": [
+          "Flemming Nielson",
+          "Hanne Riis Nielson",
+          "Helmut Seidl"
+        ]
+      },
+      {
+        "title": "Nonuniform Alias Analysis of Recursive Data Structures and Arrays.",
+        "authors": [
+          "Arnaud Venet"
+        ]
+      },
+      {
+        "title": "Representing and Approximating Transfer Functions in Abstract Interpretation of Hetereogeneous Datatypes.",
+        "authors": [
+          "Bertrand Jeannet"
+        ]
+      },
+      {
+        "title": "Automated Verification of Concurrent Linked Lists with Counters.",
+        "authors": [
+          "Tuba Yavuz-Kahveci",
+          "Tevfik Bultan"
+        ]
+      },
+      {
+        "title": "Backward Type Inference Generalises Type Checking.",
+        "authors": [
+          "Lunjin Lu",
+          "Andy King"
+        ]
+      },
+      {
+        "title": "More Precise Yet Efficient Type Inference for Logic Programs.",
+        "authors": [
+          "Claudio Vaucheret",
+          "Francisco Bueno"
+        ]
+      },
+      {
+        "title": "A Few Graph-Based Relational Numerical Abstract Domains.",
+        "authors": [
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Static Analysis of the Numerical Stability of Loops.",
+        "authors": [
+          "Matthieu Martel"
+        ]
+      },
+      {
+        "title": "On Termination of Logic Programs with Floating Point Computations.",
+        "authors": [
+          "Alexander Serebrenik",
+          "Danny De Schreye"
+        ]
+      },
+      {
+        "title": "Modular Control Flow Analysis for Libraries.",
+        "authors": [
+          "Christian W. Probst"
+        ]
+      },
+      {
+        "title": "An Efficient Inclusion-Based Points-To Analysis for Strictly-Typed Languages.",
+        "authors": [
+          "John Whaley",
+          "Monica S. Lam"
+        ]
+      },
+      {
+        "title": "Compactly Representing First-Order Structures for Static Analysis.",
+        "authors": [
+          "Roman Manevich",
+          "G. Ramalingam",
+          "John Field",
+          "Deepak Goyal",
+          "Shmuel Sagiv"
+        ]
+      },
+      {
+        "title": "Possibly Not Closed Convex Polyhedra and the Parma Polyhedra Library.",
+        "authors": [
+          "Roberto Bagnara",
+          "Elisa Ricci",
+          "Enea Zaffanella",
+          "Patricia M. Hill"
+        ]
+      },
+      {
+        "title": "Speeding Up Dataflow Analysis Using Flow-Insensitive Pointer Analysis.",
+        "authors": [
+          "Stephen Adams",
+          "Thomas Ball",
+          "Manuvir Das",
+          "Sorin Lerner",
+          "Sriram K. Rajamani",
+          "Mark Seigle",
+          "Westley Weimer"
+        ]
+      },
+      {
+        "title": "Improving the Precision of Equality-Based Dataflow Analyses.",
+        "authors": [
+          "Erik Ruf"
+        ]
+      },
+      {
+        "title": "Guaranteed Optimization: Proving Nullspace Properties of Compilers.",
+        "authors": [
+          "Todd L. Veldhuizen",
+          "Andrew Lumsdaine"
+        ]
+      },
+      {
+        "title": "Representation Analysis for Coercion Placement.",
+        "authors": [
+          "Karl-Filip Faxén"
+        ]
+      },
+      {
+        "title": "Pipeline Modeling for Timing Analysis.",
+        "authors": [
+          "Marc Langenbach",
+          "Stephan Thesing",
+          "Reinhold Heckmann"
+        ]
+      },
+      {
+        "title": "Analysing Approximate Confinement under Uniform Attacks.",
+        "authors": [
+          "Alessandra Di Pierro",
+          "Chris Hankin",
+          "Herbert Wiklicky"
+        ]
+      },
+      {
+        "title": "An Improved Constraint-Based System for the Verification of Security Protocols.",
+        "authors": [
+          "Ricardo Corin",
+          "Sandro Etalle"
+        ]
+      },
+      {
+        "title": "From Secrecy to Authenticity in Security Protocols.",
+        "authors": [
+          "Bruno Blanchet"
+        ]
+      },
+      {
+        "title": "Security Typings by Abstract Interpretation.",
+        "authors": [
+          "Mirko Zanotti"
+        ]
+      },
+      {
+        "title": "Securing Communication in a Concurrent Language.",
+        "authors": [
+          "Andrei Sabelfeld",
+          "Heiko Mantel"
+        ]
+      },
+      {
+        "title": "Refinement of LTL Formulas for Abstract Model Checking.",
+        "authors": [
+          "María-del-Mar Gallardo",
+          "Pedro Merino",
+          "Ernesto Pimentel"
+        ]
+      },
+      {
+        "title": "Making Abstract Model Checking Strongly Preserving.",
+        "authors": [
+          "Francesco Ranzato",
+          "Francesco Tapparo"
+        ]
+      },
+      {
+        "title": "Semantics for Abstract Interpretation-Based Static Analyzes of Temporal Properties.",
+        "authors": [
+          "Damien Massé"
+        ]
+      },
+      {
+        "title": "Checking Safety Properties of Behavioral VHDL Descriptions by Abstract Interpretation.",
+        "authors": [
+          "Charles Hymans"
+        ]
+      },
+      {
+        "title": "States vs. Traces in Model Checking by Abstract Interpretation.",
+        "authors": [
+          "Roberto Giacobazzi",
+          "Francesco Ranzato"
+        ]
+      },
+      {
+        "title": "Reuse of Results in Termination Analysis of Typed Logic Programs.",
+        "authors": [
+          "Maurice Bruynooghe",
+          "Michael Codish",
+          "Samir Genaim",
+          "Wim Vanhoof"
+        ]
+      },
+      {
+        "title": "Finiteness Analysis in Polynomial Time.",
+        "authors": [
+          "Chin Soon Lee"
+        ]
+      },
+      {
+        "title": "Detecting Optimal Termination Conditions of Logic Programs.",
+        "authors": [
+          "Frédéric Mesnard",
+          "Étienne Payet",
+          "Ulrich Neumerkel"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2001.html": {
+    "header": "8. SAS 2001: Paris, France",
+    "year": "2001",
+    "papers": [
+      {
+        "title": "Analysis of Multithreaded Programs.",
+        "authors": [
+          "Martin C. Rinard"
+        ]
+      },
+      {
+        "title": "Communication and Parallelism Introduction and Elimination in Imperative Concurrent Programs.",
+        "authors": [
+          "Miquel Bertran",
+          "Francesc-Xavier Babot",
+          "August Climent",
+          "Miquel Nicolau"
+        ]
+      },
+      {
+        "title": "Using Slicing to Identify Duplication in Source Code.",
+        "authors": [
+          "Raghavan Komondoor",
+          "Susan Horwitz"
+        ]
+      },
+      {
+        "title": "Soft Scheduling for Hardware.",
+        "authors": [
+          "Richard Sharp",
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "Effective Strictness Analysis with HORN Constraints.",
+        "authors": [
+          "Kevin Glynn",
+          "Peter J. Stuckey",
+          "Martin Sulzmann"
+        ]
+      },
+      {
+        "title": "Applying Static Analysis Techniques for Inferring Termination Conditions of Logic Programs.",
+        "authors": [
+          "Frédéric Mesnard",
+          "Ulrich Neumerkel"
+        ]
+      },
+      {
+        "title": "An Abstract Analysis of the Probabilistic Termination of Programs.",
+        "authors": [
+          "David Monniaux"
+        ]
+      },
+      {
+        "title": "Watchpoint Semantics: A Tool for Compositional and Focussed Static Analyses.",
+        "authors": [
+          "Fausto Spoto"
+        ]
+      },
+      {
+        "title": "Parameterizing a Groundness Analysis of Logic Programs.",
+        "authors": [
+          "Lunjin Lu"
+        ]
+      },
+      {
+        "title": "Finite-Tree Analysis for Constraint Logic-Based Languages.",
+        "authors": [
+          "Roberto Bagnara",
+          "Roberta Gori",
+          "Patricia M. Hill",
+          "Enea Zaffanella"
+        ]
+      },
+      {
+        "title": "Applications of Extended Static Checking.",
+        "authors": [
+          "K. Rustan M. Leino"
+        ]
+      },
+      {
+        "title": "Cleanness Checking of String Manipulations in C Programs via Integer Analysis.",
+        "authors": [
+          "Nurit Dor",
+          "Michael Rodeh",
+          "Shmuel Sagiv"
+        ]
+      },
+      {
+        "title": "Solving Regular Tree Grammar Based Constraints.",
+        "authors": [
+          "Yanhong A. Liu",
+          "Ning Li",
+          "Scott D. Stoller"
+        ]
+      },
+      {
+        "title": "Static Analyses of the Precision of Floating-Point Operations.",
+        "authors": [
+          "Eric Goubault"
+        ]
+      },
+      {
+        "title": "Estimating the Impact of Scalable Pointer Analysis on Optimization.",
+        "authors": [
+          "Manuvir Das",
+          "Ben Liblit",
+          "Manuel Fähndrich",
+          "Jakob Rehof"
+        ]
+      },
+      {
+        "title": "Efficient Computation of Parameterized Pointer Information for Interprocedural Analyses.",
+        "authors": [
+          "Donglin Liang",
+          "Mary Jean Harrold"
+        ]
+      },
+      {
+        "title": "Parametric Optimization of Open Real-Time Systems.",
+        "authors": [
+          "Farn Wang",
+          "Hsu-Chun Yen"
+        ]
+      },
+      {
+        "title": "Embedding Chaos.",
+        "authors": [
+          "Natalia Sidorova",
+          "Martin Steffen"
+        ]
+      },
+      {
+        "title": "Analyzing Fair Parametric Extended Automata.",
+        "authors": [
+          "Ahmed Bouajjani",
+          "Aurore Collomb-Annichini",
+          "Yassine Lakhnech",
+          "Mihaela Sighireanu"
+        ]
+      },
+      {
+        "title": "Incompleteness, Counterexamples, and Refinements in Abstract Model-Checking.",
+        "authors": [
+          "Roberto Giacobazzi",
+          "Elisa Quintarelli"
+        ]
+      },
+      {
+        "title": "Language-Based Security: What's Needed and Why.",
+        "authors": [
+          "Fred B. Schneider"
+        ]
+      },
+      {
+        "title": "A Behavioral Module System for the Pi-Calculus.",
+        "authors": [
+          "Sriram K. Rajamani",
+          "Jakob Rehof"
+        ]
+      },
+      {
+        "title": "An Abstract Interpretation Framework for Analysing Mobile Ambients.",
+        "authors": [
+          "Francesca Levi",
+          "Sergio Maffeis"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation-Based Static Analysis of Mobile Ambients.",
+        "authors": [
+          "Jérôme Feret"
+        ]
+      },
+      {
+        "title": "Static Analysis and Software Assurance.",
+        "authors": [
+          "David A. Wagner"
+        ]
+      },
+      {
+        "title": "A Type and Effect Analysis of Security Protocols.",
+        "authors": [
+          "Andrew D. Gordon",
+          "Alan Jeffrey"
+        ]
+      },
+      {
+        "title": "Abstracting Cryptographic Protocols by Prolog Rules.",
+        "authors": [
+          "Bruno Blanchet"
+        ]
+      },
+      {
+        "title": "Security-Typed Languages and Distributed Computation.",
+        "authors": [
+          "Andrew C. Myers"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas2000.html": {
+    "header": "7. SAS 2000: Santa Barbara, CA, USA",
+    "year": "2000",
+    "papers": [
+      {
+        "title": "Enforcing Design Constraints with Object Logic.",
+        "authors": [
+          "Daniel Jackson"
+        ]
+      },
+      {
+        "title": "Model Checking as Constraint Solving.",
+        "authors": [
+          "Andreas Podelski"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation Based Semantics of Sequent Calculi.",
+        "authors": [
+          "Gianluca Amato",
+          "Giorgio Levi"
+        ]
+      },
+      {
+        "title": "A Transformational Approach for Generating Non-linear Invariants.",
+        "authors": [
+          "Saddek Bensalem",
+          "Marius Bozga",
+          "Jean-Claude Fernandez",
+          "Lucian Ghirvu",
+          "Yassine Lakhnech"
+        ]
+      },
+      {
+        "title": "Deriving Parallel Codes via Invariants.",
+        "authors": [
+          "Wei-Ngan Chin",
+          "Siau-Cheng Khoo",
+          "Zhenjiang Hu",
+          "Masato Takeichi"
+        ]
+      },
+      {
+        "title": "Safety of Strictness Analysis via Term Graph Rewriting.",
+        "authors": [
+          "David Clark",
+          "Chris Hankin",
+          "Sebastian Hunt"
+        ]
+      },
+      {
+        "title": "Checking Cleanness in Linked Lists.",
+        "authors": [
+          "Nurit Dor",
+          "Michael Rodeh",
+          "Shmuel Sagiv"
+        ]
+      },
+      {
+        "title": "Confidentiality Analysis of Mobile Systems.",
+        "authors": [
+          "Jérôme Feret"
+        ]
+      },
+      {
+        "title": "Unified Analysis of Array and Object References in Strongly Typed Languages.",
+        "authors": [
+          "Stephen J. Fink",
+          "Kathleen Knobe",
+          "Vivek Sarkar"
+        ]
+      },
+      {
+        "title": "Polymorphic versus Monomorphic Flow-Insensitive Points-to Analysis for C.",
+        "authors": [
+          "Jeffrey S. Foster",
+          "Manuel Fähndrich",
+          "Alexander Aiken"
+        ]
+      },
+      {
+        "title": "Efficient Inference of Static Types for Java Bytecode.",
+        "authors": [
+          "Etienne Gagnon",
+          "Laurie J. Hendren",
+          "Guillaume Marceau"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation of Game Properties.",
+        "authors": [
+          "Thomas A. Henzinger",
+          "Rupak Majumdar",
+          "Freddy Y. C. Mang",
+          "Jean-François Raskin"
+        ]
+      },
+      {
+        "title": "FULLDOC: A Full Reporting Debugger for Optimized Code.",
+        "authors": [
+          "Clara Jaramillo",
+          "Rajiv Gupta",
+          "Mary Lou Soffa"
+        ]
+      },
+      {
+        "title": "Partial Redundancy Elimination on Predicated Code.",
+        "authors": [
+          "Jens Knoop",
+          "Jean-Francois Collard",
+          "Roy Dz-Ching Ju"
+        ]
+      },
+      {
+        "title": "TVLA: A System for Implementing Static Analyses.",
+        "authors": [
+          "Tal Lev-Ami",
+          "Shmuel Sagiv"
+        ]
+      },
+      {
+        "title": "Tree Schemata and Fair Termination.",
+        "authors": [
+          "Laurent Mauborgne"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation of Probabilistic Semantics.",
+        "authors": [
+          "David Monniaux"
+        ]
+      },
+      {
+        "title": "Code Specialization Based on Value Profiles.",
+        "authors": [
+          "Robert Muth",
+          "Scott A. Watterson",
+          "Saumya K. Debray"
+        ]
+      },
+      {
+        "title": "Flattening Is an Improvement.",
+        "authors": [
+          "James Riely",
+          "Jan F. Prins"
+        ]
+      },
+      {
+        "title": "Model Checking Guided Abstraction and Analysis.",
+        "authors": [
+          "Hassen Saïdi"
+        ]
+      },
+      {
+        "title": "Abstract Domains for Sharing Analysis by Optimal Semantics.",
+        "authors": [
+          "Francesca Scozzari"
+        ]
+      },
+      {
+        "title": "Concurrency Analysis for Java.",
+        "authors": [
+          "Cristian Ungureanu",
+          "Suresh Jagannathan"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas99.html": {
+    "header": "6. SAS 1999: Venice, Italy",
+    "year": "1999",
+    "papers": [
+      {
+        "title": "A Formal Study of Slicing for Multi-threaded Programs with JVM Concurrency Primitives.",
+        "authors": [
+          "John Hatcliff",
+          "James C. Corbett",
+          "Matthew B. Dwyer",
+          "Stefan Sokolowski",
+          "Hongjun Zheng"
+        ]
+      },
+      {
+        "title": "Static Analyses for Eliminating Unnecessary Synchronization from Java Programs.",
+        "authors": [
+          "Jonathan Aldrich",
+          "Craig Chambers",
+          "Emin Gün Sirer",
+          "Susan J. Eggers"
+        ]
+      },
+      {
+        "title": "Dynamic Partitioning in Analyses of Numerical Properties.",
+        "authors": [
+          "Bertrand Jeannet",
+          "Nicolas Halbwachs",
+          "Pascal Raymond"
+        ]
+      },
+      {
+        "title": "Polyhedral Analysis for Synchronous Languages.",
+        "authors": [
+          "Frédéric Besson",
+          "Thomas P. Jensen",
+          "Jean-Pierre Talpin"
+        ]
+      },
+      {
+        "title": "Decomposing Non-redundant Sharing by Complementation.",
+        "authors": [
+          "Enea Zaffanella",
+          "Patricia M. Hill",
+          "Roberto Bagnara"
+        ]
+      },
+      {
+        "title": "Freeness Analysis Through Linear Refinement.",
+        "authors": [
+          "Patricia M. Hill",
+          "Fausto Spoto"
+        ]
+      },
+      {
+        "title": "Binary Decision Graphs.",
+        "authors": [
+          "Laurent Mauborgne"
+        ]
+      },
+      {
+        "title": "Binding-Time Analysis for Both Static and Dynamic Expressions.",
+        "authors": [
+          "Kenichi Asai"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation of Mobile Ambients.",
+        "authors": [
+          "René Rydhof Hansen",
+          "Jacob Grydholt Jensen",
+          "Flemming Nielson",
+          "Hanne Riis Nielson"
+        ]
+      },
+      {
+        "title": "Abstracting Cryptographic Protocols with Tree Automata.",
+        "authors": [
+          "David Monniaux"
+        ]
+      },
+      {
+        "title": "State Space Reduction Based on Live Variables Analysis.",
+        "authors": [
+          "Marius Bozga",
+          "Jean-Claude Fernandez",
+          "Lucian Ghirvu"
+        ]
+      },
+      {
+        "title": "Partial Dead Code Elimination Using Extended Value Graph.",
+        "authors": [
+          "Munehiro Takimoto",
+          "Kenichi Harada"
+        ]
+      },
+      {
+        "title": "Translating Out of Static Single Assignment Form.",
+        "authors": [
+          "Vugranam C. Sreedhar",
+          "Roy Dz-Ching Ju",
+          "David M. Gillies",
+          "Vatsa Santhanam"
+        ]
+      },
+      {
+        "title": "Eliminating Dead Code on Recursive Data.",
+        "authors": [
+          "Yanhong A. Liu",
+          "Scott D. Stoller"
+        ]
+      },
+      {
+        "title": "Detecting Equalities of Variables: Combining Efficiency with Precision.",
+        "authors": [
+          "Oliver Rüthing",
+          "Jens Knoop",
+          "Bernhard Steffen"
+        ]
+      },
+      {
+        "title": "A New Class of Functions for Abstract Interpretation.",
+        "authors": [
+          "Jörg Köller",
+          "Markus Mohnen"
+        ]
+      },
+      {
+        "title": "Equational Semantics.",
+        "authors": [
+          "Loïc Correnson",
+          "Étienne Duris",
+          "Didier Parigot",
+          "Gilles Roussel"
+        ]
+      },
+      {
+        "title": "Abstract Animator for Temporal Specifications: Application to TLA.",
+        "authors": [
+          "Dominique Cansell",
+          "Dominique Méry"
+        ]
+      },
+      {
+        "title": "Static Analysis of Mega-Programs.",
+        "authors": [
+          "Daniel Weise"
+        ]
+      },
+      {
+        "title": "Safety versus Secrecy.",
+        "authors": [
+          "Dennis M. Volpano"
+        ]
+      },
+      {
+        "title": "On the Complexity Analysis of Static Analyses.",
+        "authors": [
+          "David A. McAllester"
+        ]
+      },
+      {
+        "title": "Model-Checking: A Tutorial Introduction.",
+        "authors": [
+          "Markus Müller-Olm",
+          "David A. Schmidt",
+          "Bernhard Steffen"
+        ]
+      },
+      {
+        "title": "Tutorial: Techniques to Improve the Scalability and Precision of Data Flow Analysis.",
+        "authors": [
+          "Mary Lou Soffa"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas98.html": {
+    "header": "5. SAS 1998: Pisa, Italy",
+    "year": "1998",
+    "papers": [
+      {
+        "title": "Bidirectional Data Flow Analysis in Code Motion: Myth and Reality.",
+        "authors": [
+          "Oliver Rüthing"
+        ]
+      },
+      {
+        "title": "On a New Method for Dataflow Analysis of Java Virtual Machine Subroutines.",
+        "authors": [
+          "Masami Hagiya",
+          "Akihiko Tozawa"
+        ]
+      },
+      {
+        "title": "Enabling Sparse Constant Propagation of Array Elements via Array SSA Form.",
+        "authors": [
+          "Vivek Sarkar",
+          "Kathleen Knobe"
+        ]
+      },
+      {
+        "title": "Assessing the Effects of Flow-Sensitivity on Pointer Alias Analyses.",
+        "authors": [
+          "Michael Hind",
+          "Anthony Pioli"
+        ]
+      },
+      {
+        "title": "Analysis of Normal Logic Programs.",
+        "authors": [
+          "François Fages",
+          "Roberta Gori"
+        ]
+      },
+      {
+        "title": "The Correctness of Set-Sharing.",
+        "authors": [
+          "Patricia M. Hill",
+          "Roberto Bagnara",
+          "Enea Zaffanella"
+        ]
+      },
+      {
+        "title": "Deriving Analysers by Folding/Unfolding of Natural Semantics and a Case Study: Slicing.",
+        "authors": [
+          "Valérie Gouranton"
+        ]
+      },
+      {
+        "title": "A Symbolic Semantics for Abstract Model Checking.",
+        "authors": [
+          "Francesca Levi"
+        ]
+      },
+      {
+        "title": "Automatic Determination of Communication Topologies in Mobile Systems.",
+        "authors": [
+          "Arnaud Venet"
+        ]
+      },
+      {
+        "title": "Constructing Specific SOS Semantics for Concurrency via Abstract Interpretation.",
+        "authors": [
+          "Chiara Bodei",
+          "Pierpaolo Degano",
+          "Corrado Priami"
+        ]
+      },
+      {
+        "title": "A First-Order Language for Expressing Aliasing and Type Properties of Logic Programs.",
+        "authors": [
+          "Paolo Volpe"
+        ]
+      },
+      {
+        "title": "Refining Static Analyses by Trace-Based Partitioning Using Control Flow.",
+        "authors": [
+          "Maria Handjieva",
+          "Stanislav Tzolovski"
+        ]
+      },
+      {
+        "title": "Building Complete Abstract Interpretations in a Linear Logic-based Setting.",
+        "authors": [
+          "Roberto Giacobazzi",
+          "Francesco Ranzato",
+          "Francesca Scozzari"
+        ]
+      },
+      {
+        "title": "On the Power of Homeomorphic Embedding for Online Termination.",
+        "authors": [
+          "Michael Leuschel"
+        ]
+      },
+      {
+        "title": "Analysis of Imperative Programs through Analysis of Constraint Logic Programs.",
+        "authors": [
+          "Julio C. Peralta",
+          "John P. Gallagher",
+          "Hüseyin Saglam"
+        ]
+      },
+      {
+        "title": "Improving Control in Functional Logic Program Specialization.",
+        "authors": [
+          "Elvira Albert",
+          "María Alpuente",
+          "Moreno Falaschi",
+          "Pascual Julián Iranzo",
+          "Germán Vidal"
+        ]
+      },
+      {
+        "title": "Directional Type Inference for Logic Programs.",
+        "authors": [
+          "Witold Charatonik",
+          "Andreas Podelski"
+        ]
+      },
+      {
+        "title": "Finite Subtype Inference with Explicit Polymorphism.",
+        "authors": [
+          "Dominic Duggan"
+        ]
+      },
+      {
+        "title": "Sparse Jacobian Computation in Automatic Differentiation by Static Program Analysis.",
+        "authors": [
+          "Mohamed Tadjouddine",
+          "F. Eyssette",
+          "C. Faure"
+        ]
+      },
+      {
+        "title": "A New Solution to the Hidden Copy Problem.",
+        "authors": [
+          "Deepak Goyal",
+          "Robert Paige"
+        ]
+      },
+      {
+        "title": "A Tutorial on Domain Theory in Abstract Interpretation.",
+        "authors": [
+          "Roberto Giacobazzi"
+        ]
+      },
+      {
+        "title": "Program Analysis as Model Checking of Abstract Interpretations.",
+        "authors": [
+          "David A. Schmidt",
+          "Bernhard Steffen"
+        ]
+      },
+      {
+        "title": "Certifying, Optimizing Compilation (Abstract).",
+        "authors": [
+          "Peter Lee"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas97.html": {
+    "header": "4. SAS 1997: Paris, France",
+    "year": "1997",
+    "papers": [
+      {
+        "title": "On Sparse Evaluation Representations.",
+        "authors": [
+          "G. Ramalingam"
+        ]
+      },
+      {
+        "title": "The Effects of the Precision of Pointer Analysis.",
+        "authors": [
+          "Marc Shapiro",
+          "Susan Horwitz"
+        ]
+      },
+      {
+        "title": "Fast and Effective Procedure Inlining.",
+        "authors": [
+          "Oscar Waddell",
+          "R. Kent Dybvig"
+        ]
+      },
+      {
+        "title": "Set-Sharing is Redundant for Pair-Sharing.",
+        "authors": [
+          "Roberto Bagnara",
+          "Patricia M. Hill",
+          "Enea Zaffanella"
+        ]
+      },
+      {
+        "title": "An Algebraic Approach to Sharing Analysis of Logic Programs.",
+        "authors": [
+          "Michael Codish",
+          "Vitaly Lagoon",
+          "Francisco Bueno"
+        ]
+      },
+      {
+        "title": "Logical Optimality of Groundness Analysis.",
+        "authors": [
+          "Francesca Scozzari"
+        ]
+      },
+      {
+        "title": "Towards a Cost-Effective Estimation of Uncaught Exceptions in SML Programs.",
+        "authors": [
+          "Kwangkeun Yi",
+          "Sukyoung Ryu"
+        ]
+      },
+      {
+        "title": "Program Analysis Using Mixed Term and Set Constraints.",
+        "authors": [
+          "Manuel Fähndrich",
+          "Alexander Aiken"
+        ]
+      },
+      {
+        "title": "Set-Based Analysis for Logic Programming and Tree Automata.",
+        "authors": [
+          "Jean-Marc Talbot",
+          "Sophie Tison",
+          "Philippe Devienne"
+        ]
+      },
+      {
+        "title": "Denotational Abstract Interpretation of Functional Logic Programs.",
+        "authors": [
+          "Frank Zartmann"
+        ]
+      },
+      {
+        "title": "Termination Analysis for Mercury.",
+        "authors": [
+          "Chris Speirs",
+          "Zoltan Somogyi",
+          "Harald Søndergaard"
+        ]
+      },
+      {
+        "title": "The Power of QDDs (Extended Abstract).",
+        "authors": [
+          "Bernard Boigelot",
+          "Patrice Godefroid",
+          "Bernard Willems",
+          "Pierre Wolper"
+        ]
+      },
+      {
+        "title": "Type-Based Analysis of Communication for Concurrent Programming Languages.",
+        "authors": [
+          "Atsushi Igarashi",
+          "Naoki Kobayashi"
+        ]
+      },
+      {
+        "title": "True Concurrency via Abstract Interpretation.",
+        "authors": [
+          "Chiara Bodei",
+          "Corrado Priami"
+        ]
+      },
+      {
+        "title": "Static Analysis of Interaction Nets for Distributed Implementations.",
+        "authors": [
+          "Ian Mackie"
+        ]
+      },
+      {
+        "title": "Type-Directed Flow Analysis for Typed Intermediate Languages.",
+        "authors": [
+          "Suresh Jagannathan",
+          "Stephen Weeks",
+          "Andrew K. Wright"
+        ]
+      },
+      {
+        "title": "Exact Flow Analysis.",
+        "authors": [
+          "Christian Mossin"
+        ]
+      },
+      {
+        "title": "Satisfying Subtype Inequalities in Polynomial Space.",
+        "authors": [
+          "Alexandre Frey"
+        ]
+      },
+      {
+        "title": "Static Analyses of Congruence Properties on Rational Numbers (Extended Abstract).",
+        "authors": [
+          "Philippe Granger"
+        ]
+      },
+      {
+        "title": "Effective Specialization of Realistic Programs via Use Sensitivity.",
+        "authors": [
+          "Luke Hornof",
+          "Charles Consel",
+          "Jacques Noyé"
+        ]
+      },
+      {
+        "title": "Coalescing Conditional Branches into Efficient Indirect Jumps.",
+        "authors": [
+          "Gang-Ryung Uh",
+          "David B. Whalley"
+        ]
+      },
+      {
+        "title": "Automatic Termination Analysis for Partial Functions Using Polynomial Orderings.",
+        "authors": [
+          "Jürgen Brauburger"
+        ]
+      },
+      {
+        "title": "TEA: Automatically Proving Termination of Programs in a Non-strict Higher-Order Functional Language.",
+        "authors": [
+          "Sven Eric Panitz",
+          "Manfred Schmidt-Schauß"
+        ]
+      },
+      {
+        "title": "Semantic Analyzer of Modula-Programs.",
+        "authors": [
+          "Pavel G. Emelianov",
+          "Danil E. Baburin"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation from Improving WAM Code.",
+        "authors": [
+          "Dante Baldan",
+          "Gilberto Filé"
+        ]
+      },
+      {
+        "title": "Attribute Grammars and Functional Programming Deforestation.",
+        "authors": [
+          "Loïc Correnson",
+          "Étienne Duris",
+          "Didier Parigot",
+          "Gilles Roussel"
+        ]
+      },
+      {
+        "title": "Data Dependence as Abstract Interpretations.",
+        "authors": [
+          "Stanislav Tzolovski"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation: A Theory of Approximate Computation.",
+        "authors": [
+          "Kim Marriott"
+        ]
+      },
+      {
+        "title": "On the Desirable Link Between Theory and Practice in Abstract Interpretation (Extended Abstract).",
+        "authors": [
+          "Baudouin Le Charlier",
+          "Pierre Flener"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation Based Static Analysis Parameterized by Semantics.",
+        "authors": [
+          "Patrick Cousot"
+        ]
+      },
+      {
+        "title": "Can Abstract Interpretation Become a Mainstream Compiler Technology? (Abstract).",
+        "authors": [
+          "Luddy Harrison"
+        ]
+      },
+      {
+        "title": "Combining Abstract Interpretation and Partial Evaluation (Brief Overview).",
+        "authors": [
+          "Neil D. Jones"
+        ]
+      },
+      {
+        "title": "Practical Compile-Time Analysis.",
+        "authors": [
+          "Barbara G. Ryder"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas96.html": {
+    "header": "3. SAS 1996: Aachen, Germany",
+    "year": "1996",
+    "papers": [
+      {
+        "title": "Constraint-Based Program Analysis (Abstract).",
+        "authors": [
+          "Alex Aiken"
+        ]
+      },
+      {
+        "title": "Semantics-Directed Program Analysis: A Tool-Maker's Perspective.",
+        "authors": [
+          "Flemming Nielson"
+        ]
+      },
+      {
+        "title": "Property-Oriented Expansion.",
+        "authors": [
+          "Bernhard Steffen"
+        ]
+      },
+      {
+        "title": "Generalized Dominators for Structured Programs.",
+        "authors": [
+          "Stephen Alstrup",
+          "Peter W. Lauridsen",
+          "Mikkel Thorup"
+        ]
+      },
+      {
+        "title": "Cache Behavior Prediction by Abstract Interpretation.",
+        "authors": [
+          "Martin Helmut Alt",
+          "Christian Ferdinand",
+          "Florian Martin",
+          "Reinhard Wilhelm"
+        ]
+      },
+      {
+        "title": "Termination Analysis for Offline Partial Evaluation of a Higher Order Functional Language.",
+        "authors": [
+          "Peter Holst Andersen",
+          "Carsten Kehler Holst"
+        ]
+      },
+      {
+        "title": "Proving Correctness of Constraint Logic Programs with Dynamic Scheduling.",
+        "authors": [
+          "Frank S. de Boer",
+          "Maurizio Gabbrielli",
+          "Catuscia Palamidessi"
+        ]
+      },
+      {
+        "title": "Understanding Mobile Agents via a Non-Interleaving Semantics for Facile.",
+        "authors": [
+          "Roberta Borgia",
+          "Pierpaolo Degano",
+          "Corrado Priami",
+          "Lone Leth Thomsen",
+          "Bent Thomsen"
+        ]
+      },
+      {
+        "title": "Termination Analysis for Partial Functions.",
+        "authors": [
+          "Jürgen Brauburger",
+          "Jürgen Giesl"
+        ]
+      },
+      {
+        "title": "A Freeness and Sharing Analysis of Logic Programs Based on a Pre-interpretation.",
+        "authors": [
+          "Maurice Bruynooghe",
+          "Bart Demoen",
+          "Dmitri Boulanger",
+          "Marc Denecker",
+          "Anne Mulkers"
+        ]
+      },
+      {
+        "title": "Refinement Types for Program Analysis.",
+        "authors": [
+          "Mario Coppo",
+          "Ferruccio Damiani",
+          "Paola Giannini"
+        ]
+      },
+      {
+        "title": "A Comparison of Three Occur-Check Analysers.",
+        "authors": [
+          "Lobel Crnogorac",
+          "Andrew D. Kelly",
+          "Harald Søndergaard"
+        ]
+      },
+      {
+        "title": "Analysis of the Equality Relations for the Program Terms.",
+        "authors": [
+          "Pavel G. Emeljanov"
+        ]
+      },
+      {
+        "title": "An Even Faster Solver for General Systems of Equations.",
+        "authors": [
+          "Christian Fecht",
+          "Helmut Seidl"
+        ]
+      },
+      {
+        "title": "Inferring Program Specifications in Polynomial-Time.",
+        "authors": [
+          "Robert Givan"
+        ]
+      },
+      {
+        "title": "Automated Modular Termination Proofs for Real Prolog Programs.",
+        "authors": [
+          "Martin Müller",
+          "Thomas Glaß",
+          "Karl Stroetmann"
+        ]
+      },
+      {
+        "title": "Data-Flow-Based Virtual Function Resolution.",
+        "authors": [
+          "Hemant D. Pande",
+          "Barbara G. Ryder"
+        ]
+      },
+      {
+        "title": "Compiling Laziness Using Projections.",
+        "authors": [
+          "Ross Paterson"
+        ]
+      },
+      {
+        "title": "Optimized Algorithms for Incremental Analysis of Logic Programs.",
+        "authors": [
+          "Germán Puebla",
+          "Manuel V. Hermenegildo"
+        ]
+      },
+      {
+        "title": "Tractable Constraints in Finite Semilattices.",
+        "authors": [
+          "Jakob Rehof",
+          "Torben Æ. Mogensen"
+        ]
+      },
+      {
+        "title": "Uniformity for the Decidability of Hybrid Automata.",
+        "authors": [
+          "Olivier F. Roux",
+          "Vlad Rusu"
+        ]
+      },
+      {
+        "title": "A Backward Slicing Algorithm for Prolog.",
+        "authors": [
+          "Stéphane Schoenig",
+          "Mireille Ducassé"
+        ]
+      },
+      {
+        "title": "Combining Slicing and Constraint Solving for Validation of Measurement Software.",
+        "authors": [
+          "Gregor Snelting"
+        ]
+      },
+      {
+        "title": "Subtyping Constrained Types.",
+        "authors": [
+          "Valery Trifonov",
+          "Scott F. Smith"
+        ]
+      },
+      {
+        "title": "Abstract Cofibered Domains: Application to the Alias Analysis of Untyped Programs.",
+        "authors": [
+          "Arnaud Venet"
+        ]
+      },
+      {
+        "title": "STAN: A Static Analyzer for CLP(R) Based on Abstract Interpretation.",
+        "authors": [
+          "Maria Handjieva"
+        ]
+      },
+      {
+        "title": "Two Applications of an Incremental Analysis Engine for (Constraint) Logic Programs.",
+        "authors": [
+          "Andrew D. Kelly",
+          "Kim Marriott",
+          "Harald Søndergaard",
+          "Peter J. Stuckey"
+        ]
+      },
+      {
+        "title": "PAN - The Prolog Analyzer.",
+        "authors": [
+          "Martin Müller",
+          "Thomas Glaß",
+          "Karl Stroetmann"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas95.html": {
+    "header": "2. SAS 1995: Glasgow, UK",
+    "year": "1995",
+    "papers": [
+      {
+        "title": "Natural-Semantics-Based Abstract Interpretation (Preliminary Version).",
+        "authors": [
+          "David A. Schmidt"
+        ]
+      },
+      {
+        "title": "Region Inference for Higher-Order Functional Languages.",
+        "authors": [
+          "Mads Tofte"
+        ]
+      },
+      {
+        "title": "An Automata-Theoretic Approach to Presburger Arithmetic Constraints (Extended Abstract).",
+        "authors": [
+          "Pierre Wolper",
+          "Bernard Boigelot"
+        ]
+      },
+      {
+        "title": "Generation of Efficient Interprocedural Analyzers with PAG.",
+        "authors": [
+          "Martin Helmut Alt",
+          "Florian Martin"
+        ]
+      },
+      {
+        "title": "Optimality in Abstractions of Model Checking.",
+        "authors": [
+          "Rance Cleaveland",
+          "S. Purushothaman Iyer",
+          "Daniel Yankelevich"
+        ]
+      },
+      {
+        "title": "Determining Storage Properties of Sequential and Concurrent Programs with Assignment and Structured Data.",
+        "authors": [
+          "Christopher Colby"
+        ]
+      },
+      {
+        "title": "Partitioning Non-strict Functional Languages for Multi-threaded Code Generation.",
+        "authors": [
+          "Satyan R. Coorg"
+        ]
+      },
+      {
+        "title": "Complementation in Abstract Interpretation.",
+        "authors": [
+          "Agostino Cortesi",
+          "Gilberto Filé",
+          "Roberto Giacobazzi",
+          "Catuscia Palamidessi",
+          "Francesco Ranzato"
+        ]
+      },
+      {
+        "title": "Polymorphic Recursion and Subtype Qualifications: Polymorphic Binding-Time Analysis in Polynomial Time.",
+        "authors": [
+          "Dirk Dussart",
+          "Fritz Henglein",
+          "Christian Mossin"
+        ]
+      },
+      {
+        "title": "Optimizing Lazy Functional Programs Using Flow Inference.",
+        "authors": [
+          "Karl-Filip Faxén"
+        ]
+      },
+      {
+        "title": "Termination Analysis for Functional Programs using Term Orderings.",
+        "authors": [
+          "Jürgen Giesl"
+        ]
+      },
+      {
+        "title": "A Type-based Analysis for Stack Allocation in Functional Languages.",
+        "authors": [
+          "John Hannan"
+        ]
+      },
+      {
+        "title": "Control-Flow Analysis and Type Systems.",
+        "authors": [
+          "Nevin Heintze"
+        ]
+      },
+      {
+        "title": "Effective Flow Analysis for Avoiding Run-Time Checks.",
+        "authors": [
+          "Suresh Jagannathan",
+          "Andrew K. Wright"
+        ]
+      },
+      {
+        "title": "Static Analysis of Communication for Asynchronous Concurrent Programming Languages.",
+        "authors": [
+          "Naoki Kobayashi",
+          "Motoki Nakade",
+          "Akinori Yonezawa"
+        ]
+      },
+      {
+        "title": "Unification-Free Execution of Well-Moded and Well-Typed Prolog Programs.",
+        "authors": [
+          "M. R. K. Krishna Rao",
+          "R. K. Shyamasundar"
+        ]
+      },
+      {
+        "title": "Efficient Closure Utilisation by Higher-Order Inheritance Analysis.",
+        "authors": [
+          "Markus Mohnen"
+        ]
+      },
+      {
+        "title": "System F and Abstract Interpretation.",
+        "authors": [
+          "Bruno Monsuez"
+        ]
+      },
+      {
+        "title": "Call-By-Name CPS-Translation as a Binding-Time Improvement.",
+        "authors": [
+          "Kristian Nielsen",
+          "Morten Heine Sørensen"
+        ]
+      },
+      {
+        "title": "Trust in the lambda-Calculus.",
+        "authors": [
+          "Jens Palsberg",
+          "Peter Ørbæk"
+        ]
+      },
+      {
+        "title": "LSign Reordered.",
+        "authors": [
+          "Viswanath Ramachandran",
+          "Pascal Van Hentenryck"
+        ]
+      },
+      {
+        "title": "Abstract Reduction Using a Tableau Calculus.",
+        "authors": [
+          "Manfred Schmidt-Schauß",
+          "Sven Eric Panitz",
+          "Marko Schütz"
+        ]
+      },
+      {
+        "title": "Bigloo: A Portable and Optimizing Compiler for Strict Functional Languages.",
+        "authors": [
+          "Manuel Serrano",
+          "Pierre Weis"
+        ]
+      },
+      {
+        "title": "Beyond Prototype Implementations: Polymorphic Projection Analysis for Glasgow Haskell.",
+        "authors": [
+          "Julian Seward"
+        ]
+      },
+      {
+        "title": "Binding-Time Analysis and Strictness Analysis by Abstract Interpretation.",
+        "authors": [
+          "Franck Védrine"
+        ]
+      },
+      {
+        "title": "GENA - A Tool for Generating Prolog Analyzers from Specifications.",
+        "authors": [
+          "Christian Fecht"
+        ]
+      },
+      {
+        "title": "IGOR: A Tool for Developing Prolog Dataflow Analyzers.",
+        "authors": [
+          "Magnus Nordin",
+          "Thomas Lindgren",
+          "Håkan Millroth"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/sas94.html": {
+    "header": "1. SAS 1994: Namur, Belgium",
+    "year": "1994",
+    "papers": [
+      {
+        "title": "The Costs and Benefits of Abstract Interpretation-driven Prolog Optimization.",
+        "authors": [
+          "Thomas W. Getzinger"
+        ]
+      },
+      {
+        "title": "Mode Analysis of Functional Logic Programs.",
+        "authors": [
+          "Michael Hanus",
+          "Frank Zartmann"
+        ]
+      },
+      {
+        "title": "Directional Type Checking of Logic Programs.",
+        "authors": [
+          "Alexander Aiken",
+          "T. K. Lakshman"
+        ]
+      },
+      {
+        "title": "A Systematic Construction of Abstract Domains.",
+        "authors": [
+          "Dmitri Boulanger",
+          "Maurice Bruynooghe"
+        ]
+      },
+      {
+        "title": "Constraint-Based Type Inference and Parametric Polymorphism.",
+        "authors": [
+          "Ole Agesen"
+        ]
+      },
+      {
+        "title": "Efficient On-the-fly Analysis of Program Behavior and Static Cache Simulation.",
+        "authors": [
+          "Frank Mueller",
+          "David B. Whalley"
+        ]
+      },
+      {
+        "title": "From Processor Timing Specifications to Static Intruction Scheduling.",
+        "authors": [
+          "Edwin A. Harcourt",
+          "Jon Mauney",
+          "Todd A. Cook"
+        ]
+      },
+      {
+        "title": "Stackability in the Simply-Typed Call-by-Value Lambda Calculus.",
+        "authors": [
+          "Anindya Banerjee",
+          "David A. Schmidt"
+        ]
+      },
+      {
+        "title": "Generalized Boxings, Congruences and Partial Inlining.",
+        "authors": [
+          "Jean Goubault"
+        ]
+      },
+      {
+        "title": "Selective Thunkification.",
+        "authors": [
+          "Paul Steckler",
+          "Mitchell Wand"
+        ]
+      },
+      {
+        "title": "About Synchronous Programming and Abstract Interpretation.",
+        "authors": [
+          "Nicolas Halbwachs"
+        ]
+      },
+      {
+        "title": "Uniqueness and Completeness Analysis of Array Comprehensions.",
+        "authors": [
+          "David A. Garza-Salazar",
+          "A. P. Wim Böhm"
+        ]
+      },
+      {
+        "title": "Extended Analysis of Data Fields.",
+        "authors": [
+          "Björn Lisper",
+          "Jean-Francois Collard"
+        ]
+      },
+      {
+        "title": "Verification of Linear Hybrid Systems by Means of Convex Approximations.",
+        "authors": [
+          "Nicolas Halbwachs",
+          "Yann-Eric Proy",
+          "Pascal Raymond"
+        ]
+      },
+      {
+        "title": "Compile-time Detection of Uncaught Exceptions in Standard ML Programs.",
+        "authors": [
+          "Kwangkeun Yi"
+        ]
+      },
+      {
+        "title": "Estimating the Computational Cost of Logic Programs.",
+        "authors": [
+          "Saumya K. Debray",
+          "Pedro López-García",
+          "Manuel V. Hermenegildo",
+          "Nai-Wei Lin"
+        ]
+      },
+      {
+        "title": "Boolean Functions for Dependency Analysis: Algebraic Properties and Efficient Representation.",
+        "authors": [
+          "Tania Armstrong",
+          "Kim Marriott",
+          "Peter Schachte",
+          "Harald Søndergaard"
+        ]
+      },
+      {
+        "title": "Deriving Polymorphic Type Dependencies for Logic Programs Using Multiple Incarnations of Prop.",
+        "authors": [
+          "Michael Codish",
+          "Bart Demoen"
+        ]
+      },
+      {
+        "title": "Extracting Non-Strict Independent And-Parallelism Using Sharing and Freeness Information.",
+        "authors": [
+          "Daniel Cabeza Gras",
+          "Manuel V. Hermenegildo"
+        ]
+      },
+      {
+        "title": "Efficient FixPoint Computation.",
+        "authors": [
+          "Bart Vergauwen",
+          "J. Wauman",
+          "Johan Lewi"
+        ]
+      },
+      {
+        "title": "Finding Fixpoints in Finite Function Spaces Using Neddedness Analysis and Chaotic Iteration.",
+        "authors": [
+          "Niels Jörgensen"
+        ]
+      },
+      {
+        "title": "Efficient Strictness Analysis of Haskell.",
+        "authors": [
+          "Kristian Damm Jensen",
+          "Peter Hjæresen",
+          "Mads Rosendahl"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation Using TDGs.",
+        "authors": [
+          "Laurent Mauborgne"
+        ]
+      },
+      {
+        "title": "A Type-based Framework for Program Analysis.",
+        "authors": [
+          "Chris Hankin",
+          "Daniel Le Métayer"
+        ]
+      },
+      {
+        "title": "Iterative Fixed Point Computation for Type-Based Strictness Analysis.",
+        "authors": [
+          "Fritz Henglein"
+        ]
+      },
+      {
+        "title": "Strictness and Totality Analysis.",
+        "authors": [
+          "Kirsten Lackner Solberg"
+        ]
+      },
+      {
+        "title": "Fast Strictness Analysis Via Symbolic Fixpoint Iteration.",
+        "authors": [
+          "Charles Consel"
+        ]
+      },
+      {
+        "title": "Generating Transformers for Deforestation and Supercompilation.",
+        "authors": [
+          "Robert Glück",
+          "Jesper Jørgensen"
+        ]
+      },
+      {
+        "title": "Mechanical Elimination of Commutative Redundancy.",
+        "authors": [
+          "Hessam Khoshnevisan",
+          "Mohamad Afshar"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/wsa93.html": {
+    "header": "3. WSA 1993: Padova, Italy",
+    "year": "1993",
+    "papers": [
+      {
+        "title": "The Impact of Granularity in Abstract Interpretation of Prolog.",
+        "authors": [
+          "Pascal Van Hentenryck",
+          "Olivier Degimbe",
+          "Baudouin Le Charlier",
+          "Laurent Michel"
+        ]
+      },
+      {
+        "title": "Optimization Techniques for General Purpose Fixpoint Algorithms - Practical Efficiency for the Abstract Interpretation of Prolog.",
+        "authors": [
+          "Baudouin Le Charlier",
+          "Olivier Degimbe",
+          "Laurent Michel",
+          "Pascal Van Hentenryck"
+        ]
+      },
+      {
+        "title": "Chaotic Fixpoint Iteration Guided by Dynamic Dependency.",
+        "authors": [
+          "Niels Jørgensen"
+        ]
+      },
+      {
+        "title": "Fast Abstract Interpretation Using Sequential Algorithms.",
+        "authors": [
+          "Alex Ferguson",
+          "John Hughes"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation and Verification of Reactive Systems.",
+        "authors": [
+          "Jean-Claude Fernandez"
+        ]
+      },
+      {
+        "title": "Semantics and Analysis of Linda-Based Languages.",
+        "authors": [
+          "Régis Cridlig",
+          "Eric Goubault"
+        ]
+      },
+      {
+        "title": "Compiling FX on the CM-2.",
+        "authors": [
+          "Jean-Pierre Talpin",
+          "Pierre Jouvelot"
+        ]
+      },
+      {
+        "title": "Combining Dependability with Architectural Adatability by Means of the SIGNAL Language.",
+        "authors": [
+          "Olivier Maffeïs",
+          "Paul Le Guernic"
+        ]
+      },
+      {
+        "title": "Challenges in Developing Useful and Practical Static Analysis for Logic Programs.",
+        "authors": [
+          "Peter Van Roy"
+        ]
+      },
+      {
+        "title": "Occam's Razor in Metacompuation: the Notion of a Perfect Process Tree.",
+        "authors": [
+          "Robert Glück",
+          "Andrei V. Klimov"
+        ]
+      },
+      {
+        "title": "Tupling Functions with Multiple Recursion Parameters.",
+        "authors": [
+          "Wei-Ngan Chin",
+          "Siau-Cheng Khoo"
+        ]
+      },
+      {
+        "title": "Avoiding Repeated Tests in Pattern Matching.",
+        "authors": [
+          "Peter Thiemann"
+        ]
+      },
+      {
+        "title": "Freeness, Sharing, Linearity and Correctness - All at Once.",
+        "authors": [
+          "Maurice Bruynooghe",
+          "Michael Codish"
+        ]
+      },
+      {
+        "title": "Synthesis of Directionality Information for Functional Logic Programs.",
+        "authors": [
+          "Johan Boye",
+          "Jukka Paakki",
+          "Jan Maluszynski"
+        ]
+      },
+      {
+        "title": "Abstract Rewriting.",
+        "authors": [
+          "Didier Bert",
+          "Rachid Echahed",
+          "Bjarte M. Østvold"
+        ]
+      },
+      {
+        "title": "Reflections on Program Optimization.",
+        "authors": [
+          "Paul Hudak"
+        ]
+      },
+      {
+        "title": "Finiteness Conditions for Strictness Analysis.",
+        "authors": [
+          "Flemming Nielson",
+          "Hanne Riis Nielson"
+        ]
+      },
+      {
+        "title": "Strictness Properties of Lazy Algebraic Datatypes.",
+        "authors": [
+          "P. N. Benton"
+        ]
+      },
+      {
+        "title": "Minimal Thunkification.",
+        "authors": [
+          "Torben Amtoft"
+        ]
+      },
+      {
+        "title": "An Efficient Abductive Reasoning System Based on Program Analysis.",
+        "authors": [
+          "Shohei Kato",
+          "Hirohisa Seki",
+          "Hidenori Itoh"
+        ]
+      },
+      {
+        "title": "A Congruence for Gamma Programs.",
+        "authors": [
+          "Lindsay Errington",
+          "Chris Hankin",
+          "Thomas P. Jensen"
+        ]
+      },
+      {
+        "title": "Usage Analysis with Natural Reduction Types.",
+        "authors": [
+          "David A. Wright",
+          "Clement A. Baker-Finch"
+        ]
+      },
+      {
+        "title": "Polymorphic Types and Widening Operators.",
+        "authors": [
+          "Bruno Monsuez"
+        ]
+      },
+      {
+        "title": "Demonstration: Static Analysis of AKL.",
+        "authors": [
+          "Dan Sahlin",
+          "Thomas Sjöland"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/wsa92.html": {
+    "header": "2. WSA 1992: Bordeaux, France",
+    "year": "1992",
+    "papers": [
+      {
+        "title": "Thunks (Continued).",
+        "authors": [
+          "Olivier Danvy",
+          "John Hatcliff"
+        ]
+      },
+      {
+        "title": "Transformation of Gamma Programs.",
+        "authors": [
+          "Chris Hankin",
+          "Daniel Le Métayer",
+          "David Sands"
+        ]
+      },
+      {
+        "title": "Value Transforming Style.",
+        "authors": [
+          "Christian Queinnec"
+        ]
+      },
+      {
+        "title": "Automatic Generation of Valid Linear Measures for CLP(Q) Programs.",
+        "authors": [
+          "Frédéric Mesnard",
+          "Marianne Morillon"
+        ]
+      },
+      {
+        "title": "Efficient Analysis of Reactive Properties of Concurrent Constraint Logic Programs.",
+        "authors": [
+          "Michael Codish",
+          "Moreno Falaschi",
+          "Kim Marriott",
+          "William H. Winsborough"
+        ]
+      },
+      {
+        "title": "Static Analysis of CLP Programs over Numeric Domains.",
+        "authors": [
+          "Roberto Bagnara",
+          "Roberto Giacobazzi",
+          "Giorgio Levi"
+        ]
+      },
+      {
+        "title": "The Mu-Calculus over Finite Domains as an Abstract Semantics of Prolog.",
+        "authors": [
+          "Marc-Michel Corsini",
+          "Kaninda Musumbu",
+          "Antoine Rauzy"
+        ]
+      },
+      {
+        "title": "Minimal Function Graphs are not Instrumented.",
+        "authors": [
+          "Alan Mycroft",
+          "Mads Rosendahl"
+        ]
+      },
+      {
+        "title": "Sharing Analysis of Lazy First-Order Functional Programs.",
+        "authors": [
+          "Geoff W. Hamilton"
+        ]
+      },
+      {
+        "title": "Approximations d'évaluateurs fonctionnels.",
+        "authors": [
+          "Bernard P. Serpette"
+        ]
+      },
+      {
+        "title": "Order-of-Demand Analysis for Lazy Languages.",
+        "authors": [
+          "Young Gil Park",
+          "Benjamin Goldberg"
+        ]
+      },
+      {
+        "title": "Partial Evaluation in an Industrial Context: Compiling for Endomorphic Machines.",
+        "authors": [
+          "E. Saint-James"
+        ]
+      },
+      {
+        "title": "Partial Evaluation applied to Symbolic Pattern Matching with Intelligent Backtrack.",
+        "authors": [
+          "Christian Queinnec",
+          "P. Geffroy"
+        ]
+      },
+      {
+        "title": "A Practical Application of Sharing and Freeness Inference.",
+        "authors": [
+          "Maria J. García de la Banda",
+          "Manuel V. Hermenegildo"
+        ]
+      },
+      {
+        "title": "Efficient Closure Analysis with Reachability.",
+        "authors": [
+          "A. E. Ayers"
+        ]
+      },
+      {
+        "title": "Program Transformation in a Nonmonotonic Reasoning System.",
+        "authors": [
+          "Tadashi Araragi"
+        ]
+      },
+      {
+        "title": "Axiomatising Uniform Properties of Recursive Data Structures.",
+        "authors": [
+          "Thomas P. Jensen"
+        ]
+      },
+      {
+        "title": "Speeding Up Parallelism Detection for Attribute Grammars.",
+        "authors": [
+          "Matthijs F. Kuiper"
+        ]
+      },
+      {
+        "title": "Weighted Systems Revisited.",
+        "authors": [
+          "Philippe Devienne",
+          "Patrick Lebègue",
+          "Jean-Christophe Routier"
+        ]
+      },
+      {
+        "title": "Analysis of Concurrent Transactions in a Functional Database Programming Language.",
+        "authors": [
+          "Giuseppe Amato",
+          "Fosca Giannotti",
+          "Gianni Mainetto"
+        ]
+      },
+      {
+        "title": "Inférer rapidement la géométrie des collections.",
+        "authors": [
+          "Jean-Louis Giavitto",
+          "Jean-Paul Sansonnet",
+          "Olivier Michel"
+        ]
+      },
+      {
+        "title": "Using Abstract Interpretation for Gate splitting in LOTOS Specifications.",
+        "authors": [
+          "Fosca Giannotti",
+          "Diego Latella"
+        ]
+      },
+      {
+        "title": "An Application of Abstract Interpretation to Floating Point Arithmetic.",
+        "authors": [
+          "Yamine Aït Ameur",
+          "Patrice Cros",
+          "Juan José Falcón",
+          "Alicia Gómez"
+        ]
+      },
+      {
+        "title": "On Boolean Feature Types.",
+        "authors": [
+          "Paul Y. Gloess",
+          "Yan-Nong Huang",
+          "Chumin Li",
+          "Miguel-Angel Oros"
+        ]
+      },
+      {
+        "title": "Relevant Logic and Strictness Analysis.",
+        "authors": [
+          "Clement A. Baker-Finch"
+        ]
+      },
+      {
+        "title": "On the Design of Generic Abstract Interpretation Frameworks.",
+        "authors": [
+          "Baudouin Le Charlier",
+          "Pascal Van Hentenryck"
+        ]
+      },
+      {
+        "title": "Inference Systems for Binding Time Analysis.",
+        "authors": [
+          "Kirsten Lackner Solberg",
+          "Hanne Riis Nielson",
+          "Flemming Nielson"
+        ]
+      },
+      {
+        "title": "Decompilation is the Efficient Enumeration of Types.",
+        "authors": [
+          "Peter T. Breuer",
+          "Jonathan P. Bowen"
+        ]
+      },
+      {
+        "title": "Fractional Types.",
+        "authors": [
+          "Bruno Monsuez"
+        ]
+      },
+      {
+        "title": "Static Analysis for Logic Program Specification.",
+        "authors": [
+          "John P. Gallagher"
+        ]
+      },
+      {
+        "title": "Towards Optimization of Full Prolog Programs guided by Abstract Interpretation.",
+        "authors": [
+          "Anne Parrain",
+          "Philippe Devienne",
+          "Patrick Lebègue"
+        ]
+      },
+      {
+        "title": "An Abstract Interpretation Algorithm for Residuating Logic Programs.",
+        "authors": [
+          "Michael Hanus"
+        ]
+      },
+      {
+        "title": "Control-Flow Effects for Escape Analysis.",
+        "authors": [
+          "Yan Mei Tang",
+          "Pierre Jouvelot"
+        ]
+      },
+      {
+        "title": "A Polyvariant Binding Time Analysis Handling Partially Known Values.",
+        "authors": [
+          "Marc Gengler",
+          "M. Rytz"
+        ]
+      },
+      {
+        "title": "Partial Evaluation of Interaction Nets.",
+        "authors": [
+          "Denis Béchet"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sas/wsa91.html": {
+    "header": "1. JTASPEFL/WSA 1991: Bordeaux, France",
+    "year": "1991",
+    "papers": [
+      {
+        "title": "A Proposal for a Modular Lisp with Macros and Dynamic Evaluation.",
+        "authors": [
+          "Christian Queinnec",
+          "Julian A. Padget"
+        ]
+      },
+      {
+        "title": "Polymorphic Time Systems for Estimating Program Complexity.",
+        "authors": [
+          "Vincent Dornic",
+          "Pierre Jouvelot",
+          "David K. Gifford"
+        ]
+      },
+      {
+        "title": "An Attempt to Find Polymorphic Types by Abstract Interpretation.",
+        "authors": [
+          "Bruno Monsuez"
+        ]
+      },
+      {
+        "title": "Polymorphic Type, Region and Effect Inference.",
+        "authors": [
+          "Jean-Pierre Talpin",
+          "Pierre Jouvelot"
+        ]
+      },
+      {
+        "title": "Relational Abstract Interpretation of Higher Order Functional Programs (extended abstract).",
+        "authors": [
+          "Patrick Cousot",
+          "Radhia Cousot"
+        ]
+      },
+      {
+        "title": "Interprétation abstraite pour améliorer la représentation des environnements dans les langages fonctionnels.",
+        "authors": [
+          "Pierre Crégut"
+        ]
+      },
+      {
+        "title": "Equational Logics.",
+        "authors": [
+          "Yong Sun"
+        ]
+      },
+      {
+        "title": "Equational Reasonning and the Completion Procedure. A Comparative Study in Program Transformation.",
+        "authors": [
+          "Rachid Echahed",
+          "Paul Jacquet",
+          "Marie-Laure Potet",
+          "Sadik Sebbar"
+        ]
+      },
+      {
+        "title": "Une analyse du comportement récursif de programmes Prolog par une interprétation abstraite.",
+        "authors": [
+          "Christophe Lecoutre",
+          "Philippe Devienne",
+          "Patrick Lebègue"
+        ]
+      },
+      {
+        "title": "Computations, Abstractions and Constraints (abstract).",
+        "authors": [
+          "Philippe Codognet",
+          "Gilberto Filé"
+        ]
+      },
+      {
+        "title": "Evaluation partielle paramétrable.",
+        "authors": [
+          "Charles Consel",
+          "Siau-Cheng Khoo"
+        ]
+      },
+      {
+        "title": "An Implementation of Parametrized Partial Evaluation.",
+        "authors": [
+          "Christopher Colby",
+          "Peter Lee"
+        ]
+      },
+      {
+        "title": "Partial Evaluation of Polymorphically Typed Functional Languages: the Representation Problem.",
+        "authors": [
+          "Anne De Niel",
+          "Eddi Bevers",
+          "Karel De Vlaminck"
+        ]
+      },
+      {
+        "title": "Partial Evaluation of an Intermediate Language for Equational Programs.",
+        "authors": [
+          "Irène Durand",
+          "David J. Sherman",
+          "Robert Strandh"
+        ]
+      },
+      {
+        "title": "Comparison of the Galois Connection and Widening/Narrowing Approaches to Abstract Interpretation.",
+        "authors": [
+          "Patrick Cousot",
+          "Radhia Cousot"
+        ]
+      },
+      {
+        "title": "Axiomatizations of Backtracking.",
+        "authors": [
+          "Michel Billaud"
+        ]
+      },
+      {
+        "title": "Modelling Prolog Control.",
+        "authors": [
+          "Roberto Barbuti",
+          "Michael Codish",
+          "Roberto Giacobazzi",
+          "Giorgio Levi"
+        ]
+      },
+      {
+        "title": "A propos du contrôle de la résolution.",
+        "authors": [
+          "Frédéric Mesnard",
+          "Jean-Gabriel Ganascia"
+        ]
+      },
+      {
+        "title": "Techniques de transformations de programmes Prolog généraux et validation de méta-interpréteurs.",
+        "authors": [
+          "Anne Parrain",
+          "Philippe Devienne",
+          "Patrick Lebègue"
+        ]
+      },
+      {
+        "title": "Prédire à bon escient.",
+        "authors": [
+          "François Barthélemy"
+        ]
+      },
+      {
+        "title": "Interprétation abstraite au moyen de grammaires attribuées.",
+        "authors": [
+          "Kaninda Musumbu"
+        ]
+      },
+      {
+        "title": "A Tool for Abstract Interpretation: Dynamic Programming.",
+        "authors": [
+          "Éric Villemonte de la Clergerie"
+        ]
+      },
+      {
+        "title": "Unfolding, Procedural and Fixpoint Semantics of Logic Programs.",
+        "authors": [
+          "François Denis",
+          "Jean-Paul Delahaye"
+        ]
+      },
+      {
+        "title": "Automatic Construction of Prolog Primitives for Type Checking Analysis.",
+        "authors": [
+          "Pierre De Boeck",
+          "Baudouin Le Charlier"
+        ]
+      },
+      {
+        "title": "Generalising Deforestation for All First-Order Functional Programs.",
+        "authors": [
+          "W.-N. Chin"
+        ]
+      },
+      {
+        "title": "Transforming Programs to Eliminate Intermediate Structures.",
+        "authors": [
+          "Geoff W. Hamilton",
+          "Simon B. Jones"
+        ]
+      },
+      {
+        "title": "Non Functional Properties Can Guide Program Developments.",
+        "authors": [
+          "Yamine Aït Ameur"
+        ]
+      },
+      {
+        "title": "Useless-Variable Elimination.",
+        "authors": [
+          "Olin Shivers"
+        ]
+      },
+      {
+        "title": "An Analysis/Synthesis Language with Learning Strategies.",
+        "authors": [
+          "Peter T. Breuer"
+        ]
+      },
+      {
+        "title": "A propos des redondances dans les systèmes d'inéquations linéaires.",
+        "authors": [
+          "Jean-Louis Imbert",
+          "Pascal Van Hentenryck"
+        ]
+      },
+      {
+        "title": "Analyse et transformation de programmes Prolog en vue de leur parallélisation avec les prédicats parand et paror.",
+        "authors": [
+          "M. Griffiths",
+          "Pierre Massotte",
+          "C. Paul"
+        ]
+      },
+      {
+        "title": "Une représentation abstraite des expressions et continuations en Scheme.",
+        "authors": [
+          "F. Goudal"
+        ]
+      },
+      {
+        "title": "On Static Properties of Specialized Programs.",
+        "authors": [
+          "Karoline Malmkjær"
+        ]
+      }
+    ]
+  }
+}
