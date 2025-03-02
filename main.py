@@ -1,7 +1,6 @@
 import requests
-from lxml import etree
 import threading
-from myutils import multithread_run
+from lxml import etree
 from time import sleep
 import urllib3
 import json
@@ -74,6 +73,30 @@ indices = {
         "internetware", "rv",
     ],
 }
+
+
+def multithread_run(func, args_list, max_threads=10):
+    assert isinstance(args_list, list) and all(isinstance(arg, tuple) for arg in args_list), \
+        "args_list must be a list of tuples"
+
+    semaphore = threading.Semaphore(max_threads)
+
+    def target(*args):
+        with semaphore:
+            func(*args)
+
+    threads = []
+    for arg in args_list:
+        thread = threading.Thread(target=target, args=arg)
+        threads.append(thread)
+
+    for thread in threads:
+        thread.start()
+
+    for thread in threads:
+        thread.join()
+
+    print("All threads are finished.")
 
 
 def ping():
