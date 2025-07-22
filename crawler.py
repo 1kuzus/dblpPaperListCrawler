@@ -45,8 +45,11 @@ def retry(max_retries=3):
                     retries += 1
             print("Max retries reached, giving up.")
             return None
+
         return wrapper
+
     return inner_decorator
+
 
 def ping(indices):
     retry_list = []
