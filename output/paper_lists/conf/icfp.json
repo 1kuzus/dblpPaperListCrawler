@@ -1,0 +1,5742 @@
+{
+  "https://dblp.org/db/conf/icfp/scheme2020.html": {
+    "header": "Scheme @ICFP 2020",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "SICP JS: Ketchup on Caviar?",
+        "authors": [
+          "Martin Henz",
+          "Tobias Wrigstad"
+        ]
+      },
+      {
+        "title": "21st Century Lisp in Academic Research and Pedagogy.",
+        "authors": [
+          "Bohdan Khomtchouk",
+          "Jonah Fleishhacker"
+        ]
+      },
+      {
+        "title": "Clotho: A Racket Library for Parametric Randomness.",
+        "authors": [
+          "Pierce Darragh",
+          "William Gallard Hatch",
+          "Eric Eide"
+        ]
+      },
+      {
+        "title": "Solving SICP: An Experience Report on Solving the World's Most Famous Programming Problem Set.",
+        "authors": [
+          "Vladimir Nikishkin"
+        ]
+      },
+      {
+        "title": "Running Scheme On Bare Metal (Experience Report).",
+        "authors": [
+          "Samuel Yvon",
+          "Marc Feeley"
+        ]
+      },
+      {
+        "title": "Scheme for scientific computing.",
+        "authors": [
+          "Francesco Montanari"
+        ]
+      },
+      {
+        "title": "On Teaching Type Systems as Macros (Lightning Talk).",
+        "authors": [
+          "Youyou Cong",
+          "Naoya Furudono",
+          "Hidehiko Masuhara"
+        ]
+      },
+      {
+        "title": "Designing a Programming Environment Based on the Program Design Recipe (Lightening Talk).",
+        "authors": [
+          "Junya Nose",
+          "Youyou Cong",
+          "Hidehiko Masuhara"
+        ]
+      },
+      {
+        "title": "Programming with Petri Nets to Reason about Concurrency.",
+        "authors": [
+          "Julien Lepiller"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2016.html": {
+    "header": "21st ICFP 2016: Nara, Japan",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "TensorFlow: learning functions at scale.",
+        "authors": [
+          "Martín Abadi"
+        ]
+      },
+      {
+        "title": "Journey to find bugs in JavaScript web applications in the wild.",
+        "authors": [
+          "Sukyoung Ryu"
+        ]
+      },
+      {
+        "title": "A functional programmer's guide to homotopy type theory.",
+        "authors": [
+          "Dan Licata"
+        ]
+      },
+      {
+        "title": "Farms, pipes, streams and reforestation: reasoning about structured parallel processes using types and hylomorphisms.",
+        "authors": [
+          "David Castro",
+          "Kevin Hammond",
+          "Susmit Sarkar"
+        ]
+      },
+      {
+        "title": "Dag-calculus: a calculus for parallel computation.",
+        "authors": [
+          "Umut A. Acar",
+          "Arthur Charguéraud",
+          "Mike Rainey",
+          "Filip Sieczkowski"
+        ]
+      },
+      {
+        "title": "A lambda-calculus foundation for universal probabilistic programming.",
+        "authors": [
+          "Johannes Borgström",
+          "Ugo Dal Lago",
+          "Andrew D. Gordon",
+          "Marcin Szymczak"
+        ]
+      },
+      {
+        "title": "Deriving a probability density calculator (functional pearl).",
+        "authors": [
+          "Wazim Mohammed Ismail",
+          "Chung-chieh Shan"
+        ]
+      },
+      {
+        "title": "A new verified compiler backend for CakeML.",
+        "authors": [
+          "Yong Kiam Tan",
+          "Magnus O. Myreen",
+          "Ramana Kumar",
+          "Anthony C. J. Fox",
+          "Scott Owens",
+          "Michael Norrish"
+        ]
+      },
+      {
+        "title": "Sequent calculus as a compiler intermediate language.",
+        "authors": [
+          "Paul Downen",
+          "Luke Maurer",
+          "Zena M. Ariola",
+          "Simon Peyton Jones"
+        ]
+      },
+      {
+        "title": "Refinement through restraint: bringing down the cost of verification.",
+        "authors": [
+          "Liam O'Connor",
+          "Zilin Chen",
+          "Christine Rizkallah",
+          "Sidney Amani",
+          "Japheth Lim",
+          "Toby C. Murray",
+          "Yutaka Nagashima",
+          "Thomas Sewell",
+          "Gerwin Klein"
+        ]
+      },
+      {
+        "title": "Fully abstract compilation via universal embedding.",
+        "authors": [
+          "Max S. New",
+          "William J. Bowman",
+          "Amal Ahmed"
+        ]
+      },
+      {
+        "title": "Oh Lord, please don't let contracts be misunderstood (functional pearl).",
+        "authors": [
+          "Christos Dimoulas",
+          "Max S. New",
+          "Robert Bruce Findler",
+          "Matthias Felleisen"
+        ]
+      },
+      {
+        "title": "A type theory for incremental computational complexity with control flow changes.",
+        "authors": [
+          "Ezgi Çiçek",
+          "Zoe Paraskevopoulou",
+          "Deepak Garg"
+        ]
+      },
+      {
+        "title": "Compact bit encoding schemes for simply-typed lambda-terms.",
+        "authors": [
+          "Kotaro Takeda",
+          "Naoki Kobayashi",
+          "Kazuya Yaguchi",
+          "Ayumi Shinohara"
+        ]
+      },
+      {
+        "title": "Queueing and glueing for optimal partitioning (functional pearl).",
+        "authors": [
+          "Shin-Cheng Mu",
+          "Yu-Hsi Chiang",
+          "Yu-Han Lyu"
+        ]
+      },
+      {
+        "title": "All sorts of permutations (functional pearl).",
+        "authors": [
+          "Jan Christiansen",
+          "Nikita Danilenko",
+          "Sandra Dylus"
+        ]
+      },
+      {
+        "title": "A glimpse of Hopjs.",
+        "authors": [
+          "Manuel Serrano",
+          "Vincent Prunet"
+        ]
+      },
+      {
+        "title": "Experience report: growing and shrinking polygons for random testing of computational geometry algorithms.",
+        "authors": [
+          "Ilya Sergey"
+        ]
+      },
+      {
+        "title": "Think like a vertex, behave like a function! a functional DSL for vertex-centric big graph processing.",
+        "authors": [
+          "Kento Emoto",
+          "Kiminori Matsuzaki",
+          "Zhenjiang Hu",
+          "Akimasa Morihata",
+          "Hideya Iwasaki"
+        ]
+      },
+      {
+        "title": "Datafun: a functional Datalog.",
+        "authors": [
+          "Michael Arntzenius",
+          "Neelakantan R. Krishnaswami"
+        ]
+      },
+      {
+        "title": "Dynamic witnesses for static type errors (or, ill-typed programs usually go wrong).",
+        "authors": [
+          "Eric L. Seidel",
+          "Ranjit Jhala",
+          "Westley Weimer"
+        ]
+      },
+      {
+        "title": "Automatically disproving fair termination of higher-order functional programs.",
+        "authors": [
+          "Keiichi Watanabe",
+          "Ryosuke Sato",
+          "Takeshi Tsukada",
+          "Naoki Kobayashi"
+        ]
+      },
+      {
+        "title": "Higher-order ghost state.",
+        "authors": [
+          "Ralf Jung",
+          "Robbert Krebbers",
+          "Lars Birkedal",
+          "Derek Dreyer"
+        ]
+      },
+      {
+        "title": "Unifiers as equivalences: proof-relevant unification of dependently typed data.",
+        "authors": [
+          "Jesper Cockx",
+          "Dominique Devriese",
+          "Frank Piessens"
+        ]
+      },
+      {
+        "title": "Elaborator reflection: extending Idris in Idris.",
+        "authors": [
+          "David R. Christiansen",
+          "Edwin C. Brady"
+        ]
+      },
+      {
+        "title": "Partial type equivalences for verified dependent interoperability.",
+        "authors": [
+          "Pierre-Évariste Dagand",
+          "Nicolas Tabareau",
+          "Éric Tanter"
+        ]
+      },
+      {
+        "title": "Constructive Galois connections: taming the Galois connection framework for mechanized metatheory.",
+        "authors": [
+          "David Darais",
+          "David Van Horn"
+        ]
+      },
+      {
+        "title": "An abstract memory functor for verified C static analyzers.",
+        "authors": [
+          "Sandrine Blazy",
+          "Vincent Laporte",
+          "David Pichardie"
+        ]
+      },
+      {
+        "title": "Ghostbuster: a tool for simplifying and converting GADTs.",
+        "authors": [
+          "Trevor L. McDonell",
+          "Timothy A. K. Zakian",
+          "Matteo Cimini",
+          "Ryan R. Newton"
+        ]
+      },
+      {
+        "title": "Indexed codata types.",
+        "authors": [
+          "David Thibodeau",
+          "Andrew Cave",
+          "Brigitte Pientka"
+        ]
+      },
+      {
+        "title": "Disjoint intersection types.",
+        "authors": [
+          "Bruno C. d. S. Oliveira",
+          "Zhiyuan Shi",
+          "João Alpuim"
+        ]
+      },
+      {
+        "title": "Set-theoretic types for polymorphic variants.",
+        "authors": [
+          "Giuseppe Castagna",
+          "Tommaso Petrucciani",
+          "Kim Nguyen"
+        ]
+      },
+      {
+        "title": "Hierarchical memory management for parallel programs.",
+        "authors": [
+          "Ram Raghunathan",
+          "Stefan K. Muller",
+          "Umut A. Acar",
+          "Guy E. Blelloch"
+        ]
+      },
+      {
+        "title": "Allocation characterizes polyvariance: a unified methodology for polyvariant control-flow analysis.",
+        "authors": [
+          "Thomas Gilray",
+          "Michael D. Adams",
+          "Matthew Might"
+        ]
+      },
+      {
+        "title": "A fully concurrent garbage collector for functional programs on multicore processors.",
+        "authors": [
+          "Katsuhiro Ueno",
+          "Atsushi Ohori"
+        ]
+      },
+      {
+        "title": "Talking bananas: structural recursion for session types.",
+        "authors": [
+          "Sam Lindley",
+          "J. Garrett Morris"
+        ]
+      },
+      {
+        "title": "The best of both worlds: linear functional programming without compromise.",
+        "authors": [
+          "J. Garrett Morris"
+        ]
+      },
+      {
+        "title": "Context-free session types.",
+        "authors": [
+          "Peter Thiemann",
+          "Vasco T. Vasconcelos"
+        ]
+      },
+      {
+        "title": "Combining effects and coeffects via grading.",
+        "authors": [
+          "Marco Gaboardi",
+          "Shin-ya Katsumata",
+          "Dominic A. Orchard",
+          "Flavien Breuvart",
+          "Tarmo Uustalu"
+        ]
+      },
+      {
+        "title": "String diagrams for free monads (functional pearl).",
+        "authors": [
+          "Maciej Piróg",
+          "Nicolas Wu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2015.html": {
+    "header": "20th ICFP 2015: Vancouver, BC, Canada",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Program synthesis: opportunities for the next decade.",
+        "authors": [
+          "Rastislav Bodík"
+        ]
+      },
+      {
+        "title": "Functional pearl: a SQL to C compiler in 500 lines of code.",
+        "authors": [
+          "Tiark Rompf",
+          "Nada Amin"
+        ]
+      },
+      {
+        "title": "An optimizing compiler for a purely functional web-application language.",
+        "authors": [
+          "Adam Chlipala"
+        ]
+      },
+      {
+        "title": "Pycket: a tracing JIT for a functional language.",
+        "authors": [
+          "Spenser Bauman",
+          "Carl Friedrich Bolz",
+          "Robert Hirschfeld",
+          "Vasily Kirilichev",
+          "Tobias Pape",
+          "Jeremy G. Siek",
+          "Sam Tobin-Hochstadt"
+        ]
+      },
+      {
+        "title": "1ML - core and modules united (F-ing first-class modules).",
+        "authors": [
+          "Andreas Rossberg"
+        ]
+      },
+      {
+        "title": "Bounded refinement types.",
+        "authors": [
+          "Niki Vazou",
+          "Alexander Bakst",
+          "Ranjit Jhala"
+        ]
+      },
+      {
+        "title": "Applicative bidirectional programming with lenses.",
+        "authors": [
+          "Kazutaka Matsuda",
+          "Meng Wang"
+        ]
+      },
+      {
+        "title": "Hygienic resugaring of compositional desugaring.",
+        "authors": [
+          "Justin Pombrio",
+          "Shriram Krishnamurthi"
+        ]
+      },
+      {
+        "title": "XQuery and static typing: tackling the problem of backward axes.",
+        "authors": [
+          "Pierre Genevès",
+          "Nils Gesbert"
+        ]
+      },
+      {
+        "title": "Noninterference for free.",
+        "authors": [
+          "William J. Bowman",
+          "Amal Ahmed"
+        ]
+      },
+      {
+        "title": "Algebras and coalgebras in the light affine Lambda calculus.",
+        "authors": [
+          "Marco Gaboardi",
+          "Romain Péchoux"
+        ]
+      },
+      {
+        "title": "Structures for structural recursion.",
+        "authors": [
+          "Paul Downen",
+          "Philip Johnson-Freyd",
+          "Zena M. Ariola"
+        ]
+      },
+      {
+        "title": "Denotational cost semantics for functional languages with inductive types.",
+        "authors": [
+          "Norman Danner",
+          "Daniel R. Licata",
+          "Ramyaa"
+        ]
+      },
+      {
+        "title": "Analysing the complexity of functional programs: higher-order meets first-order.",
+        "authors": [
+          "Martin Avanzini",
+          "Ugo Dal Lago",
+          "Georg Moser"
+        ]
+      },
+      {
+        "title": "Functional programming and hardware design: still interesting after all these years.",
+        "authors": [
+          "Mary Sheeran"
+        ]
+      },
+      {
+        "title": "Pilsner: a compositionally verified compiler for a higher-order imperative language.",
+        "authors": [
+          "Georg Neis",
+          "Chung-Kil Hur",
+          "Jan-Oliver Kaiser",
+          "Craig McLaughlin",
+          "Derek Dreyer",
+          "Viktor Vafeiadis"
+        ]
+      },
+      {
+        "title": "A unification algorithm for Coq featuring universe polymorphism and overloading.",
+        "authors": [
+          "Beta Ziliani",
+          "Matthieu Sozeau"
+        ]
+      },
+      {
+        "title": "Foundational extensible corecursion: a proof assistant perspective.",
+        "authors": [
+          "Jasmin Christian Blanchette",
+          "Andrei Popescu",
+          "Dmitriy Traytel"
+        ]
+      },
+      {
+        "title": "Generating performance portable code using rewrite rules: from high-level functional expressions to high-performance OpenCL code.",
+        "authors": [
+          "Michel Steuwer",
+          "Christian Fensch",
+          "Sam Lindley",
+          "Christophe Dubach"
+        ]
+      },
+      {
+        "title": "Adaptive lock-free maps: purely-functional to scalable.",
+        "authors": [
+          "Ryan R. Newton",
+          "Peter P. Fogg",
+          "Ali Varamesh"
+        ]
+      },
+      {
+        "title": "Partial aborts for transactions via first-class continuations.",
+        "authors": [
+          "Matthew Le",
+          "Matthew Fluet"
+        ]
+      },
+      {
+        "title": "Which simple types have a unique inhabitant?",
+        "authors": [
+          "Gabriel Scherer",
+          "Didier Rémy"
+        ]
+      },
+      {
+        "title": "Elaborating evaluation-order polymorphism.",
+        "authors": [
+          "Jana Dunfield"
+        ]
+      },
+      {
+        "title": "Automatic refunctionalization to a language with copattern matching: with applications to the expression problem.",
+        "authors": [
+          "Tillmann Rendel",
+          "Julia Trieflinger",
+          "Klaus Ostermann"
+        ]
+      },
+      {
+        "title": "Functional pearl: two can keep a secret, if one of them uses Haskell.",
+        "authors": [
+          "Alejandro Russo"
+        ]
+      },
+      {
+        "title": "HLIO: mixing static and dynamic typing for information-flow control in Haskell.",
+        "authors": [
+          "Pablo Buiras",
+          "Dimitrios Vytiniotis",
+          "Alejandro Russo"
+        ]
+      },
+      {
+        "title": "Practical principled FRP: forget the past, change the future, FRPNow!",
+        "authors": [
+          "Atze van der Ploeg",
+          "Koen Claessen"
+        ]
+      },
+      {
+        "title": "Certified symbolic management of financial multi-party contracts.",
+        "authors": [
+          "Patrick Bahr",
+          "Jost Berthold",
+          "Martin Elsman"
+        ]
+      },
+      {
+        "title": "A fast compiler for NetKAT.",
+        "authors": [
+          "Steffen Smolka",
+          "Spiridon Aristides Eliopoulos",
+          "Nate Foster",
+          "Arjun Guha"
+        ]
+      },
+      {
+        "title": "RRB vector: a practical general purpose immutable sequence.",
+        "authors": [
+          "Nicolas Stucki",
+          "Tiark Rompf",
+          "Vlad Ureche",
+          "Phil Bagwell"
+        ]
+      },
+      {
+        "title": "Functional pearl: a smart view on datatypes.",
+        "authors": [
+          "Mauro Jaskelioff",
+          "Exequiel Rivas"
+        ]
+      },
+      {
+        "title": "Efficient communication and collection with compact normal forms.",
+        "authors": [
+          "Edward Z. Yang",
+          "Giovanni Campagna",
+          "Ömer S. Agacan",
+          "Ahmed El-Hassany",
+          "Abhishek Kulkarni",
+          "Ryan R. Newton"
+        ]
+      },
+      {
+        "title": "Blame assignment for higher-order contracts with intersection and union.",
+        "authors": [
+          "Matthias Keil",
+          "Peter Thiemann"
+        ]
+      },
+      {
+        "title": "Expressing contract monitors as patterns of communication.",
+        "authors": [
+          "Cameron Swords",
+          "Amr Sabry",
+          "Sam Tobin-Hochstadt"
+        ]
+      },
+      {
+        "title": "Learning refinement types.",
+        "authors": [
+          "He Zhu",
+          "Aditya V. Nori",
+          "Suresh Jagannathan"
+        ]
+      },
+      {
+        "title": "Practical SMT-based type error localization.",
+        "authors": [
+          "Zvonimir Pavlinovic",
+          "Tim King",
+          "Thomas Wies"
+        ]
+      },
+      {
+        "title": "GADTs meet their match: pattern-matching warnings that account for GADTs, guards, and laziness.",
+        "authors": [
+          "Georgios Karachalias",
+          "Tom Schrijvers",
+          "Dimitrios Vytiniotis",
+          "Simon L. Peyton Jones"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2014.html": {
+    "header": "19th ICFP 2014: Gothenburg, Sweden",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Using formal methods to enable more secure vehicles: DARPA's HACMS program.",
+        "authors": [
+          "Kathleen Fisher"
+        ]
+      },
+      {
+        "title": "Building embedded systems with embedded DSLs.",
+        "authors": [
+          "Patrick C. Hickey",
+          "Lee Pike",
+          "Trevor Elliott",
+          "James Bielman",
+          "John Launchbury"
+        ]
+      },
+      {
+        "title": "Concurrent NetCore: from policies to pipelines.",
+        "authors": [
+          "Cole Schlesinger",
+          "Michael Greenberg",
+          "David Walker"
+        ]
+      },
+      {
+        "title": "SeLINQ: tracking information across application-database boundaries.",
+        "authors": [
+          "Daniel Schoepe",
+          "Daniel Hedin",
+          "Andrei Sabelfeld"
+        ]
+      },
+      {
+        "title": "Type-based parametric analysis of program families.",
+        "authors": [
+          "Sheng Chen",
+          "Martin Erwig"
+        ]
+      },
+      {
+        "title": "Romeo: a system for more flexible binding-safe programming.",
+        "authors": [
+          "Paul Stansifer",
+          "Mitchell Wand"
+        ]
+      },
+      {
+        "title": "Maximal sharing in the Lambda calculus with letrec.",
+        "authors": [
+          "Clemens Grabmayer",
+          "Jan Rochel"
+        ]
+      },
+      {
+        "title": "Practical and effective higher-order optimizations.",
+        "authors": [
+          "Lars Bergstrom",
+          "Matthew Fluet",
+          "Matthew Le",
+          "John H. Reppy",
+          "Nora Sandler"
+        ]
+      },
+      {
+        "title": "Worker/wrapper/makes it/faster.",
+        "authors": [
+          "Jennifer Hackett",
+          "Graham Hutton"
+        ]
+      },
+      {
+        "title": "Compositional semantics for composable continuations: from abortive to delimited control.",
+        "authors": [
+          "Paul Downen",
+          "Zena M. Ariola"
+        ]
+      },
+      {
+        "title": "Coeffects: a calculus of context-dependent computation.",
+        "authors": [
+          "Tomas Petricek",
+          "Dominic A. Orchard",
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "Behavioral software contracts.",
+        "authors": [
+          "Robert Bruce Findler"
+        ]
+      },
+      {
+        "title": "Soft contract verification.",
+        "authors": [
+          "Phuc C. Nguyen",
+          "Sam Tobin-Hochstadt",
+          "David Van Horn"
+        ]
+      },
+      {
+        "title": "On teaching *how to design programs*: observations from a newcomer.",
+        "authors": [
+          "Norman Ramsey"
+        ]
+      },
+      {
+        "title": "SML# in industry: a practical ERP system development.",
+        "authors": [
+          "Atsushi Ohori",
+          "Katsuhiro Ueno",
+          "Kazunori Hoshi",
+          "Shinji Nozaki",
+          "Takashi Sato",
+          "Tasuku Makabe",
+          "Yuki Ito"
+        ]
+      },
+      {
+        "title": "Lem: reusable engineering of real-world semantics.",
+        "authors": [
+          "Dominic P. Mulligan",
+          "Scott Owens",
+          "Kathryn E. Gray",
+          "Tom Ridge",
+          "Peter Sewell"
+        ]
+      },
+      {
+        "title": "Safe zero-cost coercions for Haskell.",
+        "authors": [
+          "Joachim Breitner",
+          "Richard A. Eisenberg",
+          "Simon L. Peyton Jones",
+          "Stephanie Weirich"
+        ]
+      },
+      {
+        "title": "Hindley-milner elaboration in applicative style: functional pearl.",
+        "authors": [
+          "François Pottier"
+        ]
+      },
+      {
+        "title": "Settable and non-interfering signal functions for FRP: how a first-order switch is more than enough.",
+        "authors": [
+          "Daniel Winograd-Cort",
+          "Paul Hudak"
+        ]
+      },
+      {
+        "title": "Functional programming for dynamic and large data with self-adjusting computation.",
+        "authors": [
+          "Yan Chen",
+          "Umut A. Acar",
+          "Kanat Tangwongsan"
+        ]
+      },
+      {
+        "title": "Depending on types.",
+        "authors": [
+          "Stephanie Weirich"
+        ]
+      },
+      {
+        "title": "Homotopical patch theory.",
+        "authors": [
+          "Carlo Angiuli",
+          "Edward Morehouse",
+          "Daniel R. Licata",
+          "Robert Harper"
+        ]
+      },
+      {
+        "title": "Pattern matching without K.",
+        "authors": [
+          "Jesper Cockx",
+          "Dominique Devriese",
+          "Frank Piessens"
+        ]
+      },
+      {
+        "title": "Refinement types for Haskell.",
+        "authors": [
+          "Niki Vazou",
+          "Eric L. Seidel",
+          "Ranjit Jhala",
+          "Dimitrios Vytiniotis",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "A theory of gradual effect systems.",
+        "authors": [
+          "Felipe Bañados Schwerter",
+          "Ronald Garcia",
+          "Éric Tanter"
+        ]
+      },
+      {
+        "title": "How to keep your neighbours in order.",
+        "authors": [
+          "Conor Thomas McBride"
+        ]
+      },
+      {
+        "title": "A relational framework for higher-order shape analysis.",
+        "authors": [
+          "Gowtham Kaki",
+          "Suresh Jagannathan"
+        ]
+      },
+      {
+        "title": "There is no fork: an abstraction for efficient, concurrent, and concise data access.",
+        "authors": [
+          "Simon Marlow",
+          "Louis Brandy",
+          "Jonathan Coens",
+          "Jon Purdy"
+        ]
+      },
+      {
+        "title": "Folding domain-specific languages: deep and shallow embeddings (functional Pearl).",
+        "authors": [
+          "Jeremy Gibbons",
+          "Nicolas Wu"
+        ]
+      },
+      {
+        "title": "Krivine nets: a semantic foundation for distributed execution.",
+        "authors": [
+          "Olle Fredriksson",
+          "Dan R. Ghica"
+        ]
+      },
+      {
+        "title": "Distilling abstract machines.",
+        "authors": [
+          "Beniamino Accattoli",
+          "Pablo Barenbaum",
+          "Damiano Mazza"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2013.html": {
+    "header": "18th ICFP 2013: Boston, MA, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Interactive programming with dependent types.",
+        "authors": [
+          "Ulf Norell"
+        ]
+      },
+      {
+        "title": "Verified decision procedures for MSO on words based on derivatives of regular expressions.",
+        "authors": [
+          "Dmitriy Traytel",
+          "Tobias Nipkow"
+        ]
+      },
+      {
+        "title": "C-SHORe: a collapsible approach to higher-order verification.",
+        "authors": [
+          "Christopher H. Broadbent",
+          "Arnaud Carayol",
+          "Matthew Hague",
+          "Olivier Serre"
+        ]
+      },
+      {
+        "title": "Automatic SIMD vectorization for Haskell.",
+        "authors": [
+          "Leaf Petersen",
+          "Dominic A. Orchard",
+          "Neal Glew"
+        ]
+      },
+      {
+        "title": "Exploiting vector instructions with generalized stream fusio.",
+        "authors": [
+          "Geoffrey Mainland",
+          "Roman Leshchinskiy",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "Optimising purely functional GPU programs.",
+        "authors": [
+          "Trevor L. McDonell",
+          "Manuel M. T. Chakravarty",
+          "Gabriele Keller",
+          "Ben Lippmeier"
+        ]
+      },
+      {
+        "title": "Type-theory in color.",
+        "authors": [
+          "Jean-Philippe Bernardy",
+          "Guilhem Moulin"
+        ]
+      },
+      {
+        "title": "Typed syntactic meta-programming.",
+        "authors": [
+          "Dominique Devriese",
+          "Frank Piessens"
+        ]
+      },
+      {
+        "title": "Mtac: a monad for typed tactic programming in Coq.",
+        "authors": [
+          "Beta Ziliani",
+          "Derek Dreyer",
+          "Neelakantan R. Krishnaswami",
+          "Aleksandar Nanevski",
+          "Viktor Vafeiadis"
+        ]
+      },
+      {
+        "title": "Fun with semirings: a functional pearl on the abuse of linear algebra.",
+        "authors": [
+          "Stephen Dolan"
+        ]
+      },
+      {
+        "title": "Efficient divide-and-conquer parsing of practical context-free languages.",
+        "authors": [
+          "Jean-Philippe Bernardy",
+          "Koen Claessen"
+        ]
+      },
+      {
+        "title": "Functional geometry and the Traité de Lutherie: functional pearl.",
+        "authors": [
+          "Harry G. Mairson"
+        ]
+      },
+      {
+        "title": "Programming and reasoning with algebraic effects and dependent types.",
+        "authors": [
+          "Edwin C. Brady"
+        ]
+      },
+      {
+        "title": "Handlers in action.",
+        "authors": [
+          "Ohad Kammar",
+          "Sam Lindley",
+          "Nicolas Oury"
+        ]
+      },
+      {
+        "title": "Computer science as a school subject.",
+        "authors": [
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "Correctness of an STM Haskell implementation.",
+        "authors": [
+          "Manfred Schmidt-Schauß",
+          "David Sabel"
+        ]
+      },
+      {
+        "title": "Programming with permissions in Mezzo.",
+        "authors": [
+          "François Pottier",
+          "Jonathan Protzenko"
+        ]
+      },
+      {
+        "title": "Wellfounded recursion with copatterns: a unified approach to termination and productivity.",
+        "authors": [
+          "Andreas Abel",
+          "Brigitte Pientka"
+        ]
+      },
+      {
+        "title": "Productive coprogramming with guarded recursion.",
+        "authors": [
+          "Robert Atkey",
+          "Conor McBride"
+        ]
+      },
+      {
+        "title": "Unifying structured recursion schemes.",
+        "authors": [
+          "Ralf Hinze",
+          "Nicolas Wu",
+          "Jeremy Gibbons"
+        ]
+      },
+      {
+        "title": "Higher-order functional reactive programming without spacetime leaks.",
+        "authors": [
+          "Neelakantan R. Krishnaswami"
+        ]
+      },
+      {
+        "title": "Functional reactive programming with liveness guarantees.",
+        "authors": [
+          "Alan Jeffrey"
+        ]
+      },
+      {
+        "title": "A short cut to parallelization theorems.",
+        "authors": [
+          "Akimasa Morihata"
+        ]
+      },
+      {
+        "title": "Using circular programs for higher-order syntax: functional pearl.",
+        "authors": [
+          "Emil Axelsson",
+          "Koen Claessen"
+        ]
+      },
+      {
+        "title": "Weak optimality, and the meaning of sharing.",
+        "authors": [
+          "Thibaut Balabonski"
+        ]
+      },
+      {
+        "title": "System FC with explicit kind equality.",
+        "authors": [
+          "Stephanie Weirich",
+          "Justin Hsu",
+          "Richard A. Eisenberg"
+        ]
+      },
+      {
+        "title": "The constrained-monad problem.",
+        "authors": [
+          "Neil Sculthorpe",
+          "Jan Bracker",
+          "George Giorgidze",
+          "Andy Gill"
+        ]
+      },
+      {
+        "title": "Simple and compositional reification of monadic embedded languages.",
+        "authors": [
+          "Josef Svenningsson",
+          "Bo Joel Svensson"
+        ]
+      },
+      {
+        "title": "Structural recursion for querying ordered graphs.",
+        "authors": [
+          "Soichiro Hidaka",
+          "Kazuyuki Asada",
+          "Zhenjiang Hu",
+          "Hiroyuki Kato",
+          "Keisuke Nakano"
+        ]
+      },
+      {
+        "title": "Modular monadic meta-theory.",
+        "authors": [
+          "Benjamin Delaware",
+          "Steven Keuchel",
+          "Tom Schrijvers",
+          "Bruno C. d. S. Oliveira"
+        ]
+      },
+      {
+        "title": "Modular and automated type-soundness verification for language extensions.",
+        "authors": [
+          "Florian Lorenzen",
+          "Sebastian Erdweg"
+        ]
+      },
+      {
+        "title": "A nanopass framework for commercial compiler development.",
+        "authors": [
+          "Andrew W. Keep",
+          "R. Kent Dybvig"
+        ]
+      },
+      {
+        "title": "Experience report: applying random testing to a base type environment.",
+        "authors": [
+          "Vincent St-Amour",
+          "Neil Toronto"
+        ]
+      },
+      {
+        "title": "Experience report: functional programming of mHealth applications.",
+        "authors": [
+          "Chris Petersen",
+          "Matthias Görges",
+          "Dustin T. Dunsmuir",
+          "John Mark Ansermino",
+          "Guy Albert Dumont"
+        ]
+      },
+      {
+        "title": "Hoare-style reasoning with (algebraic) continuations.",
+        "authors": [
+          "Germán Andrés Delbianco",
+          "Aleksandar Nanevski"
+        ]
+      },
+      {
+        "title": "Unifying refinement and hoare-style reasoning in a logic for higher-order concurrency.",
+        "authors": [
+          "Aaron Turon",
+          "Derek Dreyer",
+          "Lars Birkedal"
+        ]
+      },
+      {
+        "title": "The bedrock structured programming system: combining generative metaprogramming and hoare logic in an extensible program verifier.",
+        "authors": [
+          "Adam Chlipala"
+        ]
+      },
+      {
+        "title": "A practical theory of language-integrated query.",
+        "authors": [
+          "James Cheney",
+          "Sam Lindley",
+          "Philip Wadler"
+        ]
+      },
+      {
+        "title": "Calculating threesomes, with blame.",
+        "authors": [
+          "Ronald Garcia"
+        ]
+      },
+      {
+        "title": "Complete and easy bidirectional typechecking for higher-rank polymorphism.",
+        "authors": [
+          "Jana Dunfield",
+          "Neelakantan R. Krishnaswami"
+        ]
+      },
+      {
+        "title": "Optimizing abstract abstract machines.",
+        "authors": [
+          "Dionna Amalie Glaze",
+          "Nicholas Labich",
+          "Matthew Might",
+          "David Van Horn"
+        ]
+      },
+      {
+        "title": "Testing noninterference, quickly.",
+        "authors": [
+          "Catalin Hritcu",
+          "John Hughes",
+          "Benjamin C. Pierce",
+          "Antal Spector-Zabusky",
+          "Dimitrios Vytiniotis",
+          "Arthur Azevedo de Amorim",
+          "Leonidas Lampropoulos"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/dtp2013.html": {
+    "header": "DTP@ICFP 2013: Boston, Massachusetts, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Correct-by-construction pretty-printing.",
+        "authors": [
+          "Nils Anders Danielsson"
+        ]
+      },
+      {
+        "title": "New equations for neutral terms: a sound and complete decision procedure, formalized.",
+        "authors": [
+          "Guillaume Allais",
+          "Conor McBride",
+          "Pierre Boutillier"
+        ]
+      },
+      {
+        "title": "A multivalued language with a dependent type system.",
+        "authors": [
+          "Neal Glew",
+          "Tim Sweeney",
+          "Leaf Petersen"
+        ]
+      },
+      {
+        "title": "Relational algebraic ornaments.",
+        "authors": [
+          "Hsiang-Shang Ko",
+          "Jeremy Gibbons"
+        ]
+      },
+      {
+        "title": "Leveling up dependent types: generic programming over a predicative hierarchy of universes.",
+        "authors": [
+          "Larry Diehl",
+          "Tim Sheard"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/fpcdsl2013.html": {
+    "header": "1. FPCDSL@ICFP 2013: Boston, Massachusetts, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Bluespec and Haskell.",
+        "authors": [
+          "Arvind"
+        ]
+      },
+      {
+        "title": "Functional synthesis of genetic regulatory networks.",
+        "authors": [
+          "Jacob Beal",
+          "Aaron Adler"
+        ]
+      },
+      {
+        "title": "Encoding secure information flow with restricted delegation and revocation in Haskell.",
+        "authors": [
+          "Doaa Hassan",
+          "Amr Sabry"
+        ]
+      },
+      {
+        "title": "QuaFL: a typed DSL for quantum programming.",
+        "authors": [
+          "Andrei Lapets",
+          "Marcus P. da Silva",
+          "Mike Thome",
+          "Aaron Adler",
+          "Jacob Beal",
+          "Martin Roetteler"
+        ]
+      },
+      {
+        "title": "Embrace, defend, extend: a methodology for embedding preexisting DSLs.",
+        "authors": [
+          "Abhishek Kulkarni",
+          "Ryan R. Newton"
+        ]
+      },
+      {
+        "title": "Abstract resource cost derivation for logical quantum circuit descriptions.",
+        "authors": [
+          "Andrei Lapets",
+          "Martin Roetteler"
+        ]
+      },
+      {
+        "title": "Sensitivity analysis using type-based constraints.",
+        "authors": [
+          "Loris D'Antoni",
+          "Marco Gaboardi",
+          "Emilio Jesús Gallego Arias",
+          "Andreas Haeberlen",
+          "Benjamin C. Pierce"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2012.html": {
+    "header": "17th ICFP 2012: Copenhagen, Denmark",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "Agda-curious?: an exploration of programming with dependent types.",
+        "authors": [
+          "Conor Thomas McBride"
+        ]
+      },
+      {
+        "title": "Verified heap theorem prover by paramodulation.",
+        "authors": [
+          "Gordon Stewart",
+          "Lennart Beringer",
+          "Andrew W. Appel"
+        ]
+      },
+      {
+        "title": "Formal verification of monad transformers.",
+        "authors": [
+          "Brian Huffman"
+        ]
+      },
+      {
+        "title": "Elaborating intersection and union types.",
+        "authors": [
+          "Jana Dunfield"
+        ]
+      },
+      {
+        "title": "An error-tolerant type system for variational lambda calculus.",
+        "authors": [
+          "Sheng Chen",
+          "Martin Erwig",
+          "Eric Walkingshaw"
+        ]
+      },
+      {
+        "title": "Superficially substructural types.",
+        "authors": [
+          "Neelakantan R. Krishnaswami",
+          "Aaron Turon",
+          "Derek Dreyer",
+          "Deepak Garg"
+        ]
+      },
+      {
+        "title": "Shake before building: replacing make with haskell.",
+        "authors": [
+          "Neil Mitchell"
+        ]
+      },
+      {
+        "title": "Practical typed lazy contracts.",
+        "authors": [
+          "Olaf Chitil"
+        ]
+      },
+      {
+        "title": "Functional programming with structured graphs.",
+        "authors": [
+          "Bruno C. d. S. Oliveira",
+          "William R. Cook"
+        ]
+      },
+      {
+        "title": "Painless programming combining reduction and search: design principles for embedding decision procedures in high-level languages.",
+        "authors": [
+          "Timothy E. Sheard"
+        ]
+      },
+      {
+        "title": "Transporting functions across ornaments.",
+        "authors": [
+          "Pierre-Évariste Dagand",
+          "Conor McBride"
+        ]
+      },
+      {
+        "title": "Proof-producing synthesis of ML from higher-order logic.",
+        "authors": [
+          "Magnus O. Myreen",
+          "Scott Owens"
+        ]
+      },
+      {
+        "title": "Operational semantics using the partiality monad.",
+        "authors": [
+          "Nils Anders Danielsson"
+        ]
+      },
+      {
+        "title": "High performance embedded domain specific languages.",
+        "authors": [
+          "Kunle Olukotun"
+        ]
+      },
+      {
+        "title": "Pure type systems with corecursion on streams: from finite to infinitary normalisation.",
+        "authors": [
+          "Paula Severi",
+          "Fer-Jan de Vries"
+        ]
+      },
+      {
+        "title": "On the complexity of equivalence of specifications of infinite objects.",
+        "authors": [
+          "Jörg Endrullis",
+          "Dimitri Hendriks",
+          "Rena Bakhshi"
+        ]
+      },
+      {
+        "title": "Automatic amortised analysis of dynamic memory allocation for lazy functional programs.",
+        "authors": [
+          "Hugo R. Simões",
+          "Pedro B. Vasconcelos",
+          "Mário Florido",
+          "Steffen Jost",
+          "Kevin Hammond"
+        ]
+      },
+      {
+        "title": "Introspective pushdown analysis of higher-order programs.",
+        "authors": [
+          "Christopher Earl",
+          "Ilya Sergey",
+          "Matthew Might",
+          "David Van Horn"
+        ]
+      },
+      {
+        "title": "Efficient lookup-table protocol in secure multiparty computation.",
+        "authors": [
+          "John Launchbury",
+          "Iavor S. Diatchki",
+          "Thomas DuBuisson",
+          "Andy Adams-Moran"
+        ]
+      },
+      {
+        "title": "Addressing covert termination and timing channels in concurrent information flow systems.",
+        "authors": [
+          "Deian Stefan",
+          "Alejandro Russo",
+          "Pablo Buiras",
+          "Amit Levy",
+          "John C. Mitchell",
+          "David Mazières"
+        ]
+      },
+      {
+        "title": "Sneaking around concatMap: efficient combinators for dynamic programming.",
+        "authors": [
+          "Christian Höner zu Siederdissen"
+        ]
+      },
+      {
+        "title": "Experience report: Haskell in computational biology.",
+        "authors": [
+          "Noah M. Daniels",
+          "Andrew Gallant",
+          "Norman Ramsey"
+        ]
+      },
+      {
+        "title": "A meta-scheduler for the par-monad: composable scheduling for the heterogeneous cloud.",
+        "authors": [
+          "Adam Foltzer",
+          "Abhishek Kulkarni",
+          "Rebecca Swords",
+          "Sajith Sasidharan",
+          "Eric Jiang",
+          "Ryan Newton"
+        ]
+      },
+      {
+        "title": "Nested data-parallelism on the gpu.",
+        "authors": [
+          "Lars Bergstrom",
+          "John H. Reppy"
+        ]
+      },
+      {
+        "title": "Work efficient higher-order vectorisation.",
+        "authors": [
+          "Ben Lippmeier",
+          "Manuel M. T. Chakravarty",
+          "Gabriele Keller",
+          "Roman Leshchinskiy",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "Tales from the jungle.",
+        "authors": [
+          "Peter Sewell"
+        ]
+      },
+      {
+        "title": "Propositions as sessions.",
+        "authors": [
+          "Philip Wadler"
+        ]
+      },
+      {
+        "title": "Typing unmarshalling without marshalling types.",
+        "authors": [
+          "Grégoire Henry",
+          "Michel Mauny",
+          "Emmanuel Chailloux",
+          "Pascal Manoury"
+        ]
+      },
+      {
+        "title": "Deconstraining DSLs.",
+        "authors": [
+          "Will Jones",
+          "Tony Field",
+          "Tristan Oliver Richard Allwood"
+        ]
+      },
+      {
+        "title": "Explicitly heterogeneous metaprogramming with MetaHaskell.",
+        "authors": [
+          "Geoffrey Mainland"
+        ]
+      },
+      {
+        "title": "A generic abstract syntax model for embedded languages.",
+        "authors": [
+          "Emil Axelsson"
+        ]
+      },
+      {
+        "title": "Experience report: a do-it-yourself high-assurance compiler.",
+        "authors": [
+          "Lee Pike",
+          "Nis Wegmann",
+          "Sebastian Niller",
+          "Alwyn Goodloe"
+        ]
+      },
+      {
+        "title": "Equality proofs and deferred type errors: a compiler pearl.",
+        "authors": [
+          "Dimitrios Vytiniotis",
+          "Simon L. Peyton Jones",
+          "José Pedro Magalhães"
+        ]
+      },
+      {
+        "title": "A traversal-based algorithm for higher-order model checking.",
+        "authors": [
+          "Robin P. Neatherway",
+          "Steven J. Ramsay",
+          "C.-H. Luke Ong"
+        ]
+      },
+      {
+        "title": "Functional programs that explain their work.",
+        "authors": [
+          "Roly Perera",
+          "Umut A. Acar",
+          "James Cheney",
+          "Paul Blain Levy"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/scheme2012.html": {
+    "header": "Scheme @ICFP 2012: Copenhagen, Denmark",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "Scheme on the web and in the classroom: a retrospective about the LAML project.",
+        "authors": [
+          "Kurt Nørmark"
+        ]
+      },
+      {
+        "title": "miniKanren, live and untagged: quine generation via relational interpreters (programming pearl).",
+        "authors": [
+          "William E. Byrd",
+          "Eric Holk",
+          "Daniel P. Friedman"
+        ]
+      },
+      {
+        "title": "Optimizing closures in O(0) time.",
+        "authors": [
+          "Andrew W. Keep",
+          "Alex Hearn",
+          "R. Kent Dybvig"
+        ]
+      },
+      {
+        "title": "A sufficiently smart compiler for procedural records.",
+        "authors": [
+          "Andrew W. Keep",
+          "R. Kent Dybvig"
+        ]
+      },
+      {
+        "title": "Efficient compilation of tail calls and continuations to JavaScript.",
+        "authors": [
+          "Eric Thivierge",
+          "Marc Feeley"
+        ]
+      },
+      {
+        "title": "Hygienic quasiquotation in scheme.",
+        "authors": [
+          "Morten Rhiger"
+        ]
+      },
+      {
+        "title": "AspectScheme: aspects in higher-order languages.",
+        "authors": [
+          "Christopher J. Dutchyn"
+        ]
+      },
+      {
+        "title": "Optimizing JavaScript code for V8.",
+        "authors": [
+          "Florian Loitsch"
+        ]
+      },
+      {
+        "title": "Interpretations of the gradually-typed lambda calculus.",
+        "authors": [
+          "Jeremy G. Siek",
+          "Ronald Garcia"
+        ]
+      },
+      {
+        "title": "Form over function: teaching beginners how to construct programs.",
+        "authors": [
+          "Michael Sperber",
+          "Marcus Crestani"
+        ]
+      },
+      {
+        "title": "Using scheme to control simulated modular robots.",
+        "authors": [
+          "Ulrik Pagh Schultz"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2011.html": {
+    "header": "16th ICFP 2011: Tokyo, Japan",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "Towards a comprehensive theory of monadic effects.",
+        "authors": [
+          "Andrzej Filinski"
+        ]
+      },
+      {
+        "title": "Just do it: simple monadic equational reasoning.",
+        "authors": [
+          "Jeremy Gibbons",
+          "Ralf Hinze"
+        ]
+      },
+      {
+        "title": "Lightweight monadic programming in ML.",
+        "authors": [
+          "Nikhil Swamy",
+          "Nataliya Guts",
+          "Daan Leijen",
+          "Michael Hicks"
+        ]
+      },
+      {
+        "title": "Functional programming through deep time: modeling the first complex ecosystems on earth.",
+        "authors": [
+          "Emily G. Mitchell"
+        ]
+      },
+      {
+        "title": "Monads, zippers and views: virtualizing the monad stack.",
+        "authors": [
+          "Tom Schrijvers",
+          "Bruno C. d. S. Oliveira"
+        ]
+      },
+      {
+        "title": "A semantic model for graphical user interfaces.",
+        "authors": [
+          "Neelakantan R. Krishnaswami",
+          "Nick Benton"
+        ]
+      },
+      {
+        "title": "Modular rollback through control logging: a pair of twin functional pearls.",
+        "authors": [
+          "Olin Shivers",
+          "Aaron Joseph Turon"
+        ]
+      },
+      {
+        "title": "Pushdown flow analysis of first-class control.",
+        "authors": [
+          "Dimitrios Vardoulakis",
+          "Olin Shivers"
+        ]
+      },
+      {
+        "title": "Subtyping delimited continuations.",
+        "authors": [
+          "Marek Materzok",
+          "Dariusz Biernacki"
+        ]
+      },
+      {
+        "title": "Set-theoretic foundation of parametric polymorphism and subtyping.",
+        "authors": [
+          "Giuseppe Castagna",
+          "Zhiwu Xu"
+        ]
+      },
+      {
+        "title": "Parametric polymorphism and semantic subtyping: the logical connection.",
+        "authors": [
+          "Nils Gesbert",
+          "Pierre Genevès",
+          "Nabil Layaïda"
+        ]
+      },
+      {
+        "title": "Balanced trees inhabiting functional parallel programming.",
+        "authors": [
+          "Akimasa Morihata",
+          "Kiminori Matsuzaki"
+        ]
+      },
+      {
+        "title": "Implicit self-adjusting computation for purely functional programs.",
+        "authors": [
+          "Yan Chen",
+          "Jana Dunfield",
+          "Matthew A. Hammer",
+          "Umut A. Acar"
+        ]
+      },
+      {
+        "title": "Programming assurance cases in Agda.",
+        "authors": [
+          "Makoto Takeyama"
+        ]
+      },
+      {
+        "title": "On the bright side of type classes: instance arguments in Agda.",
+        "authors": [
+          "Dominique Devriese",
+          "Frank Piessens"
+        ]
+      },
+      {
+        "title": "Functional modelling of musical harmony: an experience report.",
+        "authors": [
+          "José Pedro Magalhães",
+          "W. Bas de Haas"
+        ]
+      },
+      {
+        "title": "How to make ad hoc proof automation less ad hoc.",
+        "authors": [
+          "Georges Gonthier",
+          "Beta Ziliani",
+          "Aleksandar Nanevski",
+          "Derek Dreyer"
+        ]
+      },
+      {
+        "title": "Temporal higher-order contracts.",
+        "authors": [
+          "Tim Disney",
+          "Cormac Flanagan",
+          "Jay McCarthy"
+        ]
+      },
+      {
+        "title": "Parsing with derivatives: a functional pearl.",
+        "authors": [
+          "Matthew Might",
+          "David Darais",
+          "Daniel Spiewak"
+        ]
+      },
+      {
+        "title": "An efficient non-moving garbage collector for functional languages.",
+        "authors": [
+          "Katsuhiro Ueno",
+          "Atsushi Ohori",
+          "Toshiaki Otomo"
+        ]
+      },
+      {
+        "title": "Deriving an efficient FPGA implementation of a low density parity check forward error corrector.",
+        "authors": [
+          "Andy Gill",
+          "Andrew Farmer"
+        ]
+      },
+      {
+        "title": "Geometry of synthesis iv: compiling affine recursion into static hardware.",
+        "authors": [
+          "Dan R. Ghica",
+          "Alex I. Smith",
+          "Satnam Singh"
+        ]
+      },
+      {
+        "title": "A hierarchy of mendler style recursion combinators: taming inductive datatypes with negative occurrences.",
+        "authors": [
+          "Ki Yung Ahn",
+          "Tim Sheard"
+        ]
+      },
+      {
+        "title": "Typed self-interpretation by pattern matching.",
+        "authors": [
+          "C. Barry Jay",
+          "Jens Palsberg"
+        ]
+      },
+      {
+        "title": "Using camlp4 for presenting dynamic mathematics on the web: DynaMoW, an OCaml language extension for the run-time generation of mathematical contents and their presentation on the web.",
+        "authors": [
+          "Frédéric Chyzak",
+          "Alexis Darrasse"
+        ]
+      },
+      {
+        "title": "Secure distributed programming with value-dependent types.",
+        "authors": [
+          "Nikhil Swamy",
+          "Juan Chen",
+          "Cédric Fournet",
+          "Pierre-Yves Strub",
+          "Karthikeyan Bhargavan",
+          "Jean Yang"
+        ]
+      },
+      {
+        "title": "Frenetic: a network programming language.",
+        "authors": [
+          "Nate Foster",
+          "Rob Harrison",
+          "Michael J. Freedman",
+          "Christopher Monsanto",
+          "Jennifer Rexford",
+          "Alec Story",
+          "David Walker"
+        ]
+      },
+      {
+        "title": "Forest: a language and toolkit for programming with filestores.",
+        "authors": [
+          "Kathleen Fisher",
+          "Nate Foster",
+          "David Walker",
+          "Kenny Qili Zhu"
+        ]
+      },
+      {
+        "title": "Making standard ML a practical database programming language.",
+        "authors": [
+          "Atsushi Ohori",
+          "Katsuhiro Ueno"
+        ]
+      },
+      {
+        "title": "Nameless, painless.",
+        "authors": [
+          "Nicolas Pouillard"
+        ]
+      },
+      {
+        "title": "Binders unbound.",
+        "authors": [
+          "Stephanie Weirich",
+          "Brent A. Yorgey",
+          "Tim Sheard"
+        ]
+      },
+      {
+        "title": "Recursion principles for syntax with bindings and substitution.",
+        "authors": [
+          "Andrei Popescu",
+          "Elsa L. Gunter"
+        ]
+      },
+      {
+        "title": "Proving the unique fixed-point principle correct: an adventure with category theory.",
+        "authors": [
+          "Ralf Hinze",
+          "Daniel W. H. James"
+        ]
+      },
+      {
+        "title": "Linearity and PCF: a semantic insight!",
+        "authors": [
+          "Marco Gaboardi",
+          "Luca Paolini",
+          "Mauro Piccolo"
+        ]
+      },
+      {
+        "title": "Generalising and dualising the third list-homomorphism theorem: functional pearl.",
+        "authors": [
+          "Shin-Cheng Mu",
+          "Akimasa Morihata"
+        ]
+      },
+      {
+        "title": "Incremental updates for efficient bidirectional transformations.",
+        "authors": [
+          "Meng Wang",
+          "Jeremy Gibbons",
+          "Nicolas Wu"
+        ]
+      },
+      {
+        "title": "Modular verification of preemptive OS kernels.",
+        "authors": [
+          "Alexey Gotsman",
+          "Hongseok Yang"
+        ]
+      },
+      {
+        "title": "Characteristic formulae for the verification of imperative programs.",
+        "authors": [
+          "Arthur Charguéraud"
+        ]
+      },
+      {
+        "title": "An equivalence-preserving CPS translation via multi-language semantics.",
+        "authors": [
+          "Amal Ahmed",
+          "Matthias Blume"
+        ]
+      },
+      {
+        "title": "A kripke logical relation for effect-based program transformations.",
+        "authors": [
+          "Jacob Thamsborg",
+          "Lars Birkedal"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2010.html": {
+    "header": "15th ICFP 2010: Baltimore, Maryland, USA",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "ML: metalanguage or object language?",
+        "authors": [
+          "Michael J. C. Gordon"
+        ]
+      },
+      {
+        "title": "The gentle art of levitation.",
+        "authors": [
+          "James Chapman",
+          "Pierre-Évariste Dagand",
+          "Conor McBride",
+          "Peter Morris"
+        ]
+      },
+      {
+        "title": "Functional pearl: every bit counts.",
+        "authors": [
+          "Dimitrios Vytiniotis",
+          "Andrew J. Kennedy"
+        ]
+      },
+      {
+        "title": "ReCaml: execution state as the cornerstone of reconfigurations.",
+        "authors": [
+          "Jérémy Buisson",
+          "Fabien Dagnat"
+        ]
+      },
+      {
+        "title": "Lolliproc: to concurrency from classical linear logic via curry-howard and control.",
+        "authors": [
+          "Karl Mazurak",
+          "Steve Zdancewic"
+        ]
+      },
+      {
+        "title": "Abstracting abstract machines.",
+        "authors": [
+          "David Van Horn",
+          "Matthew Might"
+        ]
+      },
+      {
+        "title": "Polyvariant flow analysis with higher-ranked polymorphic types and higher-order effect operators.",
+        "authors": [
+          "Stefan Holdermans",
+          "Jurriaan Hage"
+        ]
+      },
+      {
+        "title": "The reduceron reconfigured.",
+        "authors": [
+          "Matthew Naylor",
+          "Colin Runciman"
+        ]
+      },
+      {
+        "title": "Using functional programming within an industrial product group: perspectives and perceptions.",
+        "authors": [
+          "David J. Scott",
+          "Richard Sharp",
+          "Thomas Gazagnaire",
+          "Anil Madhavapeddy"
+        ]
+      },
+      {
+        "title": "Lazy tree splitting.",
+        "authors": [
+          "Lars Bergstrom",
+          "Mike Rainey",
+          "John H. Reppy",
+          "Adam Shaw",
+          "Matthew Fluet"
+        ]
+      },
+      {
+        "title": "Semantic subtyping with an SMT solver.",
+        "authors": [
+          "Gavin M. Bierman",
+          "Andrew D. Gordon",
+          "Catalin Hritcu",
+          "David E. Langworthy"
+        ]
+      },
+      {
+        "title": "Logical types for untyped languages.",
+        "authors": [
+          "Sam Tobin-Hochstadt",
+          "Matthias Felleisen"
+        ]
+      },
+      {
+        "title": "TeachScheme!: a checkpoint.",
+        "authors": [
+          "Matthias Felleisen"
+        ]
+      },
+      {
+        "title": "Higher-order representation of substructural logics.",
+        "authors": [
+          "Karl Crary"
+        ]
+      },
+      {
+        "title": "The impact of higher-order state and control effects on local relational reasoning.",
+        "authors": [
+          "Derek Dreyer",
+          "Georg Neis",
+          "Lars Birkedal"
+        ]
+      },
+      {
+        "title": "Distance makes the types grow stronger: a calculus for differential privacy.",
+        "authors": [
+          "Jason Reed",
+          "Benjamin C. Pierce"
+        ]
+      },
+      {
+        "title": "Security-typed programming within dependently typed programming.",
+        "authors": [
+          "Jamie Morgenstern",
+          "Daniel R. Licata"
+        ]
+      },
+      {
+        "title": "Combining syntactic and semantic bidirectionalization.",
+        "authors": [
+          "Janis Voigtländer",
+          "Zhenjiang Hu",
+          "Kazutaka Matsuda",
+          "Meng Wang"
+        ]
+      },
+      {
+        "title": "Matching lenses: alignment and view update.",
+        "authors": [
+          "Davi M. J. Barbosa",
+          "Julien Cretin",
+          "Nate Foster",
+          "Michael Greenberg",
+          "Benjamin C. Pierce"
+        ]
+      },
+      {
+        "title": "Bidirectionalizing graph transformations.",
+        "authors": [
+          "Soichiro Hidaka",
+          "Zhenjiang Hu",
+          "Kazuhiro Inaba",
+          "Hiroyuki Kato",
+          "Kazutaka Matsuda",
+          "Keisuke Nakano"
+        ]
+      },
+      {
+        "title": "A fresh look at programming with names and binders.",
+        "authors": [
+          "Nicolas Pouillard",
+          "François Pottier"
+        ]
+      },
+      {
+        "title": "Experience report: growing programming languages for beginning students.",
+        "authors": [
+          "Marcus Crestani",
+          "Michael Sperber"
+        ]
+      },
+      {
+        "title": "Fortifying macros.",
+        "authors": [
+          "Ryan Culpepper",
+          "Matthias Felleisen"
+        ]
+      },
+      {
+        "title": "Functional parallel algorithms.",
+        "authors": [
+          "Guy E. Blelloch"
+        ]
+      },
+      {
+        "title": "Specifying and verifying sparse matrix codes.",
+        "authors": [
+          "Gilad Arnold",
+          "Johannes Hölzl",
+          "Ali Sinan Köksal",
+          "Rastislav Bodík",
+          "Mooly Sagiv"
+        ]
+      },
+      {
+        "title": "Regular, shape-polymorphic, parallel arrays in Haskell.",
+        "authors": [
+          "Gabriele Keller",
+          "Manuel M. T. Chakravarty",
+          "Roman Leshchinskiy",
+          "Simon L. Peyton Jones",
+          "Ben Lippmeier"
+        ]
+      },
+      {
+        "title": "A certified framework for compiling and executing garbage-collected languages.",
+        "authors": [
+          "Andrew McCreight",
+          "Tim Chevalier",
+          "Andrew P. Tolmach"
+        ]
+      },
+      {
+        "title": "Total parser combinators.",
+        "authors": [
+          "Nils Anders Danielsson"
+        ]
+      },
+      {
+        "title": "Scrapping your inefficient engine: using partial evaluation to improve domain-specific language implementation.",
+        "authors": [
+          "Edwin C. Brady",
+          "Kevin Hammond"
+        ]
+      },
+      {
+        "title": "Rethinking supercompilation.",
+        "authors": [
+          "Neil Mitchell"
+        ]
+      },
+      {
+        "title": "Program verification through characteristic formulae.",
+        "authors": [
+          "Arthur Charguéraud"
+        ]
+      },
+      {
+        "title": "VeriML: typed computation of logical terms inside a language with effects.",
+        "authors": [
+          "Antonis Stampoulis",
+          "Zhong Shao"
+        ]
+      },
+      {
+        "title": "Parametricity and dependent types.",
+        "authors": [
+          "Jean-Philippe Bernardy",
+          "Patrik Jansson",
+          "Ross Paterson"
+        ]
+      },
+      {
+        "title": "A play on regular expressions: functional pearl.",
+        "authors": [
+          "Sebastian Fischer",
+          "Frank Huch",
+          "Thomas Wilke"
+        ]
+      },
+      {
+        "title": "Experience report: Haskell as a reagent: results and observations on the use of Haskell in a python project.",
+        "authors": [
+          "Iustin Pop"
+        ]
+      },
+      {
+        "title": "Instance chains: type class programming without overlapping instances.",
+        "authors": [
+          "J. Garrett Morris",
+          "Mark P. Jones"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2009.html": {
+    "header": "14th ICFP 2009: Edinburgh, Scotland, UK",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Organizing functional code for parallel execution or, foldl and foldr considered slightly harmful.",
+        "authors": [
+          "Guy L. Steele Jr."
+        ]
+      },
+      {
+        "title": "Functional pearl: la tour d'Hanoï.",
+        "authors": [
+          "Ralf Hinze"
+        ]
+      },
+      {
+        "title": "Purely functional lazy non-deterministic programming.",
+        "authors": [
+          "Sebastian Fischer",
+          "Oleg Kiselyov",
+          "Chung-chieh Shan"
+        ]
+      },
+      {
+        "title": "Safe functional reactive programming through dependent types.",
+        "authors": [
+          "Neil Sculthorpe",
+          "Henrik Nilsson"
+        ]
+      },
+      {
+        "title": "Causal commutative arrows and their optimization.",
+        "authors": [
+          "Hai Liu",
+          "Eric Cheng",
+          "Paul Hudak"
+        ]
+      },
+      {
+        "title": "A functional I/O system or, fun for freshman kids.",
+        "authors": [
+          "Matthias Felleisen",
+          "Robert Bruce Findler",
+          "Matthew Flatt",
+          "Shriram Krishnamurthi"
+        ]
+      },
+      {
+        "title": "Experience report: embedded, parallel computer-vision with a functional DSL.",
+        "authors": [
+          "Ryan Newton",
+          "Teresa Ko"
+        ]
+      },
+      {
+        "title": "Runtime support for multicore Haskell.",
+        "authors": [
+          "Simon Marlow",
+          "Simon L. Peyton Jones",
+          "Satnam Singh"
+        ]
+      },
+      {
+        "title": "Effective interactive proofs for higher-order imperative programs.",
+        "authors": [
+          "Adam Chlipala",
+          "J. Gregory Malecha",
+          "Greg Morrisett",
+          "Avraham Shinnar",
+          "Ryan Wisnesky"
+        ]
+      },
+      {
+        "title": "Experience report: seL4: formally verifying a high-performance microkernel.",
+        "authors": [
+          "Gerwin Klein",
+          "Philip Derrin",
+          "Kevin Elphinstone"
+        ]
+      },
+      {
+        "title": "Biorthogonality, step-indexing and compiler correctness.",
+        "authors": [
+          "Nick Benton",
+          "Chung-Kil Hur"
+        ]
+      },
+      {
+        "title": "Scribble: closing the book on ad hoc documentation tools.",
+        "authors": [
+          "Matthew Flatt",
+          "Eli Barzilay",
+          "Robert Bruce Findler"
+        ]
+      },
+      {
+        "title": "Lambda, the ultimate TA: using a proof assistant to teach programming language foundations.",
+        "authors": [
+          "Benjamin C. Pierce"
+        ]
+      },
+      {
+        "title": "A universe of binding and computation.",
+        "authors": [
+          "Daniel R. Licata",
+          "Robert Harper"
+        ]
+      },
+      {
+        "title": "Non-parametric parametricity.",
+        "authors": [
+          "Georg Neis",
+          "Derek Dreyer",
+          "Andreas Rossberg"
+        ]
+      },
+      {
+        "title": "Finding race conditions in Erlang with QuickCheck and PULSE.",
+        "authors": [
+          "Koen Claessen",
+          "Michal H. Palka",
+          "Nicholas Smallbone",
+          "John Hughes",
+          "Hans Svensson",
+          "Thomas Arts",
+          "Ulf T. Wiger"
+        ]
+      },
+      {
+        "title": "Partial memoization of concurrency and communication.",
+        "authors": [
+          "Lukasz Ziarek",
+          "K. C. Sivaramakrishnan",
+          "Suresh Jagannathan"
+        ]
+      },
+      {
+        "title": "Free theorems involving type constructor classes: functional pearl.",
+        "authors": [
+          "Janis Voigtländer"
+        ]
+      },
+      {
+        "title": "Experience report: Haskell in the 'real world': writing a commercial application in a lazy functional lanuage.",
+        "authors": [
+          "Curt J. Sampson"
+        ]
+      },
+      {
+        "title": "Beautiful differentiation.",
+        "authors": [
+          "Conal M. Elliott"
+        ]
+      },
+      {
+        "title": "OXenstored: an efficient hierarchical and transactional database using functional programming with reference cell comparisons.",
+        "authors": [
+          "Thomas Gazagnaire",
+          "Vincent Hanquez"
+        ]
+      },
+      {
+        "title": "Experience report: using objective caml to develop safety-critical embedded tools in a certification framework.",
+        "authors": [
+          "Bruno Pagano",
+          "Olivier Andrieu",
+          "Thomas Moniot",
+          "Benjamin Canou",
+          "Emmanuel Chailloux",
+          "Philippe Wang",
+          "Pascal Manoury",
+          "Jean-Louis Colaço"
+        ]
+      },
+      {
+        "title": "Identifying query incompatibilities with evolving XML schemas.",
+        "authors": [
+          "Pierre Genevès",
+          "Nabil Layaïda",
+          "Vincent Quint"
+        ]
+      },
+      {
+        "title": "Commutative monads, diagrams and knots.",
+        "authors": [
+          "Dan P. Piponi"
+        ]
+      },
+      {
+        "title": "Generic programming with fixed points for mutually recursive datatypes.",
+        "authors": [
+          "Alexey Rodriguez Yakushev",
+          "Stefan Holdermans",
+          "Andres Löh",
+          "Johan Jeuring"
+        ]
+      },
+      {
+        "title": "Attribute grammars fly first-class: how to do aspect oriented programming in Haskell.",
+        "authors": [
+          "Marcos Viera",
+          "S. Doaitse Swierstra",
+          "Wouter Swierstra"
+        ]
+      },
+      {
+        "title": "Parallel concurrent ML.",
+        "authors": [
+          "John H. Reppy",
+          "Claudio V. Russo",
+          "Yingqi Xiao"
+        ]
+      },
+      {
+        "title": "A concurrent ML library in concurrent Haskell.",
+        "authors": [
+          "Avik Chaudhuri"
+        ]
+      },
+      {
+        "title": "Experience report: OCaml for an industrial-strength static analysis framework.",
+        "authors": [
+          "Pascal Cuoq",
+          "Julien Signoles",
+          "Patrick Baudin",
+          "Richard Bonichon",
+          "Géraud Canet",
+          "Loïc Correnson",
+          "Benjamin Monate",
+          "Virgile Prevosto",
+          "Armand Puccetti"
+        ]
+      },
+      {
+        "title": "Control-flow analysis of function calls and returns by abstract interpretation.",
+        "authors": [
+          "Jan Midtgaard",
+          "Thomas P. Jensen"
+        ]
+      },
+      {
+        "title": "Automatically RESTful web applications: marking modular serializable continuations.",
+        "authors": [
+          "Jay A. McCarthy"
+        ]
+      },
+      {
+        "title": "Experience report: ocsigen, a web programming framework.",
+        "authors": [
+          "Vincent Balat",
+          "Jérôme Vouillon",
+          "Boris Yakobowski"
+        ]
+      },
+      {
+        "title": "Implementing first-class polymorphic delimited continuations by a type-directed selective CPS-transform.",
+        "authors": [
+          "Tiark Rompf",
+          "Ingo Maier",
+          "Martin Odersky"
+        ]
+      },
+      {
+        "title": "A theory of typed coercions and its applications.",
+        "authors": [
+          "Nikhil Swamy",
+          "Michael W. Hicks",
+          "Gavin M. Bierman"
+        ]
+      },
+      {
+        "title": "Complete and decidable type inference for GADTs.",
+        "authors": [
+          "Tom Schrijvers",
+          "Simon L. Peyton Jones",
+          "Martin Sulzmann",
+          "Dimitrios Vytiniotis"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/fdpe2008.html": {
+    "header": "FDPE@ICFP 2008: Victoria, BC, Canada",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Htdp and dmda in the battlefield: a case study in first-year programming instruction.",
+        "authors": [
+          "Annette Bieniusa",
+          "Markus Degen",
+          "Phillip Heidegger",
+          "Peter Thiemann",
+          "Stefan Wehr",
+          "Martin Gasbichler",
+          "Michael Sperber",
+          "Marcus Crestani",
+          "Herbert Klaeren",
+          "Eric Knauel"
+        ]
+      },
+      {
+        "title": "The chilling descent: making the transition to a conventional curriculum.",
+        "authors": [
+          "Prabhakar Ragde"
+        ]
+      },
+      {
+        "title": "Functional programming and theorem proving for undergraduates: a progress report.",
+        "authors": [
+          "Rex L. Page",
+          "Carl Eastlund",
+          "Matthias Felleisen"
+        ]
+      },
+      {
+        "title": "SASyLF: an educational proof assistant for language theory.",
+        "authors": [
+          "Jonathan Aldrich",
+          "Robert J. Simmons",
+          "Key Shin"
+        ]
+      },
+      {
+        "title": "Experimenting with formal languages using forlan.",
+        "authors": [
+          "Alley Stoughton"
+        ]
+      },
+      {
+        "title": "A robot in every classroom: robots and functional programming across the curriculum.",
+        "authors": [
+          "David Wakeling"
+        ]
+      },
+      {
+        "title": "Teaching functional programming with soccer-fun.",
+        "authors": [
+          "Peter Achten"
+        ]
+      },
+      {
+        "title": "Declarative language extensions for prolog courses.",
+        "authors": [
+          "Ulrich Neumerkel",
+          "Markus Triska",
+          "Jan Wielemaker"
+        ]
+      },
+      {
+        "title": "Tips on teaching types and functions.",
+        "authors": [
+          "Fritz Ruehr"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2008.html": {
+    "header": "13th ICFP 2008: Victoria, BC, Canada",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Lazy and speculative execution in computer systems.",
+        "authors": [
+          "Butler W. Lampson"
+        ]
+      },
+      {
+        "title": "FLUX: functional updates for XML.",
+        "authors": [
+          "James Cheney"
+        ]
+      },
+      {
+        "title": "Typed iterators for XML.",
+        "authors": [
+          "Giuseppe Castagna",
+          "Kim Nguyen"
+        ]
+      },
+      {
+        "title": "AURA: a programming language for authorization and audit.",
+        "authors": [
+          "Limin Jia",
+          "Jeffrey A. Vaughan",
+          "Karl Mazurak",
+          "Jianzhou Zhao",
+          "Luke Zarko",
+          "Joseph Schorr",
+          "Steve Zdancewic"
+        ]
+      },
+      {
+        "title": "The power of Pi.",
+        "authors": [
+          "Nicolas Oury",
+          "Wouter Swierstra"
+        ]
+      },
+      {
+        "title": "Type checking with open type functions.",
+        "authors": [
+          "Tom Schrijvers",
+          "Simon L. Peyton Jones",
+          "Manuel M. T. Chakravarty",
+          "Martin Sulzmann"
+        ]
+      },
+      {
+        "title": "From ML to MLF: graphic type constraints with efficient type inference.",
+        "authors": [
+          "Didier Rémy",
+          "Boris Yakobowski"
+        ]
+      },
+      {
+        "title": "A type-preserving compiler in Haskell.",
+        "authors": [
+          "Louis-Julien Guillemette",
+          "Stefan Monnier"
+        ]
+      },
+      {
+        "title": "Experience report: playing the DSL card.",
+        "authors": [
+          "Mark P. Jones"
+        ]
+      },
+      {
+        "title": "Generic discrimination: sorting and paritioning unshared data in linear time.",
+        "authors": [
+          "Fritz Henglein"
+        ]
+      },
+      {
+        "title": "Transactional events for ML.",
+        "authors": [
+          "Laura Effinger-Dean",
+          "Matthew Kehrt",
+          "Dan Grossman"
+        ]
+      },
+      {
+        "title": "Experience report: erlang in acoustic ray tracing.",
+        "authors": [
+          "Christian Convey",
+          "Andrew Fredricks",
+          "Christopher Gagner",
+          "Douglas Maxwell",
+          "Lutz Hamel"
+        ]
+      },
+      {
+        "title": "Implicitly-threaded parallelism in Manticore.",
+        "authors": [
+          "Matthew Fluet",
+          "Mike Rainey",
+          "John H. Reppy",
+          "Adam Shaw"
+        ]
+      },
+      {
+        "title": "Defunctionalized interpreters for programming languages.",
+        "authors": [
+          "Olivier Danvy"
+        ]
+      },
+      {
+        "title": "Parametric higher-order abstract syntax for mechanized semantics.",
+        "authors": [
+          "Adam Chlipala"
+        ]
+      },
+      {
+        "title": "Typed closure conversion preserves observational equivalence.",
+        "authors": [
+          "Amal Ahmed",
+          "Matthias Blume"
+        ]
+      },
+      {
+        "title": "Write it recursively: a generic framework for optimal path queries.",
+        "authors": [
+          "Akimasa Morihata",
+          "Kiminori Matsuzaki",
+          "Masato Takeichi"
+        ]
+      },
+      {
+        "title": "Efficient nondestructive equality checking for trees and graphs.",
+        "authors": [
+          "Michael D. Adams",
+          "R. Kent Dybvig"
+        ]
+      },
+      {
+        "title": "Functional pearl: streams and unique fixed points.",
+        "authors": [
+          "Ralf Hinze"
+        ]
+      },
+      {
+        "title": "Data-flow testing of declarative programs.",
+        "authors": [
+          "Sebastian Fischer",
+          "Herbert Kuchen"
+        ]
+      },
+      {
+        "title": "Functional translation of a calculus of capabilities.",
+        "authors": [
+          "Arthur Charguéraud",
+          "François Pottier"
+        ]
+      },
+      {
+        "title": "Paradise: a two-stage DSL embedded in Haskell.",
+        "authors": [
+          "Lennart Augustsson",
+          "Howard Mansell",
+          "Ganesh Sittampalam"
+        ]
+      },
+      {
+        "title": "Ynot: dependent types for imperative programs.",
+        "authors": [
+          "Aleksandar Nanevski",
+          "Greg Morrisett",
+          "Avraham Shinnar",
+          "Paul Govereau",
+          "Lars Birkedal"
+        ]
+      },
+      {
+        "title": "A scheduling framework for general-purpose parallel languages.",
+        "authors": [
+          "Matthew Fluet",
+          "Mike Rainey",
+          "John H. Reppy"
+        ]
+      },
+      {
+        "title": "Space profiling for parallel functional programs.",
+        "authors": [
+          "Daniel Spoonhower",
+          "Guy E. Blelloch",
+          "Robert Harper",
+          "Phillip B. Gibbons"
+        ]
+      },
+      {
+        "title": "Polymorphism and page tables: systems programming from a functional programmer's perspective.",
+        "authors": [
+          "Mark P. Jones"
+        ]
+      },
+      {
+        "title": "Pattern minimization problems over recursive data types.",
+        "authors": [
+          "Alexander Krauss"
+        ]
+      },
+      {
+        "title": "Deciding kCFA is complete for EXPTIME.",
+        "authors": [
+          "David Van Horn",
+          "Harry G. Mairson"
+        ]
+      },
+      {
+        "title": "HMF: simple type inference for first-class polymorphism.",
+        "authors": [
+          "Daan Leijen"
+        ]
+      },
+      {
+        "title": "FPH: first-class polymorphism for Haskell.",
+        "authors": [
+          "Dimitrios Vytiniotis",
+          "Stephanie Weirich",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "Mixin' up the ML module system.",
+        "authors": [
+          "Derek Dreyer",
+          "Andreas Rossberg"
+        ]
+      },
+      {
+        "title": "Compiling self-adjusting programs with continuations.",
+        "authors": [
+          "Ruy Ley-Wild",
+          "Matthew Fluet",
+          "Umut A. Acar"
+        ]
+      },
+      {
+        "title": "Flask: staged functional programming for sensor networks.",
+        "authors": [
+          "Geoffrey Mainland",
+          "Greg Morrisett",
+          "Matt Welsh"
+        ]
+      },
+      {
+        "title": "Experience report: a pure shirt fits.",
+        "authors": [
+          "Ravi Nanavati"
+        ]
+      },
+      {
+        "title": "Functional netlists.",
+        "authors": [
+          "Sungwoo Park",
+          "Jinha Kim",
+          "Hyeonseung Im"
+        ]
+      },
+      {
+        "title": "NixOS: a purely functional Linux distribution.",
+        "authors": [
+          "Eelco Dolstra",
+          "Andres Löh"
+        ]
+      },
+      {
+        "title": "Experience report: visualizing data through functional pipelines.",
+        "authors": [
+          "David J. Duke",
+          "Rita Borgo",
+          "Colin Runciman",
+          "Malcolm Wallace"
+        ]
+      },
+      {
+        "title": "Quotient lenses.",
+        "authors": [
+          "J. Nathan Foster",
+          "Alexandre Pilkiewicz",
+          "Benjamin C. Pierce"
+        ]
+      },
+      {
+        "title": "Report on the tenth ICFP programming contest.",
+        "authors": [
+          "Eelco Dolstra",
+          "Jurriaan Hage",
+          "Bastiaan Heeren",
+          "Stefan Holdermans",
+          "Johan Jeuring",
+          "Andres Löh",
+          "Clara Löh",
+          "Arie Middelkoop",
+          "Alexey Rodriguez",
+          "John van Schie"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2007.html": {
+    "header": "12th ICFP 2007: Freiburg, Germany",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "Ott: effective tool support for the working semanticist.",
+        "authors": [
+          "Peter Sewell",
+          "Francesco Zappa Nardelli",
+          "Scott Owens",
+          "Gilles Peskine",
+          "Tom Ridge",
+          "Susmit Sarkar",
+          "Rok Strnisa"
+        ]
+      },
+      {
+        "title": "Program-ing finger trees in Coq.",
+        "authors": [
+          "Matthieu Sozeau"
+        ]
+      },
+      {
+        "title": "Experience report: functional programming in c-rules.",
+        "authors": [
+          "Jeremy Wazny"
+        ]
+      },
+      {
+        "title": "Extensible pattern matching via a lightweight language extension.",
+        "authors": [
+          "Don Syme",
+          "Gregory Neverov",
+          "James Margetson"
+        ]
+      },
+      {
+        "title": "On Barron and Strachey's cartesian product function.",
+        "authors": [
+          "Olivier Danvy",
+          "J. Michael Spivey"
+        ]
+      },
+      {
+        "title": "Bidirectionalization transformation based on automatic derivation of view complement functions.",
+        "authors": [
+          "Kazutaka Matsuda",
+          "Zhenjiang Hu",
+          "Keisuke Nakano",
+          "Makoto Hamana",
+          "Masato Takeichi"
+        ]
+      },
+      {
+        "title": "Tangible functional programming.",
+        "authors": [
+          "Conal Elliott"
+        ]
+      },
+      {
+        "title": "Termination analysis and call graph construction for higher-order functional programs.",
+        "authors": [
+          "Damien Sereni"
+        ]
+      },
+      {
+        "title": "Relating complexity and precision in control flow analysis.",
+        "authors": [
+          "David Van Horn",
+          "Harry G. Mairson"
+        ]
+      },
+      {
+        "title": "Inductive reasoning about effectful data types.",
+        "authors": [
+          "Andrzej Filinski",
+          "Kristian Støvring"
+        ]
+      },
+      {
+        "title": "A type directed translation of MLF to system F.",
+        "authors": [
+          "Daan Leijen"
+        ]
+      },
+      {
+        "title": "Declarative programming for artificial intelligence applications.",
+        "authors": [
+          "John W. Lloyd"
+        ]
+      },
+      {
+        "title": "McErlang: a model checker for a distributed functional programming language.",
+        "authors": [
+          "Lars-Åke Fredlund",
+          "Hans Svensson"
+        ]
+      },
+      {
+        "title": "Experience report: the reactis validation tool.",
+        "authors": [
+          "Steve Sims",
+          "Daniel C. DuVarney"
+        ]
+      },
+      {
+        "title": "iTasks: executable specifications of interactive work flow systems for the web.",
+        "authors": [
+          "Rinus Plasmeijer",
+          "Peter Achten",
+          "Pieter W. M. Koopman"
+        ]
+      },
+      {
+        "title": "Experience report: scheme in commercial web application development.",
+        "authors": [
+          "Noel Welsh",
+          "David Gurnell"
+        ]
+      },
+      {
+        "title": "Functional pearl: the great escape or, how to jump the border without getting caught.",
+        "authors": [
+          "David Herman"
+        ]
+      },
+      {
+        "title": "Adding delimited and composable control to a production programming environment.",
+        "authors": [
+          "Matthew Flatt",
+          "Gang Yu",
+          "Robert Bruce Findler",
+          "Matthias Felleisen"
+        ]
+      },
+      {
+        "title": "Compiling with continuations, continued.",
+        "authors": [
+          "Andrew Kennedy"
+        ]
+      },
+      {
+        "title": "Type-safe higher-order channels in ML-like languages.",
+        "authors": [
+          "Sungwoo Park"
+        ]
+      },
+      {
+        "title": "Evaluating high-level distributed language constructs.",
+        "authors": [
+          "Jan Henry Nyström",
+          "Philip W. Trinder",
+          "David J. King"
+        ]
+      },
+      {
+        "title": "Experience report: using functional programming to manage a linux distribution.",
+        "authors": [
+          "Clifford Beshers",
+          "David Fox",
+          "Jeremy Shaw"
+        ]
+      },
+      {
+        "title": "Subtyping and intersection types revisited.",
+        "authors": [
+          "Frank Pfenning"
+        ]
+      },
+      {
+        "title": "Experience report: building an eclipse-based IDE for Haskell.",
+        "authors": [
+          "Leif Frenzel"
+        ]
+      },
+      {
+        "title": "User-friendly functional programming for web mashups.",
+        "authors": [
+          "Robert Ennals",
+          "David Gay"
+        ]
+      },
+      {
+        "title": "A generic usage analysis with subeffect qualifiers.",
+        "authors": [
+          "Jurriaan Hage",
+          "Stefan Holdermans",
+          "Arie Middelkoop"
+        ]
+      },
+      {
+        "title": "Experience report: a Haskell interpreter for cellML.",
+        "authors": [
+          "Jonathan Cooper",
+          "Steve McKeever"
+        ]
+      },
+      {
+        "title": "Feedback directed implicit parallelism.",
+        "authors": [
+          "Tim Harris",
+          "Satnam Singh"
+        ]
+      },
+      {
+        "title": "Lazy call-by-value evaluation.",
+        "authors": [
+          "Bernd Braßel",
+          "Michael Hanus",
+          "Sebastian Fischer",
+          "Frank Huch",
+          "Germán Vidal"
+        ]
+      },
+      {
+        "title": "Faster laziness using dynamic pointer tagging.",
+        "authors": [
+          "Simon Marlow",
+          "Alexey Rodriguez Yakushev",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "A type system for recursive modules.",
+        "authors": [
+          "Derek Dreyer"
+        ]
+      },
+      {
+        "title": "Implicit phasing for R6RS libraries.",
+        "authors": [
+          "Abdulaziz Ghuloum",
+          "R. Kent Dybvig"
+        ]
+      },
+      {
+        "title": "Stream fusion: from lists to streams to nothing at all.",
+        "authors": [
+          "Duncan Coutts",
+          "Roman Leshchinskiy",
+          "Don Stewart"
+        ]
+      },
+      {
+        "title": "Call-pattern specialisation for haskell programs.",
+        "authors": [
+          "Simon L. Peyton Jones"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2006.html": {
+    "header": "11th ICFP 2006: Portland, Oregon, USA",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "The development of Chez Scheme.",
+        "authors": [
+          "R. Kent Dybvig"
+        ]
+      },
+      {
+        "title": "Improving flow analyses via GammaCFA: abstract garbage collection and counting.",
+        "authors": [
+          "Matthew Might",
+          "Olin Shivers"
+        ]
+      },
+      {
+        "title": "Delimited dynamic binding.",
+        "authors": [
+          "Oleg Kiselyov",
+          "Chung-chieh Shan",
+          "Amr Sabry"
+        ]
+      },
+      {
+        "title": "Static typing for a faulty lambda calculus.",
+        "authors": [
+          "David Walker",
+          "Lester W. Mackey",
+          "Jay Ligatti",
+          "George A. Reis",
+          "David I. August"
+        ]
+      },
+      {
+        "title": "Simple unification-based type inference for GADTs.",
+        "authors": [
+          "Simon L. Peyton Jones",
+          "Dimitrios Vytiniotis",
+          "Stephanie Weirich",
+          "Geoffrey Washburn"
+        ]
+      },
+      {
+        "title": "Polymorphism and separation in hoare type theory.",
+        "authors": [
+          "Aleksandar Nanevski",
+          "Greg Morrisett",
+          "Lars Birkedal"
+        ]
+      },
+      {
+        "title": "Recursive modules for programming.",
+        "authors": [
+          "Keiko Nakata",
+          "Jacques Garrigue"
+        ]
+      },
+      {
+        "title": "From structures and functors to modules and units.",
+        "authors": [
+          "Scott Owens",
+          "Matthew Flatt"
+        ]
+      },
+      {
+        "title": "The missing link: dynamic components for ML.",
+        "authors": [
+          "Andreas Rossberg"
+        ]
+      },
+      {
+        "title": "Static analysis for syntax objects.",
+        "authors": [
+          "David Fisher",
+          "Olin Shivers"
+        ]
+      },
+      {
+        "title": "Practical proofs of concurrent programs.",
+        "authors": [
+          "Marc Shapiro"
+        ]
+      },
+      {
+        "title": "Transactional events.",
+        "authors": [
+          "Kevin Donnelly",
+          "Matthew Fluet"
+        ]
+      },
+      {
+        "title": "Stabilizers: a modular checkpointing abstraction for concurrent functional programs.",
+        "authors": [
+          "Lukasz Ziarek",
+          "Philip Schatz",
+          "Suresh Jagannathan"
+        ]
+      },
+      {
+        "title": "Modelling deterministic concurrent I/O.",
+        "authors": [
+          "Malcolm Dowse",
+          "Andrew Butterfield"
+        ]
+      },
+      {
+        "title": "Modular development of certified program verifiers with a proof assistant.",
+        "authors": [
+          "Adam Chlipala"
+        ]
+      },
+      {
+        "title": "Mechanized meta-reasoning using a hybrid HOAS/de bruijn representation and reflection.",
+        "authors": [
+          "Jason Hickey",
+          "Aleksey Nogin",
+          "Xin Yu",
+          "Alexei Kopylov"
+        ]
+      },
+      {
+        "title": "Equality of streams is a Pi0 over 2-complete problem.",
+        "authors": [
+          "Grigore Rosu"
+        ]
+      },
+      {
+        "title": "OCaml + XDuce.",
+        "authors": [
+          "Alain Frisch"
+        ]
+      },
+      {
+        "title": "biXid: a bidirectional transformation language for XML.",
+        "authors": [
+          "Shinya Kawanaka",
+          "Haruo Hosoya"
+        ]
+      },
+      {
+        "title": "Fifteen years of functional pearls.",
+        "authors": [
+          "Richard S. Bird"
+        ]
+      },
+      {
+        "title": "A pattern for almost compositional functions.",
+        "authors": [
+          "Björn Bringert",
+          "Aarne Ranta"
+        ]
+      },
+      {
+        "title": "Algebraic fusion of functions with an accumulating parameter and its improvement.",
+        "authors": [
+          "Shin-ya Katsumata",
+          "Susumu Nishimura"
+        ]
+      },
+      {
+        "title": "Extensible programming with first-class cases.",
+        "authors": [
+          "Matthias Blume",
+          "Umut A. Acar",
+          "Wonseok Chae"
+        ]
+      },
+      {
+        "title": "Boxy types: inference for higher-rank types and impredicativity.",
+        "authors": [
+          "Dimitrios Vytiniotis",
+          "Stephanie Weirich",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "Access control in a core calculus of dependency.",
+        "authors": [
+          "Martín Abadi"
+        ]
+      },
+      {
+        "title": "Programming monads operationally with Unimo.",
+        "authors": [
+          "Chuan-Kai Lin"
+        ]
+      },
+      {
+        "title": "Abstraction preservation and subtyping in distributed languages.",
+        "authors": [
+          "Pierre-Malo Deniélou",
+          "James J. Leifer"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/fdpe2005.html": {
+    "header": "FDPE@ICFP 2005: Tallinn, Estonia",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "How to design class hierarchies.",
+        "authors": [
+          "Matthias Felleisen"
+        ]
+      },
+      {
+        "title": "From functional to object-oriented programming: a smooth transition for beginners.",
+        "authors": [
+          "Rudolf Berghammer",
+          "Frank Huch"
+        ]
+      },
+      {
+        "title": "Laziness without all the hard work: combining lazy and strict languages for teaching.",
+        "authors": [
+          "Eli Barzilay",
+          "John Clements"
+        ]
+      },
+      {
+        "title": "Word puzzles in Haskell: interactive games for functional programming exercises.",
+        "authors": [
+          "S. A. Curtis"
+        ]
+      },
+      {
+        "title": "Teaching of image synthesis in functional style.",
+        "authors": [
+          "Jerzy Karczmarczuk"
+        ]
+      },
+      {
+        "title": "MinCaml: a simple and efficient compiler for a minimal functional language.",
+        "authors": [
+          "Eijiro Sumii"
+        ]
+      },
+      {
+        "title": "Engineering software correctness.",
+        "authors": [
+          "Rex L. Page"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2005.html": {
+    "header": "10th ICFP 2005: Tallinn, Estonia",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "From ML type inference to stratified type inference.",
+        "authors": [
+          "François Pottier"
+        ]
+      },
+      {
+        "title": "The anatomy of a loop: a story of scope and control.",
+        "authors": [
+          "Olin Shivers"
+        ]
+      },
+      {
+        "title": "Acute: high-level programming language design for distributed computation.",
+        "authors": [
+          "Peter Sewell",
+          "James J. Leifer",
+          "Keith Wansbrough",
+          "Francesco Zappa Nardelli",
+          "Mair Allen-Williams",
+          "Pierre Habouzit",
+          "Viktor Vafeiadis"
+        ]
+      },
+      {
+        "title": "An expressive language of signatures.",
+        "authors": [
+          "Norman Ramsey",
+          "Kathleen Fisher",
+          "Paul Govereau"
+        ]
+      },
+      {
+        "title": "Recursive type generativity.",
+        "authors": [
+          "Derek Dreyer"
+        ]
+      },
+      {
+        "title": "Dynamic optimization for functional reactive programming using generalized algebraic data types.",
+        "authors": [
+          "Henrik Nilsson"
+        ]
+      },
+      {
+        "title": "Combining programming with theorem proving.",
+        "authors": [
+          "Chiyan Chen",
+          "Hongwei Xi"
+        ]
+      },
+      {
+        "title": "A step-indexed model of substructural state.",
+        "authors": [
+          "Amal J. Ahmed",
+          "Matthew Fluet",
+          "Greg Morrisett"
+        ]
+      },
+      {
+        "title": "AtomCaml: first-class atomicity via rollback.",
+        "authors": [
+          "Michael F. Ringenburg",
+          "Dan Grossman"
+        ]
+      },
+      {
+        "title": "Witnessing side-effects.",
+        "authors": [
+          "Tachio Terauchi",
+          "Alex Aiken"
+        ]
+      },
+      {
+        "title": "A principled approach to operating system construction in Haskell.",
+        "authors": [
+          "Thomas Hallgren",
+          "Mark P. Jones",
+          "Rebekah Leslie",
+          "Andrew P. Tolmach"
+        ]
+      },
+      {
+        "title": "JavaScript at ten years.",
+        "authors": [
+          "Brendan Eich"
+        ]
+      },
+      {
+        "title": "Simple, partial type-inference for System F based on type-containment.",
+        "authors": [
+          "Didier Rémy"
+        ]
+      },
+      {
+        "title": "Qualified types for MLF.",
+        "authors": [
+          "Daan Leijen",
+          "Andres Löh"
+        ]
+      },
+      {
+        "title": "Type inference, principal typings, and let-polymorphism for first-class mixin modules.",
+        "authors": [
+          "Henning Makholm",
+          "J. B. Wells"
+        ]
+      },
+      {
+        "title": "High-level views on low-level representations.",
+        "authors": [
+          "Iavor S. Diatchki",
+          "Mark P. Jones",
+          "Rebekah Leslie"
+        ]
+      },
+      {
+        "title": "Scrap your nameplate: (functional pearl).",
+        "authors": [
+          "James Cheney"
+        ]
+      },
+      {
+        "title": "Backtracking, interleaving, and terminating monad transformers: (functional pearl).",
+        "authors": [
+          "Oleg Kiselyov",
+          "Chung-chieh Shan",
+          "Daniel P. Friedman",
+          "Amr Sabry"
+        ]
+      },
+      {
+        "title": "Scrap your boilerplate with class: extensible generic functions.",
+        "authors": [
+          "Ralf Lämmel",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "Continuations from generalized stack inspection.",
+        "authors": [
+          "Greg Pettyjohn",
+          "John Clements",
+          "Joe Marshall",
+          "Shriram Krishnamurthi",
+          "Matthias Felleisen"
+        ]
+      },
+      {
+        "title": "Fast narrowing-driven partial evaluation for inductively sequential programs.",
+        "authors": [
+          "J. Guadalupe Ramos",
+          "Josep Silva",
+          "Germán Vidal"
+        ]
+      },
+      {
+        "title": "Mechanizing the meta-theory of programming languages.",
+        "authors": [
+          "Robert Harper"
+        ]
+      },
+      {
+        "title": "Associated type synonyms.",
+        "authors": [
+          "Manuel M. T. Chakravarty",
+          "Gabriele Keller",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "Modular verification of concurrent assembly code with dynamic thread creation and termination.",
+        "authors": [
+          "Xinyu Feng",
+          "Zhong Shao"
+        ]
+      },
+      {
+        "title": "A language-based approach to functionally correct imperative programming.",
+        "authors": [
+          "Edwin M. Westbrook",
+          "Aaron Stump",
+          "Ian Wehrman"
+        ]
+      },
+      {
+        "title": "A logical analysis of aliasing in imperative higher-order functions.",
+        "authors": [
+          "Martin Berger",
+          "Kohei Honda",
+          "Nobuko Yoshida"
+        ]
+      },
+      {
+        "title": "Monadic augment and generalised short cut fusion.",
+        "authors": [
+          "Neil Ghani",
+          "Patricia Johann",
+          "Tarmo Uustalu",
+          "Varmo Vene"
+        ]
+      },
+      {
+        "title": "PolyAML: a polymorphic aspect-oriented functional programming language.",
+        "authors": [
+          "Daniel S. Dantas",
+          "David Walker",
+          "Geoffrey Washburn",
+          "Stephanie Weirich"
+        ]
+      },
+      {
+        "title": "Aspectual Caml: an aspect-oriented functional language.",
+        "authors": [
+          "Hidehiko Masuhara",
+          "Hideaki Tatsuzawa",
+          "Akinori Yonezawa"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/merlin2005.html": {
+    "header": "MERLIN (ICFP 2005 Workshop): Tallinn, Estonia",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "Towards a type theory of contexts.",
+        "authors": [
+          "Frank Pfenning"
+        ]
+      },
+      {
+        "title": "A computational approach to reflective meta-reasoning about languages with bindings.",
+        "authors": [
+          "Aleksey Nogin",
+          "Alexei Kopylov",
+          "Xin Yu",
+          "Jason Hickey"
+        ]
+      },
+      {
+        "title": "A unified category-theoretic formulation of typed binding signatures.",
+        "authors": [
+          "Miki Tanaka",
+          "John Power"
+        ]
+      },
+      {
+        "title": "A formal treatment of the barendregt variable convention in rule inductions.",
+        "authors": [
+          "Christian Urban",
+          "Michael Norrish"
+        ]
+      },
+      {
+        "title": "Toward a general theory of names: binding and scope.",
+        "authors": [
+          "James Cheney"
+        ]
+      },
+      {
+        "title": "Translating specifications from nominal logic to CIC with the theory of contexts.",
+        "authors": [
+          "Marino Miculan",
+          "Ivan Scagnetto",
+          "Furio Honsell"
+        ]
+      },
+      {
+        "title": "Types with semantics: soundness proof assistant.",
+        "authors": [
+          "Olha Shkaravska"
+        ]
+      },
+      {
+        "title": "Combining higher-order abstract syntax with first-order abstract syntax in ATS.",
+        "authors": [
+          "Kevin Donnelly",
+          "Hongwei Xi"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2004.html": {
+    "header": "9th ICFP 2004: Snowbird, Utah, USA",
+    "year": "2004",
+    "papers": [
+      {
+        "title": "The C - compiler infrastructure.",
+        "authors": [
+          "Norman Ramsey",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "Galois: high assurance software.",
+        "authors": [
+          "John Launchbury"
+        ]
+      },
+      {
+        "title": "Making a fast curry: push/enter vs. eval/apply for higher-order languages.",
+        "authors": [
+          "Simon Marlow",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "Improving the static analysis of embedded languages via partial evaluation.",
+        "authors": [
+          "David Herman",
+          "Philippe Meunier"
+        ]
+      },
+      {
+        "title": "Searching for deadlocks while debugging concurrent haskell programs.",
+        "authors": [
+          "Jan Christiansen",
+          "Frank Huch"
+        ]
+      },
+      {
+        "title": "A type-theoretic foundation of continuations and prompts.",
+        "authors": [
+          "Zena M. Ariola",
+          "Hugo Herbelin",
+          "Amr Sabry"
+        ]
+      },
+      {
+        "title": "Relating models of backtracking.",
+        "authors": [
+          "Mitchell Wand",
+          "Dale Vaillancourt"
+        ]
+      },
+      {
+        "title": "Don't make the wrong mistakes: programming as debugging.",
+        "authors": [
+          "Paul Graham"
+        ]
+      },
+      {
+        "title": "Regular expression patterns.",
+        "authors": [
+          "Niklas Broberg",
+          "Andreas Farre",
+          "Josef Svenningsson"
+        ]
+      },
+      {
+        "title": "Multi-return function call.",
+        "authors": [
+          "Olin Shivers",
+          "David Fisher"
+        ]
+      },
+      {
+        "title": "Implementing functional logic languages using multiple threads and stores.",
+        "authors": [
+          "Andrew P. Tolmach",
+          "Sergio Antoy",
+          "Marius Nita"
+        ]
+      },
+      {
+        "title": "Monadic regions.",
+        "authors": [
+          "Matthew Fluet",
+          "J. Gregory Morrisett"
+        ]
+      },
+      {
+        "title": "Translating dependency into parametricity.",
+        "authors": [
+          "Stephen Tse",
+          "Steve Zdancewic"
+        ]
+      },
+      {
+        "title": "Types for path correctness of XML queries.",
+        "authors": [
+          "Dario Colazzo",
+          "Giorgio Ghelli",
+          "Paolo Manghi",
+          "Carlo Sartiani"
+        ]
+      },
+      {
+        "title": "Types, potency, and idempotency: why nonlinearity and amnesia make a type system work.",
+        "authors": [
+          "Peter Møller Neergaard",
+          "Harry G. Mairson"
+        ]
+      },
+      {
+        "title": "Numbering matters: first-order canonical forms for second-order recursive types.",
+        "authors": [
+          "Nadji Gauthier",
+          "François Pottier"
+        ]
+      },
+      {
+        "title": "20 years of industrial functional programming.",
+        "authors": [
+          "Ulf T. Wiger"
+        ]
+      },
+      {
+        "title": "From process logic to program logic.",
+        "authors": [
+          "Kohei Honda"
+        ]
+      },
+      {
+        "title": "Verification of safety properties for concurrent assembly code.",
+        "authors": [
+          "Dachuan Yu",
+          "Zhong Shao"
+        ]
+      },
+      {
+        "title": "A sound (and complete) model of contracts.",
+        "authors": [
+          "Matthias Blume",
+          "David A. McAllester"
+        ]
+      },
+      {
+        "title": "A nanopass infrastructure for compiler education.",
+        "authors": [
+          "Dipanwita Sarkar",
+          "Oscar Waddell",
+          "R. Kent Dybvig"
+        ]
+      },
+      {
+        "title": "Functional morphology.",
+        "authors": [
+          "Markus Forsberg",
+          "Aarne Ranta"
+        ]
+      },
+      {
+        "title": "Slideshow: functional presentations.",
+        "authors": [
+          "Robert Bruce Findler",
+          "Matthew Flatt"
+        ]
+      },
+      {
+        "title": "Generics for the masses.",
+        "authors": [
+          "Ralf Hinze"
+        ]
+      },
+      {
+        "title": "Scrap more boilerplate: reflection, zips, and generalised casts.",
+        "authors": [
+          "Ralf Lämmel",
+          "Simon L. Peyton Jones"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/merlin2003.html": {
+    "header": "MERLIN (ICFP 2003 Workshop): Uppsala, Sweden",
+    "year": "2003",
+    "papers": [
+      {
+        "title": "A definitional approach to primitivexs recursion over higher order abstract syntax.",
+        "authors": [
+          "S. J. Ambler",
+          "Roy L. Crole",
+          "Alberto Momigliano"
+        ]
+      },
+      {
+        "title": "Mechanising Hankin and Barendregt using the Gordon-Melham axioms.",
+        "authors": [
+          "Michael Norrish"
+        ]
+      },
+      {
+        "title": "A formalization of an Ordered Logical Framework in Hybrid with applications to continuation machines.",
+        "authors": [
+          "Alberto Momigliano",
+          "Jeff Polakow"
+        ]
+      },
+      {
+        "title": "Reasoning on an imperative object-based calculus in Higher Order Abstract Syntax.",
+        "authors": [
+          "Alberto Ciaffaglione",
+          "Luigi Liquori",
+          "Marino Miculan"
+        ]
+      },
+      {
+        "title": "Reasoning about recursive procedures with parameters.",
+        "authors": [
+          "Ralph-Johan Back",
+          "Viorel Preoteasa"
+        ]
+      },
+      {
+        "title": "Compiler implementation in a formal logical framework.",
+        "authors": [
+          "Jason Hickey",
+          "Aleksey Nogin",
+          "Adam Granicz"
+        ]
+      },
+      {
+        "title": "Verifying CPS transformations in Isabelle/HOL.",
+        "authors": [
+          "Yasuhiko Minamide",
+          "Koji Okuma"
+        ]
+      },
+      {
+        "title": "A unified category theoretic approach to variable binding.",
+        "authors": [
+          "John Power"
+        ]
+      },
+      {
+        "title": "Representing reductions of NP-complete problems in logical frameworks: a case study.",
+        "authors": [
+          "Carsten Schürmann",
+          "Jatin Shah"
+        ]
+      },
+      {
+        "title": "Explicit substitutions and higher-order syntax.",
+        "authors": [
+          "Neil Ghani",
+          "Tarmo Uustalu"
+        ]
+      },
+      {
+        "title": "A modal foundation for meta-variables.",
+        "authors": [
+          "Aleksandar Nanevski",
+          "Brigitte Pientka",
+          "Frank Pfenning"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2003.html": {
+    "header": "8th ICFP 2003: Uppsala, Sweden",
+    "year": "2003",
+    "papers": [
+      {
+        "title": "Conservation of information: applications in functional, reversible, and quantum computing.",
+        "authors": [
+          "Thomas Knight Jr."
+        ]
+      },
+      {
+        "title": "Scripting the type inference process.",
+        "authors": [
+          "Bastiaan Heeren",
+          "Jurriaan Hage",
+          "S. Doaitse Swierstra"
+        ]
+      },
+      {
+        "title": "Discriminative sum types locate the source of type errors.",
+        "authors": [
+          "Matthias Neubauer",
+          "Peter Thiemann"
+        ]
+      },
+      {
+        "title": "MLF: raising ML to the power of system F.",
+        "authors": [
+          "Didier Le Botlan",
+          "Didier Rémy"
+        ]
+      },
+      {
+        "title": "An extension of HM(X) with bounded existential and universal data-types.",
+        "authors": [
+          "Vincent Simonet"
+        ]
+      },
+      {
+        "title": "CDuce: an XML-centric general-purpose language.",
+        "authors": [
+          "Véronique Benzaken",
+          "Giuseppe Castagna",
+          "Alain Frisch"
+        ]
+      },
+      {
+        "title": "Compiling regular patterns.",
+        "authors": [
+          "Michael Y. Levin"
+        ]
+      },
+      {
+        "title": "Software is discrete mathematics.",
+        "authors": [
+          "Rex L. Page"
+        ]
+      },
+      {
+        "title": "Global abstraction-safe marshalling with hash types.",
+        "authors": [
+          "James J. Leifer",
+          "Gilles Peskine",
+          "Peter Sewell",
+          "Keith Wansbrough"
+        ]
+      },
+      {
+        "title": "Dynamic rebinding for marshalling and update, with destruct-time?",
+        "authors": [
+          "Gavin M. Bierman",
+          "Michael W. Hicks",
+          "Peter Sewell",
+          "Gareth Paul Stoyle",
+          "Keith Wansbrough"
+        ]
+      },
+      {
+        "title": "Iterative-free program analysis.",
+        "authors": [
+          "Mizuhito Ogawa",
+          "Zhenjiang Hu",
+          "Isao Sasano"
+        ]
+      },
+      {
+        "title": "From Hilbert space to Dilbert space: context semantics as a language for games and flow analysis.",
+        "authors": [
+          "Harry G. Mairson"
+        ]
+      },
+      {
+        "title": "A theory of aspects.",
+        "authors": [
+          "David Walker",
+          "Steve Zdancewic",
+          "Jay Ligatti"
+        ]
+      },
+      {
+        "title": "Dependency-style generic Haskell.",
+        "authors": [
+          "Andres Löh",
+          "Dave Clarke",
+          "Johan Jeuring"
+        ]
+      },
+      {
+        "title": "Functional automatic differentiation with dirac impulses.",
+        "authors": [
+          "Henrik Nilsson"
+        ]
+      },
+      {
+        "title": "A user-centred approach to functions in Excel.",
+        "authors": [
+          "Simon L. Peyton Jones",
+          "Alan F. Blackwell",
+          "Margaret M. Burnett"
+        ]
+      },
+      {
+        "title": "A sound and complete axiomatization of delimited continuations.",
+        "authors": [
+          "Yukiyoshi Kameyama",
+          "Masahito Hasegawa"
+        ]
+      },
+      {
+        "title": "Call-by-value is dual to call-by-name.",
+        "authors": [
+          "Philip Wadler"
+        ]
+      },
+      {
+        "title": "Disjunctive normal forms and local exceptions.",
+        "authors": [
+          "Emmanuel Beffara",
+          "Vincent Danos"
+        ]
+      },
+      {
+        "title": "An effective theory of type refinements.",
+        "authors": [
+          "Yitzhak Mandelbaum",
+          "David Walker",
+          "Robert Harper"
+        ]
+      },
+      {
+        "title": "A static type system for JVM access control.",
+        "authors": [
+          "Tomoyuki Higuchi",
+          "Atsushi Ohori"
+        ]
+      },
+      {
+        "title": "Polish parsers, step by step.",
+        "authors": [
+          "R. John M. Hughes",
+          "S. Doaitse Swierstra"
+        ]
+      },
+      {
+        "title": "Boxes go bananas: encoding higher-order abstract syntax with parametric polymorphism.",
+        "authors": [
+          "Geoffrey Washburn",
+          "Stephanie Weirich"
+        ]
+      },
+      {
+        "title": "FreshML: programming with binders made simple.",
+        "authors": [
+          "Mark R. Shinwell",
+          "Andrew M. Pitts",
+          "Murdoch Gabbay"
+        ]
+      },
+      {
+        "title": "Meta-programming through typeful code representation.",
+        "authors": [
+          "Chiyan Chen",
+          "Hongwei Xi"
+        ]
+      },
+      {
+        "title": "Optimistic evaluation: an adaptive evaluation strategy for non-strict programs.",
+        "authors": [
+          "Robert Ennals",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "Understanding aspects: extended abstract.",
+        "authors": [
+          "Mitchell Wand"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2002.html": {
+    "header": "7th ICFP 2002: Pittsburgh, Pennsylvania, USA",
+    "year": "2002",
+    "papers": [
+      {
+        "title": "Towards more natural functional programming languages.",
+        "authors": [
+          "Brad A. Myers"
+        ]
+      },
+      {
+        "title": "Bootstrapping one-sided flexible arrays.",
+        "authors": [
+          "Ralf Hinze"
+        ]
+      },
+      {
+        "title": "Concatenate, reverse and map vanish for free.",
+        "authors": [
+          "Janis Voigtländer"
+        ]
+      },
+      {
+        "title": "Monads for incremental computing.",
+        "authors": [
+          "Magnus Carlsson"
+        ]
+      },
+      {
+        "title": "Packrat parsing: : simple, powerful, lazy, linear time, functional pearl.",
+        "authors": [
+          "Bryan Ford"
+        ]
+      },
+      {
+        "title": "Contracts for higher-order functions.",
+        "authors": [
+          "Robert Bruce Findler",
+          "Matthias Felleisen"
+        ]
+      },
+      {
+        "title": "An interoperable calculus for external object access.",
+        "authors": [
+          "Atsushi Ohori",
+          "Kiyoshi Yamatodani"
+        ]
+      },
+      {
+        "title": "Composable and compilable macros: : you want it when?",
+        "authors": [
+          "Matthew Flatt"
+        ]
+      },
+      {
+        "title": "A demand-driven adaptive type analysis.",
+        "authors": [
+          "Danny Dubé",
+          "Marc Feeley"
+        ]
+      },
+      {
+        "title": "Exception analysis for non-strict languages.",
+        "authors": [
+          "Kevin Glynn",
+          "Peter J. Stuckey",
+          "Martin Sulzmann",
+          "Harald Søndergaard"
+        ]
+      },
+      {
+        "title": "Modular typechecking for hierarchically extensible datatypes and functions.",
+        "authors": [
+          "Todd D. Millstein",
+          "Colin Bleckner",
+          "Craig Chambers"
+        ]
+      },
+      {
+        "title": "Functional formal methods.",
+        "authors": [
+          "J Strother Moore"
+        ]
+      },
+      {
+        "title": "Shortcut fusion for accumulating parameters & zip-like functions.",
+        "authors": [
+          "Josef Svenningsson"
+        ]
+      },
+      {
+        "title": "Composing monads using coproducts.",
+        "authors": [
+          "Christoph Lüth",
+          "Neil Ghani"
+        ]
+      },
+      {
+        "title": "Interactive visual functional programming.",
+        "authors": [
+          "Keith Hanna"
+        ]
+      },
+      {
+        "title": "Typing dynamic typing.",
+        "authors": [
+          "Arthur I. Baars",
+          "S. Doaitse Swierstra"
+        ]
+      },
+      {
+        "title": "A theory of overloading.",
+        "authors": [
+          "Peter J. Stuckey",
+          "Martin Sulzmann"
+        ]
+      },
+      {
+        "title": "Type classes with more higher-order polymorphism.",
+        "authors": [
+          "Matthias Neubauer",
+          "Peter Thiemann"
+        ]
+      },
+      {
+        "title": "An expressive, scalable type theory for certified code.",
+        "authors": [
+          "Karl Crary",
+          "Joseph Vanderwaart"
+        ]
+      },
+      {
+        "title": "Meta-programming with names and necessity.",
+        "authors": [
+          "Aleksandar Nanevski"
+        ]
+      },
+      {
+        "title": "Tagless staged interpreters for typed languages.",
+        "authors": [
+          "Emir Pasalic",
+          "Walid Taha",
+          "Tim Sheard"
+        ]
+      },
+      {
+        "title": "There and back again.",
+        "authors": [
+          "Olivier Danvy",
+          "Mayer Goldberg"
+        ]
+      },
+      {
+        "title": "A compiled implementation of strong reduction.",
+        "authors": [
+          "Benjamin Grégoire",
+          "Xavier Leroy"
+        ]
+      },
+      {
+        "title": "An experimental study of renewal-older-first garbage collection.",
+        "authors": [
+          "Lars Thomas Hansen",
+          "William D. Clinger"
+        ]
+      },
+      {
+        "title": "Compiling scheme to JVM bytecode: : a performance study.",
+        "authors": [
+          "Bernard P. Serpette",
+          "Manuel Serrano"
+        ]
+      },
+      {
+        "title": "Final shift for call/cc: : direct implementation of shift and reset.",
+        "authors": [
+          "Martin Gasbichler",
+          "Michael Sperber"
+        ]
+      },
+      {
+        "title": "Program generation, termination, and binding-time analysis.",
+        "authors": [
+          "Neil D. Jones",
+          "Arne J. Glenstrup"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2001.html": {
+    "header": "6th ICFP 2001: Firenze (Florence), Italy",
+    "year": "2001",
+    "papers": [
+      {
+        "title": "A Fresh Approach to Representing Syntax with Static Binders in Functional Programming.",
+        "authors": [
+          "Andrew M. Pitts"
+        ]
+      },
+      {
+        "title": "Contification Using Dominators.",
+        "authors": [
+          "Matthew Fluet",
+          "Stephen Weeks"
+        ]
+      },
+      {
+        "title": "Functioning without Closure: Type-Safe Customized Function Representations for Standard ML.",
+        "authors": [
+          "Allyn Dimock",
+          "Ian Westmacott",
+          "Robert Muller",
+          "Franklyn A. Turbak",
+          "J. B. Wells"
+        ]
+      },
+      {
+        "title": "Optimizing Pattern Matching.",
+        "authors": [
+          "Fabrice Le Fessant",
+          "Luc Maranget"
+        ]
+      },
+      {
+        "title": "Down with Emacs Lisp: Dynamic Scope Analysis.",
+        "authors": [
+          "Matthias Neubauer",
+          "Michael Sperber"
+        ]
+      },
+      {
+        "title": "Recursive Structures for Standard ML.",
+        "authors": [
+          "Claudio V. Russo"
+        ]
+      },
+      {
+        "title": "Type-Based Hot Swapping of Running Modules.",
+        "authors": [
+          "Dominic Duggan"
+        ]
+      },
+      {
+        "title": "Macros as Multi-Stage Computations: Type-Safe, Generative, Binding Macros in MacroML.",
+        "authors": [
+          "Steven E. Ganz",
+          "Amr Sabry",
+          "Walid Taha"
+        ]
+      },
+      {
+        "title": "Generic Unification via Two-Level Types and Parameterized Modules.",
+        "authors": [
+          "Tim Sheard"
+        ]
+      },
+      {
+        "title": "Generic Validation of Structural Content with Parametric Modules.",
+        "authors": [
+          "Tyng-Ruey Chuang"
+        ]
+      },
+      {
+        "title": "A Simple Implementation Technique for Priority Search Queues.",
+        "authors": [
+          "Ralf Hinze"
+        ]
+      },
+      {
+        "title": "Developing a Stage Lighting System from Scratch.",
+        "authors": [
+          "Michael Sperber"
+        ]
+      },
+      {
+        "title": "Charting Patterns on Price History.",
+        "authors": [
+          "Saswat Anand",
+          "Wei-Ngan Chin",
+          "Siau-Cheng Khoo"
+        ]
+      },
+      {
+        "title": "Real-Time FRP.",
+        "authors": [
+          "Zhanyong Wan",
+          "Walid Taha",
+          "Paul Hudak"
+        ]
+      },
+      {
+        "title": "Events in Haskell, and How to Implement Them.",
+        "authors": [
+          "George Russell"
+        ]
+      },
+      {
+        "title": "A Dependently Typed Assembly Language.",
+        "authors": [
+          "Hongwei Xi",
+          "Robert Harper"
+        ]
+      },
+      {
+        "title": "On Regions and Linear Types.",
+        "authors": [
+          "David Walker",
+          "Kevin Watkins"
+        ]
+      },
+      {
+        "title": "Compositional Explanation of Types and Algorithmic Debugging of Type Errors.",
+        "authors": [
+          "Olaf Chitil"
+        ]
+      },
+      {
+        "title": "Functional Array Fusion.",
+        "authors": [
+          "Manuel M. T. Chakravarty",
+          "Gabriele Keller"
+        ]
+      },
+      {
+        "title": "Automatic Generation of Staged Geometric Predicates.",
+        "authors": [
+          "Aleksandar Nanevski",
+          "Guy E. Blelloch",
+          "Robert Harper"
+        ]
+      },
+      {
+        "title": "A New Notation for Arrows.",
+        "authors": [
+          "Ross Paterson"
+        ]
+      },
+      {
+        "title": "Extensible Algebraic Datatypes with Defaults.",
+        "authors": [
+          "Matthias Zenger",
+          "Martin Odersky"
+        ]
+      },
+      {
+        "title": "Cost Recurrences for DML Programs.",
+        "authors": [
+          "Bernd Grobauer"
+        ]
+      },
+      {
+        "title": "Possibilities and Limitations of Call-by-Need Space Improvement.",
+        "authors": [
+          "Jörgen Gustavsson",
+          "David Sands"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp2000.html": {
+    "header": "5th ICFP 2000: Montreal, Canada",
+    "year": "2000",
+    "papers": [
+      {
+        "title": "The functional guts of the Kleisli query system.",
+        "authors": [
+          "Limsoon Wong"
+        ]
+      },
+      {
+        "title": "Regular expression types for XML.",
+        "authors": [
+          "Haruo Hosoya",
+          "Jerome Vouillon",
+          "Benjamin C. Pierce"
+        ]
+      },
+      {
+        "title": "The influence of browsers on evaluators or, continuations to program web servers.",
+        "authors": [
+          "Christian Queinnec"
+        ]
+      },
+      {
+        "title": "Static enforcement of security with types.",
+        "authors": [
+          "Christian Skalka",
+          "Scott F. Smith"
+        ]
+      },
+      {
+        "title": "Information flow inference for free.",
+        "authors": [
+          "François Pottier",
+          "Sylvain Conchon"
+        ]
+      },
+      {
+        "title": "Type-safe cast: functional pearl.",
+        "authors": [
+          "Stephanie Weirich"
+        ]
+      },
+      {
+        "title": "Typed compilation of inclusive subtyping.",
+        "authors": [
+          "Karl Crary"
+        ]
+      },
+      {
+        "title": "Fully reflexive intensional type analysis.",
+        "authors": [
+          "Valery Trifonov",
+          "Bratin Saha",
+          "Zhong Shao"
+        ]
+      },
+      {
+        "title": "More types for nested data parallel programming.",
+        "authors": [
+          "Manuel M. T. Chakravarty",
+          "Gabriele Keller"
+        ]
+      },
+      {
+        "title": "FranTk - a declarative GUI language for Haskell.",
+        "authors": [
+          "Meurig Sage"
+        ]
+      },
+      {
+        "title": "Functional programming in C++.",
+        "authors": [
+          "Brian McNamara",
+          "Yannis Smaragdakis"
+        ]
+      },
+      {
+        "title": "Advanced module systems: a guide for the perplexed (abstract of invited talk).",
+        "authors": [
+          "Robert Harper",
+          "Benjamin C. Pierce"
+        ]
+      },
+      {
+        "title": "Breadth-first numbering: lessons from a small exercise in algorithm design.",
+        "authors": [
+          "Chris Okasaki"
+        ]
+      },
+      {
+        "title": "Make it practical: a generic linear-time algorithm for solving maximum-weightsum problems.",
+        "authors": [
+          "Isao Sasano",
+          "Zhenjiang Hu",
+          "Masato Takeichi",
+          "Mizuhito Ogawa"
+        ]
+      },
+      {
+        "title": "Cheap eagerness: speculative evaluation in a lazy functional language.",
+        "authors": [
+          "Karl-Filip Faxén"
+        ]
+      },
+      {
+        "title": "An operational semantics for parallel lazy evaluation.",
+        "authors": [
+          "Clement A. Baker-Finch",
+          "David J. King",
+          "Philip W. Trinder"
+        ]
+      },
+      {
+        "title": "Recursive monadic bindings.",
+        "authors": [
+          "Levent Erkök",
+          "John Launchbury"
+        ]
+      },
+      {
+        "title": "Deriving backtracking monad transformers.",
+        "authors": [
+          "Ralf Hinze"
+        ]
+      },
+      {
+        "title": "Intersection types and computational effects.",
+        "authors": [
+          "Rowan Davies",
+          "Frank Pfenning"
+        ]
+      },
+      {
+        "title": "Syntactic accidents in program analysis: on the impact of the CPS transformation.",
+        "authors": [
+          "Daniel Damian",
+          "Olivier Danvy"
+        ]
+      },
+      {
+        "title": "Recursive subtyping revealed: functional pearl.",
+        "authors": [
+          "Vladimir Gapeyev",
+          "Michael Y. Levin",
+          "Benjamin C. Pierce"
+        ]
+      },
+      {
+        "title": "The duality of computation.",
+        "authors": [
+          "Pierre-Louis Curien",
+          "Hugo Herbelin"
+        ]
+      },
+      {
+        "title": "Combining functional programming and hardware verification (abstract of invited talk).",
+        "authors": [
+          "Carl-Johan H. Seger"
+        ]
+      },
+      {
+        "title": "Understanding memory allocation of scheme programs.",
+        "authors": [
+          "Manuel Serrano",
+          "Hans-Juergen Boehm"
+        ]
+      },
+      {
+        "title": "Non-stop Haskell.",
+        "authors": [
+          "Andrew M. Cheadle",
+          "A. J. Field",
+          "Simon Marlow",
+          "Simon L. Peyton Jones",
+          "Ronald Lyndon While"
+        ]
+      },
+      {
+        "title": "QuickCheck: a lightweight tool for random testing of Haskell programs.",
+        "authors": [
+          "Koen Claessen",
+          "John Hughes"
+        ]
+      },
+      {
+        "title": "Composing contracts: an adventure in financial engineering, functional pearl.",
+        "authors": [
+          "Simon L. Peyton Jones",
+          "Jean-Marc Eber",
+          "Julian Seward"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp99.html": {
+    "header": "4th ICFP 1999: Paris, France",
+    "year": "1999",
+    "papers": [
+      {
+        "title": "When is a Functional Program Not a Functional Program?",
+        "authors": [
+          "John Longley"
+        ]
+      },
+      {
+        "title": "Monadic Encapsulation in ML.",
+        "authors": [
+          "Miley Semmelroth",
+          "Amr Sabry"
+        ]
+      },
+      {
+        "title": "Trampolined Style.",
+        "authors": [
+          "Steven E. Ganz",
+          "Daniel P. Friedman",
+          "Mitchell Wand"
+        ]
+      },
+      {
+        "title": "From Fast Exponentiation to Square Matrices: An Adventure in Types.",
+        "authors": [
+          "Chris Okasaki"
+        ]
+      },
+      {
+        "title": "Tracing Piece by Piece: Affordable Debugging for Lazy Functional Languages.",
+        "authors": [
+          "Henrik Nilsson"
+        ]
+      },
+      {
+        "title": "Atomic Heap Transactions and Fine-grain Interrupts.",
+        "authors": [
+          "Olin Shivers",
+          "James W. Clark",
+          "Roland McGrath"
+        ]
+      },
+      {
+        "title": "On Embedding a Microarchitectural Design Language within Haskell.",
+        "authors": [
+          "John Launchbury",
+          "Jeffrey R. Lewis",
+          "Byron Cook"
+        ]
+      },
+      {
+        "title": "Recursion and Dynamic Data-structures in Bounded Space: Towards Embedded ML Programming.",
+        "authors": [
+          "John Hughes",
+          "Lars Pareto"
+        ]
+      },
+      {
+        "title": "A Simple Proof Technique for Certain Parametricity Results.",
+        "authors": [
+          "Karl Crary"
+        ]
+      },
+      {
+        "title": "Relating Typability and Expressiveness in Finite-Rank Intersection Type Systems (Extended Abstract).",
+        "authors": [
+          "Assaf J. Kfoury",
+          "Harry G. Mairson",
+          "Franklyn A. Turbak",
+          "J. B. Wells"
+        ]
+      },
+      {
+        "title": "Type Fixpoints: Iteration vs. Recursion.",
+        "authors": [
+          "Zdzislaw Splawski",
+          "Pawel Urzyczyn"
+        ]
+      },
+      {
+        "title": "Calling Hell From Heaven and Heaven From Hell.",
+        "authors": [
+          "Sigbjørn Finne",
+          "Daan Leijen",
+          "Erik Meijer",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "Interlanguage Working Without Tears: Blending SML with Java.",
+        "authors": [
+          "Nick Benton",
+          "Andrew Kennedy"
+        ]
+      },
+      {
+        "title": "Programming Languages as Operating Systems (or Revenge of the Son of the Lisp Machine).",
+        "authors": [
+          "Matthew Flatt",
+          "Robert Bruce Findler",
+          "Shriram Krishnamurthi",
+          "Matthias Felleisen"
+        ]
+      },
+      {
+        "title": "Haskell and XML: Generic Combinators or Type-Based Translation?",
+        "authors": [
+          "Malcolm Wallace",
+          "Colin Runciman"
+        ]
+      },
+      {
+        "title": "Type Inference with Rank 1 Polymorphism for Type-Directed Compilation of ML.",
+        "authors": [
+          "Atsushi Ohori",
+          "Nobuaki Yoshida"
+        ]
+      },
+      {
+        "title": "Type Dispatch for Named Hierarchical Types.",
+        "authors": [
+          "Neal Glew"
+        ]
+      },
+      {
+        "title": "Representing Java Classes in a Typed Intermediate Language.",
+        "authors": [
+          "Christopher League",
+          "Zhong Shao",
+          "Valery Trifonov"
+        ]
+      },
+      {
+        "title": "Principals in Programming Languages: A Syntactic Proof Technique.",
+        "authors": [
+          "Steve Zdancewic",
+          "Dan Grossman",
+          "J. Gregory Morrisett"
+        ]
+      },
+      {
+        "title": "Static Interpretation of Modules.",
+        "authors": [
+          "Martin Elsman"
+        ]
+      },
+      {
+        "title": "Transparent Modules with Fully Syntactic Signatures.",
+        "authors": [
+          "Zhong Shao"
+        ]
+      },
+      {
+        "title": "Flexible Type Analysis.",
+        "authors": [
+          "Karl Crary",
+          "Stephanie Weirich"
+        ]
+      },
+      {
+        "title": "Type Inference Builds a Short Cut to Deforestation.",
+        "authors": [
+          "Olaf Chitil"
+        ]
+      },
+      {
+        "title": "Verification of Erlang Programs using Abstract Interpretation and Model Mhecking.",
+        "authors": [
+          "Frank Huch"
+        ]
+      },
+      {
+        "title": "Specialization of Inductively Sequential Functional Logic Programs.",
+        "authors": [
+          "María Alpuente",
+          "Michael Hanus",
+          "Salvador Lucas",
+          "Germán Vidal"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp98.html": {
+    "header": "3rd ICFP 1998: Baltimore, Maryland, USA",
+    "year": "1998",
+    "papers": [
+      {
+        "title": "On the Runtime Complexity of Type-Directed Unboxing.",
+        "authors": [
+          "Yasuhiko Minamide",
+          "Jacques Garrigue"
+        ]
+      },
+      {
+        "title": "Building Program Optimizers with Rewriting Strategies.",
+        "authors": [
+          "Eelco Visser",
+          "Zine-El-Abidine Benaissa",
+          "Andrew P. Tolmach"
+        ]
+      },
+      {
+        "title": "Higher-Order Arity Raising.",
+        "authors": [
+          "John Hannan",
+          "Patrick Hicks"
+        ]
+      },
+      {
+        "title": "A Type Based Sharing Analysis for Update Avoidance and Optimisation.",
+        "authors": [
+          "Jörgen Gustavsson"
+        ]
+      },
+      {
+        "title": "Taming Effects with Monadic Typing.",
+        "authors": [
+          "Richard B. Kieburtz"
+        ]
+      },
+      {
+        "title": "The Marriage of Effects and Monads.",
+        "authors": [
+          "Philip Wadler"
+        ]
+      },
+      {
+        "title": "A Theory of Core Fudgets.",
+        "authors": [
+          "Colin J. Taylor"
+        ]
+      },
+      {
+        "title": "PLAN: A Packet Language for Active Networks.",
+        "authors": [
+          "Michael W. Hicks",
+          "Pankaj Kakkar",
+          "Jonathan T. Moore",
+          "Carl A. Gunter",
+          "Scott Nettles"
+        ]
+      },
+      {
+        "title": "Modular Object-Oriented Programming with Units and Mixins.",
+        "authors": [
+          "Robert Bruce Findler",
+          "Matthew Flatt"
+        ]
+      },
+      {
+        "title": "Programming with Variable Functions.",
+        "authors": [
+          "Martin Odersky"
+        ]
+      },
+      {
+        "title": "YALE: Yet Another Lambda Evaluator Based on Interaction Nets.",
+        "authors": [
+          "Ian Mackie"
+        ]
+      },
+      {
+        "title": "Compiling Standard ML to Java Bytecodes.",
+        "authors": [
+          "Nick Benton",
+          "Andrew Kennedy",
+          "George Russell"
+        ]
+      },
+      {
+        "title": "Typed Cross-Module Compilation.",
+        "authors": [
+          "Zhong Shao"
+        ]
+      },
+      {
+        "title": "H/Direct: A Binary Foreign Language Interface for Haskell.",
+        "authors": [
+          "Sigbjørn Finne",
+          "Daan Leijen",
+          "Erik Meijer",
+          "Simon L. Peyton Jones"
+        ]
+      },
+      {
+        "title": "The Spineless Tagless G-machine, naturally.",
+        "authors": [
+          "Jon Mountjoy"
+        ]
+      },
+      {
+        "title": "Lava: Hardware Design in Haskell.",
+        "authors": [
+          "Per Bjesse",
+          "Koen Claessen",
+          "Mary Sheeran",
+          "Satnam Singh"
+        ]
+      },
+      {
+        "title": "Lazy Computation with Exact Real Numbers.",
+        "authors": [
+          "Abbas Edalat",
+          "Peter John Potts",
+          "Philipp Sünderhauf"
+        ]
+      },
+      {
+        "title": "Functional Differentiation of Computer Programs.",
+        "authors": [
+          "Jerzy Karczmarczuk"
+        ]
+      },
+      {
+        "title": "A Distributed Garbage Collector with Diffusion Tree Reorganisation and Mobile Objects.",
+        "authors": [
+          "Luc Moreau"
+        ]
+      },
+      {
+        "title": "Pragmatic Subtyping in Polymorphic Languages.",
+        "authors": [
+          "Johan Nordlander"
+        ]
+      },
+      {
+        "title": "A Framework for Type Inference with Subtyping.",
+        "authors": [
+          "François Pottier"
+        ]
+      },
+      {
+        "title": "Cayenne - a Language with Dependent Types.",
+        "authors": [
+          "Lennart Augustsson"
+        ]
+      },
+      {
+        "title": "Recycling Continuations.",
+        "authors": [
+          "Jonathan Sobel",
+          "Daniel P. Friedman"
+        ]
+      },
+      {
+        "title": "Imperative Streams - A Monadic Combinator Library for Synchronous Programming.",
+        "authors": [
+          "Enno Scholz"
+        ]
+      },
+      {
+        "title": "The Under-Appreciated Unfold.",
+        "authors": [
+          "Jeremy Gibbons",
+          "Geraint Jones"
+        ]
+      },
+      {
+        "title": "Fold and Unfold for Program Semantics.",
+        "authors": [
+          "Graham Hutton"
+        ]
+      },
+      {
+        "title": "Encoding Types in ML-Like Languages.",
+        "authors": [
+          "Zhe Yang"
+        ]
+      },
+      {
+        "title": "Intensional Polymorphism in Type-Erasure Semantics.",
+        "authors": [
+          "Karl Crary",
+          "Stephanie Weirich",
+          "J. Gregory Morrisett"
+        ]
+      },
+      {
+        "title": "Implementing Typed Intermediate Languages.",
+        "authors": [
+          "Zhong Shao",
+          "Christopher League",
+          "Stefan Monnier"
+        ]
+      },
+      {
+        "title": "A Non-Deterministic Call-by-Need Lambda Calculus.",
+        "authors": [
+          "Arne Kutzner",
+          "Manfred Schmidt-Schauß"
+        ]
+      },
+      {
+        "title": "LAND*: an AND with local bindings, a guarded LET* special form.",
+        "authors": [
+          "Oleg Kiselyov"
+        ]
+      },
+      {
+        "title": "Functional Style in C++: Closures, Late Binding, and Lambda Abstractions.",
+        "authors": [
+          "Oleg Kiselyov"
+        ]
+      },
+      {
+        "title": "Type Errors Confuse the Programmer (Poster Abstract).",
+        "authors": [
+          "Bruce J. McAdam"
+        ]
+      },
+      {
+        "title": "Controlled Temporal Non-Determinism for Reasoning with a Machine of Finite Speed.",
+        "authors": [
+          "Robert Ennals"
+        ]
+      },
+      {
+        "title": "Verbose Typing.",
+        "authors": [
+          "Robert Ennals"
+        ]
+      },
+      {
+        "title": "On Application of Self-Similar Pictures in Education.",
+        "authors": [
+          "Zoran Putnik"
+        ]
+      },
+      {
+        "title": "MAP: A Functional Analysis and Design Method.",
+        "authors": [
+          "Dan Russell"
+        ]
+      },
+      {
+        "title": "A Delegation Language to Request Weather Products and a Scheme of Its Interpretation.",
+        "authors": [
+          "Oleg Kiselyov"
+        ]
+      },
+      {
+        "title": "A Structured Approach to Retrieving Functions by Types.",
+        "authors": [
+          "Nancy An",
+          "Young Park"
+        ]
+      },
+      {
+        "title": "Frob - Functional Robotics.",
+        "authors": [
+          "Gary Shu Ling"
+        ]
+      },
+      {
+        "title": "A Functional Programming Approach to Hypermedia Authoring.",
+        "authors": [
+          "Daniel H. Marcos",
+          "Pablo E. Martínez López",
+          "Walter A. Risi"
+        ]
+      },
+      {
+        "title": "A Term Calculus for Unitary Approach to Nomalization.",
+        "authors": [
+          "Claudia Faggian"
+        ]
+      },
+      {
+        "title": "Implementing Design Patterns as Language Constructs.",
+        "authors": [
+          "Yan-David Erlich"
+        ]
+      },
+      {
+        "title": "A Lazy CGI Namespace in Scheme.",
+        "authors": [
+          "Oleg Kiselyov"
+        ]
+      },
+      {
+        "title": "Automating Derivation of Incremental Programs.",
+        "authors": [
+          "Yuchen Zhang",
+          "Yanhong A. Liu"
+        ]
+      },
+      {
+        "title": "Combining CFG and Recursive Functions to Get a New Language.",
+        "authors": [
+          "Haiming Chen"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp97.html": {
+    "header": "2nd ICFP 1997: Amsterdam, The Netherlands",
+    "year": "1997",
+    "papers": [
+      {
+        "title": "A Modular, Polyvariant, and Type-Based Closure Analysis.",
+        "authors": [
+          "Anindya Banerjee"
+        ]
+      },
+      {
+        "title": "Strongly Typed Flow-Directed Representation Transformations.",
+        "authors": [
+          "Allyn Dimock",
+          "Robert Muller",
+          "Franklyn A. Turbak",
+          "J. B. Wells"
+        ]
+      },
+      {
+        "title": "Type-Driven Defunctionalization.",
+        "authors": [
+          "Jeffrey M. Bell",
+          "Françoise Bellegarde",
+          "James Hook"
+        ]
+      },
+      {
+        "title": "Systematic Realisation of Control Flow Analyses for CML.",
+        "authors": [
+          "Kirsten Lackner Solberg Gasser",
+          "Flemming Nielson",
+          "Hanne Riis Nielson"
+        ]
+      },
+      {
+        "title": "Functional Programming with Graphs.",
+        "authors": [
+          "Martin Erwig"
+        ]
+      },
+      {
+        "title": "Catenable Double-Ended Queues.",
+        "authors": [
+          "Chris Okasaki"
+        ]
+      },
+      {
+        "title": "Statically Checkable Pattern Abstractions.",
+        "authors": [
+          "Manuel Fähndrich",
+          "John Boyland"
+        ]
+      },
+      {
+        "title": "Flexible Representation Analysis.",
+        "authors": [
+          "Zhong Shao"
+        ]
+      },
+      {
+        "title": "The Effectiveness of Flow Analysis for Inlining.",
+        "authors": [
+          "J. Michael Ashley"
+        ]
+      },
+      {
+        "title": "Lambda-Splitting: A Higher-Order Approach to Cross-Module Optimizations.",
+        "authors": [
+          "Matthias Blume",
+          "Andrew W. Appel"
+        ]
+      },
+      {
+        "title": "Foundations for the Implementation of Higher-Order Subtyping.",
+        "authors": [
+          "Karl Crary"
+        ]
+      },
+      {
+        "title": "A Practical Subtyping System For Erlang.",
+        "authors": [
+          "Simon Marlow",
+          "Philip Wadler"
+        ]
+      },
+      {
+        "title": "On the Complexity of Set-Based Analysis.",
+        "authors": [
+          "Nevin Heintze",
+          "David A. McAllester"
+        ]
+      },
+      {
+        "title": "Tupling Calculation Eliminates Multiple Data Traversals.",
+        "authors": [
+          "Zhenjiang Hu",
+          "Hideya Iwasaki",
+          "Masato Takeichi",
+          "Akihiko Takano"
+        ]
+      },
+      {
+        "title": "A Bounds Inference Method for Vector-Based Memoisation.",
+        "authors": [
+          "Wei-Ngan Chin",
+          "Masami Hagiya"
+        ]
+      },
+      {
+        "title": "on Global Dynamics of Optimal Graph Reduction.",
+        "authors": [
+          "Julia L. Lawall",
+          "Harry G. Mairson"
+        ]
+      },
+      {
+        "title": "The Development of Erlang.",
+        "authors": [
+          "Joe L. Armstrong"
+        ]
+      },
+      {
+        "title": "Type Specialization for Imperative Languages.",
+        "authors": [
+          "Dirk Dussart",
+          "John Hughes",
+          "Peter Thiemann"
+        ]
+      },
+      {
+        "title": "Compositional References for Stateful Functional Programming.",
+        "authors": [
+          "Koji Kagawa"
+        ]
+      },
+      {
+        "title": "Monadic State: Axiomatization and Type Safety.",
+        "authors": [
+          "John Launchbury",
+          "Amr Sabry"
+        ]
+      },
+      {
+        "title": "Implementing Bit-addressing with Specialization.",
+        "authors": [
+          "Scott Draves"
+        ]
+      },
+      {
+        "title": "Structuring Graphical Paradigms in TkGofer.",
+        "authors": [
+          "Koen Claessen",
+          "Ton Vullinghs",
+          "Erik Meijer"
+        ]
+      },
+      {
+        "title": "Functional Reactive Animation.",
+        "authors": [
+          "Conal Elliott",
+          "Paul Hudak"
+        ]
+      },
+      {
+        "title": "Automatic Management of Operating System Resources.",
+        "authors": [
+          "Olin Shivers"
+        ]
+      },
+      {
+        "title": "Formal Models of Distributed Memory Management.",
+        "authors": [
+          "Cristian Ungureanu",
+          "Benjamin Goldberg"
+        ]
+      },
+      {
+        "title": "The Measured Cost of Copying Garbage Collection Mechanisms.",
+        "authors": [
+          "Michael W. Hicks",
+          "Jonathan T. Moore",
+          "Scott Nettles"
+        ]
+      },
+      {
+        "title": "A GUI on Top of a Functional Language.",
+        "authors": [
+          "Kris Aerts",
+          "Karel De Vlaminck"
+        ]
+      },
+      {
+        "title": "Graphs in Compilation.",
+        "authors": [
+          "Koen Claessen"
+        ]
+      },
+      {
+        "title": "Disposable Memo Functions (Extended Abstract).",
+        "authors": [
+          "Byron Cook",
+          "John Launchbury"
+        ]
+      },
+      {
+        "title": "Affordable Dynamic Types.",
+        "authors": [
+          "Chris Dornan"
+        ]
+      },
+      {
+        "title": "Functional Programming and Attribute Grammars Deforestation.",
+        "authors": [
+          "Étienne Duris"
+        ]
+      },
+      {
+        "title": "Protien Folding meets Functional Programming.",
+        "authors": [
+          "Natalio Krasnogor",
+          "Pablo E. Martínez López",
+          "Pablo Mocciola",
+          "David A. Pelta"
+        ]
+      },
+      {
+        "title": "Modelling String Folding with G2L Grammars.",
+        "authors": [
+          "Natalio Krasnogor",
+          "Pablo E. Martínez López",
+          "Pablo Mocciola",
+          "David A. Pelta"
+        ]
+      },
+      {
+        "title": "A Functional Macro Expansion System for Optimizing Code Generation: Gaining Context-Sensitivity without Losing Confluence.",
+        "authors": [
+          "Eero Lassila"
+        ]
+      },
+      {
+        "title": "BigTypes in ML.",
+        "authors": [
+          "Bruce J. McAdam"
+        ]
+      },
+      {
+        "title": "Synthesis of Functions by Transformations and Constraints.",
+        "authors": [
+          "Cristóbal Pareja-Flores",
+          "J. Ángel Velázquez-Iturbide"
+        ]
+      },
+      {
+        "title": "Intensional Sets Using Explicit Substitutions.",
+        "authors": [
+          "Gilles Richard",
+          "Frédéric Saubion",
+          "A. Tellez-Arenas"
+        ]
+      },
+      {
+        "title": "Simple Semantic Analysis Problems for Functional Programs.",
+        "authors": [
+          "Viktor K. Sabelfeld",
+          "Andrei Sabelfeld"
+        ]
+      },
+      {
+        "title": "Distributed Programming, a Purely Functional Approach.",
+        "authors": [
+          "Eleni Spiliopoulou",
+          "Ian Holyer",
+          "Neil Davies"
+        ]
+      },
+      {
+        "title": "Multi-Stage Programming.",
+        "authors": [
+          "Walid Taha",
+          "Tim Sheard"
+        ]
+      },
+      {
+        "title": "Lambda-Flow: A Parallel Functional Synchronous Dataflow Language.",
+        "authors": [
+          "Guilhem de Wailly"
+        ]
+      },
+      {
+        "title": "Inductive Synthesis of Recursive Functional Programs (Poster Abstract).",
+        "authors": [
+          "Bjarte M. Østvold"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/icfp96.html": {
+    "header": "1st ICFP 1996: Philadelphia, Pennsylvania",
+    "year": "1996",
+    "papers": [
+      {
+        "title": "Let-floating: Moving Bindings to Give Faster Programs.",
+        "authors": [
+          "Simon L. Peyton Jones",
+          "Will Partain",
+          "André L. M. Santos"
+        ]
+      },
+      {
+        "title": "A Reflection on Call-by-Value.",
+        "authors": [
+          "Amr Sabry",
+          "Philip Wadler"
+        ]
+      },
+      {
+        "title": "Functional Back-Ends within the Lambda-Sigma Calculus.",
+        "authors": [
+          "Thérèse Hardin",
+          "Luc Maranget",
+          "Bruno Pagano"
+        ]
+      },
+      {
+        "title": "Lag, Drag, Void and Use - Heap Profiling and Space-Efficient Compilation Revisited.",
+        "authors": [
+          "Niklas Röjemo",
+          "Colin Runciman"
+        ]
+      },
+      {
+        "title": "Static and Dynamic Partitioning of Pointers as Links and Threads.",
+        "authors": [
+          "David S. Wise",
+          "Joshua Walgenbach"
+        ]
+      },
+      {
+        "title": "Storage Use Analysis and its Applications.",
+        "authors": [
+          "Manuel Serrano",
+          "Marc Feeley"
+        ]
+      },
+      {
+        "title": "The Role of Lazy Evaluation in Amortized Data Structures.",
+        "authors": [
+          "Chris Okasaki"
+        ]
+      },
+      {
+        "title": "Deriving Structural Hylomorphisms From Recursive Definitions.",
+        "authors": [
+          "Zhenjiang Hu",
+          "Hideya Iwasaki",
+          "Masato Takeichi"
+        ]
+      },
+      {
+        "title": "Analysis and Caching of Dependencies.",
+        "authors": [
+          "Martín Abadi",
+          "Butler W. Lampson",
+          "Jean-Jacques Lévy"
+        ]
+      },
+      {
+        "title": "Optimality and Inefficiency: What Isn't a Cost Model of the Lambda Calculus?",
+        "authors": [
+          "Julia L. Lawall",
+          "Harry G. Mairson"
+        ]
+      },
+      {
+        "title": "Inductive, Coinductive, and Pointed Types.",
+        "authors": [
+          "Brian T. Howard"
+        ]
+      },
+      {
+        "title": "A New Look to Pattern Matching in Abstract Data Types.",
+        "authors": [
+          "Pedro Palao-Gostanza",
+          "Ricardo Pena",
+          "Manuel Núñez"
+        ]
+      },
+      {
+        "title": "Simplifying Subtyping Constraints.",
+        "authors": [
+          "François Pottier"
+        ]
+      },
+      {
+        "title": "Complexity of Kernel Fun Subtype Checking.",
+        "authors": [
+          "Giorgio Ghelli"
+        ]
+      },
+      {
+        "title": "The Semantics of Scheme with Future.",
+        "authors": [
+          "Luc Moreau"
+        ]
+      },
+      {
+        "title": "First-Class Synchronization Barriers.",
+        "authors": [
+          "Franklyn A. Turbak"
+        ]
+      },
+      {
+        "title": "pHluid: The Design of a Parallel Functional Language Implementation on Workstations.",
+        "authors": [
+          "Cormac Flanagan",
+          "Rishiyur S. Nikhil"
+        ]
+      },
+      {
+        "title": "Cogen in Six Lines.",
+        "authors": [
+          "Peter Thiemann"
+        ]
+      },
+      {
+        "title": "A Probabilistic Approach to the Problem of Automatic Selection of Data Representations.",
+        "authors": [
+          "Tyng-Ruey Chuang",
+          "Wen-Liang Hwang"
+        ]
+      },
+      {
+        "title": "A Theory of Weak Bisimulation for Core CML.",
+        "authors": [
+          "William Ferreira",
+          "Matthew Hennessy",
+          "Alan Jeffrey"
+        ]
+      },
+      {
+        "title": "A Provable Time and Space Efficient Implementation of NESL.",
+        "authors": [
+          "Guy E. Blelloch",
+          "John Greiner"
+        ]
+      },
+      {
+        "title": "Synchronous Kahn Networks.",
+        "authors": [
+          "Paul Caspi",
+          "Marc Pouzet"
+        ]
+      },
+      {
+        "title": "Enriching the Lambda Calculus with Contexts: Toward a Theory of Incremental Program Construction.",
+        "authors": [
+          "Shinn-Der Lee",
+          "Daniel P. Friedman"
+        ]
+      },
+      {
+        "title": "Sharing Code through First-class Environments.",
+        "authors": [
+          "Christian Queinnec",
+          "David De Roure"
+        ]
+      },
+      {
+        "title": "Mixin Modules.",
+        "authors": [
+          "Dominic Duggan",
+          "Constantinos Sourelis"
+        ]
+      }
+    ]
+  }
+}

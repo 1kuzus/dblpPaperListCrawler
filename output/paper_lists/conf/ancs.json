@@ -1,0 +1,4080 @@
+{
+  "https://dblp.org/db/conf/ancs/ancs2021.html": {
+    "header": "ANCS 2021: Layfette, IN, USA",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Improving the Resilience of Fast Failover Routing: TREE (Tree Routing to Extend Edge disjoint paths).",
+        "authors": [
+          "Oliver Schweiger",
+          "Klaus-Tycho Foerster",
+          "Stefan Schmid"
+        ]
+      },
+      {
+        "title": "Macchiato: Importing Cache Side Channels to SDNs.",
+        "authors": [
+          "Amir Sabzi",
+          "Liron Schiff",
+          "Kashyap Thimmaraju",
+          "Andreas Blenk",
+          "Stefan Schmid"
+        ]
+      },
+      {
+        "title": "Shortcutting Fast Failover Routes in the Data Plane.",
+        "authors": [
+          "Apoorv Shukla",
+          "Klaus-Tycho Foerster"
+        ]
+      },
+      {
+        "title": "KickTree: A Recursive Algorithmic Scheme for Packet Classification with Bounded Worst-Case Performance.",
+        "authors": [
+          "Yao Xin",
+          "Yuxi Liu",
+          "Wenjun Li",
+          "Ruyi Yao",
+          "Yang Xu",
+          "Yi Wang"
+        ]
+      },
+      {
+        "title": "Enhancements for Hardware-based IEEE802.1CB embedded in Automotive Gateway System-on-Chip.",
+        "authors": [
+          "Angela Gonzalez Mariño",
+          "Abdoul Aziz Kane",
+          "Francesc Fons",
+          "Juan-Manuel Moreno Aróstegui"
+        ]
+      },
+      {
+        "title": "On Efficient Oblivious Wavelength Assignments for Programmable Wide-Area Topologies.",
+        "authors": [
+          "Thomas Fenz",
+          "Klaus-Tycho Foerster",
+          "Stefan Schmid"
+        ]
+      },
+      {
+        "title": "Mahjong: A Generic Framework for Network Data Plane Verification.",
+        "authors": [
+          "Yifan Li",
+          "Chengjun Jia",
+          "Xiaohe Hu",
+          "Jun Li"
+        ]
+      },
+      {
+        "title": "A Framework for Reproducible Data Plane Performance Modeling.",
+        "authors": [
+          "Dominik Scholz",
+          "Hasanin Harkous",
+          "Sebastian Gallenmüller",
+          "Henning Stubbe",
+          "Max Helm",
+          "Benedikt Jaeger",
+          "Nemanja Deric",
+          "Endri Goshi",
+          "Zikai Zhou",
+          "Wolfgang Kellerer",
+          "Georg Carle"
+        ]
+      },
+      {
+        "title": "ExRec: Experimental Framework for Reconfigurable Networks Based on Off-the-Shelf Hardware.",
+        "authors": [
+          "Johannes Zerwas",
+          "Chen Avin",
+          "Stefan Schmid",
+          "Andreas Blenk"
+        ]
+      },
+      {
+        "title": "The Cost of Stateless Network Functions in 5G.",
+        "authors": [
+          "Umakant Kulkarni",
+          "Amit Sheoran",
+          "Sonia Fahmy"
+        ]
+      },
+      {
+        "title": "No-hop: In-network Distributed Hash Tables.",
+        "authors": [
+          "Lily Hügerich",
+          "Apoorv Shukla",
+          "Georgios Smaragdakis"
+        ]
+      },
+      {
+        "title": "Invenio: Communication Affinity Computation for Low-Latency Microservices.",
+        "authors": [
+          "Amit Sheoran",
+          "Sonia Fahmy",
+          "Puneet Sharma",
+          "Navin Modi"
+        ]
+      },
+      {
+        "title": "High-Performance Match-Action Table Updates from within Programmable Software Data Planes.",
+        "authors": [
+          "Manuel Simon",
+          "Henning Stubbe",
+          "Dominik Scholz",
+          "Sebastian Gallenmüller",
+          "Georg Carle"
+        ]
+      },
+      {
+        "title": "Writing P4 compiler backend for packet processing engines.",
+        "authors": [
+          "Balachandher Sambasivam",
+          "Maheswari Subramanian",
+          "Deb Chatterjee",
+          "Mallikarjuna Gouda",
+          "Sosutha Sethuramapandian",
+          "Yogender Singh Saroha"
+        ]
+      },
+      {
+        "title": "Generic change detection (almost entirely) in the dataplane.",
+        "authors": [
+          "Gonçalo Matos",
+          "Salvatore Signorello",
+          "Fernando M. V. Ramos"
+        ]
+      },
+      {
+        "title": "Heavy Hitter Detection on Multi-Pipeline Switches.",
+        "authors": [
+          "Fábio Luciano Verdi",
+          "Marco Chiesa"
+        ]
+      },
+      {
+        "title": "Realizing Zenoh with programmable dataplanes.",
+        "authors": [
+          "Alexandre Santos",
+          "José Quevedo",
+          "Daniel Corujo"
+        ]
+      },
+      {
+        "title": "Towards a Framework for One-sided RDMA Multicast.",
+        "authors": [
+          "Xin Zhe Khooi",
+          "Cha Hwan Song",
+          "Mun Choon Chan"
+        ]
+      },
+      {
+        "title": "Kubernetes Load-balancing and related network functions using P4.",
+        "authors": [
+          "Nupur Jain",
+          "Vinoth Kumar Chandra Mohan",
+          "Anjali Singhai",
+          "Debashis Chatterjee",
+          "Dan Daly"
+        ]
+      },
+      {
+        "title": "Towards a more programmable and performance-optimized Virtual Switch: Introducing P4 programmability within OVS.",
+        "authors": [
+          "Debashis Chatterjee",
+          "Namrata Limaye"
+        ]
+      },
+      {
+        "title": "Achieving End-to-End Network Visibility with Host-INT.",
+        "authors": [
+          "Tomasz Osinski",
+          "Carmelo Cascone"
+        ]
+      },
+      {
+        "title": "Mitigation of IPv6 Router Spoofing Attacks with P4.",
+        "authors": [
+          "Moritz Mönnich",
+          "Nurefsan Sertbas Bülbül",
+          "Doganalp Ergenç",
+          "Mathias Fischer"
+        ]
+      },
+      {
+        "title": "Building an Internet Router with P4Pi.",
+        "authors": [
+          "Radostin Stoyanov",
+          "Adam Wolnikowski",
+          "Robert Soulé",
+          "Sándor Laki",
+          "Noa Zilberman"
+        ]
+      },
+      {
+        "title": "Networked Answer to \"Life, The Universe, and Everything\".",
+        "authors": [
+          "Giles Babich",
+          "Keith Bengston",
+          "Andrew Bolin",
+          "John D. Bunton",
+          "Yuqing Chen",
+          "Grant A. Hampson",
+          "David Humphrey",
+          "Guillaume Jourjon"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2019.html": {
+    "header": "ANCS 2019: Cambridge, UK",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "P4MT: Multi-Tenant Support Prototype for International P4 Testbed.",
+        "authors": [
+          "Buck Chung",
+          "Chien-Chao Tseng",
+          "Jim Hao Chen",
+          "Joe Mambretti"
+        ]
+      },
+      {
+        "title": "Multivariate Time-Series Prediction for Traffic in Large WAN Topology.",
+        "authors": [
+          "Bashir Mohammed",
+          "Nandini Krishnaswamy",
+          "Mariam Kiran"
+        ]
+      },
+      {
+        "title": "How to measure the speed of light with programmable data plane hardware?",
+        "authors": [
+          "Ralf Kundel",
+          "Fridolin Siegmund",
+          "Boris Koldehofe"
+        ]
+      },
+      {
+        "title": "A Feature-based Video Transmission Framework for Visual IoT in Fog Computing Systems.",
+        "authors": [
+          "Yuqin Wang",
+          "Jingce Xu",
+          "Wen Ji"
+        ]
+      },
+      {
+        "title": "Graph-To-P4: A P4 boilerplate code generator for parse graphs.",
+        "authors": [
+          "Eder Ollora Zaballa",
+          "Zifan Zhou"
+        ]
+      },
+      {
+        "title": "The Impact of Thread-Per-Core Architecture on Application Tail Latency.",
+        "authors": [
+          "Pekka Enberg",
+          "Ashwin Rao",
+          "Sasu Tarkoma"
+        ]
+      },
+      {
+        "title": "Asynchronous Extern Functions in Programmable Software Data Planes.",
+        "authors": [
+          "Dániel Horpácsi",
+          "Sándor Laki",
+          "Péter Vörös",
+          "Máté Tejfel",
+          "Gergely Pongrácz",
+          "László Molnár"
+        ]
+      },
+      {
+        "title": "Towards A Marketplace for Multi-domain Cloud Network Slicing: Use Cases.",
+        "authors": [
+          "Asma Islam Swapna",
+          "Raphael Vicente Rosa",
+          "Christian Esteve Rothenberg",
+          "Ilias Sakellariou",
+          "Lefteris Mamatas",
+          "Panagiotis Papadimitriou"
+        ]
+      },
+      {
+        "title": "INetCEP: In-Network Complex Event Processing for Information-Centric Networking.",
+        "authors": [
+          "Manisha Luthra",
+          "Boris Koldehofe",
+          "Jonas Höchst",
+          "Patrick Lampe",
+          "Ali Haider Rizvi",
+          "Ralf Kundel",
+          "Bernd Freisleben"
+        ]
+      },
+      {
+        "title": "Empirical Predictability Study of SDN Switches.",
+        "authors": [
+          "Amaury Van Bemten",
+          "Nemanja Deric",
+          "Amir Varasteh",
+          "Andreas Blenk",
+          "Stefan Schmid",
+          "Wolfgang Kellerer"
+        ]
+      },
+      {
+        "title": "BPFHV: Adaptive Network Paravirtualization for Continuous Cloud Provider Evolution.",
+        "authors": [
+          "Vincenzo Maffione",
+          "Giuseppe Lettieri",
+          "Luigi Rizzo"
+        ]
+      },
+      {
+        "title": "A Service-Agnostic Software Framework for Fast and Efficient in-Kernel Network Services.",
+        "authors": [
+          "Sebastiano Miano",
+          "Matteo Bertrone",
+          "Fulvio Risso",
+          "Mauricio Vásquez Bernal",
+          "Yunsong Lu",
+          "Jianwen Pi",
+          "Aasif Shaikh"
+        ]
+      },
+      {
+        "title": "Towards Understanding the Performance of P4 Programmable Hardware.",
+        "authors": [
+          "Hasanin Harkous",
+          "Michael Jarschel",
+          "Mu He",
+          "Rastin Pries",
+          "Wolfgang Kellerer"
+        ]
+      },
+      {
+        "title": "Accelerated DDoS Attacks Mitigation using Programmable Data Plane.",
+        "authors": [
+          "Mário Kuka",
+          "Kamil Vojanec",
+          "Jan Kucera",
+          "Pavel Benácek"
+        ]
+      },
+      {
+        "title": "Random Linear Network Coding on Programmable Switches.",
+        "authors": [
+          "Diogo Gonçalves",
+          "Salvatore Signorello",
+          "Fernando M. V. Ramos",
+          "Muriel Médard"
+        ]
+      },
+      {
+        "title": "TabTree: A TSS-assisted Bit-selecting Tree Scheme for Packet Classification with Balanced Rule Mapping.",
+        "authors": [
+          "Wenjun Li",
+          "Tong Yang",
+          "Yeim-Kuan Chang",
+          "Tao Li",
+          "Hui Li"
+        ]
+      },
+      {
+        "title": "Using P4 on Fixed-Pipeline and Programmable Stratum Switches.",
+        "authors": [
+          "Brian O'Connor",
+          "Tomek Madejski",
+          "Jim Wanderer",
+          "Amin Vahdat",
+          "Yi Tseng",
+          "Maximilian Pudelko",
+          "Carmelo Cascone",
+          "Abhilash Endurthi",
+          "You Wang",
+          "Alireza Ghaffarkhah",
+          "Devjit Gopalpur",
+          "Tom Everman"
+        ]
+      },
+      {
+        "title": "Cryptographic Hashing in P4 Data Planes.",
+        "authors": [
+          "Dominik Scholz",
+          "Andreas Oeldemann",
+          "Fabien Geyer",
+          "Sebastian Gallenmüller",
+          "Henning Stubbe",
+          "Thomas Wild",
+          "Andreas Herkersdorf",
+          "Georg Carle"
+        ]
+      },
+      {
+        "title": "Perfect is the Enemy of Good: Lloyd-Max Quantization for Rate Allocation in Congestion Control Plane.",
+        "authors": [
+          "Shiva Ketabi",
+          "Yashar Ganjali"
+        ]
+      },
+      {
+        "title": "Sketch-based Entropy Estimation for Network Traffic Analysis using Programmable Data Plane ASICs.",
+        "authors": [
+          "Yu-Kuen Lai",
+          "Ku-Yeh Shih",
+          "Po-Yu Huang",
+          "Ho-Ping Lee",
+          "Yu-Jau Lin",
+          "Te-Lung Liu",
+          "Jim Hao Chen"
+        ]
+      },
+      {
+        "title": "P4-NetFPGA-based network slicing solution for 5G MEC architectures.",
+        "authors": [
+          "Ruben Ricart-Sanchez",
+          "Pedro Malagón",
+          "José M. Alcaraz-Calero",
+          "Qi Wang"
+        ]
+      },
+      {
+        "title": "A Low-Cost and Energy-Efficient NoC Architecture for GPGPUs.",
+        "authors": [
+          "Xianwei Cheng",
+          "Yang Zhao",
+          "Mohammadreza Robaei",
+          "Beilei Jiang",
+          "Hui Zhao",
+          "Juan Fang"
+        ]
+      },
+      {
+        "title": "Cuckoo Counter: A Novel Framework for Accurate Per-Flow Frequency Estimation in Network Measurement.",
+        "authors": [
+          "Jiuhua Qi",
+          "Wenjun Li",
+          "Tong Yang",
+          "Dagang Li",
+          "Hui Li"
+        ]
+      },
+      {
+        "title": "The Case for Writing Network Drivers in High-Level Programming Languages.",
+        "authors": [
+          "Paul Emmerich",
+          "Sebastian Voit",
+          "Georg Carle",
+          "Simon Ellmann",
+          "Fabian Bonk",
+          "Alex Egger",
+          "Esaú García Sánchez-Torija",
+          "Thomas Günzel",
+          "Sebastian Di Luzio",
+          "Alexandru Obada",
+          "Maximilian Stadlmeier"
+        ]
+      },
+      {
+        "title": "daPIPE a Data Plane Incremental Programming Environment.",
+        "authors": [
+          "Mario Baldi"
+        ]
+      },
+      {
+        "title": "User Space Network Drivers.",
+        "authors": [
+          "Paul Emmerich",
+          "Maximilian Pudelko",
+          "Simon Bauer",
+          "Stefan Huber",
+          "Thomas Zwickl",
+          "Georg Carle"
+        ]
+      },
+      {
+        "title": "Offloading data plane functions to the multi-tenant Cloud Infrastructure using P4.",
+        "authors": [
+          "Tomasz Osinski",
+          "Mateusz Kossakowski",
+          "Halina Tarasiuk",
+          "Roland Picard"
+        ]
+      },
+      {
+        "title": "P4DNS: In-Network DNS.",
+        "authors": [
+          "Jackson Woodruff",
+          "Murali Ramanujam",
+          "Noa Zilberman"
+        ]
+      },
+      {
+        "title": "A Traffic Anomaly Detection Method based on Multi-scale Decomposition and Multi-Channel Detector.",
+        "authors": [
+          "Yu Xiang",
+          "Jinye Ran",
+          "Lisheng Huang",
+          "Chao Yang",
+          "Wenyong Wang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2018.html": {
+    "header": "ANCS 2018: Ithaca, NY, USA",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "Dark packets and the end of network scaling.",
+        "authors": [
+          "Shelby Thomas",
+          "Rob McGuinness",
+          "Geoffrey M. Voelker",
+          "George Porter"
+        ]
+      },
+      {
+        "title": "Grafting sockets for fast container networking.",
+        "authors": [
+          "Ryo Nakamura",
+          "Yuji Sekiya",
+          "Hajime Tazaki"
+        ]
+      },
+      {
+        "title": "Bayesian factor analysis and performance measurement of the Linux forwarding architecture.",
+        "authors": [
+          "Adam Drescher",
+          "John D. DeHart",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Cuckoo++ hash tables: high-performance hash tables for networking applications.",
+        "authors": [
+          "Nicolas Le Scouarnec"
+        ]
+      },
+      {
+        "title": "Scalable high-speed NDN name lookup.",
+        "authors": [
+          "Kun Huang",
+          "Zhaohua Wang",
+          "Gaogang Xie"
+        ]
+      },
+      {
+        "title": "Network-wide routing-oblivious heavy hitters.",
+        "authors": [
+          "Ran Ben-Basat",
+          "Gil Einziger",
+          "Shir Landau Feibish",
+          "Jalil Moraney",
+          "Danny Raz"
+        ]
+      },
+      {
+        "title": "Evaluating the performance of software NICs for 100-gb/s datacenter traffic control.",
+        "authors": [
+          "Rob McGuinness",
+          "George Porter"
+        ]
+      },
+      {
+        "title": "Characterizing the algorithmic complexity of reconfigurable data center architectures.",
+        "authors": [
+          "Klaus-Tycho Foerster",
+          "Manya Ghobadi",
+          "Stefan Schmid"
+        ]
+      },
+      {
+        "title": "PFCA: a programmable FIB caching architecture.",
+        "authors": [
+          "Garegin Grigoryan",
+          "Yaoqing Liu"
+        ]
+      },
+      {
+        "title": "Regular expression matching with pipelined delayed input DFAs for high-speed networks.",
+        "authors": [
+          "Denis Matousek",
+          "Juraj Kubis",
+          "Jirí Matousek",
+          "Jan Korenek"
+        ]
+      },
+      {
+        "title": "Data-driven resource flexing for network functions visualization.",
+        "authors": [
+          "Lianjie Cao",
+          "Sonia Fahmy",
+          "Puneet Sharma",
+          "Shandian Zhe"
+        ]
+      },
+      {
+        "title": "VNF chain allocation and management at data center scale.",
+        "authors": [
+          "Nodir Kodirov",
+          "Sam Bayless",
+          "Fabian Ruffy",
+          "Ivan Beschastnikh",
+          "Holger H. Hoos",
+          "Alan J. Hu"
+        ]
+      },
+      {
+        "title": "FTvNF: fault tolerant virtual network functions.",
+        "authors": [
+          "Yotam Harchol",
+          "David Hay",
+          "Tal Orenstein"
+        ]
+      },
+      {
+        "title": "Umbrella: a unified software defined development framework.",
+        "authors": [
+          "Douglas Comer",
+          "Rajas H. Karandikar",
+          "Adib Rastegarnia"
+        ]
+      },
+      {
+        "title": "Position-aware cuckoo filters.",
+        "authors": [
+          "Minseok Kwon",
+          "Vijay Shankar",
+          "Pedro Reviriego"
+        ]
+      },
+      {
+        "title": "Towards a highly scalable network tester.",
+        "authors": [
+          "Murali Ramanujam",
+          "Noa Zilberman"
+        ]
+      },
+      {
+        "title": "Network traffic adaptive S-MAC protocol for wireless sensor network.",
+        "authors": [
+          "Jianpo Li",
+          "Yang Lu"
+        ]
+      },
+      {
+        "title": "LAMP: prompt layer 7 attack mitigation with programmable data planes.",
+        "authors": [
+          "Garegin Grigoryan",
+          "Yaoqing Liu"
+        ]
+      },
+      {
+        "title": "Toward incremental FIB aggregation with quick selections (FAQS).",
+        "authors": [
+          "Yaoqing Liu",
+          "Garegin Grigoryan"
+        ]
+      },
+      {
+        "title": "Query language for large-scale P4 network debugging.",
+        "authors": [
+          "Jehandad Khan",
+          "Peter Athanas"
+        ]
+      },
+      {
+        "title": "VNF chain abstraction for cloud service providers.",
+        "authors": [
+          "Nodir Kodirov",
+          "Sam Bayless",
+          "Fabian Ruffy",
+          "Ivan Beschastnikh",
+          "Holger H. Hoos",
+          "Alan J. Hu"
+        ]
+      },
+      {
+        "title": "Evaluating the benefits of caching and stateless forwarding in mobile information-centric networks.",
+        "authors": [
+          "Adita Kulkarni",
+          "Anand Seetharam"
+        ]
+      },
+      {
+        "title": "Multi-core HTB for bandwidth sharing.",
+        "authors": [
+          "Chengjun Jia",
+          "Zhe Fu",
+          "Xiaohe Hu",
+          "Shui Cao",
+          "Liang Wang",
+          "Jun Li"
+        ]
+      },
+      {
+        "title": "APF: fast network all-pair reachability calculation.",
+        "authors": [
+          "Jinghan Zhou",
+          "Danyang Li",
+          "Xiaohe Hu",
+          "Yan Sun",
+          "Shui Cao",
+          "Wei Xu",
+          "Jun Li"
+        ]
+      },
+      {
+        "title": "Application-transparent scheduling of socket system calls on many-core systems.",
+        "authors": [
+          "Jooho Kim",
+          "Joong-Yeon Cho",
+          "Hyun-Wook Jin"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2017.html": {
+    "header": "ANCS 2017: Beijing, China",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Improving Backpressure-based Adaptive Routing via Incremental Expansion of Routing Choices.",
+        "authors": [
+          "Ping Yin",
+          "Sen Yang",
+          "Jun Xu",
+          "Jim G. Dai",
+          "Bill Lin"
+        ]
+      },
+      {
+        "title": "Using Indirect Routing to Recover from Network Traffic Scheduling Estimation Error.",
+        "authors": [
+          "Conglong Li",
+          "Matthew K. Mukerjee",
+          "David G. Andersen",
+          "Srinivasan Seshan",
+          "Michael Kaminsky",
+          "George Porter",
+          "Alex C. Snoeren"
+        ]
+      },
+      {
+        "title": "ZeroSDN: A Highly Flexible and Modular Architecture for Full-Range Network Control Distribution.",
+        "authors": [
+          "Thomas Kohler",
+          "Frank Dürr",
+          "Kurt Rothermel"
+        ]
+      },
+      {
+        "title": "BPFabric: Data Plane Programmability for Software Defined Networks.",
+        "authors": [
+          "Simon Jouet",
+          "Dimitrios P. Pezaros"
+        ]
+      },
+      {
+        "title": "Designing Virtual Network Functions for 100 GbE Network Using Multicore Processors.",
+        "authors": [
+          "Peilong Li",
+          "Xiaoban Wu",
+          "Yongyi Ran",
+          "Yan Luo"
+        ]
+      },
+      {
+        "title": "Enhancing Scalable Name-Based Forwarding.",
+        "authors": [
+          "Haowei Yuan",
+          "Patrick Crowley",
+          "Tian Song"
+        ]
+      },
+      {
+        "title": "Controlling Strategy Retransmissions in Named Data Networking.",
+        "authors": [
+          "Hila Ben Abraham",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "On Incremental Deployment of Named Data Networking in Local Area Networks.",
+        "authors": [
+          "Hao Wu",
+          "Junxiao Shi",
+          "Yaxuan Wang",
+          "Yilun Wang",
+          "Gong Zhang",
+          "Yi Wang",
+          "Bin Liu",
+          "Beichuan Zhang"
+        ]
+      },
+      {
+        "title": "OpenSched: Programmable Packet Queuing and Scheduling for Centralized QoS Control.",
+        "authors": [
+          "Tian Pan",
+          "Tao Huang",
+          "Jianwei Mao",
+          "Cong Li",
+          "Yunjie Liu"
+        ]
+      },
+      {
+        "title": "Rule Compilation in Multi-Tenant Networks.",
+        "authors": [
+          "Khalil Blaiech",
+          "Salaheddine Hamadi",
+          "Stefan Hommes",
+          "Petko Valtchev",
+          "Omar Cherkaoui",
+          "Radu State"
+        ]
+      },
+      {
+        "title": "Virtual Network Embedding in Hybrid Data Centers.",
+        "authors": [
+          "Zhenhua Li",
+          "Yuanyuan Yang"
+        ]
+      },
+      {
+        "title": "Building Fast but Flexible Software Routers.",
+        "authors": [
+          "Sebastian Gallenmüller",
+          "Paul Emmerich",
+          "Rainer Schonberger",
+          "Daniel Raumer",
+          "Georg Carle"
+        ]
+      },
+      {
+        "title": "CODIS: A New Compression Scheme for Bitmap Indexes.",
+        "authors": [
+          "Wenxun Zheng",
+          "Yin Liu",
+          "Zhen Chen",
+          "Junwei Cao"
+        ]
+      },
+      {
+        "title": "On the Latency Benefits of Edge NFV.",
+        "authors": [
+          "Richard Cziva",
+          "Dimitrios P. Pezaros"
+        ]
+      },
+      {
+        "title": "P5: Programmable Parsers with Packet-level Parallel Processing for FPGA-based Switches.",
+        "authors": [
+          "Junnan Li",
+          "Zhigang Sun",
+          "Biao Han"
+        ]
+      },
+      {
+        "title": "An Attack-Resilient Source Authentication Protocol in Controller Area Network.",
+        "authors": [
+          "Ki-Dong Kang",
+          "Young-mi Baek",
+          "Seonghun Lee",
+          "Sang Hyuk Son"
+        ]
+      },
+      {
+        "title": "Time Pattern Analysis of Malware by Circular Statistics.",
+        "authors": [
+          "Liuxuan Pan",
+          "Allan Tomlinson",
+          "Alexey A. Koloydenko"
+        ]
+      },
+      {
+        "title": "Detecting Remote Access Trojans through External Control at Area Network Borders.",
+        "authors": [
+          "Shuang Wu",
+          "Shengli Liu",
+          "Wei Lin",
+          "Xing Zhao",
+          "Shi Chen"
+        ]
+      },
+      {
+        "title": "RwHash: Rewritable Hash Table for Fast Network Processing with Dynamic Membership Updates.",
+        "authors": [
+          "Tian Song",
+          "Yating Yang",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Statistical Optimal Hash-Based Longest Prefix Match.",
+        "authors": [
+          "Yi Wang",
+          "Zhuyun Qi",
+          "Huichen Dai",
+          "Hao Wu",
+          "Kai Lei",
+          "Bin Liu"
+        ]
+      },
+      {
+        "title": "SLIM: Enabling Transparent Extensibility and Dynamic Configuration via Session-Layer Abstractions.",
+        "authors": [
+          "Umar Kalim",
+          "Mark K. Gardner",
+          "Eric J. Brown",
+          "Wu Feng"
+        ]
+      },
+      {
+        "title": "Life on the Edge: Unraveling Policies into Configurations.",
+        "authors": [
+          "Shrutarshi Basu",
+          "Nate Foster",
+          "Hossein Hojjat",
+          "Paparao Palacharla",
+          "Christian Skalka",
+          "Xi Wang"
+        ]
+      },
+      {
+        "title": "Mind the Gap - A Comparison of Software Packet Generators.",
+        "authors": [
+          "Paul Emmerich",
+          "Sebastian Gallenmüller",
+          "Gianni Antichi",
+          "Andrew W. Moore",
+          "Georg Carle"
+        ]
+      },
+      {
+        "title": "ClassBench-ng: Recasting ClassBench after a Decade of Network Evolution.",
+        "authors": [
+          "Jirí Matousek",
+          "Gianni Antichi",
+          "Adam Lucanský",
+          "Andrew W. Moore",
+          "Jan Korenek"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2016.html": {
+    "header": "ANCS 2016: Santa Clara, CA, USA",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "O3FA: A Scalable Finite Automata-based Pattern-Matching Engine for Out-of-Order Deep Packet Inspection.",
+        "authors": [
+          "Xiaodong Yu",
+          "Wu-chun Feng",
+          "Danfeng (Daphne) Yao",
+          "Michela Becchi"
+        ]
+      },
+      {
+        "title": "Many-Field Packet Classification for Software-Defined Networking Switches.",
+        "authors": [
+          "Cheng-Liang Hsieh",
+          "Ning Weng"
+        ]
+      },
+      {
+        "title": "HyPaFilter: A Versatile Hybrid FPGA Packet Filter.",
+        "authors": [
+          "Andreas Fiessler",
+          "Sven Hager",
+          "Björn Scheuermann",
+          "Andrew W. Moore"
+        ]
+      },
+      {
+        "title": "Memory-Efficient String Matching for Intrusion Detection Systems using a High-Precision Pattern Grouping Algorithm.",
+        "authors": [
+          "Shervin Vakili",
+          "J. M. Pierre Langlois",
+          "Bochra Boughzala",
+          "Yvon Savaria"
+        ]
+      },
+      {
+        "title": "High Throughput Forwarding for ICN with Descriptors and Locators.",
+        "authors": [
+          "Michele Papalini",
+          "Koorosh Khazaei",
+          "Antonio Carzaniga",
+          "Daniele Rogora"
+        ]
+      },
+      {
+        "title": "PFPSim: A Programmable Forwarding Plane Simulator.",
+        "authors": [
+          "Samar Abdi",
+          "Umair Aftab",
+          "Gordon Bailey",
+          "Bochra Boughzala",
+          "Faras Dewal",
+          "Shafigh Parsazad",
+          "Eric Tremblay"
+        ]
+      },
+      {
+        "title": "A Study of Speed Mismatches Between Communicating Virtual Machines.",
+        "authors": [
+          "Luigi Rizzo",
+          "Stefano Garzarella",
+          "Giuseppe Lettieri",
+          "Vincenzo Maffione"
+        ]
+      },
+      {
+        "title": "BASEL (Buffer mAnagement SpEcification Language).",
+        "authors": [
+          "Kirill Kogan",
+          "Danushka Menikkumbura",
+          "Gustavo Petri",
+          "Youngtae Noh",
+          "Sergey I. Nikolenko",
+          "Patrick Eugster"
+        ]
+      },
+      {
+        "title": "Is Memory Disaggregation Feasible?: A Case Study with Spark SQL.",
+        "authors": [
+          "Pramod Subba Rao",
+          "George Porter"
+        ]
+      },
+      {
+        "title": "Stick to the Script: Monitoring The Policy Compliance of SDN Data Plane.",
+        "authors": [
+          "Peng Zhang",
+          "Hao Li",
+          "Chengchen Hu",
+          "Liujia Hu",
+          "Lei Xiong"
+        ]
+      },
+      {
+        "title": "Links as a Service (LaaS): Guaranteed Tenant Isolation in the Shared Cloud.",
+        "authors": [
+          "Eitan Zahavi",
+          "Alexander Shpiner",
+          "Ori Rottenstreich",
+          "Avinoam Kolodny",
+          "Isaac Keslassy"
+        ]
+      },
+      {
+        "title": "Optimizing VM live migration strategy based on migration time cost modeling.",
+        "authors": [
+          "Ziyu Li",
+          "Gang Wu"
+        ]
+      },
+      {
+        "title": "Forwarding Strategies for Applications in Named Data Networking.",
+        "authors": [
+          "Hila Ben Abraham",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "ParaRegex: Towards Fast Regular Expression Matching in Parallel.",
+        "authors": [
+          "Zhe Fu",
+          "Zhi Liu",
+          "Jun Li"
+        ]
+      },
+      {
+        "title": "Minflate: Combining Rule Set Minimization with Jump-based Expansion for Fast Packet Classification.",
+        "authors": [
+          "Sven Hager",
+          "Patrik John",
+          "Andreas Fiessler",
+          "Björn Scheuermann"
+        ]
+      },
+      {
+        "title": "Toward Fabric: A Middleware Implementing High-level Description Languages on a Fabric-like Network.",
+        "authors": [
+          "Sayed Hadi Hashemi",
+          "Shadi A. Noghabi",
+          "John Bellessa",
+          "Roy H. Campbell"
+        ]
+      },
+      {
+        "title": "Virtual Network Functions Instantiation on SDN Switches for Policy-Aware Traffic Steering.",
+        "authors": [
+          "Cheng-Liang Hsieh",
+          "Ning Weng"
+        ]
+      },
+      {
+        "title": "Node configuration for the Aho-Corasick algorithm in Intrusion Detection Systems.",
+        "authors": [
+          "Alexsandre B. Lacroix",
+          "J. M. Pierre Langlois",
+          "François-Raymond Boyer",
+          "Antoine Gosselin",
+          "Guy Bois"
+        ]
+      },
+      {
+        "title": "A One-Way Proof-of-Work Protocol to Protect Controllers in Software-Defined Networks.",
+        "authors": [
+          "Jingrui Li",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "P4GPU: Accelerate Packet Processing of a P4 Program with a CPU-GPU Heterogeneous Architecture.",
+        "authors": [
+          "Peilong Li",
+          "Yan Luo"
+        ]
+      },
+      {
+        "title": "Cache Sharing Using a Bloom Filter in Named Data Networking.",
+        "authors": [
+          "Ju Hyoung Mun",
+          "Hyesook Lim"
+        ]
+      },
+      {
+        "title": "Software Defined Networks-on-Chip for Multi/Many-Core Systems: A Performance Evaluation.",
+        "authors": [
+          "Remberto Sandoval-Arechiga",
+          "Ramón Parra-Michel",
+          "J. L. Vázquez-Avila",
+          "Jorge Flores-Troncoso",
+          "Salvador Ibarra-Delgado"
+        ]
+      },
+      {
+        "title": "NI + Router Microarchitecture for NoC-based Communication Systems.",
+        "authors": [
+          "Remberto Sandoval-Arechiga",
+          "Ramón Parra-Michel",
+          "J. L. Vázquez-Avila",
+          "B. I. Gea-Garcia"
+        ]
+      },
+      {
+        "title": "On Data Plane Latency and Pseudo-TCP Congestion in Software-Defined Networking.",
+        "authors": [
+          "Dongzhe Tai",
+          "Huichen Dai",
+          "Ting Zhang",
+          "Bin Liu"
+        ]
+      },
+      {
+        "title": "Evaluating Information-Centric Networks in Disconnected, Intermittent, and Low-Bandwidth Environments.",
+        "authors": [
+          "Thiago Teixeira",
+          "Michael Zink"
+        ]
+      },
+      {
+        "title": "Enterprise LTE and WiFi Interworking System and A Proposed Network Selection Solution.",
+        "authors": [
+          "Lina Xu",
+          "Junqing Xie",
+          "Xunteng Xu",
+          "Shuai Wang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2015.html": {
+    "header": "ANCS 2015: Oakland, CA, USA",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Disaggregation: The New Way to Build Mega (and Micro) Data Centers.",
+        "authors": [
+          "Yuval Bachar"
+        ]
+      },
+      {
+        "title": "Recent Trends in Virtual Network Functions Acceleration for Carrier Clouds.",
+        "authors": [
+          "John Larkins"
+        ]
+      },
+      {
+        "title": "Fast Userspace Packet Processing.",
+        "authors": [
+          "Tom Barbette",
+          "Cyril Soldani",
+          "Laurent Mathy"
+        ]
+      },
+      {
+        "title": "Blueswitch: Enabling Provably Consistent Configuration of Network Switches.",
+        "authors": [
+          "Jong Hun Han",
+          "Prashanth Mundkur",
+          "Charalampos Rotsos",
+          "Gianni Antichi",
+          "Nirav H. Dave",
+          "Andrew William Moore",
+          "Peter G. Neumann"
+        ]
+      },
+      {
+        "title": "Comparison of Frameworks for High-Performance Packet IO.",
+        "authors": [
+          "Sebastian Gallenmüller",
+          "Paul Emmerich",
+          "Florian Wohlfart",
+          "Daniel Raumer",
+          "Georg Carle"
+        ]
+      },
+      {
+        "title": "Lossy Compression of Packet Classifiers.",
+        "authors": [
+          "Ori Rottenstreich",
+          "János Tapolcai"
+        ]
+      },
+      {
+        "title": "Parsing Application Layer Protocol with Commodity Hardware for SDN.",
+        "authors": [
+          "Hao Li",
+          "Chengchen Hu",
+          "Junkai Hong",
+          "Xiyu Chen",
+          "Yuming Jiang"
+        ]
+      },
+      {
+        "title": "ORange: Multi Field OpenFlow based Range Classifier.",
+        "authors": [
+          "Liron Schiff",
+          "Yehuda Afek",
+          "Anat Bremler-Barr"
+        ]
+      },
+      {
+        "title": "Dynamic Optical Switching for Latency Sensitive Applications.",
+        "authors": [
+          "Henrique Rodrigues",
+          "Richard D. Strong",
+          "Alper Sinan Akyurek",
+          "Tajana Simunic Rosing"
+        ]
+      },
+      {
+        "title": "Optimizing Many-field Packet Classification on FPGA, Multi-core General Purpose Processor, and GPU.",
+        "authors": [
+          "Yun Rock Qu",
+          "Hao H. Zhang",
+          "Shijie Zhou",
+          "Viktor K. Prasanna"
+        ]
+      },
+      {
+        "title": "Virtual Device Passthrough for High Speed VM Networking.",
+        "authors": [
+          "Stefano Garzarella",
+          "Giuseppe Lettieri",
+          "Luigi Rizzo"
+        ]
+      },
+      {
+        "title": "Reliably Scalable Name Prefix Lookup.",
+        "authors": [
+          "Haowei Yuan",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Synchronizing Namespaces with Invertible Bloom Filters.",
+        "authors": [
+          "Wenliang Fu",
+          "Hila Ben Abraham",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Enabling Correct Interest Forwarding and Retransmissions in a Content Centric Network.",
+        "authors": [
+          "J. J. Garcia-Luna-Aceves",
+          "Maziar Mirzazad Barijough"
+        ]
+      },
+      {
+        "title": "Linux XIA: An Interoperable Meta Network Architecture to Crowdsource the Future Internet.",
+        "authors": [
+          "Michel Machado",
+          "Cody Doucette",
+          "John W. Byers"
+        ]
+      },
+      {
+        "title": "A Systematic Evaluation of Emerging Mesh-like CMP NoCs.",
+        "authors": [
+          "Antonis Psathakis",
+          "Vassilis Papaefstathiou",
+          "Nikolaos Chrysos",
+          "Fabien Chaix",
+          "Evangelos Vasilakis",
+          "Dionisios N. Pnevmatikatos",
+          "Manolis Katevenis"
+        ]
+      },
+      {
+        "title": "Caesar: High-Speed and Memory-Efficient Forwarding Engine for Future Internet Architecture.",
+        "authors": [
+          "Mehrdad Moradi",
+          "Feng Qian",
+          "Qiang Xu",
+          "Zhuoqing Morley Mao",
+          "Darrell Bethea",
+          "Michael K. Reiter"
+        ]
+      },
+      {
+        "title": "Packet Classification Using a Bloom Filter in a Leaf-Pushing Area-based Quad-Trie.",
+        "authors": [
+          "Hyesook Lim",
+          "Ha Young Byun"
+        ]
+      },
+      {
+        "title": "Distributed Control Plane For High Performance Switch-based VXLAN Overlays.",
+        "authors": [
+          "Sunay Tripathi",
+          "Roger Chickering",
+          "Jon Gainsley"
+        ]
+      },
+      {
+        "title": "Scalable Many-Field Packet Classification using Multidimensional-Cutting Via Selective Bit-Concatenation.",
+        "authors": [
+          "Cheng-Liang Hsieh",
+          "Ning Weng"
+        ]
+      },
+      {
+        "title": "State Abstraction and Management in Software-Defined Networks.",
+        "authors": [
+          "Abhishek Dwaraki",
+          "Srini Seetharaman",
+          "Sriram Natarajan",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "Scaling the Performance of Network Intrusion Detection with Many-core Processors.",
+        "authors": [
+          "Jaehyun Nam",
+          "Muhammad Asim Jamshed",
+          "Byungkwon Choi",
+          "Dongsu Han",
+          "KyoungSoo Park"
+        ]
+      },
+      {
+        "title": "Resistance Against Brute-Force Attacks on Stateless Forwarding in Information Centric Networking.",
+        "authors": [
+          "Bander A. Alzahrani",
+          "Martin J. Reed",
+          "Vassilios G. Vassilakis"
+        ]
+      },
+      {
+        "title": "qSDS: A QoS-Aware I/O Scheduling Framework towards Software Defined Storage.",
+        "authors": [
+          "Jianzong Wang",
+          "Lianglun Cheng"
+        ]
+      },
+      {
+        "title": "A Software Defined Sketch System for Traffic Monitoring.",
+        "authors": [
+          "Theophilus Wellem",
+          "Yu-Kuen Lai",
+          "Wen-Yaw Chung"
+        ]
+      },
+      {
+        "title": "An Interest Control Protocol for Named Data Networking Based on Explicit Feedback.",
+        "authors": [
+          "Yongmao Ren",
+          "Jun Li",
+          "Shanshan Shi",
+          "Lingling Li",
+          "Xiangqing Chang"
+        ]
+      },
+      {
+        "title": "Transparent Cloud Access Performance Augmentation via an MPTCP-LISP Connection Proxy.",
+        "authors": [
+          "Yacine Benchaïb",
+          "Stefano Secci",
+          "Chi-Dung Phung"
+        ]
+      },
+      {
+        "title": "Name Prefix Matching Using Bloom Filter Pre-Searching.",
+        "authors": [
+          "Hyesook Lim",
+          "Miran Shim",
+          "Jungwon Lee"
+        ]
+      },
+      {
+        "title": "FlowShadow: a Fast Path for Uninterrupted Packet Processing in SDN Switches.",
+        "authors": [
+          "Yi Wang",
+          "Dongzhe Tai",
+          "Ting Zhang",
+          "Linxiao Jin",
+          "Huichen Dai",
+          "Bin Liu",
+          "Xin Wu"
+        ]
+      },
+      {
+        "title": "Cloud Customers' Historical Record Based On-Demand Resource Reservation.",
+        "authors": [
+          "Mohammad Aazam",
+          "Eui-Nam Huh"
+        ]
+      },
+      {
+        "title": "Graph Measures of Network Content-Delivery Energy.",
+        "authors": [
+          "Lisa J. K. Durbeck"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2014.html": {
+    "header": "ANCS 2014: Los Angeles, CA, USA",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Future networking: reconfiguration heartland, challenge and revolution.",
+        "authors": [
+          "Andrew William Moore"
+        ]
+      },
+      {
+        "title": "Programmable measurement architecture.",
+        "authors": [
+          "Minlan Yu"
+        ]
+      },
+      {
+        "title": "WASP: a software-defined communication layer for hybrid wireless networks.",
+        "authors": [
+          "Murad Kaplan",
+          "Chenyu Zheng",
+          "Matthew Monaco",
+          "Eric Keller",
+          "Douglas C. Sicker"
+        ]
+      },
+      {
+        "title": "ElastiCon: an elastic distributed sdn controller.",
+        "authors": [
+          "Advait Abhay Dixit",
+          "Fang Hao",
+          "Sarit Mukherjee",
+          "T. V. Lakshman",
+          "Ramana Rao Kompella"
+        ]
+      },
+      {
+        "title": "A packet-in message filtering mechanism for protection of control plane in openflow networks.",
+        "authors": [
+          "Daisuke Kotani",
+          "Yasuo Okabe"
+        ]
+      },
+      {
+        "title": "Faithful reproduction of network experiments.",
+        "authors": [
+          "Dimosthenis Pediaditakis",
+          "Charalampos Rotsos",
+          "Andrew William Moore"
+        ]
+      },
+      {
+        "title": "DiFS: distributed flow scheduling for adaptive routing in hierarchical data center networks.",
+        "authors": [
+          "Wenzhi Cui",
+          "Chen Qian"
+        ]
+      },
+      {
+        "title": "Blender: upgrading tenant-based data center networking.",
+        "authors": [
+          "Kevin C. Webb",
+          "Arjun Roy",
+          "Kenneth Yocum",
+          "Alex C. Snoeren"
+        ]
+      },
+      {
+        "title": "BCCC: an expandable network for data centers.",
+        "authors": [
+          "Zhenhua Li",
+          "Zhiyang Guo",
+          "Yuanyuan Yang"
+        ]
+      },
+      {
+        "title": "Efficient and programmable ethernet switching with a NoC-enhanced FPGA.",
+        "authors": [
+          "Andrew Bitar",
+          "Jeffrey Cassidy",
+          "Natalie D. Enright Jerger",
+          "Vaughn Betz"
+        ]
+      },
+      {
+        "title": "Laying out interconnects on optical printed circuit boards.",
+        "authors": [
+          "Apostolos Siokis",
+          "Konstantinos Christodoulopoulos",
+          "Emmanouel A. Varvarigos"
+        ]
+      },
+      {
+        "title": "Integration and QoS of multicast traffic in a server-rack fabric with 640 100g ports.",
+        "authors": [
+          "Nikolaos Chrysos",
+          "Fredy D. Neeser",
+          "Brian Vanderpool",
+          "Mark Rudquist",
+          "Kenneth M. Valk",
+          "Todd Greenfield",
+          "Claude Basso"
+        ]
+      },
+      {
+        "title": "Marlin: a memory-based rack area network.",
+        "authors": [
+          "Cheng-Chun Tu",
+          "Chao-Tang Lee",
+          "Tzi-cker Chiueh"
+        ]
+      },
+      {
+        "title": "Caesar: a content router for high-speed forwarding on content names.",
+        "authors": [
+          "Diego Perino",
+          "Matteo Varvello",
+          "Leonardo Linguaglossa",
+          "Rafael P. Laufer",
+          "Roger Boislaigue"
+        ]
+      },
+      {
+        "title": "Design patterns for tunable and efficient SSD-based indexes.",
+        "authors": [
+          "Ashok Anand",
+          "Aaron Gember-Jacobson",
+          "Collin Engstrom",
+          "Aditya Akella"
+        ]
+      },
+      {
+        "title": "CoRC: coordinated routing and caching for named data networking.",
+        "authors": [
+          "Hoon-gyu Choi",
+          "Jungmin Yoo",
+          "Taejoong Chung",
+          "Nakjung Choi",
+          "Taekyoung Kwon",
+          "Yanghee Choi"
+        ]
+      },
+      {
+        "title": "Secure remote sensing and communication using digital pufs.",
+        "authors": [
+          "Teng Xu",
+          "James B. Wendt",
+          "Miodrag Potkonjak"
+        ]
+      },
+      {
+        "title": "Thermal-aware vacation and rate adaptation for network packet processing.",
+        "authors": [
+          "Chih-Hsun Chou",
+          "Laxmi N. Bhuyan"
+        ]
+      },
+      {
+        "title": "Fine-grained power scaling algorithms for energy efficient routers.",
+        "authors": [
+          "Tian Song",
+          "Xiangjun Shi",
+          "Xiaowei Ma"
+        ]
+      },
+      {
+        "title": "Efficient software packet processing on heterogeneous and asymmetric hardware architectures.",
+        "authors": [
+          "Lazaros Koromilas",
+          "Giorgos Vasiliadis",
+          "Ioannis Manousakis",
+          "Sotiris Ioannidis"
+        ]
+      },
+      {
+        "title": "A purely functional approach to packet processing.",
+        "authors": [
+          "Nicola Bonelli",
+          "Stefano Giordano",
+          "Gregorio Procissi",
+          "Luca Abeni"
+        ]
+      },
+      {
+        "title": "A scalable routing and admission control model in sdn-based networks.",
+        "authors": [
+          "Mahmud Rasih Çelenlioglu",
+          "Haci Ali Mantar"
+        ]
+      },
+      {
+        "title": "High performance multi-field packet classification using bucket filtering and GPU processing.",
+        "authors": [
+          "Cheng-Liang Hsieh",
+          "Ning Weng"
+        ]
+      },
+      {
+        "title": "QoS aware dynamic power scaling algorithms for deploying energy efficient routers.",
+        "authors": [
+          "Tian Song",
+          "Xiangjun Shi",
+          "Xiaowei Ma"
+        ]
+      },
+      {
+        "title": "Network monitoring probe based on Xilinx Zynq.",
+        "authors": [
+          "Jan Viktorin",
+          "Pavol Korcek",
+          "Tomas Fukac",
+          "Jan Korenek"
+        ]
+      },
+      {
+        "title": "Network service quality rank: a network selection algorithm for heterogeneous wireless networks.",
+        "authors": [
+          "Zeynab Bahrami Bidoni",
+          "Roy George"
+        ]
+      },
+      {
+        "title": "Toward terabyte-scale caching with SSD in a named data networking router.",
+        "authors": [
+          "Won So",
+          "Taejoong Chung",
+          "Haowei Yuan",
+          "David Oran",
+          "Mark Stapp"
+        ]
+      },
+      {
+        "title": "Spectral clustering based regular expression grouping.",
+        "authors": [
+          "Zhe Fu",
+          "Jun Li"
+        ]
+      },
+      {
+        "title": "Change-point detection method on 100 Gb/s ethernet interface.",
+        "authors": [
+          "Pavel Benácek",
+          "Rudolf B. Blazek",
+          "Tomás Cejka",
+          "Hana Kubátová"
+        ]
+      },
+      {
+        "title": "Superspreader detection system on NetFPGA platform.",
+        "authors": [
+          "Theophilus Wellem",
+          "Guan-Wei Li",
+          "Yu-Kuen Lai"
+        ]
+      },
+      {
+        "title": "On reducing false positives of a bloom filter in trie-based algorithms.",
+        "authors": [
+          "Ju Hyoung Mun",
+          "Hyesook Lim"
+        ]
+      },
+      {
+        "title": "Static power reduction in caches using deterministic naps.",
+        "authors": [
+          "Oluleye Olorode",
+          "Mehrdad Nourani"
+        ]
+      },
+      {
+        "title": "Secure and efficient key management protocol (SEKMP) for wireless sensor networks.",
+        "authors": [
+          "Majid Alshammari",
+          "Khaled Elleithy"
+        ]
+      },
+      {
+        "title": "A digital PUF-based IP protection architecture for network embedded systems.",
+        "authors": [
+          "Jason Xin Zheng",
+          "Miodrag Potkonjak"
+        ]
+      },
+      {
+        "title": "PLWAH+: a bitmap index compressing scheme based on PLWAH.",
+        "authors": [
+          "Jiahui Chang",
+          "Zhen Chen",
+          "Wenxun Zheng",
+          "Yuhao Wen",
+          "Junwei Cao",
+          "Wen-Liang Huang"
+        ]
+      },
+      {
+        "title": "Impact of the end-system and affinities on the throughput of high-speed flows.",
+        "authors": [
+          "Nathan Hanford",
+          "Vishal Ahuja",
+          "Matthew K. Farrens",
+          "Dipak Ghosal",
+          "Mehmet Balman",
+          "Eric Pouyoul",
+          "Brian Tierney"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2013.html": {
+    "header": "ANCS 2013: San Jose, CA, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "GAMT: A fast and scalable IP lookup engine for GPU-based software routers.",
+        "authors": [
+          "Yanbiao Li",
+          "Dafang Zhang",
+          "Alex X. Liu",
+          "Jintao Zheng"
+        ]
+      },
+      {
+        "title": "Design principles for packet parsers.",
+        "authors": [
+          "Glen Gibb",
+          "George Varghese",
+          "Mark Horowitz",
+          "Nick McKeown"
+        ]
+      },
+      {
+        "title": "Fast and flexible: Parallel packet processing with GPUs and click.",
+        "authors": [
+          "Weibin Sun",
+          "Robert Ricci"
+        ]
+      },
+      {
+        "title": "The scope for Online Social Network aided caching in web CDNs.",
+        "authors": [
+          "Amit Ruhela",
+          "Sipat Triukose",
+          "Sebastien Ardon",
+          "Amitabha Bagchi",
+          "Anirban Mahanti",
+          "Aaditeshwar Seth"
+        ]
+      },
+      {
+        "title": "Speeding up packet I/O in virtual machines.",
+        "authors": [
+          "Luigi Rizzo",
+          "Giuseppe Lettieri",
+          "Vincenzo Maffione"
+        ]
+      },
+      {
+        "title": "Dahu: Commodity switches for direct connect data center networks.",
+        "authors": [
+          "Sivasankar Radhakrishnan",
+          "Malveeka Tewari",
+          "Rishi Kapoor",
+          "George Porter",
+          "Amin Vahdat"
+        ]
+      },
+      {
+        "title": "Scalable Ternary Content Addressable Memory implementation using FPGAs.",
+        "authors": [
+          "Weirong Jiang"
+        ]
+      },
+      {
+        "title": "Scalable TCAM-based regular expression matching with compressed finite automata.",
+        "authors": [
+          "Kun Huang",
+          "Linxuan Ding",
+          "Gaogang Xie",
+          "Dafang Zhang",
+          "Alex X. Liu",
+          "Kavé Salamatian"
+        ]
+      },
+      {
+        "title": "A Ternary Unification Framework for optimizing TCAM-based packet classification systems.",
+        "authors": [
+          "Eric Norige",
+          "Alex X. Liu",
+          "Eric Torng"
+        ]
+      },
+      {
+        "title": "Re-design of path synchronization for minimal latency data vortex optical interconnection network.",
+        "authors": [
+          "Qimin Yang"
+        ]
+      },
+      {
+        "title": "Balancing authentication and location privacy in cooperative authentication.",
+        "authors": [
+          "Licai Liu",
+          "Yunchuan Guo",
+          "Lihua Yin",
+          "Yan Sun"
+        ]
+      },
+      {
+        "title": "PPI: Towards precise page identification for encrypted Web-browsing traffic.",
+        "authors": [
+          "Zhenlong Yuan",
+          "Yibo Xue",
+          "Wei Xia"
+        ]
+      },
+      {
+        "title": "Cyclostationary codec: A framework to enable alternative network architectures.",
+        "authors": [
+          "Justin Tallon",
+          "Tim K. Forde",
+          "Linda Doyle"
+        ]
+      },
+      {
+        "title": "k-p0f: A high-throughput kernel passive OS fingerprinter.",
+        "authors": [
+          "Jason Barnes",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Thermal prediction and scheduling of network applications on multicore processors.",
+        "authors": [
+          "Chih-Hsun Chou",
+          "Mehmet E. Belviranli",
+          "Laxmi N. Bhuyan"
+        ]
+      },
+      {
+        "title": "Optimizing a network layer moving target defense for specific system architectures.",
+        "authors": [
+          "Owen Hardman",
+          "Stephen Groat",
+          "Randy C. Marchany",
+          "Joseph G. Tront"
+        ]
+      },
+      {
+        "title": "Design of credentials for high-speed access control in service-oriented networks.",
+        "authors": [
+          "Hao Cai",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "Performance measurement of the CCNx Synchronization protocol.",
+        "authors": [
+          "Hila Ben Abraham",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Architecture for an open source network tester.",
+        "authors": [
+          "Muhammad Shahbaz",
+          "Gianni Antichi",
+          "Yilong Geng",
+          "Noa Zilberman",
+          "G. Adam Covington",
+          "Marc Bruyere",
+          "Nick Feamster",
+          "Nick McKeown",
+          "Bob Felderman",
+          "Michaela Blott",
+          "Andrew W. Moore",
+          "Philippe Owezarski"
+        ]
+      },
+      {
+        "title": "High-performance architecture for dynamically updatable packet classification on FPGA.",
+        "authors": [
+          "Yun Rock Qu",
+          "Shijie Zhou",
+          "Viktor K. Prasanna"
+        ]
+      },
+      {
+        "title": "Scalable high-performance parallel design for Network Intrusion Detection Systems on many-core processors.",
+        "authors": [
+          "Haiyang Jiang",
+          "Guangxing Zhang",
+          "Gaogang Xie",
+          "Kavé Salamatian",
+          "Laurent Mathy"
+        ]
+      },
+      {
+        "title": "Automated signature extraction for high volume attacks.",
+        "authors": [
+          "Yehuda Afek",
+          "Anat Bremler-Barr",
+          "Shir Landau Feibish"
+        ]
+      },
+      {
+        "title": "Asymmetric scaling on network packet processors in the dark silicon era.",
+        "authors": [
+          "Sourav Roy",
+          "Xiaomin Lu",
+          "Edmund Gieske",
+          "Peng Yang",
+          "Jim Holt"
+        ]
+      },
+      {
+        "title": "Optimal networks from error correcting codes.",
+        "authors": [
+          "Ratko V. Tomic"
+        ]
+      },
+      {
+        "title": "FAR: A fault-avoidance routing method for data center networks with regular topology.",
+        "authors": [
+          "Yantao Sun",
+          "Min Chen",
+          "Bin Liu",
+          "Shiwen Mao"
+        ]
+      },
+      {
+        "title": "SWSL: SoftWare Synthesis for network Lookup.",
+        "authors": [
+          "Sung Jin Kim",
+          "Lorenzo De Carli",
+          "Karthikeyan Sankaralingam",
+          "Cristian Estan"
+        ]
+      },
+      {
+        "title": "Picking pesky parameters: Optimizing regular expression matching in practice.",
+        "authors": [
+          "Xinming Chen",
+          "Brandon Jones",
+          "Michela Becchi",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "Named data networking on a router: Fast and DoS-resistant forwarding with hash tables.",
+        "authors": [
+          "Won So",
+          "Ashok Narayanan",
+          "David Oran"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2012.html": {
+    "header": "ANCS 2012: Austin, TX, USA",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "Softly defined networking.",
+        "authors": [
+          "Gordon J. Brebner"
+        ]
+      },
+      {
+        "title": "On the feasibility of completely wireless datacenters.",
+        "authors": [
+          "Ji-Yong Shin",
+          "Emin Gün Sirer",
+          "Hakim Weatherspoon",
+          "Darko Kirovski"
+        ]
+      },
+      {
+        "title": "Popularity-driven coordinated caching in named data networking.",
+        "authors": [
+          "Jun Li",
+          "Hao Wu",
+          "Bin Liu",
+          "Jianyuan Lu",
+          "Yi Wang",
+          "Xin Wang",
+          "Yanyong Zhang",
+          "Lijun Dong"
+        ]
+      },
+      {
+        "title": "NetSlices: scalable multi-core packet processing in user-space.",
+        "authors": [
+          "Tudor Marian",
+          "Ki Suh Lee",
+          "Hakim Weatherspoon"
+        ]
+      },
+      {
+        "title": "Cache-aware affinitization on commodity multicores for high-speed network flows.",
+        "authors": [
+          "Vishal Ahuja",
+          "Matthew K. Farrens",
+          "Dipak Ghosal"
+        ]
+      },
+      {
+        "title": "xOMB: extensible open middleboxes with commodity servers.",
+        "authors": [
+          "James W. Anderson",
+          "Ryan Braud",
+          "Rishi Kapoor",
+          "George Porter",
+          "Amin Vahdat"
+        ]
+      },
+      {
+        "title": "NetBump: user-extensible active queue management with bumps on the wire.",
+        "authors": [
+          "Mohammad Al-Fares",
+          "Rishi Kapoor",
+          "George Porter",
+          "Sambit Das",
+          "Hakim Weatherspoon",
+          "Balaji Prabhakar",
+          "Amin Vahdat"
+        ]
+      },
+      {
+        "title": "Fast longest prefix name lookup for content-centric network forwarding.",
+        "authors": [
+          "Fu Li",
+          "Fuyu Chen",
+          "Jianming Wu",
+          "Haiyong Xie"
+        ]
+      },
+      {
+        "title": "Hardware support for dynamic protocol stacks.",
+        "authors": [
+          "Ariane Keller",
+          "Daniel Borkmann",
+          "Stephan Neuhaus"
+        ]
+      },
+      {
+        "title": "Low-latency modular packet header parser for FPGA.",
+        "authors": [
+          "Viktor Pus",
+          "Lukas Kekely",
+          "Jan Korenek"
+        ]
+      },
+      {
+        "title": "M-DFA (multithreaded DFA): an algorithm for reduction of state transitions and acceleration of REGEXP matching.",
+        "authors": [
+          "Cheng-Hung Lin",
+          "Jyh-Charn Liu"
+        ]
+      },
+      {
+        "title": "A new embedded platform for rapid development of network applications.",
+        "authors": [
+          "Jan Korenek",
+          "Pavol Korcek",
+          "Vlastimil Kosar",
+          "Martin Zádník",
+          "Jan Viktorin"
+        ]
+      },
+      {
+        "title": "Structural compression of packet classification trees.",
+        "authors": [
+          "Xiang Wang",
+          "Zhi Liu",
+          "Yaxuan Qi",
+          "Jun Li"
+        ]
+      },
+      {
+        "title": "Toward fast NDN software forwarding lookup engine based on hash tables.",
+        "authors": [
+          "Won So",
+          "Ashok Narayanan",
+          "Dave Oran",
+          "Yaogong Wang"
+        ]
+      },
+      {
+        "title": "Host-based multi-tenant technology for scalable data center networks.",
+        "authors": [
+          "Koichi Onoue",
+          "Naoki Matsuoka",
+          "Jun Tanaka"
+        ]
+      },
+      {
+        "title": "Distributed adaptive routing for big-data applications running on data center networks.",
+        "authors": [
+          "Eitan Zahavi",
+          "Isaac Keslassy",
+          "Avinoam Kolodny"
+        ]
+      },
+      {
+        "title": "Efficient buffering and scheduling for a single-chip crosspoint-queued switch.",
+        "authors": [
+          "Zizhong Cao",
+          "Shivendra S. Panwar"
+        ]
+      },
+      {
+        "title": "Efficient traffic aware power management in multicore communications processors.",
+        "authors": [
+          "Muhammad Faisal Iqbal",
+          "Lizy Kurian John"
+        ]
+      },
+      {
+        "title": "Software is the future of networking.",
+        "authors": [
+          "Teemu Koponen"
+        ]
+      },
+      {
+        "title": "Attendre: mitigating ill effects of race conditions in openflow via queueing mechanism.",
+        "authors": [
+          "Xiaoye Sun",
+          "Apoorv Agarwal",
+          "Tze Sing Eugene Ng"
+        ]
+      },
+      {
+        "title": "Dynamic frequency scaling architecture for energy efficient router.",
+        "authors": [
+          "Wenliang Fu",
+          "Tian Song",
+          "Shian Wang",
+          "Xiaojun Wang"
+        ]
+      },
+      {
+        "title": "Extensible hierarchical simulation of network systems.",
+        "authors": [
+          "Xinming Chen",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "FlowOS: a pure flow-based vision of network traffic.",
+        "authors": [
+          "Abdul Alim",
+          "Mehdi Bezahaf",
+          "Laurent Mathy"
+        ]
+      },
+      {
+        "title": "Modular design of data vortex switch network.",
+        "authors": [
+          "Brett Burley",
+          "Qimin Yang"
+        ]
+      },
+      {
+        "title": "PVNs: making virtualized network infrastructure usable.",
+        "authors": [
+          "Shufeng Huang",
+          "James Griffioen",
+          "Kenneth L. Calvert"
+        ]
+      },
+      {
+        "title": "Securing multi-core multi-threaded packet processors.",
+        "authors": [
+          "Danai Chasaki"
+        ]
+      },
+      {
+        "title": "A hardware spinal decoder.",
+        "authors": [
+          "Peter Anthony Iannucci",
+          "Kermin Elliott Fleming",
+          "Jonathan Perry",
+          "Hari Balakrishnan",
+          "Devavrat Shah"
+        ]
+      },
+      {
+        "title": "Fast submatch extraction using OBDDs.",
+        "authors": [
+          "Liu Yang",
+          "Pratyusa K. Manadhata",
+          "William G. Horne",
+          "Prasad Rao",
+          "Vinod Ganapathy"
+        ]
+      },
+      {
+        "title": "LEAP: latency- energy- and area-optimized lookup pipeline.",
+        "authors": [
+          "Eric N. Harris",
+          "Samuel L. Wasmundt",
+          "Lorenzo De Carli",
+          "Karthikeyan Sankaralingam",
+          "Cristian Estan"
+        ]
+      },
+      {
+        "title": "Floating ground architecture: overcoming the one-hop boundary of current mobile internet.",
+        "authors": [
+          "Hajime Tazaki",
+          "Rodney Van Meter",
+          "Ryuji Wakikawa",
+          "Noriyuki Shigechika",
+          "Keisuke Uehara",
+          "Jun Murai"
+        ]
+      },
+      {
+        "title": "ECOS: leveraging software-defined networks to support mobile application offloading.",
+        "authors": [
+          "Aaron Gember",
+          "Christopher Dragga",
+          "Aditya Akella"
+        ]
+      },
+      {
+        "title": "On pending interest table in named data networking.",
+        "authors": [
+          "Huichen Dai",
+          "Bin Liu",
+          "Yan Chen",
+          "Yi Wang"
+        ]
+      },
+      {
+        "title": "Coexist: integrating content oriented publish/subscribe systems with ip.",
+        "authors": [
+          "Jiachen Chen",
+          "Mayutan Arumaithurai",
+          "Xiaoming Fu",
+          "K. K. Ramakrishnan"
+        ]
+      },
+      {
+        "title": "MCA2: multi-core architecture for mitigating complexity attacks.",
+        "authors": [
+          "Yehuda Afek",
+          "Anat Bremler-Barr",
+          "Yotam Harchol",
+          "David Hay",
+          "Yaron Koral"
+        ]
+      },
+      {
+        "title": "Malacoda: towards high-level compilation of network security applications on reconfigurable hardware.",
+        "authors": [
+          "Sascha Mühlbach",
+          "Andreas Koch"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2011.html": {
+    "header": "ANCS 2011: Brooklyn, NY, USA",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "Ally: OS-Transparent Packet Inspection Using Sequestered Cores.",
+        "authors": [
+          "Jen-Cheng Huang",
+          "Matteo Monchiero",
+          "Yoshio Turner",
+          "Hsien-Hsin S. Lee"
+        ]
+      },
+      {
+        "title": "400 Gb/s Programmable Packet Parsing on a Single FPGA.",
+        "authors": [
+          "Michael Attig",
+          "Gordon J. Brebner"
+        ]
+      },
+      {
+        "title": "Chain-Based DFA Deflation for Fast and Scalable Regular Expression Matching Using TCAM.",
+        "authors": [
+          "Kunyang Peng",
+          "Siyuan Tang",
+          "Min Chen",
+          "Qunfeng Dong"
+        ]
+      },
+      {
+        "title": "AC-Suffix-Tree: Buffer Free String Matching on Out-of-Sequence Packets.",
+        "authors": [
+          "Xinming Chen",
+          "Kailin Ge",
+          "Zhen Chen",
+          "Jun Li"
+        ]
+      },
+      {
+        "title": "E-AHRW: An Energy-Efficient Adaptive Hash Scheduler for Stream Processing on Multi-core Servers.",
+        "authors": [
+          "Jilong Kuang",
+          "Laxmi N. Bhuyan",
+          "Haiyong Xie",
+          "Danhua Guo"
+        ]
+      },
+      {
+        "title": "Predictive Model-Based Thermal Management for Network Applications.",
+        "authors": [
+          "Jilong Kuang",
+          "Laxmi N. Bhuyan"
+        ]
+      },
+      {
+        "title": "HPC-Mesh: A Homogeneous Parallel Concentrated Mesh for Fault-Tolerance and Energy Savings.",
+        "authors": [
+          "Jesús Camacho Villanueva",
+          "José Flich"
+        ]
+      },
+      {
+        "title": "Accelerating Sketch-Based Computations with GPU: A Case Study for Network Traffic Change Detection.",
+        "authors": [
+          "Theophilus Wellem",
+          "Yu-Kuen Lai",
+          "Chun-Chieh Lee",
+          "Kuei-Sheng Yang"
+        ]
+      },
+      {
+        "title": "Efficient Implementation of Dynamic Protocol Stacks.",
+        "authors": [
+          "Ariane Keller",
+          "Daniel Borkmann",
+          "Wolfgang Mühlbauer"
+        ]
+      },
+      {
+        "title": "Fast and Compact Regular Expression Matching Using Character Substitution.",
+        "authors": [
+          "Xingkui Liu",
+          "Xinchun Liu",
+          "Ninghui Sun"
+        ]
+      },
+      {
+        "title": "Fast Content Distribution on Datacenter Networks.",
+        "authors": [
+          "Shakir James",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Fast Path Performance of Packet Cache Router Using Multi-core Network Processor.",
+        "authors": [
+          "Shu Yamamoto",
+          "Akihiro Nakao"
+        ]
+      },
+      {
+        "title": "Inferring Packet Processing Behavior Using Input/Output Monitors.",
+        "authors": [
+          "Danai Chasaki",
+          "Qiang Wu",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "Modeling Filtering Predicates Composition with Finite State Automata.",
+        "authors": [
+          "Marco Leogrande",
+          "Luigi Ciminiera",
+          "Fulvio Risso"
+        ]
+      },
+      {
+        "title": "Netbench: Framework for Evaluation of Packet Processing Algorithms.",
+        "authors": [
+          "Viktor Pus",
+          "Jiri Tobola",
+          "Vlastimil Kosar",
+          "Jan Kastil",
+          "Jan Korenek"
+        ]
+      },
+      {
+        "title": "Routing Optimization for Ensemble Routing.",
+        "authors": [
+          "Wenfei Wu",
+          "Yoshio Turner",
+          "Mike Schlansker"
+        ]
+      },
+      {
+        "title": "COPSS: An Efficient Content Oriented Publish/Subscribe System.",
+        "authors": [
+          "Jiachen Chen",
+          "Mayutan Arumaithurai",
+          "Lei Jiao",
+          "Xiaoming Fu",
+          "K. K. Ramakrishnan"
+        ]
+      },
+      {
+        "title": "A Scalability Study of Enterprise Network Architectures.",
+        "authors": [
+          "Brent E. Stephens",
+          "Alan L. Cox",
+          "Scott Rixner",
+          "T. S. Eugene Ng"
+        ]
+      },
+      {
+        "title": "FIFO Service with Differentiated Queueing.",
+        "authors": [
+          "Martin Karsten"
+        ]
+      },
+      {
+        "title": "A Canonical Multicore Architecture for Network Routers.",
+        "authors": [
+          "Sabina Grover",
+          "Abhishek Dhanotia",
+          "Gregory T. Byrd"
+        ]
+      },
+      {
+        "title": "ReClick - A Modular Dataplane Design Framework for FPGA-Based Network Virtualization.",
+        "authors": [
+          "Deepak Unnikrishnan",
+          "Shiting (Justin) Lu",
+          "Lixin Gao",
+          "Russell Tessier"
+        ]
+      },
+      {
+        "title": "Non-crypto Hardware Hash Functions for High Performance Networking ASICs.",
+        "authors": [
+          "Nan Hua",
+          "Eric Norige",
+          "Sailesh Kumar",
+          "Bill Lynch"
+        ]
+      },
+      {
+        "title": "A Multi-dimensional Progressive Perfect Hashing for High-Speed String Matching.",
+        "authors": [
+          "Yang Xu",
+          "Lei Ma",
+          "Zhaobo Liu",
+          "H. Jonathan Chao"
+        ]
+      },
+      {
+        "title": "SMILER: Towards Practical Online Traffic Classification.",
+        "authors": [
+          "Baohua Yang",
+          "Guangdong Hou",
+          "Lingyun Ruan",
+          "Yibo Xue",
+          "Jun Li"
+        ]
+      },
+      {
+        "title": "Experiences in Co-designing a Packet Classification Algorithm and a Flexible Hardware Platform.",
+        "authors": [
+          "Nilay Vaish",
+          "Thawan Kooburat",
+          "Lorenzo De Carli",
+          "Karthikeyan Sankaralingam",
+          "Cristian Estan"
+        ]
+      },
+      {
+        "title": "Split: Optimizing Space, Power, and Throughput for TCAM-Based Classification.",
+        "authors": [
+          "Chad R. Meiners",
+          "Alex X. Liu",
+          "Eric Torng",
+          "Jignesh M. Patel"
+        ]
+      },
+      {
+        "title": "A Dynamically Adapting Network Programming Framework.",
+        "authors": [
+          "Ben Wun",
+          "Mike Wilson",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Encrypted Packet Forwarding in Virtualized Networks.",
+        "authors": [
+          "Sriram Natarajan",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "File-Aware P2P Traffic Classification and Management.",
+        "authors": [
+          "Zhou Zhou",
+          "Tian Song"
+        ]
+      },
+      {
+        "title": "Hacking NetCOPE to Run on NetFPGA-10G.",
+        "authors": [
+          "Pavol Korcek",
+          "Vlastimil Kosar",
+          "Martin Zádník",
+          "Karel Koranda",
+          "Petr Kastovsky"
+        ]
+      },
+      {
+        "title": "Hardware Precomputation of Entropy for Anomaly Detection.",
+        "authors": [
+          "Václav Bartos",
+          "Martin Zádník"
+        ]
+      },
+      {
+        "title": "On High QoS Constraints over Shared Resource Networks.",
+        "authors": [
+          "Josu Bilbao",
+          "Aitor Calvo",
+          "Igor Armendariz",
+          "Pedro M. Crespo"
+        ]
+      },
+      {
+        "title": "Performance Measurement of Name-Centric Content Distribution Methods.",
+        "authors": [
+          "Haowei Yuan",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Virtual Network Mapping with Traffic Matrices.",
+        "authors": [
+          "Cong Wang",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "Streaming Solutions for Fine-Grained Network Traffic Measurements and Analysis.",
+        "authors": [
+          "Faisal Khan",
+          "Nicholas Hosein",
+          "Chen-Nee Chuah",
+          "Soheil Ghiasi"
+        ]
+      },
+      {
+        "title": "A Passive Network Appliance for Real-Time Network Monitoring.",
+        "authors": [
+          "Michael J. Schultz",
+          "Ben Wun",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "LEISURE: A Framework for Load-Balanced Network-Wide Traffic Measurement.",
+        "authors": [
+          "Chia-Wei Chang",
+          "Guanyao Huang",
+          "Bill Lin",
+          "Chen-Nee Chuah"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2010.html": {
+    "header": "ANCS 2010: San Diego, California, USA",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Fair multithreading on packet processors for scalable network virtualization.",
+        "authors": [
+          "Qiang Wu",
+          "Shashank Shanbhag",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "A folded pipeline network processor architecture for 100 Gbit/s networks.",
+        "authors": [
+          "Kimon Karras",
+          "Thomas Wild",
+          "Andreas Herkersdorf"
+        ]
+      },
+      {
+        "title": "Design of a secure packet processor.",
+        "authors": [
+          "Danai Chasaki",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "Airblue: a system for cross-layer wireless protocol development.",
+        "authors": [
+          "Man Cheuk Ng",
+          "Kermin Elliott Fleming",
+          "Mythili Vutukuru",
+          "Samuel Gross",
+          "Arvind",
+          "Hari Balakrishnan"
+        ]
+      },
+      {
+        "title": "An architecture for software defined cognitive radio.",
+        "authors": [
+          "Aveek Dutta",
+          "Dola Saha",
+          "Dirk Grunwald",
+          "Douglas C. Sicker"
+        ]
+      },
+      {
+        "title": "End-to-end congestion management for non-blocking multi-stage switching fabrics.",
+        "authors": [
+          "Nikolaos Chrysos",
+          "Lydia Y. Chen",
+          "Cyriel Minkenberg",
+          "Christoforos Kachris",
+          "Manolis Katevenis"
+        ]
+      },
+      {
+        "title": "High speed pattern matching algorithm based on deterministic finite automata with faulty transition table.",
+        "authors": [
+          "Jan Kastil",
+          "Jan Korenek"
+        ]
+      },
+      {
+        "title": "HELIOS: a high energy-efficiency locally-scheduled input-queued optical switch.",
+        "authors": [
+          "Shunyuan Ye",
+          "Yanming Shen",
+          "Shivendra S. Panwar"
+        ]
+      },
+      {
+        "title": "A traffic-aware top-N firewall ruleset approximation algorithm.",
+        "authors": [
+          "Ho-Yu Lam",
+          "Donghan (Jarod) Wang",
+          "H. Jonathan Chao"
+        ]
+      },
+      {
+        "title": "Bit-shuffled trie: a new approach for IP address lookup.",
+        "authors": [
+          "Derek Chi-Wai Pao",
+          "Ziyan Lu"
+        ]
+      },
+      {
+        "title": "Efficient packet classification algorithm based on entropy.",
+        "authors": [
+          "Michal Kajan",
+          "Jan Korenek"
+        ]
+      },
+      {
+        "title": "Fast regular expression matching in hardware using NFA-BDD combination.",
+        "authors": [
+          "Danai Chasaki",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "Improving PC-based OpenFlow switching performance.",
+        "authors": [
+          "Voravit Tanyingyong",
+          "Markus Hidell",
+          "Peter Sjödin"
+        ]
+      },
+      {
+        "title": "NFA split architecture for fast regular expression matching.",
+        "authors": [
+          "Jan Korenek",
+          "Vlastimil Kosar"
+        ]
+      },
+      {
+        "title": "Software-based implementations of updateable data structures for high-speed URL matching.",
+        "authors": [
+          "Haowei Yuan",
+          "Benjamin Wun",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Throughput of random arbitration for approximate matchings.",
+        "authors": [
+          "Lydia Y. Chen",
+          "Nikos Chrysos"
+        ]
+      },
+      {
+        "title": "Efficient lookahead routing and header compression for multicasting in networks-on-chip.",
+        "authors": [
+          "Lei Wang",
+          "Poornachandran Kumar",
+          "Rahul Boyapati",
+          "Ki Hwan Yum",
+          "Eun Jung Kim"
+        ]
+      },
+      {
+        "title": "Energy-aware routing in hybrid optical network-on-chip for future multi-processor system-on-chip.",
+        "authors": [
+          "Lin Liu",
+          "Yuanyuan Yang"
+        ]
+      },
+      {
+        "title": "Destination-based adaptive routing on 2D mesh networks.",
+        "authors": [
+          "Rohit Sunkam Ramanujam",
+          "Bill Lin"
+        ]
+      },
+      {
+        "title": "Range hash for regular expression pre-filtering.",
+        "authors": [
+          "Masanori Bando",
+          "N. Sertac Artan",
+          "Rihua Wei",
+          "Xiangyi Guo",
+          "H. Jonathan Chao"
+        ]
+      },
+      {
+        "title": "Packet scheduling for deep packet inspection on multi-core architectures.",
+        "authors": [
+          "Terry Nelms",
+          "Mustaque Ahamad"
+        ]
+      },
+      {
+        "title": "Axon: a flexible substrate for source-routed ethernet.",
+        "authors": [
+          "Jeffrey Shafer",
+          "Brent E. Stephens",
+          "Michael Foss",
+          "Scott Rixner",
+          "Alan L. Cox"
+        ]
+      },
+      {
+        "title": "Ensemble routing for datacenter networks.",
+        "authors": [
+          "Mike Schlansker",
+          "Yoshio Turner",
+          "Jean Tourrilhes",
+          "Alan Karp"
+        ]
+      },
+      {
+        "title": "DOS: a scalable optical switch for datacenters.",
+        "authors": [
+          "Xiaohui Ye",
+          "Yawei Yin",
+          "S. J. Ben Yoo",
+          "Paul Vincent Mejia",
+          "Roberto Proietti",
+          "Venkatesh Akella"
+        ]
+      },
+      {
+        "title": "A new TCB cache to efficiently manage TCP sessions for web servers.",
+        "authors": [
+          "Guangdeng Liao",
+          "Laxmi N. Bhuyan",
+          "Wei Wu",
+          "Heeyeol Yu",
+          "Steve R. King"
+        ]
+      },
+      {
+        "title": "sNICh: efficient last hop networking in the data center.",
+        "authors": [
+          "Kaushik Kumar Ram",
+          "Jayaram Mudigonda",
+          "Alan L. Cox",
+          "Scott Rixner",
+          "Parthasarathy Ranganathan",
+          "Jose Renato Santos"
+        ]
+      },
+      {
+        "title": "An experimental evaluation of distributed rate limiting for cloud computing applications.",
+        "authors": [
+          "Joseph Doyle",
+          "Robert Shorten",
+          "Donal O'Mahony"
+        ]
+      },
+      {
+        "title": "TnT: transparent network tracker for P2P applications.",
+        "authors": [
+          "Shakir James",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Power optimization for multimedia transcoding on multicore servers.",
+        "authors": [
+          "Jilong Kuang",
+          "Danhua Guo",
+          "Laxmi N. Bhuyan"
+        ]
+      },
+      {
+        "title": "NetEx: efficient and cost-effective internet bulk content delivery.",
+        "authors": [
+          "Massimiliano Marcon",
+          "Nuno Santos",
+          "P. Krishna Gummadi",
+          "Nikolaos Laoutaris",
+          "Pablo Rodriguez",
+          "Amin Vahdat"
+        ]
+      },
+      {
+        "title": "Evolution of cache replacement policies to track heavy-hitter flows.",
+        "authors": [
+          "Martin Zádník",
+          "Marco Canini"
+        ]
+      },
+      {
+        "title": "Load balancing packets on a tile-based massive multi-core processor with S-NUCA.",
+        "authors": [
+          "Enric Musoll"
+        ]
+      },
+      {
+        "title": "Simple two-priority, low-jitter scheduler.",
+        "authors": [
+          "Wladek Olesinski",
+          "Hans Eberle"
+        ]
+      },
+      {
+        "title": "TED: tool for testing and debugging uDAPL.",
+        "authors": [
+          "Eva Mishra",
+          "Yogeshwar Sonawane"
+        ]
+      },
+      {
+        "title": "Galois field hardware architectures for network coding.",
+        "authors": [
+          "Aishwarya Nagarajan",
+          "Michael J. Schulte",
+          "Parameswaran Ramanathan"
+        ]
+      },
+      {
+        "title": "Chimpp: a click-based programming and simulation environment for reconfigurable networking hardware.",
+        "authors": [
+          "Erik Rubow",
+          "Rick McGeer",
+          "Jeffrey C. Mogul",
+          "Amin Vahdat"
+        ]
+      },
+      {
+        "title": "The case for hardware transactional memory in software packet processing.",
+        "authors": [
+          "Martin Labrecque",
+          "J. Gregory Steffan"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2009.html": {
+    "header": "ANCS 2009: Princeton, New Jersey, USA",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Software radio: a broad change in RF communications systems design.",
+        "authors": [
+          "John R. Chapin"
+        ]
+      },
+      {
+        "title": "Networking hardware: what drives innovation?",
+        "authors": [
+          "Jack Brassil",
+          "Jonathan M. Smith",
+          "Flavio Bonomi",
+          "Keren Bergman",
+          "Paul Congdon",
+          "Ivan Seskar",
+          "Steve Muir"
+        ]
+      },
+      {
+        "title": "Revisiting the internet hourglass: core strength vs. middle-age spread.",
+        "authors": [
+          "Bruce Davie"
+        ]
+      },
+      {
+        "title": "Simplifying data path processing in next-generation routers.",
+        "authors": [
+          "Qiang Wu",
+          "Danai Chasaki",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "Exploitation and threat analysis of open mobile devices.",
+        "authors": [
+          "Lei Liu",
+          "Xinwen Zhang",
+          "Guanhua Yan",
+          "Songqing Chen"
+        ]
+      },
+      {
+        "title": "Evaluating regular expression matching engines on network and general purpose processors.",
+        "authors": [
+          "Michela Becchi",
+          "Charlie Wiseman",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "LaFA: lookahead finite automata for scalable regular expression detection.",
+        "authors": [
+          "Masanori Bando",
+          "N. Sertac Artan",
+          "H. Jonathan Chao"
+        ]
+      },
+      {
+        "title": "An adaptive hash-based multilayer scheduler for L7-filter on a highly threaded hierarchical multi-core server.",
+        "authors": [
+          "Danhua Guo",
+          "Guangdeng Liao",
+          "Laxmi N. Bhuyan",
+          "Bin Liu"
+        ]
+      },
+      {
+        "title": "A NFA-based programmable regular expression match engine.",
+        "authors": [
+          "Derek Chi-Wai Pao"
+        ]
+      },
+      {
+        "title": "High throughput architecture for packet classification using FPGA.",
+        "authors": [
+          "Tao Zhang",
+          "Yonggang Wang",
+          "Lijun Zhang",
+          "Yang Yang"
+        ]
+      },
+      {
+        "title": "A block-based reservation architecture for the implementation of large packet buffers.",
+        "authors": [
+          "Hao Wang",
+          "Bill Lin"
+        ]
+      },
+      {
+        "title": "OASis: towards extensible open-architecture services platforms.",
+        "authors": [
+          "Yaxuan Qi",
+          "Fei He",
+          "Xiang Wang",
+          "Xinming Chen",
+          "Yibo Xue",
+          "Jun Li"
+        ]
+      },
+      {
+        "title": "EINIC: an architecture for high bandwidth network I/O on multi-core processors.",
+        "authors": [
+          "Guangdeng Liao",
+          "Laxmi N. Bhuyan",
+          "Danhua Guo",
+          "Steve R. King"
+        ]
+      },
+      {
+        "title": "Accelerating OpenFlow switching with network processors.",
+        "authors": [
+          "Yan Luo",
+          "Pablo Cascón",
+          "Eric Murray",
+          "Julio Ortega Lopera"
+        ]
+      },
+      {
+        "title": "Multiplexing endpoints of HCA to achieve scalability for MPI applications: design, implementation and performance evaluation with uDAPL.",
+        "authors": [
+          "Jasjit Singh",
+          "Yogeshwar Sonawane"
+        ]
+      },
+      {
+        "title": "Micro Secure Socket Layer (MSSL) for micro server.",
+        "authors": [
+          "Nguyen Thanh Hoa",
+          "Kensuke Naoe",
+          "Yoshiyasu Takefuji"
+        ]
+      },
+      {
+        "title": "A path combinational method for multiple pattern matching.",
+        "authors": [
+          "Tian Song",
+          "Dongsheng Wang"
+        ]
+      },
+      {
+        "title": "A lock-free, cache-efficient shared ring buffer for multi-core architectures.",
+        "authors": [
+          "Patrick P. C. Lee",
+          "Tian Bu",
+          "Girish P. Chandranmenon"
+        ]
+      },
+      {
+        "title": "Hash-based routing for scalable datacenters.",
+        "authors": [
+          "Mike Schlansker",
+          "Jean Tourrilhes",
+          "Yoshio Turner",
+          "Jose Renato Santos"
+        ]
+      },
+      {
+        "title": "Theoretic analysis of finite automata for memory-based pattern matching.",
+        "authors": [
+          "Lucas Vespa",
+          "Ning Weng"
+        ]
+      },
+      {
+        "title": "Design and performance analysis of a DRAM-based statistics counter array architecture.",
+        "authors": [
+          "Haiquan (Chuck) Zhao",
+          "Hao Wang",
+          "Bill Lin",
+          "Jun (Jim) Xu"
+        ]
+      },
+      {
+        "title": "Motivating future interconnects: a differential measurement analysis of PCI latency.",
+        "authors": [
+          "David J. Miller",
+          "Philip M. Watts",
+          "Andrew W. Moore"
+        ]
+      },
+      {
+        "title": "Weighted random oblivious routing on torus networks.",
+        "authors": [
+          "Rohit Sunkam Ramanujam",
+          "Bill Lin"
+        ]
+      },
+      {
+        "title": "Design of a scalable nanophotonic interconnect for future multicores.",
+        "authors": [
+          "Avinash Karanth Kodi",
+          "Randy Morris"
+        ]
+      },
+      {
+        "title": "A novel 3D layer-multiplexed on-chip network.",
+        "authors": [
+          "Rohit Sunkam Ramanujam",
+          "Bill Lin"
+        ]
+      },
+      {
+        "title": "Divide and discriminate: algorithm for deterministic and fast hash lookups.",
+        "authors": [
+          "Domenico Ficara",
+          "Stefano Giordano",
+          "Sailesh Kumar",
+          "Bill Lynch"
+        ]
+      },
+      {
+        "title": "Range Tries for scalable address lookup.",
+        "authors": [
+          "Ioannis Sourdis",
+          "Georgios Stefanakis",
+          "Ruben de Smet",
+          "Georgi Gaydadjiev"
+        ]
+      },
+      {
+        "title": "Progressive hashing for packet processing using set associative memory.",
+        "authors": [
+          "Michel Hanna",
+          "Socrates Demetriades",
+          "Sangyeun Cho",
+          "Rami G. Melhem"
+        ]
+      },
+      {
+        "title": "SPC-FA: synergic parallel compact finite automaton to accelerate multi-string matching with low memory.",
+        "authors": [
+          "Junchen Jiang",
+          "Yi Tang",
+          "Bin Liu",
+          "Xiaofei Wang",
+          "Yang Xu"
+        ]
+      },
+      {
+        "title": "Memory optimization for packet classification algorithms.",
+        "authors": [
+          "Juraj Blaho",
+          "Jan Korenek",
+          "Viktor Pus"
+        ]
+      },
+      {
+        "title": "ISP managed peer-to-peer.",
+        "authors": [
+          "Shakir James",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Interfacing to a virtualized network infrastructure through network service abstractions.",
+        "authors": [
+          "Xin Huang",
+          "Shashank Shanbhag",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "Implementing URL-based forwarding on a network processor-based router platform.",
+        "authors": [
+          "Toshiro Yamauchi",
+          "Haowei Yuan",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Parallelization of Snort on a multi-core platform.",
+        "authors": [
+          "Benjamin Wun",
+          "Patrick Crowley",
+          "Arun Raghunath"
+        ]
+      },
+      {
+        "title": "Testbed for evaluating worm containment systems.",
+        "authors": [
+          "Ritam Chakrovorty",
+          "Lucas Vespa",
+          "Ning Weng"
+        ]
+      },
+      {
+        "title": "External storage middleware for wireless devices with limited resources.",
+        "authors": [
+          "Mario A. Gomez-Rodriguez",
+          "Víctor Jesús Sosa Sosa",
+          "Ivan López-Arévalo"
+        ]
+      },
+      {
+        "title": "Designing high-speed packet processing tasks at arbitrary levels of abstraction: implementation and evaluation of a MIXMAP system.",
+        "authors": [
+          "Simon Hauger"
+        ]
+      },
+      {
+        "title": "SANS: a scalable architecture for network intrusion prevention with stateful frontend.",
+        "authors": [
+          "Fei He",
+          "Yaxuan Qi",
+          "Yibo Xue",
+          "Jun Li"
+        ]
+      },
+      {
+        "title": "A novel hybrid SRAM/DRAM memory architecture for fast packet buffers.",
+        "authors": [
+          "Arthur Mutter"
+        ]
+      },
+      {
+        "title": "Binary search on levels using a Bloom filter for IPv6 address lookup.",
+        "authors": [
+          "Kyuhee Lim",
+          "Kyunghye Park",
+          "Hyesook Lim"
+        ]
+      },
+      {
+        "title": "A mobile healthcare system using IMS and the HL7 framework.",
+        "authors": [
+          "Stefanos A. Nikolidakis",
+          "Vasileios Giotsas",
+          "Dimitrios D. Vergados",
+          "Christos Douligeris"
+        ]
+      },
+      {
+        "title": "An ultra high throughput and memory efficient pipeline architecture for multi-match packet classification without TCAMs.",
+        "authors": [
+          "Yang Xu",
+          "Zhaobo Liu",
+          "Zhuoyuan Zhang",
+          "H. Jonathan Chao"
+        ]
+      },
+      {
+        "title": "Co-match: fast and efficient packet inspection for multiple flows.",
+        "authors": [
+          "Chao Zhu",
+          "Yingke Xie",
+          "Mingshu Wang",
+          "Jizhong Han",
+          "Chengde Han"
+        ]
+      },
+      {
+        "title": "Experience with high-speed automated application-identification for network-management.",
+        "authors": [
+          "Marco Canini",
+          "Wei Li",
+          "Martin Zádník",
+          "Andrew W. Moore"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2008.html": {
+    "header": "ANCS 2008: San Jose, California, USA",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Implementing an OpenFlow switch on the NetFPGA platform.",
+        "authors": [
+          "Jad Naous",
+          "David Erickson",
+          "G. Adam Covington",
+          "Guido Appenzeller",
+          "Nick McKeown"
+        ]
+      },
+      {
+        "title": "Design of a scalable network programming framework.",
+        "authors": [
+          "Ben Wun",
+          "Patrick Crowley",
+          "Arun Raghunath"
+        ]
+      },
+      {
+        "title": "A remotely accessible network processor-based router for network experimentation.",
+        "authors": [
+          "Charlie Wiseman",
+          "Jonathan S. Turner",
+          "Michela Becchi",
+          "Patrick Crowley",
+          "John D. DeHart",
+          "Mart Haitjema",
+          "Shakir James",
+          "Fred Kuhns",
+          "Jing Lu",
+          "Jyoti Parwatikar",
+          "Ritun Patney",
+          "Michael Wilson",
+          "Ken Wong",
+          "David Zar"
+        ]
+      },
+      {
+        "title": "Compact architecture for high-throughput regular expression matching on FPGA.",
+        "authors": [
+          "Yi-Hua E. Yang",
+          "Weirong Jiang",
+          "Viktor K. Prasanna"
+        ]
+      },
+      {
+        "title": "Acceleration of decision tree searching for IP traffic classification.",
+        "authors": [
+          "Yan Luo",
+          "Ke Xiang",
+          "Sanping Li"
+        ]
+      },
+      {
+        "title": "Efficient regular expression evaluation: theory to practice.",
+        "authors": [
+          "Michela Becchi",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "A scalable multithreaded L7-filter design for multi-core servers.",
+        "authors": [
+          "Danhua Guo",
+          "Guangdeng Liao",
+          "Laxmi N. Bhuyan",
+          "Bin Liu",
+          "Jianxun Jason Ding"
+        ]
+      },
+      {
+        "title": "On runtime management in multi-core packet processing systems.",
+        "authors": [
+          "Qiang Wu",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "MultiLayer processing - an execution model for parallel stateful packet processing.",
+        "authors": [
+          "Javier Verdú",
+          "Mario Nemirovsky",
+          "Mateo Valero"
+        ]
+      },
+      {
+        "title": "BRICK: a novel exact active statistics counter architecture.",
+        "authors": [
+          "Nan Hua",
+          "Bill Lin",
+          "Jun (Jim) Xu",
+          "Haiquan (Chuck) Zhao"
+        ]
+      },
+      {
+        "title": "Packet prediction for speculative cut-through switching.",
+        "authors": [
+          "Paul Congdon",
+          "Matthew K. Farrens",
+          "Prasant Mohapatra"
+        ]
+      },
+      {
+        "title": "A programmable architecture for scalable and real-time network traffic measurements.",
+        "authors": [
+          "Faisal Khan",
+          "Lihua Yuan",
+          "Chen-Nee Chuah",
+          "Soheil Ghiasi"
+        ]
+      },
+      {
+        "title": "Adaptive scheduling to maximize NIC throughput in a COTS router.",
+        "authors": [
+          "Qinghua Ye",
+          "Mike H. MacGregor"
+        ]
+      },
+      {
+        "title": "Input-queued switches with logarithmic delay: necessary conditions and a reconfigurable scheduling algorithm.",
+        "authors": [
+          "Krishnendu Roy",
+          "Ramachandran Vaidyanathan",
+          "Jerry L. Trahan"
+        ]
+      },
+      {
+        "title": "SimNP: a flexible platform for the simulation of a network processing system.",
+        "authors": [
+          "David Bermingham",
+          "Liu Zhen",
+          "Xiaojun Wang"
+        ]
+      },
+      {
+        "title": "Towards effective network algorithms on multi-core network processors.",
+        "authors": [
+          "Yaxuan Qi",
+          "Zongwei Zhou",
+          "Baohua Yang",
+          "Fei He",
+          "Yibo Xue",
+          "Jun Li"
+        ]
+      },
+      {
+        "title": "Performing time-sensitive network experiments.",
+        "authors": [
+          "Neda Beheshti",
+          "Yashar Ganjali",
+          "Monia Ghobadi",
+          "Nick McKeown",
+          "Jad Naous",
+          "Geoff Salmon"
+        ]
+      },
+      {
+        "title": "Data path credentials for high-performance capabilities-based networks.",
+        "authors": [
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "Low power architecture for high speed packet classification.",
+        "authors": [
+          "Alan Kennedy",
+          "Xiaojun Wang",
+          "Zhen Liu",
+          "Bin Liu"
+        ]
+      },
+      {
+        "title": "Stateful hardware decompression in networking environment.",
+        "authors": [
+          "Hao Yu",
+          "Hubertus Franke",
+          "Giora Biran",
+          "Amit Golander",
+          "Terry Nelms",
+          "Brian M. Bass"
+        ]
+      },
+      {
+        "title": "On design of bandwidth scheduling algorithms for multiple data transfers in dedicated networks.",
+        "authors": [
+          "Yunyue Lin",
+          "Qishi Wu"
+        ]
+      },
+      {
+        "title": "Software techniques to improve virtualized I/O performance on multi-core systems.",
+        "authors": [
+          "Guangdeng Liao",
+          "Danhua Guo",
+          "Laxmi N. Bhuyan",
+          "Steve R. King"
+        ]
+      },
+      {
+        "title": "Design optimization of a highly parallel InfiniBand host channel adapter.",
+        "authors": [
+          "Florian Auernhammer",
+          "Patricia Sagmeister"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2007.html": {
+    "header": "ANCS 2007: Orlando, Florida, USA",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "Ruler: high-speed packet matching and rewriting on NPUs.",
+        "authors": [
+          "Tomás Hrubý",
+          "Kees van Reeuwijk",
+          "Herbert Bos"
+        ]
+      },
+      {
+        "title": "Optimization of pattern matching algorithm for memory based architecture.",
+        "authors": [
+          "Cheng-Hung Lin",
+          "Yu-Tang Tai",
+          "Shih-Chieh Chang"
+        ]
+      },
+      {
+        "title": "Towards high-performance flow-level packet processing on multi-core network processors.",
+        "authors": [
+          "Yaxuan Qi",
+          "Bo Xu",
+          "Fei He",
+          "Baohua Yang",
+          "Jianming Yu",
+          "Jun Li"
+        ]
+      },
+      {
+        "title": "Frame shared memory: line-rate networking on commodity hardware.",
+        "authors": [
+          "John Giacomoni",
+          "John K. Bennett",
+          "Antonio Carzaniga",
+          "Douglas C. Sicker",
+          "Manish Vachharajani",
+          "Alexander L. Wolf"
+        ]
+      },
+      {
+        "title": "Experimental evaluation of a coarse-grained switch scheduler.",
+        "authors": [
+          "Charlie Wiseman",
+          "Jonathan S. Turner",
+          "Ken Wong",
+          "Brandon Heller"
+        ]
+      },
+      {
+        "title": "Design of a network architecture with inherent data path security.",
+        "authors": [
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "Experimenting with buffer sizes in routers.",
+        "authors": [
+          "Neda Beheshti",
+          "Jad Naous",
+          "Yashar Ganjali",
+          "Nick McKeown"
+        ]
+      },
+      {
+        "title": "To CMP or not to CMP: analyzing packet classification on modern and traditional parallel architectures.",
+        "authors": [
+          "Randy Smith",
+          "Dan Gibson",
+          "Shijin Kong"
+        ]
+      },
+      {
+        "title": "Flow-slice: a novel load-balancing scheme for multi-path switching systems.",
+        "authors": [
+          "Lei Shi",
+          "Bin Liu",
+          "Changhua Sun",
+          "Zhengyu Yin",
+          "Laxmi N. Bhuyan",
+          "H. Jonathan Chao"
+        ]
+      },
+      {
+        "title": "Design of adaptive communication channel buffers for low-power area-efficient network-on-chip architecture.",
+        "authors": [
+          "Avinash Karanth Kodi",
+          "Ashwini Sarathy",
+          "Ahmed Louri"
+        ]
+      },
+      {
+        "title": "Performance scalability of a multi-core web server.",
+        "authors": [
+          "Bryan Veal",
+          "Annie P. Foong"
+        ]
+      },
+      {
+        "title": "Automated task distribution in multicore network processors using statistical analysis.",
+        "authors": [
+          "Arindam Mallik",
+          "Yu Zhang",
+          "Gokhan Memik"
+        ]
+      },
+      {
+        "title": "Optimal packet scheduling in output-buffered optical switches with limited-range wavelength conversion.",
+        "authors": [
+          "Lin Liu",
+          "Yuanyuan Yang"
+        ]
+      },
+      {
+        "title": "Low-latency scheduling in large switches.",
+        "authors": [
+          "Wladek Olesinski",
+          "Nils Gura",
+          "Hans Eberle",
+          "Andres Mejia"
+        ]
+      },
+      {
+        "title": "On LID assignment in infiniBand networks.",
+        "authors": [
+          "Wickus Nienaber",
+          "Xin Yuan",
+          "Zhenhai Duan"
+        ]
+      },
+      {
+        "title": "Frame-aggregated concurrent matching switch.",
+        "authors": [
+          "Bill Lin",
+          "Isaac Keslassy"
+        ]
+      },
+      {
+        "title": "Congestion management for non-blocking clos networks.",
+        "authors": [
+          "Nikolaos Chrysos"
+        ]
+      },
+      {
+        "title": "Compiling PCRE to FPGA for accelerating SNORT IDS.",
+        "authors": [
+          "Abhishek Mitra",
+          "Walid A. Najjar",
+          "Laxmi N. Bhuyan"
+        ]
+      },
+      {
+        "title": "High-speed packet classification using binary search on length.",
+        "authors": [
+          "Hyesook Lim",
+          "Ju Hyoung Mun"
+        ]
+      },
+      {
+        "title": "An improved algorithm to accelerate regular expression evaluation.",
+        "authors": [
+          "Michela Becchi",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "Curing regular expressions matching algorithms from insomnia, amnesia, and acalculia.",
+        "authors": [
+          "Sailesh Kumar",
+          "Balakrishnan Chandrasekaran",
+          "Jonathan S. Turner",
+          "George Varghese"
+        ]
+      },
+      {
+        "title": "Enhancing interoperability and stateful analysis of cooperative network intrusion detection systems.",
+        "authors": [
+          "Michele Colajanni",
+          "Daniele Gozzi",
+          "Mirco Marchetti"
+        ]
+      },
+      {
+        "title": "High-speed detection of unsolicited bulk emails.",
+        "authors": [
+          "Sheng-Ya Lin",
+          "Cheng-Chung Tan",
+          "Jyh-Charn Liu",
+          "Michael Oehler"
+        ]
+      },
+      {
+        "title": "A programmable message classification engine for session initiation protocol (SIP).",
+        "authors": [
+          "Arup Acharya",
+          "Xiping Wang",
+          "Charles Wright"
+        ]
+      },
+      {
+        "title": "DPICO: a high speed deep packet inspection engine using compact finite automata.",
+        "authors": [
+          "Christopher L. Hayes",
+          "Yan Luo"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2006.html": {
+    "header": "ANCS 2006: San Jose, California, USA",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "A proposed architecture for the GENI backbone platform.",
+        "authors": [
+          "Jonathan S. Turner"
+        ]
+      },
+      {
+        "title": "Towards an efficient switch architecture for high-radix switches.",
+        "authors": [
+          "Gaspar Mora",
+          "José Flich",
+          "José Duato",
+          "Pedro López",
+          "Elvira Baydal",
+          "Olav Lysne"
+        ]
+      },
+      {
+        "title": "A practical fast parallel routing architecture for Clos networks.",
+        "authors": [
+          "Si-Qing Zheng",
+          "Ashwin Gumaste",
+          "Enyue Lu"
+        ]
+      },
+      {
+        "title": "Design of a web switch in a reconfigurable platform.",
+        "authors": [
+          "Christoforos Kachris",
+          "Stamatis Vassiliadis"
+        ]
+      },
+      {
+        "title": "Packet classification using coarse-grained tuple spaces.",
+        "authors": [
+          "Haoyu Song",
+          "Jonathan S. Turner",
+          "Sarang Dharmapurikar"
+        ]
+      },
+      {
+        "title": "CAMP: fast and efficient IP lookup architecture.",
+        "authors": [
+          "Sailesh Kumar",
+          "Michela Becchi",
+          "Patrick Crowley",
+          "Jonathan S. Turner"
+        ]
+      },
+      {
+        "title": "Fast packet classification using bloom filters.",
+        "authors": [
+          "Sarang Dharmapurikar",
+          "Haoyu Song",
+          "Jonathan S. Turner",
+          "John W. Lockwood"
+        ]
+      },
+      {
+        "title": "Efficient memory utilization on network processors for deep packet inspection.",
+        "authors": [
+          "Piti Piyachon",
+          "Yan Luo"
+        ]
+      },
+      {
+        "title": "Advanced algorithms for fast and scalable deep packet inspection.",
+        "authors": [
+          "Sailesh Kumar",
+          "Jonathan S. Turner",
+          "John Williams"
+        ]
+      },
+      {
+        "title": "Fast and memory-efficient regular expression matching for deep packet inspection.",
+        "authors": [
+          "Fang Yu",
+          "Zhifeng Chen",
+          "Yanlei Diao",
+          "T. V. Lakshman",
+          "Randy H. Katz"
+        ]
+      },
+      {
+        "title": "An effective network processor design framework: using multi-objective evolutionary algorithms and object oriented techniques to optimise the intel IXP1200 network processor.",
+        "authors": [
+          "Liam Noonan",
+          "Colin Flanagan"
+        ]
+      },
+      {
+        "title": "A methodology for evaluating runtime support in network processors.",
+        "authors": [
+          "Xin Huang",
+          "Tilman Wolf"
+        ]
+      },
+      {
+        "title": "High-throughput sketch update on a low-power stream processor.",
+        "authors": [
+          "Yu-Kuen Lai",
+          "Gregory T. Byrd"
+        ]
+      },
+      {
+        "title": "Symerton--using virtualization to accelerate packet processing.",
+        "authors": [
+          "Aaron R. Kunze",
+          "Stephen D. Goglin",
+          "Erik J. Johnson"
+        ]
+      },
+      {
+        "title": "Sequence-preserving adaptive load balancers.",
+        "authors": [
+          "Weiguang Shi",
+          "Lukas Kencl"
+        ]
+      },
+      {
+        "title": "Localized asynchronous packet scheduling for buffered crossbar switches.",
+        "authors": [
+          "Deng Pan",
+          "Yuanyuan Yang"
+        ]
+      },
+      {
+        "title": "Scalable network-based buffer overflow attack detection.",
+        "authors": [
+          "Fu-Hau Hsu",
+          "Fanglu Guo",
+          "Tzi-cker Chiueh"
+        ]
+      },
+      {
+        "title": "WormTerminator: an effective containment of unknown and polymorphic fast spreading worms.",
+        "authors": [
+          "Songqing Chen",
+          "Xinyuan Wang",
+          "Lei Liu",
+          "Xinwen Zhang"
+        ]
+      },
+      {
+        "title": "Packet pre-filtering for network intrusion detection.",
+        "authors": [
+          "Ioannis Sourdis",
+          "Vassilis Dimopoulos",
+          "Dionisios N. Pnevmatikatos",
+          "Stamatis Vassiliadis"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ancs/ancs2005.html": {
+    "header": "ANCS 2005: Princeton, New Jersey, USA",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "Overcoming the memory wall in packet processing: hammers or ladders?",
+        "authors": [
+          "Jayaram Mudigonda",
+          "Harrick M. Vin",
+          "Raj Yavatkar"
+        ]
+      },
+      {
+        "title": "Architectural impact of stateful networking applications.",
+        "authors": [
+          "Javier Verdú",
+          "Jorge García-Vidal",
+          "Mario Nemirovsky",
+          "Mateo Valero"
+        ]
+      },
+      {
+        "title": "Resource mapping and scheduling for heterogeneous network processor systems.",
+        "authors": [
+          "Liang Yang",
+          "Tushar Gohad",
+          "Pavel Ghosh",
+          "Devesh Sinha",
+          "Arunabha Sen",
+          "Andréa W. Richa"
+        ]
+      },
+      {
+        "title": "Group round robin: improving the fairness and complexity of packet scheduling.",
+        "authors": [
+          "Bogdan Caprita",
+          "Jason Nieh",
+          "Wong Chun Chan"
+        ]
+      },
+      {
+        "title": "Pipelined two step iterative matching algorithms for CIOQ crossbar switches.",
+        "authors": [
+          "Deng Pan",
+          "Yuanyuan Yang"
+        ]
+      },
+      {
+        "title": "Gigabit routing on a software-exposed tiled-microprocessor.",
+        "authors": [
+          "Umar Saif",
+          "James W. Anderson",
+          "Anthony Degangi",
+          "Anant Agarwal"
+        ]
+      },
+      {
+        "title": "An operating system architecture for network processors.",
+        "authors": [
+          "Steve Muir",
+          "Jonathan M. Smith"
+        ]
+      },
+      {
+        "title": "Design considerations for network processor operating systems.",
+        "authors": [
+          "Tilman Wolf",
+          "Ning Weng",
+          "Chia-Hui Tai"
+        ]
+      },
+      {
+        "title": "A novel reconfigurable hardware architecture for IP address lookup.",
+        "authors": [
+          "Hamid Fadishei",
+          "Morteza Saheb Zamani",
+          "Masoud Sabaei"
+        ]
+      },
+      {
+        "title": "Segmented hash: an efficient hash table implementation for high performance networking subsystems.",
+        "authors": [
+          "Sailesh Kumar",
+          "Patrick Crowley"
+        ]
+      },
+      {
+        "title": "SSA: a power and memory efficient scheme to multi-match packet classification.",
+        "authors": [
+          "Fang Yu",
+          "T. V. Lakshman",
+          "Martin Austin Motoyama",
+          "Randy H. Katz"
+        ]
+      },
+      {
+        "title": "Network processor acceleration for a Linux* netfilter firewall.",
+        "authors": [
+          "Kristen Accardi",
+          "Tony Bock",
+          "Frank T. Hady",
+          "Jon Krueger"
+        ]
+      },
+      {
+        "title": "Addressing data compatibility on programmable network platforms.",
+        "authors": [
+          "Ada Gavrilovska",
+          "Karsten Schwan"
+        ]
+      },
+      {
+        "title": "SpliceNP: a TCP splicer using a network processor.",
+        "authors": [
+          "Li Zhao",
+          "Yan Luo",
+          "Laxmi N. Bhuyan",
+          "Ravi R. Iyer"
+        ]
+      },
+      {
+        "title": "A scalable load balancer for forwarding internet traffic: exploiting flow-level burstiness.",
+        "authors": [
+          "Weiguang Shi",
+          "Mike H. MacGregor",
+          "Pawel Gburzynski"
+        ]
+      },
+      {
+        "title": "Minimizing the overhead in implementing flow-aware networking.",
+        "authors": [
+          "Abdesselem Kortebi",
+          "Luca Muscariello",
+          "Sara Oueslati",
+          "James W. Roberts"
+        ]
+      },
+      {
+        "title": "Framework for supporting multi-service edge packet processing on network processors.",
+        "authors": [
+          "Arun Raghunath",
+          "Aaron R. Kunze",
+          "Erik J. Johnson",
+          "Vinod Balakrishnan"
+        ]
+      },
+      {
+        "title": "Design and analysis of an NoC architecture from performance, reliability and energy perspective.",
+        "authors": [
+          "Jongman Kim",
+          "Dongkook Park",
+          "Chrysostomos Nicopoulos",
+          "Narayanan Vijaykrishnan",
+          "Chita R. Das"
+        ]
+      },
+      {
+        "title": "Fast and scalable pattern matching for content filtering.",
+        "authors": [
+          "Sarang Dharmapurikar",
+          "John W. Lockwood"
+        ]
+      },
+      {
+        "title": "High-throughput linked-pattern matching for intrusion detection systems.",
+        "authors": [
+          "Zachary K. Baker",
+          "Viktor K. Prasanna"
+        ]
+      },
+      {
+        "title": "Optimal XOR hashing for a linearly distributed address lookup in computer networks.",
+        "authors": [
+          "Christopher J. Martinez",
+          "Wei-Ming Lin",
+          "Parimal Patel"
+        ]
+      },
+      {
+        "title": "Fast payload-based flow estimation for traffic monitoring and network security.",
+        "authors": [
+          "Fang Hao",
+          "Murali S. Kodialam",
+          "T. V. Lakshman",
+          "Hui Zhang"
+        ]
+      }
+    ]
+  }
+}

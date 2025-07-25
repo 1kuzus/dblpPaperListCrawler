@@ -1,0 +1,1937 @@
+{
+  "https://dblp.org/db/conf/apnet/apnet2024.html": {
+    "header": "APNet 2024: Sydney, Australia",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "Understanding Communication Characteristics of Distributed Training.",
+        "authors": [
+          "Wenxue Li",
+          "Xiangzhou Liu",
+          "Yuxuan Li",
+          "Yilun Jin",
+          "Han Tian",
+          "Zhizhen Zhong",
+          "Guyue Liu",
+          "Ying Zhang",
+          "Kai Chen"
+        ]
+      },
+      {
+        "title": "HF^2T: Host-Based Flowlet Fine-Tuning for RDMA Load Balancing.",
+        "authors": [
+          "Chuhao Chen",
+          "Jiarui Ye",
+          "Yongbo Gao",
+          "Sen Liu",
+          "Yang Xu"
+        ]
+      },
+      {
+        "title": "LubeRDMA: A Fail-safe Mechanism of RDMA.",
+        "authors": [
+          "Shengkai Lin",
+          "Qinwei Yang",
+          "Zengyin Yang",
+          "Yuchuan Wang",
+          "Shizhen Zhao"
+        ]
+      },
+      {
+        "title": "Rethinking DNS Configuration Verification with a Distributed Architecture.",
+        "authors": [
+          "Yao Wang",
+          "Kexin Yu",
+          "Ziyi Wang",
+          "Kaiqiang Hu",
+          "Haizhou Du",
+          "Qiao Xiang",
+          "Xing Fang",
+          "Geng Li",
+          "Ruiting Zhou",
+          "Linghe Kong",
+          "Jiwu Shu"
+        ]
+      },
+      {
+        "title": "Rethinking Intra-host Congestion Control in RDMA Networks.",
+        "authors": [
+          "Zirui Wan",
+          "Jiao Zhang",
+          "Yuxiang Wang",
+          "Kefei Liu",
+          "Haoyu Pan",
+          "Tao Huang"
+        ]
+      },
+      {
+        "title": "A Little Certainty is All We Need: Discovery and Synchronization Acceleration in Battery-Free IoT.",
+        "authors": [
+          "Gaosheng Liu",
+          "Vinod Nigade",
+          "Henri E. Bal",
+          "Lin Wang"
+        ]
+      },
+      {
+        "title": "QuarkTable: Building Compact Forwarding Tables for Programmable Switches on Public Clouds.",
+        "authors": [
+          "Jianyuan Lu",
+          "Huaiyi Zhao",
+          "Yu Qi",
+          "Yehao Feng",
+          "Xinyu Guo",
+          "Shengru Li",
+          "Enge Song",
+          "Xionglie Wei",
+          "Biao Lyu",
+          "Rong Wen",
+          "Shunmin Zhu"
+        ]
+      },
+      {
+        "title": "Software-based Live Migration for Containerized RDMA.",
+        "authors": [
+          "Xiaoyu Li",
+          "Ran Shu",
+          "Yongqiang Xiong",
+          "Fengyuan Ren"
+        ]
+      },
+      {
+        "title": "CMDRL: A Markovian Distributed Rate Limiting Algorithm in Cloud Networks.",
+        "authors": [
+          "Lilong Chen",
+          "Xiaochong Jiang",
+          "Xiang Hu",
+          "Tianyu Xu",
+          "Ye Yang",
+          "Xing Li",
+          "Bingqian Lu",
+          "Chengkun Wei",
+          "Wenzhi Chen"
+        ]
+      },
+      {
+        "title": "LEFT: LightwEight and FasT packet Reordering for RDMA.",
+        "authors": [
+          "Peihao Huang",
+          "Xin Zhang",
+          "Zhigang Chen",
+          "Can Liu",
+          "Guo Chen"
+        ]
+      },
+      {
+        "title": "Cross-Platform Transpilation of Packet-Processing Programs using Program Synthesis.",
+        "authors": [
+          "Xiangyu Gao",
+          "Jiaqi Gao",
+          "Karan Kumar G.",
+          "Ennan Zhai",
+          "Srinivas Narayana",
+          "Anirudh Sivaraman"
+        ]
+      },
+      {
+        "title": "Scaling Data Plane Verification via Parallelization.",
+        "authors": [
+          "Sisi Wen",
+          "Anubhavnidhi Abhashkumar",
+          "Chenyang Zhao",
+          "Weirong Jiang"
+        ]
+      },
+      {
+        "title": "Revisiting Congestion Control for WiFi Networks.",
+        "authors": [
+          "Xinle Du",
+          "Jie Li",
+          "Yiyang Shao",
+          "Wei Wang",
+          "Shuihai Hu",
+          "Jingbin Zhou",
+          "Kun Tan"
+        ]
+      },
+      {
+        "title": "vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers.",
+        "authors": [
+          "Xin Yin",
+          "Enge Song",
+          "Ye Yang",
+          "Yi Wang",
+          "Bowen Yang",
+          "Jianyuan Lu",
+          "Xing Li",
+          "Biao Lyu",
+          "Rong Wen",
+          "Shibo He",
+          "Yuanchao Shu",
+          "Shunmin Zhu"
+        ]
+      },
+      {
+        "title": "FlexMem: Proactive Memory Deduplication for Qcow2-Based VMs with Virtual Persistent Memory.",
+        "authors": [
+          "Weinan Liu",
+          "Zhihao Zhang",
+          "Xiangrong Liu",
+          "Yiming Zhang"
+        ]
+      },
+      {
+        "title": "ShieldGPT: An LLM-based Framework for DDoS Mitigation.",
+        "authors": [
+          "Tongze Wang",
+          "Xiaohui Xie",
+          "Lei Zhang",
+          "Chuyi Wang",
+          "Liang Zhang",
+          "Yong Cui"
+        ]
+      },
+      {
+        "title": "An Integrated Solution for High-efficiency In-band Network Telemetry.",
+        "authors": [
+          "Xinxin Xiong",
+          "Yi Xie",
+          "Xiaochou Chen",
+          "Shaojie Zheng",
+          "Wenju Huang",
+          "Jiahao Feng"
+        ]
+      },
+      {
+        "title": "Hostmesh: Monitor and Diagnose Networks in Rail-optimized RoCE Clusters.",
+        "authors": [
+          "Kefei Liu",
+          "Jiao Zhang",
+          "Zhuo Jiang",
+          "Xuan Zhang",
+          "Shixian Guo",
+          "Yangyang Bai",
+          "Yongbin Dong",
+          "Zhang Zhang",
+          "Xiang Shi",
+          "Lei Wang",
+          "Haoran Wei",
+          "Zicheng Wang",
+          "Yongchen Pan",
+          "Tian Pan",
+          "Tao Huang"
+        ]
+      },
+      {
+        "title": "Fast Learning Enabled by In-Network Drift Detection.",
+        "authors": [
+          "Bruno Missi Xavier",
+          "Magnos Martinello",
+          "Celio Trois",
+          "Brenno de Mello Alencar",
+          "Ricardo Araújo Rios"
+        ]
+      },
+      {
+        "title": "TAR: Traffic Adaptive IPv6 Routing Lookup Scheme.",
+        "authors": [
+          "Xinyi Zhang",
+          "Zhiyuan Xu",
+          "Huaiyi Zhao",
+          "Yanbiao Li",
+          "Gaogang Xie"
+        ]
+      },
+      {
+        "title": "SAROS: A Self-Adaptive Routing Oblivious Sampling Method for Network-wide Heavy Hitter Detection.",
+        "authors": [
+          "Enhan Li",
+          "Wenhao Wu",
+          "Zhaohua Wang",
+          "Zhenyu Li",
+          "Jianwei Niu"
+        ]
+      },
+      {
+        "title": "OpenSN: An Open Source Library for Emulating LEO Satellite Networks.",
+        "authors": [
+          "Wenhao Lu",
+          "Zhiyuan Wang",
+          "Shan Zhang",
+          "Qingkai Meng",
+          "Hongbin Luo"
+        ]
+      },
+      {
+        "title": "Pyramis: Domain Specific Language for Developing Multi-tier Systems.",
+        "authors": [
+          "Ashwin Kumar",
+          "Ajinkya Tanksale",
+          "Armaan Chowfin",
+          "Mohan Rajasekhar Ajjampudi",
+          "Arnav Mishra",
+          "Abuhujair Khan",
+          "Vishal Saha",
+          "Priyanka Naik",
+          "Mythili Vutukuru"
+        ]
+      },
+      {
+        "title": "UniFL: Enabling Loss-tolerant Transmission in Federated Learning.",
+        "authors": [
+          "Zixuan Chen",
+          "Yifan Ruan",
+          "Sen Liu",
+          "Yang Xu"
+        ]
+      },
+      {
+        "title": "StarTCP: Handover-aware Transport Protocol for Starlink.",
+        "authors": [
+          "Li Jiang",
+          "Yihang Zhang",
+          "Yannan Hu",
+          "Yong Cui",
+          "Xinggong Zhang"
+        ]
+      },
+      {
+        "title": "Enhancing Gradient Compression for Distributed Deep Learning.",
+        "authors": [
+          "Zhe Bai",
+          "Enda Yu",
+          "Dezun Dong",
+          "Pingjing Lu"
+        ]
+      },
+      {
+        "title": "Early DDoS Alerts Based on Optimal Sub-OD Pairs and Markov Model.",
+        "authors": [
+          "Wenyue Sun",
+          "Qinbao Xu",
+          "Changda Wang"
+        ]
+      },
+      {
+        "title": "A Personalized Quantum Federated Learning.",
+        "authors": [
+          "Dev Gurung",
+          "Shiva Raj Pokhrel"
+        ]
+      },
+      {
+        "title": "Programming Transport Layer with Galvatron.",
+        "authors": [
+          "Ze Xia",
+          "Yihan Dang",
+          "Hao Li"
+        ]
+      },
+      {
+        "title": "A Data-Encoding Approach to Quantum Federated Learning: Experimenting with Cloud Challenges.",
+        "authors": [
+          "Shiva Raj Pokhrel",
+          "Naman Yash",
+          "Jonathan Kua",
+          "Gang Li",
+          "Lei Pan"
+        ]
+      },
+      {
+        "title": "Lifetime-Aware Key Relay Algorithm for Practical Quantum-Secured Networking.",
+        "authors": [
+          "Hyun-Kyo Lim",
+          "Chankyun Lee",
+          "Wonhyuk Lee"
+        ]
+      },
+      {
+        "title": "Proactive Buffer Management of Shared-Memory Switches for Distributed Deep Learning.",
+        "authors": [
+          "Jin Ye",
+          "Yajun Peng",
+          "Yijun Li",
+          "Jiawei Huang"
+        ]
+      },
+      {
+        "title": "A Knowledge-driven Self-healing Dual-loop and Validation for Autonomous Networks.",
+        "authors": [
+          "Can Tan",
+          "Honglin Fang",
+          "Junye Zhang",
+          "Dahua Lin",
+          "Liyan Zhang",
+          "Yong Zhang",
+          "Peng Yu"
+        ]
+      },
+      {
+        "title": "Link failure recovery through nested cycles.",
+        "authors": [
+          "Luqi Fu",
+          "Qiang Sun",
+          "Changda Wang"
+        ]
+      },
+      {
+        "title": "Keep Your Paths Free: Toward Scalable Learning-Based Traffic Engineering.",
+        "authors": [
+          "Haoyu Liu",
+          "Siyong Huang",
+          "Shaoxiang Qin",
+          "Tianyi Yang",
+          "Tianze Yang",
+          "Qiao Xiang",
+          "Xue Liu"
+        ]
+      },
+      {
+        "title": "GRAPE: GPU-accelerated Zero-copy IoT Measurement Data Compression Transmission.",
+        "authors": [
+          "Xintan Dou",
+          "Wendi Feng",
+          "Jun Liu"
+        ]
+      },
+      {
+        "title": "ACU: Aggregator-based Congestion control and link Utilization optimization strategy for multi-tenant in-network aggregation.",
+        "authors": [
+          "Zhu Yuan",
+          "Guoyuan Yuan",
+          "Dezun Dong"
+        ]
+      },
+      {
+        "title": "A Geohash-based Naming Scheme for NDN Optimization.",
+        "authors": [
+          "Xiaolong Liang",
+          "Yingwen Chen",
+          "Huan Zhou",
+          "Xiangrui Yang",
+          "Lin Wu"
+        ]
+      },
+      {
+        "title": "Sketchlet: Partitioning Traffic for Sketch with Clustering on Multi-core Commodity Servers.",
+        "authors": [
+          "Jun Liu",
+          "Wendi Feng",
+          "Xintan Dou"
+        ]
+      },
+      {
+        "title": "FCC : A Fast-Converging Low-Latency Congestion Control Algorithm for Datacenter RDMA Network.",
+        "authors": [
+          "Biyao Che",
+          "Yuxiang Wang",
+          "Zirui Wan",
+          "Ying Chen",
+          "Zixiao Wang",
+          "Yuan Tian",
+          "Jizhuang Zhao",
+          "Shuo Wang",
+          "Jiao Zhang"
+        ]
+      },
+      {
+        "title": "Joint Optimization for Fairness-Revenue Adjustable Network Slices Embedding.",
+        "authors": [
+          "Zhiping Zhang",
+          "Hongwei Fu",
+          "Changda Wang"
+        ]
+      },
+      {
+        "title": "Exploring the Impact of Traffic Scheduling on Network Soft Slicing.",
+        "authors": [
+          "Xiaoyang Fu",
+          "Zehua Guo"
+        ]
+      },
+      {
+        "title": "A Radial Basis Function Neural Network-based Detection Method for Collusive Interest Flooding Attacks in Named Data Networks.",
+        "authors": [
+          "Wenlu Li",
+          "Guanglin Xing",
+          "Ran Ran",
+          "Rui Hou"
+        ]
+      },
+      {
+        "title": "A Data Transmission Approach in Vehicular Named Data Networking.",
+        "authors": [
+          "Yixin Gan",
+          "Ran Ran",
+          "Rui Hou"
+        ]
+      },
+      {
+        "title": "WeMu: A design of wireless network emulator.",
+        "authors": [
+          "Mingtai Lv",
+          "Xiangrui Yang",
+          "Huan Zhou",
+          "Wenfei Wu",
+          "Yusheng Xia",
+          "Jinshu Su"
+        ]
+      },
+      {
+        "title": "BurstRTC: Harnessing Variable Bit-Rate of RTC through Frame-Bursting Congestion Control.",
+        "authors": [
+          "Zhidong Jia",
+          "Yihang Zhang",
+          "Qingyang Li",
+          "Xinggong Zhang"
+        ]
+      },
+      {
+        "title": "Optical-computing-enabled Network: A New Dawn for Optical-layer Intelligence?",
+        "authors": [
+          "Dao Thanh Hai",
+          "Minh Nguyen",
+          "Isaac Woungang"
+        ]
+      },
+      {
+        "title": "Federated Spectrum Management Through Hedonic Coalition Formation.",
+        "authors": [
+          "Zhili He",
+          "Tianyu Tu",
+          "Kanye Ye Wang",
+          "Bing Luo",
+          "Dazhao Cheng",
+          "Chuang Hu"
+        ]
+      },
+      {
+        "title": "ESPRESSO: Advanced End-to-End Flow Correlation Attacks on Tor.",
+        "authors": [
+          "Tisha Chawla",
+          "Shubh Mittal",
+          "Nate Mathews",
+          "Matthew Wright"
+        ]
+      },
+      {
+        "title": "PICO: Accelerating All k-Core Paradigms on GPU.",
+        "authors": [
+          "Chen Zhao",
+          "Ting Yu",
+          "Zhigao Zheng",
+          "Yuanyuan Zhu",
+          "Song Jin",
+          "Bo Du",
+          "Dacheng Tao"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apnet/apnet2023.html": {
+    "header": "APNet 2023:\nHong Kong, SAR, China",
+    "year": "2023",
+    "papers": [
+      {
+        "title": "FastWake: Revisiting Host Network Stack for Interrupt-mode RDMA.",
+        "authors": [
+          "Bojie Li",
+          "Zihao Xiang",
+          "Xiaoliang Wang",
+          "Han Ruan",
+          "Jingbin Zhou",
+          "Kun Tan"
+        ]
+      },
+      {
+        "title": "Host Efficient Networking Stack Utilizing NIC DRAM.",
+        "authors": [
+          "Byeongkeon Lee",
+          "Donghyeon Lee",
+          "Jisu Ok",
+          "Wonsup Yoon",
+          "Sue Moon"
+        ]
+      },
+      {
+        "title": "Accurate and Scalable Rate Limiter for RDMA NICs.",
+        "authors": [
+          "Zilong Wang",
+          "Xinchen Wan",
+          "Chaoliang Zeng",
+          "Kai Chen"
+        ]
+      },
+      {
+        "title": "sRDMA: A General and Low-Overhead Scheduler for RDMA.",
+        "authors": [
+          "Xizheng Wang",
+          "Shuai Wang",
+          "Dan Li"
+        ]
+      },
+      {
+        "title": "Toward Privacy-Preserving Interdomain Configuration Verification via Multi-Party Computation.",
+        "authors": [
+          "Huisan Xu",
+          "Qiuyue Qin",
+          "Xing Fang",
+          "Qiao Xiang",
+          "Jiwu Shu"
+        ]
+      },
+      {
+        "title": "Diagnosing Distributed Routing Configurations Using Sequential Program Analysis.",
+        "authors": [
+          "Rulan Yang",
+          "Xing Fang",
+          "Lizhao You",
+          "Qiao Xiang",
+          "Hanyang Shao",
+          "Gao Han",
+          "Ziyi Wang",
+          "Zhihao Zhang",
+          "Jiwu Shu",
+          "Linghe Kong"
+        ]
+      },
+      {
+        "title": "Reducing Reconfiguration Time in Hybrid Optical-Electrical Datacenter Networks.",
+        "authors": [
+          "Shuyuan Zhang",
+          "Shu Shan",
+          "Shizhen Zhao"
+        ]
+      },
+      {
+        "title": "Heuristic Binary Search: Adaptive and Fast IPv6 Route Lookup with Incremental Updates.",
+        "authors": [
+          "Donghong Jiang",
+          "Yanbiao Li",
+          "Yuxuan Chen",
+          "Jing Hu",
+          "Yi Huang",
+          "Gaogang Xie"
+        ]
+      },
+      {
+        "title": "SegaNet: An Advanced IoT Cloud Gateway for Performant and Priority-Oriented Message Delivery.",
+        "authors": [
+          "Yeonho Yoo",
+          "Zhixiong Niu",
+          "Chuck Yoo",
+          "Peng Cheng",
+          "Yongqiang Xiong"
+        ]
+      },
+      {
+        "title": "FlexCore: Leveraging XDP-SCTP for Scalable and Resilient Network Slice Service in Future 5G Core.",
+        "authors": [
+          "Bhavishya Sharma",
+          "Shwetha Vittal",
+          "A. Antony Franklin"
+        ]
+      },
+      {
+        "title": "Is Large MTU Beneficial to Cellular Core Networks?",
+        "authors": [
+          "Youngmin Choi",
+          "Junghan Yoon",
+          "YoungGyoun Moon",
+          "KyoungSoo Park"
+        ]
+      },
+      {
+        "title": "Quicklayer: A Layer-Stack-Oriented Accelerating Middleware for Fast Deployment in Edge Clouds.",
+        "authors": [
+          "Yicheng Feng",
+          "Shihao Shen",
+          "Cheng Zhang",
+          "Xiaofei Wang"
+        ]
+      },
+      {
+        "title": "Scaling Switch-driven Flow Control with Aquarius.",
+        "authors": [
+          "Wenxue Li",
+          "Chaoliang Zeng",
+          "Jinbin Hu",
+          "Kai Chen"
+        ]
+      },
+      {
+        "title": "Toward Fair and Efficient Congestion Control: Machine Learning Aided Congestion Control (MLACC).",
+        "authors": [
+          "Ahmed Elbery",
+          "Yi Lian",
+          "Geng Li"
+        ]
+      },
+      {
+        "title": "Amphis: Rearchitecturing Congestion Control for Capturing Internet Application Variety.",
+        "authors": [
+          "Tian Pan",
+          "Shuihai Hu",
+          "Guangyu An",
+          "Xincai Fei",
+          "Fanzhao Wang",
+          "Yueke Chi",
+          "Minglan Gao",
+          "Hao Wu",
+          "Jiao Zhang",
+          "Tao Huang",
+          "Jingbin Zhou",
+          "Kun Tan"
+        ]
+      },
+      {
+        "title": "TOD: Trend-Oriented Delay-Based Congestion Control in Lossless Datacenter Network.",
+        "authors": [
+          "Kaixin Huang",
+          "Wentao Liu",
+          "Weihang Li",
+          "Lang Cheng"
+        ]
+      },
+      {
+        "title": "Online Detection of 1D and 2D Hierarchical Super-Spreaders in High-Speed Networks.",
+        "authors": [
+          "Hao Su",
+          "Qingjun Xiao"
+        ]
+      },
+      {
+        "title": "In-Network Probabilistic Monitoring Primitives under the Influence of Adversarial Network Inputs.",
+        "authors": [
+          "Harish S. A",
+          "K. Shiv Kumar",
+          "Anibrata Majee",
+          "Amogh Bedarakota",
+          "Praveen Tammana",
+          "Pravein Govindan Kannan",
+          "Rinku Shah"
+        ]
+      },
+      {
+        "title": "EasyQuantile: Efficient Quantile Tracking in the Data Plane.",
+        "authors": [
+          "Bo Wang",
+          "Rongqiang Chen",
+          "Lu Tang"
+        ]
+      },
+      {
+        "title": "Towards Fine-Grained, High-Coverage Internet Monitoring at Scale.",
+        "authors": [
+          "Hongyu Wu",
+          "Qi Ling",
+          "Penghui Mi",
+          "Chaoyang Ji",
+          "Yinliang Hu",
+          "Yibo Pi"
+        ]
+      },
+      {
+        "title": "SlimeMold: Hardware Load Balancer at Scale in Datacenter.",
+        "authors": [
+          "Ziyuan Liu",
+          "Zhixiong Niu",
+          "Ran Shu",
+          "Liang Gao",
+          "Guohong Lai",
+          "Na Wang",
+          "Zongying He",
+          "Jacob Nelson",
+          "Dan R. K. Ports",
+          "Lihua Yuan",
+          "Peng Cheng",
+          "Yongqiang Xiong"
+        ]
+      },
+      {
+        "title": "Gleaning the Consensus for Linearizable and Conflict-Free Per-Replica Local Reads.",
+        "authors": [
+          "Jian Yi",
+          "Qing Li",
+          "Bin Zhang",
+          "Yong Jiang",
+          "Dan Zhao",
+          "Yuan Yang",
+          "Zhenhui Yuan"
+        ]
+      },
+      {
+        "title": "Beyond the Content: Considering the Network for Online Video Recommendation.",
+        "authors": [
+          "Lihui Lang",
+          "Meiqi Hu",
+          "Changhua Pei",
+          "Guo Chen"
+        ]
+      },
+      {
+        "title": "MEB: an Efficient and Accurate Multicast using Bloom Filter with Customized Hash Function.",
+        "authors": [
+          "Zihao Chen",
+          "Jiawei Huang",
+          "Qile Wang",
+          "Jingling Liu",
+          "Zhaoyi Li",
+          "Shengwen Zhou",
+          "Zhidong He"
+        ]
+      },
+      {
+        "title": "cUPFCard: High-Performance User Plane Function based on FPGA.",
+        "authors": [
+          "Cong Zhou",
+          "Baokang Zhao",
+          "Baosheng Wang"
+        ]
+      },
+      {
+        "title": "A Hierarchical Routing Mechanism for Service in CPN.",
+        "authors": [
+          "Jiacong Li",
+          "Hang Lv",
+          "Bo Lei",
+          "Yunpeng Xie"
+        ]
+      },
+      {
+        "title": "A Security Mapping Approach between Multi Tenant and Computing Routing Nodes in CPN.",
+        "authors": [
+          "Jiacong Li",
+          "Hang Lv",
+          "Bo Lei",
+          "Yunpeng Xie"
+        ]
+      },
+      {
+        "title": "An Improved Data Aggregation Scheme for Wireless Sensor Networks Based on Robust Chinese Remainder Theorem.",
+        "authors": [
+          "Jinxin Zhang",
+          "Fuyou Miao"
+        ]
+      },
+      {
+        "title": "Improving Cloud Storage Network Bandwidth Utilization of Scientific Applications.",
+        "authors": [
+          "Steven Wei Der Chien",
+          "Kento Sato",
+          "Artur Podobas",
+          "Niclas Jansson",
+          "Stefano Markidis",
+          "Michio Honda"
+        ]
+      },
+      {
+        "title": "Crowdsourcing Work as Mining: A Decentralized Computation and Storage Paradigm.",
+        "authors": [
+          "Canhui Chen",
+          "Zerui Cheng",
+          "Shutong Qu",
+          "Zhixuan Fang"
+        ]
+      },
+      {
+        "title": "Dilemma of Proactive Congestion Control Protocols.",
+        "authors": [
+          "Kexin Liu",
+          "Chen Tian",
+          "Xiaoliang Wang",
+          "Wanchun Dou",
+          "Guihai Chen"
+        ]
+      },
+      {
+        "title": "Attention-based LSTM for Controller Load Prediction in Software-Defined Networks✱.",
+        "authors": [
+          "Yong Liu",
+          "Quanze Liu",
+          "Qian Meng"
+        ]
+      },
+      {
+        "title": "DFR: Dynamic-thresold Fault-tolerant Routing for Fat Tree.",
+        "authors": [
+          "Binyan Lan",
+          "Fei Lei",
+          "Ke Wu",
+          "Dezun Dong"
+        ]
+      },
+      {
+        "title": "Deadline Enables In-Order Flowlet Switching for Load Balancing.",
+        "authors": [
+          "Xinglong Diao",
+          "Wenting Wei",
+          "Huaxi Gu"
+        ]
+      },
+      {
+        "title": "MINA: Auto-scale In-network Aggregation for Machine Learning Service.",
+        "authors": [
+          "Shichen Dong",
+          "Zhixiong Niu",
+          "Mingchao Zhang",
+          "Zhiying Xu",
+          "Chuntao Hu",
+          "Wei Wang",
+          "Pengzhi Zhu",
+          "Qingchun Song",
+          "Lei Qu",
+          "Peng Cheng",
+          "Yongqiang Xiong",
+          "Chen Tian",
+          "Cam-Tu Nguyen",
+          "Xiaoliang Wang"
+        ]
+      },
+      {
+        "title": "The core nodes identification method through adjustable network topology information.",
+        "authors": [
+          "Xuemei Wang",
+          "Seung-Hyun Seo",
+          "Changda Wang"
+        ]
+      },
+      {
+        "title": "Extendable MQTT Broker for Feedback-based Resource Management in Large-scale Computing Environments.",
+        "authors": [
+          "Ryo Ouchi",
+          "Ryuichi Sakamoto"
+        ]
+      },
+      {
+        "title": "A Secure Transaction Forwarding Strategy for Blockchain Payment Channel Networks.",
+        "authors": [
+          "Huaihang Lin",
+          "Xiaoyan Li",
+          "Yanhua Liu",
+          "Weibei Fan"
+        ]
+      },
+      {
+        "title": "MRP: An Energy Efficient Network Protocol That Avoids Multiple Encryption in Cloud Computing Environment.",
+        "authors": [
+          "Feng Jiang",
+          "Yongyang Cheng",
+          "Boqin Qin",
+          "Tao Zhang"
+        ]
+      },
+      {
+        "title": "A Unified, Flexible Framework in Network Topology Generation for Distributed Machine Learning.",
+        "authors": [
+          "Jianhao Liu",
+          "Xiaoyan Li",
+          "Yanhua Liu",
+          "Weibei Fan"
+        ]
+      },
+      {
+        "title": "PHYSec: A Novel Physical Layer Security Architecture for Ethernet.",
+        "authors": [
+          "Zhen Tian",
+          "Li Ding",
+          "Qing Wang",
+          "Desheng Sun",
+          "Yunlong Li"
+        ]
+      },
+      {
+        "title": "ABC: Adaptive Bitrate Algorithm Commander for Multi-Client Video Streaming.",
+        "authors": [
+          "Xiaoxi Xue",
+          "Yuchao Zhang"
+        ]
+      },
+      {
+        "title": "An edge computing emulator incorporating moving devices and geospatial characteristics.",
+        "authors": [
+          "Lin Wu",
+          "Guogui Yang",
+          "Ying Qin",
+          "Baokang Zhao",
+          "Xue Ouyang",
+          "Qin Xin",
+          "Huan Zhou"
+        ]
+      },
+      {
+        "title": "AFNFA: An Approach to Automate NCCL Configuration Exploration.",
+        "authors": [
+          "Zibo Wang",
+          "Yuhang Zhou",
+          "Chen Tian",
+          "Xiaoliang Wang",
+          "Xianping Chen"
+        ]
+      },
+      {
+        "title": "Training ChatGPT-like Models with In-network Computation.",
+        "authors": [
+          "Shuhao Fu",
+          "Yong Liao",
+          "Pengyuan Zhou"
+        ]
+      },
+      {
+        "title": "Indirect Network Troubleshooting with The Chase.",
+        "authors": [
+          "Mubashir Anwar",
+          "Fangping Lan",
+          "Anduo Wang",
+          "Matthew Caesar"
+        ]
+      },
+      {
+        "title": "An Online Control Approach of Collaborative Federated Learning with Constrained Resources.",
+        "authors": [
+          "Shaohui Lin",
+          "Xiaoxi Zhang",
+          "Yupeng Li",
+          "Carlee Joe-Wong",
+          "Jingpu Duan",
+          "Xu Chen"
+        ]
+      },
+      {
+        "title": "Time Synchronization based on Time Difference of Arrival with Propagation Delay Estimation in 5G-TSN Integrated Networks.",
+        "authors": [
+          "Xiaocong Wei",
+          "Yueping Cai",
+          "Xiaowen Zhang"
+        ]
+      },
+      {
+        "title": "Bamboo: Boosting Training Efficiency for Real-Time Video Streaming via Online Grouped Federated Transfer Learning.",
+        "authors": [
+          "Qianyuan Zheng",
+          "Hao Chen",
+          "Zhan Ma"
+        ]
+      },
+      {
+        "title": "Efficient and Structural Gradient Compression with Principal Component Analysis for Distributed Training.",
+        "authors": [
+          "Jiaxin Tan",
+          "Chao Yao",
+          "Zehua Guo"
+        ]
+      },
+      {
+        "title": "ChatIoT: Zero-code Generation of Trigger-action Based IoT Programs with ChatGPT.",
+        "authors": [
+          "Fu Li",
+          "Jiaming Huang",
+          "Yi Gao",
+          "Wei Dong"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apnet/apnet2022.html": {
+    "header": "APNet 2022:\nFuzhou, China",
+    "year": "2022",
+    "papers": [
+      {
+        "title": "Enabling Innovation in Spectrum Management.",
+        "authors": [
+          "Chi-Jen Wu"
+        ]
+      },
+      {
+        "title": "Locality Matters! Traffic Demand Modeling in Datacenter Networks.",
+        "authors": [
+          "Zhiwen Liu",
+          "Mowei Wang",
+          "Yong Cui"
+        ]
+      },
+      {
+        "title": "Bandwidth-efficient Microburst Measurement in Large-scale Datacenter Networks.",
+        "authors": [
+          "Kaihui Gao",
+          "Dan Li",
+          "Shuai Wang"
+        ]
+      },
+      {
+        "title": "Load Balancing in PFC-Enabled Datacenter Networks.",
+        "authors": [
+          "Jinbin Hu",
+          "Chaoliang Zeng",
+          "Zilong Wang",
+          "Hong Xu",
+          "Jiawei Huang",
+          "Kai Chen"
+        ]
+      },
+      {
+        "title": "KubeKlone: A Digital Twin for Simulating Edge and Cloud Microservices.",
+        "authors": [
+          "Ayush Bhardwaj",
+          "Theophilus A. Benson"
+        ]
+      },
+      {
+        "title": "LinkGuardian: Mitigating the impact of packet corruption loss with link-local retransmission.",
+        "authors": [
+          "Raj Joshi",
+          "Qi Guo",
+          "Nishant Budhdev",
+          "Ayush Mishra",
+          "Mun Choon Chan",
+          "Ben Leong"
+        ]
+      },
+      {
+        "title": "HybridTSS: A Recursive Scheme Combining Coarse- and Fine- Grained Tuples for Packet Classification.",
+        "authors": [
+          "Yuxi Liu",
+          "Yao Xin",
+          "Wenjun Li",
+          "Haoyu Song",
+          "Ori Rottenstreich",
+          "Gaogang Xie",
+          "Weichao Li",
+          "Yi Wang"
+        ]
+      },
+      {
+        "title": "Herald: An Embedding Scheduler for Distributed Embedding Model Training.",
+        "authors": [
+          "Chaoliang Zeng",
+          "Xiaodian Cheng",
+          "Han Tian",
+          "Hao Wang",
+          "Kai Chen"
+        ]
+      },
+      {
+        "title": "A Disaggregate Data Collecting Approach for Loss-Tolerant Applications.",
+        "authors": [
+          "Ziyuan Liu",
+          "Zhixiong Niu",
+          "Ran Shu",
+          "Wenxue Cheng",
+          "Peng Cheng",
+          "Yongqiang Xiong",
+          "Lihua Yuan",
+          "Jacob Nelson",
+          "Dan R. K. Ports"
+        ]
+      },
+      {
+        "title": "Hop-On Hop-Off Routing: A Fast Tour across the Optical Data Center Network for Latency-Sensitive Flows.",
+        "authors": [
+          "Jialong Li",
+          "Yiming Lei",
+          "Federico De Marchi",
+          "Raj Joshi",
+          "Balakrishnan Chandrasekaran",
+          "Yiting Xia"
+        ]
+      },
+      {
+        "title": "OpenNetLab: Open Platform for RL-based Congestion Control for Real-Time Communications.",
+        "authors": [
+          "Jeongyoon Eo",
+          "Zhixiong Niu",
+          "Wenxue Cheng",
+          "Francis Y. Yan",
+          "Rui Gao",
+          "Jorina Kardhashi",
+          "Scott Inglis",
+          "Michael Revow",
+          "Byung-Gon Chun",
+          "Peng Cheng",
+          "Yongqiang Xiong"
+        ]
+      },
+      {
+        "title": "Packet Processing Algorithm Identification using Program Embeddings.",
+        "authors": [
+          "S. VenkataKeerthy",
+          "Yashas Andaluri",
+          "Sayan Dey",
+          "Rinku Shah",
+          "Praveen Tammana",
+          "Ramakrishna Upadrasta"
+        ]
+      },
+      {
+        "title": "A 100Gbps User Plane Function Prototype Based on Programmable Switch for 5G Network.",
+        "authors": [
+          "Cong Zhou",
+          "Baokang Zhao",
+          "Baosheng Wang"
+        ]
+      },
+      {
+        "title": "Reducing Network Traffic Storage Overhead: A Hardware-Accelerated Lossless Data Compression System.",
+        "authors": [
+          "Puguang Liu",
+          "Shuhui Chen"
+        ]
+      },
+      {
+        "title": "Multi-Level Text Importance Classification Architecture Based on Deep Learning.",
+        "authors": [
+          "Meizhen Huang",
+          "Jinshu Su",
+          "Zhong Liao",
+          "Shuhui Chen",
+          "Ziling Wei"
+        ]
+      },
+      {
+        "title": "High-performance Measurement in Adaptive Forwarding of Named Data Networking.",
+        "authors": [
+          "Ruifen Zhao",
+          "Teng Liang",
+          "Yi Wang"
+        ]
+      },
+      {
+        "title": "On Construction of Fault-Tolerant Virtual Backbones in Heterogeneous Wireless Sensor Networks.",
+        "authors": [
+          "Xiaoming Wu",
+          "Yanhua Liu",
+          "Lichao Su",
+          "Xiao-Yan Li"
+        ]
+      },
+      {
+        "title": "A Component Vulnerability Matching Approach for IoT Firmware.",
+        "authors": [
+          "Bo Yu",
+          "Yongyi Zhang",
+          "Runhao Liu",
+          "Zhoushi Sheng"
+        ]
+      },
+      {
+        "title": "RLCS: A Classification System Based on Random Forest and Logistic Regression for Hybrid Zero-day Traffic.",
+        "authors": [
+          "Yulong Liang",
+          "Fei Wang",
+          "Shuhui Chen"
+        ]
+      },
+      {
+        "title": "Efficient Partial Reduce Across Clouds.",
+        "authors": [
+          "Renyi Wang",
+          "Shouxi Luo",
+          "Ke Li",
+          "Huanlai Xing"
+        ]
+      },
+      {
+        "title": "Approximate Gradient Synchronization with AQGB.",
+        "authors": [
+          "Xue Liu",
+          "Shouxi Luo",
+          "Ke Li",
+          "Huanlai Xing"
+        ]
+      },
+      {
+        "title": "AoI-aware Data Propagation in Edge Computing Assisted NR-V2X Networks.",
+        "authors": [
+          "Xiaoning Wang",
+          "Kexun Chen",
+          "Ke Li",
+          "Qiang Yang"
+        ]
+      },
+      {
+        "title": "MEMOCO: Memory-Efficient 100 Gbps Traffic Replay with Sequence Guarantee on Multi-core Servers.",
+        "authors": [
+          "Ranzheng Cao",
+          "Wendi Feng"
+        ]
+      },
+      {
+        "title": "WThreadAFL: Deterministic Greybox Fuzzing for Multi-thread Network Servers.",
+        "authors": [
+          "Jianjun Lu",
+          "Bo Yu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apnet/apnet2021.html": {
+    "header": "APNet 2021: Shenzhen, China",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "FlowDiviner: Spatio-Temporal Network Traffic Prediction Method Based on Graph Neural Network.",
+        "authors": [
+          "Liang Qin",
+          "Wenting Wei",
+          "Yinghao Ma"
+        ]
+      },
+      {
+        "title": "Combined Shared-Memory and Buffered-Crossbar Architecture for High-Bandwidth Onboard Switching Fabric.",
+        "authors": [
+          "Ling Zheng",
+          "Chen Yi",
+          "Weitao Pan",
+          "Huan Liu"
+        ]
+      },
+      {
+        "title": "Physical-Layer Informed Multipath Redundancy Optimization for Mobile Real-Time Communication.",
+        "authors": [
+          "Jing Chen",
+          "Zili Meng",
+          "Mingwei Xu"
+        ]
+      },
+      {
+        "title": "Towards Optimization for Large-scale Earth Observation Missions from a Global Perspective.",
+        "authors": [
+          "Yaning Guo",
+          "Jing Chen",
+          "Zili Meng",
+          "Mingwei Xu"
+        ]
+      },
+      {
+        "title": "Learning Based Deadline Aware Congestion Control.",
+        "authors": [
+          "Rongji Liao",
+          "Jinyao Yan",
+          "Tao Lin",
+          "Yuhao Chen"
+        ]
+      },
+      {
+        "title": "Exploring the Impact of Attacks on Ring AllReduce.",
+        "authors": [
+          "Jiayu Wang",
+          "Peng Liu",
+          "Zehua Guo",
+          "Sen Liu",
+          "Chao Yao"
+        ]
+      },
+      {
+        "title": "FLAG: Flow Representation Generator based on Self-supervised Learning for Encrypted Traffic Classification.",
+        "authors": [
+          "Wenting Wei",
+          "Tianjie Ju",
+          "Han Liao",
+          "Weike Zhao",
+          "Huaxi Gu"
+        ]
+      },
+      {
+        "title": "Flexible Routing with Policy Exchange.",
+        "authors": [
+          "Bin Gui",
+          "Fangping Lan",
+          "Anduo Wang"
+        ]
+      },
+      {
+        "title": "HierCC: Hierarchical RDMA Congestion Control.",
+        "authors": [
+          "Jiao Zhang",
+          "Yali Zhang",
+          "Zixuan Guan",
+          "Zirui Wan",
+          "Yinben Xia",
+          "Tian Pan",
+          "Tao Huang",
+          "Dezhi Tang",
+          "Yun Lin"
+        ]
+      },
+      {
+        "title": "Conjecture: Existence of Nash Equilibria in Modern Internet Congestion Control.",
+        "authors": [
+          "Ayush Mishra",
+          "Jingzhi Zhang",
+          "Melodies Sim",
+          "Sean Ng",
+          "Raj Joshi",
+          "Ben Leong"
+        ]
+      },
+      {
+        "title": "A Sketch Algorithm to Monitor High Packet Delay in Network Traffic.",
+        "authors": [
+          "Jiaqi Zhu",
+          "Kai Zhang",
+          "Qun Huang"
+        ]
+      },
+      {
+        "title": "HyperParser: A High-Performance Parser Architecture for Next Generation Programmable Switch and SmartNIC.",
+        "authors": [
+          "Huan Liu",
+          "Zhiliang Qiu",
+          "Weitao Pan",
+          "Jiajun Li",
+          "Jinjian Huang"
+        ]
+      },
+      {
+        "title": "Leveraging Programmable Dataplanes for a High Performance 5G User Plane Function.",
+        "authors": [
+          "Abhik Bose",
+          "Diptyaroop Maji",
+          "Prateek Agarwal",
+          "Nilesh Unhale",
+          "Rinku Shah",
+          "Mythili Vutukuru"
+        ]
+      },
+      {
+        "title": "pHPA: A Proactive Autoscaling Framework for Microservice Chain.",
+        "authors": [
+          "Byungkwon Choi",
+          "Jinwoo Park",
+          "Chunghan Lee",
+          "Dongsu Han"
+        ]
+      },
+      {
+        "title": "Evaluating Network Stacks for the Virtualized Mobile Packet Core.",
+        "authors": [
+          "Ashwin Kumar",
+          "Priyanka Naik",
+          "Sahil Patki",
+          "Pranav Chaudhary",
+          "Mythili Vutukuru"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apnet/apnet2020.html": {
+    "header": "APNet 2020: Seoul, Korea",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "An Intermediate Representation for Network Programming Languages.",
+        "authors": [
+          "Hao Li",
+          "Peng Zhang",
+          "Guangda Sun",
+          "Chengchen Hu",
+          "Danfeng Shan",
+          "Tian Pan",
+          "Qiang Fu"
+        ]
+      },
+      {
+        "title": "Fast Configuration Change Impact Analysis for Network Overlay Data Center Networks.",
+        "authors": [
+          "Lizhao You",
+          "Hao Tang",
+          "Jiahua Zhang",
+          "Xiao Li"
+        ]
+      },
+      {
+        "title": "Tail-tolerance as a Systems Principle not a Metric.",
+        "authors": [
+          "Marios Kogias",
+          "Edouard Bugnion"
+        ]
+      },
+      {
+        "title": "Leveraging SIMD parallelism for accelerating network applications.",
+        "authors": [
+          "Hejing Li",
+          "Juhyeng Han",
+          "Dongsu Han"
+        ]
+      },
+      {
+        "title": "A Case for SmartNIC-accelerated Private Communication.",
+        "authors": [
+          "Duckwoo Kim",
+          "SeungEon Lee",
+          "KyoungSoo Park"
+        ]
+      },
+      {
+        "title": "Irina: Accelerating DNN Inference with Efficient Online Scheduling.",
+        "authors": [
+          "Xiaorui Wu",
+          "Hong Xu",
+          "Yi Wang"
+        ]
+      },
+      {
+        "title": "One Rein to Rule Them All: A Framework for Datacenter-to-User Congestion Control.",
+        "authors": [
+          "Kefan Chen",
+          "Danfeng Shan",
+          "Xiaohui Luo",
+          "Tong Zhang",
+          "Yajun Yang",
+          "Fengyuan Ren"
+        ]
+      },
+      {
+        "title": "RAT - Resilient Allreduce Tree for Distributed Machine Learning.",
+        "authors": [
+          "Xinchen Wan",
+          "Hong Zhang",
+          "Hao Wang",
+          "Shuihai Hu",
+          "Junxue Zhang",
+          "Kai Chen"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apnet/apnet2019.html": {
+    "header": "APNet 2019: Beijing, China",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "DTP: Deadline-aware Transport Protocol.",
+        "authors": [
+          "Hang Shi",
+          "Feng Qian",
+          "Yong Cui",
+          "Yuming Hu"
+        ]
+      },
+      {
+        "title": "DDT: Mitigating the Competitiveness Difference of Data Center TCPs.",
+        "authors": [
+          "Tao Zhang",
+          "Jiawei Huang",
+          "Shaojun Zou",
+          "Sen Liu",
+          "Jinbin Hu",
+          "Jingling Liu",
+          "Chang Ruan",
+          "Jianxin Wang",
+          "Geyong Min"
+        ]
+      },
+      {
+        "title": "TMC: Pay-as-you-Go Distributed Communication.",
+        "authors": [
+          "Henri Maxime Demoulin",
+          "Nikos Vasilakis",
+          "John Sonchack",
+          "Isaac Pedisich",
+          "Vincent Liu",
+          "Boon Thau Loo",
+          "Linh Thi Xuan Phan",
+          "Jonathan M. Smith",
+          "Irene Zhang"
+        ]
+      },
+      {
+        "title": "Rethinking Transport Layer Design for Distributed Machine Learning.",
+        "authors": [
+          "Jiacheng Xia",
+          "Gaoxiong Zeng",
+          "Junxue Zhang",
+          "Weiyan Wang",
+          "Wei Bai",
+          "Junchen Jiang",
+          "Kai Chen"
+        ]
+      },
+      {
+        "title": "Rethinking Network Policy Coordination: A Database Perspective.",
+        "authors": [
+          "Anduo Wang",
+          "Seungwon Shin",
+          "Eduard C. Dragut"
+        ]
+      },
+      {
+        "title": "FlexGate: High-performance Heterogeneous Gateway in Data Centers.",
+        "authors": [
+          "Kun Qian",
+          "Sai Ma",
+          "Mao Miao",
+          "Jianyuan Lu",
+          "Tong Zhang",
+          "Peilong Wang",
+          "Chenghao Sun",
+          "Fengyuan Ren"
+        ]
+      },
+      {
+        "title": "A Multipath QUIC Scheduler for Mobile HTTP/2.",
+        "authors": [
+          "Jing Wang",
+          "Yunfeng Gao",
+          "Chenren Xu"
+        ]
+      },
+      {
+        "title": "Ether: Providing both Interactive Service and Fairness in Multi-Tenant Datacenters.",
+        "authors": [
+          "Mojtaba MalekpourShahraki",
+          "Brent E. Stephens",
+          "Balajee Vamanan"
+        ]
+      },
+      {
+        "title": "Towards Stateless RNIC for Data Center Networks.",
+        "authors": [
+          "Pulin Pan",
+          "Guo Chen",
+          "Xizheng Wang",
+          "Huichen Dai",
+          "Bojie Li",
+          "Binzhang Fu",
+          "Kun Tan"
+        ]
+      },
+      {
+        "title": "On the Impact of Cluster Configuration on RoCE Application Design.",
+        "authors": [
+          "Yanfang Le",
+          "Mojtaba MalekpourShahraki",
+          "Brent E. Stephens",
+          "Aditya Akella",
+          "Michael M. Swift"
+        ]
+      },
+      {
+        "title": "Elastic RSS: Co-Scheduling Packets and Cores Using Programmable NICs.",
+        "authors": [
+          "Alexander Rucker",
+          "Muhammad Shahbaz",
+          "Tushar Swamy",
+          "Kunle Olukotun"
+        ]
+      },
+      {
+        "title": "Toward Scalable Replication Systems with Predictable Tails Using Programmable Data Planes.",
+        "authors": [
+          "Sean Choi",
+          "Seo Jin Park",
+          "Muhammad Shahbaz",
+          "Balaji Prabhakar",
+          "Mendel Rosenblum"
+        ]
+      },
+      {
+        "title": "A Closer Look at NFV Execution Models.",
+        "authors": [
+          "Peng Zheng",
+          "Arvind Narayanan",
+          "Zhi-Li Zhang"
+        ]
+      },
+      {
+        "title": "Accelerating Distributed Machine Learning by Smart Parameter Server.",
+        "authors": [
+          "Jinkun Geng",
+          "Dan Li",
+          "Shuai Wang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apnet/apnet2018.html": {
+    "header": "APNet 2018: Beijing, China",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "Demystifying Deep Learning in Networking.",
+        "authors": [
+          "Ying Zheng",
+          "Ziyu Liu",
+          "Xinyu You",
+          "Yuedong Xu",
+          "Junchen Jiang"
+        ]
+      },
+      {
+        "title": "Toward Effective and Fair RDMA Resource Sharing.",
+        "authors": [
+          "Haonan Qiu",
+          "Xiaoliang Wang",
+          "Tianchen Jin",
+          "Zhuzhong Qian",
+          "Baoliu Ye",
+          "Bin Tang",
+          "Wenzhong Li",
+          "Sanglu Lu"
+        ]
+      },
+      {
+        "title": "Dante: Enabling FOV-Aware Adaptive FEC Coding for 360-Degree Video Streaming.",
+        "authors": [
+          "Zhetao Li",
+          "Fei Gui",
+          "Jinkun Geng",
+          "Dan Li",
+          "Zhibo Wang",
+          "Junfeng Li",
+          "Yang Cheng",
+          "Usama Zafar"
+        ]
+      },
+      {
+        "title": "Augmenting Proactive Congestion Control with Aeolus.",
+        "authors": [
+          "Shuihai Hu",
+          "Wei Bai",
+          "Baochen Qiao",
+          "Kai Chen",
+          "Kun Tan"
+        ]
+      },
+      {
+        "title": "Pas de deux: Shape the Circuits, and Shape the Apps too!",
+        "authors": [
+          "Hong Zhang",
+          "Kai Chen",
+          "Mosharaf Chowdhury"
+        ]
+      },
+      {
+        "title": "Using the Macroflow Abstraction to Minimize Machine Slot-time Spent on Networking in Hadoop.",
+        "authors": [
+          "Bingchuan Tian",
+          "Chen Tian",
+          "Jiajun Sun",
+          "Junhua Yan",
+          "Yizhou Tang",
+          "Wei Wang",
+          "Haipeng Dai",
+          "Nai Xia",
+          "Guihai Chen",
+          "Wanchun Dou"
+        ]
+      },
+      {
+        "title": "Preserving Privacy at IXPs.",
+        "authors": [
+          "Xiaohe Hu",
+          "Arpit Gupta",
+          "Nick Feamster",
+          "Aurojit Panda",
+          "Scott Shenker"
+        ]
+      },
+      {
+        "title": "Prelude: Ensuring Inter-Domain Loop-Freedom in SDN-Enabled Networks.",
+        "authors": [
+          "Arnaud Dethise",
+          "Marco Chiesa",
+          "Marco Canini"
+        ]
+      },
+      {
+        "title": "GEN: A GPU-Accelerated Elastic Framework for NFV.",
+        "authors": [
+          "Zhilong Zheng",
+          "Jun Bi",
+          "Chen Sun",
+          "Heng Yu",
+          "Hongxin Hu",
+          "Zili Meng",
+          "Shuhe Wang",
+          "Kai Gao",
+          "Jianping Wu"
+        ]
+      },
+      {
+        "title": "Towards Example-Guided Network Synthesis.",
+        "authors": [
+          "Haoxian Chen",
+          "Anduo Wang",
+          "Boon Thau Loo"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apnet/apnet2017.html": {
+    "header": "APNet 2017: Hong Kong, China",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "When Raft Meets SDN: How to Elect a Leader and Reach Consensus in an Unruly Network.",
+        "authors": [
+          "Yang Zhang",
+          "Eman Ramadan",
+          "Hesham Mekky",
+          "Zhi-Li Zhang"
+        ]
+      },
+      {
+        "title": "Devolve-Redeem: Hierarchical SDN Controllers with Adaptive Offloading.",
+        "authors": [
+          "Rinku Shah",
+          "Mythili Vutukuru",
+          "Purushottam Kulkarni"
+        ]
+      },
+      {
+        "title": "A Call To Arms for Tackling the Unexpected Implications of SDN Controller Enhancements.",
+        "authors": [
+          "Theophilus Benson"
+        ]
+      },
+      {
+        "title": "Memory Efficient Loss Recovery for Hardware-based Transport in Datacenter.",
+        "authors": [
+          "Yuanwei Lu",
+          "Guo Chen",
+          "Zhenyuan Ruan",
+          "Wencong Xiao",
+          "Bojie Li",
+          "Jiansong Zhang",
+          "Yongqiang Xiong",
+          "Peng Cheng",
+          "Enhong Chen"
+        ]
+      },
+      {
+        "title": "Congestion Control for High-speed Extremely Shallow-buffered Datacenter Networks.",
+        "authors": [
+          "Wei Bai",
+          "Kai Chen",
+          "Shuihai Hu",
+          "Kun Tan",
+          "Yongqiang Xiong"
+        ]
+      },
+      {
+        "title": "Combining ECN and RTT for Datacenter Transport.",
+        "authors": [
+          "Gaoxiong Zeng",
+          "Wei Bai",
+          "Ge Chen",
+          "Kai Chen",
+          "Dongsu Han",
+          "Yibo Zhu"
+        ]
+      },
+      {
+        "title": "SoftRDMA: Rekindling High Performance Software RDMA over Commodity Ethernet.",
+        "authors": [
+          "Mao Miao",
+          "Fengyuan Ren",
+          "Xiaohui Luo",
+          "Jing Xie",
+          "Qingkai Meng",
+          "Wenxue Cheng"
+        ]
+      },
+      {
+        "title": "LOS: A High Performance and Compatible User-level Network Operating System.",
+        "authors": [
+          "Yukai Huang",
+          "Jinkun Geng",
+          "Du Lin",
+          "Bin Wang",
+          "Junfeng Li",
+          "Ruilin Ling",
+          "Dan Li"
+        ]
+      },
+      {
+        "title": "BikeLoc: a Real-time High-Precision Bicycle Localization System Using Synthetic Aperture Radar.",
+        "authors": [
+          "Hongjiang Lyu",
+          "Linghe Kong",
+          "Chengzhang Li",
+          "Yunxin Liu",
+          "Jiansong Zhang",
+          "Guihai Chen"
+        ]
+      },
+      {
+        "title": "AppSwitch: Application-layer Load Balancing within a Software Switch.",
+        "authors": [
+          "Eyal Cidon",
+          "Sean Choi",
+          "Sachin Katti",
+          "Nick McKeown"
+        ]
+      },
+      {
+        "title": "The Case for a Flexible Low-Level Backend for Software Data Planes.",
+        "authors": [
+          "Sean Choi",
+          "Xiang Long",
+          "Muhammad Shahbaz",
+          "Skip Booth",
+          "Andy Keep",
+          "John Marshall",
+          "Changhoon Kim"
+        ]
+      },
+      {
+        "title": "Low Latency Software Rate Limiters for Cloud Networks.",
+        "authors": [
+          "Keqiang He",
+          "Weite Qin",
+          "Qiwei Zhang",
+          "Wenfei Wu",
+          "Junjie Yang",
+          "Tian Pan",
+          "Chengchen Hu",
+          "Jiao Zhang",
+          "Brent E. Stephens",
+          "Aditya Akella",
+          "Ying Zhang"
+        ]
+      },
+      {
+        "title": "GPUNFV: a GPU-Accelerated NFV System.",
+        "authors": [
+          "Xiaodong Yi",
+          "Jingpu Duan",
+          "Chuan Wu"
+        ]
+      },
+      {
+        "title": "Predicting Network Futures with Plankton.",
+        "authors": [
+          "Santhosh Prabhu",
+          "Ali Kheradmand",
+          "Brighten Godfrey",
+          "Matthew Caesar"
+        ]
+      },
+      {
+        "title": "SGX-Box: Enabling Visibility on Encrypted Traffic using a Secure Middlebox Module.",
+        "authors": [
+          "Juhyeng Han",
+          "Seong-Min Kim",
+          "Jaehyeong Ha",
+          "Dongsu Han"
+        ]
+      },
+      {
+        "title": "Aemon: Information-agnostic Mix-flow Scheduling in Data Center Networks.",
+        "authors": [
+          "Tao Wang",
+          "Hong Xu",
+          "Fangming Liu"
+        ]
+      },
+      {
+        "title": "Exploiting Inter-Flow Relationship for Coflow Placement in Datacenters.",
+        "authors": [
+          "Xin Sunny Huang",
+          "T. S. Eugene Ng"
+        ]
+      }
+    ]
+  }
+}

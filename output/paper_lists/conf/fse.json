@@ -1,0 +1,4597 @@
+{
+  "https://dblp.org/db/conf/fse/fse2016.html": {
+    "header": "23. FSE 2016: Bochum, Germany",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "New Bounds for Keyed Sponges with Extendable Output: Independence Between Capacity and Message Length.",
+        "authors": [
+          "Yusuke Naito",
+          "Kan Yasuda"
+        ]
+      },
+      {
+        "title": "RIV for Robust Authenticated Encryption.",
+        "authors": [
+          "Farzaneh Abed",
+          "Christian Forler",
+          "Eik List",
+          "Stefan Lucks",
+          "Jakob Wenzel"
+        ]
+      },
+      {
+        "title": "A MAC Mode for Lightweight Block Ciphers.",
+        "authors": [
+          "Atul Luykx",
+          "Bart Preneel",
+          "Elmar Tischhauser",
+          "Kan Yasuda"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of the Full Spritz Stream Cipher.",
+        "authors": [
+          "Subhadeep Banik",
+          "Takanori Isobe"
+        ]
+      },
+      {
+        "title": "Attacks Against Filter Generators Exploiting Monomial Mappings.",
+        "authors": [
+          "Anne Canteaut",
+          "Yann Rotella"
+        ]
+      },
+      {
+        "title": "Lightweight MDS Generalized Circulant Matrices.",
+        "authors": [
+          "Meicheng Liu",
+          "Siang Meng Sim"
+        ]
+      },
+      {
+        "title": "On the Construction of Lightweight Circulant Involutory MDS Matrices.",
+        "authors": [
+          "Yongqiang Li",
+          "Mingsheng Wang"
+        ]
+      },
+      {
+        "title": "Optimizing S-Box Implementations for Several Criteria Using SAT Solvers.",
+        "authors": [
+          "Ko Stoffelen"
+        ]
+      },
+      {
+        "title": "Verifiable Side-Channel Security of Cryptographic Implementations: Constant-Time MEE-CBC.",
+        "authors": [
+          "José Bacelar Almeida",
+          "Manuel Barbosa",
+          "Gilles Barthe",
+          "François Dupressoir"
+        ]
+      },
+      {
+        "title": "White-Box Cryptography in the Gray Box - - A Hardware Implementation and its Side Channels -.",
+        "authors": [
+          "Pascal Sasdrich",
+          "Amir Moradi",
+          "Tim Güneysu"
+        ]
+      },
+      {
+        "title": "Detecting Flawed Masking Schemes with Leakage Detection Tests.",
+        "authors": [
+          "Oscar Reparaz"
+        ]
+      },
+      {
+        "title": "There Is Wisdom in Harnessing the Strengths of Your Enemy: Customized Encoding to Thwart Side-Channel Attacks.",
+        "authors": [
+          "Houssem Maghrebi",
+          "Victor Servant",
+          "Julien Bringer"
+        ]
+      },
+      {
+        "title": "Automatic Search for Key-Bridging Technique: Applications to LBlock and TWINE.",
+        "authors": [
+          "Li Lin",
+          "Wenling Wu",
+          "Yafei Zheng"
+        ]
+      },
+      {
+        "title": "MILP-Based Automatic Search Algorithms for Differential and Linear Trails for Speck.",
+        "authors": [
+          "Kai Fu",
+          "Meiqin Wang",
+          "Yinghua Guo",
+          "Siwei Sun",
+          "Lei Hu"
+        ]
+      },
+      {
+        "title": "Automatic Search for the Best Trails in ARX: Application to Block Cipher Speck.",
+        "authors": [
+          "Alex Biryukov",
+          "Vesselin Velichkov",
+          "Yann Le Corre"
+        ]
+      },
+      {
+        "title": "Stream Ciphers: A Practical Solution for Efficient Homomorphic-Ciphertext Compression.",
+        "authors": [
+          "Anne Canteaut",
+          "Sergiu Carpov",
+          "Caroline Fontaine",
+          "Tancrède Lepoint",
+          "María Naya-Plasencia",
+          "Pascal Paillier",
+          "Renaud Sirdey"
+        ]
+      },
+      {
+        "title": "Efficient Design Strategies Based on the AES Round Function.",
+        "authors": [
+          "Jérémy Jean",
+          "Ivica Nikolic"
+        ]
+      },
+      {
+        "title": "Bit-Based Division Property and Application to Simon Family.",
+        "authors": [
+          "Yosuke Todo",
+          "Masakatu Morii"
+        ]
+      },
+      {
+        "title": "Algebraic Insights into the Secret Feistel Network.",
+        "authors": [
+          "Léo Perrin",
+          "Aleksei Udovenko"
+        ]
+      },
+      {
+        "title": "Integrals Go Statistical: Cryptanalysis of Full Skipjack Variants.",
+        "authors": [
+          "Meiqin Wang",
+          "Tingting Cui",
+          "Huaifeng Chen",
+          "Ling Sun",
+          "Long Wen",
+          "Andrey Bogdanov"
+        ]
+      },
+      {
+        "title": "Note on Impossible Differential Attacks.",
+        "authors": [
+          "Patrick Derbez"
+        ]
+      },
+      {
+        "title": "Improved Linear Hull Attack on Round-Reduced Simon with Dynamic Key-Guessing Techniques.",
+        "authors": [
+          "Huaifeng Chen",
+          "Xiaoyun Wang"
+        ]
+      },
+      {
+        "title": "Modeling Random Oracles Under Unpredictable Queries.",
+        "authors": [
+          "Pooya Farshim",
+          "Arno Mittelbach"
+        ]
+      },
+      {
+        "title": "Practical Order-Revealing Encryption with Limited Leakage.",
+        "authors": [
+          "Nathan Chenette",
+          "Kevin Lewi",
+          "Stephen A. Weis",
+          "David J. Wu"
+        ]
+      },
+      {
+        "title": "Strengthening the Known-Key Security Notion for Block Ciphers.",
+        "authors": [
+          "Benoît Cogliati",
+          "Yannick Seurin"
+        ]
+      },
+      {
+        "title": "Related-Key Almost Universal Hash Functions: Definitions, Constructions and Applications.",
+        "authors": [
+          "Peng Wang",
+          "Yuling Li",
+          "Liting Zhang",
+          "Kaiyan Zheng"
+        ]
+      },
+      {
+        "title": "Key Recovery Attack Against 2.5-Round \\pi -Cipher.",
+        "authors": [
+          "Christina Boura",
+          "Avik Chakraborti",
+          "Gaëtan Leurent",
+          "Goutam Paul",
+          "Dhiman Saha",
+          "Hadi Soleimany",
+          "Valentin Suder"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of Reduced NORX.",
+        "authors": [
+          "Nasour Bagheri",
+          "Tao Huang",
+          "Keting Jia",
+          "Florian Mendel",
+          "Yu Sasaki"
+        ]
+      },
+      {
+        "title": "Analysis of the Kupyna-256 Hash Function.",
+        "authors": [
+          "Christoph Dobraunig",
+          "Maria Eichlseder",
+          "Florian Mendel"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2015.html": {
+    "header": "22. FSE 2015: Istanbul, Turkey",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Differential Analysis and Meet-in-the-Middle Attack Against Round-Reduced TWINE.",
+        "authors": [
+          "Alex Biryukov",
+          "Patrick Derbez",
+          "Léo Perrin"
+        ]
+      },
+      {
+        "title": "Improved Higher-Order Differential Attacks on MISTY1.",
+        "authors": [
+          "Achiya Bar-On"
+        ]
+      },
+      {
+        "title": "Meet-in-the-Middle Technique for Truncated Differential and Its Applications to CLEFIA and Camellia.",
+        "authors": [
+          "Leibo Li",
+          "Keting Jia",
+          "Xiaoyun Wang",
+          "Xiaoyang Dong"
+        ]
+      },
+      {
+        "title": "Protecting Against Multidimensional Linear and Truncated Differential Cryptanalysis by Decorrelation.",
+        "authors": [
+          "Céline Blondeau",
+          "Aslí Bay",
+          "Serge Vaudenay"
+        ]
+      },
+      {
+        "title": "Analysis of Impossible, Integral and Zero-Correlation Attacks on Type-II Generalized Feistel Networks Using the Matrix Method.",
+        "authors": [
+          "Céline Blondeau",
+          "Marine Minier"
+        ]
+      },
+      {
+        "title": "Simpler and More Efficient Rank Estimation for Side-Channel Security Assessment.",
+        "authors": [
+          "Cezary Glowacz",
+          "Vincent Grosso",
+          "Romain Poussier",
+          "Joachim Schüth",
+          "François-Xavier Standaert"
+        ]
+      },
+      {
+        "title": "Conversion from Arithmetic to Boolean Masking with Logarithmic Complexity.",
+        "authors": [
+          "Jean-Sébastien Coron",
+          "Johann Großschädl",
+          "Mehdi Tibouchi",
+          "Praveen Kumar Vadnala"
+        ]
+      },
+      {
+        "title": "Comb to Pipeline: Fast Software Encryption Revisited.",
+        "authors": [
+          "Andrey Bogdanov",
+          "Martin M. Lauridsen",
+          "Elmar Tischhauser"
+        ]
+      },
+      {
+        "title": "Security of the AES with a Secret S-Box.",
+        "authors": [
+          "Tyge Tiessen",
+          "Lars R. Knudsen",
+          "Stefan Kölbl",
+          "Martin M. Lauridsen"
+        ]
+      },
+      {
+        "title": "Meet-in-the-Middle Attacks and Structural Analysis of Round-Reduced PRINCE.",
+        "authors": [
+          "Patrick Derbez",
+          "Léo Perrin"
+        ]
+      },
+      {
+        "title": "Linear Distinguishers in the Key-less Setting: Application to PRESENT.",
+        "authors": [
+          "Martin M. Lauridsen",
+          "Christian Rechberger"
+        ]
+      },
+      {
+        "title": "Differential-Linear Cryptanalysis of ICEPOLE.",
+        "authors": [
+          "Tao Huang",
+          "Ivan Tjuawinata",
+          "Hongjun Wu"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of JAMBU.",
+        "authors": [
+          "Thomas Peyrin",
+          "Siang Meng Sim",
+          "Lei Wang",
+          "Guoyan Zhang"
+        ]
+      },
+      {
+        "title": "Related-Key Forgeries for Prøst-OTR.",
+        "authors": [
+          "Christoph Dobraunig",
+          "Maria Eichlseder",
+          "Florian Mendel"
+        ]
+      },
+      {
+        "title": "Practical Cryptanalysis of the Open Smart Grid Protocol.",
+        "authors": [
+          "Philipp Jovanovic",
+          "Samuel Neves"
+        ]
+      },
+      {
+        "title": "Relaxing Full-Codebook Security: A Refined Analysis of Key-Length Extension Schemes.",
+        "authors": [
+          "Peter Gazi",
+          "Jooyoung Lee",
+          "Yannick Seurin",
+          "John P. Steinberger",
+          "Stefano Tessaro"
+        ]
+      },
+      {
+        "title": "The Related-Key Security of Iterated Even-Mansour Ciphers.",
+        "authors": [
+          "Pooya Farshim",
+          "Gordon Procter"
+        ]
+      },
+      {
+        "title": "Security of Keyed Sponge Constructions Using a Modular Proof Approach.",
+        "authors": [
+          "Elena Andreeva",
+          "Joan Daemen",
+          "Bart Mennink",
+          "Gilles Van Assche"
+        ]
+      },
+      {
+        "title": "GCM Security Bounds Reconsidered.",
+        "authors": [
+          "Yuichi Niwa",
+          "Keisuke Ohashi",
+          "Kazuhiko Minematsu",
+          "Tetsu Iwata"
+        ]
+      },
+      {
+        "title": "Boosting OMD for Almost Free Authentication of Associated Data.",
+        "authors": [
+          "Reza Reyhanitabar",
+          "Serge Vaudenay",
+          "Damian Vizár"
+        ]
+      },
+      {
+        "title": "Optimally Secure Tweakable Blockciphers.",
+        "authors": [
+          "Bart Mennink"
+        ]
+      },
+      {
+        "title": "On Lightweight Stream Ciphers with Shorter Internal States.",
+        "authors": [
+          "Frederik Armknecht",
+          "Vasily Mikhalev"
+        ]
+      },
+      {
+        "title": "Lightweight MDS Involution Matrices.",
+        "authors": [
+          "Siang Meng Sim",
+          "Khoongming Khoo",
+          "Frédérique E. Oggier",
+          "Thomas Peyrin"
+        ]
+      },
+      {
+        "title": "A New Classification of 4-bit Optimal S-boxes and Its Application to PRESENT, RECTANGLE and SPONGENT.",
+        "authors": [
+          "Wentao Zhang",
+          "Zhenzhen Bao",
+          "Vincent Rijmen",
+          "Meicheng Liu"
+        ]
+      },
+      {
+        "title": "Rotational Cryptanalysis of ARX Revisited.",
+        "authors": [
+          "Dmitry Khovratovich",
+          "Ivica Nikolic",
+          "Josef Pieprzyk",
+          "Przemyslaw Sokolowski",
+          "Ron Steinfeld"
+        ]
+      },
+      {
+        "title": "Internal Differential Boomerangs: Practical Analysis of the Round-Reduced Keccak- f f Permutation.",
+        "authors": [
+          "Jérémy Jean",
+          "Ivica Nikolic"
+        ]
+      },
+      {
+        "title": "New Linear Correlations Related to State Information of RC4 PRGA Using IV in WPA.",
+        "authors": [
+          "Ryoma Ito",
+          "Atsuko Miyaji"
+        ]
+      },
+      {
+        "title": "A More Cautious Approach to Security Against Mass Surveillance.",
+        "authors": [
+          "Jean Paul Degabriele",
+          "Pooya Farshim",
+          "Bertram Poettering"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2014.html": {
+    "header": "21. FSE 2014: London, UK",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Direct Construction of Recursive MDS Diffusion Layers Using Shortened BCH Codes.",
+        "authors": [
+          "Daniel Augot",
+          "Matthieu Finiasz"
+        ]
+      },
+      {
+        "title": "LS-Designs: Bitslice Encryption for Efficient Masked Software Implementations.",
+        "authors": [
+          "Vincent Grosso",
+          "Gaëtan Leurent",
+          "François-Xavier Standaert",
+          "Kerem Varici"
+        ]
+      },
+      {
+        "title": "SPRING: Fast Pseudorandom Functions from Rounded Ring Products.",
+        "authors": [
+          "Abhishek Banerjee",
+          "Hai Brenner",
+          "Gaëtan Leurent",
+          "Chris Peikert",
+          "Alon Rosen"
+        ]
+      },
+      {
+        "title": "Match Box Meet-in-the-Middle Attack Against KATAN.",
+        "authors": [
+          "Thomas Fuhr",
+          "Brice Minaud"
+        ]
+      },
+      {
+        "title": "Collision Spectrum, Entropy Loss, T-Sponges, and Cryptanalysis of GLUON-64.",
+        "authors": [
+          "Léo Perrin",
+          "Dmitry Khovratovich"
+        ]
+      },
+      {
+        "title": "Improved All-Subkeys Recovery Attacks on FOX, KATAN and SHACAL-2 Block Ciphers.",
+        "authors": [
+          "Takanori Isobe",
+          "Kyoji Shibutani"
+        ]
+      },
+      {
+        "title": "Improved Single-Key Attacks on 9-Round AES-192/256.",
+        "authors": [
+          "Leibo Li",
+          "Keting Jia",
+          "Xiaoyun Wang"
+        ]
+      },
+      {
+        "title": "CLOC: Authenticated Encryption for Short Input.",
+        "authors": [
+          "Tetsu Iwata",
+          "Kazuhiko Minematsu",
+          "Jian Guo",
+          "Sumio Morioka"
+        ]
+      },
+      {
+        "title": "APE: Authenticated Permutation-Based Encryption for Lightweight Cryptography.",
+        "authors": [
+          "Elena Andreeva",
+          "Begül Bilgin",
+          "Andrey Bogdanov",
+          "Atul Luykx",
+          "Bart Mennink",
+          "Nicky Mouha",
+          "Kan Yasuda"
+        ]
+      },
+      {
+        "title": "COBRA: A Parallelizable Authenticated Online Cipher Without Block Cipher Inverse.",
+        "authors": [
+          "Elena Andreeva",
+          "Atul Luykx",
+          "Bart Mennink",
+          "Kan Yasuda"
+        ]
+      },
+      {
+        "title": "Pipelineable On-line Encryption.",
+        "authors": [
+          "Farzaneh Abed",
+          "Scott R. Fluhrer",
+          "Christian Forler",
+          "Eik List",
+          "Stefan Lucks",
+          "David A. McGrew",
+          "Jakob Wenzel"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of FIDES.",
+        "authors": [
+          "Itai Dinur",
+          "Jérémy Jean"
+        ]
+      },
+      {
+        "title": "Security Analysis of Key-Alternating Feistel Ciphers.",
+        "authors": [
+          "Rodolphe Lampe",
+          "Yannick Seurin"
+        ]
+      },
+      {
+        "title": "The Related-Key Analysis of Feistel Constructions.",
+        "authors": [
+          "Manuel Barbosa",
+          "Pooya Farshim"
+        ]
+      },
+      {
+        "title": "The Indistinguishability of the XOR of k Permutations.",
+        "authors": [
+          "Benoit Cogliati",
+          "Rodolphe Lampe",
+          "Jacques Patarin"
+        ]
+      },
+      {
+        "title": "Impact of ANSI X9.24-1: 2009 Key Check Value on ISO/IEC 9797-1: 2011 MACs.",
+        "authors": [
+          "Tetsu Iwata",
+          "Lei Wang"
+        ]
+      },
+      {
+        "title": "Plaintext Recovery Attacks Against WPA/TKIP.",
+        "authors": [
+          "Kenneth G. Paterson",
+          "Bertram Poettering",
+          "Jacob C. N. Schuldt"
+        ]
+      },
+      {
+        "title": "Dependence in IV-Related Bytes of RC4 Key Enhances Vulnerabilities in WPA.",
+        "authors": [
+          "Sourav Sen Gupta",
+          "Subhamoy Maitra",
+          "Willi Meier",
+          "Goutam Paul",
+          "Santanu Sarkar"
+        ]
+      },
+      {
+        "title": "Probabilistic Slide Cryptanalysis and Its Applications to LED-64 and Zorro.",
+        "authors": [
+          "Hadi Soleimany"
+        ]
+      },
+      {
+        "title": "Improved Linear Sieving Techniques with Applications to Step-Reduced LED-64.",
+        "authors": [
+          "Itai Dinur",
+          "Orr Dunkelman",
+          "Nathan Keller",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "Differential-Linear Cryptanalysis Revisited.",
+        "authors": [
+          "Céline Blondeau",
+          "Gregor Leander",
+          "Kaisa Nyberg"
+        ]
+      },
+      {
+        "title": "Improved Slender-Set Linear Cryptanalysis.",
+        "authors": [
+          "Guo-qiang Liu",
+          "Chen-Hui Jin",
+          "Chuan-Da Qi"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of KLEIN.",
+        "authors": [
+          "Virginie Lallemand",
+          "María Naya-Plasencia"
+        ]
+      },
+      {
+        "title": "Branching Heuristics in Differential Collision Search with Applications to SHA-512.",
+        "authors": [
+          "Maria Eichlseder",
+          "Florian Mendel",
+          "Martin Schläffer"
+        ]
+      },
+      {
+        "title": "On the Minimum Number of Multiplications Necessary for Universal Hash Functions.",
+        "authors": [
+          "Mridul Nandi"
+        ]
+      },
+      {
+        "title": "Collision Attack on 5 Rounds of Grøstl.",
+        "authors": [
+          "Florian Mendel",
+          "Vincent Rijmen",
+          "Martin Schläffer"
+        ]
+      },
+      {
+        "title": "Differential Cryptanalysis of Round-Reduced Simon and Speck.",
+        "authors": [
+          "Farzaneh Abed",
+          "Eik List",
+          "Stefan Lucks",
+          "Jakob Wenzel"
+        ]
+      },
+      {
+        "title": "Differential Analysis of Block Ciphers SIMON and SPECK.",
+        "authors": [
+          "Alex Biryukov",
+          "Arnab Roy",
+          "Vesselin Velichkov"
+        ]
+      },
+      {
+        "title": "Equivalent Key Recovery Attacks Against HMAC and NMAC with Whirlpool Reduced to 7 Rounds.",
+        "authors": [
+          "Jian Guo",
+          "Yu Sasaki",
+          "Lei Wang",
+          "Meiqin Wang",
+          "Long Wen"
+        ]
+      },
+      {
+        "title": "Multiple Differential Cryptanalysis of Round-Reduced PRINCE.",
+        "authors": [
+          "Anne Canteaut",
+          "Thomas Fuhr",
+          "Henri Gilbert",
+          "María Naya-Plasencia",
+          "Jean-René Reinhard"
+        ]
+      },
+      {
+        "title": "Efficient Fuzzy Search on Encrypted Data.",
+        "authors": [
+          "Alexandra Boldyreva",
+          "Nathan Chenette"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2013.html": {
+    "header": "20. FSE 2013: Singapore",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Complementing Feistel Ciphers.",
+        "authors": [
+          "Alex Biryukov",
+          "Ivica Nikolic"
+        ]
+      },
+      {
+        "title": "On the Wrong Key Randomisation and Key Equivalence Hypotheses in Matsui's Algorithm 2.",
+        "authors": [
+          "Andrey Bogdanov",
+          "Elmar Tischhauser"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of WIDEA.",
+        "authors": [
+          "Gaëtan Leurent"
+        ]
+      },
+      {
+        "title": "Towards Secure Distance Bounding.",
+        "authors": [
+          "Ioana Boureanu",
+          "Aikaterini Mitrokotsa",
+          "Serge Vaudenay"
+        ]
+      },
+      {
+        "title": "Reflection Cryptanalysis of PRINCE-Like Ciphers.",
+        "authors": [
+          "Hadi Soleimany",
+          "Céline Blondeau",
+          "Xiaoli Yu",
+          "Wenling Wu",
+          "Kaisa Nyberg",
+          "Huiling Zhang",
+          "Lei Zhang",
+          "Yanfeng Wang"
+        ]
+      },
+      {
+        "title": "Security Analysis of PRINCE.",
+        "authors": [
+          "Jérémy Jean",
+          "Ivica Nikolic",
+          "Thomas Peyrin",
+          "Lei Wang",
+          "Shuang Wu"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of Round-Reduced \\mathttLED.",
+        "authors": [
+          "Ivica Nikolic",
+          "Lei Wang",
+          "Shuang Wu"
+        ]
+      },
+      {
+        "title": "Tweakable Blockciphers with Asymptotically Optimal Security.",
+        "authors": [
+          "Rodolphe Lampe",
+          "Yannick Seurin"
+        ]
+      },
+      {
+        "title": "Smashing WEP in a Passive Attack.",
+        "authors": [
+          "Pouyan Sepehrdad",
+          "Petr Susil",
+          "Serge Vaudenay",
+          "Martin Vuagnoux"
+        ]
+      },
+      {
+        "title": "Full Plaintext Recovery Attack on Broadcast RC4.",
+        "authors": [
+          "Takanori Isobe",
+          "Toshihiro Ohigashi",
+          "Yuhei Watanabe",
+          "Masakatu Morii"
+        ]
+      },
+      {
+        "title": "Time-Memory Trade-Offs for Near-Collisions.",
+        "authors": [
+          "Gaëtan Leurent"
+        ]
+      },
+      {
+        "title": "Collision Attacks on Up to 5 Rounds of SHA-3 Using Generalized Internal Differentials.",
+        "authors": [
+          "Itai Dinur",
+          "Orr Dunkelman",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "Rotational Cryptanalysis of Round-Reduced Keccak.",
+        "authors": [
+          "Pawel Morawiecki",
+          "Josef Pieprzyk",
+          "Marian Srebrny"
+        ]
+      },
+      {
+        "title": "Partial-Collision Attack on the Round-Reduced Compression Function of Skein-256.",
+        "authors": [
+          "Hongbo Yu",
+          "Jiazhe Chen",
+          "Xiaoyun Wang"
+        ]
+      },
+      {
+        "title": "On Weak Keys and Forgery Attacks Against Polynomial-Based MAC Schemes.",
+        "authors": [
+          "Gordon Procter",
+          "Carlos Cid"
+        ]
+      },
+      {
+        "title": "Secure Message Authentication Against Related-Key Attack.",
+        "authors": [
+          "Rishiraj Bhattacharyya",
+          "Arnab Roy"
+        ]
+      },
+      {
+        "title": "Attacks and Security Proofs of EAX-Prime.",
+        "authors": [
+          "Kazuhiko Minematsu",
+          "Stefan Lucks",
+          "Hiraku Morita",
+          "Tetsu Iwata"
+        ]
+      },
+      {
+        "title": "Towards Understanding the Known-Key Security of Block Ciphers.",
+        "authors": [
+          "Elena Andreeva",
+          "Andrey Bogdanov",
+          "Bart Mennink"
+        ]
+      },
+      {
+        "title": "On Symmetric Encryption with Distinguishable Decryption Failures.",
+        "authors": [
+          "Alexandra Boldyreva",
+          "Jean Paul Degabriele",
+          "Kenneth G. Paterson",
+          "Martijn Stam"
+        ]
+      },
+      {
+        "title": "Minimalism of Software Implementation - Extensive Performance Analysis of Symmetric Primitives on the RL78 Microcontroller.",
+        "authors": [
+          "Mitsuru Matsui",
+          "Yumiko Murakami"
+        ]
+      },
+      {
+        "title": "Higher-Order Side Channel Security and Mask Refreshing.",
+        "authors": [
+          "Jean-Sébastien Coron",
+          "Emmanuel Prouff",
+          "Matthieu Rivain",
+          "Thomas Roche"
+        ]
+      },
+      {
+        "title": "Masking Tables - An Underestimated Security Risk.",
+        "authors": [
+          "Michael Tunstall",
+          "Carolyn Whitnall",
+          "Elisabeth Oswald"
+        ]
+      },
+      {
+        "title": "ALE: AES-Based Lightweight Authenticated Encryption.",
+        "authors": [
+          "Andrey Bogdanov",
+          "Florian Mendel",
+          "Francesco Regazzoni",
+          "Vincent Rijmen",
+          "Elmar Tischhauser"
+        ]
+      },
+      {
+        "title": "Related-Key Attacks Against Full Hummingbird-2.",
+        "authors": [
+          "Markku-Juhani O. Saarinen"
+        ]
+      },
+      {
+        "title": "A Low Data Complexity Attack on the GMR-2 Cipher Used in the Satellite Phones.",
+        "authors": [
+          "Ruilin Li",
+          "Heng Li",
+          "Chao Li",
+          "Bing Sun"
+        ]
+      },
+      {
+        "title": "Improving Key Recovery to 784 and 799 Rounds of Trivium Using Optimized Cube Attacks.",
+        "authors": [
+          "Pierre-Alain Fouque",
+          "Thomas Vannet"
+        ]
+      },
+      {
+        "title": "Near Collision Attack on the Grain v1 Stream Cipher.",
+        "authors": [
+          "Bin Zhang",
+          "Zhenqi Li",
+          "Dengguo Feng",
+          "Dongdai Lin"
+        ]
+      },
+      {
+        "title": "Exhausting Demirci-Selçuk Meet-in-the-Middle Attacks Against Reduced-Round AES.",
+        "authors": [
+          "Patrick Derbez",
+          "Pierre-Alain Fouque"
+        ]
+      },
+      {
+        "title": "A Framework for Automated Independent-Biclique Cryptanalysis.",
+        "authors": [
+          "Farzaneh Abed",
+          "Christian Forler",
+          "Eik List",
+          "Stefan Lucks",
+          "Jakob Wenzel"
+        ]
+      },
+      {
+        "title": "A New Criterion for Avoiding the Propagation of Linear Relations Through an Sbox.",
+        "authors": [
+          "Christina Boura",
+          "Anne Canteaut"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2012.html": {
+    "header": "19. FSE 2012: Washington, DC, USA",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "\"Provable\" Security against Differential and Linear Cryptanalysis.",
+        "authors": [
+          "Kaisa Nyberg"
+        ]
+      },
+      {
+        "title": "Improved Attacks on Full GOST.",
+        "authors": [
+          "Itai Dinur",
+          "Orr Dunkelman",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "Zero Correlation Linear Cryptanalysis with Reduced Data Complexity.",
+        "authors": [
+          "Andrey Bogdanov",
+          "Meiqin Wang"
+        ]
+      },
+      {
+        "title": "A Model for Structure Attacks, with Applications to PRESENT and Serpent.",
+        "authors": [
+          "Meiqin Wang",
+          "Yue Sun",
+          "Elmar Tischhauser",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "A Methodology for Differential-Linear Cryptanalysis and Its Applications - (Extended Abstract).",
+        "authors": [
+          "Jiqiang Lu"
+        ]
+      },
+      {
+        "title": "New Observations on Impossible Differential Cryptanalysis of Reduced-Round Camellia.",
+        "authors": [
+          "Ya Liu",
+          "Leibo Li",
+          "Dawu Gu",
+          "Xiaoyun Wang",
+          "Zhiqiang Liu",
+          "Jiazhe Chen",
+          "Wei Li"
+        ]
+      },
+      {
+        "title": "Improved Rebound Attack on the Finalist Grøstl.",
+        "authors": [
+          "Jérémy Jean",
+          "María Naya-Plasencia",
+          "Thomas Peyrin"
+        ]
+      },
+      {
+        "title": "(Pseudo) Preimage Attack on Round-Reduced Grøstl Hash Function and Others.",
+        "authors": [
+          "Shuang Wu",
+          "Dengguo Feng",
+          "Wenling Wu",
+          "Jian Guo",
+          "Le Dong",
+          "Jian Zou"
+        ]
+      },
+      {
+        "title": "Practical Cryptanalysis of ARMADILLO2.",
+        "authors": [
+          "María Naya-Plasencia",
+          "Thomas Peyrin"
+        ]
+      },
+      {
+        "title": "On the (In)Security of IDEA in Various Hashing Modes.",
+        "authors": [
+          "Lei Wei",
+          "Thomas Peyrin",
+          "Przemyslaw Sokolowski",
+          "San Ling",
+          "Josef Pieprzyk",
+          "Huaxiong Wang"
+        ]
+      },
+      {
+        "title": "The Security of Ciphertext Stealing.",
+        "authors": [
+          "Phillip Rogaway",
+          "Mark Wooding",
+          "Haibin Zhang"
+        ]
+      },
+      {
+        "title": "McOE: A Family of Almost Foolproof On-Line Authenticated Encryption Schemes.",
+        "authors": [
+          "Ewan Fleischmann",
+          "Christian Forler",
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "Cycling Attacks on GCM, GHASH and Other Polynomial MACs and Hashes.",
+        "authors": [
+          "Markku-Juhani Olavi Saarinen"
+        ]
+      },
+      {
+        "title": "Collision Attacks on the Reduced Dual-Stream Hash Function RIPEMD-128.",
+        "authors": [
+          "Florian Mendel",
+          "Tomislav Nad",
+          "Martin Schläffer"
+        ]
+      },
+      {
+        "title": "Bicliques for Preimages: Attacks on Skein-512 and the SHA-2 Family.",
+        "authors": [
+          "Dmitry Khovratovich",
+          "Christian Rechberger",
+          "Alexandra Savelieva"
+        ]
+      },
+      {
+        "title": "Converting Meet-In-The-Middle Preimage Attack into Pseudo Collision Attack: Application to SHA-2.",
+        "authors": [
+          "Ji Li",
+          "Takanori Isobe",
+          "Kyoji Shibutani"
+        ]
+      },
+      {
+        "title": "UNAF: A Special Set of Additive Differences with Application to the Differential Analysis of ARX.",
+        "authors": [
+          "Vesselin Velichkov",
+          "Nicky Mouha",
+          "Christophe De Cannière",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "ElimLin Algorithm Revisited.",
+        "authors": [
+          "Nicolas T. Courtois",
+          "Pouyan Sepehrdad",
+          "Petr Susil",
+          "Serge Vaudenay"
+        ]
+      },
+      {
+        "title": "Short-Output Universal Hash Functions and Their Use in Fast and Secure Data Authentication.",
+        "authors": [
+          "Long Hoang Nguyen",
+          "A. W. Roscoe"
+        ]
+      },
+      {
+        "title": "Lapin: An Efficient Authentication Protocol Based on Ring-LPN.",
+        "authors": [
+          "Stefan Heyse",
+          "Eike Kiltz",
+          "Vadim Lyubashevsky",
+          "Christof Paar",
+          "Krzysztof Pietrzak"
+        ]
+      },
+      {
+        "title": "Higher-Order Masking Schemes for S-Boxes.",
+        "authors": [
+          "Claude Carlet",
+          "Louis Goubin",
+          "Emmanuel Prouff",
+          "Michaël Quisquater",
+          "Matthieu Rivain"
+        ]
+      },
+      {
+        "title": "Recursive Diffusion Layers for Block Ciphers and Hash Functions.",
+        "authors": [
+          "Mahdi Sajadieh",
+          "Mohammad Dakhilalian",
+          "Hamid Mala",
+          "Pouyan Sepehrdad"
+        ]
+      },
+      {
+        "title": "Unaligned Rebound Attack: Application to Keccak.",
+        "authors": [
+          "Alexandre Duc",
+          "Jian Guo",
+          "Thomas Peyrin",
+          "Lei Wei"
+        ]
+      },
+      {
+        "title": "Differential Propagation Analysis of Keccak.",
+        "authors": [
+          "Joan Daemen",
+          "Gilles Van Assche"
+        ]
+      },
+      {
+        "title": "New Attacks on Keccak-224 and Keccak-256.",
+        "authors": [
+          "Itai Dinur",
+          "Orr Dunkelman",
+          "Adi Shamir"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2011.html": {
+    "header": "18. FSE 2011: Lyngby, Denmark",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "Differential Cryptanalysis of Round-Reduced PRINTcipher: Computing Roots of Permutations.",
+        "authors": [
+          "Mohamed Ahmed Abdelraheem",
+          "Gregor Leander",
+          "Erik Zenner"
+        ]
+      },
+      {
+        "title": "Search for Related-Key Differential Characteristics in DES-Like Ciphers.",
+        "authors": [
+          "Alex Biryukov",
+          "Ivica Nikolic"
+        ]
+      },
+      {
+        "title": "Multiple Differential Cryptanalysis: Theory and Practice.",
+        "authors": [
+          "Céline Blondeau",
+          "Benoît Gérard"
+        ]
+      },
+      {
+        "title": "Fast Correlation Attacks: Methods and Countermeasures.",
+        "authors": [
+          "Willi Meier"
+        ]
+      },
+      {
+        "title": "Analysis of Reduced-SHAvite-3-256 v2.",
+        "authors": [
+          "Marine Minier",
+          "María Naya-Plasencia",
+          "Thomas Peyrin"
+        ]
+      },
+      {
+        "title": "An Improved Algebraic Attack on Hamsi-256.",
+        "authors": [
+          "Itai Dinur",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "Practical Near-Collisions and Collisions on Round-Reduced ECHO-256 Compression Function.",
+        "authors": [
+          "Jérémy Jean",
+          "Pierre-Alain Fouque"
+        ]
+      },
+      {
+        "title": "On Cipher-Dependent Related-Key Attacks in the Ideal-Cipher Model.",
+        "authors": [
+          "Martin R. Albrecht",
+          "Pooya Farshim",
+          "Kenneth G. Paterson",
+          "Gaven J. Watson"
+        ]
+      },
+      {
+        "title": "On the Security of Hash Functions Employing Blockcipher Postprocessing.",
+        "authors": [
+          "Donghoon Chang",
+          "Mridul Nandi",
+          "Moti Yung"
+        ]
+      },
+      {
+        "title": "Breaking Grain-128 with Dynamic Cube Attacks.",
+        "authors": [
+          "Itai Dinur",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of the Knapsack Generator.",
+        "authors": [
+          "Simon Knellwolf",
+          "Willi Meier"
+        ]
+      },
+      {
+        "title": "Attack on Broadcast RC4 Revisited.",
+        "authors": [
+          "Subhamoy Maitra",
+          "Goutam Paul",
+          "Sourav Sen Gupta"
+        ]
+      },
+      {
+        "title": "Boomerang Attacks on BLAKE-32.",
+        "authors": [
+          "Alex Biryukov",
+          "Ivica Nikolic",
+          "Arnab Roy"
+        ]
+      },
+      {
+        "title": "Practical Near-Collisions on the Compression Function of BMW.",
+        "authors": [
+          "Gaëtan Leurent",
+          "Søren S. Thomsen"
+        ]
+      },
+      {
+        "title": "Higher-Order Differential Properties of Keccak and Luffa.",
+        "authors": [
+          "Christina Boura",
+          "Anne Canteaut",
+          "Christophe De Cannière"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of PRESENT-Like Ciphers with Secret S-Boxes.",
+        "authors": [
+          "Julia Borghoff",
+          "Lars R. Knudsen",
+          "Gregor Leander",
+          "Søren S. Thomsen"
+        ]
+      },
+      {
+        "title": "A Single-Key Attack on the Full GOST Block Cipher.",
+        "authors": [
+          "Takanori Isobe"
+        ]
+      },
+      {
+        "title": "The Software Performance of Authenticated-Encryption Modes.",
+        "authors": [
+          "Ted Krovetz",
+          "Phillip Rogaway"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of Hummingbird-1.",
+        "authors": [
+          "Markku-Juhani O. Saarinen"
+        ]
+      },
+      {
+        "title": "The Additive Differential Probability of ARX.",
+        "authors": [
+          "Vesselin Velichkov",
+          "Nicky Mouha",
+          "Christophe De Cannière",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "Linear Approximations of Addition Modulo 2n-1.",
+        "authors": [
+          "Chunfang Zhou",
+          "Xiutao Feng",
+          "Chuankun Wu"
+        ]
+      },
+      {
+        "title": "Meet-in-the-Middle Preimage Attacks on AES Hashing Modes and an Application to Whirlpool.",
+        "authors": [
+          "Yu Sasaki"
+        ]
+      },
+      {
+        "title": "Known-Key Distinguishers on 11-Round Feistel and Collision Attacks on Its Hashing Modes.",
+        "authors": [
+          "Yu Sasaki",
+          "Kan Yasuda"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2010.html": {
+    "header": "17. FSE 2010: Seoul, Korea",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Cryptanalysis of the DECT Standard Cipher.",
+        "authors": [
+          "Karsten Nohl",
+          "Erik Tews",
+          "Ralf-Philipp Weinmann"
+        ]
+      },
+      {
+        "title": "Improving the Generalized Feistel.",
+        "authors": [
+          "Tomoyasu Suzaki",
+          "Kazuhiko Minematsu"
+        ]
+      },
+      {
+        "title": "Nonlinear Equivalence of Stream Ciphers.",
+        "authors": [
+          "Sondre Rønjom",
+          "Carlos Cid"
+        ]
+      },
+      {
+        "title": "Lightweight Privacy Preserving Authentication for RFID Using a Stream Cipher.",
+        "authors": [
+          "Olivier Billet",
+          "Jonathan Etrog",
+          "Henri Gilbert"
+        ]
+      },
+      {
+        "title": "Fast Software AES Encryption.",
+        "authors": [
+          "Dag Arne Osvik",
+          "Joppe W. Bos",
+          "Deian Stefan",
+          "David Canright"
+        ]
+      },
+      {
+        "title": "Attacking the Knudsen-Preneel Compression Functions.",
+        "authors": [
+          "Onur Özen",
+          "Thomas Shrimpton",
+          "Martijn Stam"
+        ]
+      },
+      {
+        "title": "Finding Preimages of Tiger Up to 23 Steps.",
+        "authors": [
+          "Lei Wang",
+          "Yu Sasaki"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of ESSENCE.",
+        "authors": [
+          "María Naya-Plasencia",
+          "Andrea Röck",
+          "Jean-Philippe Aumasson",
+          "Yann Laigle-Chapuy",
+          "Gaëtan Leurent",
+          "Willi Meier",
+          "Thomas Peyrin"
+        ]
+      },
+      {
+        "title": "Domain Extension for Enhanced Target Collision-Resistant Hash Functions.",
+        "authors": [
+          "Ilya Mironov"
+        ]
+      },
+      {
+        "title": "Security Analysis of the Mode of JH Hash Function.",
+        "authors": [
+          "Rishiraj Bhattacharyya",
+          "Avradip Mandal",
+          "Mridul Nandi"
+        ]
+      },
+      {
+        "title": "Enhanced Security Notions for Dedicated-Key Hash Functions: Definitions and Relationships.",
+        "authors": [
+          "Mohammad Reza Reyhanitabar",
+          "Willy Susilo",
+          "Yi Mu"
+        ]
+      },
+      {
+        "title": "A Unified Method for Improving PRF Bounds for a Class of Blockcipher Based MACs.",
+        "authors": [
+          "Mridul Nandi"
+        ]
+      },
+      {
+        "title": "How to Thwart Birthday Attacks against MACs via Small Randomness.",
+        "authors": [
+          "Kazuhiko Minematsu"
+        ]
+      },
+      {
+        "title": "Constructing Rate-1 MACs from Related-Key Unpredictable Block Ciphers: PGV Model Revisited.",
+        "authors": [
+          "Liting Zhang",
+          "Wenling Wu",
+          "Peng Wang",
+          "Lei Zhang",
+          "Shuang Wu",
+          "Bo Liang"
+        ]
+      },
+      {
+        "title": "Higher Order Differential Attack on Step-Reduced Variants of Luffa v1.",
+        "authors": [
+          "Dai Watanabe",
+          "Yasuo Hatano",
+          "Tsuyoshi Yamada",
+          "Toshinobu Kaneko"
+        ]
+      },
+      {
+        "title": "Rebound Attack on Reduced-Round Versions of JH.",
+        "authors": [
+          "Vincent Rijmen",
+          "Deniz Toz",
+          "Kerem Varici"
+        ]
+      },
+      {
+        "title": "Pseudo-cryptanalysis of the Original Blue Midnight Wish.",
+        "authors": [
+          "Søren S. Thomsen"
+        ]
+      },
+      {
+        "title": "Differential and Invertibility Properties of BLAKE.",
+        "authors": [
+          "Jean-Philippe Aumasson",
+          "Jian Guo",
+          "Simon Knellwolf",
+          "Krystian Matusiewicz",
+          "Willi Meier"
+        ]
+      },
+      {
+        "title": "Rotational Cryptanalysis of ARX.",
+        "authors": [
+          "Dmitry Khovratovich",
+          "Ivica Nikolic"
+        ]
+      },
+      {
+        "title": "Another Look at Complementation Properties.",
+        "authors": [
+          "Charles Bouillaguet",
+          "Orr Dunkelman",
+          "Gaëtan Leurent",
+          "Pierre-Alain Fouque"
+        ]
+      },
+      {
+        "title": "Super-Sbox Cryptanalysis: Improved Attacks for AES-Like Permutations.",
+        "authors": [
+          "Henri Gilbert",
+          "Thomas Peyrin"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2009.html": {
+    "header": "16. FSE 2009: Leuven, Belgium",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Cube Testers and Key Recovery Attacks on Reduced-Round MD6 and Trivium.",
+        "authors": [
+          "Jean-Philippe Aumasson",
+          "Itai Dinur",
+          "Willi Meier",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "An Efficient State Recovery Attack on X-FCSR-256.",
+        "authors": [
+          "Paul Stankovski",
+          "Martin Hell",
+          "Thomas Johansson"
+        ]
+      },
+      {
+        "title": "Key Collisions of the RC4 Stream Cipher.",
+        "authors": [
+          "Mitsuru Matsui"
+        ]
+      },
+      {
+        "title": "Intel's New AES Instructions for Enhanced Performance and Security.",
+        "authors": [
+          "Shay Gueron"
+        ]
+      },
+      {
+        "title": "Blockcipher-Based Hashing Revisited.",
+        "authors": [
+          "Martijn Stam"
+        ]
+      },
+      {
+        "title": "On the Security of Tandem-DM.",
+        "authors": [
+          "Ewan Fleischmann",
+          "Michael Gorski",
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "Indifferentiability of Permutation-Based Compression Functions and Tree-Based Modes of Operation, with Applications to MD6.",
+        "authors": [
+          "Yevgeniy Dodis",
+          "Leonid Reyzin",
+          "Ronald L. Rivest",
+          "Emily Shen"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of RadioGatún.",
+        "authors": [
+          "Thomas Fuhr",
+          "Thomas Peyrin"
+        ]
+      },
+      {
+        "title": "Preimage Attacks on Reduced Tiger and SHA-2.",
+        "authors": [
+          "Takanori Isobe",
+          "Kyoji Shibutani"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of the LAKE Hash Family.",
+        "authors": [
+          "Alex Biryukov",
+          "Praveen Gauravaram",
+          "Jian Guo",
+          "Dmitry Khovratovich",
+          "San Ling",
+          "Krystian Matusiewicz",
+          "Ivica Nikolic",
+          "Josef Pieprzyk",
+          "Huaxiong Wang"
+        ]
+      },
+      {
+        "title": "New Cryptanalysis of Block Ciphers with Low Algebraic Degree.",
+        "authors": [
+          "Bing Sun",
+          "Longjiang Qu",
+          "Chao Li"
+        ]
+      },
+      {
+        "title": "Algebraic Techniques in Differential Cryptanalysis.",
+        "authors": [
+          "Martin R. Albrecht",
+          "Carlos Cid"
+        ]
+      },
+      {
+        "title": "Multidimensional Extension of Matsui's Algorithm 2.",
+        "authors": [
+          "Miia Hermelin",
+          "Joo Yeon Cho",
+          "Kaisa Nyberg"
+        ]
+      },
+      {
+        "title": "Meet-in-the-Middle Attacks on SHA-3 Candidates.",
+        "authors": [
+          "Dmitry Khovratovich",
+          "Ivica Nikolic",
+          "Ralf-Philipp Weinmann"
+        ]
+      },
+      {
+        "title": "Practical Collisions for EnRUPT.",
+        "authors": [
+          "Sebastiaan Indesteege",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "The Rebound Attack: Cryptanalysis of Reduced Whirlpool and Grøstl.",
+        "authors": [
+          "Florian Mendel",
+          "Christian Rechberger",
+          "Martin Schläffer",
+          "Søren S. Thomsen"
+        ]
+      },
+      {
+        "title": "Revisiting the IDEA Philosophy.",
+        "authors": [
+          "Pascal Junod",
+          "Marco Macchetti"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of the ISDB Scrambling Algorithm (MULTI2).",
+        "authors": [
+          "Jean-Philippe Aumasson",
+          "Jorge Nakahara Jr.",
+          "Pouyan Sepehrdad"
+        ]
+      },
+      {
+        "title": "Beyond-Birthday-Bound Security Based on Tweakable Block Cipher.",
+        "authors": [
+          "Kazuhiko Minematsu"
+        ]
+      },
+      {
+        "title": "Enhanced Target Collision Resistant Hash Functions Revisited.",
+        "authors": [
+          "Mohammad Reza Reyhanitabar",
+          "Willy Susilo",
+          "Yi Mu"
+        ]
+      },
+      {
+        "title": "MAC Reforgeability.",
+        "authors": [
+          "John Black",
+          "Martin Cochran"
+        ]
+      },
+      {
+        "title": "New Distinguishing Attack on MAC Using Secret-Prefix Method.",
+        "authors": [
+          "Xiaoyun Wang",
+          "Wei Wang",
+          "Keting Jia",
+          "Meiqin Wang"
+        ]
+      },
+      {
+        "title": "Fast and Secure CBC-Type MAC Algorithms.",
+        "authors": [
+          "Mridul Nandi"
+        ]
+      },
+      {
+        "title": "HBS: A Single-Key Mode of Operation for Deterministic Authenticated Encryption.",
+        "authors": [
+          "Tetsu Iwata",
+          "Kan Yasuda"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2008.html": {
+    "header": "15. FSE 2008: Lausanne, Switzerland",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Collisions for Step-Reduced SHA-256.",
+        "authors": [
+          "Ivica Nikolic",
+          "Alex Biryukov"
+        ]
+      },
+      {
+        "title": "Collisions on SHA-0 in One Hour.",
+        "authors": [
+          "Stéphane Manuel",
+          "Thomas Peyrin"
+        ]
+      },
+      {
+        "title": "The Hash Function Family LAKE.",
+        "authors": [
+          "Jean-Philippe Aumasson",
+          "Willi Meier",
+          "Raphael C.-W. Phan"
+        ]
+      },
+      {
+        "title": "SWIFFT: A Modest Proposal for FFT Hashing.",
+        "authors": [
+          "Vadim Lyubashevsky",
+          "Daniele Micciancio",
+          "Chris Peikert",
+          "Alon Rosen"
+        ]
+      },
+      {
+        "title": "A Unified Approach to Related-Key Attacks.",
+        "authors": [
+          "Eli Biham",
+          "Orr Dunkelman",
+          "Nathan Keller"
+        ]
+      },
+      {
+        "title": "Algebraic and Slide Attacks on KeeLoq.",
+        "authors": [
+          "Nicolas T. Courtois",
+          "Gregory V. Bard",
+          "David A. Wagner"
+        ]
+      },
+      {
+        "title": "A Meet-in-the-Middle Attack on 8-Round AES.",
+        "authors": [
+          "Hüseyin Demirci",
+          "Ali Aydin Selçuk"
+        ]
+      },
+      {
+        "title": "Block Ciphers Implementations Provably Secure Against Second Order Side Channel Analysis.",
+        "authors": [
+          "Matthieu Rivain",
+          "Emmanuelle Dottax",
+          "Emmanuel Prouff"
+        ]
+      },
+      {
+        "title": "SQUASH - A New MAC with Provable Security Properties for Highly Constrained Devices Such as RFID Tags.",
+        "authors": [
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "Differential Fault Analysis of Trivium.",
+        "authors": [
+          "Michal Hojsík",
+          "Bohuslav Rudolf"
+        ]
+      },
+      {
+        "title": "Accelerating the Whirlpool Hash Function Using Parallel Table Lookup and Fast Cyclical Permutation.",
+        "authors": [
+          "Yedidya Hilewitz",
+          "Yiqun Lisa Yin",
+          "Ruby B. Lee"
+        ]
+      },
+      {
+        "title": "Second Preimage Attack on 3-Pass HAVAL and Partial Key-Recovery Attacks on HMAC/NMAC-3-Pass HAVAL.",
+        "authors": [
+          "Eunjin Lee",
+          "Donghoon Chang",
+          "Jongsung Kim",
+          "Jaechul Sung",
+          "Seokhie Hong"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of LASH.",
+        "authors": [
+          "Ron Steinfeld",
+          "Scott Contini",
+          "Krystian Matusiewicz",
+          "Josef Pieprzyk",
+          "Jian Guo",
+          "San Ling",
+          "Huaxiong Wang"
+        ]
+      },
+      {
+        "title": "A (Second) Preimage Attack on the GOST Hash Function.",
+        "authors": [
+          "Florian Mendel",
+          "Norbert Pramstaller",
+          "Christian Rechberger"
+        ]
+      },
+      {
+        "title": "Guess-and-Determine Algebraic Attack on the Self-Shrinking Generator.",
+        "authors": [
+          "Blandine Debraize",
+          "Louis Goubin"
+        ]
+      },
+      {
+        "title": "New Form of Permutation Bias and Secret Key Leakage in Keystream Bytes of RC4.",
+        "authors": [
+          "Subhamoy Maitra",
+          "Goutam Paul"
+        ]
+      },
+      {
+        "title": "Efficient Reconstruction of RC4 Keys from Internal States.",
+        "authors": [
+          "Eli Biham",
+          "Yaniv Carmeli"
+        ]
+      },
+      {
+        "title": "An Improved Security Bound for HCTR.",
+        "authors": [
+          "Debrup Chakraborty",
+          "Mridul Nandi"
+        ]
+      },
+      {
+        "title": "How to Encrypt with a Malicious Random Number Generator.",
+        "authors": [
+          "Seny Kamara",
+          "Jonathan Katz"
+        ]
+      },
+      {
+        "title": "A One-Pass Mode of Operation for Deterministic Message Authentication- Security beyond the Birthday Barrier.",
+        "authors": [
+          "Kan Yasuda"
+        ]
+      },
+      {
+        "title": "Post-Processing Functions for a Biased Physical Random Number Generator.",
+        "authors": [
+          "Patrick Lacharme"
+        ]
+      },
+      {
+        "title": "Entropy of the Internal State of an FCSR in Galois Representation.",
+        "authors": [
+          "Andrea Röck"
+        ]
+      },
+      {
+        "title": "Bit-Pattern Based Integral Attack.",
+        "authors": [
+          "Muhammad Reza Z'aba",
+          "Håvard Raddum",
+          "Matthew Henricksen",
+          "Ed Dawson"
+        ]
+      },
+      {
+        "title": "Experiments on the Multiple Linear Cryptanalysis of Reduced Round Serpent.",
+        "authors": [
+          "Baudoin Collard",
+          "François-Xavier Standaert",
+          "Jean-Jacques Quisquater"
+        ]
+      },
+      {
+        "title": "Impossible Differential Cryptanalysis of CLEFIA.",
+        "authors": [
+          "Yukiyasu Tsunoo",
+          "Etsuko Tsujihara",
+          "Maki Shigeri",
+          "Teruo Saito",
+          "Tomoyasu Suzaki",
+          "Hiroyasu Kubo"
+        ]
+      },
+      {
+        "title": "MD4 is Not One-Way.",
+        "authors": [
+          "Gaëtan Leurent"
+        ]
+      },
+      {
+        "title": "Improved Indifferentiability Security Analysis of chopMD Hash Function.",
+        "authors": [
+          "Donghoon Chang",
+          "Mridul Nandi"
+        ]
+      },
+      {
+        "title": "New Techniques for Cryptanalysis of Hash Functions and Improved Attacks on Snefru.",
+        "authors": [
+          "Eli Biham"
+        ]
+      },
+      {
+        "title": "On the Salsa20 Core Function.",
+        "authors": [
+          "Julio César Hernández Castro",
+          "Juan M. Estévez-Tapiador",
+          "Jean-Jacques Quisquater"
+        ]
+      },
+      {
+        "title": "New Features of Latin Dances: Analysis of Salsa, ChaCha, and Rumba.",
+        "authors": [
+          "Jean-Philippe Aumasson",
+          "Simon Fischer",
+          "Shahram Khazaei",
+          "Willi Meier",
+          "Christian Rechberger"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2007.html": {
+    "header": "14. FSE 2007: Luxembourg, Luxembourg",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "Producing Collisions for Panama, Instantaneously.",
+        "authors": [
+          "Joan Daemen",
+          "Gilles Van Assche"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of FORK-256.",
+        "authors": [
+          "Krystian Matusiewicz",
+          "Thomas Peyrin",
+          "Olivier Billet",
+          "Scott Contini",
+          "Josef Pieprzyk"
+        ]
+      },
+      {
+        "title": "The Grindahl Hash Functions.",
+        "authors": [
+          "Lars R. Knudsen",
+          "Christian Rechberger",
+          "Søren S. Thomsen"
+        ]
+      },
+      {
+        "title": "Overtaking VEST.",
+        "authors": [
+          "Antoine Joux",
+          "Jean-René Reinhard"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of Achterbahn-128/80.",
+        "authors": [
+          "María Naya-Plasencia"
+        ]
+      },
+      {
+        "title": "Differential-Linear Attacks Against the Stream Cipher Phelix.",
+        "authors": [
+          "Hongjun Wu",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "How to Enrich the Message Space of a Cipher.",
+        "authors": [
+          "Thomas Ristenpart",
+          "Phillip Rogaway"
+        ]
+      },
+      {
+        "title": "Security Analysis of Constructions Combining FIL Random Oracles.",
+        "authors": [
+          "Yannick Seurin",
+          "Thomas Peyrin"
+        ]
+      },
+      {
+        "title": "Bad and Good Ways of Post-processing Biased Physical Random Numbers.",
+        "authors": [
+          "Markus Dichtl"
+        ]
+      },
+      {
+        "title": "Improved Slide Attacks.",
+        "authors": [
+          "Eli Biham",
+          "Orr Dunkelman",
+          "Nathan Keller"
+        ]
+      },
+      {
+        "title": "A New Class of Weak Keys for Blowfish.",
+        "authors": [
+          "Orhun Kara",
+          "Cevat Manap"
+        ]
+      },
+      {
+        "title": "The 128-Bit Blockcipher CLEFIA (Extended Abstract).",
+        "authors": [
+          "Taizo Shirai",
+          "Kyoji Shibutani",
+          "Toru Akishita",
+          "Shiho Moriai",
+          "Tetsu Iwata"
+        ]
+      },
+      {
+        "title": "New Lightweight DES Variants.",
+        "authors": [
+          "Gregor Leander",
+          "Christof Paar",
+          "Axel Poschmann",
+          "Kai Schramm"
+        ]
+      },
+      {
+        "title": "A New Attack on 6-Round IDEA.",
+        "authors": [
+          "Eli Biham",
+          "Orr Dunkelman",
+          "Nathan Keller"
+        ]
+      },
+      {
+        "title": "Related-Key Rectangle Attacks on Reduced AES-192 and AES-256.",
+        "authors": [
+          "Jongsung Kim",
+          "Seokhie Hong",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "An Analysis of XSL Applied to BES.",
+        "authors": [
+          "Chu-Wee Lim",
+          "Khoongming Khoo"
+        ]
+      },
+      {
+        "title": "On the Security of IV Dependent Stream Ciphers.",
+        "authors": [
+          "Côme Berbain",
+          "Henri Gilbert"
+        ]
+      },
+      {
+        "title": "Two General Attacks on Pomaranch-Like Keystream Generators.",
+        "authors": [
+          "Håkan Englund",
+          "Martin Hell",
+          "Thomas Johansson"
+        ]
+      },
+      {
+        "title": "Analysis of QUAD.",
+        "authors": [
+          "Bo-Yin Yang",
+          "Chia-Hsin Owen Chen",
+          "Daniel J. Bernstein",
+          "Jiun-Ming Chen"
+        ]
+      },
+      {
+        "title": "Message Freedom in MD4 and MD5 Collisions: Application to APOP.",
+        "authors": [
+          "Gaëtan Leurent"
+        ]
+      },
+      {
+        "title": "New Message Difference for MD4.",
+        "authors": [
+          "Yu Sasaki",
+          "Lei Wang",
+          "Kazuo Ohta",
+          "Noboru Kunihiro"
+        ]
+      },
+      {
+        "title": "Algebraic Cryptanalysis of 58-Round SHA-1.",
+        "authors": [
+          "Makoto Sugita",
+          "Mitsuru Kawazoe",
+          "Ludovic Perret",
+          "Hideki Imai"
+        ]
+      },
+      {
+        "title": "Algebraic Immunity of S-Boxes and Augmented Functions.",
+        "authors": [
+          "Simon Fischer",
+          "Willi Meier"
+        ]
+      },
+      {
+        "title": "Generalized Correlation Analysis of Vectorial Boolean Functions.",
+        "authors": [
+          "Claude Carlet",
+          "Khoongming Khoo",
+          "Chu-Wee Lim",
+          "Chuan-Wen Loe"
+        ]
+      },
+      {
+        "title": "An Analytical Model for Time-Driven Cache Attacks.",
+        "authors": [
+          "Kris Tiri",
+          "Onur Aciiçmez",
+          "Michael Neve",
+          "Flemming Andersen"
+        ]
+      },
+      {
+        "title": "Improving the Security of MACs Via Randomized Message Preprocessing.",
+        "authors": [
+          "Yevgeniy Dodis",
+          "Krzysztof Pietrzak"
+        ]
+      },
+      {
+        "title": "New Bounds for PMAC, TMAC, and XCBC.",
+        "authors": [
+          "Kazuhiko Minematsu",
+          "Toshiyasu Matsushima"
+        ]
+      },
+      {
+        "title": "Perfect Block Ciphers with Small Blocks.",
+        "authors": [
+          "Louis Granboulan",
+          "Thomas Pornin"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2006.html": {
+    "header": "13. FSE 2006: Graz, Austria",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "Cryptanalysis of Achterbahn.",
+        "authors": [
+          "Thomas Johansson",
+          "Willi Meier",
+          "Frédéric Muller"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of Grain.",
+        "authors": [
+          "Côme Berbain",
+          "Henri Gilbert",
+          "Alexander Maximov"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of the Stream Cipher DECIM.",
+        "authors": [
+          "Hongjun Wu",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "On Feistel Structures Using a Diffusion Switching Mechanism.",
+        "authors": [
+          "Taizo Shirai",
+          "Kyoji Shibutani"
+        ]
+      },
+      {
+        "title": "Pseudorandom Permutation Families over Abelian Groups.",
+        "authors": [
+          "Louis Granboulan",
+          "Éric Levieil",
+          "Gilles Piret"
+        ]
+      },
+      {
+        "title": "A Zero-Dimensional Gröbner Basis for AES-128.",
+        "authors": [
+          "Johannes Buchmann",
+          "Andrei Pyshkin",
+          "Ralf-Philipp Weinmann"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of the Full HAVAL with 4 and 5 Passes.",
+        "authors": [
+          "Hongbo Yu",
+          "Xiaoyun Wang",
+          "Aaram Yun",
+          "Sangwoo Park"
+        ]
+      },
+      {
+        "title": "Collisions and Near-Collisions for Reduced-Round Tiger.",
+        "authors": [
+          "John Kelsey",
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "Analysis of Step-Reduced SHA-256.",
+        "authors": [
+          "Florian Mendel",
+          "Norbert Pramstaller",
+          "Christian Rechberger",
+          "Vincent Rijmen"
+        ]
+      },
+      {
+        "title": "Improved Linear Distinguishers for SNOW 2.0.",
+        "authors": [
+          "Kaisa Nyberg",
+          "Johan Wallén"
+        ]
+      },
+      {
+        "title": "Reducing the Space Complexity of BDD-Based Attacks on Keystream Generators.",
+        "authors": [
+          "Matthias Krause",
+          "Dirk Stegemann"
+        ]
+      },
+      {
+        "title": "Breaking the ICE - Finding Multicollisions in Iterated Concatenated and Expanded (ICE) Hash Functions.",
+        "authors": [
+          "Jonathan J. Hoch",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "A New Dedicated 256-Bit Hash Function: FORK-256.",
+        "authors": [
+          "Deukjo Hong",
+          "Donghoon Chang",
+          "Jaechul Sung",
+          "Sangjin Lee",
+          "Seokhie Hong",
+          "Jaesang Lee",
+          "Dukjae Moon",
+          "Sungtaek Chee"
+        ]
+      },
+      {
+        "title": "Some Plausible Constructions of Double-Block-Length Hash Functions.",
+        "authors": [
+          "Shoichi Hirose"
+        ]
+      },
+      {
+        "title": "Provably Secure MACs from Differentially-Uniform Permutations and AES-Based Implementations.",
+        "authors": [
+          "Kazuhiko Minematsu",
+          "Yukiyasu Tsunoo"
+        ]
+      },
+      {
+        "title": "Searching for Differential Paths in MD4.",
+        "authors": [
+          "Martin Schläffer",
+          "Elisabeth Oswald"
+        ]
+      },
+      {
+        "title": "A Study of the MD5 Attacks: Insights and Improvements.",
+        "authors": [
+          "John Black",
+          "Martin Cochran",
+          "Trevor Highland"
+        ]
+      },
+      {
+        "title": "The Impact of Carries on the Complexity of Collision Attacks on SHA-1.",
+        "authors": [
+          "Florian Mendel",
+          "Norbert Pramstaller",
+          "Christian Rechberger",
+          "Vincent Rijmen"
+        ]
+      },
+      {
+        "title": "A New Mode of Encryption Providing a Tweakable Strong Pseudo-random Permutation.",
+        "authors": [
+          "Debrup Chakraborty",
+          "Palash Sarkar"
+        ]
+      },
+      {
+        "title": "New Blockcipher Modes of Operation with Beyond the Birthday Bound Security.",
+        "authors": [
+          "Tetsu Iwata"
+        ]
+      },
+      {
+        "title": "The Ideal-Cipher Model, Revisited: An Uninstantiable Blockcipher-Based Hash Function.",
+        "authors": [
+          "John Black"
+        ]
+      },
+      {
+        "title": "How Far Can We Go on the x64 Processors?",
+        "authors": [
+          "Mitsuru Matsui"
+        ]
+      },
+      {
+        "title": "Computing the Algebraic Immunity Efficiently.",
+        "authors": [
+          "Frédéric Didier",
+          "Jean-Pierre Tillich"
+        ]
+      },
+      {
+        "title": "Upper Bounds on Algebraic Immunity of Boolean Power Functions.",
+        "authors": [
+          "Yassir Nawaz",
+          "Guang Gong",
+          "Kishan Chand Gupta"
+        ]
+      },
+      {
+        "title": "Chosen-Ciphertext Attacks Against MOSQUITO.",
+        "authors": [
+          "Antoine Joux",
+          "Frédéric Muller"
+        ]
+      },
+      {
+        "title": "Distinguishing Attacks on the Stream Cipher Py.",
+        "authors": [
+          "Souradyuti Paul",
+          "Bart Preneel",
+          "Gautham Sekar"
+        ]
+      },
+      {
+        "title": "Resynchronization Attacks on WG and LEX.",
+        "authors": [
+          "Hongjun Wu",
+          "Bart Preneel"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2005.html": {
+    "header": "12. FSE 2005: Paris, France",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "A New MAC Construction ALRED and a Specific Instance ALPHA-MAC.",
+        "authors": [
+          "Joan Daemen",
+          "Vincent Rijmen"
+        ]
+      },
+      {
+        "title": "New Applications of T-Functions in Block Ciphers and Hash Functions.",
+        "authors": [
+          "Alexander Klimov",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "The Poly1305-AES Message-Authentication Code.",
+        "authors": [
+          "Daniel J. Bernstein"
+        ]
+      },
+      {
+        "title": "Narrow T-Functions.",
+        "authors": [
+          "Magnus Daum"
+        ]
+      },
+      {
+        "title": "A New Class of Single Cycle T-Functions.",
+        "authors": [
+          "Jin Hong",
+          "Dong Hoon Lee",
+          "Yongjin Yeom",
+          "Daewan Han"
+        ]
+      },
+      {
+        "title": "F-FCSR: Design of a New Class of Stream Ciphers.",
+        "authors": [
+          "François Arnault",
+          "Thierry P. Berger"
+        ]
+      },
+      {
+        "title": "Cryptographically Significant Boolean Functions: Construction and Analysis in Terms of Algebraic Immunity.",
+        "authors": [
+          "Deepak Kumar Dalai",
+          "Kishan Chand Gupta",
+          "Subhamoy Maitra"
+        ]
+      },
+      {
+        "title": "The ANF of the Composition of Addition and Multiplication mod 2n with a Boolean Function.",
+        "authors": [
+          "An Braeken",
+          "Igor A. Semaev"
+        ]
+      },
+      {
+        "title": "New Combined Attacks on Block Ciphers.",
+        "authors": [
+          "Eli Biham",
+          "Orr Dunkelman",
+          "Nathan Keller"
+        ]
+      },
+      {
+        "title": "Small Scale Variants of the AES.",
+        "authors": [
+          "Carlos Cid",
+          "Sean Murphy",
+          "Matthew J. B. Robshaw"
+        ]
+      },
+      {
+        "title": "Unbiased Random Sequences from Quasigroup String Transformations.",
+        "authors": [
+          "Smile Markovski",
+          "Danilo Gligoroski",
+          "Ljupco Kocarev"
+        ]
+      },
+      {
+        "title": "A New Distinguisher for Clock Controlled Stream Ciphers.",
+        "authors": [
+          "Håkan Englund",
+          "Thomas Johansson"
+        ]
+      },
+      {
+        "title": "Analysis of the Bit-Search Generator and Sequence Compression Techniques.",
+        "authors": [
+          "Aline Gouget",
+          "Hervé Sibert",
+          "Côme Berbain",
+          "Nicolas T. Courtois",
+          "Blandine Debraize",
+          "Chris J. Mitchell"
+        ]
+      },
+      {
+        "title": "Some Attacks on the Bit-Search Generator.",
+        "authors": [
+          "Martin Hell",
+          "Thomas Johansson"
+        ]
+      },
+      {
+        "title": "SMASH - A Cryptographic Hash Function.",
+        "authors": [
+          "Lars R. Knudsen"
+        ]
+      },
+      {
+        "title": "Security Analysis of a 2/3-Rate Double Length Compression Function in the Black-Box Model.",
+        "authors": [
+          "Mridul Nandi",
+          "Wonil Lee",
+          "Kouichi Sakurai",
+          "Sangjin Lee"
+        ]
+      },
+      {
+        "title": "Preimage and Collision Attacks on MD2.",
+        "authors": [
+          "Lars R. Knudsen",
+          "John Erik Mathiassen"
+        ]
+      },
+      {
+        "title": "How to Enhance the Security of the 3GPP Confidentiality and Integrity Algorithms.",
+        "authors": [
+          "Tetsu Iwata",
+          "Kaoru Kurosawa"
+        ]
+      },
+      {
+        "title": "Two-Pass Authenticated Encryption Faster Than Generic Composition.",
+        "authors": [
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "Padding Oracle Attacks on CBC-Mode Encryption with Secret and Random IVs.",
+        "authors": [
+          "Arnold K. L. Yau",
+          "Kenneth G. Paterson",
+          "Chris J. Mitchell"
+        ]
+      },
+      {
+        "title": "Analysis of the Non-linear Part of Mugi.",
+        "authors": [
+          "Alex Biryukov",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "Two Attacks Against the HBB Stream Cipher.",
+        "authors": [
+          "Antoine Joux",
+          "Frédéric Muller"
+        ]
+      },
+      {
+        "title": "Two Linear Distinguishing Attacks on VMPC and RC4A and Weakness of RC4 Family of Stream Ciphers.",
+        "authors": [
+          "Alexander Maximov"
+        ]
+      },
+      {
+        "title": "Impossible Fault Analysis of RC4 and Differential Fault Analysis of RC4.",
+        "authors": [
+          "Eli Biham",
+          "Louis Granboulan",
+          "Phong Q. Nguyen"
+        ]
+      },
+      {
+        "title": "Related-Key Rectangle Attacks on Reduced Versions of SHACAL-1 and AES-192.",
+        "authors": [
+          "Seokhie Hong",
+          "Jongsung Kim",
+          "Sangjin Lee",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "New Attacks Against Reduced-Round Versions of IDEA.",
+        "authors": [
+          "Pascal Junod"
+        ]
+      },
+      {
+        "title": "How to Maximize Software Performance of Symmetric Primitives on Pentium III and 4 Processors.",
+        "authors": [
+          "Mitsuru Matsui",
+          "Sayaka Fukuda"
+        ]
+      },
+      {
+        "title": "A Side-Channel Analysis Resistant Description of the AES S-Box.",
+        "authors": [
+          "Elisabeth Oswald",
+          "Stefan Mangard",
+          "Norbert Pramstaller",
+          "Vincent Rijmen"
+        ]
+      },
+      {
+        "title": "DPA Attacks and S-Boxes.",
+        "authors": [
+          "Emmanuel Prouff"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2004.html": {
+    "header": "11. FSE 2004: Delhi, India",
+    "year": "2004",
+    "papers": [
+      {
+        "title": "New Cryptographic Primitives Based on Multiword T-Functions.",
+        "authors": [
+          "Alexander Klimov",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "Towards a Unifying View of Block Cipher Cryptanalysis.",
+        "authors": [
+          "David A. Wagner"
+        ]
+      },
+      {
+        "title": "Algebraic Attacks on Summation Generators.",
+        "authors": [
+          "Dong Hoon Lee",
+          "Jaeheon Kim",
+          "Jin Hong",
+          "Jae Woo Han",
+          "Dukjae Moon"
+        ]
+      },
+      {
+        "title": "Algebraic Attacks on SOBER-t32 and SOBER-t16 without Stuttering.",
+        "authors": [
+          "Joo Yeon Cho",
+          "Josef Pieprzyk"
+        ]
+      },
+      {
+        "title": "Improving Fast Algebraic Attacks.",
+        "authors": [
+          "Frederik Armknecht"
+        ]
+      },
+      {
+        "title": "Resistance of S-Boxes against Algebraic Attacks.",
+        "authors": [
+          "Jung Hee Cheon",
+          "Dong Hoon Lee"
+        ]
+      },
+      {
+        "title": "Differential Attacks against the Helix Stream Cipher.",
+        "authors": [
+          "Frédéric Muller"
+        ]
+      },
+      {
+        "title": "Improved Linear Consistency Attack on Irregular Clocked Keystream Generators.",
+        "authors": [
+          "Håvard Molland"
+        ]
+      },
+      {
+        "title": "Correlation Attacks Using a New Class of Weak Feedback Polynomials.",
+        "authors": [
+          "Håkan Englund",
+          "Martin Hell",
+          "Thomas Johansson"
+        ]
+      },
+      {
+        "title": "Minimum Distance between Bent and 1-Resilient Boolean Functions.",
+        "authors": [
+          "Soumen Maity",
+          "Subhamoy Maitra"
+        ]
+      },
+      {
+        "title": "Results on Rotation Symmetric Bent and Correlation Immune Boolean Functions.",
+        "authors": [
+          "Pantelimon Stanica",
+          "Subhamoy Maitra",
+          "John A. Clark"
+        ]
+      },
+      {
+        "title": "A Weakness of the Linear Part of Stream Cipher MUGI.",
+        "authors": [
+          "Jovan Dj. Golic"
+        ]
+      },
+      {
+        "title": "Vulnerability of Nonlinear Filter Generators Based on Linear Finite State Machines.",
+        "authors": [
+          "Jin Hong",
+          "Dong Hoon Lee",
+          "Seongtaek Chee",
+          "Palash Sarkar"
+        ]
+      },
+      {
+        "title": "VMPC One-Way Function and Stream Cipher.",
+        "authors": [
+          "Bartosz Zoltak"
+        ]
+      },
+      {
+        "title": "A New Stream Cipher HC-256.",
+        "authors": [
+          "Hongjun Wu"
+        ]
+      },
+      {
+        "title": "A New Weakness in the RC4 Keystream Generator and an Approach to Improve the Security of the Cipher.",
+        "authors": [
+          "Souradyuti Paul",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "Improving Immunity of Feistel Ciphers against Differential Cryptanalysis by Using Multiple MDS Matrices.",
+        "authors": [
+          "Taizo Shirai",
+          "Kyoji Shibutani"
+        ]
+      },
+      {
+        "title": "ICEBERG : An Involutional Cipher Efficient for Block Encryption in Reconfigurable Hardware.",
+        "authors": [
+          "François-Xavier Standaert",
+          "Gilles Piret",
+          "Gaël Rouvroy",
+          "Jean-Jacques Quisquater",
+          "Jean-Didier Legat"
+        ]
+      },
+      {
+        "title": "Related Key Differential Attacks on 27 Rounds of XTEA and Full-Round GOST.",
+        "authors": [
+          "Youngdai Ko",
+          "Seokhie Hong",
+          "Wonil Lee",
+          "Sangjin Lee",
+          "Ju-Sung Kang"
+        ]
+      },
+      {
+        "title": "On the Additive Differential Probability of Exclusive-Or.",
+        "authors": [
+          "Helger Lipmaa",
+          "Johan Wallén",
+          "Philippe Dumas"
+        ]
+      },
+      {
+        "title": "Two Power Analysis Attacks against One-Mask Methods.",
+        "authors": [
+          "Mehdi-Laurent Akkar",
+          "Régis Bevan",
+          "Louis Goubin"
+        ]
+      },
+      {
+        "title": "Nonce-Based Symmetric Encryption.",
+        "authors": [
+          "Phillip Rogaway"
+        ]
+      },
+      {
+        "title": "Ciphers Secure against Related-Key Attacks.",
+        "authors": [
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "Cryptographic Hash-Function Basics: Definitions, Implications, and Separations for Preimage Resistance, Second-Preimage Resistance, and Collision Resistance.",
+        "authors": [
+          "Phillip Rogaway",
+          "Thomas Shrimpton"
+        ]
+      },
+      {
+        "title": "The EAX Mode of Operation.",
+        "authors": [
+          "Mihir Bellare",
+          "Phillip Rogaway",
+          "David A. Wagner"
+        ]
+      },
+      {
+        "title": "CWC: A High-Performance Conventional Authenticated Encryption Mode.",
+        "authors": [
+          "Tadayoshi Kohno",
+          "John Viega",
+          "Doug Whiting"
+        ]
+      },
+      {
+        "title": "New Security Proofs for the 3GPP Confidentiality and Integrity Algorithms.",
+        "authors": [
+          "Tetsu Iwata",
+          "Tadayoshi Kohno"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of a Message Authentication Code due to Cary and Venkatesan.",
+        "authors": [
+          "Simon R. Blackburn",
+          "Kenneth G. Paterson"
+        ]
+      },
+      {
+        "title": "Fast Software-Based Attacks on SecurID.",
+        "authors": [
+          "Scott Contini",
+          "Yiqun Lisa Yin"
+        ]
+      },
+      {
+        "title": "A MAC Forgery Attack on SOBER-128.",
+        "authors": [
+          "Dai Watanabe",
+          "Soichi Furuya"
+        ]
+      },
+      {
+        "title": "On Linear Approximation of Modulo Sum.",
+        "authors": [
+          "Alexander Maximov"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2003.html": {
+    "header": "10. FSE 2003: Lund, Sweden",
+    "year": "2003",
+    "papers": [
+      {
+        "title": "Cryptanalysis of IDEA-X/2.",
+        "authors": [
+          "Håvard Raddum"
+        ]
+      },
+      {
+        "title": "Differential-Linear Cryptanalysis of Serpent.",
+        "authors": [
+          "Eli Biham",
+          "Orr Dunkelman",
+          "Nathan Keller"
+        ]
+      },
+      {
+        "title": "Rectangle Attacks on 49-Round SHACAL-1.",
+        "authors": [
+          "Eli Biham",
+          "Orr Dunkelman",
+          "Nathan Keller"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of Block Ciphers Based on SHA-1 and MD5.",
+        "authors": [
+          "Markku-Juhani Olavi Saarinen"
+        ]
+      },
+      {
+        "title": "Analysis of Involutional Ciphers: Khazad and Anubis.",
+        "authors": [
+          "Alex Biryukov"
+        ]
+      },
+      {
+        "title": "On Plateaued Functions and Their Constructions.",
+        "authors": [
+          "Claude Carlet",
+          "Emmanuel Prouff"
+        ]
+      },
+      {
+        "title": "Linear Redundancy in S-Boxes.",
+        "authors": [
+          "Joanne Fuller",
+          "William Millan"
+        ]
+      },
+      {
+        "title": "Loosening the KNOT.",
+        "authors": [
+          "Antoine Joux",
+          "Frédéric Muller"
+        ]
+      },
+      {
+        "title": "On the Resynchronization Attack.",
+        "authors": [
+          "Jovan Dj. Golic",
+          "Guglielmo Morgari"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of SOBER-t32.",
+        "authors": [
+          "Steve Babbage",
+          "Christophe De Cannière",
+          "Joseph Lano",
+          "Bart Preneel",
+          "Joos Vandewalle"
+        ]
+      },
+      {
+        "title": "OMAC: One-Key CBC MAC.",
+        "authors": [
+          "Tetsu Iwata",
+          "Kaoru Kurosawa"
+        ]
+      },
+      {
+        "title": "A Concrete Security Analysis for 3GPP-MAC.",
+        "authors": [
+          "Dowon Hong",
+          "Ju-Sung Kang",
+          "Bart Preneel",
+          "Heuisu Ryu"
+        ]
+      },
+      {
+        "title": "New Attacks against Standardized MACs.",
+        "authors": [
+          "Antoine Joux",
+          "Guillaume Poupard",
+          "Jacques Stern"
+        ]
+      },
+      {
+        "title": "Analysis of RMAC.",
+        "authors": [
+          "Lars R. Knudsen",
+          "Tadayoshi Kohno"
+        ]
+      },
+      {
+        "title": "A Generic Protection against High-Order Differential Power Analysis.",
+        "authors": [
+          "Mehdi-Laurent Akkar",
+          "Louis Goubin"
+        ]
+      },
+      {
+        "title": "A New Class of Collision Attacks and Its Application to DES.",
+        "authors": [
+          "Kai Schramm",
+          "Thomas J. Wollinger",
+          "Christof Paar"
+        ]
+      },
+      {
+        "title": "Further Observations on the Structure of the AES Algorithm.",
+        "authors": [
+          "Beomsik Song",
+          "Jennifer Seberry"
+        ]
+      },
+      {
+        "title": "Optimal Key Ranking Procedures in a Statistical Cryptanalysis.",
+        "authors": [
+          "Pascal Junod",
+          "Serge Vaudenay"
+        ]
+      },
+      {
+        "title": "Improving the Upper Bound on the Maximum Differential and the Maximum Linear Hull Probability for SPN Structures and AES.",
+        "authors": [
+          "Sangwoo Park",
+          "Soo Hak Sung",
+          "Sangjin Lee",
+          "Jongin Lim"
+        ]
+      },
+      {
+        "title": "Linear Approximations of Addition Modulo 2n.",
+        "authors": [
+          "Johan Wallén"
+        ]
+      },
+      {
+        "title": "Block Ciphers and Systems of Quadratic Equations.",
+        "authors": [
+          "Alex Biryukov",
+          "Christophe De Cannière"
+        ]
+      },
+      {
+        "title": "Turing: A Fast Stream Cipher.",
+        "authors": [
+          "Gregory G. Rose",
+          "Philip Hawkes"
+        ]
+      },
+      {
+        "title": "Rabbit: A New High-Performance Stream Cipher.",
+        "authors": [
+          "Martin Boesgaard",
+          "Mette Vesterager",
+          "Thomas Pedersen",
+          "Jesper Christiansen",
+          "Ove Scavenius"
+        ]
+      },
+      {
+        "title": "Helix: Fast Encryption and Authentication in a Single Cryptographic Primitive.",
+        "authors": [
+          "Niels Ferguson",
+          "Doug Whiting",
+          "Bruce Schneier",
+          "John Kelsey",
+          "Stefan Lucks",
+          "Tadayoshi Kohno"
+        ]
+      },
+      {
+        "title": "PARSHA-256- - A New Parallelizable Hash Function and a Multithreaded Implementation.",
+        "authors": [
+          "Pinakpani Pal",
+          "Palash Sarkar"
+        ]
+      },
+      {
+        "title": "Practical Symmetric On-Line Encryption.",
+        "authors": [
+          "Pierre-Alain Fouque",
+          "Gwenaëlle Martinet",
+          "Guillaume Poupard"
+        ]
+      },
+      {
+        "title": "The Security of \"One-Block-to-Many\" Modes of Operation.",
+        "authors": [
+          "Henri Gilbert"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2002.html": {
+    "header": "9. FSE 2002: Leuven, Belgium",
+    "year": "2002",
+    "papers": [
+      {
+        "title": "New Results on Boomerang and Rectangle Attacks.",
+        "authors": [
+          "Eli Biham",
+          "Orr Dunkelman",
+          "Nathan Keller"
+        ]
+      },
+      {
+        "title": "Multiplicative Differentials.",
+        "authors": [
+          "Nikita Borisov",
+          "Monica Chew",
+          "Robert Johnson",
+          "David A. Wagner"
+        ]
+      },
+      {
+        "title": "Differential and Linear Cryptanalysis of a Reduced-Round SC2000.",
+        "authors": [
+          "Hitoshi Yanami",
+          "Takeshi Shimoyama",
+          "Orr Dunkelman"
+        ]
+      },
+      {
+        "title": "Impossible Differential Cryptanalysis of Reduced Round XTEA and TEA.",
+        "authors": [
+          "Dukjae Moon",
+          "Kyungdeok Hwang",
+          "Wonil Lee",
+          "Sangjin Lee",
+          "Jongin Lim"
+        ]
+      },
+      {
+        "title": "Improved Cryptanalysis of MISTY1.",
+        "authors": [
+          "Ulrich Kühn"
+        ]
+      },
+      {
+        "title": "Multiple Linear Cryptanalysis of a Reduced Round RC6.",
+        "authors": [
+          "Takeshi Shimoyama",
+          "Masahiko Takenaka",
+          "Takeshi Koshiba"
+        ]
+      },
+      {
+        "title": "On the Security of CAMELLIA against the Square Attack.",
+        "authors": [
+          "Yongjin Yeom",
+          "Sangwoo Park",
+          "Iljun Kim"
+        ]
+      },
+      {
+        "title": "Saturation Attacks on Reduced Round Skipjack.",
+        "authors": [
+          "Kyungdeok Hwang",
+          "Wonil Lee",
+          "Sungjae Lee",
+          "Sangjin Lee",
+          "Jongin Lim"
+        ]
+      },
+      {
+        "title": "Integral Cryptanalysis.",
+        "authors": [
+          "Lars R. Knudsen",
+          "David A. Wagner"
+        ]
+      },
+      {
+        "title": "Improved Upper Bounds of Differential and Linear Characteristic Probability for Camellia.",
+        "authors": [
+          "Taizo Shirai",
+          "Shoji Kanamaru",
+          "George Abe"
+        ]
+      },
+      {
+        "title": "The Round Functions of RIJNDAEL Generate the Alternating Group.",
+        "authors": [
+          "Ralph Wernsdorf"
+        ]
+      },
+      {
+        "title": "Non-cryptographic Primitive for Pseudorandom Permutation.",
+        "authors": [
+          "Tetsu Iwata",
+          "Tomonobu Yoshino",
+          "Kaoru Kurosawa"
+        ]
+      },
+      {
+        "title": "BeepBeep: Embedded Real-Time Encryption.",
+        "authors": [
+          "Kevin Driscoll"
+        ]
+      },
+      {
+        "title": "A New Keystream Generator MUGI.",
+        "authors": [
+          "Dai Watanabe",
+          "Soichi Furuya",
+          "Hirotaka Yoshida",
+          "Kazuo Takaragi",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "Scream: A Software-Efficient Stream Cipher.",
+        "authors": [
+          "Shai Halevi",
+          "Don Coppersmith",
+          "Charanjit S. Jutla"
+        ]
+      },
+      {
+        "title": "Distinguishing Attacks on SOBER-t16 and t32.",
+        "authors": [
+          "Patrik Ekdahl",
+          "Thomas Johansson"
+        ]
+      },
+      {
+        "title": "Linearity Properties of the SOBER-t32 Key Loading.",
+        "authors": [
+          "Markus Dichtl",
+          "Marcus Schafheutle"
+        ]
+      },
+      {
+        "title": "A Time-Memory Tradeoff Attack Against LILI-128.",
+        "authors": [
+          "Markku-Juhani Olavi Saarinen"
+        ]
+      },
+      {
+        "title": "On the Security of Randomized CBC-MAC Beyond the Birthday Paradox Limit: A New Construction.",
+        "authors": [
+          "Éliane Jaulmes",
+          "Antoine Joux",
+          "Frédéric Valette"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of the Modified Version of the Hash Function Proposed at PKC'98.",
+        "authors": [
+          "Daewan Han",
+          "Sangwoo Park",
+          "Seongtaek Chee"
+        ]
+      },
+      {
+        "title": "Compression and Information Leakage of Plaintext.",
+        "authors": [
+          "John Kelsey"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2001.html": {
+    "header": "8. FSE 2001: Yokohama, Japan",
+    "year": "2001",
+    "papers": [
+      {
+        "title": "The Saturation Attack - A Bait for Twofish.",
+        "authors": [
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "Linear Cryptanalysis of Reduced Round Serpent.",
+        "authors": [
+          "Eli Biham",
+          "Orr Dunkelman",
+          "Nathan Keller"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of the Mercy Block Cipher.",
+        "authors": [
+          "Scott R. Fluhrer"
+        ]
+      },
+      {
+        "title": "Producing Collisions for PANAMA.",
+        "authors": [
+          "Vincent Rijmen",
+          "Bart Van Rompay",
+          "Bart Preneel",
+          "Joos Vandewalle"
+        ]
+      },
+      {
+        "title": "The RIPEMD and RIPEMD Improved Variants of MD4 Are Not Collision Free.",
+        "authors": [
+          "Christophe Debaert",
+          "Henri Gilbert"
+        ]
+      },
+      {
+        "title": "New Constructions of Resilient Boolean Functions with Maximal Nonlinearity.",
+        "authors": [
+          "Yuriy V. Tarannikov"
+        ]
+      },
+      {
+        "title": "Optimized Self-Synchronizing Mode of Operation.",
+        "authors": [
+          "Ammar Alkassar",
+          "Alexander Geraldy",
+          "Birgit Pfitzmann",
+          "Ahmad-Reza Sadeghi"
+        ]
+      },
+      {
+        "title": "Fast Encryption and Authentication: XCBC Encryption and XECB Authentication Modes.",
+        "authors": [
+          "Virgil D. Gligor",
+          "Pompiliu Donescu"
+        ]
+      },
+      {
+        "title": "Incremental Unforgeable Encryption.",
+        "authors": [
+          "Enrico Buonanno",
+          "Jonathan Katz",
+          "Moti Yung"
+        ]
+      },
+      {
+        "title": "ZIP Attacks with Reduced Known Plaintext.",
+        "authors": [
+          "Michael Stay"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of the SEAL 3.0 Pseudorandom Function Family.",
+        "authors": [
+          "Scott R. Fluhrer"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of SBLH.",
+        "authors": [
+          "Goce Jakimovski",
+          "Ljupco Kocarev"
+        ]
+      },
+      {
+        "title": "A Practical Attack on Broadcast RC4.",
+        "authors": [
+          "Itsik Mantin",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "Improved SQUARE Attacks against Reduced-Round HIEROCRYPT.",
+        "authors": [
+          "Paulo S. L. M. Barreto",
+          "Vincent Rijmen",
+          "Jorge Nakahara Jr.",
+          "Bart Preneel",
+          "Joos Vandewalle",
+          "Hae Yong Kim"
+        ]
+      },
+      {
+        "title": "Differential Cryptanalysis of Q.",
+        "authors": [
+          "Eli Biham",
+          "Vladimir Furman",
+          "Michal Misztal",
+          "Vincent Rijmen"
+        ]
+      },
+      {
+        "title": "Differential Cryptanalysis of Nimbus.",
+        "authors": [
+          "Vladimir Furman"
+        ]
+      },
+      {
+        "title": "Fast Correlation Attack Algorithm with List Decoding and an Application.",
+        "authors": [
+          "Miodrag J. Mihaljevic",
+          "Marc P. C. Fossorier",
+          "Hideki Imai"
+        ]
+      },
+      {
+        "title": "Bias in the LEVIATHAN Stream Cipher.",
+        "authors": [
+          "Paul Crowley",
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "Analysis of SSC2.",
+        "authors": [
+          "Daniel Bleichenbacher",
+          "Willi Meier"
+        ]
+      },
+      {
+        "title": "Round Security and Super-Pseudorandomness of MISTY Type Structure.",
+        "authors": [
+          "Tetsu Iwata",
+          "Tomonobu Yoshino",
+          "Tomohiro Yuasa",
+          "Kaoru Kurosawa"
+        ]
+      },
+      {
+        "title": "New Results on the Pseudorandomness of Some Blockcipher Constructions.",
+        "authors": [
+          "Henri Gilbert",
+          "Marine Minier"
+        ]
+      },
+      {
+        "title": "NESSIE: A European Approach to Evaluate Cryptographic Algorithms.",
+        "authors": [
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "Related Key Attacks on Reduced Round KASUMI.",
+        "authors": [
+          "Mark Blunden",
+          "Adrian Escott"
+        ]
+      },
+      {
+        "title": "Security of Camellia against Truncated Differential Cryptanalysis.",
+        "authors": [
+          "Masayuki Kanda",
+          "Tsutomu Matsumoto"
+        ]
+      },
+      {
+        "title": "Impossible Differential Cryptanalysis of Zodiac.",
+        "authors": [
+          "Deukjo Hong",
+          "Jaechul Sung",
+          "Shiho Moriai",
+          "Sangjin Lee",
+          "Jongin Lim"
+        ]
+      },
+      {
+        "title": "The Block Cipher SC2000.",
+        "authors": [
+          "Takeshi Shimoyama",
+          "Hitoshi Yanami",
+          "Kazuhiro Yokoyama",
+          "Masahiko Takenaka",
+          "Kouichi Itoh",
+          "Jun Yajima",
+          "Naoya Torii",
+          "Hidema Tanaka"
+        ]
+      },
+      {
+        "title": "Flaws in Differential Cryptanalysis of Skipjack.",
+        "authors": [
+          "Louis Granboulan"
+        ]
+      },
+      {
+        "title": "Efficient Algorithms for Computing Differential Properties of Addition.",
+        "authors": [
+          "Helger Lipmaa",
+          "Shiho Moriai"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse2000.html": {
+    "header": "7. FSE 2000: New York, NY, USA",
+    "year": "2000",
+    "papers": [
+      {
+        "title": "Real Time Cryptanalysis of A5/1 on a PC.",
+        "authors": [
+          "Alex Biryukov",
+          "Adi Shamir",
+          "David A. Wagner"
+        ]
+      },
+      {
+        "title": "Statistical Analysis of the Alleged RC4 Keystream Generator.",
+        "authors": [
+          "Scott R. Fluhrer",
+          "David A. McGrew"
+        ]
+      },
+      {
+        "title": "The Software-Oriented Stream Cipher SSC2.",
+        "authors": [
+          "Muxiang Zhang",
+          "Christopher Carroll",
+          "Agnes Hui Chan"
+        ]
+      },
+      {
+        "title": "Mercy: A Fast Large Block Cipher for Disk Sector Encryption.",
+        "authors": [
+          "Paul Crowley"
+        ]
+      },
+      {
+        "title": "A Statistical Attack on RC6.",
+        "authors": [
+          "Henri Gilbert",
+          "Helena Handschuh",
+          "Antoine Joux",
+          "Serge Vaudenay"
+        ]
+      },
+      {
+        "title": "Amplified Boomerang Attacks Against Reduced-Round MARS and Serpent.",
+        "authors": [
+          "John Kelsey",
+          "Tadayoshi Kohno",
+          "Bruce Schneier"
+        ]
+      },
+      {
+        "title": "Correlations in RC6 with a Reduced Number of Rounds.",
+        "authors": [
+          "Lars R. Knudsen",
+          "Willi Meier"
+        ]
+      },
+      {
+        "title": "On the Interpolation Attacks on Block Ciphers.",
+        "authors": [
+          "Amr M. Youssef",
+          "Guang Gong"
+        ]
+      },
+      {
+        "title": "Stochastic Cryptanalysis of Crypton.",
+        "authors": [
+          "Marine Minier",
+          "Henri Gilbert"
+        ]
+      },
+      {
+        "title": "Bitslice Ciphers and Power Analysis Attacks.",
+        "authors": [
+          "Joan Daemen",
+          "Michaël Peeters",
+          "Gilles Van Assche"
+        ]
+      },
+      {
+        "title": "Securing the AES Finalists Against Power Analysis Attacks.",
+        "authors": [
+          "Thomas S. Messerges"
+        ]
+      },
+      {
+        "title": "Ciphertext Only Reconstruction of Stream Ciphers Based on Combination Generators.",
+        "authors": [
+          "Anne Canteaut",
+          "Eric Filiol"
+        ]
+      },
+      {
+        "title": "A Simple Algorithm for Fast Correlation Attacks on Stream Ciphers.",
+        "authors": [
+          "Vladimir V. Chepyzhov",
+          "Thomas Johansson",
+          "Ben J. M. Smeets"
+        ]
+      },
+      {
+        "title": "A Low-Complexity and High-Performance Algorithm for the Fast Correlation Attack.",
+        "authors": [
+          "Miodrag J. Mihaljevic",
+          "Marc P. C. Fossorier",
+          "Hideki Imai"
+        ]
+      },
+      {
+        "title": "Improved Cryptanalysis of Rijndael.",
+        "authors": [
+          "Niels Ferguson",
+          "John Kelsey",
+          "Stefan Lucks",
+          "Bruce Schneier",
+          "Michael Stay",
+          "David A. Wagner",
+          "Doug Whiting"
+        ]
+      },
+      {
+        "title": "On the Pseudorandomness of the AES Finalists - RC6 and Serpent.",
+        "authors": [
+          "Tetsu Iwata",
+          "Kaoru Kurosawa"
+        ]
+      },
+      {
+        "title": "Linear Cryptanalysis of Reduced-Round Versions of the SAFER Block Cipher Family.",
+        "authors": [
+          "Jorge Nakahara Jr.",
+          "Bart Preneel",
+          "Joos Vandewalle"
+        ]
+      },
+      {
+        "title": "A Chosen-Plaintext Linear Attack on DES.",
+        "authors": [
+          "Lars R. Knudsen",
+          "John Erik Mathiassen"
+        ]
+      },
+      {
+        "title": "Provable Security against Differential and Linear Cryptanalysis for the SPN Structure.",
+        "authors": [
+          "Seokhie Hong",
+          "Sangjin Lee",
+          "Jongin Lim",
+          "Jaechul Sung",
+          "Dong Hyeon Cheon",
+          "Inho Cho"
+        ]
+      },
+      {
+        "title": "Unforgeable Encryption and Chosen Ciphertext Secure Modes of Operation.",
+        "authors": [
+          "Jonathan Katz",
+          "Moti Yung"
+        ]
+      },
+      {
+        "title": "Efficient Methods for Generating MARS-Like S-Boxes.",
+        "authors": [
+          "L. Burnett",
+          "Gary Carter",
+          "Ed Dawson",
+          "William Millan"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse99.html": {
+    "header": "6. FSE 1999: Rome, Italy",
+    "year": "1999",
+    "papers": [
+      {
+        "title": "Improved Analysis of Some Simplified Variants of RC6.",
+        "authors": [
+          "Scott Contini",
+          "Ronald L. Rivest",
+          "Matthew J. B. Robshaw",
+          "Yiqun Lisa Yin"
+        ]
+      },
+      {
+        "title": "Linear Cryptanalysis of RC5 and RC6.",
+        "authors": [
+          "Johan Borst",
+          "Bart Preneel",
+          "Joos Vandewalle"
+        ]
+      },
+      {
+        "title": "A Revised Version of Crypton - Crypton V1.0.",
+        "authors": [
+          "Chae Hoon Lim"
+        ]
+      },
+      {
+        "title": "Attack on Six Rounds of Crypton.",
+        "authors": [
+          "Carl D'Halluin",
+          "Gert Bijnens",
+          "Vincent Rijmen",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "On Security of the 128-Bit Block Cipher DEAL.",
+        "authors": [
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of a Reduced Version of the Block Cipher E2.",
+        "authors": [
+          "Mitsuru Matsui",
+          "Toshio Tokita"
+        ]
+      },
+      {
+        "title": "On the Decorrelated Fast Cipher (DFC) and Its Theory.",
+        "authors": [
+          "Lars R. Knudsen",
+          "Vincent Rijmen"
+        ]
+      },
+      {
+        "title": "Scramble All, Encrypt Small.",
+        "authors": [
+          "Markus Jakobsson",
+          "Julien P. Stern",
+          "Moti Yung"
+        ]
+      },
+      {
+        "title": "Accelerated Remotely Keyed Encruption.",
+        "authors": [
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "Miss in the Middle Attacks on IDEA and Khufu.",
+        "authors": [
+          "Eli Biham",
+          "Alex Biryukov",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "Mod n Cryptanalysis, with Applications Against RC5P and M6.",
+        "authors": [
+          "John Kelsey",
+          "Bruce Schneier",
+          "David A. Wagner"
+        ]
+      },
+      {
+        "title": "The Boomerang Attack.",
+        "authors": [
+          "David A. Wagner"
+        ]
+      },
+      {
+        "title": "Towards Making Luby-Rackoff Ciphers Optimal and Practical.",
+        "authors": [
+          "Sarvar Patel",
+          "Zulfikar Ramzan",
+          "Ganapathy S. Sundaram"
+        ]
+      },
+      {
+        "title": "A New Characterization of Almost Bent Functions.",
+        "authors": [
+          "Anne Canteaut",
+          "Pascale Charpin",
+          "Hans Dobbertin"
+        ]
+      },
+      {
+        "title": "Imprimitive Permutation Groups and Trapdoors in Iterated Block Ciphers.",
+        "authors": [
+          "Kenneth G. Paterson"
+        ]
+      },
+      {
+        "title": "On the Security of Double and 2-Key Triple Modes of Operation.",
+        "authors": [
+          "Helena Handschuh",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "On the Construction of Variable-Input-Length Ciphers.",
+        "authors": [
+          "Mihir Bellare",
+          "Phillip Rogaway"
+        ]
+      },
+      {
+        "title": "Slide Attacks.",
+        "authors": [
+          "Alex Biryukov",
+          "David A. Wagner"
+        ]
+      },
+      {
+        "title": "On the Security of CS-Cipher.",
+        "authors": [
+          "Serge Vaudenay"
+        ]
+      },
+      {
+        "title": "Interpolation Attacks of the Block Cipher: SNAKE.",
+        "authors": [
+          "Shiho Moriai",
+          "Takeshi Shimoyama",
+          "Toshinobu Kaneko"
+        ]
+      },
+      {
+        "title": "High-Speed Pseudorandom Number Generation with Small Memory.",
+        "authors": [
+          "William Aiello",
+          "Sivaramakrishnan Rajagopalan",
+          "Ramarathnam Venkatesan"
+        ]
+      },
+      {
+        "title": "SOBER Crytanalysis.",
+        "authors": [
+          "Daniel Bleichenbacher",
+          "Sarvar Patel"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse98.html": {
+    "header": "5. FSE 1998: Paris, France",
+    "year": "1998",
+    "papers": [
+      {
+        "title": "New Results in Linear Cryptanalysis of RC5.",
+        "authors": [
+          "Ali Aydin Selçuk"
+        ]
+      },
+      {
+        "title": "Higher Order Differential Attak of CAST Cipher.",
+        "authors": [
+          "Shiho Moriai",
+          "Takeshi Shimoyama",
+          "Toshinobu Kaneko"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of TWOPRIME.",
+        "authors": [
+          "Don Coppersmith",
+          "David A. Wagner",
+          "Bruce Schneier",
+          "John Kelsey"
+        ]
+      },
+      {
+        "title": "JEROBOAM.",
+        "authors": [
+          "Hervé Chabanne",
+          "Emmanuel Michon"
+        ]
+      },
+      {
+        "title": "Fast Hashing and Stream Encryption with PANAMA.",
+        "authors": [
+          "Joan Daemen",
+          "Craig S. K. Clapp"
+        ]
+      },
+      {
+        "title": "Joint Hardware / Software Design of a Fast Stream Cipher.",
+        "authors": [
+          "Craig S. K. Clapp"
+        ]
+      },
+      {
+        "title": "On the Security of the Hashing Scheme Based on SL2.",
+        "authors": [
+          "Kanat S. Abdukhalikov",
+          "Chul Kim"
+        ]
+      },
+      {
+        "title": "About Feistel Schemes with Six (or More) Rounds.",
+        "authors": [
+          "Jacques Patarin"
+        ]
+      },
+      {
+        "title": "Monkey: Black-Box Symmetric Ciphers Designed for MONopolizing KEYs.",
+        "authors": [
+          "Adam L. Young",
+          "Moti Yung"
+        ]
+      },
+      {
+        "title": "MRD Hashing.",
+        "authors": [
+          "Reihaneh Safavi-Naini",
+          "Shahram Bakhtiari",
+          "Chris Charnes"
+        ]
+      },
+      {
+        "title": "New Constructions for Secure Hash Functions.",
+        "authors": [
+          "William Aiello",
+          "Stuart Haber",
+          "Ramarathnam Venkatesan"
+        ]
+      },
+      {
+        "title": "Cryptanalytic Attacks on Pseudorandom Number Generators.",
+        "authors": [
+          "John Kelsey",
+          "Bruce Schneier",
+          "David A. Wagner",
+          "Chris Hall"
+        ]
+      },
+      {
+        "title": "CS-Cipher.",
+        "authors": [
+          "Jacques Stern",
+          "Serge Vaudenay"
+        ]
+      },
+      {
+        "title": "On the Design and Security of RC2.",
+        "authors": [
+          "Lars R. Knudsen",
+          "Vincent Rijmen",
+          "Ronald L. Rivest",
+          "Matthew J. B. Robshaw"
+        ]
+      },
+      {
+        "title": "Serpent: A New Block Cipher Proposal.",
+        "authors": [
+          "Eli Biham",
+          "Ross J. Anderson",
+          "Lars R. Knudsen"
+        ]
+      },
+      {
+        "title": "Attacking Triple Encryption.",
+        "authors": [
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of Some Recently-Proposed Multiple Modes of Operation.",
+        "authors": [
+          "David A. Wagner"
+        ]
+      },
+      {
+        "title": "Differential Cryptanalysis of the ICE Encryption Algorithm.",
+        "authors": [
+          "Bart Van Rompay",
+          "Lars R. Knudsen",
+          "Vincent Rijmen"
+        ]
+      },
+      {
+        "title": "The First Two Rounds of MD4 are Not One-Way.",
+        "authors": [
+          "Hans Dobbertin"
+        ]
+      },
+      {
+        "title": "Differential Cryptanalysis of KHF.",
+        "authors": [
+          "David A. Wagner"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse97.html": {
+    "header": "4. FSE 1997: Haifa, Israel",
+    "year": "1997",
+    "papers": [
+      {
+        "title": "x2 Cryptanalysis of the SEAL Encryption Algorithm.",
+        "authors": [
+          "Helena Handschuh",
+          "Henri Gilbert"
+        ]
+      },
+      {
+        "title": "Partitioning Cryptanalysis.",
+        "authors": [
+          "Carlo Harpes",
+          "James L. Massey"
+        ]
+      },
+      {
+        "title": "The Interpolation Attack on Block Ciphers.",
+        "authors": [
+          "Thomas Jakobsen",
+          "Lars R. Knudsen"
+        ]
+      },
+      {
+        "title": "Best Differential Characteristic Search of FEAL.",
+        "authors": [
+          "Kazumaro Aoki",
+          "Kunio Kobayashi",
+          "Shiho Moriai"
+        ]
+      },
+      {
+        "title": "New Block Encryption Algorithm MISTY.",
+        "authors": [
+          "Mitsuru Matsui"
+        ]
+      },
+      {
+        "title": "The Design of the ICE Encryption Algorithm.",
+        "authors": [
+          "Matthew Kwan"
+        ]
+      },
+      {
+        "title": "TWOPRIME: A Fast Stream Ciphering Algorithm.",
+        "authors": [
+          "Cunsheng Ding",
+          "Valtteri Niemi",
+          "Ari Renvall",
+          "Arto Salomaa"
+        ]
+      },
+      {
+        "title": "On Nonlinear Filter Generators.",
+        "authors": [
+          "Markus Dichtl"
+        ]
+      },
+      {
+        "title": "Chameleon - A New Kind of Stream Cipher.",
+        "authors": [
+          "Ross J. Anderson",
+          "Charalampos Manifavas"
+        ]
+      },
+      {
+        "title": "Improving Linear Cryptanalysis of LOKI91 by Probabilistic Counting Method.",
+        "authors": [
+          "Kouichi Sakurai",
+          "Souichi Furuya"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of Ladder-DES.",
+        "authors": [
+          "Eli Biham"
+        ]
+      },
+      {
+        "title": "A Family of Trapdoor Ciphers.",
+        "authors": [
+          "Vincent Rijmen",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "The Block Cipher Square.",
+        "authors": [
+          "Joan Daemen",
+          "Lars R. Knudsen",
+          "Vincent Rijmen"
+        ]
+      },
+      {
+        "title": "XMX: A Firmware-Oriented Block Cipher Based on Modular Multiplications.",
+        "authors": [
+          "David M'Raïhi",
+          "David Naccache",
+          "Jacques Stern",
+          "Serge Vaudenay"
+        ]
+      },
+      {
+        "title": "MMH: Software Message Authentication in the Gbit/Second Rates.",
+        "authors": [
+          "Shai Halevi",
+          "Hugo Krawczyk"
+        ]
+      },
+      {
+        "title": "Fast Message Authentication Using Efficient Polynomial Evaluation.",
+        "authors": [
+          "Valentine Afanassiev",
+          "Christian Gehrmann",
+          "Ben J. M. Smeets"
+        ]
+      },
+      {
+        "title": "Reinventing the Travois: Encryption/MAC in 30 ROM Bytes.",
+        "authors": [
+          "Gideon Yuval"
+        ]
+      },
+      {
+        "title": "All-or-Nothing Encryption and the Package Transform.",
+        "authors": [
+          "Ronald L. Rivest"
+        ]
+      },
+      {
+        "title": "On the Security of Remotely Keyed Encryption.",
+        "authors": [
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "Sliding Encryption: A Cryptographic Tool for Mobile Agents.",
+        "authors": [
+          "Adam L. Young",
+          "Moti Yung"
+        ]
+      },
+      {
+        "title": "Fast Software Encryption: Designing Encryption Algorithms for Optimal Software Speed on the Intel Pentium Processor.",
+        "authors": [
+          "Bruce Schneier",
+          "Doug Whiting"
+        ]
+      },
+      {
+        "title": "A Fast New DES Implementation in Software.",
+        "authors": [
+          "Eli Biham"
+        ]
+      },
+      {
+        "title": "Optimizing a Fast Stream Cipher for VLIW, SIMD, and Superscalar Processors.",
+        "authors": [
+          "Craig S. K. Clapp"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse96.html": {
+    "header": "3. FSE 1996: Cambridge, UK",
+    "year": "1996",
+    "papers": [
+      {
+        "title": "Attacks on the HKM/HFX Cryptosystem.",
+        "authors": [
+          "Xuejia Lai",
+          "Rainer A. Rueppel"
+        ]
+      },
+      {
+        "title": "Truncated Differentials of SAFER.",
+        "authors": [
+          "Lars R. Knudsen",
+          "Thomas A. Berson"
+        ]
+      },
+      {
+        "title": "On the Weak Keys of Blowfish.",
+        "authors": [
+          "Serge Vaudenay"
+        ]
+      },
+      {
+        "title": "High-Bandwidth Encryption with Low-Bandwidth Smartcards.",
+        "authors": [
+          "Matt Blaze"
+        ]
+      },
+      {
+        "title": "ISAAC.",
+        "authors": [
+          "Robert J. Jenkins Jr."
+        ]
+      },
+      {
+        "title": "A Note on the Hash Function of Tillich and Zémor.",
+        "authors": [
+          "Willi Geiselmann"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of MD4.",
+        "authors": [
+          "Hans Dobbertin"
+        ]
+      },
+      {
+        "title": "RIPEMD-160: A Strengthened Version of RIPEMD.",
+        "authors": [
+          "Hans Dobbertin",
+          "Antoon Bosselaers",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "Fast Accumulated Hashing.",
+        "authors": [
+          "Kaisa Nyberg"
+        ]
+      },
+      {
+        "title": "TIGER: A Fast New Hash Function.",
+        "authors": [
+          "Ross J. Anderson",
+          "Eli Biham"
+        ]
+      },
+      {
+        "title": "The Cipher SHARK.",
+        "authors": [
+          "Vincent Rijmen",
+          "Joan Daemen",
+          "Bart Preneel",
+          "Antoon Bosselaers",
+          "Erik De Win"
+        ]
+      },
+      {
+        "title": "Two Practical and Provably Secure Block Ciphers: BEARS and LION.",
+        "authors": [
+          "Ross J. Anderson",
+          "Eli Biham"
+        ]
+      },
+      {
+        "title": "Unbalanced Feistel Networks and Block Cipher Design.",
+        "authors": [
+          "Bruce Schneier",
+          "John Kelsey"
+        ]
+      },
+      {
+        "title": "A Comparison of Fast Correlation Attacks.",
+        "authors": [
+          "Andrew J. Clark",
+          "Jovan Dj. Golic",
+          "Ed Dawson"
+        ]
+      },
+      {
+        "title": "Correlation Attacks on Stream Ciphers: Computing Low-Weight Parity Checks Based on Error-Correcting Codes.",
+        "authors": [
+          "Walter T. Penzhorn"
+        ]
+      },
+      {
+        "title": "On the Security of Nonlinear Filter Generators.",
+        "authors": [
+          "Jovan Dj. Golic"
+        ]
+      },
+      {
+        "title": "Faster Luby-Rackoff Ciphers.",
+        "authors": [
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "New Structure of Block Ciphers with Provable Security against Differential and Linear Cryptanalysis.",
+        "authors": [
+          "Mitsuru Matsui"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse94.html": {
+    "header": "2. FSE 1994: Leuven, Belgium",
+    "year": "1994",
+    "papers": [
+      {
+        "title": "FSE'94 - Introduction.",
+        "authors": [
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "Clock-Controlled Pseudorandom Generators on Finite Groups.",
+        "authors": [
+          "Ulrich Baum",
+          "Simon R. Blackburn"
+        ]
+      },
+      {
+        "title": "On Random Mappings and Random Permutations.",
+        "authors": [
+          "William G. Chambers"
+        ]
+      },
+      {
+        "title": "Binary Cyclotomic Generators.",
+        "authors": [
+          "Cunsheng Ding"
+        ]
+      },
+      {
+        "title": "Construction of Bent Functions and Balanced Boolean Functions with High Nonlinearity.",
+        "authors": [
+          "Hans Dobbertin"
+        ]
+      },
+      {
+        "title": "Additive and Linear Structures of Cryptographic Functions.",
+        "authors": [
+          "Xuejia Lai"
+        ]
+      },
+      {
+        "title": "The RC5 Encryption Algorithm.",
+        "authors": [
+          "Ronald L. Rivest"
+        ]
+      },
+      {
+        "title": "The MacGuffin Block Cipher Algorithm.",
+        "authors": [
+          "Matt Blaze",
+          "Bruce Schneier"
+        ]
+      },
+      {
+        "title": "S-boxes and Round Functions with Controllable Linearity and Differential Uniformity.",
+        "authors": [
+          "Kaisa Nyberg"
+        ]
+      },
+      {
+        "title": "Properties of Linear Approximation Tables.",
+        "authors": [
+          "Luke O'Connor"
+        ]
+      },
+      {
+        "title": "Searching for the Optimum Correlation Attack.",
+        "authors": [
+          "Ross J. Anderson"
+        ]
+      },
+      {
+        "title": "A Known Plaintext Attack on the PKZIP Stream Cipher.",
+        "authors": [
+          "Eli Biham",
+          "Paul C. Kocher"
+        ]
+      },
+      {
+        "title": "Linear Cryptanalysis of Stream Ciphers.",
+        "authors": [
+          "Jovan Dj. Golic"
+        ]
+      },
+      {
+        "title": "Feedback with Carry Shift Registers over Finite Fields (extended abstract).",
+        "authors": [
+          "Andrew Klapper"
+        ]
+      },
+      {
+        "title": "A Free Energy Minimization Framework for Inference Problems in modulo 2 Arithmetic.",
+        "authors": [
+          "David J. C. MacKay"
+        ]
+      },
+      {
+        "title": "Truncated and Higher Order Differentials.",
+        "authors": [
+          "Lars R. Knudsen"
+        ]
+      },
+      {
+        "title": "SAFER K-64: One Year Later.",
+        "authors": [
+          "James L. Massey"
+        ]
+      },
+      {
+        "title": "Improved Characteristics for Differential Cryptanalysis of Hash Functions Based on Block Ciphers.",
+        "authors": [
+          "Vincent Rijmen",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "Linear Cryptanalysis Using Multiple Approximations and FEAL.",
+        "authors": [
+          "Burton S. Kaliski Jr.",
+          "Matthew J. B. Robshaw"
+        ]
+      },
+      {
+        "title": "Problems with the Linear Cryptanalysis of DES Using More Than One Active S-box per Round.",
+        "authors": [
+          "Uwe Blöcher",
+          "Markus Dichtl"
+        ]
+      },
+      {
+        "title": "Correlation Matrices.",
+        "authors": [
+          "Joan Daemen",
+          "René Govaerts",
+          "Joos Vandewalle"
+        ]
+      },
+      {
+        "title": "On the Need for Multipermutations: Cryptanalysis of MD4 and SAFER.",
+        "authors": [
+          "Serge Vaudenay"
+        ]
+      },
+      {
+        "title": "How to Exploit the Intractability of Exact TSP for Cryptography.",
+        "authors": [
+          "Stefan Lucks"
+        ]
+      },
+      {
+        "title": "How to Reverse Engineer an EES Device.",
+        "authors": [
+          "Michael Roe"
+        ]
+      },
+      {
+        "title": "A Fast Homomorphic Coding Algorithm Based on Arithmetic Coding.",
+        "authors": [
+          "Walter T. Penzhorn"
+        ]
+      },
+      {
+        "title": "On Fibonacci Keystream Generators.",
+        "authors": [
+          "Ross J. Anderson"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of McGuffin.",
+        "authors": [
+          "Vincent Rijmen",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "Performance of Block Ciphers and Hash Functions - One Year Later.",
+        "authors": [
+          "Michael Roe"
+        ]
+      },
+      {
+        "title": "TEA, a Tiny Encryption Algorithm.",
+        "authors": [
+          "David J. Wheeler",
+          "Roger M. Needham"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fse/fse93.html": {
+    "header": "1. FSE 1993: Cambridge, UK",
+    "year": "1993",
+    "papers": [
+      {
+        "title": "SAFER K-64: A Byte-Oriented Block-Ciphering Algorithm.",
+        "authors": [
+          "James L. Massey"
+        ]
+      },
+      {
+        "title": "A New Approach to Block Cipher Design.",
+        "authors": [
+          "Joan Daemen",
+          "René Govaerts",
+          "Joos Vandewalle"
+        ]
+      },
+      {
+        "title": "Fast Block Cipher Proposal.",
+        "authors": [
+          "Burton S. Kaliski Jr.",
+          "Matthew J. B. Robshaw"
+        ]
+      },
+      {
+        "title": "Fish: A Fast Software Stream Cipher.",
+        "authors": [
+          "Uwe Blöcher",
+          "Markus Dichtl"
+        ]
+      },
+      {
+        "title": "The Shrinking Generator: Some Practical Considerations.",
+        "authors": [
+          "Hugo Krawczyk"
+        ]
+      },
+      {
+        "title": "A Modern Rotor Machine.",
+        "authors": [
+          "Ross J. Anderson"
+        ]
+      },
+      {
+        "title": "Two Stream Ciphers.",
+        "authors": [
+          "William G. Chambers"
+        ]
+      },
+      {
+        "title": "A Software-Optimised Encryption Algorithm.",
+        "authors": [
+          "Phillip Rogaway",
+          "Don Coppersmith"
+        ]
+      },
+      {
+        "title": "Encrypting Network Traffic.",
+        "authors": [
+          "T. Mark A. Lomas"
+        ]
+      },
+      {
+        "title": "Design Principles for Dedicated Hash Functions.",
+        "authors": [
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "Performance of Symmetric Ciphers and One-Way Hash Functions.",
+        "authors": [
+          "Michael Roe"
+        ]
+      },
+      {
+        "title": "On the Security of Shift Register Based Keystream Generators.",
+        "authors": [
+          "Jovan Dj. Golic"
+        ]
+      },
+      {
+        "title": "The Differential Cryptanalysis and Design of Natural Stream Ciphers.",
+        "authors": [
+          "Cunsheng Ding"
+        ]
+      },
+      {
+        "title": "On Modes of Operation.",
+        "authors": [
+          "Eli Biham"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of Clock Controlled Shift Registers.",
+        "authors": [
+          "Dieter Gollmann"
+        ]
+      },
+      {
+        "title": "A Bulk Data Encription Algorithm.",
+        "authors": [
+          "David J. Wheeler"
+        ]
+      },
+      {
+        "title": "On Finite Automaton One-Key Cryptosystems.",
+        "authors": [
+          "Ren-ji Tao"
+        ]
+      },
+      {
+        "title": "Parallel FFT-Hashing.",
+        "authors": [
+          "Claus-Peter Schnorr",
+          "Serge Vaudenay"
+        ]
+      },
+      {
+        "title": "Attacks on Double Block Length Hash Functions.",
+        "authors": [
+          "Xuejia Lai",
+          "Lars R. Knudsen"
+        ]
+      },
+      {
+        "title": "On Quadratic M-Sequences.",
+        "authors": [
+          "Agnes Hui Chan",
+          "Richard A. Games",
+          "Joseph J. Rushanan"
+        ]
+      },
+      {
+        "title": "2-Adic Shift Registers.",
+        "authors": [
+          "Andrew Klapper",
+          "Mark Goresky"
+        ]
+      },
+      {
+        "title": "New Bent Mappings Suitable for Fast Implementation.",
+        "authors": [
+          "Kaisa Nyberg"
+        ]
+      },
+      {
+        "title": "Cryptographic Pseudorandom Numbers in Simulation.",
+        "authors": [
+          "Nick MacLaren"
+        ]
+      },
+      {
+        "title": "Description of a New Variable-Length Key, 64-bit Block Cipher (Blowfish).",
+        "authors": [
+          "Bruce Schneier"
+        ]
+      },
+      {
+        "title": "VINO: A Block Cipher Including Variable Permutations.",
+        "authors": [
+          "Adina di Porto",
+          "William Wolfowicz"
+        ]
+      },
+      {
+        "title": "Practically Secure Feistel Cyphers.",
+        "authors": [
+          "Lars R. Knudsen"
+        ]
+      }
+    ]
+  }
+}

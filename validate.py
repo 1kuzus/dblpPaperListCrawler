@@ -10,7 +10,6 @@ def validate(output_dir):
     indexing_pages = load_json(path_indexing_pages)
     full_name_mapping = load_json(path_full_name_mapping)
     assert set(indexing_pages.keys()) == set(full_name_mapping.keys())
-
     for key in indexing_pages.keys():
         typ, index = key.split("/")
         path_paper_list = os.path.join(output_dir, "paper_lists", typ, f"{index}.json")

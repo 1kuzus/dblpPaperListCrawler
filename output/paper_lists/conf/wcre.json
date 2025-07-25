@@ -1,0 +1,6862 @@
+{
+  "https://dblp.org/db/conf/csmr/csmr2014.html": {
+    "header": "CSMR-WCRE 2014: Antwerp, Belgium",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Using biology and ecology as inspiration for software maintenance? (Keynote abstract).",
+        "authors": [
+          "Philippe Grosjean"
+        ]
+      },
+      {
+        "title": "Mitigating the Risk of software change in practice: Retrospective on more than 50 architecture evaluations in industry (Keynote paper).",
+        "authors": [
+          "Jens Knodel",
+          "Matthias Naab"
+        ]
+      },
+      {
+        "title": "The vision of software clone management: Past, present, and future (Keynote paper).",
+        "authors": [
+          "Chanchal K. Roy",
+          "Minhaz F. Zibran",
+          "Rainer Koschke"
+        ]
+      },
+      {
+        "title": "NL-based query refinement and contextualized code search results: A user study.",
+        "authors": [
+          "Emily Hill",
+          "Manuel Roldan-Vega",
+          "Jerry Alan Fails",
+          "Greg Mallet"
+        ]
+      },
+      {
+        "title": "Automated construction of a software-specific word similarity database.",
+        "authors": [
+          "Yuan Tian",
+          "David Lo",
+          "Julia Lawall"
+        ]
+      },
+      {
+        "title": "A case study of paired interleaving for evaluating code search techniques.",
+        "authors": [
+          "Kostadin Damevski",
+          "David C. Shepherd",
+          "Lori L. Pollock"
+        ]
+      },
+      {
+        "title": "Broken promises: An empirical study into evolution problems in Java programs caused by library upgrades.",
+        "authors": [
+          "Jens Dietrich",
+          "Kamil Jezek",
+          "Premek Brada"
+        ]
+      },
+      {
+        "title": "Detecting infeasible branches based on code patterns.",
+        "authors": [
+          "Sun Ding",
+          "Hongyu Zhang",
+          "Hee Beng Kuan Tan"
+        ]
+      },
+      {
+        "title": "Web API growing pains: Stories from client developers and their code.",
+        "authors": [
+          "Tiago Espinha",
+          "Andy Zaidman",
+          "Hans-Gerhard Gross"
+        ]
+      },
+      {
+        "title": "An empirical study on the fault-proneness of clone migration in clone genealogies.",
+        "authors": [
+          "Shuai Xie",
+          "Foutse Khomh",
+          "Ying Zou",
+          "Iman Keivanloo"
+        ]
+      },
+      {
+        "title": "Unification and refactoring of clones.",
+        "authors": [
+          "Giri Panamoottil Krishnan",
+          "Nikolaos Tsantalis"
+        ]
+      },
+      {
+        "title": "Automatic ranking of clones for refactoring through mining association rules.",
+        "authors": [
+          "Manishankar Mondal",
+          "Chanchal K. Roy",
+          "Kevin A. Schneider"
+        ]
+      },
+      {
+        "title": "Follow the path: Debugging state anomalies along execution histories.",
+        "authors": [
+          "Michael Perscheid",
+          "Tim Felgentreff",
+          "Robert Hirschfeld"
+        ]
+      },
+      {
+        "title": "Towards more accurate multi-label software behavior learning.",
+        "authors": [
+          "Xin Xia",
+          "Yang Feng",
+          "David Lo",
+          "Zhenyu Chen",
+          "Xinyu Wang"
+        ]
+      },
+      {
+        "title": "An empirical study of long lived bugs.",
+        "authors": [
+          "Ripon K. Saha",
+          "Sarfraz Khurshid",
+          "Dewayne E. Perry"
+        ]
+      },
+      {
+        "title": "Identifying risky areas of software code in Agile/Lean software development: An industrial experience report.",
+        "authors": [
+          "Vard Antinyan",
+          "Miroslaw Staron",
+          "Wilhelm Meding",
+          "Per Österström",
+          "Erik Wikstrom",
+          "Johan Wranker",
+          "Anders Henriksson",
+          "Jörgen Hansson"
+        ]
+      },
+      {
+        "title": "Cross-project defect prediction models: L'Union fait la force.",
+        "authors": [
+          "Annibale Panichella",
+          "Rocco Oliveto",
+          "Andrea De Lucia"
+        ]
+      },
+      {
+        "title": "An empirical study of bug report field reassignment.",
+        "authors": [
+          "Xin Xia",
+          "David Lo",
+          "Ming Wen",
+          "Emad Shihab",
+          "Bo Zhou"
+        ]
+      },
+      {
+        "title": "Supporting continuous integration by mashing-up software quality information.",
+        "authors": [
+          "Martin Brandtner",
+          "Emanuel Giger",
+          "Harald C. Gall"
+        ]
+      },
+      {
+        "title": "Towards a context-aware IDE-based meta search engine for recommendation about programming errors and exceptions.",
+        "authors": [
+          "Mohammad Masudur Rahman",
+          "Shamima Yeasmin",
+          "Chanchal K. Roy"
+        ]
+      },
+      {
+        "title": "Test suite reduction for fault detection and localization: A combined approach.",
+        "authors": [
+          "László Vidács",
+          "Árpád Beszédes",
+          "Dávid Tengeri",
+          "István Siket",
+          "Tibor Gyimóthy"
+        ]
+      },
+      {
+        "title": "In medio stat virtus: Extract class refactoring through nash equilibria.",
+        "authors": [
+          "Gabriele Bavota",
+          "Rocco Oliveto",
+          "Andrea De Lucia",
+          "Andrian Marcus",
+          "Yann-Gaël Guéhéneuc",
+          "Giuliano Antoniol"
+        ]
+      },
+      {
+        "title": "Remodularization analysis using semantic clustering.",
+        "authors": [
+          "Gustavo Santos",
+          "Marco Túlio Valente",
+          "Nicolas Anquetil"
+        ]
+      },
+      {
+        "title": "Mc2FOR: A tool for automatically translating MATLAB to FORTRAN 95.",
+        "authors": [
+          "Xu Li",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "Does return null matter?",
+        "authors": [
+          "Shuhei Kimura",
+          "Keisuke Hotta",
+          "Yoshiki Higo",
+          "Hiroshi Igaki",
+          "Shinji Kusumoto"
+        ]
+      },
+      {
+        "title": "Extracting relative thresholds for source code metrics.",
+        "authors": [
+          "Paloma Oliveira",
+          "Marco Túlio Valente",
+          "Fernando Paim Lima"
+        ]
+      },
+      {
+        "title": "Reverse engineering web configurators.",
+        "authors": [
+          "Ebrahim Khalil Abbasi",
+          "Mathieu Acher",
+          "Patrick Heymans",
+          "Anthony Cleve"
+        ]
+      },
+      {
+        "title": "A contextual approach for effective recovery of inter-process communication patterns from HPC traces.",
+        "authors": [
+          "Luay Alawneh",
+          "Abdelwahab Hamou-Lhadj",
+          "Syed Shariyar Murtaza",
+          "Yan Liu"
+        ]
+      },
+      {
+        "title": "Transition and defect patterns of components in dependency cycles during software evolution.",
+        "authors": [
+          "Tosin Daniel Oyetoyan",
+          "Daniela S. Cruzes",
+          "Reidar Conradi"
+        ]
+      },
+      {
+        "title": "Anti-pattern detection with model queries: A comparison of approaches.",
+        "authors": [
+          "Zoltán Ujhelyi",
+          "Ákos Horváth",
+          "Dániel Varró",
+          "Norbert Istvan Csiszár",
+          "Gábor Szoke",
+          "László Vidács",
+          "Rudolf Ferenc"
+        ]
+      },
+      {
+        "title": "Examining the relationship between topic model similarity and software maintenance.",
+        "authors": [
+          "Scott Grant",
+          "James R. Cordy"
+        ]
+      },
+      {
+        "title": "On the maintainability of CRAN packages.",
+        "authors": [
+          "Maëlick Claes",
+          "Tom Mens",
+          "Philippe Grosjean"
+        ]
+      },
+      {
+        "title": "Formal foundations for semi-parsing.",
+        "authors": [
+          "Vadim Zaytsev"
+        ]
+      },
+      {
+        "title": "On the use of positional proximity in IR-based feature location.",
+        "authors": [
+          "Emily Hill",
+          "Bunyamin Sisman",
+          "Avinash C. Kak"
+        ]
+      },
+      {
+        "title": "Recommending verbs for rename method using association rule mining.",
+        "authors": [
+          "Yuki Kashiwabara",
+          "Yuya Onizuka",
+          "Takashi Ishio",
+          "Yasuhiro Hayase",
+          "Tetsuo Yamamoto",
+          "Katsuro Inoue"
+        ]
+      },
+      {
+        "title": "An algorithm for keyword search on an execution path.",
+        "authors": [
+          "Toshihiro Kamiya"
+        ]
+      },
+      {
+        "title": "Comparison of feature implementations across languages, technologies, and styles.",
+        "authors": [
+          "Ralf Lämmel",
+          "Martin Leinberger",
+          "Thomas Schmorleiz",
+          "Andrei Varanovich"
+        ]
+      },
+      {
+        "title": "Spotting automatically cross-language relations.",
+        "authors": [
+          "Federico Tomassetti",
+          "Giuseppe Rizzo",
+          "Marco Torchiano"
+        ]
+      },
+      {
+        "title": "Mining frequent bug-fix code changes.",
+        "authors": [
+          "Haidar Osman",
+          "Mircea Lungu",
+          "Oscar Nierstrasz"
+        ]
+      },
+      {
+        "title": "Orchestrating change: An artistic representation of software evolution.",
+        "authors": [
+          "Shane McIntosh",
+          "Katie Legere",
+          "Ahmed E. Hassan"
+        ]
+      },
+      {
+        "title": "Co-evolving code-related and database-related changes in a data-intensive software system.",
+        "authors": [
+          "Mathieu Goeminne",
+          "Alexandre Decan",
+          "Tom Mens"
+        ]
+      },
+      {
+        "title": "Improving the detection accuracy of evolutionary coupling by measuring change correspondence.",
+        "authors": [
+          "Manishankar Mondal",
+          "Chanchal K. Roy",
+          "Kevin A. Schneider"
+        ]
+      },
+      {
+        "title": "Fact extraction from bash in support of script migration.",
+        "authors": [
+          "Ian J. Davis",
+          "Richard C. Holt",
+          "Ron Mraz"
+        ]
+      },
+      {
+        "title": "Lightweight runtime reverse engineering of binary file format variants.",
+        "authors": [
+          "Jeroen van den Bos"
+        ]
+      },
+      {
+        "title": "Towards tool support for analyzing legacy systems in technical domains.",
+        "authors": [
+          "Claus Klammer",
+          "Josef Pichler"
+        ]
+      },
+      {
+        "title": "Analysis and clustering of model clones: An automotive industrial experience.",
+        "authors": [
+          "Manar H. Alalfi",
+          "James R. Cordy",
+          "Thomas R. Dean"
+        ]
+      },
+      {
+        "title": "Experience on applying software architecture recovery to automotive embedded systems.",
+        "authors": [
+          "Xinhai Zhang",
+          "Magnus Persson",
+          "Mattias Nyberg",
+          "Behrooz Mokhtari",
+          "Anton Einarson",
+          "Henrik Linder",
+          "Jonas Westman",
+          "De-Jiu Chen",
+          "Martin Törngren"
+        ]
+      },
+      {
+        "title": "Towards recovering and exploiting domain knowledge from C code: A case study on automotive software.",
+        "authors": [
+          "Jochen Quante",
+          "Mohammed Tarabain",
+          "Janet Siegmund"
+        ]
+      },
+      {
+        "title": "Migrating legacy spreadsheets-based systems to Web MVC architecture: An industrial case study.",
+        "authors": [
+          "Domenico Amalfitano",
+          "Anna Rita Fasolino",
+          "Valerio Maggio",
+          "Porfirio Tramontana",
+          "Giancarlo Di Mare",
+          "Ferdinando Ferrara",
+          "Stefano Scala"
+        ]
+      },
+      {
+        "title": "CHOREOS: Large scale choreographies for the future internet.",
+        "authors": [
+          "Marco Autili",
+          "Paola Inverardi",
+          "Massimo Tivoli"
+        ]
+      },
+      {
+        "title": "DIVERSIFY: Ecology-inspired software evolution for diversity emergence.",
+        "authors": [
+          "Benoit Baudry",
+          "Martin Monperrus",
+          "Cendrine Mony",
+          "Franck Chauvel",
+          "Franck Fleurey",
+          "Siobhán Clarke"
+        ]
+      },
+      {
+        "title": "The market for open source: An intelligent virtual open source marketplace.",
+        "authors": [
+          "Gabriele Bavota",
+          "Alicja Ciemniewska",
+          "Ilknur Chulani",
+          "Antonio De Nigro",
+          "Massimiliano Di Penta",
+          "Davide Galletti",
+          "Roberto Galoppini",
+          "Thomas F. Gordon",
+          "Pawel Kedziora",
+          "Ilaria Lener",
+          "Francesco Torelli",
+          "Roberto Pratola",
+          "Juliusz Pukacki",
+          "Yacine Rebahi",
+          "Sergio García Villalonga"
+        ]
+      },
+      {
+        "title": "ECOS: Ecological studies of open source software ecosystems.",
+        "authors": [
+          "Tom Mens",
+          "Maëlick Claes",
+          "Philippe Grosjean"
+        ]
+      },
+      {
+        "title": "FITTEST: A new continuous and automated testing process for future Internet applications.",
+        "authors": [
+          "Tanja E. J. Vos",
+          "Paolo Tonella",
+          "Wishnu Prasetya",
+          "Peter M. Kruse",
+          "Alessandra Bagnato",
+          "Mark Harman",
+          "Onn Shehory"
+        ]
+      },
+      {
+        "title": "Model inference and security testing in the spacios project.",
+        "authors": [
+          "Matthias Büchler",
+          "Karim Hossen",
+          "Petru Florin Mihancea",
+          "Marius Minea",
+          "Roland Groz",
+          "Catherine Oriat"
+        ]
+      },
+      {
+        "title": "In∗bug: Visual analytics of bug repositories.",
+        "authors": [
+          "Tommaso Dal Sasso",
+          "Michele Lanza"
+        ]
+      },
+      {
+        "title": "APIEvolutionMiner: Keeping API evolution under control.",
+        "authors": [
+          "André C. Hora",
+          "Anne Etien",
+          "Nicolas Anquetil",
+          "Stéphane Ducasse",
+          "Marco Túlio Valente"
+        ]
+      },
+      {
+        "title": "How the Sando search tool recommends queries.",
+        "authors": [
+          "Xi Ge",
+          "David C. Shepherd",
+          "Kostadin Damevski",
+          "Emerson R. Murphy-Hill"
+        ]
+      },
+      {
+        "title": "Building development tools interactively using the EKEKO meta-programming library.",
+        "authors": [
+          "Coen De Roover",
+          "Reinout Stevens"
+        ]
+      },
+      {
+        "title": "Bit-error injection for software developers.",
+        "authors": [
+          "Marcel Heing-Becker",
+          "Timo Kamph",
+          "Sibylle Schupp"
+        ]
+      },
+      {
+        "title": "Qualitygate SourceAudit: A tool for assessing the technical quality of software.",
+        "authors": [
+          "Tibor Bakota",
+          "Péter Hegedüs",
+          "István Siket",
+          "Gergely Ladányi",
+          "Rudolf Ferenc"
+        ]
+      },
+      {
+        "title": "Follow the path: Debugging tools for test-driven fault navigation.",
+        "authors": [
+          "Michael Perscheid",
+          "Robert Hirschfeld"
+        ]
+      },
+      {
+        "title": "JMODEX: Model extraction for verifying security properties of web applications.",
+        "authors": [
+          "Petru Florin Mihancea",
+          "Marius Minea"
+        ]
+      },
+      {
+        "title": "PHP AiR: Analyzing PHP systems with Rascal.",
+        "authors": [
+          "Mark Hills",
+          "Paul Klint"
+        ]
+      },
+      {
+        "title": "Mc2FOR demo: A tool for automatically translating MATLAB to FORTRAN 95.",
+        "authors": [
+          "Xu Li",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "DAHLIA: A visual analyzer of database schema evolution.",
+        "authors": [
+          "Loup Meurice",
+          "Anthony Cleve"
+        ]
+      },
+      {
+        "title": "SENSEI: Software evolution service integration.",
+        "authors": [
+          "Jan Jelschen"
+        ]
+      },
+      {
+        "title": "Understanding the evolution of socio-technical aspects in open source ecosystems.",
+        "authors": [
+          "Mathieu Goeminne"
+        ]
+      },
+      {
+        "title": "International workshop on software clones.",
+        "authors": [
+          "Rainer Koschke",
+          "Nils Göde",
+          "Yoshiki Higo"
+        ]
+      },
+      {
+        "title": "International workshop on open and original problems in software language engineering.",
+        "authors": [
+          "Anya Helene Bagge",
+          "Vadim Zaytsev"
+        ]
+      },
+      {
+        "title": "International workshop on software quality and maintainability.",
+        "authors": [
+          "Lodewijk Bergmans",
+          "Steven Raemaekers",
+          "Tom Mens"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2013.html": {
+    "header": "20th WCRE 2013: Koblenz, Germany",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Genetic programming for Reverse Engineering.",
+        "authors": [
+          "Mark Harman",
+          "William B. Langdon",
+          "Westley Weimer"
+        ]
+      },
+      {
+        "title": "The first decade of GUI ripping: Extensions, applications, and broader impacts.",
+        "authors": [
+          "Atif M. Memon",
+          "Ishan Banerjee",
+          "Bao N. Nguyen",
+          "Bryan Robbins"
+        ]
+      },
+      {
+        "title": "Reverse Engineering in Industry.",
+        "authors": [
+          "Ralf Lämmel"
+        ]
+      },
+      {
+        "title": "Who allocated my memory? Detecting custom memory allocators in C binaries.",
+        "authors": [
+          "Xi Chen",
+          "Asia Slowinska",
+          "Herbert Bos"
+        ]
+      },
+      {
+        "title": "MemPick: High-level data structure detection in C/C++ binaries.",
+        "authors": [
+          "István Haller",
+          "Asia Slowinska",
+          "Herbert Bos"
+        ]
+      },
+      {
+        "title": "Reconstructing program memory state from multi-gigabyte instruction traces to support interactive analysis.",
+        "authors": [
+          "Brendan Cleary",
+          "Patrick Gorman",
+          "Eric Verbeek",
+          "Margaret-Anne D. Storey",
+          "Martin Salois",
+          "Frédéric Painchaud"
+        ]
+      },
+      {
+        "title": "Static binary rewriting without supplemental information: Overcoming the tradeoff between coverage and correctness.",
+        "authors": [
+          "Matthew Smithson",
+          "Khaled Elwazeer",
+          "Kapil Anand",
+          "Aparna Kotha",
+          "Rajeev Barua"
+        ]
+      },
+      {
+        "title": "An incremental update framework for efficient retrieval from software libraries for bug localization.",
+        "authors": [
+          "Shivani Rao",
+          "Henry Medeiros",
+          "Avinash C. Kak"
+        ]
+      },
+      {
+        "title": "Accurate developer recommendation for bug resolution.",
+        "authors": [
+          "Xin Xia",
+          "David Lo",
+          "Xinyu Wang",
+          "Bo Zhou"
+        ]
+      },
+      {
+        "title": "Has this bug been reported?",
+        "authors": [
+          "Kaiping Liu",
+          "Hee Beng Kuan Tan",
+          "Hongyu Zhang"
+        ]
+      },
+      {
+        "title": "Automatic recovery of root causes from bug-fixing changes.",
+        "authors": [
+          "Ferdian Thung",
+          "David Lo",
+          "Lingxiao Jiang"
+        ]
+      },
+      {
+        "title": "Distilling useful clones by contextual differencing.",
+        "authors": [
+          "Zhenchang Xing",
+          "Yinxing Xue",
+          "Stan Jarzabek"
+        ]
+      },
+      {
+        "title": "Effects of cloned code on software maintainability: A replicated developer study.",
+        "authors": [
+          "Debarshi Chatterji",
+          "Jeffrey C. Carver",
+          "Nicholas A. Kraft",
+          "Jan Harder"
+        ]
+      },
+      {
+        "title": "The influence of non-technical factors on code review.",
+        "authors": [
+          "Olga Baysal",
+          "Oleksii Kononenko",
+          "Reid Holmes",
+          "Michael W. Godfrey"
+        ]
+      },
+      {
+        "title": "Understanding project dissemination on a social coding site.",
+        "authors": [
+          "Jing Jiang",
+          "Li Zhang",
+          "Lei Li"
+        ]
+      },
+      {
+        "title": "What help do developers seek, when and how?",
+        "authors": [
+          "Hongwei Li",
+          "Zhenchang Xing",
+          "Xin Peng",
+          "Wenyun Zhao"
+        ]
+      },
+      {
+        "title": "Towards understanding how developers spend their effort during maintenance activities.",
+        "authors": [
+          "Zéphyrin Soh",
+          "Foutse Khomh",
+          "Yann-Gaël Guéhéneuc",
+          "Giuliano Antoniol"
+        ]
+      },
+      {
+        "title": "Leveraging specifications of subcomponents to mine precise specifications of composite components.",
+        "authors": [
+          "Ziying Dai",
+          "Xiaoguang Mao",
+          "Yan Lei",
+          "Liqian Chen"
+        ]
+      },
+      {
+        "title": "A model-driven graph-matching approach for design pattern detection.",
+        "authors": [
+          "Mario Luca Bernardi",
+          "Marta Cimitile",
+          "Giuseppe Antonio Di Lucca"
+        ]
+      },
+      {
+        "title": "Automated library recommendation.",
+        "authors": [
+          "Ferdian Thung",
+          "David Lo",
+          "Julia Lawall"
+        ]
+      },
+      {
+        "title": "Automatic discovery of function mappings between similar libraries.",
+        "authors": [
+          "Cédric Teyton",
+          "Jean-Rémy Falleri",
+          "Xavier Blanc"
+        ]
+      },
+      {
+        "title": "Find your library experts.",
+        "authors": [
+          "Cédric Teyton",
+          "Jean-Rémy Falleri",
+          "Floréal Morandat",
+          "Xavier Blanc"
+        ]
+      },
+      {
+        "title": "Towards automatically improving package structure while respecting original design decisions.",
+        "authors": [
+          "Hani Abdeen",
+          "Houari A. Sahraoui",
+          "Osama Shata",
+          "Nicolas Anquetil",
+          "Stéphane Ducasse"
+        ]
+      },
+      {
+        "title": "Heuristics for discovering architectural violations.",
+        "authors": [
+          "Cristiano Amaral Maffort",
+          "Marco Túlio Valente",
+          "Mariza Andrade da Silva Bigonha",
+          "Nicolas Anquetil",
+          "André C. Hora"
+        ]
+      },
+      {
+        "title": "Recommending Move Method refactorings using dependency sets.",
+        "authors": [
+          "Vitor Sales",
+          "Ricardo Terra",
+          "Luis Fernando Miranda",
+          "Marco Túlio Valente"
+        ]
+      },
+      {
+        "title": "Do developers care about code smells? An exploratory survey.",
+        "authors": [
+          "Aiko Fallas Yamashita",
+          "Leon Moonen"
+        ]
+      },
+      {
+        "title": "LigRE: Reverse-engineering of control and data flow models for black-box XSS detection.",
+        "authors": [
+          "Fabien Duchene",
+          "Sanjay Rawat",
+          "Jean-Luc Richier",
+          "Roland Groz"
+        ]
+      },
+      {
+        "title": "Circe: A grammar-based oracle for testing Cross-site scripting in web applications.",
+        "authors": [
+          "Andrea Avancini",
+          "Mariano Ceccato"
+        ]
+      },
+      {
+        "title": "Capture-replay vs. programmable web testing: An empirical assessment during test case evolution.",
+        "authors": [
+          "Maurizio Leotta",
+          "Diego Clerissi",
+          "Filippo Ricca",
+          "Paolo Tonella"
+        ]
+      },
+      {
+        "title": "Clustering static analysis defect reports to reduce maintenance costs.",
+        "authors": [
+          "Zachary P. Fry",
+          "Westley Weimer"
+        ]
+      },
+      {
+        "title": "Lehman's laws in agile and non-agile projects.",
+        "authors": [
+          "Kelley Duran",
+          "Gabbie Burns",
+          "Paul Snell"
+        ]
+      },
+      {
+        "title": "Inferring Extended Finite State Machine models from software executions.",
+        "authors": [
+          "Neil Walkinshaw",
+          "Ramsay Taylor",
+          "John Derrick"
+        ]
+      },
+      {
+        "title": "Comparing and combining evolutionary couplings from interactions and commits.",
+        "authors": [
+          "Fasil Bantelay",
+          "Motahareh Bahrami Zanjani",
+          "Huzefa H. Kagdi"
+        ]
+      },
+      {
+        "title": "Improving SOA antipatterns detection in Service Based Systems by mining execution traces.",
+        "authors": [
+          "Mathieu Nayrolles",
+          "Naouel Moha",
+          "Petko Valtchev"
+        ]
+      },
+      {
+        "title": "Mining system specific rules from change patterns.",
+        "authors": [
+          "André C. Hora",
+          "Nicolas Anquetil",
+          "Stéphane Ducasse",
+          "Marco Túlio Valente"
+        ]
+      },
+      {
+        "title": "Empirical evidence of code decay: A systematic mapping study.",
+        "authors": [
+          "Ajay Bandi",
+          "Byron J. Williams",
+          "Edward B. Allen"
+        ]
+      },
+      {
+        "title": "Mining the relationship between anti-patterns dependencies and fault-proneness.",
+        "authors": [
+          "Fehmi Jaafar",
+          "Yann-Gaël Guéhéneuc",
+          "Sylvie Hamel",
+          "Foutse Khomh"
+        ]
+      },
+      {
+        "title": "Leveraging historical co-change information for requirements traceability.",
+        "authors": [
+          "Nasir Ali",
+          "Fehmi Jaafar",
+          "Ahmed E. Hassan"
+        ]
+      },
+      {
+        "title": "Using relationships for matching textual domain models with existing code.",
+        "authors": [
+          "Raghavan Komondoor",
+          "Indrajit Bhattacharya",
+          "Deepak D'Souza",
+          "Sachin Kale"
+        ]
+      },
+      {
+        "title": "On the effectiveness of accuracy of automated feature location technique.",
+        "authors": [
+          "Takashi Ishio",
+          "Shinpei Hayashi",
+          "Hiroshi Kazato",
+          "Tsuyoshi Oshima"
+        ]
+      },
+      {
+        "title": "On the effect of program exploration on maintenance tasks.",
+        "authors": [
+          "Zéphyrin Soh",
+          "Foutse Khomh",
+          "Yann-Gaël Guéhéneuc",
+          "Giuliano Antoniol",
+          "Bram Adams"
+        ]
+      },
+      {
+        "title": "Documenting APIs with examples: Lessons learned with the APIMiner platform.",
+        "authors": [
+          "João Eduardo Montandon",
+          "Hudson Borges",
+          "Daniel Felix",
+          "Marco Túlio Valente"
+        ]
+      },
+      {
+        "title": "Extracting business rules from COBOL: A model-based framework.",
+        "authors": [
+          "Valerio Cosentino",
+          "Jordi Cabot",
+          "Patrick Albert",
+          "Philippe Bauquel",
+          "Jacques Perronnet"
+        ]
+      },
+      {
+        "title": "Evaluating architecture stability of software projects.",
+        "authors": [
+          "Lerina Aversano",
+          "Marco Molfetta",
+          "Maria Tortorella"
+        ]
+      },
+      {
+        "title": "Migrating a large scale legacy application to SOA: Challenges and lessons learned.",
+        "authors": [
+          "Ravi Khadka",
+          "Amir Saeidi",
+          "Slinger Jansen",
+          "Jurriaan Hage",
+          "Geer P. Haas"
+        ]
+      },
+      {
+        "title": "Assessing the complexity of upgrading software modules.",
+        "authors": [
+          "Bram Schoenmakers",
+          "Niels van den Broek",
+          "Istvan Nagy",
+          "Bogdan Vasilescu",
+          "Alexander Serebrenik"
+        ]
+      },
+      {
+        "title": "Analyzing PL/1 legacy ecosystems: An experience report.",
+        "authors": [
+          "Erik Aeschlimann",
+          "Mircea Lungu",
+          "Oscar Nierstrasz",
+          "Carl F. Worms"
+        ]
+      },
+      {
+        "title": "PsybOt malware: A step-by-step decompilation case study.",
+        "authors": [
+          "Lukás Durfina",
+          "Jakub Kroustek",
+          "Petr Zemek"
+        ]
+      },
+      {
+        "title": "Reusing reused code.",
+        "authors": [
+          "Tomoya Ishihara",
+          "Keisuke Hotta",
+          "Yoshiki Higo",
+          "Shinji Kusumoto"
+        ]
+      },
+      {
+        "title": "Specification extraction by symbolic execution.",
+        "authors": [
+          "Josef Pichler"
+        ]
+      },
+      {
+        "title": "An IDE-based context-aware meta search engine.",
+        "authors": [
+          "Mohammad Masudur Rahman",
+          "Shamima Yeasmin",
+          "Chanchal K. Roy"
+        ]
+      },
+      {
+        "title": "An approach to clone detection in behavioural models.",
+        "authors": [
+          "Elizabeth P. Antony",
+          "Manar H. Alalfi",
+          "James R. Cordy"
+        ]
+      },
+      {
+        "title": "MemBrush: A practical tool to detect custom memory allocators in C binaries.",
+        "authors": [
+          "Xi Chen",
+          "Asia Slowinska",
+          "Herbert Bos"
+        ]
+      },
+      {
+        "title": "MemPick: A tool for data structure detection.",
+        "authors": [
+          "István Haller",
+          "Asia Slowinska",
+          "Herbert Bos"
+        ]
+      },
+      {
+        "title": "Gelato: GEneric language tools for model-driven analysis of legacy software systems.",
+        "authors": [
+          "Amir Saeidi",
+          "Jurriaan Hage",
+          "Ravi Khadka",
+          "Slinger Jansen"
+        ]
+      },
+      {
+        "title": "Extracting business rules from COBOL: A model-based tool.",
+        "authors": [
+          "Valerio Cosentino",
+          "Jordi Cabot",
+          "Patrick Albert",
+          "Philippe Bauquel",
+          "Jacques Perronnet"
+        ]
+      },
+      {
+        "title": "Detecting dependencies in Enterprise JavaBeans with SQuAVisiT.",
+        "authors": [
+          "Alexandru Sutii",
+          "Serguei A. Roubtsov",
+          "Alexander Serebrenik"
+        ]
+      },
+      {
+        "title": "REdiffs: Refactoring-aware difference viewer for java.",
+        "authors": [
+          "Shinpei Hayashi",
+          "Sirinut Thangthumachit",
+          "Motoshi Saeki"
+        ]
+      },
+      {
+        "title": "CCCD: Concolic code clone detection.",
+        "authors": [
+          "Daniel E. Krutz",
+          "Emad Shihab"
+        ]
+      },
+      {
+        "title": "3rd workshop on Mining Unstructured Data.",
+        "authors": [
+          "Alberto Bacchelli",
+          "Nicolas Bettenburg",
+          "Latifa Guerrouj",
+          "Sonia Haiduc"
+        ]
+      },
+      {
+        "title": "Workshop on open and original problems in software language engineering.",
+        "authors": [
+          "Anya Helene Bagge",
+          "Vadim Zaytsev"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2012.html": {
+    "header": "19th WCRE 2012: Kingston, ON, Canada",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "The Law and Reverse Engineering.",
+        "authors": [
+          "Keith B. Gallagher",
+          "Cem Caner",
+          "Jenifer Deignan"
+        ]
+      },
+      {
+        "title": "Workshop on Mining Unstructured Data (MUD) ... Because \"Mining Unstructured Data is Like Fishing in Muddy Waters\"!",
+        "authors": [
+          "Alberto Bacchelli",
+          "Nicolas Bettenburg",
+          "Latifa Guerrouj"
+        ]
+      },
+      {
+        "title": "Structured Binary Editing with a CFG Transformation Algebra.",
+        "authors": [
+          "Andrew R. Bernat",
+          "Barton P. Miller"
+        ]
+      },
+      {
+        "title": "C to O-O Translation: Beyond the Easy Stuff.",
+        "authors": [
+          "Marco Trudel",
+          "Carlo A. Furia",
+          "Martin Nordio",
+          "Bertrand Meyer",
+          "Manuel Oriol"
+        ]
+      },
+      {
+        "title": "Refactoring with Unit Testing: A Match Made in Heaven?",
+        "authors": [
+          "Frens Vonken",
+          "Andy Zaidman"
+        ]
+      },
+      {
+        "title": "Astra: Bottom-up Construction of Structured Artifact Repositories.",
+        "authors": [
+          "Joel Ossher",
+          "Hitesh Sajnani",
+          "Cristina Videira Lopes"
+        ]
+      },
+      {
+        "title": "Detection and Recovery of Functions and their Arguments in a Retargetable Decompiler.",
+        "authors": [
+          "Lukás Durfina",
+          "Jakub Kroustek",
+          "Petr Zemek",
+          "Bretislav Kábele"
+        ]
+      },
+      {
+        "title": "Towards Static Analysis of Virtualization-Obfuscated Binaries.",
+        "authors": [
+          "Johannes Kinder"
+        ]
+      },
+      {
+        "title": "Code Defactoring: Evaluating the Effectiveness of Java Obfuscations.",
+        "authors": [
+          "Andrea Capiluppi",
+          "Paolo Falcarin",
+          "Cornelia Boldyreff"
+        ]
+      },
+      {
+        "title": "Understanding Android Fragmentation with Topic Analysis of Vendor-Specific Bugs.",
+        "authors": [
+          "Dan Han",
+          "Chenlei Zhang",
+          "Xiaochao Fan",
+          "Abram Hindle",
+          "Kenny Wong",
+          "Eleni Stroulia"
+        ]
+      },
+      {
+        "title": "Using Network Analysis for Recommendation of Central Software Classes.",
+        "authors": [
+          "Daniela Steidl",
+          "Benjamin Hummel",
+          "Elmar Jürgens"
+        ]
+      },
+      {
+        "title": "TRIS: A Fast and Accurate Identifiers Splitting and Expansion Algorithm.",
+        "authors": [
+          "Latifa Guerrouj",
+          "Philippe Galinier",
+          "Yann-Gaël Guéhéneuc",
+          "Giuliano Antoniol",
+          "Massimiliano Di Penta"
+        ]
+      },
+      {
+        "title": "Software Clustering: Unifying Syntactic and Semantic Features.",
+        "authors": [
+          "Janardan Misra",
+          "K. M. Annervaz",
+          "Vikrant S. Kaulgud",
+          "Shubhashis Sengupta",
+          "Gary Titus"
+        ]
+      },
+      {
+        "title": "Using Bug Report Similarity to Enhance Bug Localisation.",
+        "authors": [
+          "Steven Davies",
+          "Marc Roper",
+          "Murray Wood"
+        ]
+      },
+      {
+        "title": "SCAN: An Approach to Label and Relate Execution Trace Segments.",
+        "authors": [
+          "Soumaya Medini",
+          "Giuliano Antoniol",
+          "Yann-Gaël Guéhéneuc",
+          "Massimiliano Di Penta",
+          "Paolo Tonella"
+        ]
+      },
+      {
+        "title": "Feature Location in a Collection of Product Variants.",
+        "authors": [
+          "Yinxing Xue",
+          "Zhenchang Xing",
+          "Stan Jarzabek"
+        ]
+      },
+      {
+        "title": "Feature Location Using Data Mining on Existing Test-Cases.",
+        "authors": [
+          "Celal Ziftci",
+          "Ingolf Krueger"
+        ]
+      },
+      {
+        "title": "Execution Trace Abstraction Based on Meta Patterns Usage.",
+        "authors": [
+          "Kunihiro Noda",
+          "Takashi Kobayashi",
+          "Kiyoshi Agusa"
+        ]
+      },
+      {
+        "title": "Reverse Engineering iOS Mobile Applications.",
+        "authors": [
+          "Mona Erfani Joorabchi",
+          "Ali Mesbah"
+        ]
+      },
+      {
+        "title": "Understanding the Runtime Topology of Service-Oriented Systems.",
+        "authors": [
+          "Tiago Espinha",
+          "Andy Zaidman",
+          "Hans-Gerhard Gross"
+        ]
+      },
+      {
+        "title": "Precise Detection of Uninitialized Variables Using Dynamic Analysis - Extending to Aggregate and Vector Types.",
+        "authors": [
+          "Anushri Jana",
+          "Ravindra Naik"
+        ]
+      },
+      {
+        "title": "Automatic Defect Categorization.",
+        "authors": [
+          "Ferdian Thung",
+          "David Lo",
+          "Lingxiao Jiang"
+        ]
+      },
+      {
+        "title": "Information Retrieval Based Nearest Neighbor Classification for Fine-Grained Bug Severity Prediction.",
+        "authors": [
+          "Yuan Tian",
+          "David Lo",
+          "Chengnian Sun"
+        ]
+      },
+      {
+        "title": "An Empirical Study on Factors Impacting Bug Fixing Time.",
+        "authors": [
+          "Feng Zhang",
+          "Foutse Khomh",
+          "Ying Zou",
+          "Ahmed E. Hassan"
+        ]
+      },
+      {
+        "title": "Can Lexicon Bad Smells Improve Fault Prediction?",
+        "authors": [
+          "Surafel Lemma Abebe",
+          "Venera Arnaoudova",
+          "Paolo Tonella",
+          "Giuliano Antoniol",
+          "Yann-Gaël Guéhéneuc"
+        ]
+      },
+      {
+        "title": "Fast Detection of Access Control Vulnerabilities in PHP Applications.",
+        "authors": [
+          "François Gauthier",
+          "Ettore Merlo"
+        ]
+      },
+      {
+        "title": "On the Evolutionary Nature of Architectural Violations.",
+        "authors": [
+          "João Brunet",
+          "Roberto Almeida Bittencourt",
+          "Dalton Serey Guerrero",
+          "Jorge C. A. de Figueiredo"
+        ]
+      },
+      {
+        "title": "Ownership Object Graphs with Dataflow Edges.",
+        "authors": [
+          "Radu Vanciu",
+          "Marwan Abi-Antoun"
+        ]
+      },
+      {
+        "title": "A Framework to Compare Alert Ranking Algorithms.",
+        "authors": [
+          "Simon Allier",
+          "Nicolas Anquetil",
+          "André C. Hora",
+          "Stéphane Ducasse"
+        ]
+      },
+      {
+        "title": "Mining Library Migration Graphs.",
+        "authors": [
+          "Cédric Teyton",
+          "Jean-Rémy Falleri",
+          "Xavier Blanc"
+        ]
+      },
+      {
+        "title": "What Do Foreign Keys Actually Mean?",
+        "authors": [
+          "Anthony Cleve",
+          "Jean-Luc Hainaut"
+        ]
+      },
+      {
+        "title": "A Rule-based Automated Approach for Extracting Models from Source Code.",
+        "authors": [
+          "Makoto Ichii",
+          "Tomoyuki Myojin",
+          "Yuichiroh Nakagawa",
+          "Masaki Chikahisa",
+          "Hideto Ogawa"
+        ]
+      },
+      {
+        "title": "Automated Acceptance Testing of JavaScript Web Applications.",
+        "authors": [
+          "Natalia Negara",
+          "Eleni Stroulia"
+        ]
+      },
+      {
+        "title": "Inferring Repository File Structure Modifications Using Nearest-Neighbor Clone Detection.",
+        "authors": [
+          "Thierry Lavoie",
+          "Foutse Khomh",
+          "Ettore Merlo",
+          "Ying Zou"
+        ]
+      },
+      {
+        "title": "Linking Documentation and Source Code in a Software Chrestomathy.",
+        "authors": [
+          "Jean-Marie Favre",
+          "Ralf Lämmel",
+          "Martin Leinberger",
+          "Thomas Schmorleiz",
+          "Andrei Varanovich"
+        ]
+      },
+      {
+        "title": "Reconstructing Architectural Views from Legacy Systems.",
+        "authors": [
+          "Ghizlane El-Boussaidi",
+          "Alvine Boaye Belle",
+          "Stéphane Vaucher",
+          "Hafedh Mili"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Variability in Source Code Using Clone Detection: A Case Study for Linux Variants of Consumer Electronic Devices.",
+        "authors": [
+          "Armijn Hemel",
+          "Rainer Koschke"
+        ]
+      },
+      {
+        "title": "Empirical Evaluation of Diagrams of the Run-time Structure for Coding Tasks.",
+        "authors": [
+          "Nariman Ammar",
+          "Marwan Abi-Antoun"
+        ]
+      },
+      {
+        "title": "Empirically Examining the Parallelizability of Open Source Software System.",
+        "authors": [
+          "Saleh M. Alnaeli",
+          "Abdulkareem Alali",
+          "Jonathan I. Maletic"
+        ]
+      },
+      {
+        "title": "Inter-Project Functional Clone Detection Toward Building Libraries - An Empirical Study on 13, 000 Projects.",
+        "authors": [
+          "Tomoya Ishihara",
+          "Keisuke Hotta",
+          "Yoshiki Higo",
+          "Hiroshi Igaki",
+          "Shinji Kusumoto"
+        ]
+      },
+      {
+        "title": "AQUA: Android QUery Analyzer.",
+        "authors": [
+          "Chon Ju Kim",
+          "Phyllis G. Frankl"
+        ]
+      },
+      {
+        "title": "Detecting Clones Across Microsoft .NET Programming Languages.",
+        "authors": [
+          "Farouq Al-Omari",
+          "Iman Keivanloo",
+          "Chanchal K. Roy",
+          "Juergen Rilling"
+        ]
+      },
+      {
+        "title": "Modeling Software Execution Environment.",
+        "authors": [
+          "Dawei Qi",
+          "William N. Sumner",
+          "Feng Qin",
+          "Mai Zheng",
+          "Xiangyu Zhang",
+          "Abhik Roychoudhury"
+        ]
+      },
+      {
+        "title": "A Very Efficient and Scalable Forward Static Slicing Approach.",
+        "authors": [
+          "Hakam W. Alomari",
+          "Michael L. Collard",
+          "Jonathan I. Maletic"
+        ]
+      },
+      {
+        "title": "Analyzing the Impact of Antipatterns on Change-Proneness Using Fine-Grained Source Code Changes.",
+        "authors": [
+          "Daniele Romano",
+          "Paulius Raila",
+          "Martin Pinzger",
+          "Foutse Khomh"
+        ]
+      },
+      {
+        "title": "The Secret Life of Patches: A Firefox Case Study.",
+        "authors": [
+          "Olga Baysal",
+          "Oleksii Kononenko",
+          "Reid Holmes",
+          "Michael W. Godfrey"
+        ]
+      },
+      {
+        "title": "An Empirical Study of the Effect of File Editing Patterns on Software Quality.",
+        "authors": [
+          "Feng Zhang",
+          "Foutse Khomh",
+          "Ying Zou",
+          "Ahmed E. Hassan"
+        ]
+      },
+      {
+        "title": "SMURF: A SVM-based Incremental Anti-pattern Detection Approach.",
+        "authors": [
+          "Abdou Maiga",
+          "Nasir Ali",
+          "Neelesh Bhattacharya",
+          "Aminata Sabané",
+          "Yann-Gaël Guéhéneuc",
+          "Esma Aïmeur"
+        ]
+      },
+      {
+        "title": "Towards the Automatic Extraction of Structural Business Rules from Legacy Databases.",
+        "authors": [
+          "Oscar Chaparro",
+          "Jairo Aponte",
+          "Fernando Ortega",
+          "Andrian Marcus"
+        ]
+      },
+      {
+        "title": "Exploring How to Develop Transformations and Tools for Automated Umplification.",
+        "authors": [
+          "Miguel Garzón",
+          "Timothy C. Lethbridge"
+        ]
+      },
+      {
+        "title": "Towards Tracing at the Model Level.",
+        "authors": [
+          "Hamoud Aljamaan",
+          "Timothy C. Lethbridge"
+        ]
+      },
+      {
+        "title": "Automatic C to O-O Translation with C2Eiffel.",
+        "authors": [
+          "Marco Trudel",
+          "Carlo A. Furia",
+          "Martin Nordio"
+        ]
+      },
+      {
+        "title": "Archimetrix: A Tool for Deficiency-Aware Software Architecture Reconstruction.",
+        "authors": [
+          "Markus von Detten"
+        ]
+      },
+      {
+        "title": "ATLANTIS - Assembly Trace Analysis Environment.",
+        "authors": [
+          "Brendan Cleary",
+          "Margaret-Anne D. Storey",
+          "Laura Chan",
+          "Martin Salois",
+          "Frédéric Painchaud"
+        ]
+      },
+      {
+        "title": "OpenTrace: An Open Source Workbench for Automatic Software Traceability Link Recovery.",
+        "authors": [
+          "Elian Angius",
+          "René Witte"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2011.html": {
+    "header": "18th WCRE 2011: Limerick, Ireland",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "Incremental Code Clone Detection: A PDG-based Approach.",
+        "authors": [
+          "Yoshiki Higo",
+          "Yasushi Ueda",
+          "Minoru Nishino",
+          "Shinji Kusumoto"
+        ]
+      },
+      {
+        "title": "On the Effectiveness of Simhash for Detecting Near-Miss Clones in Large Scale Software Systems.",
+        "authors": [
+          "Md. Sharif Uddin",
+          "Chanchal K. Roy",
+          "Kevin A. Schneider",
+          "Abram Hindle"
+        ]
+      },
+      {
+        "title": "Internet-scale Real-time Code Clone Search Via Multi-level Indexing.",
+        "authors": [
+          "Iman Keivanloo",
+          "Juergen Rilling",
+          "Philippe Charland"
+        ]
+      },
+      {
+        "title": "An Investigation into the Impact of Software Licenses on Copy-and-paste Reuse among OSS Projects.",
+        "authors": [
+          "Yu Kashima",
+          "Yasuhiro Hayase",
+          "Norihiro Yoshida",
+          "Yuki Manabe",
+          "Katsuro Inoue"
+        ]
+      },
+      {
+        "title": "Automatic Segmentation of Method Code into Meaningful Blocks to Improve Readability.",
+        "authors": [
+          "Xiaoran Wang",
+          "Lori L. Pollock",
+          "K. Vijay-Shanker"
+        ]
+      },
+      {
+        "title": "Requirements Traceability for Object Oriented Systems by Partitioning Source Code.",
+        "authors": [
+          "Nasir Ali",
+          "Yann-Gaël Guéhéneuc",
+          "Giuliano Antoniol"
+        ]
+      },
+      {
+        "title": "Can We Predict Dependencies Using Domain information?",
+        "authors": [
+          "Amir Aryani",
+          "Fabrizio Perin",
+          "Mircea Lungu",
+          "Abdun Naser Mahmood",
+          "Oscar Nierstrasz"
+        ]
+      },
+      {
+        "title": "Does the Documentation of Design Pattern Instances Impact on Source Code Comprehension? Results from Two Controlled Experiments.",
+        "authors": [
+          "Carmine Gravino",
+          "Michele Risi",
+          "Giuseppe Scanniello",
+          "Genoveffa Tortora"
+        ]
+      },
+      {
+        "title": "Towards the Extraction of Domain Concepts from the Identifiers.",
+        "authors": [
+          "Surafel Lemma Abebe",
+          "Paolo Tonella"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Co-maintenance Relationships Using Conceptual Analysis of Source Code.",
+        "authors": [
+          "Scott Grant",
+          "James R. Cordy",
+          "David B. Skillicorn"
+        ]
+      },
+      {
+        "title": "Concern Localization using Information Retrieval: An Empirical Study on Linux Kernel.",
+        "authors": [
+          "Shaowei Wang",
+          "David Lo",
+          "Zhenchang Xing",
+          "Lingxiao Jiang"
+        ]
+      },
+      {
+        "title": "Locating the Meaning of Terms in Source Code Research on \"Term Introduction\".",
+        "authors": [
+          "Jan Nonnen",
+          "Daniel Speicher",
+          "Paul Imhoff"
+        ]
+      },
+      {
+        "title": "Approximate Code Search in Program Histories.",
+        "authors": [
+          "Saman Bazrafshan",
+          "Rainer Koschke",
+          "Nils Göde"
+        ]
+      },
+      {
+        "title": "Code Search via Topic-Enriched Dependence Graph Matching.",
+        "authors": [
+          "Shaowei Wang",
+          "David Lo",
+          "Lingxiao Jiang"
+        ]
+      },
+      {
+        "title": "Measuring the Accuracy of Information Retrieval Based Bug Localization Techniques.",
+        "authors": [
+          "Matthew D. Beard",
+          "Nicholas A. Kraft",
+          "Letha H. Etzkorn",
+          "Stacy K. Lukins"
+        ]
+      },
+      {
+        "title": "Exploring the Intent behind API Evolution: A Case Study.",
+        "authors": [
+          "Daqing Hou",
+          "Xiaojia Yao"
+        ]
+      },
+      {
+        "title": "A Framework Profile of .NET.",
+        "authors": [
+          "Ralf Lämmel",
+          "Rufus Linke",
+          "Ekaterina Pek",
+          "Andrei Varanovich"
+        ]
+      },
+      {
+        "title": "Useful, But Usable? Factors Affecting the Usability of APIs.",
+        "authors": [
+          "Minhaz F. Zibran",
+          "Farjana Z. Eishita",
+          "Chanchal K. Roy"
+        ]
+      },
+      {
+        "title": "Automatic Extraction of Secrets from Malware.",
+        "authors": [
+          "Ziming Zhao",
+          "Gail-Joon Ahn",
+          "Hongxin Hu"
+        ]
+      },
+      {
+        "title": "Reverse Engineering of Protocols from Network Traces.",
+        "authors": [
+          "João Antunes",
+          "Nuno Ferreira Neves",
+          "Paulo Veríssimo"
+        ]
+      },
+      {
+        "title": "An Android Security Case Study with Bauhaus.",
+        "authors": [
+          "Bernhard J. Berger",
+          "Michaela Bunke",
+          "Karsten Sohr"
+        ]
+      },
+      {
+        "title": "An Exploratory Study of Software Reverse Engineering in a Security Context.",
+        "authors": [
+          "Christoph Treude",
+          "Fernando Marques Figueira Filho",
+          "Margaret-Anne D. Storey",
+          "Martin Salois"
+        ]
+      },
+      {
+        "title": "How Long Does a Bug Survive? An Empirical Study.",
+        "authors": [
+          "Gerardo Canfora",
+          "Michele Ceccarelli",
+          "Luigi Cerulo",
+          "Massimiliano Di Penta"
+        ]
+      },
+      {
+        "title": "A Preliminary Evaluation of Text-based and Dependency-based Techniques for Determining the Origins of Bugs.",
+        "authors": [
+          "Steven Davies",
+          "Marc Roper",
+          "Murray Wood"
+        ]
+      },
+      {
+        "title": "Got Issues? Do New Features and Code Improvements Affect Defects?",
+        "authors": [
+          "Daryl Posnett",
+          "Abram Hindle",
+          "Premkumar T. Devanbu"
+        ]
+      },
+      {
+        "title": "Impact of Installation Counts on Perceived Quality: A Case Study on Debian.",
+        "authors": [
+          "Israel Herraiz",
+          "Emad Shihab",
+          "Thanh H. D. Nguyen",
+          "Ahmed E. Hassan"
+        ]
+      },
+      {
+        "title": "Monitoring Software Quality Evolution by Analyzing Deviation Trends of Modularity Views.",
+        "authors": [
+          "Tianmei Zhu",
+          "Yijian Wu",
+          "Xin Peng",
+          "Zhenchang Xing",
+          "Wenyun Zhao"
+        ]
+      },
+      {
+        "title": "An Empirical Validation of the Benefits of Adhering to the Law of Demeter.",
+        "authors": [
+          "Yi Guo",
+          "Michael Würsch",
+          "Emanuel Giger",
+          "Harald C. Gall"
+        ]
+      },
+      {
+        "title": "Assessing Software Quality by Program Clustering and Defect Prediction.",
+        "authors": [
+          "Xi Tan",
+          "Xin Peng",
+          "Sen Pan",
+          "Wenyun Zhao"
+        ]
+      },
+      {
+        "title": "Object-Based Dynamic Protocol Recovery for Multi-Threading Programs.",
+        "authors": [
+          "Bernhard Scholz",
+          "Rainer Koschke"
+        ]
+      },
+      {
+        "title": "An Entropy Evaluation Approach for Triaging Field Crashes: A Case Study of Mozilla Firefox.",
+        "authors": [
+          "Foutse Khomh",
+          "Brian Chan",
+          "Ying Zou",
+          "Ahmed E. Hassan"
+        ]
+      },
+      {
+        "title": "Meta-Level Runtime Feature Awareness for Java.",
+        "authors": [
+          "Andrzej Olszak",
+          "Martin Rytter",
+          "Bo Nørregaard Jørgensen"
+        ]
+      },
+      {
+        "title": "Using Dynamic Analysis and Clustering for Implementing Services by Reusing Legacy Code.",
+        "authors": [
+          "Andreas Fuhr",
+          "Tassilo Horn",
+          "Volker Riediger"
+        ]
+      },
+      {
+        "title": "Reverse Engineering of Mobile Application Lifecycles.",
+        "authors": [
+          "Dominik Franke",
+          "Corinna Elsemann",
+          "Stefan Kowalewski",
+          "Carsten Weise"
+        ]
+      },
+      {
+        "title": "Reverse Engineering of Event Handlers of RAD-Based Applications.",
+        "authors": [
+          "Óscar Sánchez Ramón",
+          "Jesús Sánchez Cuadrado",
+          "Jesús García Molina"
+        ]
+      },
+      {
+        "title": "Analyzing the Source Code of Multiple Software Variants for Reuse Potential.",
+        "authors": [
+          "Slawomir Duszynski",
+          "Jens Knodel",
+          "Martin Becker"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Feature Models from Programs' Feature Sets.",
+        "authors": [
+          "Evelyn Nicole Haslinger",
+          "Roberto E. Lopez-Herrejon",
+          "Alexander Egyed"
+        ]
+      },
+      {
+        "title": "Make it or Break it: Mining Anomalies from Linux Kbuild.",
+        "authors": [
+          "Sarah Nadi",
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "An Exploratory Study of Macro Co-changes.",
+        "authors": [
+          "Fehmi Jaafar",
+          "Yann-Gaël Guéhéneuc",
+          "Sylvie Hamel",
+          "Giuliano Antoniol"
+        ]
+      },
+      {
+        "title": "An Exploratory Study of the Evolution of Communicated Information about the Execution of Large Software Systems.",
+        "authors": [
+          "Weiyi Shang",
+          "Zhen Ming Jiang",
+          "Bram Adams",
+          "Ahmed E. Hassan",
+          "Michael W. Godfrey",
+          "Mohamed N. Nasser",
+          "Parminder Flora"
+        ]
+      },
+      {
+        "title": "SmartDec: Approaching C++ Decompilation.",
+        "authors": [
+          "Alexander Fokin",
+          "Egor Derevenetc",
+          "Alexander Chernov",
+          "Katerina Troshina"
+        ]
+      },
+      {
+        "title": "Precise Static Analysis of Binaries by Extracting Relational Information.",
+        "authors": [
+          "Alexander Sepp",
+          "Bogdan Mihaila",
+          "Axel Simon"
+        ]
+      },
+      {
+        "title": "Refactoring Traditional Forms into Ajax-enabled Forms.",
+        "authors": [
+          "Ming Ying",
+          "James Miller"
+        ]
+      },
+      {
+        "title": "An Empirical Study of Refactoring in the Context of FanIn and FanOut Coupling.",
+        "authors": [
+          "Alessandro Murgia",
+          "Roberto Tonelli",
+          "Steve Counsell",
+          "Giulio Concas",
+          "Michele Marchesi"
+        ]
+      },
+      {
+        "title": "Recommending People in Developers' Collaboration Network.",
+        "authors": [
+          "Didi Surian",
+          "Nian Liu",
+          "David Lo",
+          "Hanghang Tong",
+          "Ee-Peng Lim",
+          "Christos Faloutsos"
+        ]
+      },
+      {
+        "title": "Reasoning over the Evolution of Source Code Using Quantified Regular Path Expressions.",
+        "authors": [
+          "Andy Kellens",
+          "Coen De Roover",
+          "Carlos Noguera",
+          "Reinout Stevens",
+          "Viviane Jonckers"
+        ]
+      },
+      {
+        "title": "Modularization Metrics: Assessing Package Organization in Legacy Large Object-Oriented Software.",
+        "authors": [
+          "Hani Abdeen",
+          "Stéphane Ducasse",
+          "Houari A. Sahraoui"
+        ]
+      },
+      {
+        "title": "Application Architecture Discovery - Towards Domain-driven, Easily-Extensible Code Structure.",
+        "authors": [
+          "Hitesh Sajnani",
+          "Ravindra Naik",
+          "Cristina Videira Lopes"
+        ]
+      },
+      {
+        "title": "Renovation by Machine-Assisted Program Transformation in Production Reporting and Integration.",
+        "authors": [
+          "Sava Mintchev"
+        ]
+      },
+      {
+        "title": "Reconstructing Traceability between Bugs and Test Cases: An Experimental Study.",
+        "authors": [
+          "Nilam Kaushik",
+          "Ladan Tahvildari",
+          "Mark Moore"
+        ]
+      },
+      {
+        "title": "Recovering Test-to-Code Traceability Via Slicing and Conceptual Coupling.",
+        "authors": [
+          "Abdallah Qusef"
+        ]
+      },
+      {
+        "title": "In-Memory Database Support for Source Code Search and Analytics.",
+        "authors": [
+          "Oleksandr Panchenko"
+        ]
+      },
+      {
+        "title": "Extending Bug Localization Using Information Retrieval and Code Clone Location Techniques.",
+        "authors": [
+          "Matthew D. Beard"
+        ]
+      },
+      {
+        "title": "Stealthy Profiling and Debugging of Malware Trampolining from User to Kernel Space.",
+        "authors": [
+          "Jason Raber"
+        ]
+      },
+      {
+        "title": "Function Insight: Highlighting Suspicious Sections in Binary Run Traces.",
+        "authors": [
+          "Michelle Cheatham",
+          "Jason Raber"
+        ]
+      },
+      {
+        "title": "Understanding Legacy Features with Featureous.",
+        "authors": [
+          "Andrzej Olszak",
+          "Bo Nørregaard Jørgensen"
+        ]
+      },
+      {
+        "title": "iProblems - An Integrated Instrument for Reporting Design Flaws, Vulnerabilities and Defects.",
+        "authors": [
+          "Mihai Codoban",
+          "Cristina Marinescu",
+          "Radu Marinescu"
+        ]
+      },
+      {
+        "title": "Focusing on Execution Traces Using Diver.",
+        "authors": [
+          "Del Myers",
+          "Margaret-Anne D. Storey"
+        ]
+      },
+      {
+        "title": "jPET: An Automatic Test-Case Generator for Java.",
+        "authors": [
+          "Elvira Albert",
+          "Israel Cabanas",
+          "Antonio Flores-Montoya",
+          "Miguel Gómez-Zamalloa",
+          "Sergio Gutierrez"
+        ]
+      },
+      {
+        "title": "SCOTCH: Slicing and Coupling Based Test to Code Trace Hunter.",
+        "authors": [
+          "Abdallah Qusef",
+          "Gabriele Bavota",
+          "Rocco Oliveto",
+          "Andrea De Lucia",
+          "David W. Binkley"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2010.html": {
+    "header": "17th WCRE 2010: Beverly, MA, USA",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Normalizing Source Code Vocabulary.",
+        "authors": [
+          "Dawn J. Lawrie",
+          "David W. Binkley",
+          "Christopher Morrell"
+        ]
+      },
+      {
+        "title": "Studying the Impact of Clones on Software Defects.",
+        "authors": [
+          "Gehan M. K. Selim",
+          "Liliane Barbour",
+          "Weiyi Shang",
+          "Bram Adams",
+          "Ahmed E. Hassan",
+          "Ying Zou"
+        ]
+      },
+      {
+        "title": "Mining Source Code for Structural Regularities.",
+        "authors": [
+          "Angela Lozano",
+          "Andy Kellens",
+          "Kim Mens",
+          "Gabriela Arévalo"
+        ]
+      },
+      {
+        "title": "On the Use of Automated Text Summarization Techniques for Summarizing Source Code.",
+        "authors": [
+          "Sonia Haiduc",
+          "Jairo Aponte",
+          "Laura Moreno",
+          "Andrian Marcus"
+        ]
+      },
+      {
+        "title": "Static Analysis for Understanding Shared Objects in Open Concurrent Java Programs.",
+        "authors": [
+          "Ana L. Milanova",
+          "Yin Liu"
+        ]
+      },
+      {
+        "title": "Visually Supporting Source Code Changes Integration: The Torch Dashboard.",
+        "authors": [
+          "Verónica Uquillas Gómez",
+          "Stéphane Ducasse",
+          "Theo D'Hondt"
+        ]
+      },
+      {
+        "title": "Understanding Plug-in Test Suites from an Extensibility Perspective.",
+        "authors": [
+          "Michaela Greiler",
+          "Hans-Gerhard Groß",
+          "Arie van Deursen"
+        ]
+      },
+      {
+        "title": "Immediacy through Interactivity: Online Analysis of Run-time Behavior.",
+        "authors": [
+          "Michael Perscheid",
+          "Bastian Steinert",
+          "Robert Hirschfeld",
+          "Felix Geller",
+          "Michael Haupt"
+        ]
+      },
+      {
+        "title": "Extracting Sequence Diagrams from Execution Traces Using Interactive Visualization.",
+        "authors": [
+          "Hassen Grati",
+          "Houari A. Sahraoui",
+          "Pierre Poulin"
+        ]
+      },
+      {
+        "title": "Evaluating the Impact of Software Evolution on Software Clustering.",
+        "authors": [
+          "Fabian Beck",
+          "Stephan Diehl"
+        ]
+      },
+      {
+        "title": "Understanding Feature Evolution in a Family of Product Variants.",
+        "authors": [
+          "Yinxing Xue",
+          "Zhenchang Xing",
+          "Stan Jarzabek"
+        ]
+      },
+      {
+        "title": "Blending Conceptual and Evolutionary Couplings to Support Change Impact Analysis in Source Code.",
+        "authors": [
+          "Huzefa H. Kagdi",
+          "Malcom Gethers",
+          "Denys Poshyvanyk",
+          "Michael L. Collard"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Self-Modifying Code: Unpacker Extraction.",
+        "authors": [
+          "Saumya K. Debray",
+          "Jay Patel"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Utility Functions Using Genetic Programming to Detect Anomalous Behavior in Software.",
+        "authors": [
+          "Sunny Wong",
+          "Melissa Aaron",
+          "Jeffrey Segall",
+          "Kevin Lynch",
+          "Spiros Mancoridis"
+        ]
+      },
+      {
+        "title": "A Refined Decompiler to Generate C Code with High Readability.",
+        "authors": [
+          "Gengbiao Chen",
+          "Zhuo Wang",
+          "Ruoyu Zhang",
+          "Kan Zhou",
+          "Shiqiu Huang",
+          "Kangqi Ni",
+          "Zhengwei Qi",
+          "Kai Chen",
+          "Haibing Guan"
+        ]
+      },
+      {
+        "title": "Heroes in FLOSS Projects: An Explorative Study.",
+        "authors": [
+          "Filippo Ricca",
+          "Alessandro Marchetto"
+        ]
+      },
+      {
+        "title": "Improving Automated Mapping in Reflexion Models Using Information Retrieval Techniques.",
+        "authors": [
+          "Roberto Almeida Bittencourt",
+          "Gustavo Jansen de Souza Santos",
+          "Dalton Dario Serey Guerrero",
+          "Gail C. Murphy"
+        ]
+      },
+      {
+        "title": "Architectural Analysis of Systems Based on the Publisher-Subscriber Style.",
+        "authors": [
+          "Dharmalingam Ganesan",
+          "Mikael Lindvall",
+          "Lamont Ruley",
+          "Robert Wiegand",
+          "Vuong Ly",
+          "Tina Tsui"
+        ]
+      },
+      {
+        "title": "Computer-Aided Extraction of Software Components.",
+        "authors": [
+          "Andreas Marx",
+          "Fabian Beck",
+          "Stephan Diehl"
+        ]
+      },
+      {
+        "title": "Software Re-Modularization Based on Structural and Semantic Metrics.",
+        "authors": [
+          "Gabriele Bavota",
+          "Andrea De Lucia",
+          "Andrian Marcus",
+          "Rocco Oliveto"
+        ]
+      },
+      {
+        "title": "An Abstraction-Oriented, Path-Based Approach for Analyzing Object Equality in Java.",
+        "authors": [
+          "Chandan Raj Rupakheti",
+          "Daqing Hou"
+        ]
+      },
+      {
+        "title": "Identification of REST-like Resources from Legacy Service Descriptions.",
+        "authors": [
+          "Michael Athanasopoulos",
+          "Kostas Kontogiannis"
+        ]
+      },
+      {
+        "title": "Umplification: Refactoring to Incrementally Add Abstraction to a Program.",
+        "authors": [
+          "Timothy C. Lethbridge",
+          "Andrew Forward",
+          "Omar Bahy Badreddin"
+        ]
+      },
+      {
+        "title": "Enhancing Source-Based Clone Detection Using Intermediate Representation.",
+        "authors": [
+          "Gehan M. K. Selim",
+          "King Chun Foo",
+          "Ying Zou"
+        ]
+      },
+      {
+        "title": "Highly Configurable and Extensible Code Clone Detection.",
+        "authors": [
+          "Benjamin Biegel",
+          "Stephan Diehl"
+        ]
+      },
+      {
+        "title": "From Whence It Came: Detecting Source Code Clones by Analyzing Assembler.",
+        "authors": [
+          "Ian J. Davis",
+          "Michael W. Godfrey"
+        ]
+      },
+      {
+        "title": "Predicting Re-opened Bugs: A Case Study on the Eclipse Project.",
+        "authors": [
+          "Emad Shihab",
+          "Akinori Ihara",
+          "Yasutaka Kamei",
+          "Walid M. Ibrahim",
+          "Masao Ohira",
+          "Bram Adams",
+          "Ahmed E. Hassan",
+          "Ken-ichi Matsumoto"
+        ]
+      },
+      {
+        "title": "A Case Study of Bias in Bug-Fix Datasets.",
+        "authors": [
+          "Thanh H. D. Nguyen",
+          "Bram Adams",
+          "Ahmed E. Hassan"
+        ]
+      },
+      {
+        "title": "Mining Collaboration Patterns from a Large Developer Network.",
+        "authors": [
+          "Didi Surian",
+          "David Lo",
+          "Ee-Peng Lim"
+        ]
+      },
+      {
+        "title": "Workshop on Mining Unstructured Data (MUD) because \"Mining Unstructured Data is Like Fishing in Muddy Waters\"!",
+        "authors": [
+          "Nicolas Bettenburg",
+          "Bram Adams"
+        ]
+      },
+      {
+        "title": "Workshop on Program Comprehension through Dynamic Analysis (PCODA10).",
+        "authors": [
+          "Abdelwahab Hamou-Lhadj",
+          "David Röthlisberger",
+          "Andy Zaidman",
+          "Orla Greevy"
+        ]
+      },
+      {
+        "title": "International Workshop on Processes for Software Evolution and Maintenance (WoSEMP 2010).",
+        "authors": [
+          "Mira Kajko-Mattsson",
+          "Alain April"
+        ]
+      },
+      {
+        "title": "Improving Source Code Quality through the Definition of Linguistic Antipatterns.",
+        "authors": [
+          "Venera Arnaoudova"
+        ]
+      },
+      {
+        "title": "Conformance Checking during Software Evolution.",
+        "authors": [
+          "Roberto Almeida Bittencourt"
+        ]
+      },
+      {
+        "title": "Multi-Language and Heterogeneously-licensed Software Analysis.",
+        "authors": [
+          "Ferdaous Boughanmi"
+        ]
+      },
+      {
+        "title": "Linguistic Driven Refactoring of Source Code Identifiers.",
+        "authors": [
+          "Laleh Mousavi Eshkevari"
+        ]
+      },
+      {
+        "title": "Automatic Derivation of Concepts Based on the Analysis of Source Code Identifiers.",
+        "authors": [
+          "Latifa Guerrouj"
+        ]
+      },
+      {
+        "title": "Software Process Recovery: Recovering Process from Artifacts.",
+        "authors": [
+          "Abram Hindle"
+        ]
+      },
+      {
+        "title": "Improving System Testability and Testing with Microarchitectures.",
+        "authors": [
+          "Aminata Sabané"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/famoosr/famoosr2009.html": {
+    "header": "3rd FAMOOSr@WCRE 2009: Lille, France",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Identifying Cycle Causes With CycleTable.",
+        "authors": [
+          "Jannik Laval",
+          "Simon Denier",
+          "Stéphane Ducasse"
+        ]
+      },
+      {
+        "title": "Lumière: An Infrastructure for Producing 3D Applications in Smalltalk.",
+        "authors": [
+          "Fernando Olivero",
+          "Michele Lanza",
+          "Romain Robbes"
+        ]
+      },
+      {
+        "title": "Miler - A Tool Infrastructure to Analyze Mailing Lists.",
+        "authors": [
+          "Alberto Bacchelli",
+          "Michele Lanza",
+          "Marco D'Ambros"
+        ]
+      },
+      {
+        "title": "Challenges for Domain Knowledge Driven Program Analysis.",
+        "authors": [
+          "Daniel Ratiu"
+        ]
+      },
+      {
+        "title": "Driving the refactoring of Java Enterprise Applications by evaluating the distance between application elements.",
+        "authors": [
+          "Fabrizio Perin"
+        ]
+      },
+      {
+        "title": "Why and How to Substantiate the Good of our Reverse Engineering Tools?",
+        "authors": [
+          "David Röthlisberger"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2009.html": {
+    "header": "16th WCRE 2009: Lille, France",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Beyond the Lone Reverse Engineer: Insourcing, Outsourcing and Crowdsourcing.",
+        "authors": [
+          "Margaret-Anne D. Storey"
+        ]
+      },
+      {
+        "title": "Legacy and Future of Data Reverse Engineering.",
+        "authors": [
+          "Jean-Luc Hainaut"
+        ]
+      },
+      {
+        "title": "Ten Years Later, Experiments with Clustering as a Software Remodularization Method.",
+        "authors": [
+          "Nicolas Anquetil",
+          "Timothy C. Lethbridge"
+        ]
+      },
+      {
+        "title": "Who are Source Code Contributors and How do they Change?",
+        "authors": [
+          "Massimiliano Di Penta",
+          "Daniel M. Germán"
+        ]
+      },
+      {
+        "title": "A Study of the Time Dependence of Code Changes.",
+        "authors": [
+          "Omar Alam",
+          "Bram Adams",
+          "Ahmed E. Hassan"
+        ]
+      },
+      {
+        "title": "Relating Identifier Naming Flaws and Code Quality: An Empirical Study.",
+        "authors": [
+          "Simon Butler",
+          "Michel Wermelinger",
+          "Yijun Yu",
+          "Helen Sharp"
+        ]
+      },
+      {
+        "title": "Techniques for Identifying the Country Origin of Mailing List Participants.",
+        "authors": [
+          "Ran Tang",
+          "Ahmed E. Hassan",
+          "Ying Zou"
+        ]
+      },
+      {
+        "title": "NTrace: Function Boundary Tracing for Windows on IA-32.",
+        "authors": [
+          "Johannes Passing",
+          "Alexander Schmidt",
+          "Martin von Löwis",
+          "Andreas Polze"
+        ]
+      },
+      {
+        "title": "Recovering Views of Inter-System Interaction Behaviors.",
+        "authors": [
+          "Christopher Ackermann",
+          "Mikael Lindvall",
+          "Rance Cleaveland"
+        ]
+      },
+      {
+        "title": "Mining Quantified Temporal Rules: Formalism, Algorithms, and Evaluation.",
+        "authors": [
+          "David Lo",
+          "Ganesan Ramalingam",
+          "Venkatesh Prasad Ranganath",
+          "Kapil Vaswani"
+        ]
+      },
+      {
+        "title": "An Exploratory Study of the Impact of Code Smells on Software Change-proneness.",
+        "authors": [
+          "Foutse Khomh",
+          "Massimiliano Di Penta",
+          "Yann-Gaël Guéhéneuc"
+        ]
+      },
+      {
+        "title": "An Empirical Study on Inconsistent Changes to Code Clones at Release Level.",
+        "authors": [
+          "Nicolas Bettenburg",
+          "Weiyi Shang",
+          "Walid M. Ibrahim",
+          "Bram Adams",
+          "Ying Zou",
+          "Ahmed E. Hassan"
+        ]
+      },
+      {
+        "title": "Lexicon Bad Smells in Software.",
+        "authors": [
+          "Surafel Lemma Abebe",
+          "Sonia Haiduc",
+          "Paolo Tonella",
+          "Andrian Marcus"
+        ]
+      },
+      {
+        "title": "Automatic Package Coupling and Cycle Minimization.",
+        "authors": [
+          "Hani Abdeen",
+          "Stéphane Ducasse",
+          "Houari A. Sahraoui",
+          "Ilham Alloui"
+        ]
+      },
+      {
+        "title": "Identifying Cycle Causes with Enriched Dependency Structural Matrix.",
+        "authors": [
+          "Jannik Laval",
+          "Simon Denier",
+          "Stéphane Ducasse",
+          "Alexandre Bergel"
+        ]
+      },
+      {
+        "title": "The Logical Modularity of Programs.",
+        "authors": [
+          "Daniel Ratiu",
+          "Radu Marinescu",
+          "Jan Jürjens"
+        ]
+      },
+      {
+        "title": "On the Use of ADM to Contextualize Data on Legacy Source Code for Software Modernization.",
+        "authors": [
+          "Ricardo Pérez-Castillo",
+          "Ignacio García Rodríguez de Guzmán",
+          "Orlando Avila-García",
+          "Mario Piattini"
+        ]
+      },
+      {
+        "title": "On the Relationship Between Change Coupling and Software Defects.",
+        "authors": [
+          "Marco D'Ambros",
+          "Michele Lanza",
+          "Romain Robbes"
+        ]
+      },
+      {
+        "title": "Tracking Design Smells: Lessons from a Study of God Classes.",
+        "authors": [
+          "Stéphane Vaucher",
+          "Foutse Khomh",
+          "Naouel Moha",
+          "Yann-Gaël Guéhéneuc"
+        ]
+      },
+      {
+        "title": "Bug-Inducing Language Constructs.",
+        "authors": [
+          "Javed Ferzund",
+          "Syed Nadeem Ahsan",
+          "Franz Wotawa"
+        ]
+      },
+      {
+        "title": "Design Patterns and Change Proneness: A Replication Using Proprietary C# Software.",
+        "authors": [
+          "Matt Gatrell",
+          "Steve Counsell",
+          "Tracy Hall"
+        ]
+      },
+      {
+        "title": "Automatic Static Unpacking of Malware Binaries.",
+        "authors": [
+          "Kevin Coogan",
+          "Saumya K. Debray",
+          "Tasneem Kaochar",
+          "Gregg M. Townsend"
+        ]
+      },
+      {
+        "title": "Computing the Structural Difference between State-Based Models.",
+        "authors": [
+          "Kirill Bogdanov",
+          "Neil Walkinshaw"
+        ]
+      },
+      {
+        "title": "Extraction of Inter-procedural Simple Role Privilege Models from PHP Code.",
+        "authors": [
+          "Dominic Letarte",
+          "Ettore Merlo"
+        ]
+      },
+      {
+        "title": "Traceability Recovery Using Numerical Analysis.",
+        "authors": [
+          "Giovanni Capobianco",
+          "Andrea De Lucia",
+          "Rocco Oliveto",
+          "Annibale Panichella",
+          "Sebastiano Panichella"
+        ]
+      },
+      {
+        "title": "Benchmarking Lightweight Techniques to Link E-Mails and Source Code.",
+        "authors": [
+          "Alberto Bacchelli",
+          "Marco D'Ambros",
+          "Michele Lanza",
+          "Romain Robbes"
+        ]
+      },
+      {
+        "title": "Domain Feature Model Recovery from Multiple Applications Using Data Access Semantics and Formal Concept Analysis.",
+        "authors": [
+          "Yiming Yang",
+          "Xin Peng",
+          "Wenyun Zhao"
+        ]
+      },
+      {
+        "title": "Characterizing Evolutionary Clusters.",
+        "authors": [
+          "Adam Vanya",
+          "Steven Klusener",
+          "Nico van Rooijen",
+          "Hans van Vliet"
+        ]
+      },
+      {
+        "title": "Autumn Leaves: Curing the Window Plague in IDEs.",
+        "authors": [
+          "David Röthlisberger",
+          "Oscar Nierstrasz",
+          "Stéphane Ducasse"
+        ]
+      },
+      {
+        "title": "Constructing a Resource Usage View of a Large and Complex Software-Intensive System.",
+        "authors": [
+          "Trosky Boris Callo Arias",
+          "Pierre America",
+          "Paris Avgeriou"
+        ]
+      },
+      {
+        "title": "Static Detection of Disassembly Errors.",
+        "authors": [
+          "Nithya Krishnamoorthy",
+          "Saumya K. Debray",
+          "Keith Fligg"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Sequence Diagrams for Enterprise JavaBeans with Business Method Interceptors.",
+        "authors": [
+          "Alexander Serebrenik",
+          "Serguei A. Roubtsov",
+          "Ella E. Roubtsova",
+          "Mark van den Brand"
+        ]
+      },
+      {
+        "title": "Computing Structural Types of Clone Syntactic Blocks.",
+        "authors": [
+          "Ettore Merlo",
+          "Thierry Lavoie"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Existing Web Service Applications.",
+        "authors": [
+          "Houda El Bouhissi",
+          "Mimoun Malki"
+        ]
+      },
+      {
+        "title": "Supporting Feature-Level Software Maintenance.",
+        "authors": [
+          "Meghan Revelle"
+        ]
+      },
+      {
+        "title": "Enabling the Evolution of J2EE Applications through Reverse Engineering and Quality Assurance.",
+        "authors": [
+          "Fabrizio Perin"
+        ]
+      },
+      {
+        "title": "Approximate Graph Matching in Software Engineering.",
+        "authors": [
+          "Segla Kpodjedo"
+        ]
+      },
+      {
+        "title": "Evolving Software Systems Towards Adaptability.",
+        "authors": [
+          "Mehdi Amoui"
+        ]
+      },
+      {
+        "title": "SQUAD: Software Quality Understanding through the Analysis of Design.",
+        "authors": [
+          "Foutse Khomh"
+        ]
+      },
+      {
+        "title": "PRECISO: A Reverse Engineering Tool to Discover Web Services from Relational Databases.",
+        "authors": [
+          "Ricardo Pérez-Castillo",
+          "Ignacio García Rodríguez de Guzmán",
+          "Ismael Caballero",
+          "Macario Polo",
+          "Mario Piattini"
+        ]
+      },
+      {
+        "title": "Recovering Class Models Stereotyped with Crosscutting Concerns.",
+        "authors": [
+          "Heitor Augustus Xavier Costa",
+          "Paulo Afonso Parreira Júnior",
+          "Valter Vieira de Camargo",
+          "Rosângela Aparecida Dellosso Penteado"
+        ]
+      },
+      {
+        "title": "SHINOBI: A Tool for Automatic Code Clone Detection in the IDE.",
+        "authors": [
+          "Shinji Kawaguchi",
+          "Takanobu Yamashina",
+          "Hidetake Uwano",
+          "Kyohei Fushida",
+          "Yasutaka Kamei",
+          "Masataka Nagura",
+          "Hajimu Iida"
+        ]
+      },
+      {
+        "title": "Enhancing Quality of Code Clone Detection with Program Dependency Graph.",
+        "authors": [
+          "Yoshiki Higo",
+          "Shinji Kusumoto"
+        ]
+      },
+      {
+        "title": "JavaCompExt: Extracting Architectural Elements from Java Source Code.",
+        "authors": [
+          "Nicolas Anquetil",
+          "Jean-Claude Royer",
+          "Pascal André",
+          "Gilles Ardourel",
+          "Petr Hnetynka",
+          "Tomás Poch",
+          "Dragos Petrascu",
+          "Vladiela Petrascu"
+        ]
+      },
+      {
+        "title": "ConAn: A Tool for the Identification of Crosscutting Concerns in Object Oriented Systems Based on Type Hierarchy Analysis.",
+        "authors": [
+          "Mario Luca Bernardi",
+          "Giuseppe A. Di Lucca"
+        ]
+      },
+      {
+        "title": "REM 2009 - International Workshop on Reverse Engineering Models from Software Artifacts.",
+        "authors": [
+          "Leon Moonen",
+          "Tarja Systä"
+        ]
+      },
+      {
+        "title": "FAMOOSr 2009 - Workshop on FAMIX and Moose in Software Reengineering.",
+        "authors": [
+          "Simon Denier",
+          "Tudor Gîrba"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2008.html": {
+    "header": "15th WCRE 2008: Antwerp, Belgium",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Of Changes and their History: Some Ideas for Future IDEs.",
+        "authors": [
+          "Harald C. Gall"
+        ]
+      },
+      {
+        "title": "Reverse Engineering the Bazaar: Collaboration and Communication in Open Source Development.",
+        "authors": [
+          "Premkumar T. Devanbu"
+        ]
+      },
+      {
+        "title": "WCRE 1998 Most Influential Paper: Grokking Software Architecture.",
+        "authors": [
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "Retrieving Task-Related Clusters from Change History.",
+        "authors": [
+          "Martin P. Robillard",
+          "Barthélémy Dagenais"
+        ]
+      },
+      {
+        "title": "A Bayesian Network Based Approach for Change Coupling Prediction.",
+        "authors": [
+          "Yu Zhou",
+          "Michael Würsch",
+          "Emanuel Giger",
+          "Harald C. Gall",
+          "Jian Lu"
+        ]
+      },
+      {
+        "title": "Discovering New Change Patterns in Object-Oriented Systems.",
+        "authors": [
+          "Stéphane Vaucher",
+          "Houari A. Sahraoui",
+          "Jean G. Vaucher"
+        ]
+      },
+      {
+        "title": "Logical Coupling Based on Fine-Grained Change Information.",
+        "authors": [
+          "Romain Robbes",
+          "Damien Pollet",
+          "Michele Lanza"
+        ]
+      },
+      {
+        "title": "Analyzing the Actual Execution of a Large Software-Intensive System for Determining Dependencies.",
+        "authors": [
+          "Trosky Boris Callo Arias",
+          "Paris Avgeriou",
+          "Pierre America"
+        ]
+      },
+      {
+        "title": "Reverse Engineering CAPTCHAs.",
+        "authors": [
+          "Abram Hindle",
+          "Michael W. Godfrey",
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Finite State Machines from Rich Internet Applications.",
+        "authors": [
+          "Domenico Amalfitano",
+          "Anna Rita Fasolino",
+          "Porfirio Tramontana"
+        ]
+      },
+      {
+        "title": "Representing and Integrating Dynamic Collaborations in IDEs.",
+        "authors": [
+          "David Röthlisberger",
+          "Orla Greevy"
+        ]
+      },
+      {
+        "title": "An Empirical Study of Function Clones in Open Source Software.",
+        "authors": [
+          "Chanchal Kumar Roy",
+          "James R. Cordy"
+        ]
+      },
+      {
+        "title": "Detecting Clones in Business Applications.",
+        "authors": [
+          "Jin Guo",
+          "Ying Zou"
+        ]
+      },
+      {
+        "title": "Exploring Regularity in Source Code: Software Science and Zipf's Law.",
+        "authors": [
+          "Hongyu Zhang"
+        ]
+      },
+      {
+        "title": "Pitfalls in Aspect Mining.",
+        "authors": [
+          "Kim Mens",
+          "Andy Kellens",
+          "Jens Krinke"
+        ]
+      },
+      {
+        "title": "Mining Coding Patterns to Detect Crosscutting Concerns in Java Programs.",
+        "authors": [
+          "Takashi Ishio",
+          "Hironori Date",
+          "Tatsuya Miyake",
+          "Katsuro Inoue"
+        ]
+      },
+      {
+        "title": "A Hybrid Query Engine for the Structural Analysis of Java and AspectJ Programs.",
+        "authors": [
+          "Hamoun Ghanbari",
+          "Constantinos Constantinides",
+          "Venera Arnaoudova"
+        ]
+      },
+      {
+        "title": "Automated Concept Location Using Independent Component Analysis.",
+        "authors": [
+          "Scott Grant",
+          "James R. Cordy",
+          "David B. Skillicorn"
+        ]
+      },
+      {
+        "title": "Integrative Levels of Program Comprehension.",
+        "authors": [
+          "Reinhard Schauer",
+          "Rudolf K. Keller"
+        ]
+      },
+      {
+        "title": "Source Code Retrieval for Bug Localization Using Latent Dirichlet Allocation.",
+        "authors": [
+          "Stacy K. Lukins",
+          "Nicholas A. Kraft",
+          "Letha H. Etzkorn"
+        ]
+      },
+      {
+        "title": "PREREQIR: Recovering Pre-Requirements via Cluster Analysis.",
+        "authors": [
+          "Jane Huffman Hayes",
+          "Giuliano Antoniol",
+          "Yann-Gaël Guéhéneuc"
+        ]
+      },
+      {
+        "title": "Data Model Reverse Engineering in Migrating a Legacy System to Java.",
+        "authors": [
+          "Mariano Ceccato",
+          "Thomas Roy Dean",
+          "Paolo Tonella",
+          "Davide Marchignoli"
+        ]
+      },
+      {
+        "title": "SQL2XMI: Reverse Engineering of UML-ER Diagrams from Relational Database Schemas.",
+        "authors": [
+          "Manar H. Alalfi",
+          "James R. Cordy",
+          "Thomas R. Dean"
+        ]
+      },
+      {
+        "title": "Dynamic Analysis of SQL Statements for Data-Intensive Applications Reverse Engineering.",
+        "authors": [
+          "Anthony Cleve",
+          "Jean-Luc Hainaut"
+        ]
+      },
+      {
+        "title": "Generating Version Convertors for Domain-Specific Languages.",
+        "authors": [
+          "Gerardo de Geest",
+          "Sander Vermolen",
+          "Arie van Deursen",
+          "Eelco Visser"
+        ]
+      },
+      {
+        "title": "Automatic Type Reconstruction in Disassembled C Programs.",
+        "authors": [
+          "Katerina Dolgova",
+          "Alexander Chernov"
+        ]
+      },
+      {
+        "title": "Consistent Layout for Thematic Software Maps.",
+        "authors": [
+          "Adrian Kuhn",
+          "Peter Loretan",
+          "Oscar Nierstrasz"
+        ]
+      },
+      {
+        "title": "Visual Exploration of Large-Scale System Evolution.",
+        "authors": [
+          "Richard Wettel",
+          "Michele Lanza"
+        ]
+      },
+      {
+        "title": "Variant Comparison - A Technique for Visualizing Software Variants.",
+        "authors": [
+          "Slawomir Duszynski",
+          "Jens Knodel",
+          "Matthias Naab",
+          "Dirk Hein",
+          "Clemens Schitter"
+        ]
+      },
+      {
+        "title": "Towards a Process for Developing Maintenance Tools in Academia.",
+        "authors": [
+          "Holger M. Kienle",
+          "Hausi A. Müller"
+        ]
+      },
+      {
+        "title": "Analysis of Procedure Splitability.",
+        "authors": [
+          "Tao Jiang",
+          "Mark Harman",
+          "Youssef Hassoun"
+        ]
+      },
+      {
+        "title": "Reconsidering Classes in Procedural Object-Oriented Code.",
+        "authors": [
+          "Muhammad Usman Bhatti",
+          "Stéphane Ducasse",
+          "Marianne Huchard"
+        ]
+      },
+      {
+        "title": "Estimation of Test Code Changes Using Historical Release Data.",
+        "authors": [
+          "Bart Van Rompaey",
+          "Serge Demeyer"
+        ]
+      },
+      {
+        "title": "Diff/TS: A Tool for Fine-Grained Structural Change Analysis.",
+        "authors": [
+          "Masatomo Hashimoto",
+          "Akira Mori"
+        ]
+      },
+      {
+        "title": "Error Correcting Graph Matching Application to Software Evolution.",
+        "authors": [
+          "Segla Kpodjedo",
+          "Filippo Ricca",
+          "Philippe Galinier",
+          "Giuliano Antoniol"
+        ]
+      },
+      {
+        "title": "Benchmarking Technical Quality of Software Products.",
+        "authors": [
+          "José Pedro Correia",
+          "Joost Visser"
+        ]
+      },
+      {
+        "title": "Hard Facts vs Soft Facts.",
+        "authors": [
+          "Darius Blasband"
+        ]
+      },
+      {
+        "title": "Large-Scale Data Reengineering: Return from Experience.",
+        "authors": [
+          "Jean Henrard",
+          "Didier Roland",
+          "Anthony Cleve",
+          "Jean-Luc Hainaut"
+        ]
+      },
+      {
+        "title": "Reverse Engineering in the World of Enterprise SOA.",
+        "authors": [
+          "Joris Van Geet"
+        ]
+      },
+      {
+        "title": "Extending a Model Transformation Language Using Higher Order Transformations.",
+        "authors": [
+          "Olaf Muliawan"
+        ]
+      },
+      {
+        "title": "First-Class Change Objects for Feature-Oriented Programming.",
+        "authors": [
+          "Peter Ebraert"
+        ]
+      },
+      {
+        "title": "Software Language Evolution.",
+        "authors": [
+          "Sander Vermolen"
+        ]
+      },
+      {
+        "title": "Graph-Centric Tools for Understanding the Evolution and Relationships of Software Structures.",
+        "authors": [
+          "Yijun Yu",
+          "Michel Wermelinger"
+        ]
+      },
+      {
+        "title": "Navigating Through the Design of Object-Oriented Programs.",
+        "authors": [
+          "Epameinondas Gasparis",
+          "Jonathan Nicholson",
+          "Amnon H. Eden",
+          "Rick Kazman"
+        ]
+      },
+      {
+        "title": "A Business Process Explorer: Recovering Business Processes from Business Applications.",
+        "authors": [
+          "Jin Guo",
+          "Ying Zou"
+        ]
+      },
+      {
+        "title": "Towards a Benchmark for Evaluating Reverse Engineering Tools.",
+        "authors": [
+          "Lajos Jeno Fülöp",
+          "Péter Hegedüs",
+          "Rudolf Ferenc",
+          "Tibor Gyimóthy"
+        ]
+      },
+      {
+        "title": "A Visual Trace Analysis Tool for Understanding Feature Scattering.",
+        "authors": [
+          "Victor Sobreira",
+          "Marcelo de Almeida Maia"
+        ]
+      },
+      {
+        "title": "The Metric Lens: Visualizing Metrics and Structure on Software Diagrams.",
+        "authors": [
+          "Heorhiy Byelas",
+          "Alexandru C. Telea"
+        ]
+      },
+      {
+        "title": "FAMOOSr 2008: Workshop on FAMIX and Moose in Software Reengineering.",
+        "authors": [
+          "Stéphane Ducasse",
+          "Tudor Gîrba",
+          "Orla Greevy",
+          "Michele Lanza",
+          "Oscar Nierstrasz"
+        ]
+      },
+      {
+        "title": "Workshop on Program Comprehension Through Dynamic Analysis (PCODA'08).",
+        "authors": [
+          "Andy Zaidman",
+          "Abdelwahab Hamou-Lhadj",
+          "Orla Greevy",
+          "David Röthlisberger"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2007.html": {
+    "header": "14th WCRE 2007: Vancouver, BC, Canada",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "The Dark Side of Software Reverse Engineering.",
+        "authors": [
+          "Donald J. Reifer"
+        ]
+      },
+      {
+        "title": "Reengineering Tools: A Perspective from the Trenches.",
+        "authors": [
+          "Ira D. Baxter"
+        ]
+      },
+      {
+        "title": "Interprocedural Static Single Assignment Form.",
+        "authors": [
+          "Stefan Staiger",
+          "Gunther Vogel",
+          "Steffen Keul",
+          "Eduard Wiebe"
+        ]
+      },
+      {
+        "title": "An Automated Approach to Grammar Recovery for a Dialect of the C++ Language.",
+        "authors": [
+          "Edward B. Duffy",
+          "Brian A. Malloy"
+        ]
+      },
+      {
+        "title": "Parametric Process Model Inference.",
+        "authors": [
+          "Saurabh Sinha",
+          "G. Ramalingam",
+          "Raghavan Komondoor"
+        ]
+      },
+      {
+        "title": "Documenting Typical Crosscutting Concerns.",
+        "authors": [
+          "Marius Marin",
+          "Leon Moonen",
+          "Arie van Deursen"
+        ]
+      },
+      {
+        "title": "Temporal Exploration of Software Models: A Tool Feature to Enhance Software Understanding.",
+        "authors": [
+          "Hanna Farah",
+          "Timothy C. Lethbridge"
+        ]
+      },
+      {
+        "title": "Detecting Implied Scenarios from Execution Traces.",
+        "authors": [
+          "Felipe Cantal de Sousa",
+          "Nabor C. Mendonça",
+          "Sebastián Uchitel",
+          "Jeff Kramer"
+        ]
+      },
+      {
+        "title": "Examining the Effects of Global Data Usage on Software Maintainability.",
+        "authors": [
+          "Jason W. A. Selby",
+          "Fraser P. Ruffell",
+          "Mark Giesbrecht",
+          "Michael W. Godfrey"
+        ]
+      },
+      {
+        "title": "Do Code and Comments Co-Evolve? On the Relation between Source Code and Comment Changes.",
+        "authors": [
+          "Beat Fluri",
+          "Michael Würsch",
+          "Harald C. Gall"
+        ]
+      },
+      {
+        "title": "Quality Assessment Based on Attribute Series of Software Evolution.",
+        "authors": [
+          "Jacek Ratzinger",
+          "Harald C. Gall",
+          "Martin Pinzger"
+        ]
+      },
+      {
+        "title": "An ADM Approach to Reengineer Relational Databases towards Web Services.",
+        "authors": [
+          "Ignacio García Rodríguez de Guzmán",
+          "Macario Polo",
+          "Mario Piattini"
+        ]
+      },
+      {
+        "title": "Discovering the Objectual Meaning of Foreign Key Constraints in Enterprise Applications.",
+        "authors": [
+          "Cristina Marinescu"
+        ]
+      },
+      {
+        "title": "Recovering Data Models via Guarded Dependences.",
+        "authors": [
+          "Raghavan Komondoor",
+          "G. Ramalingam"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Super-Repositories.",
+        "authors": [
+          "Mircea Lungu",
+          "Michele Lanza",
+          "Tudor Gîrba",
+          "Reinout Heeck"
+        ]
+      },
+      {
+        "title": "Visualizing Software Architecture Evolution Using Change-Sets.",
+        "authors": [
+          "Andrew McNair",
+          "Daniel M. Germán",
+          "Jens H. Weber-Jahnke"
+        ]
+      },
+      {
+        "title": "A Model to Understand the Building and Running Inter-Dependencies of Software.",
+        "authors": [
+          "Daniel M. Germán",
+          "Jesús M. González-Barahona",
+          "Gregorio Robles"
+        ]
+      },
+      {
+        "title": "Clone Detection via Structural Abstraction.",
+        "authors": [
+          "William S. Evans",
+          "Christopher W. Fraser",
+          "Fei Ma"
+        ]
+      },
+      {
+        "title": "Extending the Reflexion Method for Consolidating Software Variants into Product Lines.",
+        "authors": [
+          "Pierre Frenzel",
+          "Rainer Koschke",
+          "Andreas P. J. Breu",
+          "Karsten Angstmann"
+        ]
+      },
+      {
+        "title": "A Study of Consistent and Inconsistent Changes to Code Clones.",
+        "authors": [
+          "Jens Krinke"
+        ]
+      },
+      {
+        "title": "Swing2Script: Migration of Java-Swing Applications to Ajax Web Applications.",
+        "authors": [
+          "Hani Samir",
+          "Eleni Stroulia",
+          "Amr Kamel"
+        ]
+      },
+      {
+        "title": "Reverse Engineering of Graphical User Interfaces Using Static Analyses.",
+        "authors": [
+          "Stefan Staiger"
+        ]
+      },
+      {
+        "title": "Turning Web Applications into Web Services by Wrapping Techniques.",
+        "authors": [
+          "Giusy Di Lorenzo",
+          "Anna Rita Fasolino",
+          "Lorenzo Melcarne",
+          "Porfirio Tramontana",
+          "Valeria Vittorini"
+        ]
+      },
+      {
+        "title": "Reverse Engineering State Machines by Interactive Grammar Inference.",
+        "authors": [
+          "Neil Walkinshaw",
+          "Kirill Bogdanov",
+          "Mike Holcombe",
+          "Sarah Salahuddin"
+        ]
+      },
+      {
+        "title": "Dynamic Protocol Recovery.",
+        "authors": [
+          "Jochen Quante",
+          "Rainer Koschke"
+        ]
+      },
+      {
+        "title": "A Reverse Engineering Tool for Extracting Protocols of Networked Applications.",
+        "authors": [
+          "Maxim Shevertalov",
+          "Spiros Mancoridis"
+        ]
+      },
+      {
+        "title": "Clustering for Generating Framework Top-Level Views.",
+        "authors": [
+          "Thorsten Schäfer",
+          "Ivica Aracic",
+          "Matthias Merz",
+          "Mira Mezini",
+          "Klaus Ostermann"
+        ]
+      },
+      {
+        "title": "Lossless Comparison of Nested Software Decompositions.",
+        "authors": [
+          "Mark Shtern",
+          "Vassilios Tzerpos"
+        ]
+      },
+      {
+        "title": "An Amalgamated Dynamic and Static Architecture Reconstruction Framework to Control Component Interactions 259.",
+        "authors": [
+          "Kamran Sartipi",
+          "Nima Dezhkam"
+        ]
+      },
+      {
+        "title": "EvoSpaces Visualization Tool: Exploring Software Architecture in 3D.",
+        "authors": [
+          "Sazzadul Alam",
+          "Philippe Dugerdil"
+        ]
+      },
+      {
+        "title": "Emulated Breakpoint Debugger and Data Mining Using Detours.",
+        "authors": [
+          "Jason Raber",
+          "Eric Laspe"
+        ]
+      },
+      {
+        "title": "CocoViz: Supported Cognitive Software Visualization.",
+        "authors": [
+          "Sandro Boccuzzo",
+          "Harald C. Gall"
+        ]
+      },
+      {
+        "title": "Deobfuscator: An Automated Approach to the Identification and Removal of Code Obfuscation.",
+        "authors": [
+          "Jason Raber",
+          "Eric Laspe"
+        ]
+      },
+      {
+        "title": "Reforming Software Design Documentation.",
+        "authors": [
+          "Piotr Kaminski"
+        ]
+      },
+      {
+        "title": "Dynamic Analysis Techniques for the Reconstruction of Architectural Views.",
+        "authors": [
+          "Bas Cornelissen"
+        ]
+      },
+      {
+        "title": "PRESSWEB: A Process to Reengineer Legacy Systems towards Web Services.",
+        "authors": [
+          "Ignacio García Rodríguez de Guzmán"
+        ]
+      },
+      {
+        "title": "Building Reverse Engineering Tools with Software Components: Ten Lessons Learned.",
+        "authors": [
+          "Holger M. Kienle"
+        ]
+      },
+      {
+        "title": "An Experimental Platform for Root Cause Diagnosis Research.",
+        "authors": [
+          "Qin Zhu"
+        ]
+      },
+      {
+        "title": "Intellectual Property for Software (Re-)Engineers and Researchers: A Tutorial.",
+        "authors": [
+          "Daniel M. Germán"
+        ]
+      },
+      {
+        "title": "Workshop on Program Comprehension through Dynamic Analysis (PCODA07).",
+        "authors": [
+          "Abdelwahab Hamou-Lhadj",
+          "Andy Zaidman",
+          "Orla Greevy"
+        ]
+      },
+      {
+        "title": "International Workshop on Code Based Software Security Assessments - CoBaSSA 2007.",
+        "authors": [
+          "Leon Moonen",
+          "Spiros Mancoridis"
+        ]
+      },
+      {
+        "title": "Reverse Engineering for Software Performance Engineering.",
+        "authors": [
+          "Kevin Mobley"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2006.html": {
+    "header": "13th WCRE 2006: Benevento, Italy",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "The Experimental Paradigm in Reverse Engineering: Role, Challenges, and Limitations.",
+        "authors": [
+          "Lionel C. Briand"
+        ]
+      },
+      {
+        "title": "Bits of History, Challenges for the Future and Autonomic Computing Technology.",
+        "authors": [
+          "Hausi A. Müller"
+        ]
+      },
+      {
+        "title": "\"Cloning Considered Harmful\" Considered Harmful.",
+        "authors": [
+          "Cory Kapser",
+          "Michael W. Godfrey"
+        ]
+      },
+      {
+        "title": "A common framework for aspect mining based on crosscutting concern sorts.",
+        "authors": [
+          "Marius Marin",
+          "Leon Moonen",
+          "Arie van Deursen"
+        ]
+      },
+      {
+        "title": "Understanding Software Architectures by Visualization--An Experiment with Graphical Elements.",
+        "authors": [
+          "Jens Knodel",
+          "Dirk Muthig",
+          "Matthias Naab"
+        ]
+      },
+      {
+        "title": "QUARK: Empirical Assessment of Automaton-based Specification Miners.",
+        "authors": [
+          "David Lo",
+          "Siau-Cheng Khoo"
+        ]
+      },
+      {
+        "title": "An Orchestrated Multi-view Software Architecture Reconstruction Environment.",
+        "authors": [
+          "Kamran Sartipi",
+          "Nima Dezhkam",
+          "Hossein Safyallah"
+        ]
+      },
+      {
+        "title": "An Industrial Case Study of Program Artifacts Viewed During Maintenance Tasks.",
+        "authors": [
+          "Lijie Zou",
+          "Michael W. Godfrey"
+        ]
+      },
+      {
+        "title": "How Programs Represent Reality (and how they don't).",
+        "authors": [
+          "Daniel Ratiu",
+          "Florian Deissenboeck"
+        ]
+      },
+      {
+        "title": "On Computing the Canonical Features of Software Systems.",
+        "authors": [
+          "Jay Kothari",
+          "Trip Denton",
+          "Spiros Mancoridis",
+          "Ali Shokoufandeh"
+        ]
+      },
+      {
+        "title": "An Empirical Study of Executable Concept Slice Size.",
+        "authors": [
+          "David W. Binkley",
+          "Nicolas Gold",
+          "Mark Harman",
+          "Zheng Li",
+          "Kiarash Mahdavi"
+        ]
+      },
+      {
+        "title": "A Service-Oriented Componentization Framework for Java Software Systems.",
+        "authors": [
+          "Shimin Li",
+          "Ladan Tahvildari"
+        ]
+      },
+      {
+        "title": "Reverse Engineering of System Interfaces A Report from the Field.",
+        "authors": [
+          "Harry M. Sneed",
+          "Stephan H. Sneed"
+        ]
+      },
+      {
+        "title": "A UML-based Approach for Abstracting Application Interfaces to REST-like Services.",
+        "authors": [
+          "Markku Laitkorpi",
+          "Johannes Koskinen",
+          "Tarja Systä"
+        ]
+      },
+      {
+        "title": "Insider and Ousider Threat-Sensitive SQL Injection Vulnerability Analysis in PHP.",
+        "authors": [
+          "Ettore Merlo",
+          "Dominic Letarte",
+          "Giuliano Antoniol"
+        ]
+      },
+      {
+        "title": "Data Reverse Engineering using System Dependency Graphs.",
+        "authors": [
+          "Anthony Cleve",
+          "Jean Henrard",
+          "Jean-Luc Hainaut"
+        ]
+      },
+      {
+        "title": "Extracting Output Formats from Executables.",
+        "authors": [
+          "Junghee Lim",
+          "Thomas W. Reps",
+          "Ben Liblit"
+        ]
+      },
+      {
+        "title": "EvoGraph: A Lightweight Approach to Evolutionary and Structural Analysis of Large Software Systems.",
+        "authors": [
+          "Michael Fischer",
+          "Harald C. Gall"
+        ]
+      },
+      {
+        "title": "Reverse Engineering with Logical Coupling.",
+        "authors": [
+          "Marco D'Ambros",
+          "Michele Lanza"
+        ]
+      },
+      {
+        "title": "Animated Visualization of Software History using Evolution Storyboards.",
+        "authors": [
+          "Dirk Beyer",
+          "Ahmed E. Hassan"
+        ]
+      },
+      {
+        "title": "Discovering Organizational Aspects from the Source Code History Log during the Product Line Planning Phase--A Case Study.",
+        "authors": [
+          "Dharmalingam Ganesan",
+          "Dirk Muthig",
+          "Jens Knodel",
+          "Kentaro Yoshimura"
+        ]
+      },
+      {
+        "title": "Extracting Change-patterns from CVS Repositories.",
+        "authors": [
+          "Salah Bouktif",
+          "Yann-Gaël Guéhéneuc",
+          "Giuliano Antoniol"
+        ]
+      },
+      {
+        "title": "Visualization of CVS Repository Information.",
+        "authors": [
+          "Xinrong Xie",
+          "Denys Poshyvanyk",
+          "Andrian Marcus"
+        ]
+      },
+      {
+        "title": "Extracting Facts from Perl Code.",
+        "authors": [
+          "Daniel L. Moise",
+          "Kenny Wong"
+        ]
+      },
+      {
+        "title": "Clone Detection Using Abstract Syntax Suffix Trees.",
+        "authors": [
+          "Rainer Koschke",
+          "Raimar Falke",
+          "Pierre Frenzel"
+        ]
+      },
+      {
+        "title": "Refactoring Detection based on UMLDiff Change-Facts Queries.",
+        "authors": [
+          "Zhenchang Xing",
+          "Eleni Stroulia"
+        ]
+      },
+      {
+        "title": "Monitoring Requirements Coverage using Reconstructed Views: An Industrial Case Study.",
+        "authors": [
+          "Marco Lormans",
+          "Hans-Gerhard Groß",
+          "Arie van Deursen",
+          "Rini van Solingen",
+          "André Stehouwer"
+        ]
+      },
+      {
+        "title": "How Outsourcing Affects the Quality of Mission Critical Software.",
+        "authors": [
+          "Andrea Capiluppi",
+          "Jamie Millen",
+          "Cornelia Boldyreff"
+        ]
+      },
+      {
+        "title": "Reverse Engineering in Support of Litigation: Experiences in an Adversarial Environment.",
+        "authors": [
+          "Anthony Cox",
+          "Trevor J. Smedley"
+        ]
+      },
+      {
+        "title": "MELIS: an Eclipse Based Environment for the Migration of Legacy Systems to the Web.",
+        "authors": [
+          "Massimo Colosimo",
+          "Andrea De Lucia",
+          "Giuseppe Scanniello",
+          "Genoveffa Tortora"
+        ]
+      },
+      {
+        "title": "PODoJA: Packaging Optimizer for Downloadable Java Applications.",
+        "authors": [
+          "Thierry Bodhuin"
+        ]
+      },
+      {
+        "title": "CPP2XMI: Reverse Engineering of UML Class, Sequence, and Activity Diagrams from C++ Source Code.",
+        "authors": [
+          "E. Korshunova",
+          "Marija Petkovic",
+          "M. G. J. van den Brand",
+          "Mohammad Reza Mousavi"
+        ]
+      },
+      {
+        "title": "FINT: Tool Support for Aspect Mining.",
+        "authors": [
+          "Marius Marin",
+          "Leon Moonen",
+          "Arie van Deursen"
+        ]
+      },
+      {
+        "title": "On the Use of Process Trails to Understand Software Development.",
+        "authors": [
+          "Luigi Cerulo"
+        ]
+      },
+      {
+        "title": "Pattern-based Reengineering of Software Systems.",
+        "authors": [
+          "Matthias Meyer"
+        ]
+      },
+      {
+        "title": "Concept and implementation of the programming language and translator, for embedded systems, based on machine code decompilation and equivalence between source and executable code.",
+        "authors": [
+          "Samir Ribic"
+        ]
+      },
+      {
+        "title": "Quality Assessment of Enterprise Software Systems.",
+        "authors": [
+          "Cristina Marinescu"
+        ]
+      },
+      {
+        "title": "Code Based Software Security Assessments.",
+        "authors": [
+          "Leon Moonen",
+          "Spiros Mancoridis"
+        ]
+      },
+      {
+        "title": "Empirical Studies in Reverse Engineering.",
+        "authors": [
+          "Marco Torchiano"
+        ]
+      },
+      {
+        "title": "Program COmprehension through Dynamic Analysis.",
+        "authors": [
+          "Andy Zaidman",
+          "Orla Greevy",
+          "Abdelwahab Hamou-Lhadj"
+        ]
+      },
+      {
+        "title": "Design Pattern Detection for Reverse Engineering.",
+        "authors": [
+          "Francesca Arcelli Fontana",
+          "Claudia Raibulet",
+          "Yann-Gaël Guéhéneuc",
+          "Giuliano Antoniol",
+          "Jason McC. Smith"
+        ]
+      },
+      {
+        "title": "Case Studies for Reverse Engineers.",
+        "authors": [
+          "Susan Elliott Sim"
+        ]
+      },
+      {
+        "title": "Workshop Introduction Astrenet Aspect Analysis.",
+        "authors": [
+          "Mark Harman",
+          "Sue Black",
+          "Paolo Tonella"
+        ]
+      },
+      {
+        "title": "An Analysis of the Correctness and Completeness of Aspect Weaving.",
+        "authors": [
+          "Günter Kniesel",
+          "Uwe Bardey"
+        ]
+      },
+      {
+        "title": "Mining Control Flow Graphs for Crosscutting Concerns.",
+        "authors": [
+          "Jens Krinke"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2005.html": {
+    "header": "12th WCRE 2005: Pittsburgh, PA, USA",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "Search-Based Amorphous Slicing.",
+        "authors": [
+          "Deji Fatiregun",
+          "Mark Harman",
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "Reengineering C++ Component Models via Automatic Program Transformation.",
+        "authors": [
+          "Robert L. Akers",
+          "Ira D. Baxter",
+          "Michael Mehlich",
+          "Brian J. Ellis",
+          "Kenn R. Luecke"
+        ]
+      },
+      {
+        "title": "Symbolic Interpretation of Legacy Assembly Language.",
+        "authors": [
+          "Jacques Carette",
+          "Pulak Kumar Chowdhury"
+        ]
+      },
+      {
+        "title": "Enhancing Security Using Legality Assertions.",
+        "authors": [
+          "Lei Wang",
+          "James R. Cordy",
+          "Thomas R. Dean"
+        ]
+      },
+      {
+        "title": "Deobfuscation: Reverse Engineering Obfuscated Code.",
+        "authors": [
+          "Sharath K. Udupa",
+          "Saumya K. Debray",
+          "Matias Madou"
+        ]
+      },
+      {
+        "title": "Architecture Recovery and Abstraction from the Perspective of Processes.",
+        "authors": [
+          "Qingshan Li",
+          "Hua Chu",
+          "Shengming Hu",
+          "Ping Chen",
+          "Zhao Yun"
+        ]
+      },
+      {
+        "title": "Source versus Object Code Extraction for Recovering Software Architecture.",
+        "authors": [
+          "Ahmed E. Hassan",
+          "Zhen Ming Jiang",
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "Multiple Layer Clustering of Large Software Systems.",
+        "authors": [
+          "Bill Andreopoulos",
+          "Aijun An",
+          "Vassilios Tzerpos",
+          "Xiaogang Wang"
+        ]
+      },
+      {
+        "title": "Equipping the Reflexion Method with Automated Clustering.",
+        "authors": [
+          "Andreas Christl",
+          "Rainer Koschke",
+          "Margaret-Anne D. Storey"
+        ]
+      },
+      {
+        "title": "Capturing Nontrivial Concerns in Object-Oriented Software.",
+        "authors": [
+          "Mircea Trifu",
+          "Volker Kuttruff"
+        ]
+      },
+      {
+        "title": "Estimating the Costs of a Reengineering Project.",
+        "authors": [
+          "Harry M. Sneed"
+        ]
+      },
+      {
+        "title": "Asset Recovery and Their Incorporation into Product Lines.",
+        "authors": [
+          "Jens Knodel",
+          "Isabel John",
+          "Dharmalingam Ganesan",
+          "Martin Pinzger",
+          "Fernando Usero",
+          "José L. Arciniegas",
+          "Claudio Riva"
+        ]
+      },
+      {
+        "title": "Enriching Reverse Engineering with Semantic Clustering.",
+        "authors": [
+          "Adrian Kuhn",
+          "Stéphane Ducasse",
+          "Tudor Gîrba"
+        ]
+      },
+      {
+        "title": "When Functions Change Their Names: Automatic Detection of Origin Relationships.",
+        "authors": [
+          "Sunghun Kim",
+          "Kai Pan",
+          "E. James Whitehead Jr."
+        ]
+      },
+      {
+        "title": "Diagnosing Design Problems in Object Oriented Systems.",
+        "authors": [
+          "Adrian Trifu",
+          "Radu Marinescu"
+        ]
+      },
+      {
+        "title": "Design Pattern Detection in Eiffel Systems.",
+        "authors": [
+          "Wei Wang",
+          "Vassilios Tzerpos"
+        ]
+      },
+      {
+        "title": "Mappings for Accurately Reverse Engineering UML Class Models from C++.",
+        "authors": [
+          "Andrew M. Sutton",
+          "Jonathan I. Maletic"
+        ]
+      },
+      {
+        "title": "Boxology of NBA and TA: A Basis for Understanding Software Architecture.",
+        "authors": [
+          "Andrew J. Malton",
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "Toward an Infrastructure to Support Interoperability in Reverse Engineering.",
+        "authors": [
+          "Nicholas A. Kraft",
+          "Brian A. Malloy",
+          "James F. Power"
+        ]
+      },
+      {
+        "title": "Extracting and Representing Cross-Language Dependencies in Diverse Software Systems.",
+        "authors": [
+          "Daniel L. Moise",
+          "Kenny Wong"
+        ]
+      },
+      {
+        "title": "Semantic Navigation of Large Code Bases in Higher-Order, Dynamically Typed Languages.",
+        "authors": [
+          "Steven Alexander Spoon",
+          "Olin Shivers"
+        ]
+      },
+      {
+        "title": "Reengineering towards Product Lines (R2PL 2005).",
+        "authors": [
+          "Bas Graaf",
+          "Liam O'Brien",
+          "Rafael Capilla"
+        ]
+      },
+      {
+        "title": "Workshop on Program Comprehension through Dynamic Analysis (PCODA '05).",
+        "authors": [
+          "Orla Greevy",
+          "Abdelwahab Hamou-Lhadj",
+          "Andy Zaidman"
+        ]
+      },
+      {
+        "title": "Workshop on Code Based Software Security Assessments (CoBaSSA 2005).",
+        "authors": [
+          "Leon Moonen",
+          "Spiros Mancoridis"
+        ]
+      },
+      {
+        "title": "RETR: Reverse Engineering to Requirements.",
+        "authors": [
+          "Yijun Yu",
+          "John Mylopoulos",
+          "Yiqiao Wang",
+          "Sotirios Liaskos",
+          "Alexei Lapouchnian",
+          "Ying Zou",
+          "Martin Littou",
+          "Julio César Sampaio do Prado Leite"
+        ]
+      },
+      {
+        "title": "Architecture-Driven Modernization (ADM).",
+        "authors": [
+          "Philip Newcomb"
+        ]
+      },
+      {
+        "title": "Architecting, Analyzing and Testing Service-Oriented Systems.",
+        "authors": [
+          "Gerardo Canfora",
+          "Massimiliano Di Penta"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2004.html": {
+    "header": "11th WCRE 2004: Delft, The Netherlands",
+    "year": "2004",
+    "papers": [
+      {
+        "title": "Virus Analysis: Techniques, Tools, and Research Issues.",
+        "authors": [
+          "Arun Lakhotia",
+          "Prashant Pathak"
+        ]
+      },
+      {
+        "title": "Model Engineering for Software Modernization.",
+        "authors": [
+          "Jean Bézivin"
+        ]
+      },
+      {
+        "title": "Static and Dynamic Analyses of Programs with Implicit Control Flow.",
+        "authors": [
+          "Mary Jean Harrold"
+        ]
+      },
+      {
+        "title": "Experiences with an Industrial Long-Term Reengineering Project.",
+        "authors": [
+          "Ralf Kollmann"
+        ]
+      },
+      {
+        "title": "Reengineering Reports.",
+        "authors": [
+          "Harry M. Sneed"
+        ]
+      },
+      {
+        "title": "Using a Decompiler for Real-World Source Recovery.",
+        "authors": [
+          "Mike Van Emmerik",
+          "Trent Waddington"
+        ]
+      },
+      {
+        "title": "Toward Seamless Migration of Java AWT-Based Applications to Personal Wireless Devices.",
+        "authors": [
+          "Gerardo Canfora",
+          "Giuseppe Di Santo",
+          "Eugenio Zimeo"
+        ]
+      },
+      {
+        "title": "TUAnalyzer -- Analyzing Templates in C++ Code.",
+        "authors": [
+          "Thomas Gschwind",
+          "Martin Pinzger",
+          "Harald C. Gall"
+        ]
+      },
+      {
+        "title": "Updating Legacy Databases through Wrappers: Data Consistency Management.",
+        "authors": [
+          "Philippe Thiran",
+          "Geert-Jan Houben",
+          "Jean-Luc Hainaut",
+          "Djamal Benslimane"
+        ]
+      },
+      {
+        "title": "A Novel Software Visualisation Model to Support Software Comprehension.",
+        "authors": [
+          "Michael John Pacione",
+          "Marc Roper",
+          "Murray Wood"
+        ]
+      },
+      {
+        "title": "Exploring Software Evolution Using Spectrographs.",
+        "authors": [
+          "Jingwei Wu",
+          "Richard C. Holt",
+          "Ahmed E. Hassan"
+        ]
+      },
+      {
+        "title": "A Reverse Engineering Approach to Support Software Maintenance: Version Control Knowledge Extraction.",
+        "authors": [
+          "Xiaomin Wu",
+          "Adam Murray",
+          "Margaret-Anne D. Storey",
+          "Robert Lintern"
+        ]
+      },
+      {
+        "title": "Insights into System-Wide Code Duplication.",
+        "authors": [
+          "Matthias Rieger",
+          "Stéphane Ducasse",
+          "Michele Lanza"
+        ]
+      },
+      {
+        "title": "Aspect Mining through the Formal Concept Analysis of Execution Traces.",
+        "authors": [
+          "Paolo Tonella",
+          "Mariano Ceccato"
+        ]
+      },
+      {
+        "title": "Detecting Implicit Collaboration Patterns.",
+        "authors": [
+          "Gabriela Arévalo",
+          "Frank Buchli",
+          "Oscar Nierstrasz"
+        ]
+      },
+      {
+        "title": "Identifying Aspects Using Fan-In Analysis.",
+        "authors": [
+          "Marius Marin",
+          "Arie van Deursen",
+          "Leon Moonen"
+        ]
+      },
+      {
+        "title": "Refactoring -- Improving Coupling and Cohesion of Existing Code.",
+        "authors": [
+          "Bart Du Bois",
+          "Serge Demeyer",
+          "Jan Verelst"
+        ]
+      },
+      {
+        "title": "Loop Squashing Transformations for Amorphous Slicing.",
+        "authors": [
+          "Lin Hu",
+          "Mark Harman",
+          "Robert M. Hierons",
+          "David W. Binkley"
+        ]
+      },
+      {
+        "title": "Imposing Order on Program Statements to Assist Anti-Virus Scanners.",
+        "authors": [
+          "Arun Lakhotia",
+          "Moinuddin Mohammed"
+        ]
+      },
+      {
+        "title": "Fingerprinting Design Patterns.",
+        "authors": [
+          "Yann-Gaël Guéhéneuc",
+          "Houari A. Sahraoui",
+          "Farouk Zaidi"
+        ]
+      },
+      {
+        "title": "XIRC: A Kernel for Cross-Artifact Information Engineering in Software Development Environments.",
+        "authors": [
+          "Michael Eichberg",
+          "Mira Mezini",
+          "Klaus Ostermann",
+          "Thorsten Schäfer"
+        ]
+      },
+      {
+        "title": "Quantifying the Quality of Object-Oriented Design: The Factor-Strategy Model.",
+        "authors": [
+          "Radu Marinescu",
+          "Daniel Ratiu"
+        ]
+      },
+      {
+        "title": "CacOphoNy: Metamodel-Driven Architecture Recovery.",
+        "authors": [
+          "Jean-Marie Favre"
+        ]
+      },
+      {
+        "title": "An Information Retrieval Approach to Concept Location in Source Code.",
+        "authors": [
+          "Andrian Marcus",
+          "Andrey Sergeyev",
+          "Václav Rajlich",
+          "Jonathan I. Maletic"
+        ]
+      },
+      {
+        "title": "Model-Driven Business Process Recovery.",
+        "authors": [
+          "Ying Zou",
+          "Terence C. Lau",
+          "Kostas Kontogiannis",
+          "Tack Tong",
+          "Ross McKegney"
+        ]
+      },
+      {
+        "title": "Combined Software and Hardware Comprehension in Reverse Engineering.",
+        "authors": [
+          "Patrick La Roche",
+          "Anthony Cox"
+        ]
+      },
+      {
+        "title": "An Initial Approach to Assessing Program Comprehensibility Using Spatial Complexity, Number of Concepts and Typographical Style.",
+        "authors": [
+          "Andrew Mohan",
+          "Nicolas Gold",
+          "Paul J. Layzell"
+        ]
+      },
+      {
+        "title": "Slice-Based Cohesion Metrics and Software Intervention.",
+        "authors": [
+          "Timothy M. Meyers",
+          "David W. Binkley"
+        ]
+      },
+      {
+        "title": "The Efficiency of Specification Fragments.",
+        "authors": [
+          "Andreas Bollin"
+        ]
+      },
+      {
+        "title": "The Small World of Software Reverse Engineering.",
+        "authors": [
+          "Ahmed E. Hassan",
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "A Framework for the Comparison of Nested Software Decompositions.",
+        "authors": [
+          "Mark Shtern",
+          "Vassilios Tzerpos"
+        ]
+      },
+      {
+        "title": "Maintenance and Analysis of Visual Programs -- An Industrial Case.",
+        "authors": [
+          "Mika Karaila",
+          "Tarja Systä"
+        ]
+      },
+      {
+        "title": "Using DDL to Understand and Modify SimpleScalar.",
+        "authors": [
+          "Naoman Abbas",
+          "Sumant Tambe",
+          "Jonathan E. Cook"
+        ]
+      },
+      {
+        "title": "Towards an Effective Approach for Reverse Engineering.",
+        "authors": [
+          "Vinicius Cardoso Garcia",
+          "Daniel Lucrédio",
+          "Antônio Francisco do Prado",
+          "Alexandre Alvaro",
+          "Eduardo Santana de Almeida"
+        ]
+      },
+      {
+        "title": "A Static Reference Flow Analysis to Understand Design Pattern Behavior.",
+        "authors": [
+          "Chanjin Park",
+          "Yoohoon Kang",
+          "Chisu Wu",
+          "Kwangkeun Yi"
+        ]
+      },
+      {
+        "title": "Generator Code Opaque Recovery of Form-Oriented Web Site Models.",
+        "authors": [
+          "Dirk Draheim",
+          "Christof Lutteroth",
+          "Gerald Weber"
+        ]
+      },
+      {
+        "title": "A Brief Summary of Cognitive Patterns for Program Comprehension.",
+        "authors": [
+          "Adam Murray",
+          "Timothy C. Lethbridge"
+        ]
+      },
+      {
+        "title": "An Initial Experiment in Reverse Engineering Aspects.",
+        "authors": [
+          "Magiel Bruntink",
+          "Arie van Deursen",
+          "Tom Tourwé"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/entcs/entcs94.html": {
+    "header": "1st ateM 2003: Victoria, BC, Canada",
+    "year": "2003",
+    "papers": [
+      {
+        "title": "Preface.",
+        "authors": [
+          "Jean-Marie Favre",
+          "Michael W. Godfrey",
+          "Andreas Winter"
+        ]
+      },
+      {
+        "title": "The Dagstuhl Middle Metamodel: A Schema For Reverse Engineering.",
+        "authors": [
+          "Timothy Lethbridge",
+          "Sander Tichelaar",
+          "Erhard Plödereder"
+        ]
+      },
+      {
+        "title": "A Meta-Model for Fact Extraction from Delphi Source Code.",
+        "authors": [
+          "Jens Knodel",
+          "G. Calderon-Meza"
+        ]
+      },
+      {
+        "title": "A GXL Schema for Story Diagrams.",
+        "authors": [
+          "Chunyan Meng",
+          "Kenny Wong"
+        ]
+      },
+      {
+        "title": "A Programmable Analysis and Transformation Framework for Reverse Engineering.",
+        "authors": [
+          "Ravindra Naik",
+          "Arun Bahulkar"
+        ]
+      },
+      {
+        "title": "Data Store Models are Different Than Data Interchange Models.",
+        "authors": [
+          "Michael R. Blaha"
+        ]
+      },
+      {
+        "title": "A Metamodel for Dynamic Information Generated from Object-Oriented Systems.",
+        "authors": [
+          "Abdelwahab Hamou-Lhadj",
+          "Timothy Lethbridge"
+        ]
+      },
+      {
+        "title": "Three-Layered Source-Code Modelling.",
+        "authors": [
+          "Anthony Cox",
+          "Charles Clarke"
+        ]
+      },
+      {
+        "title": "Issues in Integrating Schemas for Reverse Engineering.",
+        "authors": [
+          "Daniel L. Moise",
+          "Kenny Wong"
+        ]
+      },
+      {
+        "title": "Formalizing Fact Extraction.",
+        "authors": [
+          "Yuan Lin",
+          "Richard C. Holt"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2003.html": {
+    "header": "10th WCRE 2003: Victoria, BC, Canada",
+    "year": "2003",
+    "papers": [
+      {
+        "title": "Learning from the Past.",
+        "authors": [
+          "Gail C. Murphy"
+        ]
+      },
+      {
+        "title": "Unscheduling, Unpredication, Unspeculation: Reverse Engineering Itanium Executables.",
+        "authors": [
+          "Noah Snavely",
+          "Saumya K. Debray",
+          "Gregory R. Andrews"
+        ]
+      },
+      {
+        "title": "An Experimentation Framework for Evaluating Disassembly and Decompilation Tools for C++ and Java.",
+        "authors": [
+          "Lori Vinciguerra",
+          "Linda M. Wills",
+          "Nidhi Kejriwal",
+          "Paul Martino",
+          "Ralph L. Vinciguerra"
+        ]
+      },
+      {
+        "title": "Extracting an Explicitly Data-Parallel Representation of Image-Processing Programs.",
+        "authors": [
+          "Lewis Benton Baumstark Jr.",
+          "Murat Guler",
+          "Linda M. Wills"
+        ]
+      },
+      {
+        "title": "Hierarchical Reflexion Models.",
+        "authors": [
+          "Rainer Koschke",
+          "Daniel Simon"
+        ]
+      },
+      {
+        "title": "Moving Towards Quality Attribute Driven Software Architecture Reconstruction.",
+        "authors": [
+          "Christoph Stoermer",
+          "Liam O'Brien",
+          "Chris Verhoef"
+        ]
+      },
+      {
+        "title": "Towards the Reverse Engineering of UML Sequence Diagrams.",
+        "authors": [
+          "Lionel C. Briand",
+          "Yvan Labiche",
+          "Y. Miao"
+        ]
+      },
+      {
+        "title": "Reconstructing Software Architecture for J2EE Web Applications.",
+        "authors": [
+          "Minmin Han",
+          "Christine Hofmeister",
+          "Robert L. Nord"
+        ]
+      },
+      {
+        "title": "Comparative Evaluation of Dynamic Visualisation Tools.",
+        "authors": [
+          "Michael John Pacione",
+          "Marc Roper",
+          "Murray Wood"
+        ]
+      },
+      {
+        "title": "Analyzing and Relating Bug Report Data for Feature Tracking.",
+        "authors": [
+          "Michael Fischer",
+          "Martin Pinzger",
+          "Harald C. Gall"
+        ]
+      },
+      {
+        "title": "Reverse Engineering the Process of Small Novice Software Teams.",
+        "authors": [
+          "Ying Liu",
+          "Eleni Stroulia"
+        ]
+      },
+      {
+        "title": "Fuzzy Extensions for Reverse Engineering Repository Models.",
+        "authors": [
+          "Ulrike Kölsch",
+          "René Witte"
+        ]
+      },
+      {
+        "title": "Studying the Chaos of Code Development.",
+        "authors": [
+          "Ahmed E. Hassan",
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "Identification of Software Instabilities.",
+        "authors": [
+          "Jennifer Bevan",
+          "E. James Whitehead Jr."
+        ]
+      },
+      {
+        "title": "Detecting Merging and Splitting using Origin Analysis.",
+        "authors": [
+          "Lijie Zou",
+          "Michael W. Godfrey"
+        ]
+      },
+      {
+        "title": "Predicting Maintainability with Object-Oriented Metrics - An Empirical Comparison.",
+        "authors": [
+          "Melis Dagpinar",
+          "Jens H. Jahnke"
+        ]
+      },
+      {
+        "title": "Migration of non-decomposable software systems to the Web using screen proxies.",
+        "authors": [
+          "Thierry Bodhuin",
+          "Enrico Guardabascio",
+          "Maria Tortorella"
+        ]
+      },
+      {
+        "title": "On-the-fly Wrapping of Web Services to Support Dynamic Integration.",
+        "authors": [
+          "Gerald C. Gannod",
+          "Huimin Zhu",
+          "Sudhakiran V. Mudiam"
+        ]
+      },
+      {
+        "title": "Improving Fact Extraction of Framework-Based Software Systems.",
+        "authors": [
+          "Jens Knodel",
+          "Martin Pinzger"
+        ]
+      },
+      {
+        "title": "Completeness of a Fact Extractor.",
+        "authors": [
+          "Yuan Lin",
+          "Richard C. Holt",
+          "Andrew J. Malton"
+        ]
+      },
+      {
+        "title": "RegReg: a Lightweight Generator of Robust Parsers for Irregular Languages.",
+        "authors": [
+          "Mario Latendresse"
+        ]
+      },
+      {
+        "title": "Simple and Efficient Relational Querying of Software Structures.",
+        "authors": [
+          "Dirk Beyer",
+          "Andreas Noack",
+          "Claus Lewerentz"
+        ]
+      },
+      {
+        "title": "Supporting Quick and Dirty CORBA Introspection and Manipulation.",
+        "authors": [
+          "Abdulmalik Al-Gahmi",
+          "Ciju John",
+          "Jonathan E. Cook",
+          "Bo Du"
+        ]
+      },
+      {
+        "title": "Toward an environment for comprehending distributed systems.",
+        "authors": [
+          "Maher Salah",
+          "Spiros Mancoridis"
+        ]
+      },
+      {
+        "title": "Orion-RE: A Component-Based Software Reengineering Environment .",
+        "authors": [
+          "Alexandre Alvaro",
+          "Daniel Lucrédio",
+          "Vinicius Cardoso Garcia",
+          "Antônio Francisco do Prado",
+          "Luís Carlos Trevelin",
+          "Eduardo Santana de Almeida"
+        ]
+      },
+      {
+        "title": "GUI Ripping: Reverse Engineering of Graphical User Interfaces for Testing.",
+        "authors": [
+          "Atif M. Memon",
+          "Ishan Banerjee",
+          "Adithya Nagarajan"
+        ]
+      },
+      {
+        "title": "Leveraging Visio for Adoption-Centric Reverse Engineering Tools.",
+        "authors": [
+          "Qin Zhu",
+          "Yu Chen",
+          "Piotr Kaminski",
+          "Anke Weber",
+          "Holger M. Kienle",
+          "Hausi A. Müller"
+        ]
+      },
+      {
+        "title": "An Industrial Experience in Reverse Engineering.",
+        "authors": [
+          "Daniel L. Moise",
+          "Kenny Wong"
+        ]
+      },
+      {
+        "title": "Problems Creating Task-relevant Clone Detection Reference Data.",
+        "authors": [
+          "Andrew Walenstein",
+          "Nitin Jyoti",
+          "Junwei Li",
+          "Yun Yang",
+          "Arun Lakhotia"
+        ]
+      },
+      {
+        "title": "Algorithm Recognition based on Demand-Driven Data-flow Analysis.",
+        "authors": [
+          "Christophe Alias",
+          "Denis Barthou"
+        ]
+      },
+      {
+        "title": "Analyzing Large Spreadsheet Programs.",
+        "authors": [
+          "Markus Clermont"
+        ]
+      },
+      {
+        "title": "An Empirical Study of Computation Equivalence as Determined by Decomposition Slice Equivalence.",
+        "authors": [
+          "Keith B. Gallagher",
+          "David W. Binkley"
+        ]
+      },
+      {
+        "title": "Using Program Transformation to Secure C Programs Against Buffer Overflows.",
+        "authors": [
+          "Christopher Dahn",
+          "Spiros Mancoridis"
+        ]
+      },
+      {
+        "title": "Software Clustering based on Information Loss Minimization.",
+        "authors": [
+          "Periklis Andritsos",
+          "Vassilios Tzerpos"
+        ]
+      },
+      {
+        "title": "Ontological Excavation: Unearthing the core concepts of the application.",
+        "authors": [
+          "Idris Hsi",
+          "Colin Potts",
+          "Melody M. Moore"
+        ]
+      },
+      {
+        "title": "Revealing Class Structure with Concept Lattices.",
+        "authors": [
+          "Uri Dekel",
+          "Yossi Gil"
+        ]
+      },
+      {
+        "title": "First International Workshop on Meta-Models and Schemas for Reverse Engineering - ateM 2003.",
+        "authors": [
+          "Jean-Marie Favre",
+          "Michael W. Godfrey",
+          "Andreas Winter"
+        ]
+      },
+      {
+        "title": "Second International Workshop on Detection of Software Clones.",
+        "authors": [
+          "Arun Lakhotia",
+          "Andrew Walenstein",
+          "Rainer Koschke"
+        ]
+      },
+      {
+        "title": "First International Workshop on Refactoring : Achievements, Challenges, and Effects (REFACE?03).",
+        "authors": [
+          "Ladan Tahvildari",
+          "Kostas Kontogiannis"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2002.html": {
+    "header": "9th WCRE 2002: Richmond, Virginia, USA",
+    "year": "2002",
+    "papers": [
+      {
+        "title": "Applying Spectral Methods to Software Clustering.",
+        "authors": [
+          "Ali Shokoufandeh",
+          "Spiros Mancoridis",
+          "Matthew Maycock"
+        ]
+      },
+      {
+        "title": "Code Extraction Algorithms which Unify Slicing and Concept Assignment.",
+        "authors": [
+          "Mark Harman",
+          "Nicolas Gold",
+          "Robert M. Hierons",
+          "David W. Binkley"
+        ]
+      },
+      {
+        "title": "A Study on the Current State of the Art in Tool-Supported UML-Based Static Reverse Engineering.",
+        "authors": [
+          "Ralf Kollmann",
+          "Petri Selonen",
+          "Eleni Stroulia",
+          "Tarja Systä",
+          "Albert Zündorf"
+        ]
+      },
+      {
+        "title": "Register Liveness Analysis for Optimizing Dynamic Binary Translation.",
+        "authors": [
+          "Mark Probst",
+          "Andreas Krall",
+          "Bernhard Scholz"
+        ]
+      },
+      {
+        "title": "Disassembly of Executable Code Revisited.",
+        "authors": [
+          "Benjamin Schwarz",
+          "Saumya K. Debray",
+          "Gregory R. Andrews"
+        ]
+      },
+      {
+        "title": "Estimating Potential Parallelism for Platform Retargeting.",
+        "authors": [
+          "Linda M. Wills",
+          "Tarek M. Taha",
+          "Lewis Benton Baumstark Jr.",
+          "D. Scott Wills"
+        ]
+      },
+      {
+        "title": "Analysis of Virtual Method Invocation for Binary Translation.",
+        "authors": [
+          "Jens Tröger",
+          "Cristina Cifuentes"
+        ]
+      },
+      {
+        "title": "A Methodology for Developing Transformations Using the Maintainability Soft-Goal Graph.",
+        "authors": [
+          "Ladan Tahvildari",
+          "Kostas Kontogiannis"
+        ]
+      },
+      {
+        "title": "Relating Expectations to Automatically Recovered Design Patterns.",
+        "authors": [
+          "Angel Asencio",
+          "Sam Cardman",
+          "David R. Harris",
+          "Ellen Laderman"
+        ]
+      },
+      {
+        "title": "Java Quality Assurance by Detecting Code Smells .",
+        "authors": [
+          "Eva Van Emden",
+          "Leon Moonen"
+        ]
+      },
+      {
+        "title": "ConSUS: A Scalable Approach to Conditioned Slicing.",
+        "authors": [
+          "Mohammed Daoudi",
+          "Lahcen Ouarbya",
+          "John Howroyd",
+          "Sebastian Danicic",
+          "Mark Harman",
+          "Chris Fox",
+          "Martin P. Ward"
+        ]
+      },
+      {
+        "title": "Using Conceptual Roles of Data for Enhanced Program Comprehension.",
+        "authors": [
+          "Yunbo Deng",
+          "Suraj C. Kothari"
+        ]
+      },
+      {
+        "title": "Static Trace Extraction.",
+        "authors": [
+          "Thomas Eisenbarth",
+          "Rainer Koschke",
+          "Gunther Vogel"
+        ]
+      },
+      {
+        "title": "Reverse Architecting: Seeking the Architectonic.",
+        "authors": [
+          "Galal H. Galal-Edeen"
+        ]
+      },
+      {
+        "title": "Practice Patterns for Architecture Reconstruction.",
+        "authors": [
+          "Christoph Stoermer",
+          "Liam O'Brien",
+          "Chris Verhoef"
+        ]
+      },
+      {
+        "title": "Generation of Architectural Documentation Using XML.",
+        "authors": [
+          "Claudio Riva",
+          "Yaojin Yang"
+        ]
+      },
+      {
+        "title": "Revealer: A Lexical Pattern Matcher for Architecture Recovery.",
+        "authors": [
+          "Martin Pinzger",
+          "Michael Fischer",
+          "Harald C. Gall",
+          "Mehdi Jazayeri"
+        ]
+      },
+      {
+        "title": "A Denotational Interprocedural Program Slicer.",
+        "authors": [
+          "Lahcen Ouarbya",
+          "Sebastian Danicic",
+          "Mohammed Daoudi",
+          "Mark Harman",
+          "Chris Fox"
+        ]
+      },
+      {
+        "title": "Program Annotation in XML: A Parse-Tree Based Approach.",
+        "authors": [
+          "James F. Power",
+          "Brian A. Malloy"
+        ]
+      },
+      {
+        "title": "An Extensible Tool for Source Code Representation Using XML.",
+        "authors": [
+          "Gregory McArthur",
+          "John Mylopoulos",
+          "Siu Kee Keith Ng"
+        ]
+      },
+      {
+        "title": "Strategies for Data Reengineering.",
+        "authors": [
+          "Jean Henrard",
+          "Jean-Marc Hick",
+          "Philippe Thiran",
+          "Jean-Luc Hainaut"
+        ]
+      },
+      {
+        "title": "Finding High-Level Structures in Spreadsheet Programs.",
+        "authors": [
+          "Roland T. Mittermeir",
+          "Markus Clermont"
+        ]
+      },
+      {
+        "title": "Verifying Provisions for Post-Transaction User Input Error Correction through Static Program Analysis.",
+        "authors": [
+          "Hee Beng Kuan Tan",
+          "Ni Lar Thein"
+        ]
+      },
+      {
+        "title": "Exposing Data-Level Parallelism in Sequential Image Processing Algorithms.",
+        "authors": [
+          "Lewis Benton Baumstark Jr.",
+          "Linda M. Wills"
+        ]
+      },
+      {
+        "title": "Discovering Thread Interactions in a Concurrent System.",
+        "authors": [
+          "Jonathan E. Cook",
+          "Zhidian Du"
+        ]
+      },
+      {
+        "title": "Semantic Grep: Regular Expressions + Relational Abstraction.",
+        "authors": [
+          "R. Ian Bull",
+          "Andrew Trevors",
+          "Andrew J. Malton",
+          "Michael W. Godfrey"
+        ]
+      },
+      {
+        "title": "A Disturbing Result on the Knowledge Used during Software Maintenance.",
+        "authors": [
+          "Maria Fernanda N. Ramal",
+          "Ricardo de Moura Meneses",
+          "Nicolas Anquetil"
+        ]
+      },
+      {
+        "title": "Dynamic Component Program Visualization.",
+        "authors": [
+          "Ludger Martin",
+          "Anke Giesl",
+          "Johannes Martin"
+        ]
+      },
+      {
+        "title": "On the Use of Metaballs to Visually Map Source Code Structures and Analysis Results onto 3D Space.",
+        "authors": [
+          "Juergen Rilling",
+          "Sudhir P. Mudur"
+        ]
+      },
+      {
+        "title": "Extraction and Use of Class Dependency Information for Java.",
+        "authors": [
+          "Larry A. Barowski",
+          "James H. Cross II"
+        ]
+      },
+      {
+        "title": "Knowledge-Based Library Re-Factoring for an Open Source Project.",
+        "authors": [
+          "Massimiliano Di Penta",
+          "Markus Neteler",
+          "Giuliano Antoniol",
+          "Ettore Merlo"
+        ]
+      },
+      {
+        "title": "Migrating COBOL Systems to the WEB by Using the MVC Design Pattern.",
+        "authors": [
+          "Thierry Bodhuin",
+          "Enrico Guardabascio",
+          "Maria Tortorella"
+        ]
+      },
+      {
+        "title": "Retargeting of Web Pages to Other Computing Platforms with VAQUITA.",
+        "authors": [
+          "Laurent Bouillon",
+          "Jean Vanderdonckt"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2001.html": {
+    "header": "8th WCRE 2001: Stuttgart, Germany",
+    "year": "2001",
+    "papers": [
+      {
+        "title": "Folding: An Approach to Enable Program Understanding of Preprocessed Languages.",
+        "authors": [
+          "Bernt Kullbach",
+          "Volker Riediger"
+        ]
+      },
+      {
+        "title": "Generating Robust Parsers Using Island Grammars.",
+        "authors": [
+          "Leon Moonen"
+        ]
+      },
+      {
+        "title": "Node Coarsening Calculi for Program Slicing.",
+        "authors": [
+          "Mark Harman",
+          "Robert M. Hierons",
+          "Sebastian Danicic",
+          "John Howroyd",
+          "Michael R. Laurence",
+          "Chris Fox"
+        ]
+      },
+      {
+        "title": "Reverse Program Calculation Supported by Code Slicing.",
+        "authors": [
+          "Gustavo Villavicencio",
+          "José Nuno Oliveira"
+        ]
+      },
+      {
+        "title": "Towards a Standard Schema for C/C++.",
+        "authors": [
+          "Rudolf Ferenc",
+          "Susan Elliott Sim",
+          "Richard C. Holt",
+          "Rainer Koschke",
+          "Tibor Gyimóthy"
+        ]
+      },
+      {
+        "title": "Union Schemas as a Basis for a C++ Extractor.",
+        "authors": [
+          "Thomas R. Dean",
+          "Andrew J. Malton",
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "Requirements-Driven Software Re-engineering Framework.",
+        "authors": [
+          "Ladan Tahvildari",
+          "Kostas Kontogiannis",
+          "John Mylopoulos"
+        ]
+      },
+      {
+        "title": "Application of UML Associations and Their Adornments in Design Recovery.",
+        "authors": [
+          "Ralf Kollmann",
+          "Martin Gogolla"
+        ]
+      },
+      {
+        "title": "CRAFT: A Framework for Evaluating Software Clustering Results in the Absence of Benchmark Decompositions.",
+        "authors": [
+          "Brian S. Mitchell",
+          "Spiros Mancoridis"
+        ]
+      },
+      {
+        "title": "Component Clustering Based on Maximal Association.",
+        "authors": [
+          "Kamran Sartipi",
+          "Kostas Kontogiannis"
+        ]
+      },
+      {
+        "title": "An Investigation into the Connectivity Properties of Source-Header Dependency Graphs.",
+        "authors": [
+          "Gerald C. Gannod",
+          "Barbara D. Gannod"
+        ]
+      },
+      {
+        "title": "From an Informal Textual Lexicon to a Well-Structured Lexical Database: An Experiment in Data Reverse Engineering.",
+        "authors": [
+          "Gérard P. Huet"
+        ]
+      },
+      {
+        "title": "A Retrospective on Industrial Database Reverse Engineering Projects. Part 1.",
+        "authors": [
+          "Michael R. Blaha"
+        ]
+      },
+      {
+        "title": "A Retrospective on Industrial Database Reverse Engineering Projects. Part 2.",
+        "authors": [
+          "Michael R. Blaha"
+        ]
+      },
+      {
+        "title": "Maximizing Functional Cohesion of Comprehension Environments by Integrating User and Task Knowledge.",
+        "authors": [
+          "Juergen Rilling"
+        ]
+      },
+      {
+        "title": "Characterizing the Informal Knowledge Contained in Systems.",
+        "authors": [
+          "Nicolas Anquetil"
+        ]
+      },
+      {
+        "title": "Program Comprehension Risks and Opportunities in Extreme Programming.",
+        "authors": [
+          "Arie van Deursen"
+        ]
+      },
+      {
+        "title": "Wrapping Legacy COBOL Programs behind an XML-Interface.",
+        "authors": [
+          "Harry M. Sneed"
+        ]
+      },
+      {
+        "title": "Wrapper Development for Legacy Data Reuse.",
+        "authors": [
+          "Philippe Thiran",
+          "Jean-Luc Hainaut"
+        ]
+      },
+      {
+        "title": "Modeling the System-User Dialog Using Interaction Traces.",
+        "authors": [
+          "Mohammad El-Ramly",
+          "Paul Iglinski",
+          "Eleni Stroulia",
+          "Paul G. Sorenson",
+          "Bruce Matichuk"
+        ]
+      },
+      {
+        "title": "REportal: A Web-Based Portal Site for Reverse Engineering.",
+        "authors": [
+          "Spiros Mancoridis",
+          "Timothy S. Souder",
+          "Yih-Farn Chen",
+          "Emden R. Gansner",
+          "Jeffrey L. Korn"
+        ]
+      },
+      {
+        "title": "An Approach for Reverse Engineering of Web-Based Application.",
+        "authors": [
+          "Giuseppe A. Di Lucca",
+          "Massimiliano Di Penta",
+          "Giuliano Antoniol",
+          "Gerardo Casazza"
+        ]
+      },
+      {
+        "title": "Flexible Reverse Engineering of Web Pages with VAQUISTA.",
+        "authors": [
+          "Jean Vanderdonckt",
+          "Laurent Bouillon",
+          "Nathalie Souchon"
+        ]
+      },
+      {
+        "title": "Reverse Engineering to Achieve Maintainable WWW Sites.",
+        "authors": [
+          "Cornelia Boldyreff",
+          "Richard Kewish"
+        ]
+      },
+      {
+        "title": "Displaying Dependence Graphs: A Hierarchical Approach.",
+        "authors": [
+          "Francoise Balmas"
+        ]
+      },
+      {
+        "title": "GUSTT: An Amorphous Slicing System which Combines Slicing and Transformation.",
+        "authors": [
+          "Mark Harman",
+          "Lin Hu",
+          "Malcolm Munro",
+          "Xingyuan Zhang"
+        ]
+      },
+      {
+        "title": "Preprocessor Conditional Removal by Simple Partial Evaluation.",
+        "authors": [
+          "Ira D. Baxter",
+          "Michael Mehlich"
+        ]
+      },
+      {
+        "title": "Parsing in a Hostile World.",
+        "authors": [
+          "Darius Blasband"
+        ]
+      },
+      {
+        "title": "Identifying Similar Code with Program Dependence Graphs.",
+        "authors": [
+          "Jens Krinke"
+        ]
+      },
+      {
+        "title": "The Octagon Abstract Domain.",
+        "authors": [
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Lessons Learned in Data Reverse Engineering.",
+        "authors": [
+          "Kathi Hogshead Davis"
+        ]
+      },
+      {
+        "title": "Interactive Migration of Legacy Databases to Net-Centric Technologies.",
+        "authors": [
+          "Yury Bychkov",
+          "Jens H. Jahnke"
+        ]
+      },
+      {
+        "title": "Reengineering Relational Databases to Object-Oriented: Constructing the Class Hierarchy and Migrating the Data.",
+        "authors": [
+          "Reda Alhajj",
+          "Faruk Polat"
+        ]
+      },
+      {
+        "title": "Assisting the Comprehension of Legacy Transactions.",
+        "authors": [
+          "Suzanne M. Embury",
+          "Jianhua Shao"
+        ]
+      },
+      {
+        "title": "A Simple Type System for Program Reengineering.",
+        "authors": [
+          "I. Guilfanov"
+        ]
+      },
+      {
+        "title": "Comparing Type-Based and Proof-Directed Decompilation.",
+        "authors": [
+          "Alan Mycroft",
+          "Atsushi Ohori",
+          "Shin-ya Katsumata"
+        ]
+      },
+      {
+        "title": "Decompiling Java Using Staged Encapsulation.",
+        "authors": [
+          "Jerome Miecznikowski",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "Computer Security Analysis through Decompilation and High-Level Debugging.",
+        "authors": [
+          "Cristina Cifuentes",
+          "Trent Waddington",
+          "Mike Van Emmerik"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre2000.html": {
+    "header": "7th WCRE 2000: Brisbane, Queensland, Australia",
+    "year": "2000",
+    "papers": [
+      {
+        "title": "Dynamic Re-engineering of Binary Code with Run-time Feedbacks.",
+        "authors": [
+          "David Ung",
+          "Cristina Cifuentes"
+        ]
+      },
+      {
+        "title": "Reverse Engineering from Assembler to Formal Specifications via Program Transformations.",
+        "authors": [
+          "Martin P. Ward"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Tools as Media for Imperfect Knowledge.",
+        "authors": [
+          "Jens H. Jahnke",
+          "Andrew Walenstein"
+        ]
+      },
+      {
+        "title": "Exploring Legacy Systems using Types.",
+        "authors": [
+          "Arie van Deursen",
+          "Leon Moonen"
+        ]
+      },
+      {
+        "title": "Reverse Architecting: An Industrial Experience Report.",
+        "authors": [
+          "Claudio Riva"
+        ]
+      },
+      {
+        "title": "Migrating Legacy User Interfaces to the Internet: Shifting Dialogue Initiative.",
+        "authors": [
+          "Melody M. Moore",
+          "Lilia V. Moshkina"
+        ]
+      },
+      {
+        "title": "Constructing XML-Speaking Wrappers for WEB Applications: Towards an Interoperating WEB.",
+        "authors": [
+          "Eleni Stroulia",
+          "Judi R. Thomson",
+          "Gina Situ"
+        ]
+      },
+      {
+        "title": "Data Reverse Engineering: A Historical Survey.",
+        "authors": [
+          "Kathi Hogshead Davis",
+          "Peter H. Aiken"
+        ]
+      },
+      {
+        "title": "Teaching Database Reverse Engineering.",
+        "authors": [
+          "Michael R. Blaha",
+          "Ian Benson"
+        ]
+      },
+      {
+        "title": "Method and Process for Iterative Reengineering of Data in a Legacy System.",
+        "authors": [
+          "Alessandro Bianchi",
+          "Danilo Caivano",
+          "Giuseppe Visaggio"
+        ]
+      },
+      {
+        "title": "Advanced Clone-Analysis to Support Object-Oriented System Refactoring.",
+        "authors": [
+          "Magdalena Balazinska",
+          "Ettore Merlo",
+          "Michel R. Dagenais",
+          "Bruno Laguë",
+          "Kostas Kontogiannis"
+        ]
+      },
+      {
+        "title": "Recovering Use Case Models from Object-Oriented Code: A Thread-based Approach.",
+        "authors": [
+          "Giuseppe A. Di Lucca",
+          "Anna Rita Fasolino",
+          "Ugo de Carlini"
+        ]
+      },
+      {
+        "title": "Reengineering Using Design Patterns.",
+        "authors": [
+          "Maria Istela Cagnin",
+          "Rosângela A. D. Penteado",
+          "Rosana T. V. Braga",
+          "Paulo César Masiero"
+        ]
+      },
+      {
+        "title": "An Architectural-based Approach for Synthesizing and Integrating Adapters for Legacy Software.",
+        "authors": [
+          "Gerald C. Gannod",
+          "Sudhakiran V. Mudiam",
+          "Timothy E. Lindquist"
+        ]
+      },
+      {
+        "title": "Revisiting the Delta IC Approach to Component Recovery.",
+        "authors": [
+          "Gerardo Canfora",
+          "Jörg Czeranski",
+          "Rainer Koschke"
+        ]
+      },
+      {
+        "title": "A Reference Architecture for Web Servers.",
+        "authors": [
+          "Ahmed E. Hassan",
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "GXL: Toward a Standard Exchange Format.",
+        "authors": [
+          "Richard C. Holt",
+          "Andreas Winter",
+          "Andy Schürr"
+        ]
+      },
+      {
+        "title": "Towards Portable Source Code Representations using XML.",
+        "authors": [
+          "Evan Mamas",
+          "Kostas Kontogiannis"
+        ]
+      },
+      {
+        "title": "A Structured Demonstration of Program Comprehension Tools.",
+        "authors": [
+          "Susan Elliott Sim",
+          "Margaret-Anne D. Storey"
+        ]
+      },
+      {
+        "title": "Analyzing XFIG with GUPRO.",
+        "authors": [
+          "Volker Riediger"
+        ]
+      },
+      {
+        "title": "Analyzing xfig Using the Bauhaus Tools.",
+        "authors": [
+          "Jörg Czeranski",
+          "Thomas Eisenbarth",
+          "Holger M. Kienle",
+          "Rainer Koschke",
+          "Daniel Simon"
+        ]
+      },
+      {
+        "title": "PBS Tool Demonstration Report on Xfig.",
+        "authors": [
+          "T. Parry III",
+          "E. Lee",
+          "J. Tran"
+        ]
+      },
+      {
+        "title": "Applying Traditional Unix Tools during Maintenance: An Experience Report.",
+        "authors": [
+          "Arthur Tateishi",
+          "Andrew Walenstein"
+        ]
+      },
+      {
+        "title": "Analyzing xfig Using the Rigi Tool Suite.",
+        "authors": [
+          "Johannes Martin",
+          "Kenny Wong",
+          "Bruce Winter",
+          "Hausi A. Müller"
+        ]
+      },
+      {
+        "title": "A Structured Demonstration of Five Program Comprehension Tools: Lessons Learnt.",
+        "authors": [
+          "Susan Elliott Sim",
+          "Margaret-Anne D. Storey",
+          "Andreas Winter"
+        ]
+      },
+      {
+        "title": "Understanding the Behavior of Java Programs.",
+        "authors": [
+          "Tarja Systä"
+        ]
+      },
+      {
+        "title": "An Experimental Validation of Control Structure Diagrams.",
+        "authors": [
+          "T. Dean Hendrix",
+          "James H. Cross II",
+          "Saeed Maghsoodloo"
+        ]
+      },
+      {
+        "title": "Studying the Process of Software Change: An Analysis of Software Evolution.",
+        "authors": [
+          "Elizabeth Burd",
+          "Steven Bradley",
+          "John Davey"
+        ]
+      },
+      {
+        "title": "Traceability Recovery by Modeling Programmer Behavior.",
+        "authors": [
+          "Giuliano Antoniol",
+          "Gerardo Casazza",
+          "Aniello Cimitile"
+        ]
+      },
+      {
+        "title": "A Maintainability Model for Industrial Software Systems using Design Level Metrics.",
+        "authors": [
+          "S. Muthanna",
+          "Kostas Kontogiannis",
+          "Kumaraswamy Ponnambalam",
+          "B. Stacey"
+        ]
+      },
+      {
+        "title": "ACDC: An Algorithm for Comprehension-Driven Clustering.",
+        "authors": [
+          "Vassilios Tzerpos",
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "Evaluating the Suitability of Data Clustering for Software Remodularization.",
+        "authors": [
+          "John Davey",
+          "Elizabeth Burd"
+        ]
+      },
+      {
+        "title": "Next Generation Data Interchange: Tool-to-Tool Application Program Interfaces.",
+        "authors": [
+          "Susan Elliott Sim"
+        ]
+      },
+      {
+        "title": "The Case for a Single Data Exchange Format.",
+        "authors": [
+          "Stephen G. Perelgut"
+        ]
+      },
+      {
+        "title": "E/R Schema for the Datrix C/C++/Java Exchange Format.",
+        "authors": [
+          "Richard C. Holt",
+          "Ahmed E. Hassan",
+          "Bruno Laguë",
+          "Sébastien Lapierre",
+          "Charles Leduc"
+        ]
+      },
+      {
+        "title": "Designing an XML-based Exchange Format for Harmonia.",
+        "authors": [
+          "Marat Boshernitsan",
+          "Susan L. Graham"
+        ]
+      },
+      {
+        "title": "Defining, Transforming, and Exchanging High-Level Schemas.",
+        "authors": [
+          "Michael W. Godfrey"
+        ]
+      },
+      {
+        "title": "Data Exchange in Bauhaus.",
+        "authors": [
+          "Jörg Czeranski",
+          "Thomas Eisenbarth",
+          "Holger M. Kienle",
+          "Rainer Koschke",
+          "Erhard Plödereder",
+          "Daniel Simon",
+          "Yan Zhang V",
+          "Jean-Francois Girard",
+          "Martin Würthner"
+        ]
+      },
+      {
+        "title": "FAMIX and XMI.",
+        "authors": [
+          "Sander Tichelaar",
+          "Stéphane Ducasse",
+          "Serge Demeyer"
+        ]
+      },
+      {
+        "title": "A Short Introduction to the GXL Software Exchange Format.",
+        "authors": [
+          "Richard C. Holt",
+          "Andreas Winter"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre1999.html": {
+    "header": "6th WCRE 1999: Atlanta, Georgia, USA",
+    "year": "1999",
+    "papers": [
+      {
+        "title": "Architectural Synthesis: Integrating Multiple Architectural Perspectives.",
+        "authors": [
+          "Robert Waters",
+          "Gregory D. Abowd"
+        ]
+      },
+      {
+        "title": "Software Architectural Transformation.",
+        "authors": [
+          "S. Jeromy Carrière",
+          "Steven G. Woods",
+          "Rick Kazman"
+        ]
+      },
+      {
+        "title": "Reusing Domains for the Construction of Reverse Engineering Tools.",
+        "authors": [
+          "Felipe Gouveia de Freitas",
+          "Julio César Sampaio do Prado Leite"
+        ]
+      },
+      {
+        "title": "Restructuring Functions with Low Cohesion.",
+        "authors": [
+          "Arun Lakhotia",
+          "Jean-Christophe Deprez"
+        ]
+      },
+      {
+        "title": "A Tool for Securely Integrating Legacy Systems into a Distributed Environment.",
+        "authors": [
+          "Timothy S. Souder",
+          "Spiros Mancoridis"
+        ]
+      },
+      {
+        "title": "Model Based User-Interface Reengineering.",
+        "authors": [
+          "K. Tucker",
+          "Kurt Stirewalt"
+        ]
+      },
+      {
+        "title": "The Impact of Copyright on the Development of Cutting Edge Binary Reverse Engineering Technology.",
+        "authors": [
+          "Cristina Cifuentes"
+        ]
+      },
+      {
+        "title": "A Framework for Classifying and Comparing Software Reverse Engineering and Design Recovery Techniques.",
+        "authors": [
+          "Gerald C. Gannod",
+          "Betty H. C. Cheng"
+        ]
+      },
+      {
+        "title": "GraX - An Interchange Format for Reengineering Tools.",
+        "authors": [
+          "Jürgen Ebert",
+          "Bernt Kullbach",
+          "Andreas Winter"
+        ]
+      },
+      {
+        "title": "A Formal Approach for Reverse Engineering: A Case Study.",
+        "authors": [
+          "Gerald C. Gannod",
+          "Betty H. C. Cheng"
+        ]
+      },
+      {
+        "title": "Nomen Est Omen: Analyzing the Language of Function Identifiers.",
+        "authors": [
+          "Bruno Caprile",
+          "Paolo Tonella"
+        ]
+      },
+      {
+        "title": "Educating JACKAL: Cliché Library Development and Use.",
+        "authors": [
+          "Judith D. Schlesinger",
+          "Alyson A. Reeves"
+        ]
+      },
+      {
+        "title": "Recovering Code to Documentation Links in OO Systems.",
+        "authors": [
+          "Giuliano Antoniol",
+          "Gerardo Canfora",
+          "Andrea De Lucia",
+          "Ettore Merlo"
+        ]
+      },
+      {
+        "title": "Task Orientation and Tailoring of Interactive Software Explanations.",
+        "authors": [
+          "Ali Erdem",
+          "W. Lewis Johnson"
+        ]
+      },
+      {
+        "title": "Type-Check Elimination: Two Object-Oriented Reengineering Patterns.",
+        "authors": [
+          "Stéphane Ducasse",
+          "Tamar Richner",
+          "Robb Nebbe"
+        ]
+      },
+      {
+        "title": "An Initial Approach towards Measuring and Characterizing Software Evolution.",
+        "authors": [
+          "Elizabeth Burd",
+          "Malcolm Munro"
+        ]
+      },
+      {
+        "title": "A Hybrid Reverse Engineering Approach Combining Metrics and Program Visualization.",
+        "authors": [
+          "Serge Demeyer",
+          "Stéphane Ducasse",
+          "Michele Lanza"
+        ]
+      },
+      {
+        "title": "MoJo: A Distance Metric for Software Clusterings.",
+        "authors": [
+          "Vassilios Tzerpos",
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "An Industrial Example of Database Reverse Engineering.",
+        "authors": [
+          "Michael R. Blaha"
+        ]
+      },
+      {
+        "title": "Risks Involved in Reengineering Projects.",
+        "authors": [
+          "Harry M. Sneed"
+        ]
+      },
+      {
+        "title": "A Software Model for Impact Analysis: A Validation Experiment.",
+        "authors": [
+          "Aniello Cimitile",
+          "Anna Rita Fasolino",
+          "Giuseppe Visaggio"
+        ]
+      },
+      {
+        "title": "Computing Program Modularizations Using the k-Cut Method.",
+        "authors": [
+          "Chris Jermaine"
+        ]
+      },
+      {
+        "title": "Experiments with Clustering as a Software Remodularization Method.",
+        "authors": [
+          "Nicolas Anquetil",
+          "Timothy Lethbridge"
+        ]
+      },
+      {
+        "title": "An Incremental Semi-Automatic Method for Component Recovery.",
+        "authors": [
+          "Rainer Koschke"
+        ]
+      },
+      {
+        "title": "QBO: A Query Tool Specially Developed to Explore Programs.",
+        "authors": [
+          "Francoise Balmas"
+        ]
+      },
+      {
+        "title": "The Design of a Resourceable and Retargetable Binary Translator.",
+        "authors": [
+          "Cristina Cifuentes",
+          "Mike Van Emmerik",
+          "Norman Ramsey"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Legacy Interfaces: An Interaction-Driven Approach.",
+        "authors": [
+          "Eleni Stroulia",
+          "Mohammad El-Ramly",
+          "Lanyan Kong",
+          "Paul G. Sorenson",
+          "Bruce Matichuk"
+        ]
+      },
+      {
+        "title": "On the Relationships between Static and Dynamic Models in Reverse Engineering Java Software.",
+        "authors": [
+          "Tarja Systä"
+        ]
+      },
+      {
+        "title": "Chava: Reverse Engineering and Tracking of Java Applets.",
+        "authors": [
+          "Jeffrey L. Korn",
+          "Yih-Farn Chen",
+          "Eleftherios Koutsofios"
+        ]
+      },
+      {
+        "title": "Partial Redesign of Java Software Systems Based on Clone Analysis.",
+        "authors": [
+          "Magdalena Balazinska",
+          "Ettore Merlo",
+          "Michel R. Dagenais",
+          "Bruno Laguë",
+          "Kostas Kontogiannis"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre1998.html": {
+    "header": "5th WCRE 1998: Honolulu, Hawai, USA",
+    "year": "1998",
+    "papers": [
+      {
+        "title": "Assisting Human Understanding to Aid the Targeting of Necessary Reengineering Work.",
+        "authors": [
+          "Elizabeth Burd",
+          "Malcolm Munro"
+        ]
+      },
+      {
+        "title": "Change And Adaptive Maintenance in Java Software Systems.",
+        "authors": [
+          "Derek Rayside",
+          "Scott Kerr",
+          "Kostas Kontogiannis"
+        ]
+      },
+      {
+        "title": "REP - chaRacterising and Exploiting Process component: Results of Experimentation.",
+        "authors": [
+          "Pierfrancesco Fusaro",
+          "Maria Tortorella",
+          "Giuseppe Visaggio"
+        ]
+      },
+      {
+        "title": "Evaluating Architectural Extraction Tools.",
+        "authors": [
+          "M. N. Armstrong",
+          "C. Trudeau"
+        ]
+      },
+      {
+        "title": "FEPSS: A Flexible and Extensible Program Comprehension Support System.",
+        "authors": [
+          "Tao Lin",
+          "Liam O'Brien"
+        ]
+      },
+      {
+        "title": "A Graph-Based Object Identification Process for Procedural Programs.",
+        "authors": [
+          "Ramachenga R. Valasareddi",
+          "Doris L. Carver"
+        ]
+      },
+      {
+        "title": "Incremental Migration Strategies: Data Flow Analysis For Wrapping.",
+        "authors": [
+          "Aniello Cimitile",
+          "Ugo de Carlini",
+          "Andrea De Lucia"
+        ]
+      },
+      {
+        "title": "On the Knowledge Required to Understand a Program.",
+        "authors": [
+          "Richard Clayton",
+          "Spencer Rugaber",
+          "Linda M. Wills"
+        ]
+      },
+      {
+        "title": "Managing Recovered Function and Structure of Legacy Software Components.",
+        "authors": [
+          "Melissa P. Chase",
+          "Steven M. Christey",
+          "David R. Harris",
+          "Alexander S. Yeh"
+        ]
+      },
+      {
+        "title": "Native Patterns.",
+        "authors": [
+          "M. P. A. Sellink",
+          "Chris Verhoef"
+        ]
+      },
+      {
+        "title": "Object-Oriented Reengineering of Information Systems in a Heterogeneous Distributed Environment.",
+        "authors": [
+          "Ulrike Kölsch"
+        ]
+      },
+      {
+        "title": "Outlining C Loops: Preliminary Results and Trends.",
+        "authors": [
+          "Francoise Balmas"
+        ]
+      },
+      {
+        "title": "PACKRAT: A Software Reengineering Case Study.",
+        "authors": [
+          "Gerald C. Gannod",
+          "Gora Sudindranath",
+          "Mark Fagnani",
+          "Betty H. C. Cheng"
+        ]
+      },
+      {
+        "title": "Program Comprehension in Multi-Language Systems.",
+        "authors": [
+          "Bernt Kullbach",
+          "Andreas Winter",
+          "Peter Dahm",
+          "Jürgen Ebert"
+        ]
+      },
+      {
+        "title": "Reengineering of Legacy Systems Based on Transformation Using the Object-Oriented Paradigm.",
+        "authors": [
+          "Rosângela A. D. Penteado",
+          "Paulo César Masiero",
+          "Antônio Francisco do Prado"
+        ]
+      },
+      {
+        "title": "Requirements for Integrating Software Architecture and Reengineering Models: CORUM II.",
+        "authors": [
+          "Rick Kazman",
+          "Steven G. Woods",
+          "S. Jeromy Carrière"
+        ]
+      },
+      {
+        "title": "Requirements for Repository Software.",
+        "authors": [
+          "Michael R. Blaha",
+          "David LaPlant",
+          "Erica Marvak"
+        ]
+      },
+      {
+        "title": "Reverse Engineering by Mining Dynamic Repositories.",
+        "authors": [
+          "Homayoun Dayani-Fard",
+          "Igor Jurisica"
+        ]
+      },
+      {
+        "title": "On Reverse Engineering of Vendor Databases.",
+        "authors": [
+          "Michael R. Blaha"
+        ]
+      },
+      {
+        "title": "ROMEO: Reverse Engineering from OO Source Code to OMT Design.",
+        "authors": [
+          "Theodoros Lantzos",
+          "Helen M. Edwards",
+          "Anthony Bryant",
+          "Neil Willis"
+        ]
+      },
+      {
+        "title": "Scalable Visualizations to Support Reverse Engineering: A Framework for Evaluation.",
+        "authors": [
+          "James H. Cross II",
+          "T. Dean Hendrix",
+          "Larry A. Barowski",
+          "Karl S. Mathias"
+        ]
+      },
+      {
+        "title": "Structural Manipulations of Software Architecture using Tarski Relational Algebra.",
+        "authors": [
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "Type Inference for COBOL Systems.",
+        "authors": [
+          "Arie van Deursen",
+          "Leon Moonen"
+        ]
+      },
+      {
+        "title": "A Visual Representation Model for Software Subsystem Decomposition.",
+        "authors": [
+          "Carlos Montes de Oca",
+          "Doris L. Carver"
+        ]
+      },
+      {
+        "title": "An Intermediate Representation for Reverse Engineering Analyses.",
+        "authors": [
+          "Rainer Koschke",
+          "Jean-Francois Girard"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre1997.html": {
+    "header": "4th WCRE 1997: Amsterdam, The Netherlands",
+    "year": "1997",
+    "papers": [
+      {
+        "title": "A Comparison of Four Reverse Engineering Tools.",
+        "authors": [
+          "Berndt Bellay",
+          "Harald C. Gall"
+        ]
+      },
+      {
+        "title": "How Do Program Understanding Tools Affect How Programmers Understand Programs?",
+        "authors": [
+          "Margaret-Anne D. Storey",
+          "Kenny Wong",
+          "Hausi A. Müller"
+        ]
+      },
+      {
+        "title": "Scenarios for the Identification of Objects in Legacy Systems.",
+        "authors": [
+          "Theo Wiggerts",
+          "Hans Bosma",
+          "Erwin Fielt"
+        ]
+      },
+      {
+        "title": "Using Clustering Algorithms in Legacy Systems Remodularization.",
+        "authors": [
+          "T. A. Wiggerts"
+        ]
+      },
+      {
+        "title": "Evaluation Experiments on the Detection of Programming Patterns Using Software Metrics.",
+        "authors": [
+          "Kostas Kontogiannis"
+        ]
+      },
+      {
+        "title": "Using Visualization for Architectural Localization and Extraction.",
+        "authors": [
+          "Dean F. Jerding",
+          "Spencer Rugaber"
+        ]
+      },
+      {
+        "title": "Comparison of Abstract Data Type and Abstract State Encapsulation Detection Techniques for Architectural Understanding.",
+        "authors": [
+          "Jean-Francois Girard",
+          "Rainer Koschke",
+          "Georg Schied"
+        ]
+      },
+      {
+        "title": "The Orphan Adoption Problem in Architecture Maintenance.",
+        "authors": [
+          "Vassilios Tzerpos",
+          "Richard C. Holt"
+        ]
+      },
+      {
+        "title": "JACKAL: A Hierarchical Approach to Program Understanding.",
+        "authors": [
+          "Alyson A. Reeves",
+          "Judith D. Schlesinger"
+        ]
+      },
+      {
+        "title": "Cliché Recognition in Legacy Software: A Scalable, Knowledge-Based Approach.",
+        "authors": [
+          "Srinivas Palthepu",
+          "Jim E. Greer",
+          "Gordon I. McCalla"
+        ]
+      },
+      {
+        "title": "Reverse Engineering is Reverse Forward Engineering.",
+        "authors": [
+          "Ira D. Baxter",
+          "Michael Mehlich"
+        ]
+      },
+      {
+        "title": "New Experiments with a Constraint-Based Approach to Program Plan Matching.",
+        "authors": [
+          "Alex Quilici",
+          "Steven Woods",
+          "Yongjun Zhang"
+        ]
+      },
+      {
+        "title": "Program Plan Recognition for Year 2000 Tools.",
+        "authors": [
+          "Arie van Deursen",
+          "Steven Woods",
+          "Alex Quilici"
+        ]
+      },
+      {
+        "title": "Tool Support for Reverse Engineering Multi-Lingual Software.",
+        "authors": [
+          "T. Dean Hendrix",
+          "James H. Cross II",
+          "Larry A. Barowski",
+          "Karl S. Mathias"
+        ]
+      },
+      {
+        "title": "Generation of Components for Software Renovation Factories from Context-Free Grammars.",
+        "authors": [
+          "Mark van den Brand",
+          "M. P. A. Sellink",
+          "Chris Verhoef"
+        ]
+      },
+      {
+        "title": "Domain Analysis for Transformational Reuse.",
+        "authors": [
+          "Melody M. Moore",
+          "Spencer Rugaber"
+        ]
+      },
+      {
+        "title": "DARE: Domain-Augmented ReEngineering.",
+        "authors": [
+          "Jean-Marc DeBaud"
+        ]
+      },
+      {
+        "title": "Dimensions of Database Reverse Engineering.",
+        "authors": [
+          "Michael R. Blaha"
+        ]
+      },
+      {
+        "title": "Extracting Entity-Relationship Schemas from Relational Databases: A Form-Driven Approach.",
+        "authors": [
+          "N. Mfourga"
+        ]
+      },
+      {
+        "title": "Knowledge Transfer in Database Reverse Engineering: A Supporting Case Study.",
+        "authors": [
+          "Jean-Luc Hainaut",
+          "Jean-Marc Hick",
+          "Jean Henrard",
+          "Didier Roland",
+          "Vincent Englebert"
+        ]
+      },
+      {
+        "title": "Program Interface Reengineering for Wrapping.",
+        "authors": [
+          "Harry M. Sneed"
+        ]
+      },
+      {
+        "title": "The Implications of Non-Functional Requirements for the Reengineering of Legacy Code.",
+        "authors": [
+          "Elizabeth Burd",
+          "Malcolm Munro"
+        ]
+      },
+      {
+        "title": "Toward a Framework for Conceptual and Formal Outlines of Programs.",
+        "authors": [
+          "Francoise Balmas"
+        ]
+      },
+      {
+        "title": "A Reverse Engineering Approach to Evaluate Function Point Rules.",
+        "authors": [
+          "Alain April",
+          "Ettore Merlo",
+          "Alain Abran"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre1996.html": {
+    "header": "3rd WCRE 1996: Monterey, CA, USA",
+    "year": "1996",
+    "papers": [
+      {
+        "title": "Finding Reusable Software Components in Large Systems.",
+        "authors": [
+          "James M. Neighbors"
+        ]
+      },
+      {
+        "title": "Reengineering Real-Time Embedded Software onto a Parallel Processing Platform.",
+        "authors": [
+          "Bruce A. Lewis",
+          "David J. McConnell"
+        ]
+      },
+      {
+        "title": "Some Experiments Toward Understanding How Program Plan Recognition Algorithms Scale.",
+        "authors": [
+          "Steven Woods",
+          "Alex Quilici"
+        ]
+      },
+      {
+        "title": "On Designing an Experiment to Evaluate a Reverse Engineering Tool.",
+        "authors": [
+          "Margaret-Anne D. Storey",
+          "Kenny Wong",
+          "P. Fong",
+          "D. Hooper",
+          "K. Hopkins",
+          "Hausi A. Müller"
+        ]
+      },
+      {
+        "title": "Rule-Based Detection for Reverse Engineering User Interfaces.",
+        "authors": [
+          "Melody M. Moore"
+        ]
+      },
+      {
+        "title": "Partial Automation of an Integrated Reverse Engineering Environment of Binary Code.",
+        "authors": [
+          "Cristina Cifuentes"
+        ]
+      },
+      {
+        "title": "Mandrake: A Tool for Reverse-Engineering IBM Assembly Code.",
+        "authors": [
+          "Paul H. Morris",
+          "Robert E. Filman"
+        ]
+      },
+      {
+        "title": "Reverse Engineering of Assembler Programs: A Model-Based Approach and its Logical Basis.",
+        "authors": [
+          "Tom Lake",
+          "Tim Blanchard"
+        ]
+      },
+      {
+        "title": "A Portable Assembler Reverse Engineering Environment (PARE).",
+        "authors": [
+          "Susan N. Roberts",
+          "Richard L. Piazza",
+          "D. G. Katz"
+        ]
+      },
+      {
+        "title": "A Catalog of Object Model Transformations.",
+        "authors": [
+          "Michael R. Blaha",
+          "William J. Premerlani"
+        ]
+      },
+      {
+        "title": "Creating a Research Infrastructure for Reengineering.",
+        "authors": [
+          "Spencer Rugaber",
+          "Linda M. Wills"
+        ]
+      },
+      {
+        "title": "Encapsulating Legacy Software for Use in Client/Server Systems.",
+        "authors": [
+          "Harry M. Sneed"
+        ]
+      },
+      {
+        "title": "Reverse Engineering a Medical Database.",
+        "authors": [
+          "Andrew J. McAllister"
+        ]
+      },
+      {
+        "title": "Structure Elicitation in Database Reverse Engineering.",
+        "authors": [
+          "Jean-Luc Hainaut",
+          "Jean Henrard",
+          "Didier Roland",
+          "Vincent Englebert",
+          "Jean-Marc Hick"
+        ]
+      },
+      {
+        "title": "Combining a Flexible Data Model and Phase Schema Translation in Data Model Reverse Engineering.",
+        "authors": [
+          "Kathi Hogshead Davis"
+        ]
+      },
+      {
+        "title": "Analysis and Presentation of Recovered Software Architectures.",
+        "authors": [
+          "Melissa P. Chase",
+          "David R. Harris",
+          "Susan N. Roberts",
+          "Alexander S. Yeh"
+        ]
+      },
+      {
+        "title": "GASE: visualizing Software Evolution-in-the-Large.",
+        "authors": [
+          "Richard C. Holt",
+          "J. Y. Pak"
+        ]
+      },
+      {
+        "title": "Object-Oriented Cobol Recycling.",
+        "authors": [
+          "Harry M. Sneed"
+        ]
+      },
+      {
+        "title": "An Overall Process Based on Fusion to Reverse Engineer Legacy Code.",
+        "authors": [
+          "Rosângela A. D. Penteado",
+          "Fernão Stella R. Germano",
+          "Paulo César Masiero"
+        ]
+      },
+      {
+        "title": "Extracting Reusable Modules from Legacy Code: Considering the Issues of Module Granularity.",
+        "authors": [
+          "Elizabeth Burd",
+          "Malcolm Munro",
+          "Clazien D. Wezeman"
+        ]
+      },
+      {
+        "title": "Augmenting Pattern-Based Architectural Recovery with Flow Analysis: Mosaic -A Case Study.",
+        "authors": [
+          "Paolo Tonella",
+          "Roberto Fiutem",
+          "Giuliano Antoniol",
+          "Ettore Merlo"
+        ]
+      },
+      {
+        "title": "Design Recovery by Automated Search for Structural Design Patterns in Object-Oriented Softwar.",
+        "authors": [
+          "Christian Krämer",
+          "Lutz Prechelt"
+        ]
+      },
+      {
+        "title": "Lessons from a Domain-Based Reengineering Effort.",
+        "authors": [
+          "Jean-Marc DeBaud"
+        ]
+      },
+      {
+        "title": "Identifying Enumeration Types Modeled with Symbolic Constants.",
+        "authors": [
+          "John M. Gravley",
+          "Arun Lakhotia"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Concurrent Programs Using Formal Modelling and Analysis.",
+        "authors": [
+          "E. J. Younger",
+          "Z. Luo",
+          "Keith H. Bennett",
+          "Tim M. Bull"
+        ]
+      },
+      {
+        "title": "Using Informal and Formal Techniques for the Reverse Engineering of C Programs.",
+        "authors": [
+          "Gerald C. Gannod",
+          "Betty H. C. Cheng"
+        ]
+      },
+      {
+        "title": "Evaluation of a Knowledge-Based Approach to Program Understanding.",
+        "authors": [
+          "Salwa K. Abd-El-Hafiz"
+        ]
+      },
+      {
+        "title": "Early Field Experience with the Software Recounaissance Technique for Program Comprehension.",
+        "authors": [
+          "Norman Wilde",
+          "Christopher Casey"
+        ]
+      },
+      {
+        "title": "A Cliche-Based Environment to Support Architectural Reverse Engineering.",
+        "authors": [
+          "Roberto Fiutem",
+          "Paolo Tonella",
+          "Giuliano Antoniol",
+          "Ettore Merlo"
+        ]
+      },
+      {
+        "title": "Preprocessors from an Abstract Point of View.",
+        "authors": [
+          "Jean-Marie Favre"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre1995.html": {
+    "header": "2nd WCRE 1995: Toronto, Canada",
+    "year": "1995",
+    "papers": [
+      {
+        "title": "Automating Testing by Reverse Engineering of Software Documentation.",
+        "authors": [
+          "Patricia Lutsky"
+        ]
+      },
+      {
+        "title": "Recovering Business Rules from Structured Analysis Specifications.",
+        "authors": [
+          "Julio César Sampaio do Prado Leite",
+          "Paulo Monteiro Cerqueira"
+        ]
+      },
+      {
+        "title": "Retrieving Information from Data Flow Diagrams.",
+        "authors": [
+          "Gregory Butler",
+          "Peter Grogono",
+          "Rajjan Shinghal",
+          "Indra A. Tjandra"
+        ]
+      },
+      {
+        "title": "Reengineering Procedural into Data Flow Programs.",
+        "authors": [
+          "Philip Newcomb",
+          "Paul Martens"
+        ]
+      },
+      {
+        "title": "RESCUE: Legacy Systems Translator.",
+        "authors": [
+          "Federico Zoufaly",
+          "Carlos Araya",
+          "Iván Sanabria",
+          "Fawsy Bendeck"
+        ]
+      },
+      {
+        "title": "Legacy System Cataloging Facility.",
+        "authors": [
+          "Philip Newcomb"
+        ]
+      },
+      {
+        "title": "Design of a Generic Reverse Engineering Assistant Tool.",
+        "authors": [
+          "Stan Jarzabek",
+          "Tan Poh Keam"
+        ]
+      },
+      {
+        "title": "Customized Tools for Software Quality Assurance and Reengineering.",
+        "authors": [
+          "Charles H. Wells",
+          "Russell Brand",
+          "Lawrence Markosian"
+        ]
+      },
+      {
+        "title": "Integrating Reengineering, Reuse and Specification Tool Environments to Enable Reverse Engineering.",
+        "authors": [
+          "Franklin J. Zigman",
+          "Mark L. Wilson"
+        ]
+      },
+      {
+        "title": "On Finding Duplication and Near-Duplication in Large Software Systems.",
+        "authors": [
+          "Brenda S. Baker"
+        ]
+      },
+      {
+        "title": "Pattern Matching for Design Concept Localization.",
+        "authors": [
+          "Kostas Kontogiannis",
+          "Renato de Mori",
+          "Morris Bernstein",
+          "Michael Galler",
+          "Ettore Merlo"
+        ]
+      },
+      {
+        "title": "Analyzing Empirical Data from a Reverse Engineering Project.",
+        "authors": [
+          "Piernicola Fiore",
+          "Filippo Lanubile",
+          "Giuseppe Visaggio"
+        ]
+      },
+      {
+        "title": "Observed Idiosyncracies of Relational Database Designs.",
+        "authors": [
+          "Michael R. Blaha",
+          "William J. Premerlani"
+        ]
+      },
+      {
+        "title": "Deriving a Logical Data Model for a System Using the RECAST Method.",
+        "authors": [
+          "Helen M. Edwards",
+          "Malcolm Munro"
+        ]
+      },
+      {
+        "title": "Requirements for Information System Reverse Engineering Support.",
+        "authors": [
+          "Jean-Luc Hainaut",
+          "Vincent Englebert",
+          "Jean Henrard",
+          "Jean-Marc Hick",
+          "Didier Roland"
+        ]
+      },
+      {
+        "title": "August-II: A Tool for Step-by-Step Data Model Reverse Engineering.",
+        "authors": [
+          "Kathi Hogshead Davis"
+        ]
+      },
+      {
+        "title": "DECODE: A Cooperative Environment for Reverse-Engineering Legacy Software.",
+        "authors": [
+          "Alex Quilici",
+          "David N. Chin"
+        ]
+      },
+      {
+        "title": "The Interleaving Problem in Program Understanding.",
+        "authors": [
+          "Spencer Rugaber",
+          "Kurt Stirewalt",
+          "Linda M. Wills"
+        ]
+      },
+      {
+        "title": "Qualifying Reusable Functions Using Symbolic Execution.",
+        "authors": [
+          "Aniello Cimitile",
+          "Andrea De Lucia",
+          "Malcolm Munro"
+        ]
+      },
+      {
+        "title": "Strongest Postcondition Semantics as the Formal Basis for Reverse Engineering.",
+        "authors": [
+          "Gerald C. Gannod",
+          "Betty H. C. Cheng"
+        ]
+      },
+      {
+        "title": "Formal Representation of Reusable Software Modules.",
+        "authors": [
+          "Indra A. Tjandra",
+          "Gregory Butler"
+        ]
+      },
+      {
+        "title": "Finding Objects in Procedural Programs: An Alternative Approach.",
+        "authors": [
+          "Harald C. Gall",
+          "René Klösch"
+        ]
+      },
+      {
+        "title": "Extracting Object-Oriented Specification from Procedurally Oriented Programs.",
+        "authors": [
+          "Harry M. Sneed",
+          "Erika Nyáry"
+        ]
+      },
+      {
+        "title": "Recovering Abstract Data Types and Object Instances from a Conventional Procedural Language.",
+        "authors": [
+          "Alexander S. Yeh",
+          "David R. Harris",
+          "Howard B. Reubenstein"
+        ]
+      },
+      {
+        "title": "Reengineering Procedural into Object-Oriented Systems.",
+        "authors": [
+          "Philip Newcomb",
+          "Gordon Kotik"
+        ]
+      },
+      {
+        "title": "Recognizers for Extracting Architectural Features from Source Code.",
+        "authors": [
+          "David R. Harris",
+          "Alexander S. Yeh",
+          "Howard B. Reubenstein"
+        ]
+      },
+      {
+        "title": "Toward Experimental Evaluation of Subsystem Classification Recovery Techniques.",
+        "authors": [
+          "Arun Lakhotia",
+          "John M. Gravley"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wcre/wcre1993.html": {
+    "header": "1st WCRE 1993: Baltimore, Maryland, USA",
+    "year": "1993",
+    "papers": [
+      {
+        "title": "A Cognitive Approach to Program Understanding.",
+        "authors": [
+          "Koen Bertels",
+          "Philip Vanneste",
+          "Carlos De Backer"
+        ]
+      },
+      {
+        "title": "Integrating Formal and Structured Methods in Reverse Engineering.",
+        "authors": [
+          "Kevin Lano",
+          "Howard P. Haughton"
+        ]
+      },
+      {
+        "title": "RECAST: Reverse Engineering from COBOL to SSADM Specifications.",
+        "authors": [
+          "Helen M. Edwards",
+          "Malcolm Munro"
+        ]
+      },
+      {
+        "title": "Recovering Reusable Components from Legacy Systems.",
+        "authors": [
+          "Jim Q. Ning",
+          "Andre Engberts",
+          "Wojtek Kozaczynski"
+        ]
+      },
+      {
+        "title": "A Reverse Engineering Method for Identifying Reusable Abstract Data Types.",
+        "authors": [
+          "Gerardo Canfora",
+          "Aniello Cimitile",
+          "Malcolm Munro"
+        ]
+      },
+      {
+        "title": "Identification and Extraction of \"Domain Independent\" Components in Large Programs.",
+        "authors": [
+          "F. Cutillo",
+          "Piernicola Fiore",
+          "Giuseppe Visaggio"
+        ]
+      },
+      {
+        "title": "A Prototype System for static and Dynamic Program Understanding.",
+        "authors": [
+          "David P. Olshefski",
+          "Alan Cole"
+        ]
+      },
+      {
+        "title": "GRASP/Ada: Reverse Engineering of Control Structure Diagrams.",
+        "authors": [
+          "James H. Cross II"
+        ]
+      },
+      {
+        "title": "Separating Parsing and Analysis in Reverse Engineering Tools.",
+        "authors": [
+          "Howard B. Reubenstein",
+          "Richard L. Piazza",
+          "Susan N. Roberts"
+        ]
+      },
+      {
+        "title": "A Hybrid Approach to Recognizing Programming Plans.",
+        "authors": [
+          "Alex Quilici"
+        ]
+      },
+      {
+        "title": "Flexible Control for Program Recognition.",
+        "authors": [
+          "Linda M. Wills"
+        ]
+      },
+      {
+        "title": "Challenges for the Field of Reverse Engineering.",
+        "authors": [
+          "Peter G. Selfridge",
+          "Richard C. Waters",
+          "Elliot J. Chikofsky"
+        ]
+      },
+      {
+        "title": "An Approach for Reverse Engineering of Relational Databases.",
+        "authors": [
+          "William J. Premerlani",
+          "Michael R. Blaha"
+        ]
+      },
+      {
+        "title": "Contribution to a Theory of Database Reverse Engineering.",
+        "authors": [
+          "Jean-Luc Hainaut",
+          "Muriel Chandelon",
+          "Catherine Tonneau",
+          "Michel Joris"
+        ]
+      },
+      {
+        "title": "Reverse Engineering of User Interfaces.",
+        "authors": [
+          "Ettore Merlo",
+          "Jean-Francois Girard",
+          "Kostas Kontogiannis",
+          "Prakash Panangaden",
+          "Renato de Mori"
+        ]
+      },
+      {
+        "title": "A Framework for Reverse Engineering DoD Legacy Information Systems.",
+        "authors": [
+          "Peter H. Aiken",
+          "Alice H. Muntz",
+          "Russ Richards"
+        ]
+      },
+      {
+        "title": "Reverse Engineering Programs via Dynamic Analysis.",
+        "authors": [
+          "Herbert Ritsch",
+          "Harry M. Sneed"
+        ]
+      },
+      {
+        "title": "Design Recovery for Software Testing of Object-Oriented Programs.",
+        "authors": [
+          "David Chenho Kung",
+          "Jerry Gao",
+          "Pei Hsia",
+          "Jeremy Lin",
+          "Yasufumi Toyoshima"
+        ]
+      },
+      {
+        "title": "A Practical Program Transformation System for Reverse Engineering.",
+        "authors": [
+          "Martin P. Ward",
+          "K. H. Bennett"
+        ]
+      },
+      {
+        "title": "Automating the Modularization of Large COBOL Programs: Application of an Enabling Technology for Reengineering.",
+        "authors": [
+          "Philip Newcomb",
+          "Lawrence Markosian"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,4766 @@
+{
+  "https://dblp.org/db/conf/hotos/hotos2025.html": {
+    "header": "20th HotOS 2025:\nBanff, AB, Canada",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "How I learned to stop worrying and love learned OS policies.",
+        "authors": [
+          "Divyanshu Saxena",
+          "Jiayi Chen",
+          "Sujay Yadalam",
+          "Yeonju Ro",
+          "Rohit Dwivedula",
+          "Eric H. Campbell",
+          "Aditya Akella",
+          "Christopher J. Rossbach",
+          "Michael Swift"
+        ]
+      },
+      {
+        "title": "Contextual Agent Security: A Policy for Every Purpose.",
+        "authors": [
+          "Lillian Tsai",
+          "Eugene Bagdasarian"
+        ]
+      },
+      {
+        "title": "Guillotine: Hypervisors for Isolating Malicious AIs.",
+        "authors": [
+          "James Mickens",
+          "Sarah Radway",
+          "Ravi Netravali"
+        ]
+      },
+      {
+        "title": "Lightweight Hypervisor Verification: Putting the Hardware Burger on a Diet.",
+        "authors": [
+          "Charly Castes",
+          "François Costa",
+          "Nate Foster",
+          "Thomas Bourgeat",
+          "Edouard Bugnion"
+        ]
+      },
+      {
+        "title": "Can Large Language Models Verify System Software? A Case Study Using FSCQ as a Benchmark.",
+        "authors": [
+          "Jianxing Qin",
+          "Alexander Du",
+          "Danfeng Zhang",
+          "Matthew Lentz",
+          "Danyang Zhuo"
+        ]
+      },
+      {
+        "title": "Modular, Full-System Verification.",
+        "authors": [
+          "Gregory Malecha",
+          "Hoang-Hai Dang",
+          "Paolo G. Giarrusso",
+          "Simon Hudon",
+          "Jan-Oliver Kaiser",
+          "David Swasey"
+        ]
+      },
+      {
+        "title": "Tolerate It if You Cannot Reduce It: Handling Latency in Tiered Memory.",
+        "authors": [
+          "Musa Unal",
+          "Vishal Gupta",
+          "Yueyang Pan",
+          "Yujie Ren",
+          "Sanidhya Kashyap"
+        ]
+      },
+      {
+        "title": "My CXL Pool Obviates Your PCIe Switch.",
+        "authors": [
+          "Yuhong Zhong",
+          "Daniel S. Berger",
+          "Pantea Zardoshti",
+          "Enrique Saurez",
+          "Jacob Nelson",
+          "Antonis Psistakis",
+          "Joshua Fried",
+          "Asaf Cidon"
+        ]
+      },
+      {
+        "title": "Rethinking Tiered Storage: Talk to File Systems, Not Device Drivers.",
+        "authors": [
+          "Jiyuan Zhang",
+          "Jongyul Kim",
+          "Chloe Alverti",
+          "Peizhe Liu",
+          "Weiwei Jia",
+          "Tianyin Xu"
+        ]
+      },
+      {
+        "title": "Uniting the World by Dividing it: Federated Maps to Enable Spatial Applications.",
+        "authors": [
+          "Sagar Bharadwaj",
+          "Anthony Rowe",
+          "Srinivasan Seshan"
+        ]
+      },
+      {
+        "title": "Real Life Is Uncertain. Consensus Should Be Too!",
+        "authors": [
+          "Reginald Frank",
+          "Octavio Lomeli",
+          "Neil Giridharan",
+          "Soujanya Ponnapalli",
+          "Marcos K. Aguilera",
+          "Natacha Crooks"
+        ]
+      },
+      {
+        "title": "From Ahead-of- to Just-in-Time and Back Again: Static Analysis for Unix Shell Programs.",
+        "authors": [
+          "Lukas Lazarek",
+          "Seong-Heon Jung",
+          "Evangelos Lamprou",
+          "Zekai Li",
+          "Anirudh Narsipur",
+          "Eric Zhao",
+          "Michael Greenberg",
+          "Konstantinos Kallas",
+          "Konstantinos Mamouras",
+          "Nikos Vasilakis"
+        ]
+      },
+      {
+        "title": "Spork: A posix_spawn you can use as a fork.",
+        "authors": [
+          "Manuel Vögele",
+          "Christopher Thomas",
+          "Timo Hönig"
+        ]
+      },
+      {
+        "title": "Apiary: An OS for the Modern FPGA.",
+        "authors": [
+          "Katie Lim",
+          "Matthew Giordano",
+          "Irene Zhang",
+          "Baris Kasikci",
+          "Thomas E. Anderson"
+        ]
+      },
+      {
+        "title": "Storage Class Memory is Dead, All Hail Managed-Retention Memory: Rethinking Memory for the AI Era.",
+        "authors": [
+          "Sergey Legtchenko",
+          "Ioan A. Stefanovici",
+          "Richard Black",
+          "Antony I. T. Rowstron",
+          "Junyi Liu",
+          "Paolo Costa",
+          "Burcu Canakci",
+          "Dushyanth Narayanan",
+          "Xingbo Wu"
+        ]
+      },
+      {
+        "title": "Towards ML System Extensibility.",
+        "authors": [
+          "Weixin Deng",
+          "Andy Ruan",
+          "Megan Frisella",
+          "Kai-Hsun Chen",
+          "SangBin Cho",
+          "Jack Tigar Humphries",
+          "Rui Qiao",
+          "Stephanie Wang"
+        ]
+      },
+      {
+        "title": "Good things come in small packages: Should we build AI clusters with Lite-GPUs?",
+        "authors": [
+          "Burcu Canakci",
+          "Junyi Liu",
+          "Xingbo Wu",
+          "Nathanaël Cheriere",
+          "Paolo Costa",
+          "Sergey Legtchenko",
+          "Dushyanth Narayanan",
+          "Antony I. T. Rowstron"
+        ]
+      },
+      {
+        "title": "Batching with End-to-End Performance Estimation.",
+        "authors": [
+          "Avidan Borisov",
+          "Nadav Amit",
+          "Dan Tsafrir"
+        ]
+      },
+      {
+        "title": "Stop Taking the Scenic Route: the Shortest Distance Between the CPU and the NIC is MMIO.",
+        "authors": [
+          "Wei Siew Liew",
+          "Md Ashfaqur Rahaman",
+          "James McMahon",
+          "Ryan Stutsman",
+          "Vijay Nagarajan"
+        ]
+      },
+      {
+        "title": "The NIC should be part of the OS.",
+        "authors": [
+          "Pengcheng Xu",
+          "Timothy Roscoe"
+        ]
+      },
+      {
+        "title": "Rethinking RPC Communication for Microservices-based Applications.",
+        "authors": [
+          "Xiangfeng Zhu",
+          "Yang Zhou",
+          "Yuyao Wang",
+          "Xiangyu Gao",
+          "Arvind Krishnamurthy",
+          "Sam Kumar",
+          "Ratul Mahajan",
+          "Danyang Zhuo"
+        ]
+      },
+      {
+        "title": "Understanding the limitations of pubsub systems.",
+        "authors": [
+          "Atul Adya",
+          "Phil Bogle",
+          "Colin Meek"
+        ]
+      },
+      {
+        "title": "Analyzing Metastable Failures.",
+        "authors": [
+          "Rebecca Isaacs",
+          "Peter Alvaro",
+          "Rupak Majumdar",
+          "Kiran Kumar",
+          "Muniswamy Reddy",
+          "Mahmoud Salamati",
+          "Sadegh Soudjani"
+        ]
+      },
+      {
+        "title": "Serve Programs, Not Prompts.",
+        "authors": [
+          "In Gim",
+          "Lin Zhong"
+        ]
+      },
+      {
+        "title": "Granular Resource Demand Heterogeneity.",
+        "authors": [
+          "Yizhuo Liang",
+          "Ramesh Govindan",
+          "Seo Jin Park"
+        ]
+      },
+      {
+        "title": "Designing a Datacenter-wide Distributed Shared Log.",
+        "authors": [
+          "Micah Murray",
+          "Wen Zhang",
+          "Aisha Mushtaq",
+          "Natacha Crooks",
+          "Aurojit Panda",
+          "Scott Shenker"
+        ]
+      },
+      {
+        "title": "The Case for Energy Clarity.",
+        "authors": [
+          "Fan Chung",
+          "Henry Kuo",
+          "George Candea"
+        ]
+      },
+      {
+        "title": "Leveraging Software Fault Tolerance for Longer Flash Hardware Lifespan.",
+        "authors": [
+          "Aviad Zuck",
+          "Rob Johnson",
+          "Donald E. Porter",
+          "Dan Tsafrir"
+        ]
+      },
+      {
+        "title": "Towards Resource-Efficient Compound AI Systems.",
+        "authors": [
+          "Gohar Irfan Chaudhry",
+          "Esha Choukse",
+          "Íñigo Goiri",
+          "Rodrigo Fonseca",
+          "Adam Belay",
+          "Ricardo Bianchini"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos2023.html": {
+    "header": "19th HotOS 2023:\nProvidence, RI, USA",
+    "year": "2023",
+    "papers": [
+      {
+        "title": "CPU-free Computing: A Vision with a Blueprint.",
+        "authors": [
+          "Animesh Trivedi",
+          "Marco Spaziani Brunella"
+        ]
+      },
+      {
+        "title": "Metal: An Open Architecture for Developing Processor Features.",
+        "authors": [
+          "Siyao Zhao",
+          "Ali José Mashtizadeh"
+        ]
+      },
+      {
+        "title": "Software-Defined CPU Modes.",
+        "authors": [
+          "Michael Roitzsch",
+          "Till Miemietz",
+          "Christian von Elm",
+          "Nils Asmussen"
+        ]
+      },
+      {
+        "title": "Out of Hand for Hardware? Within Reach for Software!",
+        "authors": [
+          "Zhihong Luo",
+          "Silvery Fu",
+          "Emmanuel Amaro",
+          "Amy Ousterhout",
+          "Sylvia Ratnasamy",
+          "Scott Shenker"
+        ]
+      },
+      {
+        "title": "The Case for Performance Interfaces for Hardware Accelerators.",
+        "authors": [
+          "Rishabh R. Iyer",
+          "Jiacheng Ma",
+          "Katerina J. Argyraki",
+          "George Candea",
+          "Sylvia Ratnasamy"
+        ]
+      },
+      {
+        "title": "Putting out the hardware dumpster fire.",
+        "authors": [
+          "Ben Fiedler",
+          "Daniel Schwyn",
+          "Constantin Gierczak-Galle",
+          "David A. Cock",
+          "Timothy Roscoe"
+        ]
+      },
+      {
+        "title": "Prefetching Using Principles of Hippocampal-Neocortical Interaction.",
+        "authors": [
+          "Michael Wu",
+          "Ketaki Joshi",
+          "Andrew Sheinberg",
+          "Guilherme Cox",
+          "Anurag Khandelwal",
+          "Raghavendra Pradyumna Pothukuchi",
+          "Abhishek Bhattacharjee"
+        ]
+      },
+      {
+        "title": "Degrading Data to Save the Planet.",
+        "authors": [
+          "Aviad Zuck",
+          "Donald E. Porter",
+          "Dan Tsafrir"
+        ]
+      },
+      {
+        "title": "FIFO can be Better than LRU: the Power of Lazy Promotion and Quick Demotion.",
+        "authors": [
+          "Juncheng Yang",
+          "Ziyue Qiu",
+          "Yazhuo Zhang",
+          "Yao Yue",
+          "K. V. Rashmi"
+        ]
+      },
+      {
+        "title": "System Virtualization for Neural Processing Units.",
+        "authors": [
+          "Yuqi Xue",
+          "Yiqi Liu",
+          "Jian Huang"
+        ]
+      },
+      {
+        "title": "HotGPT: How to Make Software Documentation More Useful with a Large Language Model?",
+        "authors": [
+          "Yiming Su",
+          "Chengcheng Wan",
+          "Utsav Sethi",
+          "Shan Lu",
+          "Madan Musuvathi",
+          "Suman Nath"
+        ]
+      },
+      {
+        "title": "Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers.",
+        "authors": [
+          "Cunchen Hu",
+          "Chenxi Wang",
+          "Sa Wang",
+          "Ninghui Sun",
+          "Yungang Bao",
+          "Jieru Zhao",
+          "Sanidhya Kashyap",
+          "Pengfei Zuo",
+          "Xusheng Chen",
+          "Liangliang Xu",
+          "Qin Zhang",
+          "Hao Feng",
+          "Yizhou Shan"
+        ]
+      },
+      {
+        "title": "Executing Shell Scripts in the Wrong Order, Correctly.",
+        "authors": [
+          "Georgios Liargkovas",
+          "Konstantinos Kallas",
+          "Michael Greenberg",
+          "Nikos Vasilakis"
+        ]
+      },
+      {
+        "title": "Towards Modern Development of Cloud Applications.",
+        "authors": [
+          "Sanjay Ghemawat",
+          "Robert Grandl",
+          "Srdjan Petrovic",
+          "Michael Whittaker",
+          "Parveen Patel",
+          "Ivan Posva",
+          "Amin Vahdat"
+        ]
+      },
+      {
+        "title": "Fabric-Centric Computing.",
+        "authors": [
+          "Ming Liu"
+        ]
+      },
+      {
+        "title": "Towards Increased Datacenter Efficiency with Soft Memory.",
+        "authors": [
+          "Megan Frisella",
+          "Shirley Loayza Sanchez",
+          "Malte Schwarzkopf"
+        ]
+      },
+      {
+        "title": "NextGen-Malloc: Giving Memory Allocator Its Own Room in the House.",
+        "authors": [
+          "Ruihao Li",
+          "Qinzhe Wu",
+          "Krishna Kavi",
+          "Gayatri Mehta",
+          "Neeraja J. Yadwadkar",
+          "Lizy K. John"
+        ]
+      },
+      {
+        "title": "Automatic Kernel Offload Using BPF.",
+        "authors": [
+          "Farbod Shahinfar",
+          "Sebastiano Miano",
+          "Giuseppe Siracusano",
+          "Roberto Bifulco",
+          "Aurojit Panda",
+          "Gianni Antichi"
+        ]
+      },
+      {
+        "title": "Kernel extension verification is untenable.",
+        "authors": [
+          "Jinghao Jia",
+          "Raj Sahu",
+          "Adam Oswald",
+          "Dan Williams",
+          "Michael V. Le",
+          "Tianyin Xu"
+        ]
+      },
+      {
+        "title": "Beyond isolation: OS verification as a foundation for correct applications.",
+        "authors": [
+          "Matthias Brun",
+          "Reto Achermann",
+          "Tej Chajed",
+          "Jon Howell",
+          "Gerd Zellweger",
+          "Andrea Lattuada"
+        ]
+      },
+      {
+        "title": "Evolving Operating System Kernels Towards Secure Kernel-Driver Interfaces.",
+        "authors": [
+          "Anton Burtsev",
+          "Vikram Narayanan",
+          "Yongzhe Huang",
+          "Kaiming Huang",
+          "Gang Tan",
+          "Trent Jaeger"
+        ]
+      },
+      {
+        "title": "Why write address translation OS code yourself when you can synthesize it?",
+        "authors": [
+          "Reto Achermann",
+          "Ilias Karimalis",
+          "Margo I. Seltzer"
+        ]
+      },
+      {
+        "title": "FBMM: Using the VFS for Extensibility in Kernel Memory Management.",
+        "authors": [
+          "Bijan Tabatabai",
+          "Mark Mansi",
+          "Michael M. Swift"
+        ]
+      },
+      {
+        "title": "Programming Fully Disaggregated Systems.",
+        "authors": [
+          "Christoph Anneser",
+          "Lukas Vogel",
+          "Ferdinand Gruber",
+          "Maximilian Bandle",
+          "Jana Giceva"
+        ]
+      },
+      {
+        "title": "Unleashing True Utility Computing with Quicksand.",
+        "authors": [
+          "Zhenyuan Ruan",
+          "Shihang Li",
+          "Kaiyan Fan",
+          "Marcos K. Aguilera",
+          "Adam Belay",
+          "Seo Jin Park",
+          "Malte Schwarzkopf"
+        ]
+      },
+      {
+        "title": "Towards a Manageable Intra-Host Network.",
+        "authors": [
+          "Xinhao Kong",
+          "Jiaqi Lou",
+          "Wei Bai",
+          "Nam Sung Kim",
+          "Danyang Zhuo"
+        ]
+      },
+      {
+        "title": "Towards (Really) Safe and Fast Confidential I/O.",
+        "authors": [
+          "Hugo Lefeuvre",
+          "David Chisnall",
+          "Marios Kogias",
+          "Pierre Olivier"
+        ]
+      },
+      {
+        "title": "Access Control for Database Applications: Beyond Policy Enforcement.",
+        "authors": [
+          "Wen Zhang",
+          "Aurojit Panda",
+          "Scott Shenker"
+        ]
+      },
+      {
+        "title": "Creating Trust by Abolishing Hierarchies.",
+        "authors": [
+          "Charly Castes",
+          "Adrien Ghosn",
+          "Neelu Shivprakash Kalani",
+          "Yuchen Qian",
+          "Marios Kogias",
+          "Mathias Payer",
+          "Edouard Bugnion"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos2021.html": {
+    "header": "18th HotOS 2021: Ann Arbor, Michigan, USA",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "The last CPU.",
+        "authors": [
+          "Joel Nider",
+          "Alexandra (Sasha) Fedorova"
+        ]
+      },
+      {
+        "title": "Cores that don't count.",
+        "authors": [
+          "Peter H. Hochschild",
+          "Paul Turner",
+          "Jeffrey C. Mogul",
+          "Rama Govindaraju",
+          "Parthasarathy Ranganathan",
+          "David E. Culler",
+          "Amin Vahdat"
+        ]
+      },
+      {
+        "title": "A case against (most) context switches.",
+        "authors": [
+          "Jack Tigar Humphries",
+          "Kostis Kaffes",
+          "David Mazières",
+          "Christos Kozyrakis"
+        ]
+      },
+      {
+        "title": "From cloud computing to sky computing.",
+        "authors": [
+          "Ion Stoica",
+          "Scott Shenker"
+        ]
+      },
+      {
+        "title": "User-defined cloud.",
+        "authors": [
+          "Yiying Zhang",
+          "Ardalan Amiri Sani",
+          "Guoqing Harry Xu"
+        ]
+      },
+      {
+        "title": "Rethinking networking abstractions for cloud tenants.",
+        "authors": [
+          "Sarah McClure",
+          "Sylvia Ratnasamy",
+          "Deepak Bansal",
+          "Jitendra Padhye"
+        ]
+      },
+      {
+        "title": "The RESTless cloud.",
+        "authors": [
+          "Nathan Pemberton",
+          "Johann Schleier-Smith",
+          "Joseph E. Gonzalez"
+        ]
+      },
+      {
+        "title": "From warm to hot starts: leveraging runtimes for the serverless era.",
+        "authors": [
+          "João Carreira",
+          "Sumer Kohli",
+          "Rodrigo Bruno",
+          "Pedro Fonseca"
+        ]
+      },
+      {
+        "title": "Systems research is running out of time.",
+        "authors": [
+          "Ali Najafi",
+          "Amy Tai",
+          "Michael Wei"
+        ]
+      },
+      {
+        "title": "Century-scale smart infrastructure.",
+        "authors": [
+          "Dhananjay Jagtap",
+          "Nishant Bhaskar",
+          "Pat Pannuto"
+        ]
+      },
+      {
+        "title": "FlexOS: making OS isolation flexible.",
+        "authors": [
+          "Hugo Lefeuvre",
+          "Vlad-Andrei Badoiu",
+          "Stefan Teodorescu",
+          "Pierre Olivier",
+          "Tiberiu Mosnoi",
+          "Razvan Deaconescu",
+          "Felipe Huici",
+          "Costin Raiciu"
+        ]
+      },
+      {
+        "title": "Stop! Hammer time: rethinking our approach to rowhammer mitigations.",
+        "authors": [
+          "Kevin Loughlin",
+          "Stefan Saroiu",
+          "Alec Wolman",
+          "Baris Kasikci"
+        ]
+      },
+      {
+        "title": "CloudEx: a fair-access financial exchange in the cloud.",
+        "authors": [
+          "Ahmad Ghalayini",
+          "Jinkun Geng",
+          "Vighnesh Sachidananda",
+          "Vinay Sriram",
+          "Yilong Geng",
+          "Balaji Prabhakar",
+          "Mendel Rosenblum",
+          "Anirudh Sivaraman"
+        ]
+      },
+      {
+        "title": "Unix shell programming: the next 50 years.",
+        "authors": [
+          "Michael Greenberg",
+          "Konstantinos Kallas",
+          "Nikos Vasilakis"
+        ]
+      },
+      {
+        "title": "Privacy heroes need data disguises.",
+        "authors": [
+          "Lillian Tsai",
+          "Malte Schwarzkopf",
+          "Eddie Kohler"
+        ]
+      },
+      {
+        "title": "Doing more with less: training large DNN models on commodity servers for the masses.",
+        "authors": [
+          "Youjie Li",
+          "Amar Phanishayee",
+          "Derek Murray",
+          "Nam Sung Kim"
+        ]
+      },
+      {
+        "title": "BPF for storage: an exokernel-inspired approach.",
+        "authors": [
+          "Yuhong Zhong",
+          "Hongyi Wang",
+          "Yu Jian Wu",
+          "Asaf Cidon",
+          "Ryan Stutsman",
+          "Amy Tai",
+          "Junfeng Yang"
+        ]
+      },
+      {
+        "title": "The Aurora operating system: revisiting the single level store.",
+        "authors": [
+          "Emil Tsalapatis",
+          "Ryan Hancock",
+          "Tavian Barnes",
+          "Ali José Mashtizadeh"
+        ]
+      },
+      {
+        "title": "Don't be a blockhead: zoned namespaces make work on conventional SSDs obsolete.",
+        "authors": [
+          "Theano Stavrinos",
+          "Daniel S. Berger",
+          "Ethan Katz-Bassett",
+          "Wyatt Lloyd"
+        ]
+      },
+      {
+        "title": "We need kernel interposition over the network dataplane.",
+        "authors": [
+          "Hugo Sadok",
+          "Zhipeng Zhao",
+          "Valerie Choung",
+          "Nirav Atre",
+          "Daniel S. Berger",
+          "James C. Hoe",
+          "Aurojit Panda",
+          "Justine Sherry"
+        ]
+      },
+      {
+        "title": "mmapx: uniform memory protection in a heterogeneous world.",
+        "authors": [
+          "Reto Achermann",
+          "David A. Cock",
+          "Roni Haecki",
+          "Nora Hossle",
+          "Lukas Humbel",
+          "Timothy Roscoe",
+          "Daniel David Schwyn"
+        ]
+      },
+      {
+        "title": "Contextual concurrency control.",
+        "authors": [
+          "Sujin Park",
+          "Irina Calciu",
+          "Taesoo Kim",
+          "Sanidhya Kashyap"
+        ]
+      },
+      {
+        "title": "Toward reconfigurable kernel datapaths with learned optimizations.",
+        "authors": [
+          "Yiming Qiu",
+          "Hongyi Liu",
+          "Thomas E. Anderson",
+          "Yingyan Lin",
+          "Ang Chen"
+        ]
+      },
+      {
+        "title": "An incremental path towards a safer OS kernel.",
+        "authors": [
+          "Jialin Li",
+          "Samantha Miller",
+          "Danyang Zhuo",
+          "Ang Chen",
+          "Jon Howell",
+          "Thomas E. Anderson"
+        ]
+      },
+      {
+        "title": "In reference to RPC: it's time to add distributed memory.",
+        "authors": [
+          "Stephanie Wang",
+          "Benjamin Hindman",
+          "Ion Stoica"
+        ]
+      },
+      {
+        "title": "Breakfast of champions: towards zero-copy serialization with NIC scatter-gather.",
+        "authors": [
+          "Deepti Raghavan",
+          "Philip Alexander Levis",
+          "Matei Zaharia",
+          "Irene Zhang"
+        ]
+      },
+      {
+        "title": "Zerializer: towards zero-copy serialization.",
+        "authors": [
+          "Adam Wolnikowski",
+          "Stephen Ibanez",
+          "Jonathan Stone",
+          "Changhoon Kim",
+          "Rajit Manohar",
+          "Robert Soulé"
+        ]
+      },
+      {
+        "title": "Reasoning about modern datacenter infrastructures using partial histories.",
+        "authors": [
+          "Xudong Sun",
+          "Lalith Suresh",
+          "Aishwarya Ganesan",
+          "Ramnatthan Alagappan",
+          "Michael Gasch",
+          "Lilia Tang",
+          "Tianyin Xu"
+        ]
+      },
+      {
+        "title": "Metastable failures in distributed systems.",
+        "authors": [
+          "Nathan Bronson",
+          "Abutalib Aghayev",
+          "Aleksey Charapko",
+          "Timothy Zhu"
+        ]
+      },
+      {
+        "title": "Fail-slow fault tolerance needs programming support.",
+        "authors": [
+          "Andrew Yoo",
+          "Yuanli Wang",
+          "Ritesh Sinha",
+          "Shuai Mu",
+          "Tianyin Xu"
+        ]
+      },
+      {
+        "title": "The future of hardware development: a perspective from systems researchers.",
+        "authors": [
+          "Yiying Zhang"
+        ]
+      },
+      {
+        "title": "Burnt topics in operating systems.",
+        "authors": [
+          "Malte Schwarzkopf"
+        ]
+      },
+      {
+        "title": "Systems trivia night.",
+        "authors": [
+          "Vaastav Anand",
+          "Roberta De Viti",
+          "Jonathan Mace"
+        ]
+      },
+      {
+        "title": "The future of the shell: Unix and beyond.",
+        "authors": [
+          "Michael Greenberg",
+          "Konstantinos Kallas",
+          "Nikos Vasilakis"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos2019.html": {
+    "header": "17th HotOS 2019: Bertinoro, Italy",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "Composing Abstractions using the null-Kernel.",
+        "authors": [
+          "James Litton",
+          "Deepak Garg",
+          "Peter Druschel",
+          "Bobby Bhattacharjee"
+        ]
+      },
+      {
+        "title": "Unikernels: The Next Stage of Linux's Dominance.",
+        "authors": [
+          "Ali Raza",
+          "Parul Sohal",
+          "James Cadden",
+          "Jonathan Appavoo",
+          "Ulrich Drepper",
+          "Richard Jones",
+          "Orran Krieger",
+          "Renato Mancuso",
+          "Larry Woodman"
+        ]
+      },
+      {
+        "title": "A fork() in the road.",
+        "authors": [
+          "Andrew Baumann",
+          "Jonathan Appavoo",
+          "Orran Krieger",
+          "Timothy Roscoe"
+        ]
+      },
+      {
+        "title": "Can We Prove Time Protection?",
+        "authors": [
+          "Gernot Heiser",
+          "Gerwin Klein",
+          "Toby C. Murray"
+        ]
+      },
+      {
+        "title": "Towards Automatic Inference of Inductive Invariants.",
+        "authors": [
+          "Haojun Ma",
+          "Aman Goel",
+          "Jean-Baptiste Jeannin",
+          "Manos Kapritsos",
+          "Baris Kasikci",
+          "Karem A. Sakallah"
+        ]
+      },
+      {
+        "title": "RedLeaf: Towards An Operating System for Safe and Verified Firmware.",
+        "authors": [
+          "Vikram Narayanan",
+          "Marek S. Baranowski",
+          "Leonid Ryzhyk",
+          "Zvonimir Rakamaric",
+          "Anton Burtsev"
+        ]
+      },
+      {
+        "title": "Synthesizing Cluster Management Code for Distributed Systems.",
+        "authors": [
+          "Lalith Suresh",
+          "João Loff",
+          "Nina Narodytska",
+          "Leonid Ryzhyk",
+          "Mooly Sagiv",
+          "Brian Oki"
+        ]
+      },
+      {
+        "title": "Comprehensive and Efficient Runtime Checking in System Software through Watchdogs.",
+        "authors": [
+          "Chang Lou",
+          "Peng Huang",
+          "Scott Smith"
+        ]
+      },
+      {
+        "title": "Automatic Virtualization of Accelerators.",
+        "authors": [
+          "Hangchen Yu",
+          "Arthur Michener Peters",
+          "Amogh Akshintala",
+          "Christopher J. Rossbach"
+        ]
+      },
+      {
+        "title": "The Case for I/O-Device-as-a-Service.",
+        "authors": [
+          "Ardalan Amiri Sani",
+          "Thomas E. Anderson"
+        ]
+      },
+      {
+        "title": "I'm Not Dead Yet!: The Role of the Operating System in a Kernel-Bypass Era.",
+        "authors": [
+          "Irene Zhang",
+          "Jing Liu",
+          "Amanda Austin",
+          "Michael Lowell Roberts",
+          "Anirudh Badam"
+        ]
+      },
+      {
+        "title": "I/O Is Faster Than the CPU: Let's Partition Resources and Eliminate (Most) OS Abstractions.",
+        "authors": [
+          "Pekka Enberg",
+          "Ashwin Rao",
+          "Sasu Tarkoma"
+        ]
+      },
+      {
+        "title": "Towards Multiverse Databases.",
+        "authors": [
+          "Alana Marzoev",
+          "Lara Timbó Araújo",
+          "Malte Schwarzkopf",
+          "Samyukta Yagati",
+          "Eddie Kohler",
+          "Robert Morris",
+          "M. Frans Kaashoek",
+          "Sam Madden"
+        ]
+      },
+      {
+        "title": "Isolation and Beyond: Challenges for System Security.",
+        "authors": [
+          "Tyler Hunt",
+          "Zhipeng Jia",
+          "Vance Miller",
+          "Christopher J. Rossbach",
+          "Emmett Witchel"
+        ]
+      },
+      {
+        "title": "Rethinking General-Purpose Decentralized Computing.",
+        "authors": [
+          "Enis Ceyhun Alp",
+          "Eleftherios Kokoris-Kogias",
+          "Georgia Fragkouli",
+          "Bryan Ford"
+        ]
+      },
+      {
+        "title": "Fast key-value stores: An idea whose time has come and gone.",
+        "authors": [
+          "Atul Adya",
+          "Robert Grandl",
+          "Daniel Myers",
+          "Henry Qin"
+        ]
+      },
+      {
+        "title": "Designing Far Memory Data Structures: Think Outside the Box.",
+        "authors": [
+          "Marcos K. Aguilera",
+          "Kimberly Keeton",
+          "Stanko Novakovic",
+          "Sharad Singhal"
+        ]
+      },
+      {
+        "title": "Project PBerry: FPGA Acceleration for Remote Memory.",
+        "authors": [
+          "Irina Calciu",
+          "Ivan Puddu",
+          "Aasheesh Kolli",
+          "Andreas Nowatzyk",
+          "Jayneel Gandhi",
+          "Onur Mutlu",
+          "Pratap Subrahmanyam"
+        ]
+      },
+      {
+        "title": "Nines are Not Enough: Meaningful Metrics for Clouds.",
+        "authors": [
+          "Jeffrey C. Mogul",
+          "John Wilkes"
+        ]
+      },
+      {
+        "title": "The Synchronous Data Center.",
+        "authors": [
+          "Tian Yang",
+          "Robert Gifford",
+          "Andreas Haeberlen",
+          "Linh Thi Xuan Phan"
+        ]
+      },
+      {
+        "title": "Granular Computing.",
+        "authors": [
+          "Collin Lee",
+          "John K. Ousterhout"
+        ]
+      },
+      {
+        "title": "What bugs cause production cloud incidents?",
+        "authors": [
+          "Haopeng Liu",
+          "Shan Lu",
+          "Madan Musuvathi",
+          "Suman Nath"
+        ]
+      },
+      {
+        "title": "You can't debug what you can't see: Expanding observability with the OmniTable.",
+        "authors": [
+          "Andrew Quinn",
+          "Jason Flinn",
+          "Michael J. Cafarella"
+        ]
+      },
+      {
+        "title": "Practical Safe Linux Kernel Extensibility.",
+        "authors": [
+          "Samantha Miller",
+          "Kaiyuan Zhang",
+          "Danyang Zhuo",
+          "Shibin Xu",
+          "Arvind Krishnamurthy",
+          "Thomas E. Anderson"
+        ]
+      },
+      {
+        "title": "Machine Learning Systems are Stuck in a Rut.",
+        "authors": [
+          "Paul Barham",
+          "Michael Isard"
+        ]
+      },
+      {
+        "title": "A Case for Managed and Model-less Inference Serving.",
+        "authors": [
+          "Neeraja J. Yadwadkar",
+          "Francisco Romero",
+          "Qian Li",
+          "Christos Kozyrakis"
+        ]
+      },
+      {
+        "title": "Why and How to Increase SSD Performance Transparency.",
+        "authors": [
+          "Aviad Zuck",
+          "Philipp Gühring",
+          "Tao Zhang",
+          "Donald E. Porter",
+          "Dan Tsafrir"
+        ]
+      },
+      {
+        "title": "CPR for SSDs.",
+        "authors": [
+          "Bryan S. Kim",
+          "Eunji Lee",
+          "Sungjin Lee",
+          "Sang Lyul Min"
+        ]
+      },
+      {
+        "title": "When Should The Network Be The Computer?",
+        "authors": [
+          "Dan R. K. Ports",
+          "Jacob Nelson"
+        ]
+      },
+      {
+        "title": "In-Network Compute: Considered Armed and Dangerous.",
+        "authors": [
+          "Theophilus A. Benson"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos2017.html": {
+    "header": "16th HotOS 2017: Whistler, BC, Canada",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Performance clarity as a first-class design principle.",
+        "authors": [
+          "Kay Ousterhout",
+          "Christopher Canel",
+          "Max Wolffe",
+          "Sylvia Ratnasamy",
+          "Scott Shenker"
+        ]
+      },
+      {
+        "title": "Towards O(1) Memory.",
+        "authors": [
+          "Michael M. Swift"
+        ]
+      },
+      {
+        "title": "Thinking about Availability in Large Service Infrastructures.",
+        "authors": [
+          "Jeffrey C. Mogul",
+          "Rebecca Isaacs",
+          "Brent Welch"
+        ]
+      },
+      {
+        "title": "Towards Proving Optimistic Multicore Schedulers.",
+        "authors": [
+          "Baptiste Lepers",
+          "Willy Zwaenepoel",
+          "Jean-Pierre Lozi",
+          "Nicolas Palix",
+          "Redha Gouicem",
+          "Julien Sopena",
+          "Julia Lawall",
+          "Gilles Muller"
+        ]
+      },
+      {
+        "title": "Scalability Bugs: When 100-Node Testing is Not Enough.",
+        "authors": [
+          "Tanakorn Leesatapornwongsa",
+          "Cesar A. Stuardo",
+          "Riza O. Suminto",
+          "Huan Ke",
+          "Jeffrey F. Lukman",
+          "Haryadi S. Gunawi"
+        ]
+      },
+      {
+        "title": "Verification in the Age of Microservices.",
+        "authors": [
+          "Aurojit Panda",
+          "Mooly Sagiv",
+          "Scott Shenker"
+        ]
+      },
+      {
+        "title": "Hypercallbacks: Decoupling Policy Decisions and Execution.",
+        "authors": [
+          "Nadav Amit",
+          "Michael Wei",
+          "Cheng-Chun Tu"
+        ]
+      },
+      {
+        "title": "Flash Drive Lifespan *is* a Problem.",
+        "authors": [
+          "Tao Zhang",
+          "Aviad Zuck",
+          "Donald E. Porter",
+          "Dan Tsafrir"
+        ]
+      },
+      {
+        "title": "Preserving Hidden Data with an Ever-Changing Disk.",
+        "authors": [
+          "Aviad Zuck",
+          "Udi Shriki",
+          "Donald E. Porter",
+          "Dan Tsafrir"
+        ]
+      },
+      {
+        "title": "It's Time to Think About an Operating System for Near Data Processing Architectures.",
+        "authors": [
+          "Antonio Barbalace",
+          "Anthony Iliopoulos",
+          "Holm Rauchfuss",
+          "Goetz Brasche"
+        ]
+      },
+      {
+        "title": "A Clairvoyant Approach to Evaluating Software (In)Security.",
+        "authors": [
+          "Bhushan Jain",
+          "Chia-Che Tsai",
+          "Donald E. Porter"
+        ]
+      },
+      {
+        "title": "OmniX: an accelerator-centric OS for omni-programmable systems.",
+        "authors": [
+          "Mark Silberstein"
+        ]
+      },
+      {
+        "title": "Quantum Operating Systems.",
+        "authors": [
+          "Henry Corrigan-Gibbs",
+          "David J. Wu",
+          "Dan Boneh"
+        ]
+      },
+      {
+        "title": "Consistency Oracles: Towards an Interactive and Flexible Consistency Model Specification.",
+        "authors": [
+          "Beom Heyn Kim",
+          "Sukwon Oh",
+          "David Lie"
+        ]
+      },
+      {
+        "title": "No!: Not Another Deep Learning Framework.",
+        "authors": [
+          "Linh Nguyen",
+          "Peifeng Yu",
+          "Mosharaf Chowdhury"
+        ]
+      },
+      {
+        "title": "Glimmers: Resolving the Privacy/Trust Quagmire.",
+        "authors": [
+          "David Lie",
+          "Petros Maniatis"
+        ]
+      },
+      {
+        "title": "From Crash Consistency to Transactions.",
+        "authors": [
+          "Yige Hu",
+          "Youngjin Kwon",
+          "Vijay Chidambaram",
+          "Emmett Witchel"
+        ]
+      },
+      {
+        "title": "Real-Time Machine Learning: The Missing Pieces.",
+        "authors": [
+          "Robert Nishihara",
+          "Philipp Moritz",
+          "Stephanie Wang",
+          "Alexey Tumanov",
+          "William Paul",
+          "Johann Schleier-Smith",
+          "Richard Liaw",
+          "Mehrdad Niknami",
+          "Michael I. Jordan",
+          "Ion Stoica"
+        ]
+      },
+      {
+        "title": "Towards Automated Configuration of Systems with Non-Functional Constraints.",
+        "authors": [
+          "Linda Leuschner",
+          "Martin Küttler",
+          "Tobias Stumpf",
+          "Christel Baier",
+          "Hermann Härtig",
+          "Sascha Klüppelholz"
+        ]
+      },
+      {
+        "title": "Separating Translation from Protection in Address Spaces with Dynamic Remapping.",
+        "authors": [
+          "Reto Achermann",
+          "Chris I. Dalton",
+          "Paolo Faraboschi",
+          "Moritz Hoffmann",
+          "Dejan S. Milojicic",
+          "Geoffrey Ndu",
+          "Alexander Richardson",
+          "Timothy Roscoe",
+          "Adrian L. Shaw",
+          "Robert N. M. Watson"
+        ]
+      },
+      {
+        "title": "The Game of Twenty Questions: Do You Know Where to Log?",
+        "authors": [
+          "Xu Zhao",
+          "Kirk Rodrigues",
+          "Yu Luo",
+          "Michael Stumm",
+          "Ding Yuan",
+          "Yuanyuan Zhou"
+        ]
+      },
+      {
+        "title": "Hardware is the new Software.",
+        "authors": [
+          "Andrew Baumann"
+        ]
+      },
+      {
+        "title": "Return of the Runtimes: Rethinking the Language Runtime System for the Cloud 3.0 Era.",
+        "authors": [
+          "Martin Maas",
+          "Krste Asanovic",
+          "John Kubiatowicz"
+        ]
+      },
+      {
+        "title": "A Case Against Tiny Tasks in Iterative Analytics.",
+        "authors": [
+          "Ehsan Totoni",
+          "Subramanya R. Dulloor",
+          "Amitabha Roy"
+        ]
+      },
+      {
+        "title": "Gray Failure: The Achilles' Heel of Cloud-Scale Systems.",
+        "authors": [
+          "Peng Huang",
+          "Chuanxiong Guo",
+          "Lidong Zhou",
+          "Jacob R. Lorch",
+          "Yingnong Dang",
+          "Murali Chintalapati",
+          "Randolph Yao"
+        ]
+      },
+      {
+        "title": "System Programming in Rust: Beyond Safety.",
+        "authors": [
+          "Abhiram Balasubramanian",
+          "Marek S. Baranowski",
+          "Anton Burtsev",
+          "Aurojit Panda",
+          "Zvonimir Rakamaric",
+          "Leonid Ryzhyk"
+        ]
+      },
+      {
+        "title": "Why Your Encrypted Database Is Not Secure.",
+        "authors": [
+          "Paul Grubbs",
+          "Thomas Ristenpart",
+          "Vitaly Shmatikov"
+        ]
+      },
+      {
+        "title": "Will Serverless End the Dominance of Linux in the Cloud?",
+        "authors": [
+          "Ricardo Koller",
+          "Dan Williams"
+        ]
+      },
+      {
+        "title": "OS Support for Thread Migration and Distribution in the Fully Heterogeneous Datacenter.",
+        "authors": [
+          "Pierre Olivier",
+          "Sang-Hoon Kim",
+          "Binoy Ravindran"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos2015.html": {
+    "header": "15th HotOS 2015: Kartause Ittingen, Switzerland",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Practical Always-on Taint Tracking on Mobile Devices.",
+        "authors": [
+          "Justin Paupore",
+          "Earlence Fernandes",
+          "Atul Prakash",
+          "Sankardas Roy",
+          "Xinming Ou"
+        ]
+      },
+      {
+        "title": "ASPIRE: Iterative Specification Synthesis for Security.",
+        "authors": [
+          "Kevin Zhijie Chen",
+          "Warren He",
+          "Devdatta Akhawe",
+          "Vijay D'Silva",
+          "Prateek Mittal",
+          "Dawn Song"
+        ]
+      },
+      {
+        "title": "Lax: Driver Interfaces for Approximate Sensor Device Access.",
+        "authors": [
+          "Phillip Stanley-Marbell",
+          "Martin C. Rinard"
+        ]
+      },
+      {
+        "title": "The Case for Less Predictable Operating System Behavior.",
+        "authors": [
+          "Ruimin Sun",
+          "Donald E. Porter",
+          "Daniela Oliveira",
+          "Matt Bishop"
+        ]
+      },
+      {
+        "title": "Recommendations for Randomness in the Operating System, or How to Keep Evil Children out of Your Pool and Other Random Facts.",
+        "authors": [
+          "Henry Corrigan-Gibbs",
+          "Suman Jana"
+        ]
+      },
+      {
+        "title": "Inferring the Network Latency Requirements of Cloud Tenants.",
+        "authors": [
+          "Jeffrey C. Mogul",
+          "Ramana Rao Kompella"
+        ]
+      },
+      {
+        "title": "The Most Dangerous Code in the Browser.",
+        "authors": [
+          "Stefan Heule",
+          "Devon Rifkin",
+          "Alejandro Russo",
+          "Deian Stefan"
+        ]
+      },
+      {
+        "title": "The Activity Platform.",
+        "authors": [
+          "Helen J. Wang",
+          "Alexander Moshchuk",
+          "Michael Gamon",
+          "Shamsi T. Iqbal",
+          "Eli T. Brown",
+          "Ashish Kapoor",
+          "Christopher Meek",
+          "Eric Yawei Chen",
+          "Yuan Tian",
+          "Jaime Teevan",
+          "Mary Czerwinski",
+          "Susan T. Dumais"
+        ]
+      },
+      {
+        "title": "Specifying Crash Safety for Storage Systems.",
+        "authors": [
+          "Haogang Chen",
+          "Daniel Ziegler",
+          "Adam Chlipala",
+          "M. Frans Kaashoek",
+          "Eddie Kohler",
+          "Nickolai Zeldovich"
+        ]
+      },
+      {
+        "title": "Beyond Storage APIs: Provable Semantics for Storage Stacks.",
+        "authors": [
+          "Ramnatthan Alagappan",
+          "Vijay Chidambaram",
+          "Thanumalayan Sankaranarayana Pillai",
+          "Andrea C. Arpaci-Dusseau",
+          "Remzi H. Arpaci-Dusseau"
+        ]
+      },
+      {
+        "title": "Amber: Decoupling User Data from Web Applications.",
+        "authors": [
+          "Tej Chajed",
+          "Jon Gjengset",
+          "Jelle van den Hooff",
+          "M. Frans Kaashoek",
+          "James Mickens",
+          "Robert Morris",
+          "Nickolai Zeldovich"
+        ]
+      },
+      {
+        "title": "My OS Ought to Know Me Better: In-app Behavioural Analytics as an OS Service.",
+        "authors": [
+          "Earlence Fernandes",
+          "Oriana Riva",
+          "Suman Nath"
+        ]
+      },
+      {
+        "title": "Beyond Processor-centric Operating Systems.",
+        "authors": [
+          "Paolo Faraboschi",
+          "Kimberly Keeton",
+          "Tim Marsland",
+          "Dejan S. Milojicic"
+        ]
+      },
+      {
+        "title": "Not Your Parents' Physical Address Space.",
+        "authors": [
+          "Simon Gerber",
+          "Gerd Zellweger",
+          "Reto Achermann",
+          "Kornilios Kourtis",
+          "Timothy Roscoe",
+          "Dejan S. Milojicic"
+        ]
+      },
+      {
+        "title": "From Lone Dwarfs to Giant Superclusters: Rethinking Operating System Abstractions for the Cloud.",
+        "authors": [
+          "Nikos Vasilakis",
+          "Ben Karel",
+          "Jonathan M. Smith"
+        ]
+      },
+      {
+        "title": "Scalability! But at what COST?",
+        "authors": [
+          "Frank McSherry",
+          "Michael Isard",
+          "Derek Gordon Murray"
+        ]
+      },
+      {
+        "title": "Challenges to Adopting Stronger Consistency at Scale.",
+        "authors": [
+          "Phillipe Ajoux",
+          "Nathan Bronson",
+          "Sanjeev Kumar",
+          "Wyatt Lloyd",
+          "Kaushik Veeraraghavan"
+        ]
+      },
+      {
+        "title": "A Case for Ending Monolithic Apps for Connected Devices.",
+        "authors": [
+          "Rayman Preet Singh",
+          "Chenguang Shen",
+          "Amar Phanishayee",
+          "Aman Kansal",
+          "Ratul Mahajan"
+        ]
+      },
+      {
+        "title": "Fault Tolerance and the Five-Second Rule.",
+        "authors": [
+          "Ang Chen",
+          "Hanjun Xiao",
+          "Andreas Haeberlen",
+          "Linh Thi Xuan Phan"
+        ]
+      },
+      {
+        "title": "A Case for Enforcing App-Specific Constraints to Mobile Devices by Using Trust Leases.",
+        "authors": [
+          "Nuno Santos",
+          "Nuno O. Duarte",
+          "Miguel B. Costa",
+          "Paulo Ferreira"
+        ]
+      },
+      {
+        "title": "Route Bazaar: Automatic Interdomain Contract Negotiation.",
+        "authors": [
+          "Ignacio Castro",
+          "Aurojit Panda",
+          "Barath Raghavan",
+          "Scott Shenker",
+          "Sergey Gorinsky"
+        ]
+      },
+      {
+        "title": "Distributing the Data Plane for Remote Storage Access.",
+        "authors": [
+          "Torsten Hoefler",
+          "Robert B. Ross",
+          "Timothy Roscoe"
+        ]
+      },
+      {
+        "title": "FlexNIC: Rethinking Network DMA.",
+        "authors": [
+          "Antoine Kaufmann",
+          "Simon Peter",
+          "Thomas E. Anderson",
+          "Arvind Krishnamurthy"
+        ]
+      },
+      {
+        "title": "On Instruction Organization.",
+        "authors": [
+          "Tyler Dwyer",
+          "Alexandra Fedorova"
+        ]
+      },
+      {
+        "title": "Failure Sketches: A Better Way to Debug.",
+        "authors": [
+          "Baris Kasikci",
+          "Cristiano Pereira",
+          "Gilles Pokam",
+          "Benjamin Schubert",
+          "Madanlal Musuvathi",
+          "George Candea"
+        ]
+      },
+      {
+        "title": "Software Engagement with Sleeping CPUs.",
+        "authors": [
+          "Qi Zhu",
+          "Meng Zhu",
+          "Bo Wu",
+          "Xipeng Shen",
+          "Kai Shen",
+          "Zhiying Wang"
+        ]
+      },
+      {
+        "title": "Elastic Memory: Bring Elasticity Back to In-Memory Big Data Analytics.",
+        "authors": [
+          "Joo Seong Jeong",
+          "Woo-Yeon Lee",
+          "Yunseong Lee",
+          "Youngseok Yang",
+          "Brian Cho",
+          "Byung-Gon Chun"
+        ]
+      },
+      {
+        "title": "Broom: Sweeping Out Garbage Collection from Big Data Systems.",
+        "authors": [
+          "Ionel Gog",
+          "Jana Giceva",
+          "Malte Schwarzkopf",
+          "Kapil Vaswani",
+          "Dimitrios Vytiniotis",
+          "Ganesan Ramalingam",
+          "Manuel Costa",
+          "Derek Gordon Murray",
+          "Steven Hand",
+          "Michael Isard"
+        ]
+      },
+      {
+        "title": "Trash Day: Coordinating Garbage Collection in Distributed Systems.",
+        "authors": [
+          "Martin Maas",
+          "Tim Harris",
+          "Krste Asanovic",
+          "John Kubiatowicz"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos2013.html": {
+    "header": "14th HotOS 2013: Santa Ana Pueblo, New Mexico, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "HAT, Not CAP: Towards Highly Available Transactions.",
+        "authors": [
+          "Peter Bailis",
+          "Alan D. Fekete",
+          "Ali Ghodsi",
+          "Joseph M. Hellerstein",
+          "Ion Stoica"
+        ]
+      },
+      {
+        "title": "Lightweight Snapshots and System-level Backtracking.",
+        "authors": [
+          "Edouard Bugnion",
+          "Vitaly Chipounov",
+          "George Candea"
+        ]
+      },
+      {
+        "title": "Solving the Straggler Problem with Bounded Staleness.",
+        "authors": [
+          "James Cipar",
+          "Qirong Ho",
+          "Jin Kyu Kim",
+          "Seunghak Lee",
+          "Gregory R. Ganger",
+          "Garth Gibson",
+          "Kimberly Keeton",
+          "Eric P. Xing"
+        ]
+      },
+      {
+        "title": "Operating System Support for Augmented Reality Applications.",
+        "authors": [
+          "Loris D'Antoni",
+          "Alan M. Dunn",
+          "Suman Jana",
+          "Tadayoshi Kohno",
+          "Benjamin Livshits",
+          "David Molnar",
+          "Alexander Moshchuk",
+          "Eyal Ofek",
+          "Franziska Roesner",
+          "T. Scott Saponas",
+          "Margus Veanes",
+          "Helen J. Wang"
+        ]
+      },
+      {
+        "title": "Rethinking Network Stack Design with Memory Snapshots.",
+        "authors": [
+          "Michael Chan",
+          "Heiner Litz",
+          "David R. Cheriton"
+        ]
+      },
+      {
+        "title": "Arrakis: A Case for the End of the Empire.",
+        "authors": [
+          "Simon Peter",
+          "Thomas E. Anderson"
+        ]
+      },
+      {
+        "title": "The von Neumann Architecture Is Due for Retirement.",
+        "authors": [
+          "Aleksander Budzynowski",
+          "Gernot Heiser"
+        ]
+      },
+      {
+        "title": "Automated Debugging for Arbitrarily Long Executions.",
+        "authors": [
+          "Cristian Zamfir",
+          "Baris Kasikci",
+          "Johannes Kinder",
+          "Edouard Bugnion",
+          "George Candea"
+        ]
+      },
+      {
+        "title": "Global Authentication in an Untrustworthy World.",
+        "authors": [
+          "Martín Abadi",
+          "Andrew Birrell",
+          "Ilya Mironov",
+          "Ted Wobber",
+          "Yinglian Xie"
+        ]
+      },
+      {
+        "title": "-OVERIFY: Optimizing Programs for Fast Verification.",
+        "authors": [
+          "Jonas Wagner",
+          "Volodymyr Kuznetsov",
+          "George Candea"
+        ]
+      },
+      {
+        "title": "Toward Principled Browser Security.",
+        "authors": [
+          "Edward Z. Yang",
+          "Deian Stefan",
+          "John C. Mitchell",
+          "David Mazières",
+          "Petr Marchenko",
+          "Brad Karp"
+        ]
+      },
+      {
+        "title": "Towards Elastic Operating Systems.",
+        "authors": [
+          "Amit Gupta",
+          "Ehab Ababneh",
+          "Richard Han",
+          "Eric Keller"
+        ]
+      },
+      {
+        "title": "Using Dark Fiber to Displace Diesel Generators.",
+        "authors": [
+          "Aman Kansal",
+          "Bhuvan Urgaonkar",
+          "Sriram Govindan"
+        ]
+      },
+      {
+        "title": "The Case for Tiny Tasks in Compute Clusters.",
+        "authors": [
+          "Kay Ousterhout",
+          "Aurojit Panda",
+          "Josh Rosen",
+          "Shivaram Venkataraman",
+          "Reynold Xin",
+          "Sylvia Ratnasamy",
+          "Scott Shenker",
+          "Ion Stoica"
+        ]
+      },
+      {
+        "title": "Wanted: Systems Abstractions for SDN.",
+        "authors": [
+          "Sapan Bhatia",
+          "Andy C. Bavier",
+          "Larry L. Peterson"
+        ]
+      },
+      {
+        "title": "When Cycles Are Cheap, Some Tables Can Be Huge.",
+        "authors": [
+          "Bin Fan",
+          "Dong Zhou",
+          "Hyeontaek Lim",
+          "Michael Kaminsky",
+          "David G. Andersen"
+        ]
+      },
+      {
+        "title": "Large-Scale Computation Not at the Cost of Expressiveness.",
+        "authors": [
+          "Sangjin Han",
+          "Sylvia Ratnasamy"
+        ]
+      },
+      {
+        "title": "Escape Capsule: Explicit State Is Robust and Scalable.",
+        "authors": [
+          "Shriram Rajagopalan",
+          "Dan Williams",
+          "Hani Jamjoom",
+          "Andrew Warfield"
+        ]
+      },
+      {
+        "title": "Toward Common Patterns for Distributed, Concurrent, Fault-Tolerant Code.",
+        "authors": [
+          "Ryan Stutsman",
+          "John K. Ousterhout"
+        ]
+      },
+      {
+        "title": "Failure Recovery: When the Cure Is Worse Than the Disease.",
+        "authors": [
+          "Zhenyu Guo",
+          "Sean McDirmid",
+          "Mao Yang",
+          "Li Zhuang",
+          "Pu Zhang",
+          "Yingwei Luo",
+          "Tom Bergan",
+          "Madan Musuvathi",
+          "Zheng Zhang",
+          "Lidong Zhou"
+        ]
+      },
+      {
+        "title": "QuarkOS: Pushing the Operating Limits of Micro-Powered Sensors.",
+        "authors": [
+          "Pengyu Zhang",
+          "Deepak Ganesan",
+          "Boyan Lu"
+        ]
+      },
+      {
+        "title": "Making Every Bit Count in Wide-Area Analytics.",
+        "authors": [
+          "Ariel Rabkin",
+          "Matvey Arye",
+          "Siddhartha Sen",
+          "Vivek S. Pai",
+          "Michael J. Freedman"
+        ]
+      },
+      {
+        "title": "The Case for Onloading Continuous High-Datarate Perception to the Phone.",
+        "authors": [
+          "Seungyeop Han",
+          "Matthai Philipose"
+        ]
+      },
+      {
+        "title": "Unified High-Performance I/O: One Stack to Rule Them All.",
+        "authors": [
+          "Animesh Trivedi",
+          "Patrick Stuedi",
+          "Bernard Metzler",
+          "Roman A. Pletka",
+          "Blake G. Fitch",
+          "Thomas R. Gross"
+        ]
+      },
+      {
+        "title": "Virtualize Storage, Not Disks.",
+        "authors": [
+          "William Jannen",
+          "Chia-Che Tsai",
+          "Donald E. Porter"
+        ]
+      },
+      {
+        "title": "The NIC Is the Hypervisor: Bare-Metal Guests in IaaS Clouds.",
+        "authors": [
+          "Jeffrey C. Mogul",
+          "Jayaram Mudigonda",
+          "Jose Renato Santos",
+          "Yoshio Turner"
+        ]
+      },
+      {
+        "title": "We Need to Talk About NICs.",
+        "authors": [
+          "Pravin Shinde",
+          "Antoine Kaufmann",
+          "Timothy Roscoe",
+          "Stefan Kaestle"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos2011.html": {
+    "header": "13th HotOS 2011: Napa, California, USA",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "The Case for VOS: The Vector Operating System.",
+        "authors": [
+          "Vijay Vasudevan",
+          "David G. Andersen",
+          "Michael Kaminsky"
+        ]
+      },
+      {
+        "title": "Operating Systems Must Support GPU Abstractions.",
+        "authors": [
+          "Christopher J. Rossbach",
+          "Jon Currey",
+          "Emmett Witchel"
+        ]
+      },
+      {
+        "title": "Multicore OSes: Looking Forward from 1991, er, 2011.",
+        "authors": [
+          "David A. Holland",
+          "Margo I. Seltzer"
+        ]
+      },
+      {
+        "title": "What If You Could Actually Trust Your Kernel?",
+        "authors": [
+          "Gernot Heiser",
+          "Leonid Ryzhyk",
+          "Michael von Tessin",
+          "Aleksander Budzynowski"
+        ]
+      },
+      {
+        "title": "Provable Security: How Feasible Is It?",
+        "authors": [
+          "Gerwin Klein",
+          "Toby C. Murray",
+          "Peter Gammie",
+          "Thomas Sewell",
+          "Simon Winwood"
+        ]
+      },
+      {
+        "title": "Toward Practical and Unconditional Verification of Remote Computations.",
+        "authors": [
+          "Andrew J. Blumberg"
+        ]
+      },
+      {
+        "title": "MOMMIE Knows Best: Systematic Optimizations for Verifiable Distributed Algorithms.",
+        "authors": [
+          "Michael Dietz",
+          "Charalampos Papamanthou"
+        ]
+      },
+      {
+        "title": "Exploiting MISD Performance Opportunities in Multi-core Systems.",
+        "authors": [
+          "Patrick G. Bridges",
+          "Donour Sizemore",
+          "Scott Levy"
+        ]
+      },
+      {
+        "title": "More Intervention Now!",
+        "authors": [
+          "Moisés Goldszmidt",
+          "Rebecca Isaacs"
+        ]
+      },
+      {
+        "title": "make world.",
+        "authors": [
+          "Christopher Smowton"
+        ]
+      },
+      {
+        "title": "Privacy Revelations for Web and Mobile Apps.",
+        "authors": [
+          "David Wetherall",
+          "David R. Choffnes",
+          "Ben Greenstein",
+          "Seungyeop Han",
+          "Peter Hornyack",
+          "Jaeyeon Jung",
+          "Stuart E. Schechter",
+          "Xiao Sophia Wang"
+        ]
+      },
+      {
+        "title": "Do You Know Where Your Data Are? Secure Data Capsules for Deployable Data Protection.",
+        "authors": [
+          "Petros Maniatis",
+          "Devdatta Akhawe",
+          "Kevin R. Fall",
+          "Elaine Shi",
+          "Dawn Song"
+        ]
+      },
+      {
+        "title": "Making Programs Forget: Enforcing Lifetime for Sensitive Data.",
+        "authors": [
+          "Jayanthkumar Kannan",
+          "Byung-Gon Chun"
+        ]
+      },
+      {
+        "title": "Debug Determinism: The Sweet Spot for Replay-Based Debugging.",
+        "authors": [
+          "Cristian Zamfir",
+          "Gautam Altekar",
+          "George Candea"
+        ]
+      },
+      {
+        "title": "Non-Deterministic Parallelism Considered Useful.",
+        "authors": [
+          "Derek Gordon Murray",
+          "Steven Hand"
+        ]
+      },
+      {
+        "title": "Finding Concurrency Errors in Sequential Code - OS-level, In-vivo Model Checking of Process Races.",
+        "authors": [
+          "Oren Laadan",
+          "Chia-Che Tsai",
+          "Nicolas Viennot",
+          "Chris Blinn",
+          "Peter Senyao Du",
+          "Jason Nieh"
+        ]
+      },
+      {
+        "title": "The Case for Power-Agile Computing.",
+        "authors": [
+          "Geoffrey Challen",
+          "Mark Hempstead"
+        ]
+      },
+      {
+        "title": "Mobile Apps: It's Time to Move Up to CondOS.",
+        "authors": [
+          "David Chu",
+          "Aman Kansal",
+          "Jie Liu",
+          "Feng Zhao"
+        ]
+      },
+      {
+        "title": "Free Lunch: Exploiting Renewable Energy for Computing.",
+        "authors": [
+          "Sherif Akoush",
+          "Ripduman Sohan",
+          "Andrew C. Rice",
+          "Andrew W. Moore",
+          "Andy Hopper"
+        ]
+      },
+      {
+        "title": "Disk-Locality in Datacenter Computing Considered Irrelevant.",
+        "authors": [
+          "Ganesh Ananthanarayanan",
+          "Ali Ghodsi",
+          "Scott Shenker",
+          "Ion Stoica"
+        ]
+      },
+      {
+        "title": "Optimizing Data Partitioning for Data-Parallel Computing.",
+        "authors": [
+          "Qifa Ke",
+          "Vijayan Prabhakaran",
+          "Yinglian Xie",
+          "Yuan Yu",
+          "Jingyue Wu",
+          "Junfeng Yang"
+        ]
+      },
+      {
+        "title": "Disks Are Like Snowflakes: No Two Are Alike.",
+        "authors": [
+          "Elie Krevat",
+          "Joseph A. Tucek",
+          "Gregory R. Ganger"
+        ]
+      },
+      {
+        "title": "Benchmarking File System Benchmarking: It *IS* Rocket Science.",
+        "authors": [
+          "Vasily Tarasov",
+          "Saumitra Bhanage",
+          "Erez Zadok",
+          "Margo I. Seltzer"
+        ]
+      },
+      {
+        "title": "Multicore OS Benchmarks: We Can Do Better.",
+        "authors": [
+          "Ihor Kuz",
+          "Zachary R. Anderson",
+          "Pravin Shinde"
+        ]
+      },
+      {
+        "title": "It's Time for Low Latency.",
+        "authors": [
+          "Stephen M. Rumble",
+          "Diego Ongaro",
+          "Ryan Stutsman",
+          "Mendel Rosenblum",
+          "John K. Ousterhout"
+        ]
+      },
+      {
+        "title": "Macho: Programming with Man Pages.",
+        "authors": [
+          "Anthony Cozzie",
+          "Murph Finnicum",
+          "Samuel T. King"
+        ]
+      },
+      {
+        "title": "Pursue Robust Indefinite Scalability.",
+        "authors": [
+          "David H. Ackley",
+          "Daniel C. Cannon"
+        ]
+      },
+      {
+        "title": "The Best of Both Worlds with On-Demand Virtualization.",
+        "authors": [
+          "Thawan Kooburat",
+          "Michael M. Swift"
+        ]
+      },
+      {
+        "title": "Repair from a Chair: Computer Repair as an Untrusted Cloud Service.",
+        "authors": [
+          "Lon Ingram",
+          "Ivaylo Popov",
+          "Srinath T. V. Setty",
+          "Michael Walfish"
+        ]
+      },
+      {
+        "title": "Structuring the Unstructured Middle with Chunk Computing.",
+        "authors": [
+          "Justin Mazzola Paluska",
+          "Hubert Pham",
+          "Steve Ward"
+        ]
+      },
+      {
+        "title": "Mind the Gap: Reconnecting Architecture and OS Research.",
+        "authors": [
+          "Jeffrey C. Mogul",
+          "Andrew Baumann",
+          "Timothy Roscoe",
+          "Livio Soares"
+        ]
+      },
+      {
+        "title": "Operating System Implications of Fast, Cheap, Non-Volatile Memory.",
+        "authors": [
+          "Katelin Bailey",
+          "Luis Ceze",
+          "Steven D. Gribble",
+          "Henry M. Levy"
+        ]
+      },
+      {
+        "title": "Virtually Cool Ternary Content Addressable Memory.",
+        "authors": [
+          "Suparna Bhattacharya",
+          "Kanchi Gopinath"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos2009.html": {
+    "header": "12th HotOS 2009: Monte Verità, Switzerland",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Hierarchical File Systems Are Dead.",
+        "authors": [
+          "Margo I. Seltzer",
+          "Nicholas Murphy"
+        ]
+      },
+      {
+        "title": "An End to the Middle.",
+        "authors": [
+          "Colin Dixon",
+          "Arvind Krishnamurthy",
+          "Thomas E. Anderson"
+        ]
+      },
+      {
+        "title": "No Time for Asynchrony.",
+        "authors": [
+          "Marcos Kawazoe Aguilera",
+          "Michael Walfish"
+        ]
+      },
+      {
+        "title": "Computer Meteorology: Monitoring Compute Clouds.",
+        "authors": [
+          "Lionel Litty",
+          "H. Andrés Lagar-Cavilla",
+          "David Lie"
+        ]
+      },
+      {
+        "title": "Wave Computing in the Cloud.",
+        "authors": [
+          "Bingsheng He",
+          "Mao Yang",
+          "Zhenyu Guo",
+          "Rishan Chen",
+          "Wei Lin",
+          "Bing Su",
+          "Hongyi Wang",
+          "Lidong Zhou"
+        ]
+      },
+      {
+        "title": "On Availability of Intermediate Data in Cloud Computations.",
+        "authors": [
+          "Steven Y. Ko",
+          "Imranul Hoque",
+          "Brian Cho",
+          "Indranil Gupta"
+        ]
+      },
+      {
+        "title": "Mobility Changes Everything in Low-Power Wireless Sensornets.",
+        "authors": [
+          "Prabal Dutta",
+          "David E. Culler"
+        ]
+      },
+      {
+        "title": "Augmented Smartphone Applications Through Clone Cloud Execution.",
+        "authors": [
+          "Byung-Gon Chun",
+          "Petros Maniatis"
+        ]
+      },
+      {
+        "title": "Peloton: Coordinated Resource Management for Sensor Networks.",
+        "authors": [
+          "Jason Waterman",
+          "Geoffrey Werner Challen",
+          "Matt Welsh"
+        ]
+      },
+      {
+        "title": "Migration without Virtualization.",
+        "authors": [
+          "Michael A. Kozuch",
+          "Michael Kaminsky",
+          "Michael P. Ryan"
+        ]
+      },
+      {
+        "title": "Operating Systems Should Provide Transactions.",
+        "authors": [
+          "Donald E. Porter",
+          "Emmett Witchel"
+        ]
+      },
+      {
+        "title": "Your computer is already a distributed system. Why isn't your OS?",
+        "authors": [
+          "Andrew Baumann",
+          "Simon Peter",
+          "Adrian Schüpbach",
+          "Akhilesh Singhania",
+          "Timothy Roscoe",
+          "Paul Barham",
+          "Rebecca Isaacs"
+        ]
+      },
+      {
+        "title": "FlashVM: Revisiting the Virtual Memory Hierarchy.",
+        "authors": [
+          "Mohit Saxena",
+          "Michael M. Swift"
+        ]
+      },
+      {
+        "title": "Operating System Support for NVM+DRAM Hybrid Main Memory.",
+        "authors": [
+          "Jeffrey C. Mogul",
+          "Eduardo Argollo",
+          "Mehul A. Shah",
+          "Paolo Faraboschi"
+        ]
+      },
+      {
+        "title": "Hera-JVM: Abstracting Processor Heterogeneity Behind a Virtual Machine.",
+        "authors": [
+          "Ross McIlroy",
+          "Joseph S. Sventek"
+        ]
+      },
+      {
+        "title": "Security Impact Ratings Considered Harmful.",
+        "authors": [
+          "Jeff Arnold",
+          "Tim Abbott",
+          "Waseem Daher",
+          "Gregory Price",
+          "Nelson Elhage",
+          "Geoffrey Thomas",
+          "Anders Kaseorg"
+        ]
+      },
+      {
+        "title": "If It Ain't Broke, Don't Fix It: Challenges and New Directions for Inferring the Impact of Software Patches.",
+        "authors": [
+          "Jon Oberheide",
+          "Evan Cooke",
+          "Farnam Jahanian"
+        ]
+      },
+      {
+        "title": "Simplifying Distributed System Development.",
+        "authors": [
+          "Maysam Yabandeh",
+          "Nedeljko Vasic",
+          "Dejan Kostic",
+          "Viktor Kuncak"
+        ]
+      },
+      {
+        "title": "Automated Experiment-Driven Management of (Database) Systems.",
+        "authors": [
+          "Shivnath Babu",
+          "Nedyalko Borisov",
+          "Songyun Duan",
+          "Herodotos Herodotou",
+          "Vamsidhar Thummala"
+        ]
+      },
+      {
+        "title": "FLUXO: A Simple Service Compiler.",
+        "authors": [
+          "Emre Kiciman",
+          "V. Benjamin Livshits",
+          "Madanlal Musuvathi"
+        ]
+      },
+      {
+        "title": "Reinventing Scheduling for Multicore Systems.",
+        "authors": [
+          "Silas Boyd-Wickizer",
+          "Robert Morris",
+          "M. Frans Kaashoek"
+        ]
+      },
+      {
+        "title": "FAWNdamentally Power-efficient Clusters.",
+        "authors": [
+          "Vijay Vasudevan",
+          "Jason Franklin",
+          "David G. Andersen",
+          "Amar Phanishayee",
+          "Lawrence Tan",
+          "Michael Kaminsky",
+          "Iulian Moraru"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos2007.html": {
+    "header": "11th HotOS 2007: San Diego, California, USA",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "Is the Optimism in Optimistic Concurrency Warranted?",
+        "authors": [
+          "Donald E. Porter",
+          "Owen S. Hofmann",
+          "Emmett Witchel"
+        ]
+      },
+      {
+        "title": "Thread Scheduling for Multi-Core Platforms.",
+        "authors": [
+          "Mohan Rajagopalan",
+          "Brian T. Lewis",
+          "Todd A. Anderson"
+        ]
+      },
+      {
+        "title": "Automatic Mutual Exclusion.",
+        "authors": [
+          "Michael Isard",
+          "Andrew Birrell"
+        ]
+      },
+      {
+        "title": "Hype and Virtue.",
+        "authors": [
+          "Timothy Roscoe",
+          "Kevin Elphinstone",
+          "Gernot Heiser"
+        ]
+      },
+      {
+        "title": "Relaxed Determinism: Making Redundant Execution on Multiprocessors Practical.",
+        "authors": [
+          "Jesse Pool",
+          "Ian Sin Kwok Wong",
+          "David Lie"
+        ]
+      },
+      {
+        "title": "Compatibility Is Not Transparency: VMM Detection Myths and Realities.",
+        "authors": [
+          "Tal Garfinkel",
+          "Keith Adams",
+          "Andrew Warfield",
+          "Jason Franklin"
+        ]
+      },
+      {
+        "title": "Don't Settle for Less Than the Best: Use Optimization to Make Decisions.",
+        "authors": [
+          "Kimberly Keeton",
+          "Terence Kelly",
+          "Arif Merchant",
+          "Cipriano A. Santos",
+          "Janet L. Wiener",
+          "Xiaoyun Zhu",
+          "Dirk Beyer"
+        ]
+      },
+      {
+        "title": "Hyperspaces for Object Clustering and Approximate Matching in Peer-to-Peer Overlays.",
+        "authors": [
+          "Bernard Wong",
+          "Ymir Vigfusson",
+          "Emin Gün Sirer"
+        ]
+      },
+      {
+        "title": "Optimizing Power Consumption in Large Scale Storage Systems.",
+        "authors": [
+          "Lakshmi Ganesh",
+          "Hakim Weatherspoon",
+          "Mahesh Balakrishnan",
+          "Ken Birman"
+        ]
+      },
+      {
+        "title": "Can Ferris Bueller Still Have His Day Off? Protecting Privacy in the Wireless Era.",
+        "authors": [
+          "Ben Greenstein",
+          "Ramakrishna Gummadi",
+          "Jeffrey Pang",
+          "Mike Y. Chen",
+          "Tadayoshi Kohno",
+          "Srinivasan Seshan",
+          "David Wetherall"
+        ]
+      },
+      {
+        "title": "Auditing to Keep Online Storage Services Honest.",
+        "authors": [
+          "Mehul A. Shah",
+          "Mary Baker",
+          "Jeffrey C. Mogul",
+          "Ram Swaminathan"
+        ]
+      },
+      {
+        "title": "A Web Based Covert File System.",
+        "authors": [
+          "Arati Baliga",
+          "Joe Kilian",
+          "Liviu Iftode"
+        ]
+      },
+      {
+        "title": "Purely Functional System Configuration Management.",
+        "authors": [
+          "Eelco Dolstra",
+          "Armijn Hemel"
+        ]
+      },
+      {
+        "title": "Processor Hardware Counter Statistics as a First-Class System Resource.",
+        "authors": [
+          "Xiao Zhang",
+          "Sandhya Dwarkadas",
+          "Girts Folkmanis",
+          "Kai Shen"
+        ]
+      },
+      {
+        "title": "Microdrivers: A New Architecture for Device Drivers.",
+        "authors": [
+          "Vinod Ganapathy",
+          "Arini Balakrishnan",
+          "Michael M. Swift",
+          "Somesh Jha"
+        ]
+      },
+      {
+        "title": "MashupOS: Operating System Abstractions for Client Mashups.",
+        "authors": [
+          "Jon Howell",
+          "Collin Jackson",
+          "Helen J. Wang",
+          "Xiaofeng Fan"
+        ]
+      },
+      {
+        "title": "Live Monitoring: Using Adaptive Instrumentation and Analysis to Debug and Maintain Web Applications.",
+        "authors": [
+          "Emre Kiciman",
+          "Helen J. Wang"
+        ]
+      },
+      {
+        "title": "End-to-End Web Application Security.",
+        "authors": [
+          "Úlfar Erlingsson",
+          "V. Benjamin Livshits",
+          "Yinglian Xie"
+        ]
+      },
+      {
+        "title": "HotComments: How to Make Program Comments More Useful?",
+        "authors": [
+          "Lin Tan",
+          "Ding Yuan",
+          "Yuanyuan Zhou"
+        ]
+      },
+      {
+        "title": "Towards a Practical, Verified Kernel.",
+        "authors": [
+          "Kevin Elphinstone",
+          "Gerwin Klein",
+          "Philip Derrin",
+          "Timothy Roscoe",
+          "Gernot Heiser"
+        ]
+      },
+      {
+        "title": "Beyond Bug-Finding: Sound Program Analysis for Linux.",
+        "authors": [
+          "Zachary R. Anderson",
+          "Eric A. Brewer",
+          "Jeremy Condit",
+          "Robert Ennals",
+          "David Gay",
+          "Matthew Harren",
+          "George C. Necula",
+          "Feng Zhou"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos2005.html": {
+    "header": "10th HotOS 2005: Santa Fe, NM, USA",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "Are Virtual Machine Monitors Microkernels Done Right?",
+        "authors": [
+          "Steven Hand",
+          "Andrew Warfield",
+          "Keir Fraser",
+          "Evangelos Kotsovinos",
+          "Daniel J. Magenheimer"
+        ]
+      },
+      {
+        "title": "OS Verification - Now!",
+        "authors": [
+          "Harvey Tuch",
+          "Gerwin Klein",
+          "Gernot Heiser"
+        ]
+      },
+      {
+        "title": "Making Events Less Slippery with eel.",
+        "authors": [
+          "Ryan Cunningham",
+          "Eddie Kohler"
+        ]
+      },
+      {
+        "title": "Parallax: Managing Storage for a Million Machines.",
+        "authors": [
+          "Andrew Warfield",
+          "Russ Ross",
+          "Keir Fraser",
+          "Christian Limpach",
+          "Steven Hand"
+        ]
+      },
+      {
+        "title": "Stupid File Systems Are Better.",
+        "authors": [
+          "Lex Stein"
+        ]
+      },
+      {
+        "title": "Aggressive Prefetching: An Idea Whose Time Has Come.",
+        "authors": [
+          "Athanasios E. Papathanasiou",
+          "Michael L. Scott"
+        ]
+      },
+      {
+        "title": "Why Markets Could (But Don't Currently) Solve Resource Allocation Problems in Systems.",
+        "authors": [
+          "Jeffrey Shneidman",
+          "Chaki Ng",
+          "David C. Parkes",
+          "Alvin AuYoung",
+          "Alex C. Snoeren",
+          "Amin Vahdat",
+          "Brent N. Chun"
+        ]
+      },
+      {
+        "title": "Operating Systems Should Support Business Change.",
+        "authors": [
+          "Jeffrey C. Mogul"
+        ]
+      },
+      {
+        "title": "Designing Controllable Computer Systems.",
+        "authors": [
+          "Christos T. Karamanolis",
+          "Magnus Karlsson",
+          "Xiaoyun Zhu"
+        ]
+      },
+      {
+        "title": "Three Research Challenges at the Intersection of Machine Learning, Statistical Induction, and Systems.",
+        "authors": [
+          "Moisés Goldszmidt",
+          "Ira Cohen",
+          "Armando Fox",
+          "Steve Zhang"
+        ]
+      },
+      {
+        "title": "Making System Configuration More Declarative.",
+        "authors": [
+          "John DeTreville"
+        ]
+      },
+      {
+        "title": "Reducing the Cost of IT Operations - Is Automation Always the Answer?",
+        "authors": [
+          "Aaron B. Brown",
+          "Joseph L. Hellerstein"
+        ]
+      },
+      {
+        "title": "Human-Aware Computer System Design.",
+        "authors": [
+          "Ricardo Bianchini",
+          "Richard P. Martin",
+          "Kiran Nagaraja",
+          "Thu D. Nguyen",
+          "Fábio Oliveira"
+        ]
+      },
+      {
+        "title": "Thirty Years Is Long Enough: Getting Beyond C.",
+        "authors": [
+          "Eric A. Brewer",
+          "Jeremy Condit",
+          "Bill McCloskey",
+          "Feng Zhou"
+        ]
+      },
+      {
+        "title": "Broad New OS Research: Challenges and Opportunities.",
+        "authors": [
+          "Galen C. Hunt",
+          "James R. Larus",
+          "David Tarditi",
+          "Ted Wobber"
+        ]
+      },
+      {
+        "title": "Patch (1) Considered Harmful.",
+        "authors": [
+          "Marc E. Fiuczynski",
+          "Robert Grimm",
+          "Yvonne Coady",
+          "David Walker"
+        ]
+      },
+      {
+        "title": "WiDS: An Integrated Toolkit for Distributed System Development.",
+        "authors": [
+          "Shiding Lin",
+          "Aimin Pan",
+          "Zheng Zhang",
+          "Rui Guo",
+          "Zhenyu Guo"
+        ]
+      },
+      {
+        "title": "Causeway: Operating System Support for Controlling and Analyzing the Execution of Distributed Programs.",
+        "authors": [
+          "Anupam Chanda",
+          "Khaled Elmeleegy",
+          "Alan L. Cox",
+          "Willy Zwaenepoel"
+        ]
+      },
+      {
+        "title": "Treating Bugs as Allergies: A Safe Method for Surviving Software Failures.",
+        "authors": [
+          "Feng Qin",
+          "Joseph A. Tucek",
+          "Yuanyuan Zhou"
+        ]
+      },
+      {
+        "title": "When Virtual Is Harder than Real: Security Challenges in Virtual Machine Based Computing Environments.",
+        "authors": [
+          "Tal Garfinkel",
+          "Mendel Rosenblum"
+        ]
+      },
+      {
+        "title": "Make Least Privilege a Right (Not a Privilege).",
+        "authors": [
+          "Maxwell N. Krohn",
+          "Petros Efstathopoulos",
+          "Cliff Frey",
+          "M. Frans Kaashoek",
+          "Eddie Kohler",
+          "David Mazières",
+          "Robert Morris",
+          "Michelle Osborne",
+          "Steve Vandebogart",
+          "David Ziegler"
+        ]
+      },
+      {
+        "title": "Access Control in a World of Software Diversity.",
+        "authors": [
+          "Martín Abadi",
+          "Andrew Birrell",
+          "Ted Wobber"
+        ]
+      },
+      {
+        "title": "PRESTO: A Predictive Storage Architecture for Sensor Networks.",
+        "authors": [
+          "Peter Desnoyers",
+          "Deepak Ganesan",
+          "Huan Li",
+          "Ming Li",
+          "Prashant J. Shenoy"
+        ]
+      },
+      {
+        "title": "Towards a Sensor Network Architecture: Lowering the Waistline.",
+        "authors": [
+          "David E. Culler",
+          "Prabal Dutta",
+          "Cheng Tien Ee",
+          "Rodrigo Fonseca",
+          "Jonathan Hui",
+          "Philip Alexander Levis",
+          "Joseph Polastre",
+          "Scott Shenker",
+          "Ion Stoica",
+          "Gilman Tolle",
+          "Jerry Zhao"
+        ]
+      },
+      {
+        "title": "Falling Off the Cliff: When Systems Go Nonlinear.",
+        "authors": [
+          "Yvonne Coady",
+          "Russ Cox",
+          "John DeTreville",
+          "Peter Druschel",
+          "Joseph L. Hellerstein",
+          "Andrew Hume",
+          "Kimberly Keeton",
+          "Thu Nguyen",
+          "Christopher Small",
+          "Lex Stein",
+          "Andrew Warfield"
+        ]
+      },
+      {
+        "title": "The Many Faces of Systems Research - and How to Evaluate Them.",
+        "authors": [
+          "Aaron B. Brown",
+          "Anupam Chanda",
+          "Rik Farrow",
+          "Alexandra Fedorova",
+          "Petros Maniatis",
+          "Michael L. Scott"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos2003.html": {
+    "header": "9th HotOS 2003: Lihue (Kauai), Hawaii, USA",
+    "year": "2003",
+    "papers": [
+      {
+        "title": "High Availability, Scalable Storage, Dynamic Peer Networks: Pick Two.",
+        "authors": [
+          "Charles Blake",
+          "Rodrigo Rodrigues"
+        ]
+      },
+      {
+        "title": "One Hop Lookups for Peer-to-Peer Overlays.",
+        "authors": [
+          "Anjali Gupta",
+          "Barbara Liskov",
+          "Rodrigo Rodrigues"
+        ]
+      },
+      {
+        "title": "An Analysis of Compare-by-hash.",
+        "authors": [
+          "Val Henson"
+        ]
+      },
+      {
+        "title": "Why Events Are a Bad Idea (for High-Concurrency Servers).",
+        "authors": [
+          "J. Robert von Behren",
+          "Jeremy Condit",
+          "Eric A. Brewer"
+        ]
+      },
+      {
+        "title": "TCP Offload Is a Dumb Idea Whose Time Has Come.",
+        "authors": [
+          "Jeffrey C. Mogul"
+        ]
+      },
+      {
+        "title": "TCP Meets Mobile Code.",
+        "authors": [
+          "Parveen Patel",
+          "David Wetherall",
+          "Jay Lepreau",
+          "Andrew Whitaker"
+        ]
+      },
+      {
+        "title": "Exploiting the Synergy between Peer-to-Peer and Mobile Ad Hoc Networks.",
+        "authors": [
+          "Y. Charlie Hu",
+          "Saumitra M. Das",
+          "Himabindu Pucha"
+        ]
+      },
+      {
+        "title": "Scheduling and Simulation: How to Upgrade Distributed Systems.",
+        "authors": [
+          "Sameer Ajmani",
+          "Barbara Liskov",
+          "Liuba Shrira"
+        ]
+      },
+      {
+        "title": "Development Tools for Distributed Applications.",
+        "authors": [
+          "Mukesh Agrawal",
+          "Srinivasan Seshan"
+        ]
+      },
+      {
+        "title": "Virtual Appliances in the Collective: A Road to Hassle-Free Computing.",
+        "authors": [
+          "Constantine P. Sapuntzakis",
+          "Monica S. Lam"
+        ]
+      },
+      {
+        "title": "POST: A Secure, Resilient, Cooperative Messaging System.",
+        "authors": [
+          "Alan Mislove",
+          "Ansley Post",
+          "Charles Reis",
+          "Paul Willmann",
+          "Peter Druschel",
+          "Dan S. Wallach",
+          "Xavier Bonnaire",
+          "Pierre Sens",
+          "Jean-Michel Busca",
+          "Luciana Bezerra Arantes"
+        ]
+      },
+      {
+        "title": "Crash-Only Software.",
+        "authors": [
+          "George Candea",
+          "Armando Fox"
+        ]
+      },
+      {
+        "title": "The Phoenix Recovery System: Rebuilding from the Ashes of an Internet Catastrophe.",
+        "authors": [
+          "Flavio Paiva Junqueira",
+          "Ranjita Bhagwan",
+          "Keith Marzullo",
+          "Stefan Savage",
+          "Geoffrey M. Voelker"
+        ]
+      },
+      {
+        "title": "Using Runtime Paths for Macroanalysis.",
+        "authors": [
+          "Mike Y. Chen",
+          "Emre Kiciman",
+          "Anthony J. Accardi",
+          "Armando Fox",
+          "Eric A. Brewer"
+        ]
+      },
+      {
+        "title": "Magpie: Online Modelling and Performance-aware Systems.",
+        "authors": [
+          "Paul Barham",
+          "Rebecca Isaacs",
+          "Richard Mortier",
+          "Dushyanth Narayanan"
+        ]
+      },
+      {
+        "title": "Using Computers to Diagnose Computer Problems.",
+        "authors": [
+          "Joshua Redstone",
+          "Michael M. Swift",
+          "Brian N. Bershad"
+        ]
+      },
+      {
+        "title": "Using Performance Reflection in Systems Software.",
+        "authors": [
+          "Robert J. Fowler",
+          "Alan L. Cox",
+          "Sameh Elnikety",
+          "Willy Zwaenepoel"
+        ]
+      },
+      {
+        "title": "Cassyopia: Compiler Assisted System Optimization.",
+        "authors": [
+          "Mohan Rajagopalan",
+          "Saumya K. Debray",
+          "Matti A. Hiltunen",
+          "Richard D. Schlichting"
+        ]
+      },
+      {
+        "title": "Cosy: Develop in User-Land, Run in Kernel-Mode.",
+        "authors": [
+          "Amit Purohit",
+          "Charles P. Wright",
+          "Joseph Spadavecchia",
+          "Erez Zadok"
+        ]
+      },
+      {
+        "title": "Why Can't I Find My Files? New Methods for Automating Attribute Assignment.",
+        "authors": [
+          "Craig A. N. Soules",
+          "Gregory R. Ganger"
+        ]
+      },
+      {
+        "title": "Secure Data Replication over Untrusted Hosts.",
+        "authors": [
+          "Bogdan C. Popescu",
+          "Bruno Crispo",
+          "Andrew S. Tanenbaum"
+        ]
+      },
+      {
+        "title": "Palimpsest: Soft-Capacity Storage for Planetary-Scale Services.",
+        "authors": [
+          "Timothy Roscoe",
+          "Steven Hand"
+        ]
+      },
+      {
+        "title": "Certifying Program Execution with Secure Processors.",
+        "authors": [
+          "Benjie Chen",
+          "Robert Morris"
+        ]
+      },
+      {
+        "title": "Hardware Works, Software Doesn't: Enforcing Modularity with Mondriaan Memory Protection.",
+        "authors": [
+          "Emmett Witchel",
+          "Krste Asanovic"
+        ]
+      },
+      {
+        "title": "Flexible OS Support and Applications for Trusted Computing.",
+        "authors": [
+          "Tal Garfinkel",
+          "Mendel Rosenblum",
+          "Dan Boneh"
+        ]
+      },
+      {
+        "title": "Sensing User Intention and Context for Energy Management.",
+        "authors": [
+          "Angela B. Dalton",
+          "Carla Schlatter Ellis"
+        ]
+      },
+      {
+        "title": "Access Control to Information in Pervasive Computing Environments.",
+        "authors": [
+          "Urs Hengartner",
+          "Peter Steenkiste"
+        ]
+      },
+      {
+        "title": "Privacy-Aware Location Sensor Networks.",
+        "authors": [
+          "Marco Gruteser",
+          "Graham Schelle",
+          "Ashish Jain",
+          "Richard Han",
+          "Dirk Grunwald"
+        ]
+      },
+      {
+        "title": "FAB: Enterprise Storage Systems on a Shoestring.",
+        "authors": [
+          "Svend Frølund",
+          "Arif Merchant",
+          "Yasushi Saito",
+          "Susan Spence",
+          "Alistair C. Veitch"
+        ]
+      },
+      {
+        "title": "The Case for a Session State Storage Layer.",
+        "authors": [
+          "Benjamin C. Ling",
+          "Armando Fox"
+        ]
+      },
+      {
+        "title": "Towards a Semantic-Aware File Store.",
+        "authors": [
+          "Zhichen Xu",
+          "Magnus Karlsson",
+          "Chunqiang Tang",
+          "Christos T. Karamanolis"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos2001.html": {
+    "header": "8th HotOS 2001: Elmau/Oberbayern, Germany",
+    "year": "2001",
+    "papers": [
+      {
+        "title": "Beyond Address Spaces - Flexibility, Performance, Protection, and Resource Management in the Type-Safe JX Operating System.",
+        "authors": [
+          "Michael Golm",
+          "Jürgen Kleinöder",
+          "Frank Bellosa"
+        ]
+      },
+      {
+        "title": "Design Issues in System Support for Programmable Routers.",
+        "authors": [
+          "Prashant Pradhan",
+          "Kartik Gopalan",
+          "Tzi-cker Chiueh"
+        ]
+      },
+      {
+        "title": "Lazy Process Switching.",
+        "authors": [
+          "Jochen Liedtke",
+          "Horst Wenske"
+        ]
+      },
+      {
+        "title": "Robustness in Complex Systems.",
+        "authors": [
+          "Steven D. Gribble"
+        ]
+      },
+      {
+        "title": "Using Abstraction To Improve Fault Tolerance.",
+        "authors": [
+          "Miguel Castro",
+          "Rodrigo Rodrigues",
+          "Barbara Liskov"
+        ]
+      },
+      {
+        "title": "Fail-Stutter Fault Tolerance.",
+        "authors": [
+          "Remzi H. Arpaci-Dusseau",
+          "Andrea C. Arpaci-Dusseau"
+        ]
+      },
+      {
+        "title": "Smart Card Operating Systems: Overview and Trends.",
+        "authors": [
+          "Pierre Paradinas"
+        ]
+      },
+      {
+        "title": "Reconsidering Internet Mobility.",
+        "authors": [
+          "Alex C. Snoeren",
+          "Hari Balakrishnan",
+          "M. Frans Kaashoek"
+        ]
+      },
+      {
+        "title": "Protium, an Infrastructure for Partitioned Applications.",
+        "authors": [
+          "Cliff Young",
+          "Yagati N. Lakshman",
+          "Tom Szymanski",
+          "John H. Reppy",
+          "David L. Presotto",
+          "Rob Pike",
+          "Girija J. Narlikar",
+          "Sape J. Mullender",
+          "Eric Grosse"
+        ]
+      },
+      {
+        "title": "Probabilistic Modelling of Replica Divergence.",
+        "authors": [
+          "Antony I. T. Rowstron",
+          "Neil D. Lawrence",
+          "Christopher M. Bishop"
+        ]
+      },
+      {
+        "title": "Self-Tuned Remote Execution for Pervasive Computing.",
+        "authors": [
+          "Jason Flinn",
+          "Dushyanth Narayanan",
+          "Mahadev Satyanarayanan"
+        ]
+      },
+      {
+        "title": "Energy is just another resource: Energy accountin and energy pricing in the Nemesis OS.",
+        "authors": [
+          "Rolf Neugebauer",
+          "Derek McAuley"
+        ]
+      },
+      {
+        "title": "PAST: A large-scale, persistent peer-to-peer storage utility.",
+        "authors": [
+          "Peter Druschel",
+          "Antony I. T. Rowstron"
+        ]
+      },
+      {
+        "title": "Building peer-to-peer systems with Chord, a distributed lookup service.",
+        "authors": [
+          "Frank Dabek",
+          "Emma Brunskill",
+          "M. Frans Kaashoek",
+          "David R. Karger",
+          "Robert Morris",
+          "Ion Stoica",
+          "Hari Balakrishnan"
+        ]
+      },
+      {
+        "title": "Herald: Achieving a Global Event Notification Service.",
+        "authors": [
+          "Luis-Felipe Cabrera",
+          "Michael B. Jones",
+          "Marvin Theimer"
+        ]
+      },
+      {
+        "title": "HeRMES: High-Performance Reliable MRAM-Enabled Storage.",
+        "authors": [
+          "Ethan L. Miller",
+          "Scott A. Brandt",
+          "Darrell D. E. Long"
+        ]
+      },
+      {
+        "title": "Better Security via Smarter Devices.",
+        "authors": [
+          "Gregory R. Ganger",
+          "David Nagle"
+        ]
+      },
+      {
+        "title": "Research Issues in No-Futz Computing.",
+        "authors": [
+          "David A. Holland",
+          "William Josephson",
+          "Kostas Magoutis",
+          "Margo I. Seltzer",
+          "Christopher A. Stein",
+          "Ada T. Lim"
+        ]
+      },
+      {
+        "title": "Don't Trust your File Server.",
+        "authors": [
+          "David Mazières",
+          "Dennis E. Shasha"
+        ]
+      },
+      {
+        "title": "Active Protocols for Agile, Censor-Resistant Networks.",
+        "authors": [
+          "Robert Ricci",
+          "Jay Lepreau"
+        ]
+      },
+      {
+        "title": "Recursive Restartability: Turning the Reboot Sledgehammer into a Scalpel.",
+        "authors": [
+          "George Candea",
+          "Armando Fox"
+        ]
+      },
+      {
+        "title": "When Virtual is Better than Real.",
+        "authors": [
+          "Peter M. Chen",
+          "Brian D. Noble"
+        ]
+      },
+      {
+        "title": "Virtualization Considered Harmful: OS Design Directions for Well-Conditioned Services.",
+        "authors": [
+          "Matt Welsh",
+          "David E. Culler"
+        ]
+      },
+      {
+        "title": "Systems Directions for Pervasive Computing.",
+        "authors": [
+          "Robert Grimm",
+          "Janet Davis",
+          "Ben Hendrickson",
+          "Eric Lemar",
+          "Adam MacBeth",
+          "Steven Swanson",
+          "Thomas E. Anderson",
+          "Brian N. Bershad",
+          "Gaetano Borriello",
+          "Steven D. Gribble",
+          "David Wetherall"
+        ]
+      },
+      {
+        "title": "The Case for Resilient Overlay Networks.",
+        "authors": [
+          "David G. Andersen",
+          "Hari Balakrishnan",
+          "M. Frans Kaashoek",
+          "Robert Morris"
+        ]
+      },
+      {
+        "title": "Bossa: A DSL Framework for Application-Specific Scheduling Policies.",
+        "authors": [
+          "Luciano Porto Barreto",
+          "Gilles Muller"
+        ]
+      },
+      {
+        "title": "Supporting Coordinated Adaption in Networked Systems.",
+        "authors": [
+          "Patrick G. Bridges",
+          "Wen-Ke Chen",
+          "Matti A. Hiltunen",
+          "Richard D. Schlichting"
+        ]
+      },
+      {
+        "title": "Active Streams-An Approach to Adaptive Distributed Systems.",
+        "authors": [
+          "Fabián E. Bustamante",
+          "Greg Eisenhauer",
+          "Patrick M. Widener",
+          "Karsten Schwan",
+          "Calton Pu"
+        ]
+      },
+      {
+        "title": "Middleware for Mobile Computing: Awareness vs. Transparency.",
+        "authors": [
+          "Licia Capra",
+          "Wolfgang Emmerich",
+          "Cecilia Mascolo"
+        ]
+      },
+      {
+        "title": "Energy Management for Server Clusters.",
+        "authors": [
+          "Jeffrey S. Chase",
+          "Ronald P. Doyle"
+        ]
+      },
+      {
+        "title": "Aspect-Oriented System Structure.",
+        "authors": [
+          "Yvonne Coady",
+          "Gregor Kiczales",
+          "Michael J. Feeley",
+          "Norman C. Hutchinson",
+          "Joon Suan Ong",
+          "Stephan Gudmundson"
+        ]
+      },
+      {
+        "title": "Architectures for Adaption Systems.",
+        "authors": [
+          "Eyal de Lara",
+          "Dan S. Wallach",
+          "Willy Zwaenepoel"
+        ]
+      },
+      {
+        "title": "Secure OS Extensibility Needn't Cost an Arm and a Leg.",
+        "authors": [
+          "Antony Edwards",
+          "Gernot Heiser"
+        ]
+      },
+      {
+        "title": "Authentication Confidences.",
+        "authors": [
+          "Gregory R. Ganger"
+        ]
+      },
+      {
+        "title": "Supporting Hot-Swappable Components for System Software.",
+        "authors": [
+          "Kevin Hui",
+          "Jonathan Appavoo",
+          "Robert W. Wisniewski",
+          "Marc A. Auslander",
+          "David Edelsohn",
+          "Benjamin Gamsa",
+          "Orran Krieger",
+          "Bryan S. Rosenburg",
+          "Michael Stumm"
+        ]
+      },
+      {
+        "title": "A Backup Appliance Composed of High-Capacity Disk Drives.",
+        "authors": [
+          "Kimberly Keeton",
+          "Eric Anderson"
+        ]
+      },
+      {
+        "title": "Towards Zero-Code Service Composition.",
+        "authors": [
+          "Emre Kiciman",
+          "Laurence Melloul",
+          "Armando Fox"
+        ]
+      },
+      {
+        "title": "Separating Mobility from Mobile Agents.",
+        "authors": [
+          "Kåre J. Lauvset",
+          "Kjetil Jacobsen",
+          "Dag Johansen",
+          "Keith Marzullo"
+        ]
+      },
+      {
+        "title": "A Streaming Interface for Real-Time Interprocess Communication.",
+        "authors": [
+          "Jork Löser",
+          "Hermann Härtig",
+          "Lars Reuther"
+        ]
+      },
+      {
+        "title": "DiPS: A Unifying Approach for Developing System Software.",
+        "authors": [
+          "Sam Michiels",
+          "Frank Matthijs",
+          "Dirk Walravens",
+          "Pierre Verbaeten"
+        ]
+      },
+      {
+        "title": "Toward a Rigorous Data Type Model for HTTP.",
+        "authors": [
+          "Jeffrey C. Mogul"
+        ]
+      },
+      {
+        "title": "Hinting for Goodness' Sake.",
+        "authors": [
+          "David Petrou",
+          "Dushyanth Narayanan",
+          "Gregory R. Ganger",
+          "Garth A. Gibson",
+          "Elizabeth A. M. Shriver"
+        ]
+      },
+      {
+        "title": "Applying the VVM Kernel to Flexible Web Caches.",
+        "authors": [
+          "Ian Piumarta",
+          "Frederic Ogel",
+          "Carine Baillarguet",
+          "Bertil Folliot"
+        ]
+      },
+      {
+        "title": "Supporting Disconnected Operation in DOORS.",
+        "authors": [
+          "Nuno M. Preguiça",
+          "José Legatheaux Martins",
+          "Sérgio Duarte",
+          "Henrique João L. Domingos"
+        ]
+      },
+      {
+        "title": "The Lana Aproach to Wireless Computing.",
+        "authors": [
+          "Chrislain Razafimahefa",
+          "Ciarán Bryce",
+          "Michel Pawlak"
+        ]
+      },
+      {
+        "title": "Smart Messages: A System Architecture for Large Networks of Embedded Systems.",
+        "authors": [
+          "Phillip Stanley-Marbell",
+          "Cristian Borcea",
+          "Kiran Nagaraja",
+          "Liviu Iftode"
+        ]
+      },
+      {
+        "title": "Transport Layer Support for Highly-Available Network Services.",
+        "authors": [
+          "Florin Sultan",
+          "Kiran Srinivasan",
+          "Liviu Iftode"
+        ]
+      },
+      {
+        "title": "Mansion, A Distributed Multi-Agent System.",
+        "authors": [
+          "Guido van 't Noordende",
+          "Frances M. T. Brazier",
+          "Andrew S. Tanenbaum",
+          "Maarten van Steen"
+        ]
+      },
+      {
+        "title": "Towards Global Storage Management and Data Placement.",
+        "authors": [
+          "Alistair C. Veitch",
+          "Erik Riedel",
+          "Simon J. Towers",
+          "John Wilkes"
+        ]
+      },
+      {
+        "title": "Censorship Resistant Publishing Through Document Entanglements.",
+        "authors": [
+          "Marc Waldman",
+          "David Mazières"
+        ]
+      },
+      {
+        "title": "The Conquest File System's Life after Disks.",
+        "authors": [
+          "An-I Wang",
+          "Peter L. Reiher",
+          "Gerald J. Popek",
+          "Geoffrey H. Kuenning"
+        ]
+      },
+      {
+        "title": "The Importance of Good Plumbing-Reconsidering Infrastructure in Distributed Systems.",
+        "authors": [
+          "Andrew Warfield",
+          "Norman C. Hutchinson"
+        ]
+      },
+      {
+        "title": "EOS - The Dawn of the Resource Economy.",
+        "authors": [
+          "John Wilkes",
+          "Patrick Goldsack",
+          "G. John Janakiraman",
+          "Lance Russell",
+          "Sharad Singhal",
+          "Andrew Thomas"
+        ]
+      },
+      {
+        "title": "Anypoint Communication Protocol.",
+        "authors": [
+          "Ken Yocum",
+          "Jeffrey S. Chase",
+          "Amin Vahdat"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos1999.html": {
+    "header": "7th HotOS 1999: Rio Rico, AZ, USA",
+    "year": "1999",
+    "papers": [
+      {
+        "title": "Elephant: The File System That Never Forgets.",
+        "authors": [
+          "Douglas J. Santry",
+          "Michael J. Feeley",
+          "Norman C. Hutchinson",
+          "Alistair C. Veitch"
+        ]
+      },
+      {
+        "title": "Caching Documents with Active Properties.",
+        "authors": [
+          "Eyal de Lara",
+          "Karin Petersen",
+          "Douglas B. Terry",
+          "Anthony LaMarca",
+          "James D. Thornton",
+          "Michael Salisbury",
+          "Paul Dourish",
+          "W. Keith Edwards",
+          "John Lamping"
+        ]
+      },
+      {
+        "title": "The Case for Efficient File Access Pattern Modeling.",
+        "authors": [
+          "Tom M. Kroeger",
+          "Darrell D. E. Long"
+        ]
+      },
+      {
+        "title": "File Systems for CE Equipment.",
+        "authors": [
+          "R. M. Tol",
+          "P. B. Ijdens"
+        ]
+      },
+      {
+        "title": "The Box: A Replacement for Files.",
+        "authors": [
+          "Francisco J. Ballesteros",
+          "Sergio Arévalo"
+        ]
+      },
+      {
+        "title": "ISTORE: Introspective Storage for Data-Intensive Network Services.",
+        "authors": [
+          "Aaron B. Brown",
+          "David Oppenheimer",
+          "Kimberly Keeton",
+          "Randi Thomas",
+          "John Kubiatowicz",
+          "David A. Patterson"
+        ]
+      },
+      {
+        "title": "OS Support for General-Purpose Routers.",
+        "authors": [
+          "Larry L. Peterson",
+          "Scott Karlin",
+          "Kai Li"
+        ]
+      },
+      {
+        "title": "Conductor: A Framework for Distributed Adaptation.",
+        "authors": [
+          "Mark Yarvis",
+          "Peter L. Reiher",
+          "Gerald J. Popek"
+        ]
+      },
+      {
+        "title": "An End-System Architecture for Unified Congestion Management.",
+        "authors": [
+          "Hariharan Shankar Rahul",
+          "Hari Balakrishnan",
+          "Srinivasan Seshan"
+        ]
+      },
+      {
+        "title": "The Case for Informed Transport Protocols.",
+        "authors": [
+          "Stefan Savage",
+          "Neal Cardwell",
+          "Thomas E. Anderson"
+        ]
+      },
+      {
+        "title": "Transparent Communication Management in Wireless Networks.",
+        "authors": [
+          "David Kidston",
+          "James P. Black",
+          "Thomas Kunz"
+        ]
+      },
+      {
+        "title": "The Case for Better Throughput Estimation.",
+        "authors": [
+          "Brian Noble",
+          "Li Li",
+          "Atul Prakash"
+        ]
+      },
+      {
+        "title": "Operating Systems Support for Programmable Cluster-based Internet Routers.",
+        "authors": [
+          "Prashant Pradhan",
+          "Tzi-cker Chiueh"
+        ]
+      },
+      {
+        "title": "A Case for Buffer Servers.",
+        "authors": [
+          "Darrell C. Anderson",
+          "Ken Yocum",
+          "Jeffrey S. Chase"
+        ]
+      },
+      {
+        "title": "Brittle Metrics in Operating Systems Research.",
+        "authors": [
+          "Jeffrey C. Mogul"
+        ]
+      },
+      {
+        "title": "The Problems You're Having May Not Be the Problems You Think You're Having: Results from a Latency Study of Windows NT.",
+        "authors": [
+          "Michael B. Jones",
+          "John Regehr"
+        ]
+      },
+      {
+        "title": "The Case for Application-Specific Benchmarking.",
+        "authors": [
+          "Margo I. Seltzer",
+          "David Krinsky",
+          "Keith A. Smith",
+          "Xiaolan Zhang"
+        ]
+      },
+      {
+        "title": "Intra-Address Space Protection using Segmentation Hardware.",
+        "authors": [
+          "Tzi-cker Chiueh",
+          "Ganesh Venkitachalam",
+          "Prashant Pradhan"
+        ]
+      },
+      {
+        "title": "Drawing the Red Line in Java.",
+        "authors": [
+          "Godmar Back",
+          "Wilson C. Hsieh"
+        ]
+      },
+      {
+        "title": "Hey, You Got Your Compiler in My Operating System!",
+        "authors": [
+          "Jon Howell",
+          "Mark H. Montague"
+        ]
+      },
+      {
+        "title": "Soft Real Time Scheduling for General Purpose Client-Server Systems.",
+        "authors": [
+          "David Ingram"
+        ]
+      },
+      {
+        "title": "Xenoservers: Accountable Execution of Untrusted Programs.",
+        "authors": [
+          "Dickon Reed",
+          "Ian Pratt",
+          "Paul Menage",
+          "Stephen Early",
+          "Neil Stratford"
+        ]
+      },
+      {
+        "title": "An Economic Approach to Adaptive Resource Management.",
+        "authors": [
+          "Neil Stratford",
+          "Richard Mortier"
+        ]
+      },
+      {
+        "title": "Tickets and Currencies Revisited: Extensions to Multi-Resouce Lottery Scheduling.",
+        "authors": [
+          "David G. Sullivan",
+          "Robert Haas",
+          "Margo I. Seltzer"
+        ]
+      },
+      {
+        "title": "How To Schedule Unlimited Memory Pinning of Untrusted Processes Or Provisional Ideas about Service-Neutrality.",
+        "authors": [
+          "Jochen Liedtke",
+          "Volkmar Uhlig",
+          "Kevin Elphinstone",
+          "Trent Jaeger",
+          "Yoonho Park"
+        ]
+      },
+      {
+        "title": "The Case for Higher-Level Power Management.",
+        "authors": [
+          "Carla Schlatter Ellis"
+        ]
+      },
+      {
+        "title": "Reliability Hierarchies.",
+        "authors": [
+          "Peter M. Chen",
+          "David E. Lowell"
+        ]
+      },
+      {
+        "title": "Harvest, Yield and Scalable Tolerant Systems.",
+        "authors": [
+          "Armando Fox",
+          "Eric A. Brewer"
+        ]
+      },
+      {
+        "title": "Command Management System for Next-Generation User Input.",
+        "authors": [
+          "Mitchell Tsai",
+          "Peter L. Reiher",
+          "Gerald J. Popek"
+        ]
+      },
+      {
+        "title": "Practical Security Systems with Smartcards.",
+        "authors": [
+          "Naomaru Itoi",
+          "Peter Honeyman"
+        ]
+      },
+      {
+        "title": "Flexible Access Control using IPC Redirection.",
+        "authors": [
+          "Trent Jaeger",
+          "Kevin Elphinstone",
+          "Jochen Liedtke",
+          "Vsevolod Panteleenko",
+          "Yoonho Park"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos97.html": {
+    "header": "6th HotOS 1997: Cape Cod, Massachusetts, USA",
+    "year": "1997",
+    "papers": [
+      {
+        "title": "Experience with the Development of a Microkernel-Based, Multi-Server Operating System.",
+        "authors": [
+          "Freeman L. Rawson III"
+        ]
+      },
+      {
+        "title": "The Failure of Personalities to Generalize.",
+        "authors": [
+          "Brett D. Fleisch"
+        ]
+      },
+      {
+        "title": "The Flux OS Toolkit: Reusable Components for OS Implementation.",
+        "authors": [
+          "Bryan Ford",
+          "Kevin Van Maren",
+          "Jay Lepreau",
+          "Stephen Clawson",
+          "Bart Robinson",
+          "Jeff Turner"
+        ]
+      },
+      {
+        "title": "Formal Methods: A Practical Tool for OS Implementors.",
+        "authors": [
+          "Patrick Tullmann",
+          "Jeff Turner",
+          "John McCorquodale",
+          "Jay Lepreau",
+          "Ajay Chitturi",
+          "Godmar Back"
+        ]
+      },
+      {
+        "title": "Achieved IPC Performance.",
+        "authors": [
+          "Jochen Liedtke",
+          "Kevin Elphinstone",
+          "Sebastian Schönberg",
+          "Hermann Härtig",
+          "Gernot Heiser",
+          "Nayeem Islam",
+          "Trent Jaeger"
+        ]
+      },
+      {
+        "title": "The Network Hardware is the Operating System.",
+        "authors": [
+          "Francisco J. Ballesteros",
+          "Luis López-Fernández"
+        ]
+      },
+      {
+        "title": "Extensible Systems are Leading OS Research Astray.",
+        "authors": [
+          "Peter Druschel",
+          "Vivek S. Pai",
+          "Willy Zwaenepoel"
+        ]
+      },
+      {
+        "title": "Customization Lite.",
+        "authors": [
+          "Marc A. Auslander",
+          "Hubertus Franke",
+          "Benjamin Gamsa",
+          "Orran Krieger",
+          "Michael Stumm"
+        ]
+      },
+      {
+        "title": "Operating Systems for Component Software Environments.",
+        "authors": [
+          "Noah Mendelsohn"
+        ]
+      },
+      {
+        "title": "Secure Applications Need Flexible Operating Systems.",
+        "authors": [
+          "David Mazières",
+          "M. Frans Kaashoek"
+        ]
+      },
+      {
+        "title": "Security for Extensible Systems.",
+        "authors": [
+          "Robert Grimm",
+          "Brian N. Bershad"
+        ]
+      },
+      {
+        "title": "Building Diverse Computer Systems.",
+        "authors": [
+          "Stephanie Forrest",
+          "Anil Somayaji",
+          "David H. Ackley"
+        ]
+      },
+      {
+        "title": "Preventing Denial-of-Service Attacks on a µ-Kernel for WebOSes.",
+        "authors": [
+          "Jochen Liedtke",
+          "Nayeem Islam",
+          "Trent Jaeger"
+        ]
+      },
+      {
+        "title": "Query Routing: Applying Systems Thinking to Internet Search.",
+        "authors": [
+          "Paul J. Leach",
+          "Chris Weider"
+        ]
+      },
+      {
+        "title": "General Purpose Proxies: Solved and Unsolved Problems.",
+        "authors": [
+          "Bruce Zenel",
+          "Dan Duchamp"
+        ]
+      },
+      {
+        "title": "Reduce, Reuse, Recycle: An Approach to Building Large Internet Caches.",
+        "authors": [
+          "Syam Gadde",
+          "Michael Rabinovich",
+          "Jeffrey S. Chase"
+        ]
+      },
+      {
+        "title": "Distributed Systems Support for Networked Games.",
+        "authors": [
+          "Tzi-cker Chiueh"
+        ]
+      },
+      {
+        "title": "Operating System Directions for the Next Millennium.",
+        "authors": [
+          "William J. Bolosky",
+          "Richard Draves",
+          "Robert P. Fitzgerald",
+          "Christopher W. Fraser",
+          "Michael B. Jones",
+          "Todd B. Knoblock",
+          "Richard F. Rashid"
+        ]
+      },
+      {
+        "title": "Run-Time Code Generation as a Central System Service.",
+        "authors": [
+          "Michael Franz"
+        ]
+      },
+      {
+        "title": "What Synchronous Groupware Needs: Notification Services.",
+        "authors": [
+          "Mark Day"
+        ]
+      },
+      {
+        "title": "Self-Modifying and Self-Adapting Operating Systems.",
+        "authors": [
+          "Margo I. Seltzer",
+          "Christopher Small"
+        ]
+      },
+      {
+        "title": "A Fresh Look at Memory Hierarchy Management.",
+        "authors": [
+          "John Chapin"
+        ]
+      },
+      {
+        "title": "The Role of Trace Modulation in Building Mobile Computing Systems.",
+        "authors": [
+          "Mahadev Satyanarayanan",
+          "Brian Noble"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/hotos1995.html": {
+    "header": "5th HotOS 1995: Orcas Island, Washington, USA",
+    "year": "1995",
+    "papers": [
+      {
+        "title": "Real-time is no longer a small specialized niche.",
+        "authors": [
+          "Kelvin D. Nilsen"
+        ]
+      },
+      {
+        "title": "Continuous and multimedia OS support in real-time control applications.",
+        "authors": [
+          "John A. Stankovic"
+        ]
+      },
+      {
+        "title": "Modular real-time resource management in the Rialto operating system.",
+        "authors": [
+          "Michael B. Jones",
+          "Paul J. Leach",
+          "Richard Draves",
+          "Joseph S. Barrera III"
+        ]
+      },
+      {
+        "title": "Real-time operating systems for multimedia processing.",
+        "authors": [
+          "Daniel I. Katcher",
+          "Kevin A. Kettler",
+          "Jay K. Strosnider"
+        ]
+      },
+      {
+        "title": "Effective wireless communication through application partitioning.",
+        "authors": [
+          "Terri Watson"
+        ]
+      },
+      {
+        "title": "Intelligent communication filtering for limited bandwidth environments.",
+        "authors": [
+          "Bruce Zenel",
+          "Dan Duchamp"
+        ]
+      },
+      {
+        "title": "Efficient TCP over networks with wireless links.",
+        "authors": [
+          "Elan Amir",
+          "Hari Balakrishnan",
+          "Srinivasan Seshan",
+          "Randy H. Katz"
+        ]
+      },
+      {
+        "title": "Operating system support for mobile agents.",
+        "authors": [
+          "Dag Johansen",
+          "Robbert van Renesse",
+          "Fred B. Schneider"
+        ]
+      },
+      {
+        "title": "Meta-scripts as a mechanism for complex web services.",
+        "authors": [
+          "Murthy V. Devarakonda",
+          "Arup Mukherjee",
+          "Bill Kish"
+        ]
+      },
+      {
+        "title": "The case for geographical push-caching.",
+        "authors": [
+          "James Gwertzman",
+          "Margo I. Seltzer"
+        ]
+      },
+      {
+        "title": "Scout: a communications-oriented operating system.",
+        "authors": [
+          "Allen Brady Montz",
+          "David Mosberger",
+          "Sean W. O'Malley",
+          "Larry L. Peterson",
+          "Todd A. Proebsting"
+        ]
+      },
+      {
+        "title": "Protection is a software issue.",
+        "authors": [
+          "Brian N. Bershad",
+          "Stefan Savage",
+          "Przemyslaw Pardyak",
+          "David Becker",
+          "Marc E. Fiuczynski",
+          "Emin Gün Sirer"
+        ]
+      },
+      {
+        "title": "The grand unified theory of address spaces.",
+        "authors": [
+          "Anders Lindström",
+          "John Rosenberg",
+          "Alan Dearle"
+        ]
+      },
+      {
+        "title": "AVM: application-level virtual memory.",
+        "authors": [
+          "Dawson R. Engler",
+          "Sandeep K. Gupta",
+          "M. Frans Kaashoek"
+        ]
+      },
+      {
+        "title": "Exterminate all operating system abstractions.",
+        "authors": [
+          "Dawson R. Engler",
+          "M. Frans Kaashoek"
+        ]
+      },
+      {
+        "title": "Paramecium: an extensible object-based kernel.",
+        "authors": [
+          "Leendert van Doorn",
+          "Philip Homburg",
+          "Andrew S. Tanenbaum"
+        ]
+      },
+      {
+        "title": "μChoices: an object-oriented multimedia operating system.",
+        "authors": [
+          "Roy H. Campbell",
+          "See-Mong Tan"
+        ]
+      },
+      {
+        "title": "Adaptive operating system design using reflection.",
+        "authors": [
+          "Rodger Lea",
+          "Yasuhiko Yokote",
+          "Jun-ichiro Itoh"
+        ]
+      },
+      {
+        "title": "Application of meta-protocols to improve OS services.",
+        "authors": [
+          "Douglas B. Orr"
+        ]
+      },
+      {
+        "title": "A memory approach to consistent, reliable distributed shared memory.",
+        "authors": [
+          "Niels Christian Juul",
+          "Brett D. Fleisch"
+        ]
+      },
+      {
+        "title": "Generic support for synchronization and consistency in Arias.",
+        "authors": [
+          "Elizabeth Pérez Cortés",
+          "Pascal Dechamboux",
+          "Jay Han"
+        ]
+      },
+      {
+        "title": "Distributed shared memory: where we are and where we should be headed.",
+        "authors": [
+          "John B. Carter",
+          "Dilip Khandekar",
+          "Linus Kamb"
+        ]
+      },
+      {
+        "title": "Improving data consistency in mobile computing using isolation-only transactions.",
+        "authors": [
+          "Qi Lu",
+          "Mahadev Satyanarayanan"
+        ]
+      },
+      {
+        "title": "Shared data management needs adaptive methods.",
+        "authors": [
+          "James W. O'Toole Jr.",
+          "Liuba Shrira"
+        ]
+      },
+      {
+        "title": "Using dynamic sets to overcome high I/O latencies during search.",
+        "authors": [
+          "David C. Steere",
+          "Mahadev Satyanarayanan"
+        ]
+      },
+      {
+        "title": "Are we answering the right research questions for commercial operating systems?",
+        "authors": [
+          "Deborah Hamilton"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/wwos93.html": {
+    "header": "4th WWOS 1993: Napa, California, USA",
+    "year": "1993",
+    "papers": [
+      {
+        "title": "Operating System Issues for PDAs.",
+        "authors": [
+          "Marvin Theimer",
+          "Alan J. Demers",
+          "Brent B. Welch"
+        ]
+      },
+      {
+        "title": "A Microkernel-Based Operating System for Personal Digital Assistants.",
+        "authors": [
+          "Larry K. Loucks",
+          "Ravi Manikundalam",
+          "Freeman L. Rawson III"
+        ]
+      },
+      {
+        "title": "Mobile Computing Personae.",
+        "authors": [
+          "Arindam Banerji",
+          "David L. Cohn",
+          "Dinesh C. Kulkarni"
+        ]
+      },
+      {
+        "title": "Operating System Implications of Solid-State Mobile Computers.",
+        "authors": [
+          "Ramón Cáceres",
+          "Fred Douglis",
+          "Kai Li",
+          "Brian Marsh"
+        ]
+      },
+      {
+        "title": "How to Program Networked Portable Computers.",
+        "authors": [
+          "David Goldberg",
+          "Michael M. Tso"
+        ]
+      },
+      {
+        "title": "The PARCTAB Mobile Computing System.",
+        "authors": [
+          "Bill N. Schilit",
+          "Norman Adams",
+          "Rich Gold",
+          "Michael M. Tso",
+          "Roy Want"
+        ]
+      },
+      {
+        "title": "User Interface Issues in Mobile Computing.",
+        "authors": [
+          "James A. Landay",
+          "Todd R. Kaufmann"
+        ]
+      },
+      {
+        "title": "Providing Network Video Service to Mobile Clients.",
+        "authors": [
+          "Bruce A. Mah",
+          "Srinivasan Seshan",
+          "Kimberly Keeton",
+          "Randy H. Katz",
+          "Domenico Ferrari"
+        ]
+      },
+      {
+        "title": "Using Reconciliation to Share Files Between Occasionally Connected Computers.",
+        "authors": [
+          "John H. Howard"
+        ]
+      },
+      {
+        "title": "Generic Support for Caching and Disconnected Operation.",
+        "authors": [
+          "Michael N. Nelson",
+          "Yousef Y. A. Khalidi"
+        ]
+      },
+      {
+        "title": "Supporting Application-Specific Resolution in an Optimistically Replicated File System.",
+        "authors": [
+          "Puneet Kumar",
+          "Mahadev Satyanarayanan"
+        ]
+      },
+      {
+        "title": "xFS: A Wide Area Mass Storage File System.",
+        "authors": [
+          "Randolph Y. Wang",
+          "Thomas E. Anderson"
+        ]
+      },
+      {
+        "title": "Careful Protocols or How to Use Highly Reliable Networks.",
+        "authors": [
+          "David Mosberger",
+          "Larry L. Peterson"
+        ]
+      },
+      {
+        "title": "Ubiquitous Mobil Host Internetworking.",
+        "authors": [
+          "David B. Johnson"
+        ]
+      },
+      {
+        "title": "Handling Mobile Clients: A Case for Indirect Interaction.",
+        "authors": [
+          "B. R. Badrinath",
+          "Ajay V. Bakre",
+          "Tomasz Imielinski",
+          "R. Maramtz"
+        ]
+      },
+      {
+        "title": "Transparent Mistrust: OS Support for Cryptography-in-the-Large.",
+        "authors": [
+          "Matt Blaze"
+        ]
+      },
+      {
+        "title": "Virtual Memory Support for Multiple Page Sizes.",
+        "authors": [
+          "Yousef Y. A. Khalidi",
+          "Madhusudhan Talluri",
+          "Michael N. Nelson",
+          "Dock Williams"
+        ]
+      },
+      {
+        "title": "Big Memories on the Desktop.",
+        "authors": [
+          "Jeffrey C. Mogul"
+        ]
+      },
+      {
+        "title": "eNVy: A NonVolatile Main Memory Storage System.",
+        "authors": [
+          "Michael Wu",
+          "Willy Zwaenepoel"
+        ]
+      },
+      {
+        "title": "Object Groups May Be Better Than Pages.",
+        "authors": [
+          "Mark Day"
+        ]
+      },
+      {
+        "title": "Feedback-Based Scheduling: a Toolbox Approach.",
+        "authors": [
+          "Calton Pu",
+          "Robert M. Fuhrer"
+        ]
+      },
+      {
+        "title": "Processor Capacity Reserves: An Abstraction for Managing Processor Usage.",
+        "authors": [
+          "Clifford W. Mercer",
+          "Stefan Savage",
+          "Hideyuki Tokuda"
+        ]
+      },
+      {
+        "title": "Adaptive Real-Time Resource Management Supporting Composition of Independently Authored Time-Critical Services.",
+        "authors": [
+          "Michael B. Jones"
+        ]
+      },
+      {
+        "title": "Distributed Shared Object Memory.",
+        "authors": [
+          "Paulo Guedes",
+          "Miguel Castro"
+        ]
+      },
+      {
+        "title": "Some Issues for Single Address Space Systems.",
+        "authors": [
+          "Jeffrey S. Chase",
+          "Michael J. Feeley",
+          "Henry M. Levy"
+        ]
+      },
+      {
+        "title": "Resolving the Integrity/Performance Conflict.",
+        "authors": [
+          "Andrew C. Myers"
+        ]
+      },
+      {
+        "title": "The Case for Run-Time Replaceable Kernel Modules.",
+        "authors": [
+          "Richard Draves"
+        ]
+      },
+      {
+        "title": "The Need for Customizable Operating Systems.",
+        "authors": [
+          "Gregor Kiczales",
+          "John Lamping",
+          "Chris Maeda",
+          "David Keppel",
+          "Dylan McNamee"
+        ]
+      },
+      {
+        "title": "Service without Servers.",
+        "authors": [
+          "Chris Maeda",
+          "Brian N. Bershad"
+        ]
+      },
+      {
+        "title": "Software Methods for System Address Tracing.",
+        "authors": [
+          "J. Bradley Chen"
+        ]
+      },
+      {
+        "title": "The Persistent Relevance of IPC Performance: New Techniques for Reducing the IPC Penalty.",
+        "authors": [
+          "Wilson C. Hsieh",
+          "M. Frans Kaashoek",
+          "William E. Weihl"
+        ]
+      },
+      {
+        "title": "Invocation Chaining: Manipulating Lightweight Objects across Heavyweight Boundaries.",
+        "authors": [
+          "Joseph S. Barrera III"
+        ]
+      },
+      {
+        "title": "Self-Tuning Software.",
+        "authors": [
+          "Joseph S. Barrera III"
+        ]
+      },
+      {
+        "title": "FLEX: A Tool for Building Efficient and Flexible Systems.",
+        "authors": [
+          "John B. Carter",
+          "Bryan Ford",
+          "Mike Hibler",
+          "Ravindra Kuramkote",
+          "Jeffrey Law",
+          "Jay Lepreau",
+          "Douglas B. Orr",
+          "Leigh Stoller",
+          "Mark R. Swanson"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotos/wwos89.html": {
+    "header": "2nd WWOS 1989: Pacific Grove, CA, USA",
+    "year": "1989",
+    "papers": [
+      {
+        "title": "A file storage implementation for very large distributed systems.",
+        "authors": [
+          "Rafael Alonso",
+          "Daniel Barbará",
+          "Luis L. Cova"
+        ]
+      },
+      {
+        "title": "The workstation as global communication interface.",
+        "authors": [
+          "D. P. Anderson"
+        ]
+      },
+      {
+        "title": "Efficient shared memory for testing parallel algorithms on distributed systems.",
+        "authors": [
+          "M. Stella Atkins"
+        ]
+      },
+      {
+        "title": "Experience with object-based distributed computation in the GUIDE operating system.",
+        "authors": [
+          "Roland Balter",
+          "Dominique Decouchant",
+          "Andrzej Duda",
+          "André Freyssinet",
+          "Sacha Krakowiak",
+          "Marie Meysembourg",
+          "Michel Riveill",
+          "Cécile Roisin",
+          "Xavier Rousset de Pina",
+          "Rodrigo Scioville Garcia",
+          "G. Vandôme"
+        ]
+      },
+      {
+        "title": "Architecture of fault-tolerant multiprocessor workstations.",
+        "authors": [
+          "Jean-Pierre Banâtre",
+          "Michel Banâtre",
+          "Gilles Muller"
+        ]
+      },
+      {
+        "title": "Supporting large scale applications on networks of workstations.",
+        "authors": [
+          "Robert Cooper",
+          "Kenneth P. Birman"
+        ]
+      },
+      {
+        "title": "PLURIX: a multiprocessing Unix-like operating system.",
+        "authors": [
+          "N. Faller",
+          "P. Salenbauch"
+        ]
+      },
+      {
+        "title": "Operating system support for an object-oriented environment.",
+        "authors": [
+          "Paulo Guedes",
+          "José Alves Marques"
+        ]
+      },
+      {
+        "title": "Comments on workstation operating systems and virtual memory.",
+        "authors": [
+          "Robert B. Hagmann"
+        ]
+      },
+      {
+        "title": "Availability and Consistency Tradeoffs in the Echo Distributed File System.",
+        "authors": [
+          "Andy Hisgen",
+          "Andrew Birrell",
+          "Timothy P. Mann",
+          "Michael D. Schroeder",
+          "Garret Swart"
+        ]
+      },
+      {
+        "title": "The x-kernel: an open operating system design.",
+        "authors": [
+          "Norman C. Hutchinson",
+          "Larry L. Peterson",
+          "Herman C. Rao"
+        ]
+      },
+      {
+        "title": "Ubik: replicated servers made easy.",
+        "authors": [
+          "Michael L. Kazar"
+        ]
+      },
+      {
+        "title": "The connector and active devices mechanisms for constructing multimedia applications.",
+        "authors": [
+          "W. H. Leung",
+          "L. F. Morgan",
+          "M. J. Morgan",
+          "B. F. Wong"
+        ]
+      },
+      {
+        "title": "Efficient at-most-once messages based on synchronized clocks.",
+        "authors": [
+          "Barbara Liskov",
+          "Liuba Shrira",
+          "John Wroclawski"
+        ]
+      },
+      {
+        "title": "What is the right amount of statelessness in a file server?",
+        "authors": [
+          "Jeffrey C. Mogul"
+        ]
+      },
+      {
+        "title": "The Raven project (distributed object-oriented OS).",
+        "authors": [
+          "Gerald W. Neufeld",
+          "Samuel T. Chanson"
+        ]
+      },
+      {
+        "title": "Workstations and the virtual system model.",
+        "authors": [
+          "B. Clifford Neuman"
+        ]
+      },
+      {
+        "title": "AIX 3 technology (operating system).",
+        "authors": [
+          "J. C. O'Quin",
+          "Charles H. Sauer"
+        ]
+      },
+      {
+        "title": "The workstation on the network: performance considerations for the communications interface.",
+        "authors": [
+          "K. K. Ramakrishnan",
+          "William R. Hawe"
+        ]
+      },
+      {
+        "title": "Mach: a foundation for open systems (operating systems).",
+        "authors": [
+          "Richard F. Rashid",
+          "Robert V. Baron",
+          "Alessandro Forin",
+          "David B. Golub",
+          "Michael B. Jones",
+          "Douglas Orr",
+          "Richard Sanzi"
+        ]
+      },
+      {
+        "title": "Coda: a highly available file system for a distributed workstation environment.",
+        "authors": [
+          "Mahadev Satyanarayanan"
+        ]
+      },
+      {
+        "title": "A prototype information environment.",
+        "authors": [
+          "Bruce R. Schatz"
+        ]
+      },
+      {
+        "title": "A multi-user, multi-language open operating system.",
+        "authors": [
+          "Michael L. Scott",
+          "Thomas J. LeBlanc",
+          "Brian D. Marsh"
+        ]
+      },
+      {
+        "title": "Sprite position statement: use distributed state for failure recovery.",
+        "authors": [
+          "Brent B. Welch",
+          "Mary Baker",
+          "Fred Douglis",
+          "John H. Hartman",
+          "Mendel Rosenblum",
+          "John K. Ousterhout"
+        ]
+      }
+    ]
+  }
+}

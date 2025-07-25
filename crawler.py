@@ -152,9 +152,28 @@ def update_paper_list(typ, index, paper_list, output_dir=None):
     print(f"[+] Updated {path_paper_list}.")
 
 
+def try_fix(typ, index, output_dir):
+    try:
+        key = f"{typ}/{index}"
+        path_indexing_pages = os.path.join(output_dir, "indexing_pages.json")
+        path_paper_list = os.path.join(output_dir, "paper_lists", typ, f"{index}.json")
+        indexing_pages = load_json(path_indexing_pages)
+        paper_list = load_json(path_paper_list)
+        links = indexing_pages[key]["links"]
+        s1, s2 = set(links), set(paper_list.keys())
+        if s1 != s2:
+            print(f"[!] {key}: Links in indexing_page do not match paper_list.keys(), the difference links are:")
+            for link in s1 ^ s2:
+                print(" " * 4, link)
+            print(" " * 4, f"You can remove them from {path_indexing_pages} and run the script again.")
+    except Exception:
+        pass
+
+
 def get_paper_lists(indices, output_dir=None):
     for typ in indices:
         for index in indices[typ]:
+            try_fix(typ, index, output_dir)
             indexing_page = run_get_indexing_page(typ, index)
             if indexing_page is None:
                 continue

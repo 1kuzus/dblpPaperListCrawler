@@ -14,12 +14,29 @@
 （此文件的发布时间是2024年6月）中**网络与信息安全**、**计算机网络**、**软件工程/系统软件/程序设计语言**
 三个方向的A类、B类、C类共`192`个期刊/会议的爬取结果。最近更新时间为`2025-07-23`。
 
-爬取的目标期刊/会议见[`output/full_name_mapping.json`](output/full_name_mapping.json)
-，所有论文列表见[`output/paper_lists/`](output/paper_lists)。
+已爬取的期刊/会议见[`output/full_name_mapping.json`](output/full_name_mapping.json)
+，论文列表见[`output/paper_lists/`](output/paper_lists)。
 
-## 使用
+## 使用方法
+
+安装依赖：
 
 ```
 pip install requests lxml
-python main.py
 ```
+
+想要自定义爬取的期刊/会议，只需要参照[`main.py`](main.py)修改`indices`即可。
+
+```python
+from crawler import get_paper_lists
+
+indices = {
+    "journals": ["pami"],
+    "conf": ["cvpr", "iccv", "eccv"],
+}
+
+if __name__ == "__main__":
+    get_paper_lists(indices, output_dir="./path/to/output")
+```
+
+**1kuzus**
