@@ -1,5 +1,4 @@
-from crawler import ping, get_detail_url, get_paper_list
-import json
+from crawler import get_paper_lists
 
 indices = {
     # 期刊
@@ -67,18 +66,5 @@ indices = {
     ],
 }
 
-indices = {"journals": ["tifs"], "no": ["no"]}
-
 if __name__ == "__main__":
-    # 测试链接有效性，如果修改了indices可以重新测试
-    ping(indices)
-
-    # 获取所有会议年份/期刊卷的链接，保存到./output/dblp_detail_url.json
-    get_detail_url(indices, output_dir="./output")
-
-    exit(0)
-    # 获取论文列表，由于任务量大，逐个期刊/会议进行，保存到output/paperlists/<typ-index>
-    with open("output/dblp_detail_url.json", "r", encoding="utf-8") as f:
-        dblp_detail_url = json.load(f)
-    for key, detail in dblp_detail_url.items():
-        get_paper_list(key, detail["links"])
+    get_paper_lists(indices, output_dir="./output")
