@@ -3,7 +3,7 @@ import json
 import os
 
 
-def save_json(data, path, sort_fn=None, reverse=False):
+def save_json(data, path, sort_fn=lambda item: item[0], reverse=False):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     if sort_fn is not None:
         data = dict(sorted(data.items(), key=sort_fn, reverse=reverse))

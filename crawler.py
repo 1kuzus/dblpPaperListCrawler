@@ -86,7 +86,6 @@ def run_get_paper_list(url, throttle_delay=15):
         h2_texts = tree.xpath("//div[@id='main']/header/h2/text()")
         matches = re.findall(pattern, ";".join(h2_texts))
     matches = list(set(matches))
-    # assert len(matches) <= 1, f"Found more than one matching year in {url}: {matches}"
     # 4.如果以上都没有匹配，从页面中提取出现次数最多的年份
     if len(matches) == 0:
         matches = re.findall(pattern, resp.text)
@@ -128,13 +127,13 @@ def update_indexing_pages(typ, index, indexing_page, output_dir=None):
             return
 
         indexing_pages[key] = indexing_page
-        save_json(indexing_pages, path_indexing_pages, sort_fn=lambda item: item[0])
+        save_json(indexing_pages, path_indexing_pages)
         print(f"[+] Updated {path_indexing_pages} with {len(links_diff)} new links for {key}.")
 
         full_name_mapping = load_json(path_full_name_mapping)
         if key not in full_name_mapping or full_name_mapping[key] != indexing_page["header"]:
             full_name_mapping[key] = indexing_page["header"]
-            save_json(full_name_mapping, path_full_name_mapping, sort_fn=lambda item: item[0])
+            save_json(full_name_mapping, path_full_name_mapping)
             print(f"[+] Updated {path_full_name_mapping} for {key}.")
 
     return links_diff, update_indexing_pages_callback
@@ -148,32 +147,42 @@ def update_paper_list(typ, index, paper_list, output_dir=None):
     paper_list_old = load_json(path_paper_list)
     paper_list = {**paper_list, **paper_list_old}
 
-    save_json(paper_list, path_paper_list, sort_fn=lambda item: item[1]["year"], reverse=True)
+    save_json(paper_list, path_paper_list, sort_fn=lambda item: item[1]["year"] + item[0], reverse=True)
     print(f"[+] Updated {path_paper_list}.")
 
 
-def try_fix(typ, index, output_dir):
-    try:
-        key = f"{typ}/{index}"
-        path_indexing_pages = os.path.join(output_dir, "indexing_pages.json")
+def validate_and_fix_corrupted(output_dir):
+    path_indexing_pages = os.path.join(output_dir, "indexing_pages.json")
+    path_full_name_mapping = os.path.join(output_dir, "full_name_mapping.json")
+    indexing_pages = load_json(path_indexing_pages)
+    full_name_mapping = load_json(path_full_name_mapping)
+    if set(indexing_pages.keys()) != set(full_name_mapping.keys()):
+        print(f"[!] Keys in {path_indexing_pages} and {path_full_name_mapping} do not match.")
+    has_corrupted = False
+    for key in indexing_pages.keys():
+        typ, index = key.split("/")
         path_paper_list = os.path.join(output_dir, "paper_lists", typ, f"{index}.json")
-        indexing_pages = load_json(path_indexing_pages)
         paper_list = load_json(path_paper_list)
         links = indexing_pages[key]["links"]
         s1, s2 = set(links), set(paper_list.keys())
-        if s1 != s2:
-            print(f"[!] {key}: Links in indexing_page do not match paper_list.keys(), the difference links are:")
-            for link in s1 ^ s2:
+        if len(s1 - s2) > 0:
+            has_corrupted = True
+            print(f"[!] The following links in {path_indexing_pages} are missing in {path_paper_list}:")
+            for link in s1 - s2:
                 print(" " * 4, link)
-            print(" " * 4, f"You can remove them from {path_indexing_pages} and run the script again.")
-    except Exception:
-        pass
+                indexing_pages[key]["links"].remove(link)
+            print(" " * 4, f"These links will be removed from {path_indexing_pages}.")
+    if not has_corrupted:
+        print("[*] No corrupted data found.")
+    else:
+        save_json(indexing_pages, path_indexing_pages)
+        print(f"[+] The changes have been saved to {path_indexing_pages}.")
 
 
 def get_paper_lists(indices, output_dir=None):
+    validate_and_fix_corrupted(output_dir)
     for typ in indices:
         for index in indices[typ]:
-            try_fix(typ, index, output_dir)
             indexing_page = run_get_indexing_page(typ, index)
             if indexing_page is None:
                 continue
