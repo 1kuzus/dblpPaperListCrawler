@@ -171,16 +171,16 @@ def validate_and_fix_corrupted(output_dir):
             for link in s1 - s2:
                 print(" " * 4, link)
                 indexing_pages[key]["links"].remove(link)
-            print(" " * 4, f"These links will be removed from {path_indexing_pages}.")
     if not has_corrupted:
         print("[*] No corrupted data found.")
     else:
         save_json(indexing_pages, path_indexing_pages)
-        print(f"[+] The changes have been saved to {path_indexing_pages}.")
+        print(f"[+] These links have been removed from {path_indexing_pages}.")
 
 
 def get_paper_lists(indices, output_dir=None):
-    validate_and_fix_corrupted(output_dir)
+    if output_dir is not None and os.path.exists(output_dir):
+        validate_and_fix_corrupted(output_dir)
     for typ in indices:
         for index in indices[typ]:
             indexing_page = run_get_indexing_page(typ, index)
