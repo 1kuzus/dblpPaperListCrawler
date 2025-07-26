@@ -4239,47 +4239,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/issta/aista2021.html": {
-    "header": "AISTA@ISSTA 2021: Virtual Event, Denmark",
-    "year": "2021",
-    "papers": [
-      {
-        "title": "On the use of evolutionary algorithms for test case prioritization in regression testing considering requirements dependencies.",
-        "authors": [
-          "Andreea Vescan",
-          "Camelia Chisalita-Cretu",
-          "Camelia Serban",
-          "Laura Diosan"
-        ]
-      },
-      {
-        "title": "Impact of programming languages on machine learning bugs.",
-        "authors": [
-          "Sebastian Sztwiertnia",
-          "Maximilian Grübel",
-          "Amine Chouchane",
-          "Daniel Sokolowski",
-          "Krishna Narasimhan",
-          "Mira Mezini"
-        ]
-      },
-      {
-        "title": "NerdBug: automated bug detection in neural networks.",
-        "authors": [
-          "Foad Jafarinejad",
-          "Krishna Narasimhan",
-          "Mira Mezini"
-        ]
-      },
-      {
-        "title": "Automated cell header generator for Jupyter notebooks.",
-        "authors": [
-          "Ashwin Prasad Shivarpatna Venkatesh",
-          "Eric Bodden"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/issta/issta2021.html": {
     "header": "30th ISSTA 2021: Virtual Event, Denmark",
     "year": "2021",
@@ -4852,6 +4811,47 @@
           "Alberto Martin-Lopez",
           "Sergio Segura",
           "Antonio Ruiz-Cortés"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/issta/aista2021.html": {
+    "header": "AISTA@ISSTA 2021: Virtual Event, Denmark",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "On the use of evolutionary algorithms for test case prioritization in regression testing considering requirements dependencies.",
+        "authors": [
+          "Andreea Vescan",
+          "Camelia Chisalita-Cretu",
+          "Camelia Serban",
+          "Laura Diosan"
+        ]
+      },
+      {
+        "title": "Impact of programming languages on machine learning bugs.",
+        "authors": [
+          "Sebastian Sztwiertnia",
+          "Maximilian Grübel",
+          "Amine Chouchane",
+          "Daniel Sokolowski",
+          "Krishna Narasimhan",
+          "Mira Mezini"
+        ]
+      },
+      {
+        "title": "NerdBug: automated bug detection in neural networks.",
+        "authors": [
+          "Foad Jafarinejad",
+          "Krishna Narasimhan",
+          "Mira Mezini"
+        ]
+      },
+      {
+        "title": "Automated cell header generator for Jupyter notebooks.",
+        "authors": [
+          "Ashwin Prasad Shivarpatna Venkatesh",
+          "Eric Bodden"
         ]
       }
     ]
@@ -7671,42 +7671,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/issta/chese2015.html": {
-    "header": "1st CHESE@ISSTA 2015: Baltimore, MD, USA",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Experience with constructing code hunt contests.",
-        "authors": [
-          "R. Nigel Horspool",
-          "Judith Bishop",
-          "Jonathan de Halleux",
-          "Nikolai Tillmann"
-        ]
-      },
-      {
-        "title": "Pythia reloaded: an intelligent unit testing-based code grader for education.",
-        "authors": [
-          "Sébastien Combéfis",
-          "Alexis Paques"
-        ]
-      },
-      {
-        "title": "Code hunt as platform for gamification of cybersecurity training.",
-        "authors": [
-          "Sandro Fouché",
-          "Andrew H. Mangle"
-        ]
-      },
-      {
-        "title": "TeamWATCH demonstration: a web-based 3d software source code visualization for education.",
-        "authors": [
-          "Minyuan Gao",
-          "Chang Liu"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/issta/issta2015.html": {
     "header": "ISSTA 2015: Baltimore, MD, USA",
     "year": "2015",
@@ -8072,6 +8036,42 @@
         "title": "Mining change history for test-plan generation (doctoral symposium).",
         "authors": [
           "Thomas Rolfsnes"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/issta/chese2015.html": {
+    "header": "1st CHESE@ISSTA 2015: Baltimore, MD, USA",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Experience with constructing code hunt contests.",
+        "authors": [
+          "R. Nigel Horspool",
+          "Judith Bishop",
+          "Jonathan de Halleux",
+          "Nikolai Tillmann"
+        ]
+      },
+      {
+        "title": "Pythia reloaded: an intelligent unit testing-based code grader for education.",
+        "authors": [
+          "Sébastien Combéfis",
+          "Alexis Paques"
+        ]
+      },
+      {
+        "title": "Code hunt as platform for gamification of cybersecurity training.",
+        "authors": [
+          "Sandro Fouché",
+          "Andrew H. Mangle"
+        ]
+      },
+      {
+        "title": "TeamWATCH demonstration: a web-based 3d software source code visualization for education.",
+        "authors": [
+          "Minyuan Gao",
+          "Chang Liu"
         ]
       }
     ]
@@ -8565,6 +8565,51 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/issta/qasba2013.html": {
+    "header": "QASBA@ISSTA 2013: Lugano, Switzerland",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Towards a quality modelling language for component-based systems (QML/CS).",
+        "authors": [
+          "Abdulrahman Alreshidi",
+          "Steffen Zschaler",
+          "Peter McBurney"
+        ]
+      },
+      {
+        "title": "Verification of variable service orchestrations using model checking.",
+        "authors": [
+          "Selma Suloglu",
+          "Riza Aktunc",
+          "Mustafa Yucefaydali"
+        ]
+      },
+      {
+        "title": "Conformance testing for quality assurance of clustering architectures.",
+        "authors": [
+          "Afef Jmal Maâlej",
+          "Zeineb Ben Makhlouf",
+          "Moez Krichen",
+          "Mohamed Jmaiel"
+        ]
+      },
+      {
+        "title": "Runtime testing framework for improving quality in dynamic service-based systems.",
+        "authors": [
+          "Mariam Lahami",
+          "Moez Krichen",
+          "Mohamed Jmaiel"
+        ]
+      },
+      {
+        "title": "Safe substitution for service-based applications.",
+        "authors": [
+          "Shin Nakajima"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/issta/issta2013.html": {
     "header": "ISSTA 2013: Lugano, Switzerland",
     "year": "2013",
@@ -8882,102 +8927,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/issta/qasba2013.html": {
-    "header": "QASBA@ISSTA 2013: Lugano, Switzerland",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "Towards a quality modelling language for component-based systems (QML/CS).",
-        "authors": [
-          "Abdulrahman Alreshidi",
-          "Steffen Zschaler",
-          "Peter McBurney"
-        ]
-      },
-      {
-        "title": "Verification of variable service orchestrations using model checking.",
-        "authors": [
-          "Selma Suloglu",
-          "Riza Aktunc",
-          "Mustafa Yucefaydali"
-        ]
-      },
-      {
-        "title": "Conformance testing for quality assurance of clustering architectures.",
-        "authors": [
-          "Afef Jmal Maâlej",
-          "Zeineb Ben Makhlouf",
-          "Moez Krichen",
-          "Mohamed Jmaiel"
-        ]
-      },
-      {
-        "title": "Runtime testing framework for improving quality in dynamic service-based systems.",
-        "authors": [
-          "Mariam Lahami",
-          "Moez Krichen",
-          "Mohamed Jmaiel"
-        ]
-      },
-      {
-        "title": "Safe substitution for service-based applications.",
-        "authors": [
-          "Shin Nakajima"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/issta/padtad2012.html": {
-    "header": "PADTAD 2012: Minneapolis, MN, USA",
-    "year": "2012",
-    "papers": [
-      {
-        "title": "On-the-fly detection of data races in OpenMP programs.",
-        "authors": [
-          "Ok-Kyoon Ha",
-          "In-Bon Kuh",
-          "Guy Martin Tchamgoue",
-          "Yong-Kee Jun"
-        ]
-      },
-      {
-        "title": "A static analysis tool using a three-step approach for data races in HPC programs.",
-        "authors": [
-          "Yasushi Negishi",
-          "Hiroki Murata",
-          "Guojing Cong",
-          "Hui-Fang Wen",
-          "I-Hsin Chung"
-        ]
-      },
-      {
-        "title": "Using program closures to make an application programming interface (API) implementation thread safe.",
-        "authors": [
-          "Eitan Farchi",
-          "Itai Segall",
-          "João Lourenço",
-          "Diogo Sousa"
-        ]
-      },
-      {
-        "title": "Using combinatorial benchmark construction to improve the assessment of concurrency bug detection tools.",
-        "authors": [
-          "Jeremy S. Bradbury",
-          "Itai Segall",
-          "Eitan Farchi",
-          "Kevin Jalbert",
-          "David Kelk"
-        ]
-      },
-      {
-        "title": "Noise-based testing and analysis of multi-threaded C/C++ programs on the binary level.",
-        "authors": [
-          "Jan Fiedor",
-          "Tomás Vojnar"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/issta/woda2012.html": {
     "header": "10th WODA@ISSTA 2012: Minneapolis, MN, USA",
     "year": "2012",
@@ -9038,6 +8987,57 @@
           "Sayyed Arash Ostadzadeh",
           "Roel Meeuws",
           "Koen Bertels"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/issta/padtad2012.html": {
+    "header": "PADTAD 2012: Minneapolis, MN, USA",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "On-the-fly detection of data races in OpenMP programs.",
+        "authors": [
+          "Ok-Kyoon Ha",
+          "In-Bon Kuh",
+          "Guy Martin Tchamgoue",
+          "Yong-Kee Jun"
+        ]
+      },
+      {
+        "title": "A static analysis tool using a three-step approach for data races in HPC programs.",
+        "authors": [
+          "Yasushi Negishi",
+          "Hiroki Murata",
+          "Guojing Cong",
+          "Hui-Fang Wen",
+          "I-Hsin Chung"
+        ]
+      },
+      {
+        "title": "Using program closures to make an application programming interface (API) implementation thread safe.",
+        "authors": [
+          "Eitan Farchi",
+          "Itai Segall",
+          "João Lourenço",
+          "Diogo Sousa"
+        ]
+      },
+      {
+        "title": "Using combinatorial benchmark construction to improve the assessment of concurrency bug detection tools.",
+        "authors": [
+          "Jeremy S. Bradbury",
+          "Itai Segall",
+          "Eitan Farchi",
+          "Kevin Jalbert",
+          "David Kelk"
+        ]
+      },
+      {
+        "title": "Noise-based testing and analysis of multi-threaded C/C++ programs on the binary level.",
+        "authors": [
+          "Jan Fiedor",
+          "Tomás Vojnar"
         ]
       }
     ]
@@ -9716,6 +9716,129 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/issta/woda2010.html": {
+    "header": "8th WODA@ISSTA 2010: Trento, Italy",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "An approach for modeling dynamic analysis using ontologies.",
+        "authors": [
+          "Newres Al Haider",
+          "Paddy Nixon",
+          "Benoit Gaudin"
+        ]
+      },
+      {
+        "title": "Using compression algorithms to support the comprehension of program traces.",
+        "authors": [
+          "Neil Walkinshaw",
+          "Sheeva Afshan",
+          "Phil McMinn"
+        ]
+      },
+      {
+        "title": "Detection of high-level execution patterns in reactive behavior of control programs.",
+        "authors": [
+          "Herbert Prähofer",
+          "Roland Schatz",
+          "Christian Wirth"
+        ]
+      },
+      {
+        "title": "DSDSR: a tool that uses dynamic symbolic execution for data structure repair.",
+        "authors": [
+          "Ishtiaque Hussain",
+          "Christoph Csallner"
+        ]
+      },
+      {
+        "title": "Dsc+Mock: a test case + mock class generator in support of coding against interfaces.",
+        "authors": [
+          "Mainul Islam",
+          "Christoph Csallner"
+        ]
+      },
+      {
+        "title": "Metrics for QoS analysis in dynamic, evolving and heterogeneous connected systems.",
+        "authors": [
+          "Antinisca Di Marco",
+          "Antonia Bertolino",
+          "Felicita Di Giandomenico",
+          "Paolo Masci",
+          "Antonino Sabetta"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/issta/padtad2010.html": {
+    "header": "PADTAD 2010: Trento, Italy",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Robust non-intrusive record-replay with processor extraction.",
+        "authors": [
+          "Filippo Gioachin",
+          "Gengbin Zheng",
+          "Laxmikant V. Kalé"
+        ]
+      },
+      {
+        "title": "Debugging support tool for MCAPI applications.",
+        "authors": [
+          "Mohamed Elwakil",
+          "Zijiang Yang"
+        ]
+      },
+      {
+        "title": "Detection of Transactional Memory anomalies using static analysis.",
+        "authors": [
+          "Bruno C. Teixeira",
+          "João Lourenço",
+          "Eitan Farchi",
+          "Ricardo J. Dias",
+          "Diogo Sousa"
+        ]
+      },
+      {
+        "title": "Unit testing for concurrent business code.",
+        "authors": [
+          "Yao Qi",
+          "Yarden Nir-Buchbinder",
+          "Eitan Farchi",
+          "Raja Das",
+          "Zhi Da Luo",
+          "Zhi Gan"
+        ]
+      },
+      {
+        "title": "A platform for search-based testing of concurrent software.",
+        "authors": [
+          "Bohuslav Krena",
+          "Zdenek Letko",
+          "Tomás Vojnar",
+          "Shmuel Ur"
+        ]
+      },
+      {
+        "title": "Profiling of real-world web applications.",
+        "authors": [
+          "Hugo Menino Aguiar",
+          "João Costa Seco",
+          "Lúcio Ferrão"
+        ]
+      },
+      {
+        "title": "Open virtualization framework for testing ground systems.",
+        "authors": [
+          "Nuno Duro",
+          "Rui Santos",
+          "João Lourenço",
+          "Hervé Paulino",
+          "João Martins"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/issta/issta2010.html": {
     "header": "ISSTA 2010: Trento, Italy",
     "year": "2010",
@@ -9935,129 +10058,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/issta/padtad2010.html": {
-    "header": "PADTAD 2010: Trento, Italy",
-    "year": "2010",
-    "papers": [
-      {
-        "title": "Robust non-intrusive record-replay with processor extraction.",
-        "authors": [
-          "Filippo Gioachin",
-          "Gengbin Zheng",
-          "Laxmikant V. Kalé"
-        ]
-      },
-      {
-        "title": "Debugging support tool for MCAPI applications.",
-        "authors": [
-          "Mohamed Elwakil",
-          "Zijiang Yang"
-        ]
-      },
-      {
-        "title": "Detection of Transactional Memory anomalies using static analysis.",
-        "authors": [
-          "Bruno C. Teixeira",
-          "João Lourenço",
-          "Eitan Farchi",
-          "Ricardo J. Dias",
-          "Diogo Sousa"
-        ]
-      },
-      {
-        "title": "Unit testing for concurrent business code.",
-        "authors": [
-          "Yao Qi",
-          "Yarden Nir-Buchbinder",
-          "Eitan Farchi",
-          "Raja Das",
-          "Zhi Da Luo",
-          "Zhi Gan"
-        ]
-      },
-      {
-        "title": "A platform for search-based testing of concurrent software.",
-        "authors": [
-          "Bohuslav Krena",
-          "Zdenek Letko",
-          "Tomás Vojnar",
-          "Shmuel Ur"
-        ]
-      },
-      {
-        "title": "Profiling of real-world web applications.",
-        "authors": [
-          "Hugo Menino Aguiar",
-          "João Costa Seco",
-          "Lúcio Ferrão"
-        ]
-      },
-      {
-        "title": "Open virtualization framework for testing ground systems.",
-        "authors": [
-          "Nuno Duro",
-          "Rui Santos",
-          "João Lourenço",
-          "Hervé Paulino",
-          "João Martins"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/issta/woda2010.html": {
-    "header": "8th WODA@ISSTA 2010: Trento, Italy",
-    "year": "2010",
-    "papers": [
-      {
-        "title": "An approach for modeling dynamic analysis using ontologies.",
-        "authors": [
-          "Newres Al Haider",
-          "Paddy Nixon",
-          "Benoit Gaudin"
-        ]
-      },
-      {
-        "title": "Using compression algorithms to support the comprehension of program traces.",
-        "authors": [
-          "Neil Walkinshaw",
-          "Sheeva Afshan",
-          "Phil McMinn"
-        ]
-      },
-      {
-        "title": "Detection of high-level execution patterns in reactive behavior of control programs.",
-        "authors": [
-          "Herbert Prähofer",
-          "Roland Schatz",
-          "Christian Wirth"
-        ]
-      },
-      {
-        "title": "DSDSR: a tool that uses dynamic symbolic execution for data structure repair.",
-        "authors": [
-          "Ishtiaque Hussain",
-          "Christoph Csallner"
-        ]
-      },
-      {
-        "title": "Dsc+Mock: a test case + mock class generator in support of coding against interfaces.",
-        "authors": [
-          "Mainul Islam",
-          "Christoph Csallner"
-        ]
-      },
-      {
-        "title": "Metrics for QoS analysis in dynamic, evolving and heterogeneous connected systems.",
-        "authors": [
-          "Antinisca Di Marco",
-          "Antonia Bertolino",
-          "Felicita Di Giandomenico",
-          "Paolo Masci",
-          "Antonino Sabetta"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/issta/woda2009.html": {
     "header": "7th WODA@ISSTA 2009: Chicago, IL, USA",
     "year": "2009",
@@ -10110,6 +10110,110 @@
         "authors": [
           "Jonathan Chee Heng Mak",
           "Alan Mycroft"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/issta/padtad2009.html": {
+    "header": "PADTAD 2009: Chicago, IL, USA",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Run-time conformance checking of mobile and distributed systems using executable models.",
+        "authors": [
+          "Ahmad A. Saifan",
+          "Ernesto Posse",
+          "Jürgen Dingel"
+        ]
+      },
+      {
+        "title": "Some resources for teaching concurrency.",
+        "authors": [
+          "Ganesh Gopalakrishnan",
+          "Yu Yang",
+          "Sarvani S. Vakkalanka",
+          "Anh Vo",
+          "Sriram Aananthakrishnan",
+          "Grzegorz Szubzda",
+          "Geoffrey Sawaya",
+          "Jason Williams",
+          "Subodh Sharma",
+          "Michael Delisi",
+          "Simone Atzeni"
+        ]
+      },
+      {
+        "title": "Understanding the behavior of transactional memory applications.",
+        "authors": [
+          "João Lourenço",
+          "Ricardo J. Dias",
+          "João Luís",
+          "Miguel Rebelo",
+          "Vasco Pessanha"
+        ]
+      },
+      {
+        "title": "Unit testing for multi-threaded Java programs.",
+        "authors": [
+          "Gabor Szeder"
+        ]
+      },
+      {
+        "title": "MulticoreSDK: a practical and efficient data race detector for real-world applications.",
+        "authors": [
+          "Yao Qi",
+          "Raja Das",
+          "Zhi Da Luo",
+          "Martin Trotter"
+        ]
+      },
+      {
+        "title": "Pattern-driven deadlock avoidance.",
+        "authors": [
+          "Fancong Zeng"
+        ]
+      },
+      {
+        "title": "Forcing small models of conditions on program interleaving for detection of concurrent bugs.",
+        "authors": [
+          "Ehud Trainin",
+          "Yarden Nir-Buchbinder",
+          "Rachel Tzoref-Brill",
+          "Aviad Zlotnick",
+          "Shmuel Ur",
+          "Eitan Farchi"
+        ]
+      },
+      {
+        "title": "SideTrack: generalizing dynamic atomicity analysis.",
+        "authors": [
+          "Jaeheon Yi",
+          "Caitlin Sadowski",
+          "Cormac Flanagan"
+        ]
+      },
+      {
+        "title": "Clash of the Titans: tools and techniques for hunting bugs in concurrent programs.",
+        "authors": [
+          "Neha Rungta",
+          "Eric G. Mercer"
+        ]
+      },
+      {
+        "title": "An annotation assistant for interactive debugging of programs with common synchronization idioms.",
+        "authors": [
+          "Tayfun Elmas",
+          "Ali Sezgin",
+          "Serdar Tasiran",
+          "Shaz Qadeer"
+        ]
+      },
+      {
+        "title": "A proposal of operation history management system for source-to-source optimization of HPC programs.",
+        "authors": [
+          "Yasushi Negishi",
+          "Hiroki Murata",
+          "Takao Moriyama"
         ]
       }
     ]
@@ -10331,207 +10435,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/issta/padtad2009.html": {
-    "header": "PADTAD 2009: Chicago, IL, USA",
-    "year": "2009",
-    "papers": [
-      {
-        "title": "Run-time conformance checking of mobile and distributed systems using executable models.",
-        "authors": [
-          "Ahmad A. Saifan",
-          "Ernesto Posse",
-          "Jürgen Dingel"
-        ]
-      },
-      {
-        "title": "Some resources for teaching concurrency.",
-        "authors": [
-          "Ganesh Gopalakrishnan",
-          "Yu Yang",
-          "Sarvani S. Vakkalanka",
-          "Anh Vo",
-          "Sriram Aananthakrishnan",
-          "Grzegorz Szubzda",
-          "Geoffrey Sawaya",
-          "Jason Williams",
-          "Subodh Sharma",
-          "Michael Delisi",
-          "Simone Atzeni"
-        ]
-      },
-      {
-        "title": "Understanding the behavior of transactional memory applications.",
-        "authors": [
-          "João Lourenço",
-          "Ricardo J. Dias",
-          "João Luís",
-          "Miguel Rebelo",
-          "Vasco Pessanha"
-        ]
-      },
-      {
-        "title": "Unit testing for multi-threaded Java programs.",
-        "authors": [
-          "Gabor Szeder"
-        ]
-      },
-      {
-        "title": "MulticoreSDK: a practical and efficient data race detector for real-world applications.",
-        "authors": [
-          "Yao Qi",
-          "Raja Das",
-          "Zhi Da Luo",
-          "Martin Trotter"
-        ]
-      },
-      {
-        "title": "Pattern-driven deadlock avoidance.",
-        "authors": [
-          "Fancong Zeng"
-        ]
-      },
-      {
-        "title": "Forcing small models of conditions on program interleaving for detection of concurrent bugs.",
-        "authors": [
-          "Ehud Trainin",
-          "Yarden Nir-Buchbinder",
-          "Rachel Tzoref-Brill",
-          "Aviad Zlotnick",
-          "Shmuel Ur",
-          "Eitan Farchi"
-        ]
-      },
-      {
-        "title": "SideTrack: generalizing dynamic atomicity analysis.",
-        "authors": [
-          "Jaeheon Yi",
-          "Caitlin Sadowski",
-          "Cormac Flanagan"
-        ]
-      },
-      {
-        "title": "Clash of the Titans: tools and techniques for hunting bugs in concurrent programs.",
-        "authors": [
-          "Neha Rungta",
-          "Eric G. Mercer"
-        ]
-      },
-      {
-        "title": "An annotation assistant for interactive debugging of programs with common synchronization idioms.",
-        "authors": [
-          "Tayfun Elmas",
-          "Ali Sezgin",
-          "Serdar Tasiran",
-          "Shaz Qadeer"
-        ]
-      },
-      {
-        "title": "A proposal of operation history management system for source-to-source optimization of HPC programs.",
-        "authors": [
-          "Yasushi Negishi",
-          "Hiroki Murata",
-          "Takao Moriyama"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/issta/defects2008.html": {
-    "header": "DEFECTS 2008: Seattle, WA, USA",
-    "year": "2008",
-    "papers": [
-      {
-        "title": "A report on a survey and study of static analysis users.",
-        "authors": [
-          "Nathaniel Ayewah",
-          "William W. Pugh"
-        ]
-      },
-      {
-        "title": "Predicting fault-prone modules based on metrics transitions.",
-        "authors": [
-          "Yoshiki Higo",
-          "Kenji Murao",
-          "Shinji Kusumoto",
-          "Katsuro Inoue"
-        ]
-      },
-      {
-        "title": "Exploring the relationship of history characteristics and defect count: an empirical study.",
-        "authors": [
-          "Timea Illes-Seifert",
-          "Barbara Paech"
-        ]
-      },
-      {
-        "title": "Can data transformation help in the detection of fault-prone modules?",
-        "authors": [
-          "Yue Jiang",
-          "Bojan Cukic",
-          "Tim Menzies"
-        ]
-      },
-      {
-        "title": "The impact of product development on the lifecycle of defects.",
-        "authors": [
-          "Rudolf Ramler"
-        ]
-      },
-      {
-        "title": "Nearest neighbor sampling for cross company defect predictors: abstract only.",
-        "authors": [
-          "Burak Turhan",
-          "Ayse Basar Bener",
-          "Tim Menzies"
-        ]
-      },
-      {
-        "title": "Comparing methods to identify defect reports in a change management database.",
-        "authors": [
-          "Elaine J. Weyuker",
-          "Thomas J. Ostrand"
-        ]
-      },
-      {
-        "title": "SZZ revisited: verifying when changes induce fixes.",
-        "authors": [
-          "Chadd C. Williams",
-          "Jaime Spacco"
-        ]
-      },
-      {
-        "title": "A criterion for filtering code clone related bugs.",
-        "authors": [
-          "Yasuhiro Hayase",
-          "Yii Yong Lee",
-          "Katsuro Inoue"
-        ]
-      },
-      {
-        "title": "Defect classification and defect types revisited.",
-        "authors": [
-          "Stefan Wagner"
-        ]
-      },
-      {
-        "title": "Retrieving similar code fragments based on identifier similarity for defect detection.",
-        "authors": [
-          "Norihiro Yoshida",
-          "Takashi Ishio",
-          "Makoto Matsushita",
-          "Katsuro Inoue"
-        ]
-      },
-      {
-        "title": "Do bad smells indicate \"trouble\" in code?",
-        "authors": [
-          "Min Zhang",
-          "Tracy Hall",
-          "Nathan Baddoo",
-          "Paul Wernick"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/issta/woda2008.html": {
     "header": "6th WODA@ISSTA 2008: Seattle, WA, USA",
     "year": "2008",
@@ -10619,6 +10522,74 @@
         "authors": [
           "Martin Burger",
           "Andreas Zeller"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/issta/tavweb2008.html": {
+    "header": "TAV-WEB 2008: Seattle, WA, USA",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Hybrid test of web applications with webtest.",
+        "authors": [
+          "Harald Raffelt",
+          "Tiziana Margaria",
+          "Bernhard Steffen",
+          "Maik Merten"
+        ]
+      },
+      {
+        "title": "Empirical studies of a decentralized regression test selection framework for web services.",
+        "authors": [
+          "Michael Ruth",
+          "Shengru Tu"
+        ]
+      },
+      {
+        "title": "Towards a unified framework for the monitoring and recovery of BPEL processes.",
+        "authors": [
+          "Luciano Baresi",
+          "Sam Guinea",
+          "Liliana Pasquale"
+        ]
+      },
+      {
+        "title": "Policy expression and checking in XACML, WS-Policies, and the jABC.",
+        "authors": [
+          "Martin Karusseit",
+          "Tiziana Margaria",
+          "Holger Willebrandt"
+        ]
+      },
+      {
+        "title": "Multiple-implementation testing for XACML implementations.",
+        "authors": [
+          "Nuo Li",
+          "JeeHyun Hwang",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "SAFELI: SQL injection scanner using symbolic execution.",
+        "authors": [
+          "Xiang Fu",
+          "Kai Qian"
+        ]
+      },
+      {
+        "title": "Client and server verification for web services using interface grammars.",
+        "authors": [
+          "Graham Hughes",
+          "Tevfik Bultan",
+          "Muath Alkhalaf"
+        ]
+      },
+      {
+        "title": "White-box testing of behavioral web service contracts with Pex.",
+        "authors": [
+          "Nikolai Tillmann",
+          "Jonathan de Halleux"
         ]
       }
     ]
@@ -10993,70 +10964,167 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/issta/tavweb2008.html": {
-    "header": "TAV-WEB 2008: Seattle, WA, USA",
+  "https://dblp.org/db/conf/issta/defects2008.html": {
+    "header": "DEFECTS 2008: Seattle, WA, USA",
     "year": "2008",
     "papers": [
       {
-        "title": "Hybrid test of web applications with webtest.",
+        "title": "A report on a survey and study of static analysis users.",
         "authors": [
-          "Harald Raffelt",
-          "Tiziana Margaria",
-          "Bernhard Steffen",
-          "Maik Merten"
+          "Nathaniel Ayewah",
+          "William W. Pugh"
         ]
       },
       {
-        "title": "Empirical studies of a decentralized regression test selection framework for web services.",
+        "title": "Predicting fault-prone modules based on metrics transitions.",
         "authors": [
-          "Michael Ruth",
-          "Shengru Tu"
+          "Yoshiki Higo",
+          "Kenji Murao",
+          "Shinji Kusumoto",
+          "Katsuro Inoue"
         ]
       },
       {
-        "title": "Towards a unified framework for the monitoring and recovery of BPEL processes.",
+        "title": "Exploring the relationship of history characteristics and defect count: an empirical study.",
         "authors": [
-          "Luciano Baresi",
-          "Sam Guinea",
-          "Liliana Pasquale"
+          "Timea Illes-Seifert",
+          "Barbara Paech"
         ]
       },
       {
-        "title": "Policy expression and checking in XACML, WS-Policies, and the jABC.",
+        "title": "Can data transformation help in the detection of fault-prone modules?",
         "authors": [
-          "Martin Karusseit",
-          "Tiziana Margaria",
-          "Holger Willebrandt"
+          "Yue Jiang",
+          "Bojan Cukic",
+          "Tim Menzies"
         ]
       },
       {
-        "title": "Multiple-implementation testing for XACML implementations.",
+        "title": "The impact of product development on the lifecycle of defects.",
         "authors": [
-          "Nuo Li",
-          "JeeHyun Hwang",
-          "Tao Xie"
+          "Rudolf Ramler"
         ]
       },
       {
-        "title": "SAFELI: SQL injection scanner using symbolic execution.",
+        "title": "Nearest neighbor sampling for cross company defect predictors: abstract only.",
         "authors": [
-          "Xiang Fu",
-          "Kai Qian"
+          "Burak Turhan",
+          "Ayse Basar Bener",
+          "Tim Menzies"
         ]
       },
       {
-        "title": "Client and server verification for web services using interface grammars.",
+        "title": "Comparing methods to identify defect reports in a change management database.",
         "authors": [
-          "Graham Hughes",
-          "Tevfik Bultan",
-          "Muath Alkhalaf"
+          "Elaine J. Weyuker",
+          "Thomas J. Ostrand"
         ]
       },
       {
-        "title": "White-box testing of behavioral web service contracts with Pex.",
+        "title": "SZZ revisited: verifying when changes induce fixes.",
         "authors": [
-          "Nikolai Tillmann",
-          "Jonathan de Halleux"
+          "Chadd C. Williams",
+          "Jaime Spacco"
+        ]
+      },
+      {
+        "title": "A criterion for filtering code clone related bugs.",
+        "authors": [
+          "Yasuhiro Hayase",
+          "Yii Yong Lee",
+          "Katsuro Inoue"
+        ]
+      },
+      {
+        "title": "Defect classification and defect types revisited.",
+        "authors": [
+          "Stefan Wagner"
+        ]
+      },
+      {
+        "title": "Retrieving similar code fragments based on identifier similarity for defect detection.",
+        "authors": [
+          "Norihiro Yoshida",
+          "Takashi Ishio",
+          "Makoto Matsushita",
+          "Katsuro Inoue"
+        ]
+      },
+      {
+        "title": "Do bad smells indicate \"trouble\" in code?",
+        "authors": [
+          "Min Zhang",
+          "Tracy Hall",
+          "Nathan Baddoo",
+          "Paul Wernick"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/issta/padtad2007.html": {
+    "header": "PADTAD 2007: London, UK",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "Experience with fluid: analysis, design intent, and assurance for concurrency.",
+        "authors": [
+          "William L. Scherlis"
+        ]
+      },
+      {
+        "title": "JThreadSpy: teaching multithreading programming by analyzing execution traces.",
+        "authors": [
+          "Giovanni Malnati",
+          "Caterina Maria Cuva",
+          "Claudia Barberis"
+        ]
+      },
+      {
+        "title": "A debugger for flow graph based parallel applications.",
+        "authors": [
+          "Ali Al-Shabibi",
+          "Sebastian Gerlach",
+          "Roger D. Hersch",
+          "Basile Schaeli"
+        ]
+      },
+      {
+        "title": "Organizing processes and threads for debugging.",
+        "authors": [
+          "Barry Kingsbury"
+        ]
+      },
+      {
+        "title": "Techniques for specifying bug patterns.",
+        "authors": [
+          "Daniel J. Quinlan",
+          "Richard W. Vuduc",
+          "Ghassan Misherghi"
+        ]
+      },
+      {
+        "title": "Testing patterns for software transactional memory engines.",
+        "authors": [
+          "João Lourenço",
+          "Gonçalo Cunha"
+        ]
+      },
+      {
+        "title": "Semantics driven dynamic partial-order reduction of MPI-based parallel programs.",
+        "authors": [
+          "Robert Palmer",
+          "Ganesh Gopalakrishnan",
+          "Robert M. Kirby"
+        ]
+      },
+      {
+        "title": "Healing data races on-the-fly.",
+        "authors": [
+          "Bohuslav Krena",
+          "Zdenek Letko",
+          "Rachel Tzoref",
+          "Shmuel Ur",
+          "Tomás Vojnar"
         ]
       }
     ]
@@ -11252,70 +11320,355 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/issta/padtad2007.html": {
-    "header": "PADTAD 2007: London, UK",
-    "year": "2007",
+  "https://dblp.org/db/conf/issta/wtaop2006.html": {
+    "header": "WTAOP@ISSTA 2006: Portland, Maine, USA",
+    "year": "2006",
     "papers": [
       {
-        "title": "Experience with fluid: analysis, design intent, and assurance for concurrency.",
+        "title": "Towards a fault model for AspectJ programs: step 1 -- pointcut faults.",
         "authors": [
-          "William L. Scherlis"
+          "Jon S. Bækken",
+          "Roger T. Alexander"
         ]
       },
       {
-        "title": "JThreadSpy: teaching multithreading programming by analyzing execution traces.",
+        "title": "State-based testing of integration aspects.",
         "authors": [
-          "Giovanni Malnati",
-          "Caterina Maria Cuva",
-          "Claudia Barberis"
+          "Weifeng Xu",
+          "Dianxiang Xu"
         ]
       },
       {
-        "title": "A debugger for flow graph based parallel applications.",
+        "title": "A regression tests selection technique for aspect-oriented programs.",
         "authors": [
-          "Ali Al-Shabibi",
-          "Sebastian Gerlach",
-          "Roger D. Hersch",
-          "Basile Schaeli"
+          "Guoqing Xu"
         ]
       },
       {
-        "title": "Organizing processes and threads for debugging.",
+        "title": "Towards regression test selection for AspectJ programs.",
         "authors": [
-          "Barry Kingsbury"
+          "Jianjun Zhao",
+          "Tao Xie",
+          "Nan Li"
         ]
       },
       {
-        "title": "Techniques for specifying bug patterns.",
+        "title": "APTE: automated pointcut testing for AspectJ programs.",
         "authors": [
-          "Daniel J. Quinlan",
+          "Prasanth Anbalagan",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Testing aspect-oriented programming Pointcut Descriptors.",
+        "authors": [
+          "Otávio Augusto Lazzarini Lemos",
+          "Fabiano Cutigi Ferrari",
+          "Paulo César Masiero",
+          "Cristina Videira Lopes"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/issta/tavweb2006.html": {
+    "header": "TAV-WEB 2006: Portland, Maine, USA",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "A case study of automatically creating test suites from web application field data.",
+        "authors": [
+          "Sara Sprenkle",
+          "Emily Gibson",
+          "Sreedevi Sampath",
+          "Lori L. Pollock"
+        ]
+      },
+      {
+        "title": "Towards self-adaptive service-oriented architectures.",
+        "authors": [
+          "Giovanni Denaro",
+          "Mauro Pezzè",
+          "Davide Tosi",
+          "Daniela Schilling"
+        ]
+      },
+      {
+        "title": "Model-based functional conformance testing of web services operating on persistent data.",
+        "authors": [
+          "Avik Sinha",
+          "Amit M. Paradkar"
+        ]
+      },
+      {
+        "title": "Integrating customized test requirements with traditional requirements in web application testing.",
+        "authors": [
+          "Sreedevi Sampath",
+          "Sara Sprenkle",
+          "Emily Gibson",
+          "Lori L. Pollock"
+        ]
+      },
+      {
+        "title": "Towards a BPEL unit testing framework.",
+        "authors": [
+          "Philip Mayer",
+          "Daniel Lübke"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/issta/rt2006.html": {
+    "header": "ISSTA-RT 2006: Portland, Maine, USA",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "When only random testing will do.",
+        "authors": [
+          "Dick Hamlet"
+        ]
+      },
+      {
+        "title": "Uniform random sampling of traces in very large models.",
+        "authors": [
+          "Alain Denise",
+          "Marie-Claude Gaudel",
+          "Sandrine-Dominique Gouraud",
+          "Richard Lassaigne",
+          "Sylvain Peyronnet"
+        ]
+      },
+      {
+        "title": "Random testing of formal software models and induced coverage.",
+        "authors": [
+          "David Owen",
+          "Dejan Desovski",
+          "Bojan Cukic"
+        ]
+      },
+      {
+        "title": "Path-oriented random testing.",
+        "authors": [
+          "Arnaud Gotlieb",
+          "Matthieu Petit"
+        ]
+      },
+      {
+        "title": "Tool support for randomized unit testing.",
+        "authors": [
+          "James H. Andrews",
+          "Susmita Haldar",
+          "Yong Lei",
+          "Felix Chun Hang Li"
+        ]
+      },
+      {
+        "title": "An empirical study of the robustness of MacOS applications using random testing.",
+        "authors": [
+          "Barton P. Miller",
+          "Gregory Cooksey",
+          "Fredrick Moore"
+        ]
+      },
+      {
+        "title": "Object distance and its application to adaptive random testing of object-oriented programs.",
+        "authors": [
+          "Ilinca Ciupa",
+          "Andreas Leitner",
+          "Manuel Oriol",
+          "Bertrand Meyer"
+        ]
+      },
+      {
+        "title": "Is adaptive random testing really better than random testing.",
+        "authors": [
+          "Tsong Yueh Chen",
+          "Fei-Ching Kuo"
+        ]
+      },
+      {
+        "title": "Adaptive random testing with randomly translated failure region.",
+        "authors": [
+          "Johannes Mayer"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/issta/rosatea2006.html": {
+    "header": "ROSATEA 2006: Portland, Maine, USA",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "Performance implications of design pattern usage in distributed applications: case studies in J2EE and .NET.",
+        "authors": [
+          "Jakub Rudzki",
+          "Tarja Systä"
+        ]
+      },
+      {
+        "title": "Towards an architectural approach for the dynamic and automatic composition of software components.",
+        "authors": [
+          "Antonio Bucchiarone",
+          "Andrea Polini",
+          "Patrizio Pelliccione",
+          "Massimo Tivoli"
+        ]
+      },
+      {
+        "title": "Making testing product lines more efficient by improving the testability of product line architectures.",
+        "authors": [
+          "Ronny Kolb",
+          "Dirk Muthig"
+        ]
+      },
+      {
+        "title": "Architecture-driven platform independent deterministic replay for distributed hard real-time systems.",
+        "authors": [
+          "Holger Giese",
+          "Stefan Henkler"
+        ]
+      },
+      {
+        "title": "A foundation for behavioural conformance in software product line architectures.",
+        "authors": [
+          "Dario Fischbein",
+          "Sebastián Uchitel",
+          "Víctor A. Braberman"
+        ]
+      },
+      {
+        "title": "Verification support for plug-and-play architectural design.",
+        "authors": [
+          "Shangzhu Wang",
+          "George S. Avrunin",
+          "Lori A. Clarke"
+        ]
+      },
+      {
+        "title": "Application of built-in-testing in component-based embedded systems.",
+        "authors": [
+          "Irena Pavlova",
+          "Mikael Åkerholm",
+          "Johan Fredriksson"
+        ]
+      },
+      {
+        "title": "Coverage and adequacy in software product line testing.",
+        "authors": [
+          "Myra B. Cohen",
+          "Matthew B. Dwyer",
+          "Jiangfan Shi"
+        ]
+      },
+      {
+        "title": "Architecture-based testing using goals and plans.",
+        "authors": [
+          "Kristina Winbladh",
+          "Thomas A. Alspaugh",
+          "Hadar Ziv",
+          "Debra J. Richardson"
+        ]
+      },
+      {
+        "title": "Analyzing architectural styles with alloy.",
+        "authors": [
+          "Jung Soo Kim",
+          "David Garlan"
+        ]
+      },
+      {
+        "title": "Towards supporting the architecture design process through evaluation of design alternatives.",
+        "authors": [
+          "Lihua Xu",
+          "Scott A. Hendrickson",
+          "Eric Hettwer",
+          "Hadar Ziv",
+          "André van der Hoek",
+          "Debra J. Richardson"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/issta/padtad2006.html": {
+    "header": "PADTAD 2006: Portland, Maine, USA",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "A state-of-practice questionnaire on verification and validation for concurrent programs.",
+        "authors": [
+          "Margaret A. Wojcicki",
+          "Paul A. Strooper"
+        ]
+      },
+      {
+        "title": "Formal verification of concurrent software: two case studies.",
+        "authors": [
+          "Hana Chockler",
+          "Eitan Farchi",
+          "Ziv Glazberg",
+          "Benny Godlin",
+          "Yarden Nir-Buchbinder",
+          "Ishai Rabinovitz"
+        ]
+      },
+      {
+        "title": "A classification of concurrency bugs in java benchmarks by developer intent.",
+        "authors": [
+          "M. Erkan Keremoglu",
+          "Serdar Tasiran",
+          "Tayfun Elmas"
+        ]
+      },
+      {
+        "title": "Improving distributed memory applications testing by message perturbation.",
+        "authors": [
           "Richard W. Vuduc",
-          "Ghassan Misherghi"
+          "Martin Schulz",
+          "Daniel J. Quinlan",
+          "Bronis R. de Supinski",
+          "Andreas Sæbjørnsen"
         ]
       },
       {
-        "title": "Testing patterns for software transactional memory engines.",
+        "title": "Producing scheduling that causes concurrent programs to fail.",
         "authors": [
-          "João Lourenço",
-          "Gonçalo Cunha"
+          "Yosi Ben-Asher",
+          "Yaniv Eytani",
+          "Eitan Farchi",
+          "Shmuel Ur"
         ]
       },
       {
-        "title": "Semantics driven dynamic partial-order reduction of MPI-based parallel programs.",
+        "title": "Confirmation of deadlock potentials detected by runtime analysis.",
         "authors": [
-          "Robert Palmer",
-          "Ganesh Gopalakrishnan",
-          "Robert M. Kirby"
+          "Saddek Bensalem",
+          "Jean-Claude Fernandez",
+          "Klaus Havelund",
+          "Laurent Mounier"
         ]
       },
       {
-        "title": "Healing data races on-the-fly.",
+        "title": "Run-time detection of potential deadlocks for programs with locks, semaphores, and condition variables.",
         "authors": [
-          "Bohuslav Krena",
-          "Zdenek Letko",
-          "Rachel Tzoref",
-          "Shmuel Ur",
-          "Tomás Vojnar"
+          "Rahul Agarwal",
+          "Scott D. Stoller"
+        ]
+      },
+      {
+        "title": "Multi-environment software testing on the grid.",
+        "authors": [
+          "Alexandre Duarte",
+          "Gustavo Wagner",
+          "Francisco Vilar Brasileiro",
+          "Walfredo Cirne"
+        ]
+      },
+      {
+        "title": "A theory of data race detection.",
+        "authors": [
+          "Utpal Banerjee",
+          "Brian Bliss",
+          "Zhiqiang Ma",
+          "Paul Petersen"
         ]
       }
     ]
@@ -11515,359 +11868,6 @@
           "Jeff H. Perkins",
           "Stephen McCamant",
           "Michael D. Ernst"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/issta/rosatea2006.html": {
-    "header": "ROSATEA 2006: Portland, Maine, USA",
-    "year": "2006",
-    "papers": [
-      {
-        "title": "Performance implications of design pattern usage in distributed applications: case studies in J2EE and .NET.",
-        "authors": [
-          "Jakub Rudzki",
-          "Tarja Systä"
-        ]
-      },
-      {
-        "title": "Towards an architectural approach for the dynamic and automatic composition of software components.",
-        "authors": [
-          "Antonio Bucchiarone",
-          "Andrea Polini",
-          "Patrizio Pelliccione",
-          "Massimo Tivoli"
-        ]
-      },
-      {
-        "title": "Making testing product lines more efficient by improving the testability of product line architectures.",
-        "authors": [
-          "Ronny Kolb",
-          "Dirk Muthig"
-        ]
-      },
-      {
-        "title": "Architecture-driven platform independent deterministic replay for distributed hard real-time systems.",
-        "authors": [
-          "Holger Giese",
-          "Stefan Henkler"
-        ]
-      },
-      {
-        "title": "A foundation for behavioural conformance in software product line architectures.",
-        "authors": [
-          "Dario Fischbein",
-          "Sebastián Uchitel",
-          "Víctor A. Braberman"
-        ]
-      },
-      {
-        "title": "Verification support for plug-and-play architectural design.",
-        "authors": [
-          "Shangzhu Wang",
-          "George S. Avrunin",
-          "Lori A. Clarke"
-        ]
-      },
-      {
-        "title": "Application of built-in-testing in component-based embedded systems.",
-        "authors": [
-          "Irena Pavlova",
-          "Mikael Åkerholm",
-          "Johan Fredriksson"
-        ]
-      },
-      {
-        "title": "Coverage and adequacy in software product line testing.",
-        "authors": [
-          "Myra B. Cohen",
-          "Matthew B. Dwyer",
-          "Jiangfan Shi"
-        ]
-      },
-      {
-        "title": "Architecture-based testing using goals and plans.",
-        "authors": [
-          "Kristina Winbladh",
-          "Thomas A. Alspaugh",
-          "Hadar Ziv",
-          "Debra J. Richardson"
-        ]
-      },
-      {
-        "title": "Analyzing architectural styles with alloy.",
-        "authors": [
-          "Jung Soo Kim",
-          "David Garlan"
-        ]
-      },
-      {
-        "title": "Towards supporting the architecture design process through evaluation of design alternatives.",
-        "authors": [
-          "Lihua Xu",
-          "Scott A. Hendrickson",
-          "Eric Hettwer",
-          "Hadar Ziv",
-          "André van der Hoek",
-          "Debra J. Richardson"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/issta/wtaop2006.html": {
-    "header": "WTAOP@ISSTA 2006: Portland, Maine, USA",
-    "year": "2006",
-    "papers": [
-      {
-        "title": "Towards a fault model for AspectJ programs: step 1 -- pointcut faults.",
-        "authors": [
-          "Jon S. Bækken",
-          "Roger T. Alexander"
-        ]
-      },
-      {
-        "title": "State-based testing of integration aspects.",
-        "authors": [
-          "Weifeng Xu",
-          "Dianxiang Xu"
-        ]
-      },
-      {
-        "title": "A regression tests selection technique for aspect-oriented programs.",
-        "authors": [
-          "Guoqing Xu"
-        ]
-      },
-      {
-        "title": "Towards regression test selection for AspectJ programs.",
-        "authors": [
-          "Jianjun Zhao",
-          "Tao Xie",
-          "Nan Li"
-        ]
-      },
-      {
-        "title": "APTE: automated pointcut testing for AspectJ programs.",
-        "authors": [
-          "Prasanth Anbalagan",
-          "Tao Xie"
-        ]
-      },
-      {
-        "title": "Testing aspect-oriented programming Pointcut Descriptors.",
-        "authors": [
-          "Otávio Augusto Lazzarini Lemos",
-          "Fabiano Cutigi Ferrari",
-          "Paulo César Masiero",
-          "Cristina Videira Lopes"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/issta/rt2006.html": {
-    "header": "ISSTA-RT 2006: Portland, Maine, USA",
-    "year": "2006",
-    "papers": [
-      {
-        "title": "When only random testing will do.",
-        "authors": [
-          "Dick Hamlet"
-        ]
-      },
-      {
-        "title": "Uniform random sampling of traces in very large models.",
-        "authors": [
-          "Alain Denise",
-          "Marie-Claude Gaudel",
-          "Sandrine-Dominique Gouraud",
-          "Richard Lassaigne",
-          "Sylvain Peyronnet"
-        ]
-      },
-      {
-        "title": "Random testing of formal software models and induced coverage.",
-        "authors": [
-          "David Owen",
-          "Dejan Desovski",
-          "Bojan Cukic"
-        ]
-      },
-      {
-        "title": "Path-oriented random testing.",
-        "authors": [
-          "Arnaud Gotlieb",
-          "Matthieu Petit"
-        ]
-      },
-      {
-        "title": "Tool support for randomized unit testing.",
-        "authors": [
-          "James H. Andrews",
-          "Susmita Haldar",
-          "Yong Lei",
-          "Felix Chun Hang Li"
-        ]
-      },
-      {
-        "title": "An empirical study of the robustness of MacOS applications using random testing.",
-        "authors": [
-          "Barton P. Miller",
-          "Gregory Cooksey",
-          "Fredrick Moore"
-        ]
-      },
-      {
-        "title": "Object distance and its application to adaptive random testing of object-oriented programs.",
-        "authors": [
-          "Ilinca Ciupa",
-          "Andreas Leitner",
-          "Manuel Oriol",
-          "Bertrand Meyer"
-        ]
-      },
-      {
-        "title": "Is adaptive random testing really better than random testing.",
-        "authors": [
-          "Tsong Yueh Chen",
-          "Fei-Ching Kuo"
-        ]
-      },
-      {
-        "title": "Adaptive random testing with randomly translated failure region.",
-        "authors": [
-          "Johannes Mayer"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/issta/tavweb2006.html": {
-    "header": "TAV-WEB 2006: Portland, Maine, USA",
-    "year": "2006",
-    "papers": [
-      {
-        "title": "A case study of automatically creating test suites from web application field data.",
-        "authors": [
-          "Sara Sprenkle",
-          "Emily Gibson",
-          "Sreedevi Sampath",
-          "Lori L. Pollock"
-        ]
-      },
-      {
-        "title": "Towards self-adaptive service-oriented architectures.",
-        "authors": [
-          "Giovanni Denaro",
-          "Mauro Pezzè",
-          "Davide Tosi",
-          "Daniela Schilling"
-        ]
-      },
-      {
-        "title": "Model-based functional conformance testing of web services operating on persistent data.",
-        "authors": [
-          "Avik Sinha",
-          "Amit M. Paradkar"
-        ]
-      },
-      {
-        "title": "Integrating customized test requirements with traditional requirements in web application testing.",
-        "authors": [
-          "Sreedevi Sampath",
-          "Sara Sprenkle",
-          "Emily Gibson",
-          "Lori L. Pollock"
-        ]
-      },
-      {
-        "title": "Towards a BPEL unit testing framework.",
-        "authors": [
-          "Philip Mayer",
-          "Daniel Lübke"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/issta/padtad2006.html": {
-    "header": "PADTAD 2006: Portland, Maine, USA",
-    "year": "2006",
-    "papers": [
-      {
-        "title": "A state-of-practice questionnaire on verification and validation for concurrent programs.",
-        "authors": [
-          "Margaret A. Wojcicki",
-          "Paul A. Strooper"
-        ]
-      },
-      {
-        "title": "Formal verification of concurrent software: two case studies.",
-        "authors": [
-          "Hana Chockler",
-          "Eitan Farchi",
-          "Ziv Glazberg",
-          "Benny Godlin",
-          "Yarden Nir-Buchbinder",
-          "Ishai Rabinovitz"
-        ]
-      },
-      {
-        "title": "A classification of concurrency bugs in java benchmarks by developer intent.",
-        "authors": [
-          "M. Erkan Keremoglu",
-          "Serdar Tasiran",
-          "Tayfun Elmas"
-        ]
-      },
-      {
-        "title": "Improving distributed memory applications testing by message perturbation.",
-        "authors": [
-          "Richard W. Vuduc",
-          "Martin Schulz",
-          "Daniel J. Quinlan",
-          "Bronis R. de Supinski",
-          "Andreas Sæbjørnsen"
-        ]
-      },
-      {
-        "title": "Producing scheduling that causes concurrent programs to fail.",
-        "authors": [
-          "Yosi Ben-Asher",
-          "Yaniv Eytani",
-          "Eitan Farchi",
-          "Shmuel Ur"
-        ]
-      },
-      {
-        "title": "Confirmation of deadlock potentials detected by runtime analysis.",
-        "authors": [
-          "Saddek Bensalem",
-          "Jean-Claude Fernandez",
-          "Klaus Havelund",
-          "Laurent Mounier"
-        ]
-      },
-      {
-        "title": "Run-time detection of potential deadlocks for programs with locks, semaphores, and condition variables.",
-        "authors": [
-          "Rahul Agarwal",
-          "Scott D. Stoller"
-        ]
-      },
-      {
-        "title": "Multi-environment software testing on the grid.",
-        "authors": [
-          "Alexandre Duarte",
-          "Gustavo Wagner",
-          "Francisco Vilar Brasileiro",
-          "Walfredo Cirne"
-        ]
-      },
-      {
-        "title": "A theory of data race detection.",
-        "authors": [
-          "Utpal Banerjee",
-          "Brian Bliss",
-          "Zhiqiang Ma",
-          "Paul Petersen"
         ]
       }
     ]

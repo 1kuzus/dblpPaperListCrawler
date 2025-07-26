@@ -4413,6 +4413,64 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/acsac/ssprew2018.html": {
+    "header": "6. SSPREW@ACSAC 2018: Los Angeles, CA, USA",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "DoSE: Deobfuscation based on Semantic Equivalence.",
+        "authors": [
+          "Ramtine Tofighi-Shirazi",
+          "Maria Christofi",
+          "Philippe Elbaz-Vincent",
+          "Thanh Ha Le"
+        ]
+      },
+      {
+        "title": "gExtractor: Towards Automated Extraction of Malware Deception Parameters.",
+        "authors": [
+          "Mohammed Noraden Alsaleh",
+          "Jinpeng Wei",
+          "Ehab Al-Shaer",
+          "Mohiuddin Ahmed"
+        ]
+      },
+      {
+        "title": "Identifying Input-Dependent Jumps from Obfuscated Execution using Dynamic Data Flow Graphs.",
+        "authors": [
+          "Joonhyung Hwang",
+          "Taisook Han"
+        ]
+      },
+      {
+        "title": "SysTaint: Assisting Reversing of Malicious Network Communications.",
+        "authors": [
+          "Gabriele Viglianisi",
+          "Michele Carminati",
+          "Mario Polino",
+          "Andrea Continella",
+          "Stefano Zanero"
+        ]
+      },
+      {
+        "title": "On-Device Detection via Anomalous Environmental Factors.",
+        "authors": [
+          "Adam M. Gautier",
+          "Todd R. Andel",
+          "Ryan Benton"
+        ]
+      },
+      {
+        "title": "Leave It to Weaver.",
+        "authors": [
+          "William Mahoney",
+          "Joseph Franco",
+          "Greg Hoff",
+          "Jeffrey Todd McDonald"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/acsac/acsac2018.html": {
     "header": "ACSAC 2018: San Juan, PR, USA",
     "year": "2018",
@@ -4995,64 +5053,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/acsac/ssprew2018.html": {
-    "header": "6. SSPREW@ACSAC 2018: Los Angeles, CA, USA",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "DoSE: Deobfuscation based on Semantic Equivalence.",
-        "authors": [
-          "Ramtine Tofighi-Shirazi",
-          "Maria Christofi",
-          "Philippe Elbaz-Vincent",
-          "Thanh Ha Le"
-        ]
-      },
-      {
-        "title": "gExtractor: Towards Automated Extraction of Malware Deception Parameters.",
-        "authors": [
-          "Mohammed Noraden Alsaleh",
-          "Jinpeng Wei",
-          "Ehab Al-Shaer",
-          "Mohiuddin Ahmed"
-        ]
-      },
-      {
-        "title": "Identifying Input-Dependent Jumps from Obfuscated Execution using Dynamic Data Flow Graphs.",
-        "authors": [
-          "Joonhyung Hwang",
-          "Taisook Han"
-        ]
-      },
-      {
-        "title": "SysTaint: Assisting Reversing of Malicious Network Communications.",
-        "authors": [
-          "Gabriele Viglianisi",
-          "Michele Carminati",
-          "Mario Polino",
-          "Andrea Continella",
-          "Stefano Zanero"
-        ]
-      },
-      {
-        "title": "On-Device Detection via Anomalous Environmental Factors.",
-        "authors": [
-          "Adam M. Gautier",
-          "Todd R. Andel",
-          "Ryan Benton"
-        ]
-      },
-      {
-        "title": "Leave It to Weaver.",
-        "authors": [
-          "William Mahoney",
-          "Joseph Franco",
-          "Greg Hoff",
-          "Jeffrey Todd McDonald"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/acsac/acsac2017.html": {
     "header": "ACSAC 2017: Orlando, FL, USA",
     "year": "2017",
@@ -5505,6 +5505,86 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/acsac/ssprew2016.html": {
+    "header": "6th SSPREW@ACSAC 2016: Los Angeles, CA, USA",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "Metadata recovery from obfuscated programs using machine learning.",
+        "authors": [
+          "Aleieldin Salem",
+          "Sebastian Banescu"
+        ]
+      },
+      {
+        "title": "Finding the needle in the heap: combining static analysis and dynamic symbolic execution to trigger use-after-free.",
+        "authors": [
+          "Josselin Feist",
+          "Laurent Mounier",
+          "Sébastien Bardin",
+          "Robin David",
+          "Marie-Laure Potet"
+        ]
+      },
+      {
+        "title": "Detecting rootkits with the RAI runtime application inventory.",
+        "authors": [
+          "Shabnam Aboughadareh",
+          "Christoph Csallner"
+        ]
+      },
+      {
+        "title": "White-box cryptography: practical protection on hostile hosts.",
+        "authors": [
+          "Yuan Xiang Gu",
+          "Harold Johnson",
+          "Clifford Liem",
+          "Andrew Wajs",
+          "Michael J. Wiener"
+        ]
+      },
+      {
+        "title": "Active Android malware analysis: an approach based on stochastic games.",
+        "authors": [
+          "Riccardo Sartea",
+          "Mila Dalla Preda",
+          "Alessandro Farinelli",
+          "Roberto Giacobazzi",
+          "Isabella Mastroeni"
+        ]
+      },
+      {
+        "title": "Buffer overflow attack's power consumption signatures.",
+        "authors": [
+          "Samuel Bennett Moore",
+          "Mark Yampolskiy",
+          "Jacob Gatlin",
+          "Jeffrey Todd McDonald",
+          "Todd R. Andel"
+        ]
+      },
+      {
+        "title": "Tightly-coupled self-debugging software protection.",
+        "authors": [
+          "Bert Abrath",
+          "Bart Coppens",
+          "Stijn Volckaert",
+          "Joris Wijnant",
+          "Bjorn De Sutter"
+        ]
+      },
+      {
+        "title": "Comparing the effectiveness of commercial obfuscators against MATE attacks.",
+        "authors": [
+          "Ramya Manikyam",
+          "Jeffrey Todd McDonald",
+          "William R. Mahoney",
+          "Todd R. Andel",
+          "Samuel H. Russ"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/acsac/acsac2016.html": {
     "header": "ACSAC 2016: Los Angeles, CA, USA",
     "year": "2016",
@@ -5947,82 +6027,82 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/acsac/ssprew2016.html": {
-    "header": "6th SSPREW@ACSAC 2016: Los Angeles, CA, USA",
-    "year": "2016",
+  "https://dblp.org/db/conf/acsac/pprew2015.html": {
+    "header": "5. PPREW@ACSAC 2015: Los Angeles, CA, USA",
+    "year": "2015",
     "papers": [
       {
-        "title": "Metadata recovery from obfuscated programs using machine learning.",
+        "title": "Applying Software Protection to White-Box Cryptography.",
         "authors": [
-          "Aleieldin Salem",
-          "Sebastian Banescu"
-        ]
-      },
-      {
-        "title": "Finding the needle in the heap: combining static analysis and dynamic symbolic execution to trigger use-after-free.",
-        "authors": [
-          "Josselin Feist",
-          "Laurent Mounier",
-          "Sébastien Bardin",
-          "Robin David",
-          "Marie-Laure Potet"
-        ]
-      },
-      {
-        "title": "Detecting rootkits with the RAI runtime application inventory.",
-        "authors": [
-          "Shabnam Aboughadareh",
-          "Christoph Csallner"
-        ]
-      },
-      {
-        "title": "White-box cryptography: practical protection on hostile hosts.",
-        "authors": [
-          "Yuan Xiang Gu",
-          "Harold Johnson",
-          "Clifford Liem",
-          "Andrew Wajs",
           "Michael J. Wiener"
         ]
       },
       {
-        "title": "Active Android malware analysis: an approach based on stochastic games.",
+        "title": "InputFinder: Reverse Engineering Closed Binaries using Hardware Performance Counters.",
         "authors": [
-          "Riccardo Sartea",
-          "Mila Dalla Preda",
-          "Alessandro Farinelli",
-          "Roberto Giacobazzi",
-          "Isabella Mastroeni"
+          "Bogdan Copos",
+          "Praveen Murthy"
         ]
       },
       {
-        "title": "Buffer overflow attack's power consumption signatures.",
+        "title": "A Complement to Enhanced Instruction Register File against Embedded Software Falsification.",
         "authors": [
-          "Samuel Bennett Moore",
-          "Mark Yampolskiy",
-          "Jacob Gatlin",
-          "Jeffrey Todd McDonald",
-          "Todd R. Andel"
+          "Naoki Fujieda",
+          "Kiyohiro Sato",
+          "Shuichi Ichikawa"
         ]
       },
       {
-        "title": "Tightly-coupled self-debugging software protection.",
+        "title": "Repeatable Reverse Engineering with PANDA.",
         "authors": [
-          "Bert Abrath",
-          "Bart Coppens",
-          "Stijn Volckaert",
-          "Joris Wijnant",
-          "Bjorn De Sutter"
+          "Brendan Dolan-Gavitt",
+          "Josh Hodosh",
+          "Patrick Hulin",
+          "Tim Leek",
+          "Ryan Whelan"
         ]
       },
       {
-        "title": "Comparing the effectiveness of commercial obfuscators against MATE attacks.",
+        "title": "Lightweight heuristics to retrieve parameter associations from binaries.",
         "authors": [
-          "Ramya Manikyam",
-          "Jeffrey Todd McDonald",
-          "William R. Mahoney",
-          "Todd R. Andel",
-          "Samuel H. Russ"
+          "Franck de Goër",
+          "Roland Groz",
+          "Laurent Mounier"
+        ]
+      },
+      {
+        "title": "Flowtables: Program Skeletal Inversion for Defeat of Interprocedural Analysis with Unique Metamorphism.",
+        "authors": [
+          "Luke Jones",
+          "Ryan Whelan",
+          "Jeremy Blackthorne",
+          "Graham Baker"
+        ]
+      },
+      {
+        "title": "OpSeq: Android Malware Fingerprinting.",
+        "authors": [
+          "Aisha I. Ali-Gombe",
+          "Irfan Ahmed",
+          "Golden G. Richard III",
+          "Vassil Roussev"
+        ]
+      },
+      {
+        "title": "Pinpointing and Hiding Surprising Fragments in an Obfuscated Program.",
+        "authors": [
+          "Yuichiro Kanzaki",
+          "Clark D. Thomborson",
+          "Akito Monden",
+          "Christian S. Collberg"
+        ]
+      },
+      {
+        "title": "Enriching reverse engineering through visual exploration of Android binaries.",
+        "authors": [
+          "Ashutosh Jain",
+          "Hugo Gonzalez",
+          "Natalia Stakhanova"
         ]
       }
     ]
@@ -6454,86 +6534,6 @@
           "Letitia W. Li",
           "Guillaume Duc",
           "Renaud Pacalet"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/acsac/pprew2015.html": {
-    "header": "5. PPREW@ACSAC 2015: Los Angeles, CA, USA",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Applying Software Protection to White-Box Cryptography.",
-        "authors": [
-          "Michael J. Wiener"
-        ]
-      },
-      {
-        "title": "InputFinder: Reverse Engineering Closed Binaries using Hardware Performance Counters.",
-        "authors": [
-          "Bogdan Copos",
-          "Praveen Murthy"
-        ]
-      },
-      {
-        "title": "A Complement to Enhanced Instruction Register File against Embedded Software Falsification.",
-        "authors": [
-          "Naoki Fujieda",
-          "Kiyohiro Sato",
-          "Shuichi Ichikawa"
-        ]
-      },
-      {
-        "title": "Repeatable Reverse Engineering with PANDA.",
-        "authors": [
-          "Brendan Dolan-Gavitt",
-          "Josh Hodosh",
-          "Patrick Hulin",
-          "Tim Leek",
-          "Ryan Whelan"
-        ]
-      },
-      {
-        "title": "Lightweight heuristics to retrieve parameter associations from binaries.",
-        "authors": [
-          "Franck de Goër",
-          "Roland Groz",
-          "Laurent Mounier"
-        ]
-      },
-      {
-        "title": "Flowtables: Program Skeletal Inversion for Defeat of Interprocedural Analysis with Unique Metamorphism.",
-        "authors": [
-          "Luke Jones",
-          "Ryan Whelan",
-          "Jeremy Blackthorne",
-          "Graham Baker"
-        ]
-      },
-      {
-        "title": "OpSeq: Android Malware Fingerprinting.",
-        "authors": [
-          "Aisha I. Ali-Gombe",
-          "Irfan Ahmed",
-          "Golden G. Richard III",
-          "Vassil Roussev"
-        ]
-      },
-      {
-        "title": "Pinpointing and Hiding Surprising Fragments in an Obfuscated Program.",
-        "authors": [
-          "Yuichiro Kanzaki",
-          "Clark D. Thomborson",
-          "Akito Monden",
-          "Christian S. Collberg"
-        ]
-      },
-      {
-        "title": "Enriching reverse engineering through visual exploration of Android binaries.",
-        "authors": [
-          "Ashutosh Jain",
-          "Hugo Gonzalez",
-          "Natalia Stakhanova"
         ]
       }
     ]

@@ -4279,71 +4279,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/osdi/inflow2016.html": {
-    "header": "4th INFLOW@OSDI 2016: Savannah, GA, USA",
-    "year": "2016",
-    "papers": [
-      {
-        "title": "Couture: Tailoring STT-MRAM for Persistent Main Memory.",
-        "authors": [
-          "Mustafa M. Shihab",
-          "Jie Zhang",
-          "Shuwen Gao",
-          "Josep Sloan",
-          "Myoungsoo Jung"
-        ]
-      },
-      {
-        "title": "ROSS: A Design of Read-Oriented STT-MRAM Storage for Energy-Efficient Non-Uniform Cache Architecture.",
-        "authors": [
-          "Jie Zhang",
-          "Miryeong Kwon",
-          "Chanyoung Park",
-          "Myoungsoo Jung",
-          "Songkuk Kim"
-        ]
-      },
-      {
-        "title": "NVMOVE: Helping Programmers Move to Byte-Based Persistence.",
-        "authors": [
-          "Himanshu Chauhan",
-          "Irina Calciu",
-          "Vijay Chidambaram",
-          "Eric Schkufza",
-          "Onur Mutlu",
-          "Pratap Subrahmanyam"
-        ]
-      },
-      {
-        "title": "Enabling NVM for Data-Intensive Scientific Services.",
-        "authors": [
-          "Philip H. Carns",
-          "John Jenkins",
-          "Charles D. Cranor",
-          "Scott Atchley",
-          "Sangmin Seo",
-          "Shane Snyder",
-          "Robert B. Ross"
-        ]
-      },
-      {
-        "title": "ElCached: Elastic Multi-Level Key-Value Cache.",
-        "authors": [
-          "Rahman Lavaee",
-          "I. Stephen Choi",
-          "Yang-Suk Kee",
-          "Chen Ding"
-        ]
-      },
-      {
-        "title": "On the Impact of Garbage Collection on Flash-Based SSD Endurance.",
-        "authors": [
-          "Robin Verschoren",
-          "Benny Van Houdt"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/osdi/osdi2016.html": {
     "header": "12th OSDI 2016: Savannah, GA, USA",
     "year": "2016",
@@ -4874,66 +4809,67 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/osdi/inflow2014.html": {
-    "header": "11th OSDI 2014: Broomfield, CO, USA - INFLOW",
-    "year": "2014",
+  "https://dblp.org/db/conf/osdi/inflow2016.html": {
+    "header": "4th INFLOW@OSDI 2016: Savannah, GA, USA",
+    "year": "2016",
     "papers": [
       {
-        "title": "Don't Stack Your Log On My Log.",
+        "title": "Couture: Tailoring STT-MRAM for Persistent Main Memory.",
         "authors": [
-          "Jingpei Yang",
-          "Ned Plasson",
-          "Greg Gillis",
-          "Nisha Talagala",
-          "Swaminathan Sundararaman"
+          "Mustafa M. Shihab",
+          "Jie Zhang",
+          "Shuwen Gao",
+          "Josep Sloan",
+          "Myoungsoo Jung"
         ]
       },
       {
-        "title": "How Could a Flash Cache Degrade Database Performance Rather Than Improve It? Lessons to be Learnt from Multi-Tiered Storage.",
+        "title": "ROSS: A Design of Read-Oriented STT-MRAM Storage for Energy-Efficient Non-Uniform Cache Architecture.",
         "authors": [
-          "Hyojun Kim",
-          "Ioannis Koltsidas",
-          "Nikolas Ioannou",
-          "Sangeetha Seshadri",
-          "Paul Muench",
-          "Clement L. Dickey",
-          "Lawrence Chiu"
+          "Jie Zhang",
+          "Miryeong Kwon",
+          "Chanyoung Park",
+          "Myoungsoo Jung",
+          "Songkuk Kim"
         ]
       },
       {
-        "title": "Erasure Coding & Read/Write Separation in Flash Storage.",
+        "title": "NVMOVE: Helping Programmers Move to Byte-Based Persistence.",
         "authors": [
-          "Dimitris Skourtis",
-          "Dimitris Achlioptas",
-          "Noah Watkins",
-          "Carlos Maltzahn",
-          "Scott A. Brandt"
+          "Himanshu Chauhan",
+          "Irina Calciu",
+          "Vijay Chidambaram",
+          "Eric Schkufza",
+          "Onur Mutlu",
+          "Pratap Subrahmanyam"
         ]
       },
       {
-        "title": "Compression and SSDs: Where and How?",
+        "title": "Enabling NVM for Data-Intensive Scientific Services.",
         "authors": [
-          "Aviad Zuck",
-          "Sivan Toledo",
-          "Dmitry Sotnikov",
-          "Danny Harnik"
+          "Philip H. Carns",
+          "John Jenkins",
+          "Charles D. Cranor",
+          "Scott Atchley",
+          "Sangmin Seo",
+          "Shane Snyder",
+          "Robert B. Ross"
         ]
       },
       {
-        "title": "NVM Compression - Hybrid Flash-Aware Application Level Compression.",
+        "title": "ElCached: Elastic Multi-Level Key-Value Cache.",
         "authors": [
-          "Dhananjoy Das",
-          "Dulcardo Arteaga",
-          "Nisha Talagala",
-          "Torben Mathiasen",
-          "Jan Lindström"
+          "Rahman Lavaee",
+          "I. Stephen Choi",
+          "Yang-Suk Kee",
+          "Chen Ding"
         ]
       },
       {
-        "title": "EqualChance: Addressing Intra-set Write Variation to Increase Lifetime of Non-volatile Caches.",
+        "title": "On the Impact of Garbage Collection on Flash-Based SSD Endurance.",
         "authors": [
-          "Sparsh Mittal",
-          "Jeffrey S. Vetter"
+          "Robin Verschoren",
+          "Benny Van Houdt"
         ]
       }
     ]
@@ -5035,166 +4971,6 @@
           "David Isaac Wolinsky",
           "Daniel Jackowitz",
           "Bryan Ford"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/hotdep/hotdep2014.html": {
-    "header": "10th HotDep 2014: Broomfield, CO, USA",
-    "year": "2014",
-    "papers": [
-      {
-        "title": "Compute Globally, Act Locally: Protecting Federated Systems from Systemic Threats.",
-        "authors": [
-          "Arjun Narayan",
-          "Antonis Papadimitriou",
-          "Andreas Haeberlen"
-        ]
-      },
-      {
-        "title": "Running ZooKeeper Coordination Services in Untrusted Clouds.",
-        "authors": [
-          "Stefan Brenner",
-          "Colin Wulf",
-          "Rüdiger Kapitza"
-        ]
-      },
-      {
-        "title": "Who Writes What Checkers? - Learning from Bug Repositories.",
-        "authors": [
-          "Takeshi Yoshimura",
-          "Kenji Kono"
-        ]
-      },
-      {
-        "title": "Leveraging Trusted Computing and Model Checking to Build Dependable Virtual Machines.",
-        "authors": [
-          "Nuno Santos",
-          "Nuno P. Lopes"
-        ]
-      },
-      {
-        "title": "Erasure Code with Shingled Local Parity Groups for Efficient Recovery from Multiple Disk Failures.",
-        "authors": [
-          "Takeshi Miyamae",
-          "Takanori Nakao",
-          "Kensuke Shiozawa"
-        ]
-      },
-      {
-        "title": "Providing High Availability in Cloud Storage by Decreasing Virtual Machine Reboot Time.",
-        "authors": [
-          "Shehbaz Jaffer",
-          "Mangesh Chitnis",
-          "Ameya Usgaonkar"
-        ]
-      },
-      {
-        "title": "Understanding Reliability Implication of Hardware Error in Virtualization Infrastructure.",
-        "authors": [
-          "Xin Xu",
-          "H. Howie Huang"
-        ]
-      },
-      {
-        "title": "Towards General-Purpose Resource Management in Shared Cloud Services.",
-        "authors": [
-          "Jonathan Mace",
-          "Peter Bodík",
-          "Rodrigo Fonseca",
-          "Madanlal Musuvathi"
-        ]
-      },
-      {
-        "title": "Scalable BFT for Multi-Cores: Actor-Based Decomposition and Consensus-Oriented Parallelization.",
-        "authors": [
-          "Johannes Behl",
-          "Tobias Distler",
-          "Rüdiger Kapitza"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/hotpower/hotpower2014.html": {
-    "header": "11th OSDI 2014: Broomfield, CO, USA - HotPower",
-    "year": "2014",
-    "papers": [
-      {
-        "title": "All Opportunities Are Not Equal: Enabling Energy Efficient App Syncs In Diverse Networks.",
-        "authors": [
-          "Priyanka Tembey",
-          "Saumitra Das",
-          "Dilma Da Silva",
-          "Vrajesh Bhavsar"
-        ]
-      },
-      {
-        "title": "ViRUS: Virtual Function Replacement Under Stress.",
-        "authors": [
-          "Lucas Francisco Wanner",
-          "Mani B. Srivastava"
-        ]
-      },
-      {
-        "title": "Heterogeneity by the Numbers: A Study of the ODROID XU+E big.LITTLE Platform.",
-        "authors": [
-          "Marcus Hähnel",
-          "Hermann Härtig"
-        ]
-      },
-      {
-        "title": "A Case for Battery Charging-Aware Power Management and Deferrable Task Scheduling in Smartphones.",
-        "authors": [
-          "Salma Elmalaki",
-          "Mark Gottscho",
-          "Puneet Gupta",
-          "Mani B. Srivastava"
-        ]
-      },
-      {
-        "title": "Mobile GPU Power Consumption Reduction via Dynamic Resolution and Frame Rate Scaling.",
-        "authors": [
-          "Kent W. Nixon",
-          "Xiang Chen",
-          "Hucheng Zhou",
-          "Yunxin Liu",
-          "Yiran Chen"
-        ]
-      },
-      {
-        "title": "FingerShadow: An OLED Power Optimization Based on Smartphone Touch Interactions.",
-        "authors": [
-          "Xiang Chen",
-          "Kent W. Nixon",
-          "Hucheng Zhou",
-          "Yunxin Liu",
-          "Yiran Chen"
-        ]
-      },
-      {
-        "title": "Should We Dual-Purpose Energy Storage in Datacenters for Power Backup and Demand Response?",
-        "authors": [
-          "Iyswarya Narayanan",
-          "Di Wang",
-          "Abdullah-Al Mamun",
-          "Anand Sivasubramaniam",
-          "Hosam K. Fathy"
-        ]
-      },
-      {
-        "title": "Can Data Center Become Water Self-Sufficient?",
-        "authors": [
-          "Kishwar Ahmed",
-          "Mohammad A. Islam",
-          "Shaolei Ren",
-          "Gang Quan"
-        ]
-      },
-      {
-        "title": "Memory Throttling on BG/Q: A Case Study with Explicit Hydrodynamics.",
-        "authors": [
-          "Bo Li",
-          "Edgar A. León"
         ]
       }
     ]
@@ -5660,6 +5436,230 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/osdi/inflow2014.html": {
+    "header": "11th OSDI 2014: Broomfield, CO, USA - INFLOW",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Don't Stack Your Log On My Log.",
+        "authors": [
+          "Jingpei Yang",
+          "Ned Plasson",
+          "Greg Gillis",
+          "Nisha Talagala",
+          "Swaminathan Sundararaman"
+        ]
+      },
+      {
+        "title": "How Could a Flash Cache Degrade Database Performance Rather Than Improve It? Lessons to be Learnt from Multi-Tiered Storage.",
+        "authors": [
+          "Hyojun Kim",
+          "Ioannis Koltsidas",
+          "Nikolas Ioannou",
+          "Sangeetha Seshadri",
+          "Paul Muench",
+          "Clement L. Dickey",
+          "Lawrence Chiu"
+        ]
+      },
+      {
+        "title": "Erasure Coding & Read/Write Separation in Flash Storage.",
+        "authors": [
+          "Dimitris Skourtis",
+          "Dimitris Achlioptas",
+          "Noah Watkins",
+          "Carlos Maltzahn",
+          "Scott A. Brandt"
+        ]
+      },
+      {
+        "title": "Compression and SSDs: Where and How?",
+        "authors": [
+          "Aviad Zuck",
+          "Sivan Toledo",
+          "Dmitry Sotnikov",
+          "Danny Harnik"
+        ]
+      },
+      {
+        "title": "NVM Compression - Hybrid Flash-Aware Application Level Compression.",
+        "authors": [
+          "Dhananjoy Das",
+          "Dulcardo Arteaga",
+          "Nisha Talagala",
+          "Torben Mathiasen",
+          "Jan Lindström"
+        ]
+      },
+      {
+        "title": "EqualChance: Addressing Intra-set Write Variation to Increase Lifetime of Non-volatile Caches.",
+        "authors": [
+          "Sparsh Mittal",
+          "Jeffrey S. Vetter"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotpower/hotpower2014.html": {
+    "header": "11th OSDI 2014: Broomfield, CO, USA - HotPower",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "All Opportunities Are Not Equal: Enabling Energy Efficient App Syncs In Diverse Networks.",
+        "authors": [
+          "Priyanka Tembey",
+          "Saumitra Das",
+          "Dilma Da Silva",
+          "Vrajesh Bhavsar"
+        ]
+      },
+      {
+        "title": "ViRUS: Virtual Function Replacement Under Stress.",
+        "authors": [
+          "Lucas Francisco Wanner",
+          "Mani B. Srivastava"
+        ]
+      },
+      {
+        "title": "Heterogeneity by the Numbers: A Study of the ODROID XU+E big.LITTLE Platform.",
+        "authors": [
+          "Marcus Hähnel",
+          "Hermann Härtig"
+        ]
+      },
+      {
+        "title": "A Case for Battery Charging-Aware Power Management and Deferrable Task Scheduling in Smartphones.",
+        "authors": [
+          "Salma Elmalaki",
+          "Mark Gottscho",
+          "Puneet Gupta",
+          "Mani B. Srivastava"
+        ]
+      },
+      {
+        "title": "Mobile GPU Power Consumption Reduction via Dynamic Resolution and Frame Rate Scaling.",
+        "authors": [
+          "Kent W. Nixon",
+          "Xiang Chen",
+          "Hucheng Zhou",
+          "Yunxin Liu",
+          "Yiran Chen"
+        ]
+      },
+      {
+        "title": "FingerShadow: An OLED Power Optimization Based on Smartphone Touch Interactions.",
+        "authors": [
+          "Xiang Chen",
+          "Kent W. Nixon",
+          "Hucheng Zhou",
+          "Yunxin Liu",
+          "Yiran Chen"
+        ]
+      },
+      {
+        "title": "Should We Dual-Purpose Energy Storage in Datacenters for Power Backup and Demand Response?",
+        "authors": [
+          "Iyswarya Narayanan",
+          "Di Wang",
+          "Abdullah-Al Mamun",
+          "Anand Sivasubramaniam",
+          "Hosam K. Fathy"
+        ]
+      },
+      {
+        "title": "Can Data Center Become Water Self-Sufficient?",
+        "authors": [
+          "Kishwar Ahmed",
+          "Mohammad A. Islam",
+          "Shaolei Ren",
+          "Gang Quan"
+        ]
+      },
+      {
+        "title": "Memory Throttling on BG/Q: A Case Study with Explicit Hydrodynamics.",
+        "authors": [
+          "Bo Li",
+          "Edgar A. León"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotdep/hotdep2014.html": {
+    "header": "10th HotDep 2014: Broomfield, CO, USA",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Compute Globally, Act Locally: Protecting Federated Systems from Systemic Threats.",
+        "authors": [
+          "Arjun Narayan",
+          "Antonis Papadimitriou",
+          "Andreas Haeberlen"
+        ]
+      },
+      {
+        "title": "Running ZooKeeper Coordination Services in Untrusted Clouds.",
+        "authors": [
+          "Stefan Brenner",
+          "Colin Wulf",
+          "Rüdiger Kapitza"
+        ]
+      },
+      {
+        "title": "Who Writes What Checkers? - Learning from Bug Repositories.",
+        "authors": [
+          "Takeshi Yoshimura",
+          "Kenji Kono"
+        ]
+      },
+      {
+        "title": "Leveraging Trusted Computing and Model Checking to Build Dependable Virtual Machines.",
+        "authors": [
+          "Nuno Santos",
+          "Nuno P. Lopes"
+        ]
+      },
+      {
+        "title": "Erasure Code with Shingled Local Parity Groups for Efficient Recovery from Multiple Disk Failures.",
+        "authors": [
+          "Takeshi Miyamae",
+          "Takanori Nakao",
+          "Kensuke Shiozawa"
+        ]
+      },
+      {
+        "title": "Providing High Availability in Cloud Storage by Decreasing Virtual Machine Reboot Time.",
+        "authors": [
+          "Shehbaz Jaffer",
+          "Mangesh Chitnis",
+          "Ameya Usgaonkar"
+        ]
+      },
+      {
+        "title": "Understanding Reliability Implication of Hardware Error in Virtualization Infrastructure.",
+        "authors": [
+          "Xin Xu",
+          "H. Howie Huang"
+        ]
+      },
+      {
+        "title": "Towards General-Purpose Resource Management in Shared Cloud Services.",
+        "authors": [
+          "Jonathan Mace",
+          "Peter Bodík",
+          "Rodrigo Fonseca",
+          "Madanlal Musuvathi"
+        ]
+      },
+      {
+        "title": "Scalable BFT for Multi-Cores: Actor-Based Decomposition and Consensus-Oriented Parallelization.",
+        "authors": [
+          "Johannes Behl",
+          "Tobias Distler",
+          "Rüdiger Kapitza"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/osdi/osdi2012.html": {
     "header": "10th OSDI 2012: Hollywood, CA, USA",
     "year": "2012",
@@ -6107,6 +6107,84 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/osdi/slaml2010.html": {
+    "header": "9th OSDI 2010: Vancouver, BC, Canada - SLAML",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Optimizing Data Analysis with a Semi-structured Time Series Database.",
+        "authors": [
+          "Ledion Bitincka",
+          "Archana Ganapathi",
+          "Stephen Sorkin",
+          "Steve Zhang"
+        ]
+      },
+      {
+        "title": "Bridging the Gaps: Joining Information Sources with Splunk.",
+        "authors": [
+          "Jon Stearley",
+          "Sophia Corwell",
+          "Ken Lord"
+        ]
+      },
+      {
+        "title": "Experience Mining Google's Production Console Logs.",
+        "authors": [
+          "Wei Xu",
+          "Ling Huang",
+          "Michael I. Jordan"
+        ]
+      },
+      {
+        "title": "Analyzing Web Logs to Detect User-Visible Failures.",
+        "authors": [
+          "Wanchun Li",
+          "Ian Gorton"
+        ]
+      },
+      {
+        "title": "Synoptic: Summarizing System Logs with Refinement.",
+        "authors": [
+          "Sigurd Schneider",
+          "Ivan Beschastnikh",
+          "Slava Chernyak",
+          "Michael D. Ernst",
+          "Yuriy Brun"
+        ]
+      },
+      {
+        "title": "A Graphical Representation for Identifier Structure in Logs.",
+        "authors": [
+          "Ariel Rabkin",
+          "Wei Xu",
+          "Avani Wildani",
+          "Armando Fox",
+          "David A. Patterson",
+          "Randy H. Katz"
+        ]
+      },
+      {
+        "title": "SIP CLF: A Common Log Format (CLF) for the Session Initiation Protocol (SIP).",
+        "authors": [
+          "Vijay K. Gurbani",
+          "Eric William Burger",
+          "Carol Davids",
+          "Tricha Anjali"
+        ]
+      },
+      {
+        "title": "Creating the Knowledge about IT Events.",
+        "authors": [
+          "Gilad Barash",
+          "Ira Cohen",
+          "Eli Mordechai",
+          "Carl Staelin",
+          "Rafael Dakar"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/osdi/osdi2010.html": {
     "header": "9th OSDI 2010: Vancouver, BC, Canada",
     "year": "2010",
@@ -6422,80 +6500,230 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/osdi/slaml2010.html": {
-    "header": "9th OSDI 2010: Vancouver, BC, Canada - SLAML",
-    "year": "2010",
+  "https://dblp.org/db/conf/osdi/wiov2008.html": {
+    "header": "8th OSDI 2008: San Diego, California, USA - Workshop on I/O Virtualization",
+    "year": "2008",
     "papers": [
       {
-        "title": "Optimizing Data Analysis with a Semi-structured Time Series Database.",
+        "title": "Towards Virtual Passthrough I/O on Commodity Devices.",
         "authors": [
-          "Ledion Bitincka",
-          "Archana Ganapathi",
-          "Stephen Sorkin",
-          "Steve Zhang"
+          "Lei Xia",
+          "Jack Lange",
+          "Peter A. Dinda"
         ]
       },
       {
-        "title": "Bridging the Gaps: Joining Information Sources with Splunk.",
+        "title": "Live Migration of Direct-Access Devices.",
         "authors": [
-          "Jon Stearley",
-          "Sophia Corwell",
-          "Ken Lord"
+          "Asim Kadav",
+          "Michael M. Swift"
         ]
       },
       {
-        "title": "Experience Mining Google's Production Console Logs.",
+        "title": "Scalable I/O - A Well-Architected Way to Do Scalable, Secure and Virtualized I/O.",
+        "authors": [
+          "Julian Satran",
+          "Leah Shalev",
+          "Muli Ben-Yehuda",
+          "Zorik Machulsky"
+        ]
+      },
+      {
+        "title": "Block Mason.",
+        "authors": [
+          "Dutch T. Meyer",
+          "Brendan Cully",
+          "Jake Wires",
+          "Norman C. Hutchinson",
+          "Andrew Warfield"
+        ]
+      },
+      {
+        "title": "Experiences with Content Addressable Storage and Virtual Disks.",
+        "authors": [
+          "Anthony Liguori",
+          "Eric Van Hensbergen"
+        ]
+      },
+      {
+        "title": "Paravirtualized Paging.",
+        "authors": [
+          "Daniel J. Magenheimer",
+          "Chris Mason",
+          "Dave McCracken",
+          "Kurt Hackel"
+        ]
+      },
+      {
+        "title": "GPU Virtualization on VMware's Hosted I/O Architecture.",
+        "authors": [
+          "Micah Dowty",
+          "Jeremy Sugerman"
+        ]
+      },
+      {
+        "title": "Taming Heterogeneous NIC Capabilities for I/O Virtualization.",
+        "authors": [
+          "Jose Renato Santos",
+          "Yoshio Turner",
+          "Jayaram Mudigonda"
+        ]
+      },
+      {
+        "title": "Standardized But Flexible I/O for Self-Virtualizing Devices.",
+        "authors": [
+          "Joshua LeVasseur",
+          "Ramu Panayappan",
+          "Espen Skoglund",
+          "Christo du Toit",
+          "Leon Lynch",
+          "Alex Ward",
+          "Dulloor Rao",
+          "Rolf Neugebauer",
+          "Derek McAuley"
+        ]
+      },
+      {
+        "title": "SR-IOV Networking in Xen: Architecture, Design and Implementation.",
+        "authors": [
+          "Yaozu Dong",
+          "Zhao Yu",
+          "Greg Rose"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/osdi/wasl2008.html": {
+    "header": "8th OSDI 2008: San Diego, California, USA - WASL",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "CLUEBOX: A Performance Log Analyzer for Automated Troubleshooting.",
+        "authors": [
+          "S. Ratna Sandeep",
+          "M. Swapna",
+          "Thirumale Niranjan",
+          "Sai Susarla",
+          "Siddhartha Nandi"
+        ]
+      },
+      {
+        "title": "Hunting for Problems with Artemis.",
+        "authors": [
+          "Gabriela F. Cretu-Ciocarlie",
+          "Mihai Budiu",
+          "Moisés Goldszmidt"
+        ]
+      },
+      {
+        "title": "Picviz: Finding a Needle in a Haystack.",
+        "authors": [
+          "Sébastien Tricaud"
+        ]
+      },
+      {
+        "title": "Error Log Processing for Accurate Failure Prediction.",
+        "authors": [
+          "Felix Salfner",
+          "Steffen Tschirpke"
+        ]
+      },
+      {
+        "title": "Predicting Computer System Failures Using Support Vector Machines.",
+        "authors": [
+          "Errin W. Fulp",
+          "Glenn A. Fink",
+          "Jereme N. Haack"
+        ]
+      },
+      {
+        "title": "SALSA: Analyzing Logs as StAte Machines.",
+        "authors": [
+          "Jiaqi Tan",
+          "Xinghao Pan",
+          "Soila Kavulya",
+          "Rajeev Gandhi",
+          "Priya Narasimhan"
+        ]
+      },
+      {
+        "title": "Disk Drive Workload Captured in Logs Collected During the Field Return Incoming Test.",
+        "authors": [
+          "Alma Riska",
+          "Erik Riedel"
+        ]
+      },
+      {
+        "title": "Carnegie Mellon's CyDAT: Harnessing a Wide Array of Telemetry Data to Enhance Distributed System Diagnostics.",
+        "authors": [
+          "Chas DiFatta",
+          "Mark Poepping",
+          "Daniel V. Klein"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/osdi/sysml2008.html": {
+    "header": "8th OSDI 2008: San Diego, California, USA - SysML",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Finding Similar Failures Using Callstack Similarity.",
+        "authors": [
+          "Kevin Bartz",
+          "Jack W. Stokes",
+          "John C. Platt",
+          "Ryan Kivett",
+          "David Grant",
+          "Silviu Calinoiu",
+          "Gretchen Loihle"
+        ]
+      },
+      {
+        "title": "Empirical Comparison of Techniques for Automated Failure Diagnosis.",
+        "authors": [
+          "Songyun Duan",
+          "Shivnath Babu"
+        ]
+      },
+      {
+        "title": "HiLighter: Automatically Building Robust Signatures of Performance Behavior for Small- and Large-Scale Systems.",
+        "authors": [
+          "Peter Bodík",
+          "Moisés Goldszmidt",
+          "Armando Fox"
+        ]
+      },
+      {
+        "title": "Mining Console Logs for Large-Scale System Problem Detection.",
         "authors": [
           "Wei Xu",
           "Ling Huang",
+          "Armando Fox",
+          "David A. Patterson",
           "Michael I. Jordan"
         ]
       },
       {
-        "title": "Analyzing Web Logs to Detect User-Visible Failures.",
+        "title": "An Internet Protocol Address Clustering Algorithm.",
         "authors": [
-          "Wanchun Li",
-          "Ian Gorton"
+          "Robert Beverly",
+          "Karen R. Sollins"
         ]
       },
       {
-        "title": "Synoptic: Summarizing System Logs with Refinement.",
+        "title": "Probabilistic Inference in Queueing Networks.",
         "authors": [
-          "Sigurd Schneider",
-          "Ivan Beschastnikh",
-          "Slava Chernyak",
-          "Michael D. Ernst",
-          "Yuriy Brun"
+          "Charles Sutton",
+          "Michael I. Jordan"
         ]
       },
       {
-        "title": "A Graphical Representation for Identifier Structure in Logs.",
+        "title": "From Optimization to Regret Minimization and Back Again.",
         "authors": [
-          "Ariel Rabkin",
-          "Wei Xu",
-          "Avani Wildani",
-          "Armando Fox",
-          "David A. Patterson",
-          "Randy H. Katz"
-        ]
-      },
-      {
-        "title": "SIP CLF: A Common Log Format (CLF) for the Session Initiation Protocol (SIP).",
-        "authors": [
-          "Vijay K. Gurbani",
-          "Eric William Burger",
-          "Carol Davids",
-          "Tricha Anjali"
-        ]
-      },
-      {
-        "title": "Creating the Knowledge about IT Events.",
-        "authors": [
-          "Gilad Barash",
-          "Ira Cohen",
-          "Eli Mordechai",
-          "Carl Staelin",
-          "Rafael Dakar"
+          "Ioannis C. Avramopoulos",
+          "Jennifer Rexford",
+          "Robert E. Schapire"
         ]
       }
     ]
@@ -6770,141 +6998,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/osdi/sysml2008.html": {
-    "header": "8th OSDI 2008: San Diego, California, USA - SysML",
-    "year": "2008",
-    "papers": [
-      {
-        "title": "Finding Similar Failures Using Callstack Similarity.",
-        "authors": [
-          "Kevin Bartz",
-          "Jack W. Stokes",
-          "John C. Platt",
-          "Ryan Kivett",
-          "David Grant",
-          "Silviu Calinoiu",
-          "Gretchen Loihle"
-        ]
-      },
-      {
-        "title": "Empirical Comparison of Techniques for Automated Failure Diagnosis.",
-        "authors": [
-          "Songyun Duan",
-          "Shivnath Babu"
-        ]
-      },
-      {
-        "title": "HiLighter: Automatically Building Robust Signatures of Performance Behavior for Small- and Large-Scale Systems.",
-        "authors": [
-          "Peter Bodík",
-          "Moisés Goldszmidt",
-          "Armando Fox"
-        ]
-      },
-      {
-        "title": "Mining Console Logs for Large-Scale System Problem Detection.",
-        "authors": [
-          "Wei Xu",
-          "Ling Huang",
-          "Armando Fox",
-          "David A. Patterson",
-          "Michael I. Jordan"
-        ]
-      },
-      {
-        "title": "An Internet Protocol Address Clustering Algorithm.",
-        "authors": [
-          "Robert Beverly",
-          "Karen R. Sollins"
-        ]
-      },
-      {
-        "title": "Probabilistic Inference in Queueing Networks.",
-        "authors": [
-          "Charles Sutton",
-          "Michael I. Jordan"
-        ]
-      },
-      {
-        "title": "From Optimization to Regret Minimization and Back Again.",
-        "authors": [
-          "Ioannis C. Avramopoulos",
-          "Jennifer Rexford",
-          "Robert E. Schapire"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/osdi/wasl2008.html": {
-    "header": "8th OSDI 2008: San Diego, California, USA - WASL",
-    "year": "2008",
-    "papers": [
-      {
-        "title": "CLUEBOX: A Performance Log Analyzer for Automated Troubleshooting.",
-        "authors": [
-          "S. Ratna Sandeep",
-          "M. Swapna",
-          "Thirumale Niranjan",
-          "Sai Susarla",
-          "Siddhartha Nandi"
-        ]
-      },
-      {
-        "title": "Hunting for Problems with Artemis.",
-        "authors": [
-          "Gabriela F. Cretu-Ciocarlie",
-          "Mihai Budiu",
-          "Moisés Goldszmidt"
-        ]
-      },
-      {
-        "title": "Picviz: Finding a Needle in a Haystack.",
-        "authors": [
-          "Sébastien Tricaud"
-        ]
-      },
-      {
-        "title": "Error Log Processing for Accurate Failure Prediction.",
-        "authors": [
-          "Felix Salfner",
-          "Steffen Tschirpke"
-        ]
-      },
-      {
-        "title": "Predicting Computer System Failures Using Support Vector Machines.",
-        "authors": [
-          "Errin W. Fulp",
-          "Glenn A. Fink",
-          "Jereme N. Haack"
-        ]
-      },
-      {
-        "title": "SALSA: Analyzing Logs as StAte Machines.",
-        "authors": [
-          "Jiaqi Tan",
-          "Xinghao Pan",
-          "Soila Kavulya",
-          "Rajeev Gandhi",
-          "Priya Narasimhan"
-        ]
-      },
-      {
-        "title": "Disk Drive Workload Captured in Logs Collected During the Field Return Incoming Test.",
-        "authors": [
-          "Alma Riska",
-          "Erik Riedel"
-        ]
-      },
-      {
-        "title": "Carnegie Mellon's CyDAT: Harnessing a Wide Array of Telemetry Data to Enhance Distributed System Diagnostics.",
-        "authors": [
-          "Chas DiFatta",
-          "Mark Poepping",
-          "Daniel V. Klein"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/osdi/hotpower2008.html": {
     "header": "8th OSDI 2008: San Diego, California, USA - HotPower",
     "year": "2008",
@@ -7106,99 +7199,6 @@
           "Justin Cappos",
           "Andrew Baumann",
           "Timothy Roscoe"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/osdi/wiov2008.html": {
-    "header": "8th OSDI 2008: San Diego, California, USA - Workshop on I/O Virtualization",
-    "year": "2008",
-    "papers": [
-      {
-        "title": "Towards Virtual Passthrough I/O on Commodity Devices.",
-        "authors": [
-          "Lei Xia",
-          "Jack Lange",
-          "Peter A. Dinda"
-        ]
-      },
-      {
-        "title": "Live Migration of Direct-Access Devices.",
-        "authors": [
-          "Asim Kadav",
-          "Michael M. Swift"
-        ]
-      },
-      {
-        "title": "Scalable I/O - A Well-Architected Way to Do Scalable, Secure and Virtualized I/O.",
-        "authors": [
-          "Julian Satran",
-          "Leah Shalev",
-          "Muli Ben-Yehuda",
-          "Zorik Machulsky"
-        ]
-      },
-      {
-        "title": "Block Mason.",
-        "authors": [
-          "Dutch T. Meyer",
-          "Brendan Cully",
-          "Jake Wires",
-          "Norman C. Hutchinson",
-          "Andrew Warfield"
-        ]
-      },
-      {
-        "title": "Experiences with Content Addressable Storage and Virtual Disks.",
-        "authors": [
-          "Anthony Liguori",
-          "Eric Van Hensbergen"
-        ]
-      },
-      {
-        "title": "Paravirtualized Paging.",
-        "authors": [
-          "Daniel J. Magenheimer",
-          "Chris Mason",
-          "Dave McCracken",
-          "Kurt Hackel"
-        ]
-      },
-      {
-        "title": "GPU Virtualization on VMware's Hosted I/O Architecture.",
-        "authors": [
-          "Micah Dowty",
-          "Jeremy Sugerman"
-        ]
-      },
-      {
-        "title": "Taming Heterogeneous NIC Capabilities for I/O Virtualization.",
-        "authors": [
-          "Jose Renato Santos",
-          "Yoshio Turner",
-          "Jayaram Mudigonda"
-        ]
-      },
-      {
-        "title": "Standardized But Flexible I/O for Self-Virtualizing Devices.",
-        "authors": [
-          "Joshua LeVasseur",
-          "Ramu Panayappan",
-          "Espen Skoglund",
-          "Christo du Toit",
-          "Leon Lynch",
-          "Alex Ward",
-          "Dulloor Rao",
-          "Rolf Neugebauer",
-          "Derek McAuley"
-        ]
-      },
-      {
-        "title": "SR-IOV Networking in Xen: Architecture, Design and Implementation.",
-        "authors": [
-          "Yaozu Dong",
-          "Zhao Yu",
-          "Greg Rose"
         ]
       }
     ]
@@ -7644,6 +7644,115 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/osdi/worlds2004.html": {
+    "header": "WORLDS@OSDI 2004: San Francisco, California, USA",
+    "year": "2004",
+    "papers": [
+      {
+        "title": "Deploying Large File Transfer on an HTTP Content Distribution Network.",
+        "authors": [
+          "KyoungSoo Park",
+          "Vivek S. Pai"
+        ]
+      },
+      {
+        "title": "Towards a Deployable IP Anycast Service.",
+        "authors": [
+          "Hitesh Ballani",
+          "Paul Francis"
+        ]
+      },
+      {
+        "title": "DISC: A System for Distributed Data Intensive Scientific Computing.",
+        "authors": [
+          "George Kola",
+          "Tevfik Kosar",
+          "Jaime Frey",
+          "Miron Livny",
+          "Robert Brunner",
+          "Michael Remijan"
+        ]
+      },
+      {
+        "title": "Deployment of a Large-scale Peer-to-Peer Social Network.",
+        "authors": [
+          "Mao Yang",
+          "Hua Chen",
+          "Ben Y. Zhao",
+          "Yafei Dai",
+          "Zheng Zhang"
+        ]
+      },
+      {
+        "title": "The Seven Deadly Sins of Distributed Systems.",
+        "authors": [
+          "Steve Muir"
+        ]
+      },
+      {
+        "title": "Beyond Availability: Towards a Deeper Understanding of Machine Failure Characteristics in Large Distributed Systems.",
+        "authors": [
+          "Praveen Yalagandula",
+          "Suman Nath"
+        ]
+      },
+      {
+        "title": "Lessons from E-speak.",
+        "authors": [
+          "Alan H. Karp"
+        ]
+      },
+      {
+        "title": "Design Considerations for Information Planes.",
+        "authors": [
+          "Brent N. Chun",
+          "Joseph M. Hellerstein"
+        ]
+      },
+      {
+        "title": "A Shared Global Event Propagation System to Enable Next Generation Distributed Services.",
+        "authors": [
+          "Paul Brett",
+          "Rob C. Knauerhase"
+        ]
+      },
+      {
+        "title": "Distributed Resource Discovery on PlanetLab with SWORD.",
+        "authors": [
+          "David Oppenheimer",
+          "Jeannie R. Albrecht",
+          "David A. Patterson",
+          "Amin Vahdat"
+        ]
+      },
+      {
+        "title": "Global-scale Service Deployment in the XenoServer Platform.",
+        "authors": [
+          "Evangelos Kotsovinos",
+          "Tim D. Moreton",
+          "Ian Pratt",
+          "Russ Ross",
+          "Keir Fraser",
+          "Steven Hand",
+          "Tim Harris"
+        ]
+      },
+      {
+        "title": "Safely Harnessing Wide Area Surrogate Computing or How to Avoid Building the Perfect Platform for Network Attacks.",
+        "authors": [
+          "Sachin Goyal",
+          "John Carter"
+        ]
+      },
+      {
+        "title": "Implementing the Emulab-PlanetLab Portal: Experience and Lessons Learned.",
+        "authors": [
+          "Kirk Webb",
+          "Mike Hibler"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/osdi/osdi2004.html": {
     "header": "6th OSDI 2004: San Francisco, California, USA",
     "year": "2004",
@@ -7893,115 +8002,6 @@
           "Chris Gniady",
           "Ali Raza Butt",
           "Y. Charlie Hu"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/osdi/worlds2004.html": {
-    "header": "WORLDS@OSDI 2004: San Francisco, California, USA",
-    "year": "2004",
-    "papers": [
-      {
-        "title": "Deploying Large File Transfer on an HTTP Content Distribution Network.",
-        "authors": [
-          "KyoungSoo Park",
-          "Vivek S. Pai"
-        ]
-      },
-      {
-        "title": "Towards a Deployable IP Anycast Service.",
-        "authors": [
-          "Hitesh Ballani",
-          "Paul Francis"
-        ]
-      },
-      {
-        "title": "DISC: A System for Distributed Data Intensive Scientific Computing.",
-        "authors": [
-          "George Kola",
-          "Tevfik Kosar",
-          "Jaime Frey",
-          "Miron Livny",
-          "Robert Brunner",
-          "Michael Remijan"
-        ]
-      },
-      {
-        "title": "Deployment of a Large-scale Peer-to-Peer Social Network.",
-        "authors": [
-          "Mao Yang",
-          "Hua Chen",
-          "Ben Y. Zhao",
-          "Yafei Dai",
-          "Zheng Zhang"
-        ]
-      },
-      {
-        "title": "The Seven Deadly Sins of Distributed Systems.",
-        "authors": [
-          "Steve Muir"
-        ]
-      },
-      {
-        "title": "Beyond Availability: Towards a Deeper Understanding of Machine Failure Characteristics in Large Distributed Systems.",
-        "authors": [
-          "Praveen Yalagandula",
-          "Suman Nath"
-        ]
-      },
-      {
-        "title": "Lessons from E-speak.",
-        "authors": [
-          "Alan H. Karp"
-        ]
-      },
-      {
-        "title": "Design Considerations for Information Planes.",
-        "authors": [
-          "Brent N. Chun",
-          "Joseph M. Hellerstein"
-        ]
-      },
-      {
-        "title": "A Shared Global Event Propagation System to Enable Next Generation Distributed Services.",
-        "authors": [
-          "Paul Brett",
-          "Rob C. Knauerhase"
-        ]
-      },
-      {
-        "title": "Distributed Resource Discovery on PlanetLab with SWORD.",
-        "authors": [
-          "David Oppenheimer",
-          "Jeannie R. Albrecht",
-          "David A. Patterson",
-          "Amin Vahdat"
-        ]
-      },
-      {
-        "title": "Global-scale Service Deployment in the XenoServer Platform.",
-        "authors": [
-          "Evangelos Kotsovinos",
-          "Tim D. Moreton",
-          "Ian Pratt",
-          "Russ Ross",
-          "Keir Fraser",
-          "Steven Hand",
-          "Tim Harris"
-        ]
-      },
-      {
-        "title": "Safely Harnessing Wide Area Surrogate Computing or How to Avoid Building the Perfect Platform for Network Attacks.",
-        "authors": [
-          "Sachin Goyal",
-          "John Carter"
-        ]
-      },
-      {
-        "title": "Implementing the Emulab-PlanetLab Portal: Experience and Lessons Learned.",
-        "authors": [
-          "Kirk Webb",
-          "Mike Hibler"
         ]
       }
     ]

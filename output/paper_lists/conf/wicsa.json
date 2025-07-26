@@ -1,45 +1,4 @@
 {
-  "https://dblp.org/db/conf/wicsa/qrasa2016.html": {
-    "header": "QRASA@WICSA 2016: Venice, Italy",
-    "year": "2016",
-    "papers": [
-      {
-        "title": "Rule Type Based Reasoning on Architecture Violations: A Case Study.",
-        "authors": [
-          "Leo Pruijt",
-          "Wiebe Wiersema",
-          "Jan Martijn E. M. van der Werf",
-          "Sjaak Brinkkemper"
-        ]
-      },
-      {
-        "title": "Rigorous Architectural Reasoning for Self-Adaptive Software Systems.",
-        "authors": [
-          "Nadeem Abbas",
-          "Jesper Andersson",
-          "Muhammad Usman Iftikhar",
-          "Danny Weyns"
-        ]
-      },
-      {
-        "title": "Reflective Approach for Software Design Decision Making.",
-        "authors": [
-          "Maryam Razavian",
-          "Antony Tang",
-          "Rafael Capilla",
-          "Patricia Lago"
-        ]
-      },
-      {
-        "title": "Architectural Patterns and Quality Attributes Interaction.",
-        "authors": [
-          "Gianantonio Me",
-          "Coral Calero",
-          "Patricia Lago"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/wicsa/wicsa2016.html": {
     "header": "13th WICSA 2016: Venice, Italy",
     "year": "2016",
@@ -440,6 +399,47 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/wicsa/qrasa2016.html": {
+    "header": "QRASA@WICSA 2016: Venice, Italy",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "Rule Type Based Reasoning on Architecture Violations: A Case Study.",
+        "authors": [
+          "Leo Pruijt",
+          "Wiebe Wiersema",
+          "Jan Martijn E. M. van der Werf",
+          "Sjaak Brinkkemper"
+        ]
+      },
+      {
+        "title": "Rigorous Architectural Reasoning for Self-Adaptive Software Systems.",
+        "authors": [
+          "Nadeem Abbas",
+          "Jesper Andersson",
+          "Muhammad Usman Iftikhar",
+          "Danny Weyns"
+        ]
+      },
+      {
+        "title": "Reflective Approach for Software Design Decision Making.",
+        "authors": [
+          "Maryam Razavian",
+          "Antony Tang",
+          "Rafael Capilla",
+          "Patricia Lago"
+        ]
+      },
+      {
+        "title": "Architectural Patterns and Quality Attributes Interaction.",
+        "authors": [
+          "Gianantonio Me",
+          "Coral Calero",
+          "Patricia Lago"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/wicsa/march2016.html": {
     "header": "MARCH@WICSA 2016: Venice, Italy",
     "year": "2016",
@@ -671,6 +671,135 @@
           "Florian Haupt",
           "Frank Leymann",
           "Cesare Pautasso"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/wicsa/wicsac2014.html": {
+    "header": "11th WICSA 2014: Sydney, NSW, Australia - Companion Volume",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Towards a pattern language for self-adaptation of cloud-based architectures.",
+        "authors": [
+          "Aakash Ahmad",
+          "Muhammad Ali Babar"
+        ]
+      },
+      {
+        "title": "On improving the dependability of cloud applications with fault-tolerance.",
+        "authors": [
+          "Foutse Khomh"
+        ]
+      },
+      {
+        "title": "A security reference architecture for cloud systems.",
+        "authors": [
+          "Eduardo B. Fernández",
+          "Raúl Monge"
+        ]
+      },
+      {
+        "title": "Empirical evaluation of the understandability of architectural component diagrams.",
+        "authors": [
+          "Srdjan Stevanetic",
+          "Muhammad Atif Javed",
+          "Uwe Zdun"
+        ]
+      },
+      {
+        "title": "Towards quantitative metrics for architecture models.",
+        "authors": [
+          "Stephan Sehestedt",
+          "Chih-Hong Cheng",
+          "Eric Bouwers"
+        ]
+      },
+      {
+        "title": "Runtime verification of state machines and defect localization applying model-based testing.",
+        "authors": [
+          "Mehrdad Saadatmand",
+          "Detlef Scholle",
+          "Cheuk Wing Leung",
+          "Sebastian Ullström",
+          "Joanna Fredriksson Larsson"
+        ]
+      },
+      {
+        "title": "A framework for architecture-driven migration of legacy systems to cloud-enabled software.",
+        "authors": [
+          "Aakash Ahmad",
+          "Muhammad Ali Babar"
+        ]
+      },
+      {
+        "title": "A metamodel for the support of semantically rich modular architectures in the context of static architecture compliance checking.",
+        "authors": [
+          "Leo Pruijt",
+          "Sjaak Brinkkemper"
+        ]
+      },
+      {
+        "title": "Towards flexible automated software architecture erosion diagnosis and treatment.",
+        "authors": [
+          "Matthias Mair",
+          "Sebastian Herold",
+          "Andreas Rausch"
+        ]
+      },
+      {
+        "title": "On bridging the gap between practice and vision for software architecture reconstruction and evolution: a toolbox perspective.",
+        "authors": [
+          "Ana Dragomir",
+          "M. Firdaus Harun",
+          "Horst Lichter"
+        ]
+      },
+      {
+        "title": "Modeling multiplicity and hierarchy in product line architectures: extending a decision-oriented approach.",
+        "authors": [
+          "Deepak Dhungana",
+          "Herwig Schreiner",
+          "Martin Lehofer",
+          "Michael Vierhauser",
+          "Rick Rabiser",
+          "Paul Grünbacher"
+        ]
+      },
+      {
+        "title": "Architectural bad smells in software product lines: an exploratory study.",
+        "authors": [
+          "Hugo Sica de Andrade",
+          "Eduardo Santana de Almeida",
+          "Ivica Crnkovic"
+        ]
+      },
+      {
+        "title": "Composition of applications based on software product lines using architecture fragments and component sets.",
+        "authors": [
+          "Marco Körner",
+          "Sebastian Herold",
+          "Andreas Rausch"
+        ]
+      },
+      {
+        "title": "Variability viewpoint to describe reference architectures.",
+        "authors": [
+          "Milena Guessi",
+          "Flávio Oquendo",
+          "Elisa Yumi Nakagawa"
+        ]
+      },
+      {
+        "title": "An architecture design method for critical embedded systems.",
+        "authors": [
+          "Daniel Feitosa"
+        ]
+      },
+      {
+        "title": "A reference architecture for providing tools as a service to support global software development.",
+        "authors": [
+          "Muhammad Aufeef Chauhan"
         ]
       }
     ]
@@ -977,131 +1106,288 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/wicsa/wicsac2014.html": {
-    "header": "11th WICSA 2014: Sydney, NSW, Australia - Companion Volume",
-    "year": "2014",
+  "https://dblp.org/db/conf/wicsa/wicsac2012.html": {
+    "header": "10th WICSA / 6. ECSA 2012: Helsinki, Finland - Companion Volume",
+    "year": "2012",
     "papers": [
       {
-        "title": "Towards a pattern language for self-adaptation of cloud-based architectures.",
+        "title": "Nordic Symposium on Cloud Computing and Internet Technologies (NordiCloud).",
         "authors": [
-          "Aakash Ahmad",
+          "Muhammad Ali Babar",
+          "Parastoo Mohagheghi",
+          "Åke Edlund",
+          "Sébastien Mosser",
+          "Tommi Mikkonen",
+          "Peep Küngas"
+        ]
+      },
+      {
+        "title": "Cloud infrastructure for providing tools as a service: quality attributes and potential solutions.",
+        "authors": [
+          "Muhammad Aufeef Chauhan",
           "Muhammad Ali Babar"
         ]
       },
       {
-        "title": "On improving the dependability of cloud applications with fault-tolerance.",
+        "title": "Elements for a cloud-based development environment: online collaboration, revision control, and continuous integration.",
         "authors": [
-          "Foutse Khomh"
+          "Tommi Mikkonen",
+          "Antti Nieminen"
         ]
       },
       {
-        "title": "A security reference architecture for cloud systems.",
+        "title": "An architecture framework for application-managed scaling of cloud-hosted relational databases.",
         "authors": [
-          "Eduardo B. Fernández",
-          "Raúl Monge"
+          "Liang Zhao",
+          "Sherif Sakr",
+          "Liming Zhu",
+          "Xiwei Xu",
+          "Anna Liu"
         ]
       },
       {
-        "title": "Empirical evaluation of the understandability of architectural component diagrams.",
+        "title": "Message-driven FP-growth.",
         "authors": [
-          "Srdjan Stevanetic",
-          "Muhammad Atif Javed",
-          "Uwe Zdun"
+          "Jan Neerbek"
         ]
       },
       {
-        "title": "Towards quantitative metrics for architecture models.",
+        "title": "Delivering ICT infrastructure for biomedical research.",
         "authors": [
-          "Stephan Sehestedt",
-          "Chih-Hong Cheng",
-          "Eric Bouwers"
+          "Tommi H. Nyrönen",
+          "Jarno Laitinen",
+          "Olli Tourunen",
+          "Danny Sternkopf",
+          "Risto Laurikainen",
+          "Per Öster",
+          "Pekka T. Lehtovuori",
+          "Timo A. Miettinen",
+          "Tomi Simonen",
+          "Teemu Perheentupa",
+          "Imre Vastrik",
+          "Olli-P. Kallioniemi",
+          "Andrew Lyall",
+          "Janet M. Thornton"
         ]
       },
       {
-        "title": "Runtime verification of state machines and defect localization applying model-based testing.",
+        "title": "Does cloud computing deliver the promised benefits for IT industry?",
         "authors": [
-          "Mehrdad Saadatmand",
-          "Detlef Scholle",
-          "Cheuk Wing Leung",
-          "Sebastian Ullström",
-          "Joanna Fredriksson Larsson"
+          "Nattakarn Phaphoom",
+          "Nilay V. Oza",
+          "Xiaofeng Wang",
+          "Pekka Abrahamsson"
         ]
       },
       {
-        "title": "A framework for architecture-driven migration of legacy systems to cloud-enabled software.",
+        "title": "Framework for monitoring and testing web application scalability on the cloud.",
+        "authors": [
+          "Martti Vasar",
+          "Satish Narayana Srirama",
+          "Marlon Dumas"
+        ]
+      },
+      {
+        "title": "A lean and mean strategy for migration to services.",
+        "authors": [
+          "Maryam Razavian",
+          "Patricia Lago"
+        ]
+      },
+      {
+        "title": "A first account on stigmergic information systems and their impact on platform development.",
+        "authors": [
+          "Juergen Musil",
+          "Angelika Musil",
+          "Dietmar Winkler",
+          "Stefan Biffl"
+        ]
+      },
+      {
+        "title": "Enough about standardization, let's build cloud applications.",
+        "authors": [
+          "Javier Miranda",
+          "Joaquín Guillén",
+          "Juan Manuel Murillo",
+          "Carlos Canal"
+        ]
+      },
+      {
+        "title": "Towards bridging the communication gap between consumers and providers in the cloud.",
+        "authors": [
+          "Irina Todoran",
+          "Martin Glinz"
+        ]
+      },
+      {
+        "title": "Towards component-based software engineering of cloud applications.",
+        "authors": [
+          "Dana Petcu",
+          "Calin Sandru"
+        ]
+      },
+      {
+        "title": "myTrustedCloud: trusted cloud infrastructure for security-critical computation and data management.",
+        "authors": [
+          "David Wallom",
+          "Matteo Turilli",
+          "Andrew P. Martin",
+          "Anbang Ruan",
+          "Gareth A. Taylor",
+          "Nigel Hargreaves",
+          "Alan McMoran"
+        ]
+      },
+      {
+        "title": "Software architecture tool demonstrations.",
+        "authors": [
+          "Henry Muccini",
+          "Bedir Tekinerdogan"
+        ]
+      },
+      {
+        "title": "VULCAN: architecture-model-based software development workbench.",
+        "authors": [
+          "Hyesun Lee",
+          "Jin-seok Yang",
+          "Kyo Chul Kang"
+        ]
+      },
+      {
+        "title": "Workshop on SHAring and Reusing architectural Knowledge (SHARK 2012).",
+        "authors": [
+          "Uwe Zdun",
+          "Rafael Capilla"
+        ]
+      },
+      {
+        "title": "\"Just-in-time\" architectural knowledge for developers.",
+        "authors": [
+          "Thorsten Keuler"
+        ]
+      },
+      {
+        "title": "Architectural decision identification in architectural patterns.",
+        "authors": [
+          "Olaf Zimmermann"
+        ]
+      },
+      {
+        "title": "A reference architecture template for software-intensive embedded systems.",
+        "authors": [
+          "Ulrik Eklund",
+          "Niklas Jonsson",
+          "Jan Bosch",
+          "Anders Eriksson"
+        ]
+      },
+      {
+        "title": "Aligning architecture knowledge management with Scrum.",
+        "authors": [
+          "Veli-Pekka Eloranta",
+          "Kai Koskimies"
+        ]
+      },
+      {
+        "title": "Graph-based implicit knowledge discovery from architecture change logs.",
         "authors": [
           "Aakash Ahmad",
-          "Muhammad Ali Babar"
+          "Pooyan Jamshidi",
+          "Muteer Arshad",
+          "Claus Pahl"
         ]
       },
       {
-        "title": "A metamodel for the support of semantically rich modular architectures in the context of static architecture compliance checking.",
+        "title": "A case study on co-evolution of software artifacts using integrated views.",
         "authors": [
-          "Leo Pruijt",
-          "Sjaak Brinkkemper"
+          "Martin Küster",
+          "Mircea Trifu"
         ]
       },
       {
-        "title": "Towards flexible automated software architecture erosion diagnosis and treatment.",
+        "title": "Second international workshop on variability in software architecture.",
         "authors": [
-          "Matthias Mair",
-          "Sebastian Herold",
-          "Andreas Rausch"
+          "Matthias Galster",
+          "Paris Avgeriou",
+          "Danny Weyns",
+          "Martin Becker"
         ]
       },
       {
-        "title": "On bridging the gap between practice and vision for software architecture reconstruction and evolution: a toolbox perspective.",
+        "title": "Modeling variability in product lines using domain quality attribute scenarios.",
         "authors": [
-          "Ana Dragomir",
-          "M. Firdaus Harun",
-          "Horst Lichter"
+          "Nadeem Abbas",
+          "Jesper Andersson",
+          "Danny Weyns"
         ]
       },
       {
-        "title": "Modeling multiplicity and hierarchy in product line architectures: extending a decision-oriented approach.",
+        "title": "The role of variability patterns in multi-tenant business software.",
         "authors": [
-          "Deepak Dhungana",
-          "Herwig Schreiner",
-          "Martin Lehofer",
-          "Michael Vierhauser",
-          "Rick Rabiser",
-          "Paul Grünbacher"
+          "Jaap Kabbedijk",
+          "Slinger Jansen"
         ]
       },
       {
-        "title": "Architectural bad smells in software product lines: an exploratory study.",
+        "title": "How variation changes when an embedded product ceases to be embedded?",
         "authors": [
-          "Hugo Sica de Andrade",
-          "Eduardo Santana de Almeida",
-          "Ivica Crnkovic"
+          "Juha Kuusela"
         ]
       },
       {
-        "title": "Composition of applications based on software product lines using architecture fragments and component sets.",
+        "title": "Configurator-as-a-service: tool support for deriving software architectures at runtime.",
         "authors": [
-          "Marco Körner",
-          "Sebastian Herold",
-          "Andreas Rausch"
+          "Varvana Myllärniemi",
+          "Mikko Ylikangas",
+          "Mikko Raatikainen",
+          "Jari Pääkkö",
+          "Tomi Männistö",
+          "Timo Aaltonen"
         ]
       },
       {
-        "title": "Variability viewpoint to describe reference architectures.",
+        "title": "Reference architectures and variability: current status and future perspectives.",
         "authors": [
-          "Milena Guessi",
-          "Flávio Oquendo",
           "Elisa Yumi Nakagawa"
         ]
       },
       {
-        "title": "An architecture design method for critical embedded systems.",
+        "title": "Variability viewpoint for introducing variability in software architecture viewpoints.",
         "authors": [
-          "Daniel Feitosa"
+          "Bedir Tekinerdogan",
+          "Hasan Sözer"
         ]
       },
       {
-        "title": "A reference architecture for providing tools as a service to support global software development.",
+        "title": "Architectures and platforms for knowledge discovery from data: workshop at WICSA/ECSA 2012.",
         "authors": [
-          "Muhammad Aufeef Chauhan"
+          "Edmon Begoli"
+        ]
+      },
+      {
+        "title": "Data management requirements for a knowledge discovery platform.",
+        "authors": [
+          "Liming Zhu",
+          "Len Bass",
+          "Xiwei Xu"
+        ]
+      },
+      {
+        "title": "Formal concept analysis for identifying mobile subscribers: a case study in a governmental transition project.",
+        "authors": [
+          "Pietu Pohjalainen"
+        ]
+      },
+      {
+        "title": "Unified analytics platform for big data.",
+        "authors": [
+          "Donald Miner"
+        ]
+      },
+      {
+        "title": "A short survey on the state of the art in architectures and platforms for large scale data analysis and knowledge discovery from data.",
+        "authors": [
+          "Edmon Begoli"
         ]
       }
     ]
@@ -1506,292 +1792,6 @@
           "Dimitri Van Landuyt",
           "Eddy Truyen",
           "Wouter Joosen"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/wicsa/wicsac2012.html": {
-    "header": "10th WICSA / 6. ECSA 2012: Helsinki, Finland - Companion Volume",
-    "year": "2012",
-    "papers": [
-      {
-        "title": "Nordic Symposium on Cloud Computing and Internet Technologies (NordiCloud).",
-        "authors": [
-          "Muhammad Ali Babar",
-          "Parastoo Mohagheghi",
-          "Åke Edlund",
-          "Sébastien Mosser",
-          "Tommi Mikkonen",
-          "Peep Küngas"
-        ]
-      },
-      {
-        "title": "Cloud infrastructure for providing tools as a service: quality attributes and potential solutions.",
-        "authors": [
-          "Muhammad Aufeef Chauhan",
-          "Muhammad Ali Babar"
-        ]
-      },
-      {
-        "title": "Elements for a cloud-based development environment: online collaboration, revision control, and continuous integration.",
-        "authors": [
-          "Tommi Mikkonen",
-          "Antti Nieminen"
-        ]
-      },
-      {
-        "title": "An architecture framework for application-managed scaling of cloud-hosted relational databases.",
-        "authors": [
-          "Liang Zhao",
-          "Sherif Sakr",
-          "Liming Zhu",
-          "Xiwei Xu",
-          "Anna Liu"
-        ]
-      },
-      {
-        "title": "Message-driven FP-growth.",
-        "authors": [
-          "Jan Neerbek"
-        ]
-      },
-      {
-        "title": "Delivering ICT infrastructure for biomedical research.",
-        "authors": [
-          "Tommi H. Nyrönen",
-          "Jarno Laitinen",
-          "Olli Tourunen",
-          "Danny Sternkopf",
-          "Risto Laurikainen",
-          "Per Öster",
-          "Pekka T. Lehtovuori",
-          "Timo A. Miettinen",
-          "Tomi Simonen",
-          "Teemu Perheentupa",
-          "Imre Vastrik",
-          "Olli-P. Kallioniemi",
-          "Andrew Lyall",
-          "Janet M. Thornton"
-        ]
-      },
-      {
-        "title": "Does cloud computing deliver the promised benefits for IT industry?",
-        "authors": [
-          "Nattakarn Phaphoom",
-          "Nilay V. Oza",
-          "Xiaofeng Wang",
-          "Pekka Abrahamsson"
-        ]
-      },
-      {
-        "title": "Framework for monitoring and testing web application scalability on the cloud.",
-        "authors": [
-          "Martti Vasar",
-          "Satish Narayana Srirama",
-          "Marlon Dumas"
-        ]
-      },
-      {
-        "title": "A lean and mean strategy for migration to services.",
-        "authors": [
-          "Maryam Razavian",
-          "Patricia Lago"
-        ]
-      },
-      {
-        "title": "A first account on stigmergic information systems and their impact on platform development.",
-        "authors": [
-          "Juergen Musil",
-          "Angelika Musil",
-          "Dietmar Winkler",
-          "Stefan Biffl"
-        ]
-      },
-      {
-        "title": "Enough about standardization, let's build cloud applications.",
-        "authors": [
-          "Javier Miranda",
-          "Joaquín Guillén",
-          "Juan Manuel Murillo",
-          "Carlos Canal"
-        ]
-      },
-      {
-        "title": "Towards bridging the communication gap between consumers and providers in the cloud.",
-        "authors": [
-          "Irina Todoran",
-          "Martin Glinz"
-        ]
-      },
-      {
-        "title": "Towards component-based software engineering of cloud applications.",
-        "authors": [
-          "Dana Petcu",
-          "Calin Sandru"
-        ]
-      },
-      {
-        "title": "myTrustedCloud: trusted cloud infrastructure for security-critical computation and data management.",
-        "authors": [
-          "David Wallom",
-          "Matteo Turilli",
-          "Andrew P. Martin",
-          "Anbang Ruan",
-          "Gareth A. Taylor",
-          "Nigel Hargreaves",
-          "Alan McMoran"
-        ]
-      },
-      {
-        "title": "Software architecture tool demonstrations.",
-        "authors": [
-          "Henry Muccini",
-          "Bedir Tekinerdogan"
-        ]
-      },
-      {
-        "title": "VULCAN: architecture-model-based software development workbench.",
-        "authors": [
-          "Hyesun Lee",
-          "Jin-seok Yang",
-          "Kyo Chul Kang"
-        ]
-      },
-      {
-        "title": "Workshop on SHAring and Reusing architectural Knowledge (SHARK 2012).",
-        "authors": [
-          "Uwe Zdun",
-          "Rafael Capilla"
-        ]
-      },
-      {
-        "title": "\"Just-in-time\" architectural knowledge for developers.",
-        "authors": [
-          "Thorsten Keuler"
-        ]
-      },
-      {
-        "title": "Architectural decision identification in architectural patterns.",
-        "authors": [
-          "Olaf Zimmermann"
-        ]
-      },
-      {
-        "title": "A reference architecture template for software-intensive embedded systems.",
-        "authors": [
-          "Ulrik Eklund",
-          "Niklas Jonsson",
-          "Jan Bosch",
-          "Anders Eriksson"
-        ]
-      },
-      {
-        "title": "Aligning architecture knowledge management with Scrum.",
-        "authors": [
-          "Veli-Pekka Eloranta",
-          "Kai Koskimies"
-        ]
-      },
-      {
-        "title": "Graph-based implicit knowledge discovery from architecture change logs.",
-        "authors": [
-          "Aakash Ahmad",
-          "Pooyan Jamshidi",
-          "Muteer Arshad",
-          "Claus Pahl"
-        ]
-      },
-      {
-        "title": "A case study on co-evolution of software artifacts using integrated views.",
-        "authors": [
-          "Martin Küster",
-          "Mircea Trifu"
-        ]
-      },
-      {
-        "title": "Second international workshop on variability in software architecture.",
-        "authors": [
-          "Matthias Galster",
-          "Paris Avgeriou",
-          "Danny Weyns",
-          "Martin Becker"
-        ]
-      },
-      {
-        "title": "Modeling variability in product lines using domain quality attribute scenarios.",
-        "authors": [
-          "Nadeem Abbas",
-          "Jesper Andersson",
-          "Danny Weyns"
-        ]
-      },
-      {
-        "title": "The role of variability patterns in multi-tenant business software.",
-        "authors": [
-          "Jaap Kabbedijk",
-          "Slinger Jansen"
-        ]
-      },
-      {
-        "title": "How variation changes when an embedded product ceases to be embedded?",
-        "authors": [
-          "Juha Kuusela"
-        ]
-      },
-      {
-        "title": "Configurator-as-a-service: tool support for deriving software architectures at runtime.",
-        "authors": [
-          "Varvana Myllärniemi",
-          "Mikko Ylikangas",
-          "Mikko Raatikainen",
-          "Jari Pääkkö",
-          "Tomi Männistö",
-          "Timo Aaltonen"
-        ]
-      },
-      {
-        "title": "Reference architectures and variability: current status and future perspectives.",
-        "authors": [
-          "Elisa Yumi Nakagawa"
-        ]
-      },
-      {
-        "title": "Variability viewpoint for introducing variability in software architecture viewpoints.",
-        "authors": [
-          "Bedir Tekinerdogan",
-          "Hasan Sözer"
-        ]
-      },
-      {
-        "title": "Architectures and platforms for knowledge discovery from data: workshop at WICSA/ECSA 2012.",
-        "authors": [
-          "Edmon Begoli"
-        ]
-      },
-      {
-        "title": "Data management requirements for a knowledge discovery platform.",
-        "authors": [
-          "Liming Zhu",
-          "Len Bass",
-          "Xiwei Xu"
-        ]
-      },
-      {
-        "title": "Formal concept analysis for identifying mobile subscribers: a case study in a governmental transition project.",
-        "authors": [
-          "Pietu Pohjalainen"
-        ]
-      },
-      {
-        "title": "Unified analytics platform for big data.",
-        "authors": [
-          "Donald Miner"
-        ]
-      },
-      {
-        "title": "A short survey on the state of the art in architectures and platforms for large scale data analysis and knowledge discovery from data.",
-        "authors": [
-          "Edmon Begoli"
         ]
       }
     ]

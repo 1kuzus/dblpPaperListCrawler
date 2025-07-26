@@ -2194,59 +2194,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/bodysys2023.html": {
-    "header": "BodySys@MobiSys 2023:\nHelsinki, Finland",
-    "year": "2023",
-    "papers": [
-      {
-        "title": "Assessment of Mental Workloads using Differential Dermal Potentials Recorded from in and around Ear.",
-        "authors": [
-          "Dibyanshu Jaiswal",
-          "Debatri Chatterjee",
-          "Arindam Sarkar",
-          "Meghana S",
-          "Ramesh Kumar Ramakrishnan",
-          "Arpan Pal",
-          "Ratna Ghosh"
-        ]
-      },
-      {
-        "title": "TinyPuff: Automated design of Tiny Smoking Puff Classifiers for Body Worn Devices.",
-        "authors": [
-          "Shalini Mukhopadhyay",
-          "Swarnava Dey",
-          "Avik Ghose"
-        ]
-      },
-      {
-        "title": "Towards Environment-Independent Activity Recognition Using Wi-Fi CSI with an Encoder-Decoder Network.",
-        "authors": [
-          "Yu Sugimoto",
-          "Hamada Rizk",
-          "Akira Uchiyama",
-          "Hirozumi Yamaguchi"
-        ]
-      },
-      {
-        "title": "Imputation of Human Mobility Data for Comprehensive Risk Models.",
-        "authors": [
-          "Shashee Kumari",
-          "Sakyajit Bhattacharya",
-          "Arnab Chatterjee",
-          "Avik Ghose"
-        ]
-      },
-      {
-        "title": "Ergonomical assessment using wearable motion capture system in dockworkers during lashing.",
-        "authors": [
-          "Sofia Scataglini",
-          "Lenie Denteneer",
-          "Nele Struyf",
-          "Steven Truijen"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/mobisys/dronet2023.html": {
     "header": "DroNet@MobiSys 2023:\nHelsinki, Finland",
     "year": "2023",
@@ -2321,175 +2268,55 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/bodysys2022.html": {
-    "header": "BodySys@MobiSys 2022: Portland, OR, USA",
-    "year": "2022",
+  "https://dblp.org/db/conf/mobisys/bodysys2023.html": {
+    "header": "BodySys@MobiSys 2023:\nHelsinki, Finland",
+    "year": "2023",
     "papers": [
       {
-        "title": "PetTrack: Tracking Pet Location and Activity Indoors.",
+        "title": "Assessment of Mental Workloads using Differential Dermal Potentials Recorded from in and around Ear.",
         "authors": [
-          "Neeraj Alavala",
-          "Haige Chen",
-          "Rishabh Singhal",
-          "Ashutosh Dhekne"
+          "Dibyanshu Jaiswal",
+          "Debatri Chatterjee",
+          "Arindam Sarkar",
+          "Meghana S",
+          "Ramesh Kumar Ramakrishnan",
+          "Arpan Pal",
+          "Ratna Ghosh"
         ]
       },
       {
-        "title": "Enabling Body-Centric Computing Applications with LED-to-Camera Communication.",
+        "title": "TinyPuff: Automated design of Tiny Smoking Puff Classifiers for Body Worn Devices.",
         "authors": [
-          "Omer Dalgic",
-          "Daniele Puccinelli",
-          "Marco Zuniga"
+          "Shalini Mukhopadhyay",
+          "Swarnava Dey",
+          "Avik Ghose"
         ]
       },
       {
-        "title": "Plantar Biometrics for Edge Computing.",
+        "title": "Towards Environment-Independent Activity Recognition Using Wi-Fi CSI with an Encoder-Decoder Network.",
         "authors": [
-          "Mads Stege",
-          "Charalampos Orfanidis",
-          "Xenofon Fafoutis"
+          "Yu Sugimoto",
+          "Hamada Rizk",
+          "Akira Uchiyama",
+          "Hirozumi Yamaguchi"
         ]
       },
       {
-        "title": "FinePose: Fine-Grained Postural Muscle Profiling via Haptic Vibration Signals.",
+        "title": "Imputation of Human Mobility Data for Comprehensive Risk Models.",
         "authors": [
-          "Shubham Rohal",
-          "Shreya Shriram",
-          "V. P. Nguyen",
-          "Shijia Pan"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/dronet2022.html": {
-    "header": "DroNet@MobiSys 2022: Portland, OR, USA",
-    "year": "2022",
-    "papers": [
-      {
-        "title": "ICCSwarm: A Framework for Integrated Communication and Control in UAV Swarms.",
-        "authors": [
-          "Jonathan Diller",
-          "Peter Hall",
-          "Corey Schanker",
-          "Kristen Ung",
-          "Philip Belous",
-          "Peter Russell",
-          "Qi Han"
+          "Shashee Kumari",
+          "Sakyajit Bhattacharya",
+          "Arnab Chatterjee",
+          "Avik Ghose"
         ]
       },
       {
-        "title": "Studying the Effect of Network Latency on an Adaptive Coordinated Path Planning Algorithm for UAV Platoons.",
+        "title": "Ergonomical assessment using wearable motion capture system in dockworkers during lashing.",
         "authors": [
-          "Baisakhi Chatterjee",
-          "Rudra Dutta"
-        ]
-      },
-      {
-        "title": "Enabling Self-Organizing TDMA Scheduling for Aerial Swarms.",
-        "authors": [
-          "Esin Ece Aydin",
-          "Omer Kara",
-          "Furkan Cakir",
-          "Berna Simsek Cansiz",
-          "Gokhan Secinti",
-          "Berk Canberk"
-        ]
-      },
-      {
-        "title": "Probabilistic Two-Ray Model for Air-to-Air Channel in Urban Drone Networks.",
-        "authors": [
-          "Zhuangzhuang Cui",
-          "Sofie Pollin",
-          "Zhangdui Zhong"
-        ]
-      },
-      {
-        "title": "Policy-based routing for Flying Adhoc Networks.",
-        "authors": [
-          "Florian Wiedner",
-          "Jonas Andre",
-          "Paulo Mendes",
-          "Georg Carle"
-        ]
-      },
-      {
-        "title": "Communication in a Drone-Platoon using Geographic Routing.",
-        "authors": [
-          "Tripti Samal",
-          "Rudra Dutta"
-        ]
-      },
-      {
-        "title": "AERPAW Vehicles: Hardware and Software Choices.",
-        "authors": [
-          "Mark Funderburk",
-          "John Kesler",
-          "Keshav Sridhar",
-          "Mihail L. Sichitiu",
-          "Ismail Güvenç",
-          "Rudra Dutta",
-          "Thomas Zajkowski",
-          "Vuk Marojevic"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/iasa2022.html": {
-    "header": "IASA@MobiSys 2022: Portland, OR, USA",
-    "year": "2022",
-    "papers": [
-      {
-        "title": "BuMA: Non-Intrusive Breathing Detection using Microphone Array.",
-        "authors": [
-          "Kaiyuan Hou",
-          "Stephen Xia",
-          "Xiaofan Jiang"
-        ]
-      },
-      {
-        "title": "Beyond Microphone: mmWave-Based Interference-Resilient Voice Activity Detection.",
-        "authors": [
-          "Muhammed Zahid Ozturk",
-          "Chenshu Wu",
-          "Beibei Wang",
-          "Min Wu",
-          "K. J. Ray Liu"
-        ]
-      },
-      {
-        "title": "VoiceFind: Noise-Resilient Speech Recovery in Commodity Headphones.",
-        "authors": [
-          "Irtaza Shahid",
-          "Yang Bai",
-          "Nakul Garg",
-          "Nirupam Roy"
-        ]
-      },
-      {
-        "title": "Speech Disfluency Detection with Contextual Representation and Data Distillation.",
-        "authors": [
-          "Payal Mohapatra",
-          "Akash Pandey",
-          "Bashima Islam",
-          "Qi Zhu"
-        ]
-      },
-      {
-        "title": "An Empirical Analysis of Perforated Audio Classification.",
-        "authors": [
-          "Mahathir Monjur",
-          "Shahriar Nirjon"
-        ]
-      },
-      {
-        "title": "Conversational AI Therapist for Daily Function Screening in Home Environments.",
-        "authors": [
-          "Jingping Nie",
-          "Hanya Shao",
-          "Minghui Zhao",
-          "Stephen Xia",
-          "Matthias Preindl",
-          "Xiaofan Jiang"
+          "Sofia Scataglini",
+          "Lenie Denteneer",
+          "Nele Struyf",
+          "Steven Truijen"
         ]
       }
     ]
@@ -3498,321 +3325,175 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/emdl2021.html": {
-    "header": "5th EMDL@MobiSys 2021: Virtual Event, Wisconsin, USA",
-    "year": "2021",
+  "https://dblp.org/db/conf/mobisys/iasa2022.html": {
+    "header": "IASA@MobiSys 2022: Portland, OR, USA",
+    "year": "2022",
     "papers": [
       {
-        "title": "Adaptive Inference through Early-Exit Networks: Design, Challenges and Directions.",
+        "title": "BuMA: Non-Intrusive Breathing Detection using Microphone Array.",
         "authors": [
-          "Stefanos Laskaridis",
-          "Alexandros Kouris",
-          "Nicholas D. Lane"
+          "Kaiyuan Hou",
+          "Stephen Xia",
+          "Xiaofan Jiang"
         ]
       },
       {
-        "title": "Are Mobile DNN Accelerators Accelerating DNNs?",
+        "title": "Beyond Microphone: mmWave-Based Interference-Resilient Voice Activity Detection.",
         "authors": [
-          "Qingqing Cao",
-          "Alexandru Eugen Irimiea",
-          "Mohamed S. Abdelfattah",
-          "Aruna Balasubramanian",
-          "Nicholas D. Lane"
+          "Muhammed Zahid Ozturk",
+          "Chenshu Wu",
+          "Beibei Wang",
+          "Min Wu",
+          "K. J. Ray Liu"
         ]
       },
       {
-        "title": "Battery-Free Camera Occupancy Detection System.",
+        "title": "VoiceFind: Noise-Resilient Speech Recovery in Commodity Headphones.",
         "authors": [
-          "Ali Saffari",
-          "Sin Yong Tan",
-          "Mohamad Katanbaf",
-          "Homagni Saha",
-          "Joshua R. Smith",
-          "Soumik Sarkar"
+          "Irtaza Shahid",
+          "Yang Bai",
+          "Nakul Garg",
+          "Nirupam Roy"
         ]
       },
       {
-        "title": "Benchmarking Video Object Detection Systems on Embedded Devices under Resource Contention.",
+        "title": "Speech Disfluency Detection with Contextual Representation and Data Distillation.",
         "authors": [
-          "Jayoung Lee",
-          "Pengcheng Wang",
-          "Ran Xu",
-          "Venkat Dasari",
-          "Noah Weston",
-          "Yin Li",
-          "Saurabh Bagchi",
-          "Somali Chaterji"
+          "Payal Mohapatra",
+          "Akash Pandey",
+          "Bashima Islam",
+          "Qi Zhu"
         ]
       },
       {
-        "title": "ParallelFusion: Towards Maximum Utilization of Mobile GPU for DNN Inference.",
+        "title": "An Empirical Analysis of Perforated Audio Classification.",
         "authors": [
-          "Jingyu Lee",
-          "Yunxin Liu",
-          "Youngki Lee"
+          "Mahathir Monjur",
+          "Shahriar Nirjon"
         ]
       },
       {
-        "title": "Towards Ubiquitous Learning: A First Measurement of On-Device Training Performance.",
+        "title": "Conversational AI Therapist for Daily Function Screening in Home Environments.",
         "authors": [
-          "Dongqi Cai",
-          "Qipeng Wang",
-          "Yuanqiang Liu",
-          "Yunxin Liu",
-          "Shangguang Wang",
-          "Mengwei Xu"
-        ]
-      },
-      {
-        "title": "Enabling Binary Neural Network Training on the Edge.",
-        "authors": [
-          "Erwei Wang",
-          "James J. Davis",
-          "Daniele Moro",
-          "Piotr Zielinski",
-          "Jia Jie Lim",
-          "Claudionor Coelho",
-          "Satrajit Chatterjee",
-          "Peter Y. K. Cheung",
-          "George A. Constantinides"
+          "Jingping Nie",
+          "Hanya Shao",
+          "Minghui Zhao",
+          "Stephen Xia",
+          "Matthias Preindl",
+          "Xiaofan Jiang"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/bodysys2021.html": {
-    "header": "BodySys@MobiSys 2021: Virtual Event, Wisconsin, USA",
-    "year": "2021",
+  "https://dblp.org/db/conf/mobisys/dronet2022.html": {
+    "header": "DroNet@MobiSys 2022: Portland, OR, USA",
+    "year": "2022",
     "papers": [
       {
-        "title": "Performance Monitoring for Exercise Movements using Mobile Cameras.",
+        "title": "ICCSwarm: A Framework for Integrated Communication and Control in UAV Swarms.",
         "authors": [
-          "Morteza Mohammady Gharasuie",
-          "Noah Jennings",
-          "Shubham Jain"
+          "Jonathan Diller",
+          "Peter Hall",
+          "Corey Schanker",
+          "Kristen Ung",
+          "Philip Belous",
+          "Peter Russell",
+          "Qi Han"
         ]
       },
       {
-        "title": "Effective Assessment of Cognitive Load in Real-World Scenarios using Wrist-worn Sensor Data.",
+        "title": "Studying the Effect of Network Latency on an Adaptive Coordinated Path Planning Algorithm for UAV Platoons.",
         "authors": [
-          "Dibyanshu Jaiswal",
-          "Debatri Chatterjee",
-          "Rahul Gavas",
-          "Ramesh Kumar Ramakrishnan",
-          "Arpan Pal"
+          "Baisakhi Chatterjee",
+          "Rudra Dutta"
         ]
       },
       {
-        "title": "Heart Rate Monitoring Using Capacitive Touchscreen Sensing.",
+        "title": "Enabling Self-Organizing TDMA Scheduling for Aerial Swarms.",
         "authors": [
-          "Sanjay Kimbahune",
-          "Sujit R. Shinde",
-          "Karan Bhavsar",
-          "Avik Ghose",
-          "Sundeep Khandelwal",
-          "Arpan Pal"
+          "Esin Ece Aydin",
+          "Omer Kara",
+          "Furkan Cakir",
+          "Berna Simsek Cansiz",
+          "Gokhan Secinti",
+          "Berk Canberk"
         ]
       },
       {
-        "title": "MoveFeel: Expressive Dance Movement Determination Through Video Analysis.",
+        "title": "Probabilistic Two-Ray Model for Air-to-Air Channel in Urban Drone Networks.",
         "authors": [
-          "Hanke Kimm",
-          "Amy Yopp Sullivan",
-          "Shubham Jain"
+          "Zhuangzhuang Cui",
+          "Sofie Pollin",
+          "Zhangdui Zhong"
         ]
       },
       {
-        "title": "I know it's still you: A study of using the PPG sensor to support zero re-authentications.",
+        "title": "Policy-based routing for Flying Adhoc Networks.",
         "authors": [
-          "Tanushree Banerjee",
-          "Kartik Muralidharan",
-          "Dibyanshu Jaiswal",
-          "Mithun Basaralu Sheshachala",
-          "Ramesh Kumar Ramakrishnan",
-          "Arpan Pal"
+          "Florian Wiedner",
+          "Jonas Andre",
+          "Paulo Mendes",
+          "Georg Carle"
         ]
       },
       {
-        "title": "Wearable sensor driven Cardiac model to derive hemodynamic insights during exercise.",
+        "title": "Communication in a Drone-Platoon using Geographic Routing.",
         "authors": [
-          "Dibyendu Roy",
-          "Oishee Mazumder",
-          "Sundeep Khandelwal",
-          "Aniruddha Sinha"
+          "Tripti Samal",
+          "Rudra Dutta"
+        ]
+      },
+      {
+        "title": "AERPAW Vehicles: Hardware and Software Choices.",
+        "authors": [
+          "Mark Funderburk",
+          "John Kesler",
+          "Keshav Sridhar",
+          "Mihail L. Sichitiu",
+          "Ismail Güvenç",
+          "Rudra Dutta",
+          "Thomas Zajkowski",
+          "Vuk Marojevic"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/digibiom2021.html": {
-    "header": "DigiBiom@MobiSys 2021: Virtual Event, Wisconsin, USA",
-    "year": "2021",
+  "https://dblp.org/db/conf/mobisys/bodysys2022.html": {
+    "header": "BodySys@MobiSys 2022: Portland, OR, USA",
+    "year": "2022",
     "papers": [
       {
-        "title": "Advancing the science of digital biomarkers.",
+        "title": "PetTrack: Tracking Pet Location and Activity Indoors.",
         "authors": [
-          "Michael Sobolev",
-          "Bhanu Teja Gullapalli",
-          "Tauhidur Rahman"
+          "Neeraj Alavala",
+          "Haige Chen",
+          "Rishabh Singhal",
+          "Ashutosh Dhekne"
         ]
       },
       {
-        "title": "Social media derived biomarkers of mental health: opportunities, pitfalls, and the next frontier.",
+        "title": "Enabling Body-Centric Computing Applications with LED-to-Camera Communication.",
         "authors": [
-          "Munmun De Choudhury"
+          "Omer Dalgic",
+          "Daniele Puccinelli",
+          "Marco Zuniga"
         ]
       },
       {
-        "title": "Prediction of self-reported depression scores using person-generated health data from a virtual 1-year mental health observational study.",
+        "title": "Plantar Biometrics for Edge Computing.",
         "authors": [
-          "Mariko Makhmutova",
-          "Raghu Kainkaryam",
-          "Marta Ferreira",
-          "Jae Min",
-          "Martin Jaggi",
-          "Ieuan Clay"
+          "Mads Stege",
+          "Charalampos Orfanidis",
+          "Xenofon Fafoutis"
         ]
       },
       {
-        "title": "Tenets towards smartphone-based medical tricorders.",
+        "title": "FinePose: Fine-Grained Postural Muscle Profiling via Haptic Vibration Signals.",
         "authors": [
-          "Colin Barry",
-          "Tauhidur Rahman",
-          "Edward Jay Wang"
-        ]
-      },
-      {
-        "title": "Joint prediction of cocaine craving and euphoria using structured prediction energy networks.",
-        "authors": [
-          "Bhanu Teja Gullapalli",
-          "Gustavo A. Angarita",
-          "Deepak Ganesan",
-          "Tauhidur Rahman"
-        ]
-      },
-      {
-        "title": "Design of a neurocognitive digital health system (NDHS) for neurodegenerative diseases.",
-        "authors": [
-          "John Michael Templeton",
-          "Christian Poellabauer",
-          "Sandra L. Schneider"
-        ]
-      },
-      {
-        "title": "Music in behavioral health: from digital biomarker to therapeutics.",
-        "authors": [
-          "Katrin Hänsel",
-          "Sunny X. Tang",
-          "Michael Sobolev",
-          "Michael L. Birnbaum",
-          "John M. Kane"
-        ]
-      },
-      {
-        "title": "It takes a village: development of digital measures for computer scientists.",
-        "authors": [
-          "Jennifer C. Goldsack",
-          "Ieuan Clay"
-        ]
-      },
-      {
-        "title": "Digital biomarkers from sweat analysis for therapeutic drug monitoring in soft tissue infections.",
-        "authors": [
-          "Noé Brasier",
-          "Andreas F. Widmer",
-          "Michael Osthoff",
-          "Jens Eckstein"
-        ]
-      },
-      {
-        "title": "Psycho-physiological impedance matching through holistic closed-loop cyber-physical systems.",
-        "authors": [
-          "Jean Bosco Nkurunziza",
-          "Michael Busa",
-          "Jeremy Gummeson",
-          "Erik Risinger"
-        ]
-      },
-      {
-        "title": "Digital epidemiology and the COVID-19 pandemic.",
-        "authors": [
-          "John S. Brownstein"
-        ]
-      },
-      {
-        "title": "Digital biomarkers in health technology startups.",
-        "authors": [
-          "Michael Sobolev",
-          "Andrea R. Coravos",
-          "Danielle DeSouza",
-          "Ieuan Clay",
-          "Nikola Vukovic",
-          "Shaheen Lakhan"
-        ]
-      },
-      {
-        "title": "The role of science policy in developing digital biomarkers.",
-        "authors": [
-          "Wendy Nilsen"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/dronet2021.html": {
-    "header": "DroNet@MobiSys 2021: Virtual Event, Wisconsin, USA",
-    "year": "2021",
-    "papers": [
-      {
-        "title": "Toward a Marketplace for Aerial Computing.",
-        "authors": [
-          "Arjun Balasingam",
-          "Karthik Gopalakrishnan",
-          "Radhika Mittal",
-          "Mohammad Alizadeh",
-          "Hamsa Balakrishnan",
-          "Hari Balakrishnan"
-        ]
-      },
-      {
-        "title": "POD: A Smartphone That Flies.",
-        "authors": [
-          "Guojun Chen",
-          "Noah Weiner",
-          "Lin Zhong"
-        ]
-      },
-      {
-        "title": "A Comparative Study of Virtual Infrastructure Management Solutions for UAV Networks.",
-        "authors": [
-          "Luis F. Gonzalez",
-          "Iván Vidal",
-          "Francisco Valera",
-          "Victor Sanchez-Agüero"
-        ]
-      },
-      {
-        "title": "Persistent Airborne Surveillance using Semi-Autonomous Drone swarms.",
-        "authors": [
-          "Akhil Bandarupalli",
-          "Dhruv Swarup",
-          "Noah Weston",
-          "Somali Chaterji"
-        ]
-      },
-      {
-        "title": "Towards Adaptive, Self-Configuring Networked Unmanned Aerial Vehicles.",
-        "authors": [
-          "Nirupama Bulusu",
-          "Ehsan Aryafar",
-          "Feng Liu"
-        ]
-      },
-      {
-        "title": "An Experimental Analysis on Drone-Mounted Access Points for Improved Latency-Reliability.",
-        "authors": [
-          "Igor Donevski",
-          "Christian Raffelsberger",
-          "Micha Sende",
-          "Aymen Fakhreddine",
-          "Jimmy Jessen Nielsen"
+          "Shubham Rohal",
+          "Shreya Shriram",
+          "V. P. Nguyen",
+          "Shijia Pan"
         ]
       }
     ]
@@ -4358,6 +4039,325 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/mobisys/emdl2021.html": {
+    "header": "5th EMDL@MobiSys 2021: Virtual Event, Wisconsin, USA",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Adaptive Inference through Early-Exit Networks: Design, Challenges and Directions.",
+        "authors": [
+          "Stefanos Laskaridis",
+          "Alexandros Kouris",
+          "Nicholas D. Lane"
+        ]
+      },
+      {
+        "title": "Are Mobile DNN Accelerators Accelerating DNNs?",
+        "authors": [
+          "Qingqing Cao",
+          "Alexandru Eugen Irimiea",
+          "Mohamed S. Abdelfattah",
+          "Aruna Balasubramanian",
+          "Nicholas D. Lane"
+        ]
+      },
+      {
+        "title": "Battery-Free Camera Occupancy Detection System.",
+        "authors": [
+          "Ali Saffari",
+          "Sin Yong Tan",
+          "Mohamad Katanbaf",
+          "Homagni Saha",
+          "Joshua R. Smith",
+          "Soumik Sarkar"
+        ]
+      },
+      {
+        "title": "Benchmarking Video Object Detection Systems on Embedded Devices under Resource Contention.",
+        "authors": [
+          "Jayoung Lee",
+          "Pengcheng Wang",
+          "Ran Xu",
+          "Venkat Dasari",
+          "Noah Weston",
+          "Yin Li",
+          "Saurabh Bagchi",
+          "Somali Chaterji"
+        ]
+      },
+      {
+        "title": "ParallelFusion: Towards Maximum Utilization of Mobile GPU for DNN Inference.",
+        "authors": [
+          "Jingyu Lee",
+          "Yunxin Liu",
+          "Youngki Lee"
+        ]
+      },
+      {
+        "title": "Towards Ubiquitous Learning: A First Measurement of On-Device Training Performance.",
+        "authors": [
+          "Dongqi Cai",
+          "Qipeng Wang",
+          "Yuanqiang Liu",
+          "Yunxin Liu",
+          "Shangguang Wang",
+          "Mengwei Xu"
+        ]
+      },
+      {
+        "title": "Enabling Binary Neural Network Training on the Edge.",
+        "authors": [
+          "Erwei Wang",
+          "James J. Davis",
+          "Daniele Moro",
+          "Piotr Zielinski",
+          "Jia Jie Lim",
+          "Claudionor Coelho",
+          "Satrajit Chatterjee",
+          "Peter Y. K. Cheung",
+          "George A. Constantinides"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/dronet2021.html": {
+    "header": "DroNet@MobiSys 2021: Virtual Event, Wisconsin, USA",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Toward a Marketplace for Aerial Computing.",
+        "authors": [
+          "Arjun Balasingam",
+          "Karthik Gopalakrishnan",
+          "Radhika Mittal",
+          "Mohammad Alizadeh",
+          "Hamsa Balakrishnan",
+          "Hari Balakrishnan"
+        ]
+      },
+      {
+        "title": "POD: A Smartphone That Flies.",
+        "authors": [
+          "Guojun Chen",
+          "Noah Weiner",
+          "Lin Zhong"
+        ]
+      },
+      {
+        "title": "A Comparative Study of Virtual Infrastructure Management Solutions for UAV Networks.",
+        "authors": [
+          "Luis F. Gonzalez",
+          "Iván Vidal",
+          "Francisco Valera",
+          "Victor Sanchez-Agüero"
+        ]
+      },
+      {
+        "title": "Persistent Airborne Surveillance using Semi-Autonomous Drone swarms.",
+        "authors": [
+          "Akhil Bandarupalli",
+          "Dhruv Swarup",
+          "Noah Weston",
+          "Somali Chaterji"
+        ]
+      },
+      {
+        "title": "Towards Adaptive, Self-Configuring Networked Unmanned Aerial Vehicles.",
+        "authors": [
+          "Nirupama Bulusu",
+          "Ehsan Aryafar",
+          "Feng Liu"
+        ]
+      },
+      {
+        "title": "An Experimental Analysis on Drone-Mounted Access Points for Improved Latency-Reliability.",
+        "authors": [
+          "Igor Donevski",
+          "Christian Raffelsberger",
+          "Micha Sende",
+          "Aymen Fakhreddine",
+          "Jimmy Jessen Nielsen"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/digibiom2021.html": {
+    "header": "DigiBiom@MobiSys 2021: Virtual Event, Wisconsin, USA",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Advancing the science of digital biomarkers.",
+        "authors": [
+          "Michael Sobolev",
+          "Bhanu Teja Gullapalli",
+          "Tauhidur Rahman"
+        ]
+      },
+      {
+        "title": "Social media derived biomarkers of mental health: opportunities, pitfalls, and the next frontier.",
+        "authors": [
+          "Munmun De Choudhury"
+        ]
+      },
+      {
+        "title": "Prediction of self-reported depression scores using person-generated health data from a virtual 1-year mental health observational study.",
+        "authors": [
+          "Mariko Makhmutova",
+          "Raghu Kainkaryam",
+          "Marta Ferreira",
+          "Jae Min",
+          "Martin Jaggi",
+          "Ieuan Clay"
+        ]
+      },
+      {
+        "title": "Tenets towards smartphone-based medical tricorders.",
+        "authors": [
+          "Colin Barry",
+          "Tauhidur Rahman",
+          "Edward Jay Wang"
+        ]
+      },
+      {
+        "title": "Joint prediction of cocaine craving and euphoria using structured prediction energy networks.",
+        "authors": [
+          "Bhanu Teja Gullapalli",
+          "Gustavo A. Angarita",
+          "Deepak Ganesan",
+          "Tauhidur Rahman"
+        ]
+      },
+      {
+        "title": "Design of a neurocognitive digital health system (NDHS) for neurodegenerative diseases.",
+        "authors": [
+          "John Michael Templeton",
+          "Christian Poellabauer",
+          "Sandra L. Schneider"
+        ]
+      },
+      {
+        "title": "Music in behavioral health: from digital biomarker to therapeutics.",
+        "authors": [
+          "Katrin Hänsel",
+          "Sunny X. Tang",
+          "Michael Sobolev",
+          "Michael L. Birnbaum",
+          "John M. Kane"
+        ]
+      },
+      {
+        "title": "It takes a village: development of digital measures for computer scientists.",
+        "authors": [
+          "Jennifer C. Goldsack",
+          "Ieuan Clay"
+        ]
+      },
+      {
+        "title": "Digital biomarkers from sweat analysis for therapeutic drug monitoring in soft tissue infections.",
+        "authors": [
+          "Noé Brasier",
+          "Andreas F. Widmer",
+          "Michael Osthoff",
+          "Jens Eckstein"
+        ]
+      },
+      {
+        "title": "Psycho-physiological impedance matching through holistic closed-loop cyber-physical systems.",
+        "authors": [
+          "Jean Bosco Nkurunziza",
+          "Michael Busa",
+          "Jeremy Gummeson",
+          "Erik Risinger"
+        ]
+      },
+      {
+        "title": "Digital epidemiology and the COVID-19 pandemic.",
+        "authors": [
+          "John S. Brownstein"
+        ]
+      },
+      {
+        "title": "Digital biomarkers in health technology startups.",
+        "authors": [
+          "Michael Sobolev",
+          "Andrea R. Coravos",
+          "Danielle DeSouza",
+          "Ieuan Clay",
+          "Nikola Vukovic",
+          "Shaheen Lakhan"
+        ]
+      },
+      {
+        "title": "The role of science policy in developing digital biomarkers.",
+        "authors": [
+          "Wendy Nilsen"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/bodysys2021.html": {
+    "header": "BodySys@MobiSys 2021: Virtual Event, Wisconsin, USA",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Performance Monitoring for Exercise Movements using Mobile Cameras.",
+        "authors": [
+          "Morteza Mohammady Gharasuie",
+          "Noah Jennings",
+          "Shubham Jain"
+        ]
+      },
+      {
+        "title": "Effective Assessment of Cognitive Load in Real-World Scenarios using Wrist-worn Sensor Data.",
+        "authors": [
+          "Dibyanshu Jaiswal",
+          "Debatri Chatterjee",
+          "Rahul Gavas",
+          "Ramesh Kumar Ramakrishnan",
+          "Arpan Pal"
+        ]
+      },
+      {
+        "title": "Heart Rate Monitoring Using Capacitive Touchscreen Sensing.",
+        "authors": [
+          "Sanjay Kimbahune",
+          "Sujit R. Shinde",
+          "Karan Bhavsar",
+          "Avik Ghose",
+          "Sundeep Khandelwal",
+          "Arpan Pal"
+        ]
+      },
+      {
+        "title": "MoveFeel: Expressive Dance Movement Determination Through Video Analysis.",
+        "authors": [
+          "Hanke Kimm",
+          "Amy Yopp Sullivan",
+          "Shubham Jain"
+        ]
+      },
+      {
+        "title": "I know it's still you: A study of using the PPG sensor to support zero re-authentications.",
+        "authors": [
+          "Tanushree Banerjee",
+          "Kartik Muralidharan",
+          "Dibyanshu Jaiswal",
+          "Mithun Basaralu Sheshachala",
+          "Ramesh Kumar Ramakrishnan",
+          "Arpan Pal"
+        ]
+      },
+      {
+        "title": "Wearable sensor driven Cardiac model to derive hemodynamic insights during exercise.",
+        "authors": [
+          "Dibyendu Roy",
+          "Oishee Mazumder",
+          "Sundeep Khandelwal",
+          "Aniruddha Sinha"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/mobisys/wearsys2020.html": {
     "header": "WearSys@MobiSys 2020: Toronto, Ontario, Canada",
     "year": "2020",
@@ -4425,103 +4425,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/dronet2020.html": {
-    "header": "DroNet@MobiSys 2020: Toronto, Ontario, Canada",
-    "year": "2020",
-    "papers": [
-      {
-        "title": "DRUBER: a trustable decentralized drone-based delivery system.",
-        "authors": [
-          "Novella Bartolini",
-          "Andrea Coletta",
-          "Gaia Maselli",
-          "Mauro Piva"
-        ]
-      },
-      {
-        "title": "Robust mission planning of UAV networks for environmental sensing.",
-        "authors": [
-          "Ahmed Boubrima",
-          "Edward W. Knightly"
-        ]
-      },
-      {
-        "title": "Implementable self-organized flocking algorithm for UAVs based on the emergence of virtual roads.",
-        "authors": [
-          "Victor Casas",
-          "Andreas Mitschele-Thiel"
-        ]
-      },
-      {
-        "title": "Connected Ad-Hoc swarm of drones.",
-        "authors": [
-          "Kiril Danilchenko",
-          "Michael Segal"
-        ]
-      },
-      {
-        "title": "PENGUIN: aquatic plastic pollution sensing using AUVs.",
-        "authors": [
-          "Huber Flores",
-          "Agustin Zuniga",
-          "Naser Hossein Motlagh",
-          "Mohan Liyanage",
-          "Monica Passananti",
-          "Sasu Tarkoma",
-          "Moustafa Youssef",
-          "Petteri Nurmi"
-        ]
-      },
-      {
-        "title": "Performance of a networked human-drone team: command response and interaction effects.",
-        "authors": [
-          "Alexander Freistetter",
-          "Manuela Pollak",
-          "Karin Anna Hummel"
-        ]
-      },
-      {
-        "title": "First experiments with a 5G-Connected drone.",
-        "authors": [
-          "Raheeb Muzaffar",
-          "Christian Raffelsberger",
-          "Aymen Fakhreddine",
-          "José López Luque",
-          "Driton Emini",
-          "Christian Bettstetter"
-        ]
-      },
-      {
-        "title": "DroneNet-Sim: a learning-based trace simulation framework for control networking in drone video analytics.",
-        "authors": [
-          "Chengyi Qu",
-          "Alicia Esquivel Morel",
-          "Drew Dahlquist",
-          "Prasad Calyam"
-        ]
-      },
-      {
-        "title": "Measuring fixed wing UAS networks at long range.",
-        "authors": [
-          "Russell Shirey",
-          "Sanjay G. Rao",
-          "Shreyas Sundaram"
-        ]
-      },
-      {
-        "title": "Distributed reinforcement learning for flexible UAV swarm control with transfer learning capabilities.",
-        "authors": [
-          "Federico Venturini",
-          "Federico Mason",
-          "Francesco Pase",
-          "Federico Chiariotti",
-          "Alberto Testolin",
-          "Andrea Zanella",
-          "Michele Zorzi"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/mobisys/openwireless2020.html": {
     "header": "OpenWireless@MobiSys 2020: Toronto, Ontario, Canada",
     "year": "2020",
@@ -4554,63 +4457,6 @@
           "Ashwin Panicker",
           "Özgür Özdemir",
           "Ismail Güvenç"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/healthdl2020.html": {
-    "header": "HealthDL@MobiSys 2020: Toronto, Ontario, Canada",
-    "year": "2020",
-    "papers": [
-      {
-        "title": "Sensitivity, Specificity, Generalizability, and Reusability Aspirations for Machine Learning (ML) Models in mHealth.",
-        "authors": [
-          "Santosh Kumar"
-        ]
-      },
-      {
-        "title": "Tackling the Challenges of Machine Learning for Mobile Health Systems.",
-        "authors": [
-          "Guoliang Xing"
-        ]
-      },
-      {
-        "title": "Supporting Home Quarantine with Smart Speakers.",
-        "authors": [
-          "Abrar S. Alrumayh",
-          "Chiu C. Tan"
-        ]
-      },
-      {
-        "title": "Olivia Health Analytic Platform.",
-        "authors": [
-          "Majid Sarrafzadeh"
-        ]
-      },
-      {
-        "title": "M&M: Deep learning aided multi-facet mental health support tool for College Students.",
-        "authors": [
-          "Wanzhao Yang",
-          "Mooi Choo Chuah",
-          "Lifeifan Du"
-        ]
-      },
-      {
-        "title": "Mobile Health Diagnostics through Audio Signals.",
-        "authors": [
-          "Cecilia Mascolo"
-        ]
-      },
-      {
-        "title": "Towards Ultra-Efficient DNN Inference Acceleration on Edge Devices for Wellbeing Applications.",
-        "authors": [
-          "Yanzhi Wang"
-        ]
-      },
-      {
-        "title": "A Deep Learning Framework for Prediction of Readmission Risk After Cancer Surgery from Mobile Data Streams.",
-        "authors": [
-          "Afsaneh Doryab"
         ]
       }
     ]
@@ -5091,6 +4937,302 @@
           "Heng Zhang",
           "Amiya Kumar Maji",
           "Saurabh Bagchi"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/healthdl2020.html": {
+    "header": "HealthDL@MobiSys 2020: Toronto, Ontario, Canada",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "Sensitivity, Specificity, Generalizability, and Reusability Aspirations for Machine Learning (ML) Models in mHealth.",
+        "authors": [
+          "Santosh Kumar"
+        ]
+      },
+      {
+        "title": "Tackling the Challenges of Machine Learning for Mobile Health Systems.",
+        "authors": [
+          "Guoliang Xing"
+        ]
+      },
+      {
+        "title": "Supporting Home Quarantine with Smart Speakers.",
+        "authors": [
+          "Abrar S. Alrumayh",
+          "Chiu C. Tan"
+        ]
+      },
+      {
+        "title": "Olivia Health Analytic Platform.",
+        "authors": [
+          "Majid Sarrafzadeh"
+        ]
+      },
+      {
+        "title": "M&M: Deep learning aided multi-facet mental health support tool for College Students.",
+        "authors": [
+          "Wanzhao Yang",
+          "Mooi Choo Chuah",
+          "Lifeifan Du"
+        ]
+      },
+      {
+        "title": "Mobile Health Diagnostics through Audio Signals.",
+        "authors": [
+          "Cecilia Mascolo"
+        ]
+      },
+      {
+        "title": "Towards Ultra-Efficient DNN Inference Acceleration on Edge Devices for Wellbeing Applications.",
+        "authors": [
+          "Yanzhi Wang"
+        ]
+      },
+      {
+        "title": "A Deep Learning Framework for Prediction of Readmission Risk After Cancer Surgery from Mobile Data Streams.",
+        "authors": [
+          "Afsaneh Doryab"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/dronet2020.html": {
+    "header": "DroNet@MobiSys 2020: Toronto, Ontario, Canada",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "DRUBER: a trustable decentralized drone-based delivery system.",
+        "authors": [
+          "Novella Bartolini",
+          "Andrea Coletta",
+          "Gaia Maselli",
+          "Mauro Piva"
+        ]
+      },
+      {
+        "title": "Robust mission planning of UAV networks for environmental sensing.",
+        "authors": [
+          "Ahmed Boubrima",
+          "Edward W. Knightly"
+        ]
+      },
+      {
+        "title": "Implementable self-organized flocking algorithm for UAVs based on the emergence of virtual roads.",
+        "authors": [
+          "Victor Casas",
+          "Andreas Mitschele-Thiel"
+        ]
+      },
+      {
+        "title": "Connected Ad-Hoc swarm of drones.",
+        "authors": [
+          "Kiril Danilchenko",
+          "Michael Segal"
+        ]
+      },
+      {
+        "title": "PENGUIN: aquatic plastic pollution sensing using AUVs.",
+        "authors": [
+          "Huber Flores",
+          "Agustin Zuniga",
+          "Naser Hossein Motlagh",
+          "Mohan Liyanage",
+          "Monica Passananti",
+          "Sasu Tarkoma",
+          "Moustafa Youssef",
+          "Petteri Nurmi"
+        ]
+      },
+      {
+        "title": "Performance of a networked human-drone team: command response and interaction effects.",
+        "authors": [
+          "Alexander Freistetter",
+          "Manuela Pollak",
+          "Karin Anna Hummel"
+        ]
+      },
+      {
+        "title": "First experiments with a 5G-Connected drone.",
+        "authors": [
+          "Raheeb Muzaffar",
+          "Christian Raffelsberger",
+          "Aymen Fakhreddine",
+          "José López Luque",
+          "Driton Emini",
+          "Christian Bettstetter"
+        ]
+      },
+      {
+        "title": "DroneNet-Sim: a learning-based trace simulation framework for control networking in drone video analytics.",
+        "authors": [
+          "Chengyi Qu",
+          "Alicia Esquivel Morel",
+          "Drew Dahlquist",
+          "Prasad Calyam"
+        ]
+      },
+      {
+        "title": "Measuring fixed wing UAS networks at long range.",
+        "authors": [
+          "Russell Shirey",
+          "Sanjay G. Rao",
+          "Shreyas Sundaram"
+        ]
+      },
+      {
+        "title": "Distributed reinforcement learning for flexible UAV swarm control with transfer learning capabilities.",
+        "authors": [
+          "Federico Venturini",
+          "Federico Mason",
+          "Francesco Pase",
+          "Federico Chiariotti",
+          "Alberto Testolin",
+          "Andrea Zanella",
+          "Michele Zorzi"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/wearsys2019.html": {
+    "header": "WearSys@MobiSys 2019: Seoul, Republic of Korea",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "Keynote - Eye Itself as a Camera: Sensors, Integrity, and Trust.",
+        "authors": [
+          "Steve Mann",
+          "Diego Defaz",
+          "Cayden Pierce",
+          "Derek Lam",
+          "Jeremy Stairs",
+          "Jesse Hernandez",
+          "Qiushi Li",
+          "Yi Xin Xiang",
+          "Georges Kanaan",
+          "Hongyu Chen",
+          "Graeme Aylward",
+          "Megan Jorritsma",
+          "Christina Mann"
+        ]
+      },
+      {
+        "title": "Why Wear a Battery? The Future of Wearables May be Batteryless.",
+        "authors": [
+          "Josiah D. Hester"
+        ]
+      },
+      {
+        "title": "A Mobility Evaluation of Tilt Panning and Offset Sensing Smart Watch Input.",
+        "authors": [
+          "Hongmin Kim",
+          "Myung-Sung Kim",
+          "Ian Oakley"
+        ]
+      },
+      {
+        "title": "Understanding the Predictability of Smartwatch Usage.",
+        "authors": [
+          "Yunsheng Yao",
+          "Xing Liu",
+          "Feng Qian"
+        ]
+      },
+      {
+        "title": "Wrist-worn Wearable Sensors to Understand Insides of the Human Body: Data Quality and Quantity.",
+        "authors": [
+          "Pekka Siirtola",
+          "Ella Peltonen",
+          "Heli Koskimäki",
+          "Henna Mönttinen",
+          "Juha Röning",
+          "Susanna Pirttikangas"
+        ]
+      },
+      {
+        "title": "Protecting Visual Information in Augmented Reality from Malicious Application Developers.",
+        "authors": [
+          "Jk Jensen",
+          "Jinhan Hu",
+          "Amir Rahmati",
+          "Robert LiKamWa"
+        ]
+      },
+      {
+        "title": "WhereWear: Calibration-free Wearable Device Identification through Ambient Sensing.",
+        "authors": [
+          "Carlos Ruiz Dominguez",
+          "Shijia Pan",
+          "Hae Young Noh",
+          "Pei Zhang"
+        ]
+      },
+      {
+        "title": "Position: Smart KT Tape - A Bendable Wearable System for Muscle Fatigue Sensing.",
+        "authors": [
+          "Jun-An Chen",
+          "Cynthia Yun-Shin Liu",
+          "Hong Jhih Chen",
+          "Hsin-Yuan Chen",
+          "Hsea-Ching Hsueh",
+          "Yu-Chia Huang",
+          "Koji Yatani",
+          "Hao-Hua Chu",
+          "Polly Huang"
+        ]
+      },
+      {
+        "title": "Position: Wearable Polymorphic Light Sensors.",
+        "authors": [
+          "Ambuj Varshney"
+        ]
+      },
+      {
+        "title": "Position: On the Use of Low-cost Sensors for Non-intrustive Newborn Sepsis Monitoring.",
+        "authors": [
+          "Paweeya Raknim",
+          "Kun-Chan Lan",
+          "Yung-Chieh Lin",
+          "Yen-Tzu Lu"
+        ]
+      },
+      {
+        "title": "Towards Machine Learning with Zero Real-World Data.",
+        "authors": [
+          "Cholmin Kang",
+          "Hyunwoo Jung",
+          "Youngki Lee"
+        ]
+      },
+      {
+        "title": "Cerebro:  A Wearable Solution to Detect and Track User Preferences using Brainwaves.",
+        "authors": [
+          "Mohit Agarwal",
+          "Raghupathy Sivakumar"
+        ]
+      },
+      {
+        "title": "Walk to Show Your Identity: Gait-based Seamless User Authentication Framework Using Deep Neural Network.",
+        "authors": [
+          "Duin Baek",
+          "Pratik Musale",
+          "Jihoon Ryoo"
+        ]
+      },
+      {
+        "title": "Design Fiction for Real-World Connected Wearables.",
+        "authors": [
+          "Helen Oliver"
+        ]
+      },
+      {
+        "title": "Making Sensors Tangible with Long-exposure Photography.",
+        "authors": [
+          "Steve Mann",
+          "Diego Defaz",
+          "John Xu",
+          "Daryl Chua"
         ]
       }
     ]
@@ -6470,144 +6612,148 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/wearsys2019.html": {
-    "header": "WearSys@MobiSys 2019: Seoul, Republic of Korea",
-    "year": "2019",
+  "https://dblp.org/db/conf/mobisys/wearsys2018.html": {
+    "header": "WearSys@MobiSys 2018: Munich, Germany",
+    "year": "2018",
     "papers": [
       {
-        "title": "Keynote - Eye Itself as a Camera: Sensors, Integrity, and Trust.",
+        "title": "Disposable, stretchable on-skin sensors for posture monitoring.",
         "authors": [
-          "Steve Mann",
-          "Diego Defaz",
-          "Cayden Pierce",
-          "Derek Lam",
-          "Jeremy Stairs",
-          "Jesse Hernandez",
-          "Qiushi Li",
-          "Yi Xin Xiang",
-          "Georges Kanaan",
-          "Hongyu Chen",
-          "Graeme Aylward",
-          "Megan Jorritsma",
-          "Christina Mann"
+          "Kaspar Jansen",
+          "Bailey Tarren",
+          "Mascha Slingerland"
         ]
       },
       {
-        "title": "Why Wear a Battery? The Future of Wearables May be Batteryless.",
+        "title": "Exploring audio and kinetic sensing on earable devices.",
         "authors": [
-          "Josiah D. Hester"
+          "Chulhong Min",
+          "Akhil Mathur",
+          "Fahim Kawsar"
         ]
       },
       {
-        "title": "A Mobility Evaluation of Tilt Panning and Offset Sensing Smart Watch Input.",
+        "title": "FSO-VR: steerable free space optics link for virtual reality headsets.",
         "authors": [
-          "Hongmin Kim",
-          "Myung-Sung Kim",
-          "Ian Oakley"
+          "Md. Shaifur Rahman",
+          "Kai Zheng",
+          "Himanshu Gupta"
         ]
       },
       {
-        "title": "Understanding the Predictability of Smartwatch Usage.",
+        "title": "Understanding activity segmentation for multi-sport competitions.",
         "authors": [
-          "Yunsheng Yao",
-          "Xing Liu",
-          "Feng Qian"
+          "Justin Whitlock",
+          "Orkun Krand",
+          "Shubham Jain"
         ]
       },
       {
-        "title": "Wrist-worn Wearable Sensors to Understand Insides of the Human Body: Data Quality and Quantity.",
+        "title": "Keystroke inference using ambient light sensor on wrist-wearables: a feasibility study.",
         "authors": [
-          "Pekka Siirtola",
-          "Ella Peltonen",
-          "Heli Koskimäki",
-          "Henna Mönttinen",
-          "Juha Röning",
-          "Susanna Pirttikangas"
+          "Mohd Sabra",
+          "Anindya Maiti",
+          "Murtuza Jadliwala"
         ]
       },
       {
-        "title": "Protecting Visual Information in Augmented Reality from Malicious Application Developers.",
+        "title": "Mindful interruptions: a lightweight system for managing interruptibility on wearables.",
         "authors": [
-          "Jk Jensen",
-          "Jinhan Hu",
-          "Amir Rahmati",
-          "Robert LiKamWa"
+          "Claudio Forlivesi",
+          "Utku Günay Acer",
+          "Marc Van den Broeck",
+          "Fahim Kawsar"
         ]
       },
       {
-        "title": "WhereWear: Calibration-free Wearable Device Identification through Ambient Sensing.",
+        "title": "TILES audio recorder: an unobtrusive wearable solution to track audio activity.",
         "authors": [
-          "Carlos Ruiz Dominguez",
-          "Shijia Pan",
-          "Hae Young Noh",
-          "Pei Zhang"
+          "Tiantian Feng",
+          "Amrutha Nadarajan",
+          "Colin Vaz",
+          "Brandon M. Booth",
+          "Shrikanth S. Narayanan"
         ]
       },
       {
-        "title": "Position: Smart KT Tape - A Bendable Wearable System for Muscle Fatigue Sensing.",
+        "title": "Table of interest: activity recognition and behaviour analysis using a battery less wearable sensor.",
         "authors": [
-          "Jun-An Chen",
-          "Cynthia Yun-Shin Liu",
-          "Hong Jhih Chen",
-          "Hsin-Yuan Chen",
-          "Hsea-Ching Hsueh",
-          "Yu-Chia Huang",
-          "Koji Yatani",
-          "Hao-Hua Chu",
-          "Polly Huang"
+          "Dibyanshu Jaiswal",
+          "Andrew Gigie",
+          "Tapas Chakravarty",
+          "Avik Ghose",
+          "Archan Misra"
         ]
       },
       {
-        "title": "Position: Wearable Polymorphic Light Sensors.",
+        "title": "The potential of wearable technology for monitoring social interactions based on interpersonal synchrony.",
         "authors": [
-          "Ambuj Varshney"
+          "Katrin Hänsel",
+          "Kleomenis Katevas",
+          "Guido Orgs",
+          "Daniel C. Richardson",
+          "Akram Alomainy",
+          "Hamed Haddadi"
         ]
       },
       {
-        "title": "Position: On the Use of Low-cost Sensors for Non-intrustive Newborn Sepsis Monitoring.",
+        "title": "Visual features for ego-centric activity recognition: a survey.",
         "authors": [
-          "Paweeya Raknim",
-          "Kun-Chan Lan",
-          "Yung-Chieh Lin",
-          "Yen-Tzu Lu"
+          "Girmaw Abebe Tadesse",
+          "Andrea Cavallaro"
         ]
       },
       {
-        "title": "Towards Machine Learning with Zero Real-World Data.",
+        "title": "Challenges with real-world smartwatch based audio monitoring.",
         "authors": [
-          "Cholmin Kang",
-          "Hyunwoo Jung",
-          "Youngki Lee"
+          "Daniyal Liaqat",
+          "Robert Wu",
+          "Andrea Gershon",
+          "Hisham Alshaer",
+          "Frank Rudzicz",
+          "Eyal de Lara"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/phd2018.html": {
+    "header": "PhD Forum@MobiSys 2018: Munich, Germany",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "Securing Embedded Networks through Secure Collective Attestation.",
+        "authors": [
+          "Ahmad Ibrahim"
         ]
       },
       {
-        "title": "Cerebro:  A Wearable Solution to Detect and Track User Preferences using Brainwaves.",
+        "title": "Passive Human Sensing with COTS Wi-Fi.",
         "authors": [
-          "Mohit Agarwal",
-          "Raghupathy Sivakumar"
+          "Kun Qian"
         ]
       },
       {
-        "title": "Walk to Show Your Identity: Gait-based Seamless User Authentication Framework Using Deep Neural Network.",
+        "title": "Toward Privacy Enhanced Solutions For Granular Control Over Health Data Collected by Wearable Devices.",
         "authors": [
-          "Duin Baek",
-          "Pratik Musale",
-          "Jihoon Ryoo"
+          "Byron M. Lowens"
         ]
       },
       {
-        "title": "Design Fiction for Real-World Connected Wearables.",
+        "title": "OS-level Software & Hardware Attacks and Defenses.",
         "authors": [
-          "Helen Oliver"
+          "David Gens"
         ]
       },
       {
-        "title": "Making Sensors Tangible with Long-exposure Photography.",
+        "title": "Air Quality Friendly Route Recommendation System.",
         "authors": [
-          "Steve Mann",
-          "Diego Defaz",
-          "John Xu",
-          "Daryl Chua"
+          "Savina Singla"
+        ]
+      },
+      {
+        "title": "Internet of Environmental Things: A Human Centered Approach.",
+        "authors": [
+          "Sachit Mahajan"
         ]
       }
     ]
@@ -7355,44 +7501,304 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/phd2018.html": {
-    "header": "PhD Forum@MobiSys 2018: Munich, Germany",
+  "https://dblp.org/db/conf/mobisys/ioparts2018.html": {
+    "header": "IoPARTS@MobiSys 2018: Munich, Germany",
     "year": "2018",
     "papers": [
       {
-        "title": "Securing Embedded Networks through Secure Collective Attestation.",
+        "title": "CommonSense: Collaborative learning of scene semantics by robots and humans.",
         "authors": [
-          "Ahmad Ibrahim"
+          "Stefano Rosa",
+          "Andrea Patanè",
+          "Xiaoxuan Lu",
+          "Niki Trigoni"
         ]
       },
       {
-        "title": "Passive Human Sensing with COTS Wi-Fi.",
+        "title": "Transparent Fault Tolerance for Real-Time Automation Systems.",
         "authors": [
-          "Kun Qian"
+          "Burak Hasircioglu",
+          "Yvonne-Anne Pignolet",
+          "Thanikesavan Sivanthi"
         ]
       },
       {
-        "title": "Toward Privacy Enhanced Solutions For Granular Control Over Health Data Collected by Wearable Devices.",
+        "title": "An Actor Based Architecture For Multi-Robot System With Application To Warehouse.",
         "authors": [
-          "Byron M. Lowens"
+          "Aniruddha Singhal",
+          "Harsh Vardhan Singh",
+          "Aarathi Penumatsa",
+          "Nakul Bhatt",
+          "Prakash Chanderlal Ambwani",
+          "Swagat Kumar",
+          "Rajesh Sinha"
         ]
       },
       {
-        "title": "OS-level Software & Hardware Attacks and Defenses.",
+        "title": "Geometric Mapping for Sustained Indoor Autonomy.",
         "authors": [
-          "David Gens"
+          "Zakieh S. Hashemifar",
+          "Kyung Won Lee",
+          "Nils Napp",
+          "Karthik Dantu"
         ]
       },
       {
-        "title": "Air Quality Friendly Route Recommendation System.",
+        "title": "Wireless Mesh Routing For Indoor Robotic Communications.",
         "authors": [
-          "Savina Singla"
+          "Nikita Trivedi",
+          "Bighnaraj Panigrahi",
+          "Hemant Kumar Rath",
+          "Arpan Pal"
         ]
       },
       {
-        "title": "Internet of Environmental Things: A Human Centered Approach.",
+        "title": "SkyHelp: UAV Assisted Emergency Communication in Deep Open Pit Mines.",
         "authors": [
-          "Sachit Mahajan"
+          "Alok Ranjan",
+          "Bighnaraj Panigrahi",
+          "Himanshu Bhushan Sahu",
+          "Prasant Misra"
+        ]
+      },
+      {
+        "title": "Planning Mobile Charging Vehicles Based on User Charging Behavior.",
+        "authors": [
+          "Qi Liu",
+          "Jinyang Li",
+          "Xiaoshan Sun",
+          "Peng Xu",
+          "Junjie Wang",
+          "Wei Zheng",
+          "Jian Li",
+          "Hengchang Liu"
+        ]
+      },
+      {
+        "title": "Towards Accurate and Real-time Information Extrapolation on Charging Pile Network.",
+        "authors": [
+          "Jinyang Li",
+          "Tingzhi Li",
+          "Xiaoshan Sun",
+          "Peng Xu",
+          "Junjie Wang",
+          "Qi Liu",
+          "Wei Zheng",
+          "Jian Li",
+          "Hengchang Liu"
+        ]
+      },
+      {
+        "title": "Localizing a Depth Measuring Sensor In Flood Scenario.",
+        "authors": [
+          "Rolif Lima",
+          "Kaushik Das"
+        ]
+      },
+      {
+        "title": "Analysing Multi-Point Multi-Frequency Machine Vibrations using Optical Sampling.",
+        "authors": [
+          "Dibyendu Roy",
+          "Avik Ghose",
+          "Tapas Chakravarty",
+          "Sushovan Mukherjee",
+          "Arpan Pal",
+          "Archan Misra"
+        ]
+      },
+      {
+        "title": "The Analysis of Features Importance in Electrical Infrared Images Faults Diagnosis.",
+        "authors": [
+          "Qi Zhao",
+          "Lei Su",
+          "Zhaoyang Shi",
+          "Ping Ling",
+          "Nannan Yan",
+          "Chunjie Gu",
+          "Zhixiong Shi"
+        ]
+      },
+      {
+        "title": "Geomagnetic Field based Human Search and Following for Autonomous Robots.",
+        "authors": [
+          "Sen Wang",
+          "Qingfeng Xia",
+          "William Smith"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/emdl2018.html": {
+    "header": "2nd EMDL@MobiSys 2018: Munich, Germany",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "Efficiently Combining SVD, Pruning, Clustering and Retraining for Enhanced Neural Network Compression.",
+        "authors": [
+          "Koen Goetschalckx",
+          "Bert Moons",
+          "Patrick Wambacq",
+          "Marian Verhelst"
+        ]
+      },
+      {
+        "title": "D-Pruner: Filter-Based Pruning Method for Deep Convolutional Neural Network.",
+        "authors": [
+          "Huynh Nguyen Loc",
+          "Youngki Lee",
+          "Rajesh Krishna Balan"
+        ]
+      },
+      {
+        "title": "On-the-fly deterministic binary filters for memory efficient keyword spotting applications on embedded devices.",
+        "authors": [
+          "Javier Fernández-Marqués",
+          "Vincent W. S. Tseng",
+          "Sourav Bhattacharya",
+          "Nicholas D. Lane"
+        ]
+      },
+      {
+        "title": "Mobile Based Continuous Authentication Using Deep Features.",
+        "authors": [
+          "Mario Parreño Centeno",
+          "Yu Guan",
+          "Aad van Moorsel"
+        ]
+      },
+      {
+        "title": "Mayo: A Framework for Auto-generating Hardware Friendly Deep Neural Networks.",
+        "authors": [
+          "Yiren Zhao",
+          "Xitong Gao",
+          "Robert D. Mullins",
+          "Chengzhong Xu"
+        ]
+      },
+      {
+        "title": "HARNet: Towards On-Device Incremental Learning using Deep Ensembles on Constrained Devices.",
+        "authors": [
+          "Prahalathan Sundaramoorthy",
+          "Gautham Krishna Gudur",
+          "Manav Rajiv Moorthy",
+          "R. Nidhi Bhandari",
+          "Vineeth Vijayaraghavan"
+        ]
+      },
+      {
+        "title": "Neural Network Syntax Analyzer for Embedded Standardized Deep Learning.",
+        "authors": [
+          "Myungjae Shin",
+          "Joongheon Kim",
+          "Aziz Mohaisen",
+          "Jaebok Park",
+          "KyungHee Lee"
+        ]
+      },
+      {
+        "title": "QualityDeepSense: Quality-Aware Deep Learning Framework for Internet of Things Applications with Sensor-Temporal Attention.",
+        "authors": [
+          "Shuochao Yao",
+          "Yiran Zhao",
+          "Shaohan Hu",
+          "Tarek F. Abdelzaher"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/edgesys2018.html": {
+    "header": "EdgeSys@MobiSys 2018: Munich, Germany",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "EdgeEye: An Edge Service Framework for Real-time Intelligent Video Analytics.",
+        "authors": [
+          "Peng Liu",
+          "Bozhao Qi",
+          "Suman Banerjee"
+        ]
+      },
+      {
+        "title": "The Web as a Distributed Computing Platform.",
+        "authors": [
+          "Nikos Vasilakis",
+          "Pranjal Goel",
+          "Henri Maxime Demoulin",
+          "Jonathan M. Smith"
+        ]
+      },
+      {
+        "title": "Enabling GPU-assisted Antivirus Protection on Android Devices through Edge Offloading.",
+        "authors": [
+          "Dimitris Deyannis",
+          "Rafail Tsirbas",
+          "Giorgos Vasiliadis",
+          "Raffaele Montella",
+          "Sokol Kosta",
+          "Sotiris Ioannidis"
+        ]
+      },
+      {
+        "title": "A Multi-Cloudlet Infrastructure for Future Smart Cities: An Empirical Study.",
+        "authors": [
+          "Julien Gedeon",
+          "Jeff Krisztinkovics",
+          "Christian Meurisch",
+          "Michael Stein",
+          "Lin Wang",
+          "Max Mühlhäuser"
+        ]
+      },
+      {
+        "title": "Profit-aware Resource Management for Edge Computing Systems.",
+        "authors": [
+          "Cosimo Anglano",
+          "Massimo Canonico",
+          "Marco Guazzone"
+        ]
+      },
+      {
+        "title": "Duvel: Enabling Context-driven, Multi-profile Apps on Android through Storage Sandboxing.",
+        "authors": [
+          "Sharath Chandrashekhara",
+          "Taeyeon Ki",
+          "Karthik Dantu",
+          "Steven Y. Ko"
+        ]
+      },
+      {
+        "title": "Enabling Edge Devices that Learn from Each Other: Cross Modal Training for Activity Recognition.",
+        "authors": [
+          "Tianwei Xing",
+          "Sandeep Singh Sandha",
+          "Bharathan Balaji",
+          "Supriyo Chakraborty",
+          "Mani B. Srivastava"
+        ]
+      },
+      {
+        "title": "Semi-Edge: From Edge Caching to Hierarchical Caching in Network Fog.",
+        "authors": [
+          "Yining Hua",
+          "Lin Guan",
+          "Konstantinos G. Kyriakopoulos"
+        ]
+      },
+      {
+        "title": "Voice enabling mobile applications with UIVoice.",
+        "authors": [
+          "Ahmad Bisher Tarakji",
+          "Jian Xu",
+          "Juan A. Colmenares",
+          "Iqbal Mohomed"
+        ]
+      },
+      {
+        "title": "Sizing Buffers of IoT Edge Routers.",
+        "authors": [
+          "Jamal Ahmad Khan",
+          "Muhammad Shahzad",
+          "Ali Raza Butt"
         ]
       }
     ]
@@ -7541,133 +7947,6 @@
         "authors": [
           "Abdirahman Mohamud",
           "Ashwin Ashok"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/ioparts2018.html": {
-    "header": "IoPARTS@MobiSys 2018: Munich, Germany",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "CommonSense: Collaborative learning of scene semantics by robots and humans.",
-        "authors": [
-          "Stefano Rosa",
-          "Andrea Patanè",
-          "Xiaoxuan Lu",
-          "Niki Trigoni"
-        ]
-      },
-      {
-        "title": "Transparent Fault Tolerance for Real-Time Automation Systems.",
-        "authors": [
-          "Burak Hasircioglu",
-          "Yvonne-Anne Pignolet",
-          "Thanikesavan Sivanthi"
-        ]
-      },
-      {
-        "title": "An Actor Based Architecture For Multi-Robot System With Application To Warehouse.",
-        "authors": [
-          "Aniruddha Singhal",
-          "Harsh Vardhan Singh",
-          "Aarathi Penumatsa",
-          "Nakul Bhatt",
-          "Prakash Chanderlal Ambwani",
-          "Swagat Kumar",
-          "Rajesh Sinha"
-        ]
-      },
-      {
-        "title": "Geometric Mapping for Sustained Indoor Autonomy.",
-        "authors": [
-          "Zakieh S. Hashemifar",
-          "Kyung Won Lee",
-          "Nils Napp",
-          "Karthik Dantu"
-        ]
-      },
-      {
-        "title": "Wireless Mesh Routing For Indoor Robotic Communications.",
-        "authors": [
-          "Nikita Trivedi",
-          "Bighnaraj Panigrahi",
-          "Hemant Kumar Rath",
-          "Arpan Pal"
-        ]
-      },
-      {
-        "title": "SkyHelp: UAV Assisted Emergency Communication in Deep Open Pit Mines.",
-        "authors": [
-          "Alok Ranjan",
-          "Bighnaraj Panigrahi",
-          "Himanshu Bhushan Sahu",
-          "Prasant Misra"
-        ]
-      },
-      {
-        "title": "Planning Mobile Charging Vehicles Based on User Charging Behavior.",
-        "authors": [
-          "Qi Liu",
-          "Jinyang Li",
-          "Xiaoshan Sun",
-          "Peng Xu",
-          "Junjie Wang",
-          "Wei Zheng",
-          "Jian Li",
-          "Hengchang Liu"
-        ]
-      },
-      {
-        "title": "Towards Accurate and Real-time Information Extrapolation on Charging Pile Network.",
-        "authors": [
-          "Jinyang Li",
-          "Tingzhi Li",
-          "Xiaoshan Sun",
-          "Peng Xu",
-          "Junjie Wang",
-          "Qi Liu",
-          "Wei Zheng",
-          "Jian Li",
-          "Hengchang Liu"
-        ]
-      },
-      {
-        "title": "Localizing a Depth Measuring Sensor In Flood Scenario.",
-        "authors": [
-          "Rolif Lima",
-          "Kaushik Das"
-        ]
-      },
-      {
-        "title": "Analysing Multi-Point Multi-Frequency Machine Vibrations using Optical Sampling.",
-        "authors": [
-          "Dibyendu Roy",
-          "Avik Ghose",
-          "Tapas Chakravarty",
-          "Sushovan Mukherjee",
-          "Arpan Pal",
-          "Archan Misra"
-        ]
-      },
-      {
-        "title": "The Analysis of Features Importance in Electrical Infrared Images Faults Diagnosis.",
-        "authors": [
-          "Qi Zhao",
-          "Lei Su",
-          "Zhaoyang Shi",
-          "Ping Ling",
-          "Nannan Yan",
-          "Chunjie Gu",
-          "Zhixiong Shi"
-        ]
-      },
-      {
-        "title": "Geomagnetic Field based Human Search and Following for Autonomous Robots.",
-        "authors": [
-          "Sen Wang",
-          "Qingfeng Xia",
-          "William Smith"
         ]
       }
     ]
@@ -7844,415 +8123,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/emdl2018.html": {
-    "header": "2nd EMDL@MobiSys 2018: Munich, Germany",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "Efficiently Combining SVD, Pruning, Clustering and Retraining for Enhanced Neural Network Compression.",
-        "authors": [
-          "Koen Goetschalckx",
-          "Bert Moons",
-          "Patrick Wambacq",
-          "Marian Verhelst"
-        ]
-      },
-      {
-        "title": "D-Pruner: Filter-Based Pruning Method for Deep Convolutional Neural Network.",
-        "authors": [
-          "Huynh Nguyen Loc",
-          "Youngki Lee",
-          "Rajesh Krishna Balan"
-        ]
-      },
-      {
-        "title": "On-the-fly deterministic binary filters for memory efficient keyword spotting applications on embedded devices.",
-        "authors": [
-          "Javier Fernández-Marqués",
-          "Vincent W. S. Tseng",
-          "Sourav Bhattacharya",
-          "Nicholas D. Lane"
-        ]
-      },
-      {
-        "title": "Mobile Based Continuous Authentication Using Deep Features.",
-        "authors": [
-          "Mario Parreño Centeno",
-          "Yu Guan",
-          "Aad van Moorsel"
-        ]
-      },
-      {
-        "title": "Mayo: A Framework for Auto-generating Hardware Friendly Deep Neural Networks.",
-        "authors": [
-          "Yiren Zhao",
-          "Xitong Gao",
-          "Robert D. Mullins",
-          "Chengzhong Xu"
-        ]
-      },
-      {
-        "title": "HARNet: Towards On-Device Incremental Learning using Deep Ensembles on Constrained Devices.",
-        "authors": [
-          "Prahalathan Sundaramoorthy",
-          "Gautham Krishna Gudur",
-          "Manav Rajiv Moorthy",
-          "R. Nidhi Bhandari",
-          "Vineeth Vijayaraghavan"
-        ]
-      },
-      {
-        "title": "Neural Network Syntax Analyzer for Embedded Standardized Deep Learning.",
-        "authors": [
-          "Myungjae Shin",
-          "Joongheon Kim",
-          "Aziz Mohaisen",
-          "Jaebok Park",
-          "KyungHee Lee"
-        ]
-      },
-      {
-        "title": "QualityDeepSense: Quality-Aware Deep Learning Framework for Internet of Things Applications with Sensor-Temporal Attention.",
-        "authors": [
-          "Shuochao Yao",
-          "Yiran Zhao",
-          "Shaohan Hu",
-          "Tarek F. Abdelzaher"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/wearsys2018.html": {
-    "header": "WearSys@MobiSys 2018: Munich, Germany",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "Disposable, stretchable on-skin sensors for posture monitoring.",
-        "authors": [
-          "Kaspar Jansen",
-          "Bailey Tarren",
-          "Mascha Slingerland"
-        ]
-      },
-      {
-        "title": "Exploring audio and kinetic sensing on earable devices.",
-        "authors": [
-          "Chulhong Min",
-          "Akhil Mathur",
-          "Fahim Kawsar"
-        ]
-      },
-      {
-        "title": "FSO-VR: steerable free space optics link for virtual reality headsets.",
-        "authors": [
-          "Md. Shaifur Rahman",
-          "Kai Zheng",
-          "Himanshu Gupta"
-        ]
-      },
-      {
-        "title": "Understanding activity segmentation for multi-sport competitions.",
-        "authors": [
-          "Justin Whitlock",
-          "Orkun Krand",
-          "Shubham Jain"
-        ]
-      },
-      {
-        "title": "Keystroke inference using ambient light sensor on wrist-wearables: a feasibility study.",
-        "authors": [
-          "Mohd Sabra",
-          "Anindya Maiti",
-          "Murtuza Jadliwala"
-        ]
-      },
-      {
-        "title": "Mindful interruptions: a lightweight system for managing interruptibility on wearables.",
-        "authors": [
-          "Claudio Forlivesi",
-          "Utku Günay Acer",
-          "Marc Van den Broeck",
-          "Fahim Kawsar"
-        ]
-      },
-      {
-        "title": "TILES audio recorder: an unobtrusive wearable solution to track audio activity.",
-        "authors": [
-          "Tiantian Feng",
-          "Amrutha Nadarajan",
-          "Colin Vaz",
-          "Brandon M. Booth",
-          "Shrikanth S. Narayanan"
-        ]
-      },
-      {
-        "title": "Table of interest: activity recognition and behaviour analysis using a battery less wearable sensor.",
-        "authors": [
-          "Dibyanshu Jaiswal",
-          "Andrew Gigie",
-          "Tapas Chakravarty",
-          "Avik Ghose",
-          "Archan Misra"
-        ]
-      },
-      {
-        "title": "The potential of wearable technology for monitoring social interactions based on interpersonal synchrony.",
-        "authors": [
-          "Katrin Hänsel",
-          "Kleomenis Katevas",
-          "Guido Orgs",
-          "Daniel C. Richardson",
-          "Akram Alomainy",
-          "Hamed Haddadi"
-        ]
-      },
-      {
-        "title": "Visual features for ego-centric activity recognition: a survey.",
-        "authors": [
-          "Girmaw Abebe Tadesse",
-          "Andrea Cavallaro"
-        ]
-      },
-      {
-        "title": "Challenges with real-world smartwatch based audio monitoring.",
-        "authors": [
-          "Daniyal Liaqat",
-          "Robert Wu",
-          "Andrea Gershon",
-          "Hisham Alshaer",
-          "Frank Rudzicz",
-          "Eyal de Lara"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/edgesys2018.html": {
-    "header": "EdgeSys@MobiSys 2018: Munich, Germany",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "EdgeEye: An Edge Service Framework for Real-time Intelligent Video Analytics.",
-        "authors": [
-          "Peng Liu",
-          "Bozhao Qi",
-          "Suman Banerjee"
-        ]
-      },
-      {
-        "title": "The Web as a Distributed Computing Platform.",
-        "authors": [
-          "Nikos Vasilakis",
-          "Pranjal Goel",
-          "Henri Maxime Demoulin",
-          "Jonathan M. Smith"
-        ]
-      },
-      {
-        "title": "Enabling GPU-assisted Antivirus Protection on Android Devices through Edge Offloading.",
-        "authors": [
-          "Dimitris Deyannis",
-          "Rafail Tsirbas",
-          "Giorgos Vasiliadis",
-          "Raffaele Montella",
-          "Sokol Kosta",
-          "Sotiris Ioannidis"
-        ]
-      },
-      {
-        "title": "A Multi-Cloudlet Infrastructure for Future Smart Cities: An Empirical Study.",
-        "authors": [
-          "Julien Gedeon",
-          "Jeff Krisztinkovics",
-          "Christian Meurisch",
-          "Michael Stein",
-          "Lin Wang",
-          "Max Mühlhäuser"
-        ]
-      },
-      {
-        "title": "Profit-aware Resource Management for Edge Computing Systems.",
-        "authors": [
-          "Cosimo Anglano",
-          "Massimo Canonico",
-          "Marco Guazzone"
-        ]
-      },
-      {
-        "title": "Duvel: Enabling Context-driven, Multi-profile Apps on Android through Storage Sandboxing.",
-        "authors": [
-          "Sharath Chandrashekhara",
-          "Taeyeon Ki",
-          "Karthik Dantu",
-          "Steven Y. Ko"
-        ]
-      },
-      {
-        "title": "Enabling Edge Devices that Learn from Each Other: Cross Modal Training for Activity Recognition.",
-        "authors": [
-          "Tianwei Xing",
-          "Sandeep Singh Sandha",
-          "Bharathan Balaji",
-          "Supriyo Chakraborty",
-          "Mani B. Srivastava"
-        ]
-      },
-      {
-        "title": "Semi-Edge: From Edge Caching to Hierarchical Caching in Network Fog.",
-        "authors": [
-          "Yining Hua",
-          "Lin Guan",
-          "Konstantinos G. Kyriakopoulos"
-        ]
-      },
-      {
-        "title": "Voice enabling mobile applications with UIVoice.",
-        "authors": [
-          "Ahmad Bisher Tarakji",
-          "Jian Xu",
-          "Juan A. Colmenares",
-          "Iqbal Mohomed"
-        ]
-      },
-      {
-        "title": "Sizing Buffers of IoT Edge Routers.",
-        "authors": [
-          "Jamal Ahmad Khan",
-          "Muhammad Shahzad",
-          "Ali Raza Butt"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/digitalbiomarker2017.html": {
-    "header": "1st DigitalBioMarker@MobiSys 2017: Niagara Falls, NY, USA",
-    "year": "2017",
-    "papers": [
-      {
-        "title": "A Quantum of Solace: Digital Traces and Mental Health.",
-        "authors": [
-          "Vincent M. B. Silenzio"
-        ]
-      },
-      {
-        "title": "Designing Effective Movement Digital Biomarkers for Unobtrusive Emotional State Mobile Monitoring.",
-        "authors": [
-          "Abhinav Mehrotra",
-          "Mirco Musolesi"
-        ]
-      },
-      {
-        "title": "Discovery of Behavioral Markers of Social Anxiety from Smartphone Sensor Data.",
-        "authors": [
-          "Yu Huang",
-          "Jiaqi Gong",
-          "Mark Rucker",
-          "Philip Chow",
-          "Karl C. Fua",
-          "Matthew S. Gerber",
-          "Bethany A. Teachman",
-          "Laura E. Barnes"
-        ]
-      },
-      {
-        "title": "Motion Biomarkers for Early Detection of Dementia-Related Agitation.",
-        "authors": [
-          "Ridwan Alam",
-          "Jiaqi Gong",
-          "Mark A. Hanson",
-          "Azziza Bankole",
-          "Martha S. Anderson",
-          "Tonya L. Smith-Jackson",
-          "John C. Lach"
-        ]
-      },
-      {
-        "title": "Exploring Symmetric and Asymmetric Bimanual Eating Detection with Inertial Sensors on the Wrist.",
-        "authors": [
-          "Edison Thomaz",
-          "Abdelkareem Bedri",
-          "Temiloluwa Prioleau",
-          "Irfan A. Essa",
-          "Gregory D. Abowd"
-        ]
-      },
-      {
-        "title": "MyoBuddy: Detecting Barbell Weight Using Electromyogram Sensors.",
-        "authors": [
-          "Bo-Jhang Ho",
-          "Renju Liu",
-          "Hsiao-Yun Tseng",
-          "Mani B. Srivastava"
-        ]
-      },
-      {
-        "title": "Observation Time vs. Performance in Digital Phenotyping.",
-        "authors": [
-          "Tom Quisel",
-          "Wei-Nchih Lee",
-          "Luca Foschini"
-        ]
-      },
-      {
-        "title": "Panel: Designing Studies for Feasibility Testing, Refinement and Validation of Digital Biomarkers.",
-        "authors": [
-          "John P. Pollak",
-          "Michael L. Birnbaum",
-          "Tanzeem Choudhury",
-          "Frederick Muench",
-          "Graeme Rimmer"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/emdl2017.html": {
-    "header": "1st EMDL@MobiSys 2017: Niagara Falls, NY, USA",
-    "year": "2017",
-    "papers": [
-      {
-        "title": "MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU.",
-        "authors": [
-          "Qingqing Cao",
-          "Niranjan Balasubramanian",
-          "Aruna Balasubramanian"
-        ]
-      },
-      {
-        "title": "RSTensorFlow: GPU Enabled TensorFlow for Deep Learning on Commodity Android Devices.",
-        "authors": [
-          "Moustafa Alzantot",
-          "Yingnan Wang",
-          "Zhengshuang Ren",
-          "Mani B. Srivastava"
-        ]
-      },
-      {
-        "title": "Pruning Filters and Classes: Towards On-Device Customization of Convolutional Neural Networks.",
-        "authors": [
-          "Jia Guo",
-          "Miodrag Potkonjak"
-        ]
-      },
-      {
-        "title": "Practical Processing of Mobile Sensor Data for Continual Deep Learning Predictions.",
-        "authors": [
-          "Kleomenis Katevas",
-          "Ilias Leontiadis",
-          "Martin Pielot",
-          "Joan Serrà"
-        ]
-      },
-      {
-        "title": "Design and Implementation of the Vehicular Camera System using Deep Neural Network Compression.",
-        "authors": [
-          "Beomjun Kim",
-          "Yongsu Jeon",
-          "Heejin Park",
-          "Dongheon Han",
-          "Yunju Baek"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/mobisys/wpa2017.html": {
     "header": "WPA@MobiSys 2017: Niagara Falls, NY, USA",
     "year": "2017",
@@ -8318,95 +8188,6 @@
         "authors": [
           "Aarathi Prasad",
           "David Kotz"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/dronet2017.html": {
-    "header": "3rd DroNet@MobiSys 2017: Niagara Falls, NY, USA",
-    "year": "2017",
-    "papers": [
-      {
-        "title": "PROTC: PROTeCting Drone's Peripherals through ARM TrustZone.",
-        "authors": [
-          "Renju Liu",
-          "Mani B. Srivastava"
-        ]
-      },
-      {
-        "title": "Mission Support for Drones: a Policy Based Approach.",
-        "authors": [
-          "Alan Cullen",
-          "Bill Williams",
-          "Elisa Bertino",
-          "Saritha Arunkumar",
-          "Erisa Karafili",
-          "Emil Lupu"
-        ]
-      },
-      {
-        "title": "A Novel Hybrid Path Planning Algorithm for Localization in Wireless Networks.",
-        "authors": [
-          "Alina Rubina",
-          "Oleksandr Artemenko",
-          "Oleksandr Andryeyev",
-          "Andreas Mitschele-Thiel"
-        ]
-      },
-      {
-        "title": "ASIMUT project: Aid to SItuation Management based on MUltimodal, MUltiUAVs, MUltilevel acquisition Techniques.",
-        "authors": [
-          "Pascal Bouvry",
-          "Serge Chaumette",
-          "Grégoire Danoy",
-          "Gilles Guerrini",
-          "Gilles Jurquet",
-          "Achim Kuwertz",
-          "Wilmuth Müller",
-          "Martin Rosalie",
-          "Jennifer Sander",
-          "Florian Segor"
-        ]
-      },
-      {
-        "title": "Drone Networks for Virtual Human Teleportation.",
-        "authors": [
-          "Jacob Chakareski"
-        ]
-      },
-      {
-        "title": "Identifying Mosquito Breeding Sites via Drone Images.",
-        "authors": [
-          "Chathura Suduwella",
-          "Akarshani Amarasinghe",
-          "Lasith Niroshan",
-          "Charith Elvitigala",
-          "Kasun De Zoysa",
-          "Chamath Keppetiyagama"
-        ]
-      },
-      {
-        "title": "Network Traffic Analysis of a Small Quadcopter.",
-        "authors": [
-          "Stefano Munari",
-          "Claudio E. Palazzi",
-          "Giacomo Quadrio",
-          "Daniele Ronzani"
-        ]
-      },
-      {
-        "title": "Increasing the Cellular Network Capacity Using Self-Organized Aerial Base Stations.",
-        "authors": [
-          "Oleksandr Andryeyev",
-          "Andreas Mitschele-Thiel"
-        ]
-      },
-      {
-        "title": "FANET Application Scenarios and Mobility Models.",
-        "authors": [
-          "Armir Bujari",
-          "Claudio E. Palazzi",
-          "Daniele Ronzani"
         ]
       }
     ]
@@ -9374,497 +9155,271 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/iotofhealth2016.html": {
-    "header": "IoTofHealth@MobiSys 2016: Singapore",
-    "year": "2016",
+  "https://dblp.org/db/conf/mobisys/emdl2017.html": {
+    "header": "1st EMDL@MobiSys 2017: Niagara Falls, NY, USA",
+    "year": "2017",
     "papers": [
       {
-        "title": "Keynote Talk: Harnessing Health IOT for Smart Healthcare.",
+        "title": "MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU.",
         "authors": [
-          "David T. Lai"
+          "Qingqing Cao",
+          "Niranjan Balasubramanian",
+          "Aruna Balasubramanian"
         ]
       },
       {
-        "title": "iCarMa: Inexpensive Cardiac Arrhythmia Management - An IoT Healthcare Analytics Solution.",
+        "title": "RSTensorFlow: GPU Enabled TensorFlow for Deep Learning on Commodity Android Devices.",
         "authors": [
-          "Chetanya Puri",
-          "Arijit Ukil",
-          "Soma Bandyopadhyay",
-          "Rituraj Singh",
-          "Arpan Pal",
-          "Kayapanda M. Mandana"
+          "Moustafa Alzantot",
+          "Yingnan Wang",
+          "Zhengshuang Ren",
+          "Mani B. Srivastava"
         ]
       },
       {
-        "title": "Food Weight Estimation using Smartphone and Cutlery.",
+        "title": "Pruning Filters and Classes: Towards On-Device Customization of Convolutional Neural Networks.",
         "authors": [
-          "Elder Akpa Akpro Hippocrate",
-          "Hirohiko Suwa",
-          "Yutaka Arakawa",
-          "Keiichi Yasumoto"
+          "Jia Guo",
+          "Miodrag Potkonjak"
         ]
       },
       {
-        "title": "Small Nudges, Big Impact: Innovative Approaches to Health Promotion in Singapore.",
+        "title": "Practical Processing of Mobile Sensor Data for Continual Deep Learning Predictions.",
         "authors": [
-          "Vanessa Tan"
+          "Kleomenis Katevas",
+          "Ilias Leontiadis",
+          "Martin Pielot",
+          "Joan Serrà"
         ]
       },
       {
-        "title": "IoT-Enabled Health Promotion.",
+        "title": "Design and Implementation of the Vehicular Camera System using Deep Neural Network Compression.",
         "authors": [
-          "Vanessa Tan",
-          "Susheela A. Varghese"
-        ]
-      },
-      {
-        "title": "Heterogeneous Services in Layered Framework of IoT Enabled Assisted Living.",
-        "authors": [
-          "Tapalina Bhattasali",
-          "Nabendu Chaki"
-        ]
-      },
-      {
-        "title": "Exploiting IMU Sensors for IOT Enabled Health Monitoring.",
-        "authors": [
-          "Vivek Chandel",
-          "Arijit Sinharay",
-          "Nasimuddin Ahmed",
-          "Avik Ghose"
-        ]
-      },
-      {
-        "title": "From Books to Bots: Using Medical Literature to Create a Chat Bot.",
-        "authors": [
-          "Michael Fischer",
-          "Monica S. Lam"
-        ]
-      },
-      {
-        "title": "SleepSensei: An Automated Sleep Quality Monitor and Sleep Duration Estimator.",
-        "authors": [
-          "Amrith Krishna",
-          "Madhumita Mallick",
-          "Bivas Mitra"
-        ]
-      },
-      {
-        "title": "Data-driven Healthcare using Affordable Sensing: Screening, Diagnosis and Therapy.",
-        "authors": [
-          "Arpan Pal"
+          "Beomjun Kim",
+          "Yongsu Jeon",
+          "Heejin Park",
+          "Dongheon Han",
+          "Yunju Baek"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/dronet2016.html": {
-    "header": "2nd DroNet@MobiSys 2016: Singapore",
+  "https://dblp.org/db/conf/mobisys/dronet2017.html": {
+    "header": "3rd DroNet@MobiSys 2017: Niagara Falls, NY, USA",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "PROTC: PROTeCting Drone's Peripherals through ARM TrustZone.",
+        "authors": [
+          "Renju Liu",
+          "Mani B. Srivastava"
+        ]
+      },
+      {
+        "title": "Mission Support for Drones: a Policy Based Approach.",
+        "authors": [
+          "Alan Cullen",
+          "Bill Williams",
+          "Elisa Bertino",
+          "Saritha Arunkumar",
+          "Erisa Karafili",
+          "Emil Lupu"
+        ]
+      },
+      {
+        "title": "A Novel Hybrid Path Planning Algorithm for Localization in Wireless Networks.",
+        "authors": [
+          "Alina Rubina",
+          "Oleksandr Artemenko",
+          "Oleksandr Andryeyev",
+          "Andreas Mitschele-Thiel"
+        ]
+      },
+      {
+        "title": "ASIMUT project: Aid to SItuation Management based on MUltimodal, MUltiUAVs, MUltilevel acquisition Techniques.",
+        "authors": [
+          "Pascal Bouvry",
+          "Serge Chaumette",
+          "Grégoire Danoy",
+          "Gilles Guerrini",
+          "Gilles Jurquet",
+          "Achim Kuwertz",
+          "Wilmuth Müller",
+          "Martin Rosalie",
+          "Jennifer Sander",
+          "Florian Segor"
+        ]
+      },
+      {
+        "title": "Drone Networks for Virtual Human Teleportation.",
+        "authors": [
+          "Jacob Chakareski"
+        ]
+      },
+      {
+        "title": "Identifying Mosquito Breeding Sites via Drone Images.",
+        "authors": [
+          "Chathura Suduwella",
+          "Akarshani Amarasinghe",
+          "Lasith Niroshan",
+          "Charith Elvitigala",
+          "Kasun De Zoysa",
+          "Chamath Keppetiyagama"
+        ]
+      },
+      {
+        "title": "Network Traffic Analysis of a Small Quadcopter.",
+        "authors": [
+          "Stefano Munari",
+          "Claudio E. Palazzi",
+          "Giacomo Quadrio",
+          "Daniele Ronzani"
+        ]
+      },
+      {
+        "title": "Increasing the Cellular Network Capacity Using Self-Organized Aerial Base Stations.",
+        "authors": [
+          "Oleksandr Andryeyev",
+          "Andreas Mitschele-Thiel"
+        ]
+      },
+      {
+        "title": "FANET Application Scenarios and Mobility Models.",
+        "authors": [
+          "Armir Bujari",
+          "Claudio E. Palazzi",
+          "Daniele Ronzani"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/digitalbiomarker2017.html": {
+    "header": "1st DigitalBioMarker@MobiSys 2017: Niagara Falls, NY, USA",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "A Quantum of Solace: Digital Traces and Mental Health.",
+        "authors": [
+          "Vincent M. B. Silenzio"
+        ]
+      },
+      {
+        "title": "Designing Effective Movement Digital Biomarkers for Unobtrusive Emotional State Mobile Monitoring.",
+        "authors": [
+          "Abhinav Mehrotra",
+          "Mirco Musolesi"
+        ]
+      },
+      {
+        "title": "Discovery of Behavioral Markers of Social Anxiety from Smartphone Sensor Data.",
+        "authors": [
+          "Yu Huang",
+          "Jiaqi Gong",
+          "Mark Rucker",
+          "Philip Chow",
+          "Karl C. Fua",
+          "Matthew S. Gerber",
+          "Bethany A. Teachman",
+          "Laura E. Barnes"
+        ]
+      },
+      {
+        "title": "Motion Biomarkers for Early Detection of Dementia-Related Agitation.",
+        "authors": [
+          "Ridwan Alam",
+          "Jiaqi Gong",
+          "Mark A. Hanson",
+          "Azziza Bankole",
+          "Martha S. Anderson",
+          "Tonya L. Smith-Jackson",
+          "John C. Lach"
+        ]
+      },
+      {
+        "title": "Exploring Symmetric and Asymmetric Bimanual Eating Detection with Inertial Sensors on the Wrist.",
+        "authors": [
+          "Edison Thomaz",
+          "Abdelkareem Bedri",
+          "Temiloluwa Prioleau",
+          "Irfan A. Essa",
+          "Gregory D. Abowd"
+        ]
+      },
+      {
+        "title": "MyoBuddy: Detecting Barbell Weight Using Electromyogram Sensors.",
+        "authors": [
+          "Bo-Jhang Ho",
+          "Renju Liu",
+          "Hsiao-Yun Tseng",
+          "Mani B. Srivastava"
+        ]
+      },
+      {
+        "title": "Observation Time vs. Performance in Digital Phenotyping.",
+        "authors": [
+          "Tom Quisel",
+          "Wei-Nchih Lee",
+          "Luca Foschini"
+        ]
+      },
+      {
+        "title": "Panel: Designing Studies for Feasibility Testing, Refinement and Validation of Digital Biomarkers.",
+        "authors": [
+          "John P. Pollak",
+          "Michael L. Birnbaum",
+          "Tanzeem Choudhury",
+          "Frederick Muench",
+          "Graeme Rimmer"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/wearsys2016.html": {
+    "header": "WearSys@MobiSys 2016: Niagara Falls, NY, USA",
     "year": "2016",
     "papers": [
       {
-        "title": "Autonomous Mobile Drone Mesh Networks.",
+        "title": "MiHub: Wearable Management for IoT.",
         "authors": [
-          "Kate Ching-Ju Lin"
+          "Kirill Varshavskiy",
+          "Albert F. Harris III",
+          "Robin Kravets"
         ]
       },
       {
-        "title": "Drones in the Smart City and IoT: Protocols, Resilience, Benefits, and Risks.",
+        "title": "CryptoCoP: Lightweight, Energy-efficient Encryption and Privacy for Wearable Devices.",
         "authors": [
-          "James P. G. Sterbenz"
+          "Robin Snader",
+          "Robin Kravets",
+          "Albert F. Harris III"
         ]
       },
       {
-        "title": "Towards Single-Failure-Tolerant Multicopters.",
+        "title": "Wireless Smartphone Keyboard for Visually Challenged Users.",
         "authors": [
-          "David Mirk",
-          "Andreas Janecek",
-          "Helmut Hlavacs"
+          "Cecil D'silva",
+          "Vickram Parthasarathy",
+          "Sethuraman N. Rao"
         ]
       },
       {
-        "title": "Model-based Real-time Testing of Drone Autopilots.",
+        "title": "In-ear Biosignal Recording System: A Wearable For Automatic Whole-night Sleep Staging.",
         "authors": [
-          "Andrea Patelli",
-          "Luca Mottola"
-        ]
-      },
-      {
-        "title": "Investigating Cost-effective RF-based Detection of Drones.",
-        "authors": [
-          "Phuc Nguyen",
-          "Mahesh Ravindranathan",
           "Anh Nguyen",
-          "Richard Han",
+          "Raghda Alqurashi",
+          "Zohreh Raghebi",
+          "Farnoush Banaei Kashani",
+          "Ann C. Halbower",
+          "Thang N. Dinh",
           "Tam Vu"
         ]
       },
       {
-        "title": "Enhancing TV White-Spaces Database with Unmanned Aerial Scanning Vehicles (UASVs).",
+        "title": "DeepSense: A GPU-based Deep Convolutional Neural Network Framework on Commodity Mobile Devices.",
         "authors": [
-          "Angelo Trotta",
-          "Luca Bedogni",
-          "Marco Di Felice",
-          "Luciano Bononi",
-          "Enrico Natalizio"
-        ]
-      },
-      {
-        "title": "A Security Framework for a Drone Delivery Service.",
-        "authors": [
-          "Seung-Hyun Seo",
-          "Jongho Won",
-          "Elisa Bertino",
-          "You Sung Kang",
-          "Dooho Choi"
-        ]
-      },
-      {
-        "title": "Generic Drone Control Platform for Autonomous Capture of Cinema Scenes.",
-        "authors": [
-          "Julien Fleureau",
-          "Quentin Galvane",
-          "François-Louis Tariolle",
-          "Philippe Guillotel"
-        ]
-      },
-      {
-        "title": "Cloudrone: Micro Clouds in the Sky.",
-        "authors": [
-          "Arjuna Sathiaseelan",
-          "Adisorn Lertsinsrubtavee",
-          "Adarsh Jagan",
-          "Prakash Baskaran",
-          "Jon Crowcroft"
-        ]
-      },
-      {
-        "title": "Virtual Space Boxes and Drone-as-Reference-Station Localisation for Drone Services: an Approach Based on Signal Strengths.",
-        "authors": [
-          "Seng W. Loke",
-          "Majed Alwateer",
-          "Venura S. A. Abeysinghe Achchige Don"
-        ]
-      },
-      {
-        "title": "UAV Multilevel Swarms for Situation Management.",
-        "authors": [
-          "Martin Rosalie",
-          "Grégoire Danoy",
-          "Pascal Bouvry",
-          "Serge Chaumette"
-        ]
-      },
-      {
-        "title": "PI in the Sky.",
-        "authors": [
-          "Jongwon Yoon",
-          "Peng Liu",
-          "Suman Banerjee",
-          "SangHyeog Kim"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/mobisys2016.html": {
-    "header": "14th MobiSys 2016: Singapore",
-    "year": "2016",
-    "papers": [
-      {
-        "title": "LiveLabs: Building In-Situ Mobile Sensing & Behavioural Experimentation TestBeds.",
-        "authors": [
-          "Kasthuri Jayarajah",
+          "Huynh Nguyen Loc",
           "Rajesh Krishna Balan",
-          "Meera Radhakrishnan",
-          "Archan Misra",
           "Youngki Lee"
-        ]
-      },
-      {
-        "title": "Platypus: Indoor Localization and Identification through Sensing of Electric Potential Changes in Human Bodies.",
-        "authors": [
-          "Tobias Grosse-Puppendahl",
-          "Xavier Dellangnol",
-          "Christian Hatzfeld",
-          "Biying Fu",
-          "Mario Kupnik",
-          "Arjan Kuijper",
-          "Matthias R. Hastall",
-          "James Scott",
-          "Marco Gruteser"
-        ]
-      },
-      {
-        "title": "The Design and Implementation of a Mobile RFID Tag Sorting Robot.",
-        "authors": [
-          "Longfei Shangguan",
-          "Kyle Jamieson"
-        ]
-      },
-      {
-        "title": "Idea: A System for Efficient Failure Management in Smart IoT Environments.",
-        "authors": [
-          "Palanivel A. Kodeswaran",
-          "Ravi Kokku",
-          "Sayandeep Sen",
-          "Mudhakar Srivatsa"
-        ]
-      },
-      {
-        "title": "Listening through a Vibration Motor.",
-        "authors": [
-          "Nirupam Roy",
-          "Romit Roy Choudhury"
-        ]
-      },
-      {
-        "title": "Practical Human Sensing in the Light.",
-        "authors": [
-          "Tianxing Li",
-          "Qiang Liu",
-          "Xia Zhou"
-        ]
-      },
-      {
-        "title": "I am a Smartwatch and I can Track my User's Arm.",
-        "authors": [
-          "Sheng Shen",
-          "He Wang",
-          "Romit Roy Choudhury"
-        ]
-      },
-      {
-        "title": "BodyScan: Enabling Radio-based Sensing on Wearable Devices for Contactless Activity and Vital Sign Monitoring.",
-        "authors": [
-          "Biyi Fang",
-          "Nicholas D. Lane",
-          "Mi Zhang",
-          "Aidan Boran",
-          "Fahim Kawsar"
-        ]
-      },
-      {
-        "title": "Beetle: Flexible Communication for Bluetooth Low Energy.",
-        "authors": [
-          "Amit A. Levy",
-          "James Hong",
-          "Laurynas Riliskis",
-          "Philip Alexander Levis",
-          "Keith Winstein"
-        ]
-      },
-      {
-        "title": "MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints.",
-        "authors": [
-          "Seungyeop Han",
-          "Haichen Shen",
-          "Matthai Philipose",
-          "Sharad Agarwal",
-          "Alec Wolman",
-          "Arvind Krishnamurthy"
-        ]
-      },
-      {
-        "title": "TaskFolder: Dynamic and Fine-Grained Workload Consolidation for Mobile Devices.",
-        "authors": [
-          "Yuyang Du",
-          "Sebastien Haezebrouck",
-          "Jin Cui",
-          "Rajeev Muralidhar",
-          "Harinarayanan Seshadri",
-          "Vishwesh Rudramuni",
-          "Nicole Chalhoub",
-          "YongTong Chua",
-          "Richard Quinzio"
-        ]
-      },
-      {
-        "title": "Understanding the Characteristics of Android Wear OS.",
-        "authors": [
-          "Renju Liu",
-          "Felix Xiaozhu Lin"
-        ]
-      },
-      {
-        "title": "Mobility Modeling and Prediction in Bike-Sharing Systems.",
-        "authors": [
-          "Zidong Yang",
-          "Ji Hu",
-          "Yuanchao Shu",
-          "Peng Cheng",
-          "Jiming Chen",
-          "Thomas Moscibroda"
-        ]
-      },
-      {
-        "title": "Defending against Sybil Devices in Crowdsourced Mapping Services.",
-        "authors": [
-          "Gang Wang",
-          "Bolun Wang",
-          "Tianyi Wang",
-          "Ana Nika",
-          "Haitao Zheng",
-          "Ben Y. Zhao"
-        ]
-      },
-      {
-        "title": "TransitLabel: A Crowd-Sensing System for Automatic Labeling of Transit Stations Semantics.",
-        "authors": [
-          "Moustafa Elhamshary",
-          "Moustafa Youssef",
-          "Akira Uchiyama",
-          "Hirozumi Yamaguchi",
-          "Teruo Higashino"
-        ]
-      },
-      {
-        "title": "Reactive Control of Autonomous Drones.",
-        "authors": [
-          "Endri Bregu",
-          "Nicola Casamassima",
-          "Daniel Cantoni",
-          "Luca Mottola",
-          "Kamin Whitehouse"
-        ]
-      },
-      {
-        "title": "DefDroid: Towards a More Defensive Mobile OS Against Disruptive App Behavior.",
-        "authors": [
-          "Peng Huang",
-          "Tianyin Xu",
-          "Xinxin Jin",
-          "Yuanyuan Zhou"
-        ]
-      },
-      {
-        "title": "I-Pic: A Platform for Privacy-Compliant Image Capture.",
-        "authors": [
-          "Paarijaat Aditya",
-          "Rijurekha Sen",
-          "Peter Druschel",
-          "Seong Joon Oh",
-          "Rodrigo Benenson",
-          "Mario Fritz",
-          "Bernt Schiele",
-          "Bobby Bhattacharjee",
-          "Tong Tong Wu"
-        ]
-      },
-      {
-        "title": "What You Mark is What Apps See.",
-        "authors": [
-          "Nisarg Raval",
-          "Animesh Srivastava",
-          "Ali Razeen",
-          "Kiron Lebeck",
-          "Ashwin Machanavajjhala",
-          "Landon P. Cox"
-        ]
-      },
-      {
-        "title": "Viola: Trustworthy Sensor Notifications for Enhanced Privacy on Mobile Systems.",
-        "authors": [
-          "Saeed Mirzamohammadi",
-          "Ardalan Amiri Sani"
-        ]
-      },
-      {
-        "title": "Expansion of Human-Phone Interface By Sensing Structure-Borne Sound Propagation.",
-        "authors": [
-          "Yu-Chih Tung",
-          "Kang G. Shin"
-        ]
-      },
-      {
-        "title": "FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization.",
-        "authors": [
-          "Kevin Boos",
-          "David Chu",
-          "Eduardo Cuervo"
-        ]
-      },
-      {
-        "title": "uLink: Enabling User-Defined Deep Linking to App Content.",
-        "authors": [
-          "Tanzirul Azim",
-          "Oriana Riva",
-          "Suman Nath"
-        ]
-      },
-      {
-        "title": "FOCUS: Robust Visual Codes for Everyone.",
-        "authors": [
-          "Frederik Hermans",
-          "Liam McNamara",
-          "Gábor Sörös",
-          "Christian Rohner",
-          "Thiemo Voigt",
-          "Edith C. H. Ngai"
-        ]
-      },
-      {
-        "title": "Practical Bluetooth Traffic Sniffing: Systems and Privacy Implications.",
-        "authors": [
-          "Wahhab Albazrqaoe",
-          "Jun Huang",
-          "Guoliang Xing"
-        ]
-      },
-      {
-        "title": "Characterizing and Improving WiFi Latency in Large-Scale Operational Networks.",
-        "authors": [
-          "Kaixin Sui",
-          "Mengyu Zhou",
-          "Dapeng Liu",
-          "Minghua Ma",
-          "Dan Pei",
-          "Youjian Zhao",
-          "Zimu Li",
-          "Thomas Moscibroda"
-        ]
-      },
-      {
-        "title": "ReCon: Revealing and Controlling PII Leaks in Mobile Network Traffic.",
-        "authors": [
-          "Jingjing Ren",
-          "Ashwin Rao",
-          "Martina Lindorfer",
-          "Arnaud Legout",
-          "David R. Choffnes"
-        ]
-      },
-      {
-        "title": "CASE: Comprehensive Application Security Enforcement on COTS Mobile Devices.",
-        "authors": [
-          "Suwen Zhu",
-          "Long Lu",
-          "Kapil Singh"
-        ]
-      },
-      {
-        "title": "Targeted Mimicry Attacks on Touch Input Based Implicit Authentication Schemes.",
-        "authors": [
-          "Hassan Khan",
-          "Urs Hengartner",
-          "Daniel Vogel"
-        ]
-      },
-      {
-        "title": "Privacy Capsules: Preventing Information Leaks by Mobile Apps.",
-        "authors": [
-          "Raul Herbster",
-          "Scott DellaTorre",
-          "Peter Druschel",
-          "Bobby Bhattacharjee"
-        ]
-      },
-      {
-        "title": "Regulating ARM TrustZone Devices in Restricted Spaces.",
-        "authors": [
-          "Ferdinand Brasser",
-          "Daeyoung Kim",
-          "Christopher Liebchen",
-          "Vinod Ganapathy",
-          "Liviu Iftode",
-          "Ahmad-Reza Sadeghi"
         ]
       }
     ]
@@ -11118,97 +10673,307 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/mobidata2016.html": {
-    "header": "1st MobiData@MobiSys 2016: Singapore",
+  "https://dblp.org/db/conf/mobisys/mobisys2016.html": {
+    "header": "14th MobiSys 2016: Singapore",
     "year": "2016",
     "papers": [
       {
-        "title": "The Wireless Shark: Identifying WiFi Devices Based on Probe Fingerprints.",
+        "title": "LiveLabs: Building In-Situ Mobile Sensing & Behavioural Experimentation TestBeds.",
         "authors": [
-          "Otto Waltari",
-          "Jussi Kangasharju"
+          "Kasthuri Jayarajah",
+          "Rajesh Krishna Balan",
+          "Meera Radhakrishnan",
+          "Archan Misra",
+          "Youngki Lee"
         ]
       },
       {
-        "title": "The Need to Account for Geographical Diversities in Mobile Data Research.",
+        "title": "Platypus: Indoor Localization and Identification through Sensing of Electric Potential Changes in Human Bodies.",
         "authors": [
-          "Akhil Mathur",
+          "Tobias Grosse-Puppendahl",
+          "Xavier Dellangnol",
+          "Christian Hatzfeld",
+          "Biying Fu",
+          "Mario Kupnik",
+          "Arjan Kuijper",
+          "Matthias R. Hastall",
+          "James Scott",
+          "Marco Gruteser"
+        ]
+      },
+      {
+        "title": "The Design and Implementation of a Mobile RFID Tag Sorting Robot.",
+        "authors": [
+          "Longfei Shangguan",
+          "Kyle Jamieson"
+        ]
+      },
+      {
+        "title": "Idea: A System for Efficient Failure Management in Smart IoT Environments.",
+        "authors": [
+          "Palanivel A. Kodeswaran",
+          "Ravi Kokku",
+          "Sayandeep Sen",
+          "Mudhakar Srivatsa"
+        ]
+      },
+      {
+        "title": "Listening through a Vibration Motor.",
+        "authors": [
+          "Nirupam Roy",
+          "Romit Roy Choudhury"
+        ]
+      },
+      {
+        "title": "Practical Human Sensing in the Light.",
+        "authors": [
+          "Tianxing Li",
+          "Qiang Liu",
+          "Xia Zhou"
+        ]
+      },
+      {
+        "title": "I am a Smartwatch and I can Track my User's Arm.",
+        "authors": [
+          "Sheng Shen",
+          "He Wang",
+          "Romit Roy Choudhury"
+        ]
+      },
+      {
+        "title": "BodyScan: Enabling Radio-based Sensing on Wearable Devices for Contactless Activity and Vital Sign Monitoring.",
+        "authors": [
+          "Biyi Fang",
+          "Nicholas D. Lane",
+          "Mi Zhang",
+          "Aidan Boran",
           "Fahim Kawsar"
         ]
       },
       {
-        "title": "Mining Spatial-Temporal geoMobile Data via Feature Distributional Similarity Graph.",
+        "title": "Beetle: Flexible Communication for Bluetooth Low Energy.",
         "authors": [
-          "Arvind Narayanan",
-          "Saurabh Verma",
-          "Zhi-Li Zhang"
+          "Amit A. Levy",
+          "James Hong",
+          "Laurynas Riliskis",
+          "Philip Alexander Levis",
+          "Keith Winstein"
         ]
       },
       {
-        "title": "Indoor Location Error-Detection via Crowdsourced Multi-Dimensional Mobile Data.",
+        "title": "MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints.",
         "authors": [
-          "Savina Singla",
-          "Archan Misra"
+          "Seungyeop Han",
+          "Haichen Shen",
+          "Matthai Philipose",
+          "Sharad Agarwal",
+          "Alec Wolman",
+          "Arvind Krishnamurthy"
         ]
       },
       {
-        "title": "Oscillation Resolution for Massive Cell Phone Traffic Data.",
+        "title": "TaskFolder: Dynamic and Fine-Grained Workload Consolidation for Mobile Devices.",
         "authors": [
-          "Ling Qi",
-          "Yuanyuan Qiao",
-          "Fehmi Ben Abdesslem",
-          "Zhanyu Ma",
-          "Jie Yang"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/wearsys2016.html": {
-    "header": "WearSys@MobiSys 2016: Niagara Falls, NY, USA",
-    "year": "2016",
-    "papers": [
-      {
-        "title": "MiHub: Wearable Management for IoT.",
-        "authors": [
-          "Kirill Varshavskiy",
-          "Albert F. Harris III",
-          "Robin Kravets"
+          "Yuyang Du",
+          "Sebastien Haezebrouck",
+          "Jin Cui",
+          "Rajeev Muralidhar",
+          "Harinarayanan Seshadri",
+          "Vishwesh Rudramuni",
+          "Nicole Chalhoub",
+          "YongTong Chua",
+          "Richard Quinzio"
         ]
       },
       {
-        "title": "CryptoCoP: Lightweight, Energy-efficient Encryption and Privacy for Wearable Devices.",
+        "title": "Understanding the Characteristics of Android Wear OS.",
         "authors": [
-          "Robin Snader",
-          "Robin Kravets",
-          "Albert F. Harris III"
+          "Renju Liu",
+          "Felix Xiaozhu Lin"
         ]
       },
       {
-        "title": "Wireless Smartphone Keyboard for Visually Challenged Users.",
+        "title": "Mobility Modeling and Prediction in Bike-Sharing Systems.",
         "authors": [
-          "Cecil D'silva",
-          "Vickram Parthasarathy",
-          "Sethuraman N. Rao"
+          "Zidong Yang",
+          "Ji Hu",
+          "Yuanchao Shu",
+          "Peng Cheng",
+          "Jiming Chen",
+          "Thomas Moscibroda"
         ]
       },
       {
-        "title": "In-ear Biosignal Recording System: A Wearable For Automatic Whole-night Sleep Staging.",
+        "title": "Defending against Sybil Devices in Crowdsourced Mapping Services.",
         "authors": [
-          "Anh Nguyen",
-          "Raghda Alqurashi",
-          "Zohreh Raghebi",
-          "Farnoush Banaei Kashani",
-          "Ann C. Halbower",
-          "Thang N. Dinh",
-          "Tam Vu"
+          "Gang Wang",
+          "Bolun Wang",
+          "Tianyi Wang",
+          "Ana Nika",
+          "Haitao Zheng",
+          "Ben Y. Zhao"
         ]
       },
       {
-        "title": "DeepSense: A GPU-based Deep Convolutional Neural Network Framework on Commodity Mobile Devices.",
+        "title": "TransitLabel: A Crowd-Sensing System for Automatic Labeling of Transit Stations Semantics.",
         "authors": [
-          "Huynh Nguyen Loc",
-          "Rajesh Krishna Balan",
-          "Youngki Lee"
+          "Moustafa Elhamshary",
+          "Moustafa Youssef",
+          "Akira Uchiyama",
+          "Hirozumi Yamaguchi",
+          "Teruo Higashino"
+        ]
+      },
+      {
+        "title": "Reactive Control of Autonomous Drones.",
+        "authors": [
+          "Endri Bregu",
+          "Nicola Casamassima",
+          "Daniel Cantoni",
+          "Luca Mottola",
+          "Kamin Whitehouse"
+        ]
+      },
+      {
+        "title": "DefDroid: Towards a More Defensive Mobile OS Against Disruptive App Behavior.",
+        "authors": [
+          "Peng Huang",
+          "Tianyin Xu",
+          "Xinxin Jin",
+          "Yuanyuan Zhou"
+        ]
+      },
+      {
+        "title": "I-Pic: A Platform for Privacy-Compliant Image Capture.",
+        "authors": [
+          "Paarijaat Aditya",
+          "Rijurekha Sen",
+          "Peter Druschel",
+          "Seong Joon Oh",
+          "Rodrigo Benenson",
+          "Mario Fritz",
+          "Bernt Schiele",
+          "Bobby Bhattacharjee",
+          "Tong Tong Wu"
+        ]
+      },
+      {
+        "title": "What You Mark is What Apps See.",
+        "authors": [
+          "Nisarg Raval",
+          "Animesh Srivastava",
+          "Ali Razeen",
+          "Kiron Lebeck",
+          "Ashwin Machanavajjhala",
+          "Landon P. Cox"
+        ]
+      },
+      {
+        "title": "Viola: Trustworthy Sensor Notifications for Enhanced Privacy on Mobile Systems.",
+        "authors": [
+          "Saeed Mirzamohammadi",
+          "Ardalan Amiri Sani"
+        ]
+      },
+      {
+        "title": "Expansion of Human-Phone Interface By Sensing Structure-Borne Sound Propagation.",
+        "authors": [
+          "Yu-Chih Tung",
+          "Kang G. Shin"
+        ]
+      },
+      {
+        "title": "FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization.",
+        "authors": [
+          "Kevin Boos",
+          "David Chu",
+          "Eduardo Cuervo"
+        ]
+      },
+      {
+        "title": "uLink: Enabling User-Defined Deep Linking to App Content.",
+        "authors": [
+          "Tanzirul Azim",
+          "Oriana Riva",
+          "Suman Nath"
+        ]
+      },
+      {
+        "title": "FOCUS: Robust Visual Codes for Everyone.",
+        "authors": [
+          "Frederik Hermans",
+          "Liam McNamara",
+          "Gábor Sörös",
+          "Christian Rohner",
+          "Thiemo Voigt",
+          "Edith C. H. Ngai"
+        ]
+      },
+      {
+        "title": "Practical Bluetooth Traffic Sniffing: Systems and Privacy Implications.",
+        "authors": [
+          "Wahhab Albazrqaoe",
+          "Jun Huang",
+          "Guoliang Xing"
+        ]
+      },
+      {
+        "title": "Characterizing and Improving WiFi Latency in Large-Scale Operational Networks.",
+        "authors": [
+          "Kaixin Sui",
+          "Mengyu Zhou",
+          "Dapeng Liu",
+          "Minghua Ma",
+          "Dan Pei",
+          "Youjian Zhao",
+          "Zimu Li",
+          "Thomas Moscibroda"
+        ]
+      },
+      {
+        "title": "ReCon: Revealing and Controlling PII Leaks in Mobile Network Traffic.",
+        "authors": [
+          "Jingjing Ren",
+          "Ashwin Rao",
+          "Martina Lindorfer",
+          "Arnaud Legout",
+          "David R. Choffnes"
+        ]
+      },
+      {
+        "title": "CASE: Comprehensive Application Security Enforcement on COTS Mobile Devices.",
+        "authors": [
+          "Suwen Zhu",
+          "Long Lu",
+          "Kapil Singh"
+        ]
+      },
+      {
+        "title": "Targeted Mimicry Attacks on Touch Input Based Implicit Authentication Schemes.",
+        "authors": [
+          "Hassan Khan",
+          "Urs Hengartner",
+          "Daniel Vogel"
+        ]
+      },
+      {
+        "title": "Privacy Capsules: Preventing Information Leaks by Mobile Apps.",
+        "authors": [
+          "Raul Herbster",
+          "Scott DellaTorre",
+          "Peter Druschel",
+          "Bobby Bhattacharjee"
+        ]
+      },
+      {
+        "title": "Regulating ARM TrustZone Devices in Restricted Spaces.",
+        "authors": [
+          "Ferdinand Brasser",
+          "Daeyoung Kim",
+          "Christopher Liebchen",
+          "Vinod Ganapathy",
+          "Liviu Iftode",
+          "Ahmad-Reza Sadeghi"
         ]
       }
     ]
@@ -11254,6 +11019,322 @@
           "Seong-Ping Chuah",
           "Ngai-Man Cheung",
           "Chau Yuen"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/mobidata2016.html": {
+    "header": "1st MobiData@MobiSys 2016: Singapore",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "The Wireless Shark: Identifying WiFi Devices Based on Probe Fingerprints.",
+        "authors": [
+          "Otto Waltari",
+          "Jussi Kangasharju"
+        ]
+      },
+      {
+        "title": "The Need to Account for Geographical Diversities in Mobile Data Research.",
+        "authors": [
+          "Akhil Mathur",
+          "Fahim Kawsar"
+        ]
+      },
+      {
+        "title": "Mining Spatial-Temporal geoMobile Data via Feature Distributional Similarity Graph.",
+        "authors": [
+          "Arvind Narayanan",
+          "Saurabh Verma",
+          "Zhi-Li Zhang"
+        ]
+      },
+      {
+        "title": "Indoor Location Error-Detection via Crowdsourced Multi-Dimensional Mobile Data.",
+        "authors": [
+          "Savina Singla",
+          "Archan Misra"
+        ]
+      },
+      {
+        "title": "Oscillation Resolution for Massive Cell Phone Traffic Data.",
+        "authors": [
+          "Ling Qi",
+          "Yuanyuan Qiao",
+          "Fehmi Ben Abdesslem",
+          "Zhanyu Ma",
+          "Jie Yang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/iotofhealth2016.html": {
+    "header": "IoTofHealth@MobiSys 2016: Singapore",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "Keynote Talk: Harnessing Health IOT for Smart Healthcare.",
+        "authors": [
+          "David T. Lai"
+        ]
+      },
+      {
+        "title": "iCarMa: Inexpensive Cardiac Arrhythmia Management - An IoT Healthcare Analytics Solution.",
+        "authors": [
+          "Chetanya Puri",
+          "Arijit Ukil",
+          "Soma Bandyopadhyay",
+          "Rituraj Singh",
+          "Arpan Pal",
+          "Kayapanda M. Mandana"
+        ]
+      },
+      {
+        "title": "Food Weight Estimation using Smartphone and Cutlery.",
+        "authors": [
+          "Elder Akpa Akpro Hippocrate",
+          "Hirohiko Suwa",
+          "Yutaka Arakawa",
+          "Keiichi Yasumoto"
+        ]
+      },
+      {
+        "title": "Small Nudges, Big Impact: Innovative Approaches to Health Promotion in Singapore.",
+        "authors": [
+          "Vanessa Tan"
+        ]
+      },
+      {
+        "title": "IoT-Enabled Health Promotion.",
+        "authors": [
+          "Vanessa Tan",
+          "Susheela A. Varghese"
+        ]
+      },
+      {
+        "title": "Heterogeneous Services in Layered Framework of IoT Enabled Assisted Living.",
+        "authors": [
+          "Tapalina Bhattasali",
+          "Nabendu Chaki"
+        ]
+      },
+      {
+        "title": "Exploiting IMU Sensors for IOT Enabled Health Monitoring.",
+        "authors": [
+          "Vivek Chandel",
+          "Arijit Sinharay",
+          "Nasimuddin Ahmed",
+          "Avik Ghose"
+        ]
+      },
+      {
+        "title": "From Books to Bots: Using Medical Literature to Create a Chat Bot.",
+        "authors": [
+          "Michael Fischer",
+          "Monica S. Lam"
+        ]
+      },
+      {
+        "title": "SleepSensei: An Automated Sleep Quality Monitor and Sleep Duration Estimator.",
+        "authors": [
+          "Amrith Krishna",
+          "Madhumita Mallick",
+          "Bivas Mitra"
+        ]
+      },
+      {
+        "title": "Data-driven Healthcare using Affordable Sensing: Screening, Diagnosis and Therapy.",
+        "authors": [
+          "Arpan Pal"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/dronet2016.html": {
+    "header": "2nd DroNet@MobiSys 2016: Singapore",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "Autonomous Mobile Drone Mesh Networks.",
+        "authors": [
+          "Kate Ching-Ju Lin"
+        ]
+      },
+      {
+        "title": "Drones in the Smart City and IoT: Protocols, Resilience, Benefits, and Risks.",
+        "authors": [
+          "James P. G. Sterbenz"
+        ]
+      },
+      {
+        "title": "Towards Single-Failure-Tolerant Multicopters.",
+        "authors": [
+          "David Mirk",
+          "Andreas Janecek",
+          "Helmut Hlavacs"
+        ]
+      },
+      {
+        "title": "Model-based Real-time Testing of Drone Autopilots.",
+        "authors": [
+          "Andrea Patelli",
+          "Luca Mottola"
+        ]
+      },
+      {
+        "title": "Investigating Cost-effective RF-based Detection of Drones.",
+        "authors": [
+          "Phuc Nguyen",
+          "Mahesh Ravindranathan",
+          "Anh Nguyen",
+          "Richard Han",
+          "Tam Vu"
+        ]
+      },
+      {
+        "title": "Enhancing TV White-Spaces Database with Unmanned Aerial Scanning Vehicles (UASVs).",
+        "authors": [
+          "Angelo Trotta",
+          "Luca Bedogni",
+          "Marco Di Felice",
+          "Luciano Bononi",
+          "Enrico Natalizio"
+        ]
+      },
+      {
+        "title": "A Security Framework for a Drone Delivery Service.",
+        "authors": [
+          "Seung-Hyun Seo",
+          "Jongho Won",
+          "Elisa Bertino",
+          "You Sung Kang",
+          "Dooho Choi"
+        ]
+      },
+      {
+        "title": "Generic Drone Control Platform for Autonomous Capture of Cinema Scenes.",
+        "authors": [
+          "Julien Fleureau",
+          "Quentin Galvane",
+          "François-Louis Tariolle",
+          "Philippe Guillotel"
+        ]
+      },
+      {
+        "title": "Cloudrone: Micro Clouds in the Sky.",
+        "authors": [
+          "Arjuna Sathiaseelan",
+          "Adisorn Lertsinsrubtavee",
+          "Adarsh Jagan",
+          "Prakash Baskaran",
+          "Jon Crowcroft"
+        ]
+      },
+      {
+        "title": "Virtual Space Boxes and Drone-as-Reference-Station Localisation for Drone Services: an Approach Based on Signal Strengths.",
+        "authors": [
+          "Seng W. Loke",
+          "Majed Alwateer",
+          "Venura S. A. Abeysinghe Achchige Don"
+        ]
+      },
+      {
+        "title": "UAV Multilevel Swarms for Situation Management.",
+        "authors": [
+          "Martin Rosalie",
+          "Grégoire Danoy",
+          "Pascal Bouvry",
+          "Serge Chaumette"
+        ]
+      },
+      {
+        "title": "PI in the Sky.",
+        "authors": [
+          "Jongwon Yoon",
+          "Peng Liu",
+          "Suman Banerjee",
+          "SangHyeog Kim"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/wpa2015.html": {
+    "header": "WPA@MobiSys 2015: Florence, Italy",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Device-Free Radio-based Low Overhead Identification of Subject Classes.",
+        "authors": [
+          "Markus Scholz",
+          "Lukas Kohout",
+          "Matthias Horne",
+          "Matthias Budde",
+          "Michael Beigl",
+          "Moustafa A. Youssef"
+        ]
+      },
+      {
+        "title": "WIBECAM: Device Free Human Activity Recognition Through WiFi Beacon-Enabled Camera.",
+        "authors": [
+          "Mauro De Sanctis",
+          "Ernestina Cianca",
+          "Simone Di Domenico",
+          "Daniele Provenziani",
+          "Giuseppe Bianchi",
+          "Marina Ruggieri"
+        ]
+      },
+      {
+        "title": "Analyzing Shopper's Behavior through WiFi Signals.",
+        "authors": [
+          "Yunze Zeng",
+          "Parth H. Pathak",
+          "Prasant Mohapatra"
+        ]
+      },
+      {
+        "title": "Driving Behavior Analysis for Smartphone-based Insurance Telematics.",
+        "authors": [
+          "Johan Wahlström",
+          "Isaac Skog",
+          "Peter Händel"
+        ]
+      },
+      {
+        "title": "Walking in Sync: Two is Company, Three's a Crowd.",
+        "authors": [
+          "Kleomenis Katevas",
+          "Hamed Haddadi",
+          "Laurissa N. Tokarchuk",
+          "Richard G. Clegg"
+        ]
+      },
+      {
+        "title": "Matching Physical Sites with Web Sites for Semantic Localization.",
+        "authors": [
+          "Rufeng Meng",
+          "Sheng Shen",
+          "Romit Roy Choudhury",
+          "Srihari Nelakuditi"
+        ]
+      },
+      {
+        "title": "Quantified Workplace: Opportunities and Challenges.",
+        "authors": [
+          "Akhil Mathur",
+          "Marc Van den Broeck",
+          "Geert Vanderhulst",
+          "Afra J. Mashhadi",
+          "Fahim Kawsar"
+        ]
+      },
+      {
+        "title": "An Autonomous Reputation Framework for Physical Locations based on WiFi Signals.",
+        "authors": [
+          "Afra J. Mashhadi",
+          "Geert Vanderhulst",
+          "Utku Günay Acer",
+          "Fahim Kawsar"
         ]
       }
     ]
@@ -11380,461 +11461,6 @@
         "title": "Communicating with the Outside World through Surreptitious Wearable Systems.",
         "authors": [
           "James Wen"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/mobigames2015.html": {
-    "header": "2nd MobiGames@MobiSys 2015: Florence, Italy",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Communication Energy Overhead of Mobiles Games.",
-        "authors": [
-          "Mathias Almquist",
-          "Viktor Almquist",
-          "Ekhiotz Jon Vergara",
-          "Simin Nadjm-Tehrani"
-        ]
-      },
-      {
-        "title": "Towards Accurate GPU Power Modeling for Smartphones.",
-        "authors": [
-          "Tianxing Jin",
-          "Songtao He",
-          "Yunxin Liu"
-        ]
-      },
-      {
-        "title": "Does Playing Online Mobile Games Overcharge You for the Fun?",
-        "authors": [
-          "De-Yu Chen",
-          "Po-Ching Lin",
-          "Kuan-Ta Chen"
-        ]
-      },
-      {
-        "title": "To Cloud or Not to Cloud: Measuring the Performance of Mobile Gaming.",
-        "authors": [
-          "Chun-Ying Huang",
-          "Yu-Ling Huang",
-          "Yu-Hsuan Chi",
-          "Kuan-Ta Chen",
-          "Cheng-Hsin Hsu"
-        ]
-      },
-      {
-        "title": "MCG Test-bed: an Experimental Test-bed for Mobile Cloud Gaming.",
-        "authors": [
-          "Wei Cai",
-          "Conghui Zhou",
-          "Minchen Li",
-          "Xiuhua Li",
-          "Victor C. M. Leung"
-        ]
-      },
-      {
-        "title": "Matchmaking Game Players On Public Transport.",
-        "authors": [
-          "Nairan Zhang",
-          "Youngki Lee",
-          "Rajesh Krishna Balan"
-        ]
-      },
-      {
-        "title": "Mobile Agents for Mobile Games.",
-        "authors": [
-          "Eduardo Mena",
-          "Carlos Bobed"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/diyn2015.html": {
-    "header": "DIYNetworking@MobiSys 2015: Florence, Italy",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Live Video Streaming for Community Networks, Experimenting with PeerStreamer on the Ninux Community.",
-        "authors": [
-          "Leonardo Maccari",
-          "Luca Baldesi",
-          "Renato Antonio Lo Cigno",
-          "Jacopo Forconi",
-          "Alessio Caiazza"
-        ]
-      },
-      {
-        "title": "DTN-enabled Infostation and Cinema-in-a-Backpack.",
-        "authors": [
-          "Adriano Galati",
-          "Theodoros Bourchas",
-          "Maria Olivares",
-          "Stefan Mangold"
-        ]
-      },
-      {
-        "title": "Learning IoT without the \"I\"- Educational Internet of Things in a Developing Context.",
-        "authors": [
-          "Putjorn Pruet",
-          "Chee Siang Ang",
-          "Farzin Deravi"
-        ]
-      },
-      {
-        "title": "SCANDEX: Service Centric Networking for Challenged Decentralised Networks.",
-        "authors": [
-          "Arjuna Sathiaseelan",
-          "Liang Wang",
-          "Andrius Aucinas",
-          "Gareth Tyson",
-          "Jon Crowcroft"
-        ]
-      },
-      {
-        "title": "Kadupul: Livin' on the Edge with Virtual Currencies and Time-Locked Puzzles.",
-        "authors": [
-          "Magnus Skjegstad",
-          "Anil Madhavapeddy",
-          "Jon Crowcroft"
-        ]
-      },
-      {
-        "title": "Do-it-yourself Networks: A Multi-layer Network Approach to the Analysis of Mobile User Egocentric and Sociocentric Behaviors.",
-        "authors": [
-          "Annalisa Socievole",
-          "Antonio C. Caputo",
-          "Floriano De Rango",
-          "Salvatore Marano"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/futuremobileui2015.html": {
-    "header": "FutureMobileUI@MobiSys 2015: Florence, Italy",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Mobile User Interfaces based on User Attention.",
-        "authors": [
-          "Ann McNamara",
-          "Chethna Kabeerdoss",
-          "Conrad Egan"
-        ]
-      },
-      {
-        "title": "Design, Development and Evaluation Challenges for Future Mobile User Interfaces in Safety-Critical Contexts.",
-        "authors": [
-          "Célia Martinie",
-          "Philippe A. Palanque"
-        ]
-      },
-      {
-        "title": "Integrated Interaction with Large and Small Devices.",
-        "authors": [
-          "Antonella Di Rienzo",
-          "Franca Garzotto",
-          "Paolo Cremonesi",
-          "Cristina Frà",
-          "Massimo Valla"
-        ]
-      },
-      {
-        "title": "Smart Jewelry: The Future of Mobile User Interfaces.",
-        "authors": [
-          "Alexandra Ling Ju",
-          "Mirjana Spasojevic"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/iot-sys2015.html": {
-    "header": "IoT-Sys@MobiSys 2015: Florence, Italy",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "The Physical Web.",
-        "authors": [
-          "Roy Want"
-        ]
-      },
-      {
-        "title": "Building an On-ramp for the Internet of Things.",
-        "authors": [
-          "Scott Jenson",
-          "Roy Want",
-          "Bill N. Schilit",
-          "Robin Hillary Kravets"
-        ]
-      },
-      {
-        "title": "BearLoc: A Composable Distributed Framework for Indoor Localization Systems.",
-        "authors": [
-          "Kaifei Chen",
-          "Siyuan He",
-          "Bei Di Chen",
-          "John Kolb",
-          "Randy H. Katz",
-          "David E. Culler"
-        ]
-      },
-      {
-        "title": "Automatic Sensor Data Stream Segmentation for Real-time Activity Prediction in Smart Spaces.",
-        "authors": [
-          "Hyunjeong Cho",
-          "Jihoon An",
-          "Intaek Hong",
-          "Younghee Lee"
-        ]
-      },
-      {
-        "title": "ESMRF: Enhanced Stateless Multicast RPL Forwarding For IPv6-based Low-Power and Lossy Networks.",
-        "authors": [
-          "Khaled Qorany Abdel Fadeel",
-          "Khaled El-Sayed"
-        ]
-      },
-      {
-        "title": "Bird Flocking Congestion Control for CoAP/RPL/6LoWPAN Networks.",
-        "authors": [
-          "Hamed Hellaoui",
-          "Mouloud Koudil"
-        ]
-      },
-      {
-        "title": "Old Wine in New Skins?: Revisiting the Software Architecture for IP Network Stacks on Constrained IoT Devices.",
-        "authors": [
-          "Hauke Petersen",
-          "Martine Lenders",
-          "Matthias Wählisch",
-          "Oliver Hahm",
-          "Emmanuel Baccelli"
-        ]
-      },
-      {
-        "title": "Key Management Protocol with Implicit Certificates for IoT systems.",
-        "authors": [
-          "Savio Sciancalepore",
-          "Angelo Capossele",
-          "Giuseppe Piro",
-          "Gennaro Boggia",
-          "Giuseppe Bianchi"
-        ]
-      },
-      {
-        "title": "A Distributed Test System Architecture for Open-source IoT Software.",
-        "authors": [
-          "Philipp Rosenkranz",
-          "Matthias Wählisch",
-          "Emmanuel Baccelli",
-          "Ludwig Ortmann"
-        ]
-      },
-      {
-        "title": "On the Feasibility of Attribute-Based Encryption on Smartphone Devices.",
-        "authors": [
-          "Moreno Ambrosin",
-          "Mauro Conti",
-          "Tooska Dargahi"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/wpa2015.html": {
-    "header": "WPA@MobiSys 2015: Florence, Italy",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Device-Free Radio-based Low Overhead Identification of Subject Classes.",
-        "authors": [
-          "Markus Scholz",
-          "Lukas Kohout",
-          "Matthias Horne",
-          "Matthias Budde",
-          "Michael Beigl",
-          "Moustafa A. Youssef"
-        ]
-      },
-      {
-        "title": "WIBECAM: Device Free Human Activity Recognition Through WiFi Beacon-Enabled Camera.",
-        "authors": [
-          "Mauro De Sanctis",
-          "Ernestina Cianca",
-          "Simone Di Domenico",
-          "Daniele Provenziani",
-          "Giuseppe Bianchi",
-          "Marina Ruggieri"
-        ]
-      },
-      {
-        "title": "Analyzing Shopper's Behavior through WiFi Signals.",
-        "authors": [
-          "Yunze Zeng",
-          "Parth H. Pathak",
-          "Prasant Mohapatra"
-        ]
-      },
-      {
-        "title": "Driving Behavior Analysis for Smartphone-based Insurance Telematics.",
-        "authors": [
-          "Johan Wahlström",
-          "Isaac Skog",
-          "Peter Händel"
-        ]
-      },
-      {
-        "title": "Walking in Sync: Two is Company, Three's a Crowd.",
-        "authors": [
-          "Kleomenis Katevas",
-          "Hamed Haddadi",
-          "Laurissa N. Tokarchuk",
-          "Richard G. Clegg"
-        ]
-      },
-      {
-        "title": "Matching Physical Sites with Web Sites for Semantic Localization.",
-        "authors": [
-          "Rufeng Meng",
-          "Sheng Shen",
-          "Romit Roy Choudhury",
-          "Srihari Nelakuditi"
-        ]
-      },
-      {
-        "title": "Quantified Workplace: Opportunities and Challenges.",
-        "authors": [
-          "Akhil Mathur",
-          "Marc Van den Broeck",
-          "Geert Vanderhulst",
-          "Afra J. Mashhadi",
-          "Fahim Kawsar"
-        ]
-      },
-      {
-        "title": "An Autonomous Reputation Framework for Physical Locations based on WiFi Signals.",
-        "authors": [
-          "Afra J. Mashhadi",
-          "Geert Vanderhulst",
-          "Utku Günay Acer",
-          "Fahim Kawsar"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/dronet2015.html": {
-    "header": "1st DroNet@MobiSys 2015: Florence, Italy",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Aerial Platform based Wireless Communications: Will the Myth now become Reality?",
-        "authors": [
-          "David Grace"
-        ]
-      },
-      {
-        "title": "Krypto: Assisting Search and Rescue Operations using Wi-Fi Signal with UAV.",
-        "authors": [
-          "Yao-Hua Ho",
-          "Yu-Ren Chen",
-          "Ling-Jyh Chen"
-        ]
-      },
-      {
-        "title": "Next-Hop Decision-Making in Mobility-Controlled Message Ferrying Networks.",
-        "authors": [
-          "Tobias Simon",
-          "Andreas Mitschele-Thiel"
-        ]
-      },
-      {
-        "title": "Analysis of Harmful Interference to and from Aerial IEEE 802.11 Systems.",
-        "authors": [
-          "Bertold Van den Bergh",
-          "Tom Vermeulen",
-          "Sofie Pollin"
-        ]
-      },
-      {
-        "title": "A Quadcopter Controller to Maintain Radio Link Quality.",
-        "authors": [
-          "Mohammed Ayyoob Ahamed Hamza",
-          "Chamath Keppitiyagama",
-          "Kasun De Zoysa",
-          "Venkatraman Iyer",
-          "Kasun Hewage",
-          "Thiemo Voigt"
-        ]
-      },
-      {
-        "title": "Captain Buzz: An All-Smartphone Autonomous Delta-Wing Drone.",
-        "authors": [
-          "Ramsey M. Faragher",
-          "Oliver R. A. Chick",
-          "Daniel T. Wagner",
-          "Timothy Goh",
-          "James Snee",
-          "Brian Jones"
-        ]
-      },
-      {
-        "title": "An Autonomous Multi-UAV System for Search and Rescue.",
-        "authors": [
-          "Jürgen Scherer",
-          "Saeed Yahyanejad",
-          "Samira Hayat",
-          "Evsen Yanmaz",
-          "Torsten Andre",
-          "Asif Khan",
-          "Vladimir Vukadinovic",
-          "Christian Bettstetter",
-          "Hermann Hellwagner",
-          "Bernhard Rinner"
-        ]
-      },
-      {
-        "title": "Face Recognition on Drones: Issues and Limitations.",
-        "authors": [
-          "Hwai-Jung Hsu",
-          "Kuan-Ta Chen"
-        ]
-      },
-      {
-        "title": "Virtual Tourism with Drones: Experiments and Lag Compensation.",
-        "authors": [
-          "David Mirk",
-          "Helmut Hlavacs"
-        ]
-      },
-      {
-        "title": "Experimental Validation of Efficient Static Trajectories for the Localization of Wireless Nodes in a Mixed Indoor-Outdoor Scenario Using an Unmanned Aerial Vehicle.",
-        "authors": [
-          "Oleksandr Artemenko",
-          "Alina Rubina",
-          "Tobias Simon",
-          "Andreas Mitschele-Thiel"
-        ]
-      },
-      {
-        "title": "Drone Indoor Self-Localization.",
-        "authors": [
-          "Claudio E. Palazzi"
-        ]
-      },
-      {
-        "title": "Study and Experimentation of Control Policies to Dynamically Maintain Micro-UAV Flight Stability.",
-        "authors": [
-          "Federico Pedersini",
-          "Andrea Toscano",
-          "Elena Pagani"
-        ]
-      },
-      {
-        "title": "Epidgeons: Combining Drones and DTNs Technologies to Provide Connectivity in Remote Areas.",
-        "authors": [
-          "Pietro Manzoni",
-          "Carlos T. Calafate",
-          "Juan-Carlos Cano",
-          "Edjair Mota"
         ]
       }
     ]
@@ -12505,132 +12131,517 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/mars2014.html": {
-    "header": "MARS@MobiSys 2014: Bretton Woods, New Hampshire, USA",
+  "https://dblp.org/db/conf/mobisys/mobigames2015.html": {
+    "header": "2nd MobiGames@MobiSys 2015: Florence, Italy",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Communication Energy Overhead of Mobiles Games.",
+        "authors": [
+          "Mathias Almquist",
+          "Viktor Almquist",
+          "Ekhiotz Jon Vergara",
+          "Simin Nadjm-Tehrani"
+        ]
+      },
+      {
+        "title": "Towards Accurate GPU Power Modeling for Smartphones.",
+        "authors": [
+          "Tianxing Jin",
+          "Songtao He",
+          "Yunxin Liu"
+        ]
+      },
+      {
+        "title": "Does Playing Online Mobile Games Overcharge You for the Fun?",
+        "authors": [
+          "De-Yu Chen",
+          "Po-Ching Lin",
+          "Kuan-Ta Chen"
+        ]
+      },
+      {
+        "title": "To Cloud or Not to Cloud: Measuring the Performance of Mobile Gaming.",
+        "authors": [
+          "Chun-Ying Huang",
+          "Yu-Ling Huang",
+          "Yu-Hsuan Chi",
+          "Kuan-Ta Chen",
+          "Cheng-Hsin Hsu"
+        ]
+      },
+      {
+        "title": "MCG Test-bed: an Experimental Test-bed for Mobile Cloud Gaming.",
+        "authors": [
+          "Wei Cai",
+          "Conghui Zhou",
+          "Minchen Li",
+          "Xiuhua Li",
+          "Victor C. M. Leung"
+        ]
+      },
+      {
+        "title": "Matchmaking Game Players On Public Transport.",
+        "authors": [
+          "Nairan Zhang",
+          "Youngki Lee",
+          "Rajesh Krishna Balan"
+        ]
+      },
+      {
+        "title": "Mobile Agents for Mobile Games.",
+        "authors": [
+          "Eduardo Mena",
+          "Carlos Bobed"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/iot-sys2015.html": {
+    "header": "IoT-Sys@MobiSys 2015: Florence, Italy",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "The Physical Web.",
+        "authors": [
+          "Roy Want"
+        ]
+      },
+      {
+        "title": "Building an On-ramp for the Internet of Things.",
+        "authors": [
+          "Scott Jenson",
+          "Roy Want",
+          "Bill N. Schilit",
+          "Robin Hillary Kravets"
+        ]
+      },
+      {
+        "title": "BearLoc: A Composable Distributed Framework for Indoor Localization Systems.",
+        "authors": [
+          "Kaifei Chen",
+          "Siyuan He",
+          "Bei Di Chen",
+          "John Kolb",
+          "Randy H. Katz",
+          "David E. Culler"
+        ]
+      },
+      {
+        "title": "Automatic Sensor Data Stream Segmentation for Real-time Activity Prediction in Smart Spaces.",
+        "authors": [
+          "Hyunjeong Cho",
+          "Jihoon An",
+          "Intaek Hong",
+          "Younghee Lee"
+        ]
+      },
+      {
+        "title": "ESMRF: Enhanced Stateless Multicast RPL Forwarding For IPv6-based Low-Power and Lossy Networks.",
+        "authors": [
+          "Khaled Qorany Abdel Fadeel",
+          "Khaled El-Sayed"
+        ]
+      },
+      {
+        "title": "Bird Flocking Congestion Control for CoAP/RPL/6LoWPAN Networks.",
+        "authors": [
+          "Hamed Hellaoui",
+          "Mouloud Koudil"
+        ]
+      },
+      {
+        "title": "Old Wine in New Skins?: Revisiting the Software Architecture for IP Network Stacks on Constrained IoT Devices.",
+        "authors": [
+          "Hauke Petersen",
+          "Martine Lenders",
+          "Matthias Wählisch",
+          "Oliver Hahm",
+          "Emmanuel Baccelli"
+        ]
+      },
+      {
+        "title": "Key Management Protocol with Implicit Certificates for IoT systems.",
+        "authors": [
+          "Savio Sciancalepore",
+          "Angelo Capossele",
+          "Giuseppe Piro",
+          "Gennaro Boggia",
+          "Giuseppe Bianchi"
+        ]
+      },
+      {
+        "title": "A Distributed Test System Architecture for Open-source IoT Software.",
+        "authors": [
+          "Philipp Rosenkranz",
+          "Matthias Wählisch",
+          "Emmanuel Baccelli",
+          "Ludwig Ortmann"
+        ]
+      },
+      {
+        "title": "On the Feasibility of Attribute-Based Encryption on Smartphone Devices.",
+        "authors": [
+          "Moreno Ambrosin",
+          "Mauro Conti",
+          "Tooska Dargahi"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/futuremobileui2015.html": {
+    "header": "FutureMobileUI@MobiSys 2015: Florence, Italy",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Mobile User Interfaces based on User Attention.",
+        "authors": [
+          "Ann McNamara",
+          "Chethna Kabeerdoss",
+          "Conrad Egan"
+        ]
+      },
+      {
+        "title": "Design, Development and Evaluation Challenges for Future Mobile User Interfaces in Safety-Critical Contexts.",
+        "authors": [
+          "Célia Martinie",
+          "Philippe A. Palanque"
+        ]
+      },
+      {
+        "title": "Integrated Interaction with Large and Small Devices.",
+        "authors": [
+          "Antonella Di Rienzo",
+          "Franca Garzotto",
+          "Paolo Cremonesi",
+          "Cristina Frà",
+          "Massimo Valla"
+        ]
+      },
+      {
+        "title": "Smart Jewelry: The Future of Mobile User Interfaces.",
+        "authors": [
+          "Alexandra Ling Ju",
+          "Mirjana Spasojevic"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/dronet2015.html": {
+    "header": "1st DroNet@MobiSys 2015: Florence, Italy",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Aerial Platform based Wireless Communications: Will the Myth now become Reality?",
+        "authors": [
+          "David Grace"
+        ]
+      },
+      {
+        "title": "Krypto: Assisting Search and Rescue Operations using Wi-Fi Signal with UAV.",
+        "authors": [
+          "Yao-Hua Ho",
+          "Yu-Ren Chen",
+          "Ling-Jyh Chen"
+        ]
+      },
+      {
+        "title": "Next-Hop Decision-Making in Mobility-Controlled Message Ferrying Networks.",
+        "authors": [
+          "Tobias Simon",
+          "Andreas Mitschele-Thiel"
+        ]
+      },
+      {
+        "title": "Analysis of Harmful Interference to and from Aerial IEEE 802.11 Systems.",
+        "authors": [
+          "Bertold Van den Bergh",
+          "Tom Vermeulen",
+          "Sofie Pollin"
+        ]
+      },
+      {
+        "title": "A Quadcopter Controller to Maintain Radio Link Quality.",
+        "authors": [
+          "Mohammed Ayyoob Ahamed Hamza",
+          "Chamath Keppitiyagama",
+          "Kasun De Zoysa",
+          "Venkatraman Iyer",
+          "Kasun Hewage",
+          "Thiemo Voigt"
+        ]
+      },
+      {
+        "title": "Captain Buzz: An All-Smartphone Autonomous Delta-Wing Drone.",
+        "authors": [
+          "Ramsey M. Faragher",
+          "Oliver R. A. Chick",
+          "Daniel T. Wagner",
+          "Timothy Goh",
+          "James Snee",
+          "Brian Jones"
+        ]
+      },
+      {
+        "title": "An Autonomous Multi-UAV System for Search and Rescue.",
+        "authors": [
+          "Jürgen Scherer",
+          "Saeed Yahyanejad",
+          "Samira Hayat",
+          "Evsen Yanmaz",
+          "Torsten Andre",
+          "Asif Khan",
+          "Vladimir Vukadinovic",
+          "Christian Bettstetter",
+          "Hermann Hellwagner",
+          "Bernhard Rinner"
+        ]
+      },
+      {
+        "title": "Face Recognition on Drones: Issues and Limitations.",
+        "authors": [
+          "Hwai-Jung Hsu",
+          "Kuan-Ta Chen"
+        ]
+      },
+      {
+        "title": "Virtual Tourism with Drones: Experiments and Lag Compensation.",
+        "authors": [
+          "David Mirk",
+          "Helmut Hlavacs"
+        ]
+      },
+      {
+        "title": "Experimental Validation of Efficient Static Trajectories for the Localization of Wireless Nodes in a Mixed Indoor-Outdoor Scenario Using an Unmanned Aerial Vehicle.",
+        "authors": [
+          "Oleksandr Artemenko",
+          "Alina Rubina",
+          "Tobias Simon",
+          "Andreas Mitschele-Thiel"
+        ]
+      },
+      {
+        "title": "Drone Indoor Self-Localization.",
+        "authors": [
+          "Claudio E. Palazzi"
+        ]
+      },
+      {
+        "title": "Study and Experimentation of Control Policies to Dynamically Maintain Micro-UAV Flight Stability.",
+        "authors": [
+          "Federico Pedersini",
+          "Andrea Toscano",
+          "Elena Pagani"
+        ]
+      },
+      {
+        "title": "Epidgeons: Combining Drones and DTNs Technologies to Provide Connectivity in Remote Areas.",
+        "authors": [
+          "Pietro Manzoni",
+          "Carlos T. Calafate",
+          "Juan-Carlos Cano",
+          "Edjair Mota"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/diyn2015.html": {
+    "header": "DIYNetworking@MobiSys 2015: Florence, Italy",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Live Video Streaming for Community Networks, Experimenting with PeerStreamer on the Ninux Community.",
+        "authors": [
+          "Leonardo Maccari",
+          "Luca Baldesi",
+          "Renato Antonio Lo Cigno",
+          "Jacopo Forconi",
+          "Alessio Caiazza"
+        ]
+      },
+      {
+        "title": "DTN-enabled Infostation and Cinema-in-a-Backpack.",
+        "authors": [
+          "Adriano Galati",
+          "Theodoros Bourchas",
+          "Maria Olivares",
+          "Stefan Mangold"
+        ]
+      },
+      {
+        "title": "Learning IoT without the \"I\"- Educational Internet of Things in a Developing Context.",
+        "authors": [
+          "Putjorn Pruet",
+          "Chee Siang Ang",
+          "Farzin Deravi"
+        ]
+      },
+      {
+        "title": "SCANDEX: Service Centric Networking for Challenged Decentralised Networks.",
+        "authors": [
+          "Arjuna Sathiaseelan",
+          "Liang Wang",
+          "Andrius Aucinas",
+          "Gareth Tyson",
+          "Jon Crowcroft"
+        ]
+      },
+      {
+        "title": "Kadupul: Livin' on the Edge with Virtual Currencies and Time-Locked Puzzles.",
+        "authors": [
+          "Magnus Skjegstad",
+          "Anil Madhavapeddy",
+          "Jon Crowcroft"
+        ]
+      },
+      {
+        "title": "Do-it-yourself Networks: A Multi-layer Network Approach to the Analysis of Mobile User Egocentric and Sociocentric Behaviors.",
+        "authors": [
+          "Annalisa Socievole",
+          "Antonio C. Caputo",
+          "Floriano De Rango",
+          "Salvatore Marano"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/wpa2014.html": {
+    "header": "WPA@MobiSys 2014: Bretton Woods, New Hampshire, USA",
     "year": "2014",
     "papers": [
       {
-        "title": "Toward a data-driven generative behavior model for human-robot interaction.",
+        "title": "Physical analytics to model health behaviors.",
         "authors": [
-          "Henny Admoni"
+          "Anmol Madan"
         ]
       },
       {
-        "title": "RoSCAR: robot stock car autonomous racing.",
+        "title": "On11: an activity recommendation application to mitigate sedentary lifestyle.",
         "authors": [
-          "Kyle Hart",
-          "Corey Montella",
-          "Georges Petitpas",
-          "Dylan Schwesinger",
-          "Armon Shariati",
-          "Ben Sourbeer",
-          "Tyler Trephan",
-          "John R. Spletzer"
+          "Qian He",
+          "Emmanuel Agu"
         ]
       },
       {
-        "title": "Robotics enabled in-home environment screening for fall risks.",
+        "title": "My smartphone knows i am hungry.",
         "authors": [
-          "Ruixiang Du",
-          "Vinayak Jagtap",
-          "Yanren Long",
-          "Oke Onwuka",
-          "Taskin Padir"
+          "Fanglin Chen",
+          "Rui Wang",
+          "Xia Zhou",
+          "Andrew T. Campbell"
         ]
       },
       {
-        "title": "Panel: future trends and research issues in mobile augmented reality.",
+        "title": "Using smartphones to sense, assess, and improve well-being.",
         "authors": [
-          "Justin Manweiler",
-          "Mohammed (Ehsan) Hoque",
-          "David Chu",
-          "Mooi Choo Chuah"
+          "Tanzeem Choudhury"
         ]
       },
       {
-        "title": "Demo: lehigh explorer augmented campus tour (LACT).",
+        "title": "Life-logging, thing-logging and the internet of things.",
         "authors": [
-          "Dawei Li",
-          "Mooi Choo Chuah",
-          "Li Tian"
+          "Jim Gemmell"
         ]
       },
       {
-        "title": "Demo: mobile augmented reality in medical education: an application for dermatology.",
+        "title": "Socio-physical analytics: challenges & opportunities.",
         "authors": [
-          "Christoph Noll",
-          "Bernhard Häussermann",
-          "Ute von Jan",
-          "Ulrike Raap",
-          "Urs-Vito Albrecht"
+          "Archan Misra",
+          "Kasthuri Jayarajah",
+          "Shriguru Nayak",
+          "Philips Kokoh Prasetyo",
+          "Ee-Peng Lim"
         ]
       },
       {
-        "title": "Demo: toward a data-driven generative behavior model for human-robot interaction.",
+        "title": "The case for human-centric personal analytics.",
         "authors": [
-          "Henny Admoni",
-          "Brian Scassellati"
+          "Youngki Lee",
+          "Rajesh Krishna Balan"
         ]
       },
       {
-        "title": "Cloud-based mobile augmented reality, pitfalls and strategies in a realtime deployment.",
+        "title": "GlimpseData: towards continuous vision-based personal analytics.",
         "authors": [
-          "Justin Manweiler"
+          "Seungyeop Han",
+          "Rajalakshmi Nandakumar",
+          "Matthai Philipose",
+          "Arvind Krishnamurthy",
+          "David Wetherall"
         ]
       },
       {
-        "title": "On the limits of positioning-based pedestrian risk awareness.",
+        "title": "Wi-Fi analytics for business intelligence.",
         "authors": [
-          "Shubham Jain",
-          "Carlo Borgiattino",
-          "Yanzhi Ren",
-          "Marco Gruteser",
-          "Yingying Chen"
+          "Pravin Bhagwat"
         ]
       },
       {
-        "title": "CloudRidAR: a cloud-based architecture for mobile augmented reality.",
+        "title": "Analysing the privacy policies of Wi-Fi trackers.",
         "authors": [
-          "Zhanpeng Huang",
-          "Weikai Li",
-          "Pan Hui",
-          "Christoph Peylo"
+          "Levent Demir",
+          "Mathieu Cunche",
+          "Cédric Lauradoux"
         ]
       },
       {
-        "title": "Appurtenant: enhancing completeness and efficiency of bidirectional patient-physician communication using automatic speech recognition.",
+        "title": "Tracking people and monitoring their vital signs using body radio reflections.",
         "authors": [
-          "Guisi Ni",
-          "Weisong Shi",
-          "Prashant Mahajan"
+          "Dina Katabi"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/mobisys2014phdf.html": {
+    "header": "12th MobiSys 2014: Bretton Woods, New Hampshire, USA - PhD Forum",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Coexistence of LTE and WiFi heterogeneous networks via inter network coordination.",
+        "authors": [
+          "Shweta S. Sagari"
         ]
       },
       {
-        "title": "Enabling an augmented reality ecosystem: a content-oriented survey.",
+        "title": "Smartphone application delay optimizations.",
         "authors": [
-          "Zhuo Zhang",
-          "Pan Hui",
-          "Sanjeev R. Kulkarni",
-          "Christoph Peylo"
+          "David T. Nguyen"
         ]
       },
       {
-        "title": "A gesture-based interface for the exploration and classification of protein binding cavities.",
+        "title": "Energy-awareness in large-scale internet of things networks.",
         "authors": [
-          "Zachary A. Daniels",
-          "Steven R. Stinson",
-          "Shenchi Tian",
-          "Evan Mulbry",
-          "Brian Yuan Chen"
+          "Vilen Looga"
         ]
       },
       {
-        "title": "Panel: future research trends in robotics technologies.",
+        "title": "The internet of tags: energy-harvesting adaptive algorithms.",
         "authors": [
-          "Henny Admoni",
-          "Taskin Padir",
-          "Junehwa Song",
-          "Daniel M. Lofaro"
+          "Robert Margolies"
+        ]
+      },
+      {
+        "title": "Extended abstract: efficient image processing for continuous mobile vision.",
+        "authors": [
+          "Robert LiKamWa"
+        ]
+      },
+      {
+        "title": "Towards efficient data collection in WSNs.",
+        "authors": [
+          "Imane Horiya Brahmi"
+        ]
+      },
+      {
+        "title": "Improving trust in personal sensing.",
+        "authors": [
+          "Aarathi Prasad"
+        ]
+      },
+      {
+        "title": "Agentless cloud-wide monitoring of virtual disk state.",
+        "authors": [
+          "Wolfgang Richter"
         ]
       }
     ]
@@ -13278,192 +13289,132 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/wpa2014.html": {
-    "header": "WPA@MobiSys 2014: Bretton Woods, New Hampshire, USA",
+  "https://dblp.org/db/conf/mobisys/mars2014.html": {
+    "header": "MARS@MobiSys 2014: Bretton Woods, New Hampshire, USA",
     "year": "2014",
     "papers": [
       {
-        "title": "Physical analytics to model health behaviors.",
+        "title": "Toward a data-driven generative behavior model for human-robot interaction.",
         "authors": [
-          "Anmol Madan"
+          "Henny Admoni"
         ]
       },
       {
-        "title": "On11: an activity recommendation application to mitigate sedentary lifestyle.",
+        "title": "RoSCAR: robot stock car autonomous racing.",
         "authors": [
-          "Qian He",
-          "Emmanuel Agu"
+          "Kyle Hart",
+          "Corey Montella",
+          "Georges Petitpas",
+          "Dylan Schwesinger",
+          "Armon Shariati",
+          "Ben Sourbeer",
+          "Tyler Trephan",
+          "John R. Spletzer"
         ]
       },
       {
-        "title": "My smartphone knows i am hungry.",
+        "title": "Robotics enabled in-home environment screening for fall risks.",
         "authors": [
-          "Fanglin Chen",
-          "Rui Wang",
-          "Xia Zhou",
-          "Andrew T. Campbell"
+          "Ruixiang Du",
+          "Vinayak Jagtap",
+          "Yanren Long",
+          "Oke Onwuka",
+          "Taskin Padir"
         ]
       },
       {
-        "title": "Using smartphones to sense, assess, and improve well-being.",
+        "title": "Panel: future trends and research issues in mobile augmented reality.",
         "authors": [
-          "Tanzeem Choudhury"
+          "Justin Manweiler",
+          "Mohammed (Ehsan) Hoque",
+          "David Chu",
+          "Mooi Choo Chuah"
         ]
       },
       {
-        "title": "Life-logging, thing-logging and the internet of things.",
+        "title": "Demo: lehigh explorer augmented campus tour (LACT).",
         "authors": [
-          "Jim Gemmell"
+          "Dawei Li",
+          "Mooi Choo Chuah",
+          "Li Tian"
         ]
       },
       {
-        "title": "Socio-physical analytics: challenges & opportunities.",
+        "title": "Demo: mobile augmented reality in medical education: an application for dermatology.",
         "authors": [
-          "Archan Misra",
-          "Kasthuri Jayarajah",
-          "Shriguru Nayak",
-          "Philips Kokoh Prasetyo",
-          "Ee-Peng Lim"
+          "Christoph Noll",
+          "Bernhard Häussermann",
+          "Ute von Jan",
+          "Ulrike Raap",
+          "Urs-Vito Albrecht"
         ]
       },
       {
-        "title": "The case for human-centric personal analytics.",
+        "title": "Demo: toward a data-driven generative behavior model for human-robot interaction.",
         "authors": [
-          "Youngki Lee",
-          "Rajesh Krishna Balan"
+          "Henny Admoni",
+          "Brian Scassellati"
         ]
       },
       {
-        "title": "GlimpseData: towards continuous vision-based personal analytics.",
+        "title": "Cloud-based mobile augmented reality, pitfalls and strategies in a realtime deployment.",
         "authors": [
-          "Seungyeop Han",
-          "Rajalakshmi Nandakumar",
-          "Matthai Philipose",
-          "Arvind Krishnamurthy",
-          "David Wetherall"
+          "Justin Manweiler"
         ]
       },
       {
-        "title": "Wi-Fi analytics for business intelligence.",
+        "title": "On the limits of positioning-based pedestrian risk awareness.",
         "authors": [
-          "Pravin Bhagwat"
+          "Shubham Jain",
+          "Carlo Borgiattino",
+          "Yanzhi Ren",
+          "Marco Gruteser",
+          "Yingying Chen"
         ]
       },
       {
-        "title": "Analysing the privacy policies of Wi-Fi trackers.",
+        "title": "CloudRidAR: a cloud-based architecture for mobile augmented reality.",
         "authors": [
-          "Levent Demir",
-          "Mathieu Cunche",
-          "Cédric Lauradoux"
+          "Zhanpeng Huang",
+          "Weikai Li",
+          "Pan Hui",
+          "Christoph Peylo"
         ]
       },
       {
-        "title": "Tracking people and monitoring their vital signs using body radio reflections.",
+        "title": "Appurtenant: enhancing completeness and efficiency of bidirectional patient-physician communication using automatic speech recognition.",
         "authors": [
-          "Dina Katabi"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/mobisys2014phdf.html": {
-    "header": "12th MobiSys 2014: Bretton Woods, New Hampshire, USA - PhD Forum",
-    "year": "2014",
-    "papers": [
-      {
-        "title": "Coexistence of LTE and WiFi heterogeneous networks via inter network coordination.",
-        "authors": [
-          "Shweta S. Sagari"
+          "Guisi Ni",
+          "Weisong Shi",
+          "Prashant Mahajan"
         ]
       },
       {
-        "title": "Smartphone application delay optimizations.",
+        "title": "Enabling an augmented reality ecosystem: a content-oriented survey.",
         "authors": [
-          "David T. Nguyen"
+          "Zhuo Zhang",
+          "Pan Hui",
+          "Sanjeev R. Kulkarni",
+          "Christoph Peylo"
         ]
       },
       {
-        "title": "Energy-awareness in large-scale internet of things networks.",
+        "title": "A gesture-based interface for the exploration and classification of protein binding cavities.",
         "authors": [
-          "Vilen Looga"
+          "Zachary A. Daniels",
+          "Steven R. Stinson",
+          "Shenchi Tian",
+          "Evan Mulbry",
+          "Brian Yuan Chen"
         ]
       },
       {
-        "title": "The internet of tags: energy-harvesting adaptive algorithms.",
+        "title": "Panel: future research trends in robotics technologies.",
         "authors": [
-          "Robert Margolies"
-        ]
-      },
-      {
-        "title": "Extended abstract: efficient image processing for continuous mobile vision.",
-        "authors": [
-          "Robert LiKamWa"
-        ]
-      },
-      {
-        "title": "Towards efficient data collection in WSNs.",
-        "authors": [
-          "Imane Horiya Brahmi"
-        ]
-      },
-      {
-        "title": "Improving trust in personal sensing.",
-        "authors": [
-          "Aarathi Prasad"
-        ]
-      },
-      {
-        "title": "Agentless cloud-wide monitoring of virtual disk state.",
-        "authors": [
-          "Wolfgang Richter"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/cellnet2013.html": {
-    "header": "CellNet@MobiSys 2013: Taipei, Taiwan",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "Late-binding: how to lose fewer packets during handoff.",
-        "authors": [
-          "Kok-Kiong Yap",
-          "Te-Yuan Huang",
-          "Yiannis Yiakoumis",
-          "Nick McKeown",
-          "Sachin Katti"
-        ]
-      },
-      {
-        "title": "Adapp: an adaptive network selection framework for smartphone applications.",
-        "authors": [
-          "Ayon Chakraborty",
-          "Samir R. Das"
-        ]
-      },
-      {
-        "title": "Practical performance of MU-MIMO precoding in many-antenna base stations.",
-        "authors": [
-          "Clayton Shepard",
-          "Narendra Anand",
-          "Lin Zhong"
-        ]
-      },
-      {
-        "title": "Sprinkler: distributed content storage for just-in-time streaming.",
-        "authors": [
-          "Sourav Kumar Dandapat",
-          "Swadhin Pradhan",
-          "Niloy Ganguly",
-          "Romit Roy Choudhury"
-        ]
-      },
-      {
-        "title": "EnVi: energy efficient video player for mobiles.",
-        "authors": [
-          "Sahil Suneja",
-          "Vishnu Navda",
-          "Ramachandran Ramjee",
-          "Eyal de Lara"
+          "Henny Admoni",
+          "Taskin Padir",
+          "Junehwa Song",
+          "Daniel M. Lofaro"
         ]
       }
     ]
@@ -14357,6 +14308,55 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/mobisys/cellnet2013.html": {
+    "header": "CellNet@MobiSys 2013: Taipei, Taiwan",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Late-binding: how to lose fewer packets during handoff.",
+        "authors": [
+          "Kok-Kiong Yap",
+          "Te-Yuan Huang",
+          "Yiannis Yiakoumis",
+          "Nick McKeown",
+          "Sachin Katti"
+        ]
+      },
+      {
+        "title": "Adapp: an adaptive network selection framework for smartphone applications.",
+        "authors": [
+          "Ayon Chakraborty",
+          "Samir R. Das"
+        ]
+      },
+      {
+        "title": "Practical performance of MU-MIMO precoding in many-antenna base stations.",
+        "authors": [
+          "Clayton Shepard",
+          "Narendra Anand",
+          "Lin Zhong"
+        ]
+      },
+      {
+        "title": "Sprinkler: distributed content storage for just-in-time streaming.",
+        "authors": [
+          "Sourav Kumar Dandapat",
+          "Swadhin Pradhan",
+          "Niloy Ganguly",
+          "Romit Roy Choudhury"
+        ]
+      },
+      {
+        "title": "EnVi: energy efficient video player for mobiles.",
+        "authors": [
+          "Sahil Suneja",
+          "Vishnu Navda",
+          "Ramachandran Ramjee",
+          "Eyal de Lara"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/mobisys/mobisys2012.html": {
     "header": "10th MobiSys 2012: Ambleside, UK",
     "year": "2012",
@@ -15151,70 +15151,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobiarch/mobiarch2011.html": {
-    "header": "6th MobiArch 2011: Bethesda, Maryland, USA",
-    "year": "2011",
-    "papers": [
-      {
-        "title": "Saving mobile device energy with multipath TCP.",
-        "authors": [
-          "Christopher Pluntke",
-          "Lars Eggert",
-          "Niko Kiukkonen"
-        ]
-      },
-      {
-        "title": "Opportunistic mobility with multipath TCP.",
-        "authors": [
-          "Costin Raiciu",
-          "Dragos Niculescu",
-          "Marcelo Bagnulo",
-          "Mark James Handley"
-        ]
-      },
-      {
-        "title": "Using predictable mobility patterns to support scalable and secure MANETs of handheld devices.",
-        "authors": [
-          "David R. Bild",
-          "Yue Liu",
-          "Robert P. Dick",
-          "Z. Morley Mao",
-          "Dan S. Wallach"
-        ]
-      },
-      {
-        "title": "GSTAR: generalized storage-aware routing for mobilityfirst in the future mobile internet.",
-        "authors": [
-          "Samuel C. Nelson",
-          "Gautam D. Bhanage",
-          "Dipankar Raychaudhuri"
-        ]
-      },
-      {
-        "title": "SystemSens: a tool for monitoring usage in smartphone research deployments.",
-        "authors": [
-          "Hossein Falaki",
-          "Ratul Mahajan",
-          "Deborah Estrin"
-        ]
-      },
-      {
-        "title": "TailTheft: leveraging the wasted time for saving energy in cellular communications.",
-        "authors": [
-          "Hao Liu",
-          "Yaoxue Zhang",
-          "Yuezhi Zhou"
-        ]
-      },
-      {
-        "title": "ErdOS: achieving energy savings in mobile OS.",
-        "authors": [
-          "Narseo Vallina-Rodriguez",
-          "Jon Crowcroft"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/mobisys/mobisys2011.html": {
     "header": "9th MobiSys 2011: Bethesda, MD, USA",
     "year": "2011",
@@ -15839,6 +15775,70 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/mobiarch/mobiarch2011.html": {
+    "header": "6th MobiArch 2011: Bethesda, Maryland, USA",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "Saving mobile device energy with multipath TCP.",
+        "authors": [
+          "Christopher Pluntke",
+          "Lars Eggert",
+          "Niko Kiukkonen"
+        ]
+      },
+      {
+        "title": "Opportunistic mobility with multipath TCP.",
+        "authors": [
+          "Costin Raiciu",
+          "Dragos Niculescu",
+          "Marcelo Bagnulo",
+          "Mark James Handley"
+        ]
+      },
+      {
+        "title": "Using predictable mobility patterns to support scalable and secure MANETs of handheld devices.",
+        "authors": [
+          "David R. Bild",
+          "Yue Liu",
+          "Robert P. Dick",
+          "Z. Morley Mao",
+          "Dan S. Wallach"
+        ]
+      },
+      {
+        "title": "GSTAR: generalized storage-aware routing for mobilityfirst in the future mobile internet.",
+        "authors": [
+          "Samuel C. Nelson",
+          "Gautam D. Bhanage",
+          "Dipankar Raychaudhuri"
+        ]
+      },
+      {
+        "title": "SystemSens: a tool for monitoring usage in smartphone research deployments.",
+        "authors": [
+          "Hossein Falaki",
+          "Ratul Mahajan",
+          "Deborah Estrin"
+        ]
+      },
+      {
+        "title": "TailTheft: leveraging the wasted time for saving energy in cellular communications.",
+        "authors": [
+          "Hao Liu",
+          "Yaoxue Zhang",
+          "Yuezhi Zhou"
+        ]
+      },
+      {
+        "title": "ErdOS: achieving energy savings in mobile OS.",
+        "authors": [
+          "Narseo Vallina-Rodriguez",
+          "Jon Crowcroft"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/mobisys/mobisys2010.html": {
     "header": "8th MobiSys 2010: San Francisco, California, USA",
     "year": "2010",
@@ -16145,65 +16145,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/hotplanet2009.html": {
-    "header": "1st HotPlanet@MobiSys 2009: Wroclaw, Poland",
-    "year": "2009",
-    "papers": [
-      {
-        "title": "Sampling urban mobility through on-line repositories of GPS tracks.",
-        "authors": [
-          "Michal Piórkowski"
-        ]
-      },
-      {
-        "title": "DOME: a diverse outdoor mobile testbed.",
-        "authors": [
-          "Hamed Soroush",
-          "Nilanjan Banerjee",
-          "Aruna Balasubramanian",
-          "Mark D. Corner",
-          "Brian Neil Levine",
-          "Brian Lynn"
-        ]
-      },
-      {
-        "title": "Towards new methods for mobility data gathering: content, sources, incentives.",
-        "authors": [
-          "Anders Lindgren"
-        ]
-      },
-      {
-        "title": "SniffMob: inferring human contact patterns using wireless devices.",
-        "authors": [
-          "Eric Anderson",
-          "Caleb T. Phillips",
-          "Harold Gonzales",
-          "Kevin S. Bauer",
-          "Douglas C. Sicker",
-          "Dirk Grunwald"
-        ]
-      },
-      {
-        "title": "Sentient bikes for collecting mobility traces in opportunistic networks.",
-        "authors": [
-          "Marcelo Pias",
-          "Kuang Xu",
-          "Pan Hui",
-          "Jon Crowcroft",
-          "Guang-Hua Yang",
-          "Victor O. K. Li",
-          "Salman Taherian"
-        ]
-      },
-      {
-        "title": "Scaling measurement experiments to planet-scale: ethical, regulatory and cultural considerations.",
-        "authors": [
-          "Tristan Henderson",
-          "Fehmi Ben Abdesslem"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/mobisys/mobisys2009.html": {
     "header": "7th MobiSys 2009: Kraków, Poland",
     "year": "2009",
@@ -16466,6 +16407,65 @@
           "Eugene Shih",
           "Ali H. Shoeb",
           "John V. Guttag"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/hotplanet2009.html": {
+    "header": "1st HotPlanet@MobiSys 2009: Wroclaw, Poland",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Sampling urban mobility through on-line repositories of GPS tracks.",
+        "authors": [
+          "Michal Piórkowski"
+        ]
+      },
+      {
+        "title": "DOME: a diverse outdoor mobile testbed.",
+        "authors": [
+          "Hamed Soroush",
+          "Nilanjan Banerjee",
+          "Aruna Balasubramanian",
+          "Mark D. Corner",
+          "Brian Neil Levine",
+          "Brian Lynn"
+        ]
+      },
+      {
+        "title": "Towards new methods for mobility data gathering: content, sources, incentives.",
+        "authors": [
+          "Anders Lindgren"
+        ]
+      },
+      {
+        "title": "SniffMob: inferring human contact patterns using wireless devices.",
+        "authors": [
+          "Eric Anderson",
+          "Caleb T. Phillips",
+          "Harold Gonzales",
+          "Kevin S. Bauer",
+          "Douglas C. Sicker",
+          "Dirk Grunwald"
+        ]
+      },
+      {
+        "title": "Sentient bikes for collecting mobility traces in opportunistic networks.",
+        "authors": [
+          "Marcelo Pias",
+          "Kuang Xu",
+          "Pan Hui",
+          "Jon Crowcroft",
+          "Guang-Hua Yang",
+          "Victor O. K. Li",
+          "Salman Taherian"
+        ]
+      },
+      {
+        "title": "Scaling measurement experiments to planet-scale: ethical, regulatory and cultural considerations.",
+        "authors": [
+          "Tristan Henderson",
+          "Fehmi Ben Abdesslem"
         ]
       }
     ]
@@ -16782,6 +16782,224 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/mobisys/mobisys2007.html": {
+    "header": "5th MobiSys 2007: San Juan, Puerto Rico",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "P2P, DSM, and other products of the complexity factory.",
+        "authors": [
+          "Willy Zwaenepoel"
+        ]
+      },
+      {
+        "title": "Cell phones as a research platform.",
+        "authors": [
+          "Srinivasan Keshav"
+        ]
+      },
+      {
+        "title": "Context browsing with mobiles - when less is more.",
+        "authors": [
+          "Yevgen Borodin",
+          "Jalal Mahmud",
+          "I. V. Ramakrishnan"
+        ]
+      },
+      {
+        "title": "PageTailor: reusable end-user customization for the mobile web.",
+        "authors": [
+          "Nilton Bila",
+          "Troy Ronda",
+          "Iqbal Mohomed",
+          "Khai N. Truong",
+          "Eyal de Lara"
+        ]
+      },
+      {
+        "title": "MobiUS: enable together-viewing video experience across two mobile devices.",
+        "authors": [
+          "Guobin Shen",
+          "Yanlin Li",
+          "Yongguang Zhang"
+        ]
+      },
+      {
+        "title": "NodeMD: diagnosing node-level faults in remote wireless sensor systems.",
+        "authors": [
+          "Veljko Krunic",
+          "Eric Trumpler",
+          "Richard Han"
+        ]
+      },
+      {
+        "title": "MyExperience: a system for in situ tracing and capturing of user feedback on mobile phones.",
+        "authors": [
+          "Jon Froehlich",
+          "Mike Y. Chen",
+          "Sunny Consolvo",
+          "Beverly L. Harrison",
+          "James A. Landay"
+        ]
+      },
+      {
+        "title": "Improving mobile database access over wide-area networks without degrading consistency.",
+        "authors": [
+          "Niraj Tolia",
+          "Mahadev Satyanarayanan",
+          "Adam Wolbach"
+        ]
+      },
+      {
+        "title": "Real-time deployment of multihop relays for range extension.",
+        "authors": [
+          "Michael R. Souryal",
+          "Johannes Geissbuehler",
+          "Leonard E. Miller",
+          "Nader Moayeri"
+        ]
+      },
+      {
+        "title": "Dali: a communication-centric data abstraction layer for energy-constrained devices in mobile sensor networks.",
+        "authors": [
+          "Christopher M. Sadler",
+          "Margaret Martonosi"
+        ]
+      },
+      {
+        "title": "Shooter localization and weapon classification with soldier-wearable networked sensors.",
+        "authors": [
+          "Péter Völgyesi",
+          "György Balogh",
+          "András Nádas",
+          "Christopher B. Nash",
+          "Ákos Lédeczi"
+        ]
+      },
+      {
+        "title": "Experiences of designing and deploying intelligent sensor nodes to monitor hand-arm vibrations in the field.",
+        "authors": [
+          "Christos Efstratiou",
+          "Nigel Davies",
+          "Gerd Kortuem",
+          "Joe Finney",
+          "Rob Hooper",
+          "Mark Lowton"
+        ]
+      },
+      {
+        "title": "Radio interferometric tracking of mobile wireless nodes.",
+        "authors": [
+          "Branislav Kusy",
+          "János Sallai",
+          "György Balogh",
+          "Ákos Lédeczi",
+          "Vladimir A. Protopopescu",
+          "Johnny Tolliver",
+          "Frank DeNap",
+          "Morey Parang"
+        ]
+      },
+      {
+        "title": "Triage: balancing energy and quality of service in a microserver.",
+        "authors": [
+          "Nilanjan Banerjee",
+          "Jacob Sorber",
+          "Mark D. Corner",
+          "Sami Rollins",
+          "Deepak Ganesan"
+        ]
+      },
+      {
+        "title": "Context-for-wireless: context-sensitive energy-efficient wireless data transfer.",
+        "authors": [
+          "Ahmad Rahmati",
+          "Lin Zhong"
+        ]
+      },
+      {
+        "title": "Wireless wakeups revisited: energy management for voip over wi-fi smartphones.",
+        "authors": [
+          "Yuvraj Agarwal",
+          "Ranveer Chandra",
+          "Alec Wolman",
+          "Paramvir Bahl",
+          "Kevin Chin",
+          "Rajesh K. Gupta"
+        ]
+      },
+      {
+        "title": "MobiSteer: using steerable beam directional antenna for vehicular network access.",
+        "authors": [
+          "Vishnu Navda",
+          "Anand Prabhu Subramanian",
+          "Kannan Dhanasekaran",
+          "Andreas Timm-Giel",
+          "Samir R. Das"
+        ]
+      },
+      {
+        "title": "Vehicular opportunistic communication under the microscope.",
+        "authors": [
+          "David Hadaller",
+          "Srinivasan Keshav",
+          "Tim Brecht",
+          "Shubham Agarwal"
+        ]
+      },
+      {
+        "title": "Surface street traffic estimation.",
+        "authors": [
+          "Jungkeun Yoon",
+          "Brian Noble",
+          "Mingyan Liu"
+        ]
+      },
+      {
+        "title": "SmokeScreen: flexible privacy controls for presence-sharing.",
+        "authors": [
+          "Landon P. Cox",
+          "Angela Dalton",
+          "Varun Marupadi"
+        ]
+      },
+      {
+        "title": "Preserving location privacy in wireless lans.",
+        "authors": [
+          "Tao Jiang",
+          "Helen J. Wang",
+          "Yih-Chun Hu"
+        ]
+      },
+      {
+        "title": "SmartSiren: virus detection and alert for smartphones.",
+        "authors": [
+          "Jerry Cheng",
+          "Starsky H. Y. Wong",
+          "Hao Yang",
+          "Songwu Lu"
+        ]
+      },
+      {
+        "title": "Simplifying cyber foraging for mobile devices.",
+        "authors": [
+          "Rajesh Krishna Balan",
+          "Darren Gergle",
+          "Mahadev Satyanarayanan",
+          "James D. Herbsleb"
+        ]
+      },
+      {
+        "title": "COMBINE: leveraging the power of wireless peers through collaborative downloading.",
+        "authors": [
+          "Ganesh Ananthanarayanan",
+          "Venkata N. Padmanabhan",
+          "Lenin Ravindranath",
+          "Chandramohan A. Thekkath"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/mobisys/mobiopp2007.html": {
     "header": "MobiOpp@MobiSys 2007: San Juan, Puerto Rico",
     "year": "2007",
@@ -17086,224 +17304,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mobisys/mobisys2007.html": {
-    "header": "5th MobiSys 2007: San Juan, Puerto Rico",
-    "year": "2007",
-    "papers": [
-      {
-        "title": "P2P, DSM, and other products of the complexity factory.",
-        "authors": [
-          "Willy Zwaenepoel"
-        ]
-      },
-      {
-        "title": "Cell phones as a research platform.",
-        "authors": [
-          "Srinivasan Keshav"
-        ]
-      },
-      {
-        "title": "Context browsing with mobiles - when less is more.",
-        "authors": [
-          "Yevgen Borodin",
-          "Jalal Mahmud",
-          "I. V. Ramakrishnan"
-        ]
-      },
-      {
-        "title": "PageTailor: reusable end-user customization for the mobile web.",
-        "authors": [
-          "Nilton Bila",
-          "Troy Ronda",
-          "Iqbal Mohomed",
-          "Khai N. Truong",
-          "Eyal de Lara"
-        ]
-      },
-      {
-        "title": "MobiUS: enable together-viewing video experience across two mobile devices.",
-        "authors": [
-          "Guobin Shen",
-          "Yanlin Li",
-          "Yongguang Zhang"
-        ]
-      },
-      {
-        "title": "NodeMD: diagnosing node-level faults in remote wireless sensor systems.",
-        "authors": [
-          "Veljko Krunic",
-          "Eric Trumpler",
-          "Richard Han"
-        ]
-      },
-      {
-        "title": "MyExperience: a system for in situ tracing and capturing of user feedback on mobile phones.",
-        "authors": [
-          "Jon Froehlich",
-          "Mike Y. Chen",
-          "Sunny Consolvo",
-          "Beverly L. Harrison",
-          "James A. Landay"
-        ]
-      },
-      {
-        "title": "Improving mobile database access over wide-area networks without degrading consistency.",
-        "authors": [
-          "Niraj Tolia",
-          "Mahadev Satyanarayanan",
-          "Adam Wolbach"
-        ]
-      },
-      {
-        "title": "Real-time deployment of multihop relays for range extension.",
-        "authors": [
-          "Michael R. Souryal",
-          "Johannes Geissbuehler",
-          "Leonard E. Miller",
-          "Nader Moayeri"
-        ]
-      },
-      {
-        "title": "Dali: a communication-centric data abstraction layer for energy-constrained devices in mobile sensor networks.",
-        "authors": [
-          "Christopher M. Sadler",
-          "Margaret Martonosi"
-        ]
-      },
-      {
-        "title": "Shooter localization and weapon classification with soldier-wearable networked sensors.",
-        "authors": [
-          "Péter Völgyesi",
-          "György Balogh",
-          "András Nádas",
-          "Christopher B. Nash",
-          "Ákos Lédeczi"
-        ]
-      },
-      {
-        "title": "Experiences of designing and deploying intelligent sensor nodes to monitor hand-arm vibrations in the field.",
-        "authors": [
-          "Christos Efstratiou",
-          "Nigel Davies",
-          "Gerd Kortuem",
-          "Joe Finney",
-          "Rob Hooper",
-          "Mark Lowton"
-        ]
-      },
-      {
-        "title": "Radio interferometric tracking of mobile wireless nodes.",
-        "authors": [
-          "Branislav Kusy",
-          "János Sallai",
-          "György Balogh",
-          "Ákos Lédeczi",
-          "Vladimir A. Protopopescu",
-          "Johnny Tolliver",
-          "Frank DeNap",
-          "Morey Parang"
-        ]
-      },
-      {
-        "title": "Triage: balancing energy and quality of service in a microserver.",
-        "authors": [
-          "Nilanjan Banerjee",
-          "Jacob Sorber",
-          "Mark D. Corner",
-          "Sami Rollins",
-          "Deepak Ganesan"
-        ]
-      },
-      {
-        "title": "Context-for-wireless: context-sensitive energy-efficient wireless data transfer.",
-        "authors": [
-          "Ahmad Rahmati",
-          "Lin Zhong"
-        ]
-      },
-      {
-        "title": "Wireless wakeups revisited: energy management for voip over wi-fi smartphones.",
-        "authors": [
-          "Yuvraj Agarwal",
-          "Ranveer Chandra",
-          "Alec Wolman",
-          "Paramvir Bahl",
-          "Kevin Chin",
-          "Rajesh K. Gupta"
-        ]
-      },
-      {
-        "title": "MobiSteer: using steerable beam directional antenna for vehicular network access.",
-        "authors": [
-          "Vishnu Navda",
-          "Anand Prabhu Subramanian",
-          "Kannan Dhanasekaran",
-          "Andreas Timm-Giel",
-          "Samir R. Das"
-        ]
-      },
-      {
-        "title": "Vehicular opportunistic communication under the microscope.",
-        "authors": [
-          "David Hadaller",
-          "Srinivasan Keshav",
-          "Tim Brecht",
-          "Shubham Agarwal"
-        ]
-      },
-      {
-        "title": "Surface street traffic estimation.",
-        "authors": [
-          "Jungkeun Yoon",
-          "Brian Noble",
-          "Mingyan Liu"
-        ]
-      },
-      {
-        "title": "SmokeScreen: flexible privacy controls for presence-sharing.",
-        "authors": [
-          "Landon P. Cox",
-          "Angela Dalton",
-          "Varun Marupadi"
-        ]
-      },
-      {
-        "title": "Preserving location privacy in wireless lans.",
-        "authors": [
-          "Tao Jiang",
-          "Helen J. Wang",
-          "Yih-Chun Hu"
-        ]
-      },
-      {
-        "title": "SmartSiren: virus detection and alert for smartphones.",
-        "authors": [
-          "Jerry Cheng",
-          "Starsky H. Y. Wong",
-          "Hao Yang",
-          "Songwu Lu"
-        ]
-      },
-      {
-        "title": "Simplifying cyber foraging for mobile devices.",
-        "authors": [
-          "Rajesh Krishna Balan",
-          "Darren Gergle",
-          "Mahadev Satyanarayanan",
-          "James D. Herbsleb"
-        ]
-      },
-      {
-        "title": "COMBINE: leveraging the power of wireless peers through collaborative downloading.",
-        "authors": [
-          "Ganesh Ananthanarayanan",
-          "Venkata N. Padmanabhan",
-          "Lenin Ravindranath",
-          "Chandramohan A. Thekkath"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/mobisys/mobisys2006.html": {
     "header": "4th MobiSys 2006: Uppsala, Sweden",
     "year": "2006",
@@ -17488,90 +17488,6 @@
         "authors": [
           "Vivek Mhatre",
           "Konstantina Papagiannaki"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/mobisys/eesr2005.html": {
-    "header": "MobiSys 2013 EESR Workshop: Seattle, WA, USA",
-    "year": "2005",
-    "papers": [
-      {
-        "title": "A Sensor-based, Web Service-enabled, Emergency Medical Response System.",
-        "authors": [
-          "Nada Hashmi",
-          "Dan Myung",
-          "Mark Gaynor",
-          "Steve Moulton"
-        ]
-      },
-      {
-        "title": "A Rule-based System for Sense-and-Respond Telematics Services.",
-        "authors": [
-          "Jonathan P. Munson",
-          "Sang Woo Lee",
-          "DaeRyung Lee",
-          "David Wood",
-          "Gerry Thompson",
-          "Alan Cole"
-        ]
-      },
-      {
-        "title": "Meteorological Command and Control: An End-to-end Architecture for a Hazardous Weather Detection Sensor Network.",
-        "authors": [
-          "Michael Zink",
-          "David Westbrook",
-          "Sherief Abdallah",
-          "Bryan Horling",
-          "Vijay Lakamraju",
-          "Eric Lyons",
-          "Victoria Manfredi",
-          "Jim Kurose",
-          "Kurt Hondl"
-        ]
-      },
-      {
-        "title": "Reducing Business Surprises through Proactive, Real-Time Sensing and Alert Management.",
-        "authors": [
-          "Mitchell A. Cohen",
-          "Jakka Sairamesh",
-          "Mao Chen"
-        ]
-      },
-      {
-        "title": "A File System Abstraction for Sense and Respond Systems.",
-        "authors": [
-          "Sameer Tilak",
-          "Bhanu Pisupati",
-          "Kenneth Chiu",
-          "Geoffrey Brown",
-          "Nael B. Abu-Ghazaleh"
-        ]
-      },
-      {
-        "title": "Transversal Issues in Real-Time Sense-and-Respond Systems.",
-        "authors": [
-          "Ahmad T. Al-Hammouri",
-          "Vincenzo Liberatore",
-          "Huthaifa Al-Omari",
-          "Stephen M. Phillips"
-        ]
-      },
-      {
-        "title": "M-ECho: A Middleware for Morphable Data-Streaming in Pervasive Systems.",
-        "authors": [
-          "Himanshu Raj",
-          "Karsten Schwan",
-          "Ripal Nathuji"
-        ]
-      },
-      {
-        "title": "The Abstract Task Graph: A Methodology for Architecture-Independent Programming of Networked Sensor Systems.",
-        "authors": [
-          "Amol Bakshi",
-          "Viktor K. Prasanna",
-          "Jim Reich",
-          "Daniel Larner"
         ]
       }
     ]
@@ -17809,6 +17725,90 @@
           "Nilanjan Banerjee",
           "Mark D. Corner",
           "Sami Rollins"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mobisys/eesr2005.html": {
+    "header": "MobiSys 2013 EESR Workshop: Seattle, WA, USA",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "A Sensor-based, Web Service-enabled, Emergency Medical Response System.",
+        "authors": [
+          "Nada Hashmi",
+          "Dan Myung",
+          "Mark Gaynor",
+          "Steve Moulton"
+        ]
+      },
+      {
+        "title": "A Rule-based System for Sense-and-Respond Telematics Services.",
+        "authors": [
+          "Jonathan P. Munson",
+          "Sang Woo Lee",
+          "DaeRyung Lee",
+          "David Wood",
+          "Gerry Thompson",
+          "Alan Cole"
+        ]
+      },
+      {
+        "title": "Meteorological Command and Control: An End-to-end Architecture for a Hazardous Weather Detection Sensor Network.",
+        "authors": [
+          "Michael Zink",
+          "David Westbrook",
+          "Sherief Abdallah",
+          "Bryan Horling",
+          "Vijay Lakamraju",
+          "Eric Lyons",
+          "Victoria Manfredi",
+          "Jim Kurose",
+          "Kurt Hondl"
+        ]
+      },
+      {
+        "title": "Reducing Business Surprises through Proactive, Real-Time Sensing and Alert Management.",
+        "authors": [
+          "Mitchell A. Cohen",
+          "Jakka Sairamesh",
+          "Mao Chen"
+        ]
+      },
+      {
+        "title": "A File System Abstraction for Sense and Respond Systems.",
+        "authors": [
+          "Sameer Tilak",
+          "Bhanu Pisupati",
+          "Kenneth Chiu",
+          "Geoffrey Brown",
+          "Nael B. Abu-Ghazaleh"
+        ]
+      },
+      {
+        "title": "Transversal Issues in Real-Time Sense-and-Respond Systems.",
+        "authors": [
+          "Ahmad T. Al-Hammouri",
+          "Vincenzo Liberatore",
+          "Huthaifa Al-Omari",
+          "Stephen M. Phillips"
+        ]
+      },
+      {
+        "title": "M-ECho: A Middleware for Morphable Data-Streaming in Pervasive Systems.",
+        "authors": [
+          "Himanshu Raj",
+          "Karsten Schwan",
+          "Ripal Nathuji"
+        ]
+      },
+      {
+        "title": "The Abstract Task Graph: A Methodology for Architecture-Independent Programming of Networked Sensor Systems.",
+        "authors": [
+          "Amol Bakshi",
+          "Viktor K. Prasanna",
+          "Jim Reich",
+          "Daniel Larner"
         ]
       }
     ]

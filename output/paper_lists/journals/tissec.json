@@ -1328,7 +1328,7 @@
   },
   "https://dblp.org/db/journals/tissec/tissec24.html": {
     "header": "ACM Transactions on Privacy and Security, Volume 24",
-    "year": "2021,2020",
+    "year": "2020,2021",
     "papers": [
       {
         "title": "Exploiting Behavioral Side Channels in Observation Resilient Cognitive Authentication Schemes.",
@@ -2246,118 +2246,6 @@
       }
     ]
   },
-  "https://dblp.org/db/journals/tissec/tissec19.html": {
-    "header": "ACM Transactions on Privacy and Security, Volume 19",
-    "year": "2017,2016",
-    "papers": [
-      {
-        "title": "Looks Like Eve: Exposing Insider Threats Using Eye Movement Biometrics.",
-        "authors": [
-          "Simon Eberz",
-          "Kasper Bonne Rasmussen",
-          "Vincent Lenders",
-          "Ivan Martinovic"
-        ]
-      },
-      {
-        "title": "How to Train Your Browser: Preventing XSS Attacks Using Contextual Script Fingerprints.",
-        "authors": [
-          "Dimitris Mitropoulos",
-          "Konstantinos Stroggylos",
-          "Diomidis Spinellis",
-          "Angelos D. Keromytis"
-        ]
-      },
-      {
-        "title": "Don't Let Google Know I'm Lonely.",
-        "authors": [
-          "Pol Mac Aonghusa",
-          "Douglas J. Leith"
-        ]
-      },
-      {
-        "title": "Efficient and Accurate Behavior-Based Tracking of Malware-Control Domains in Large ISP Networks.",
-        "authors": [
-          "Babak Rahbarinia",
-          "Roberto Perdisci",
-          "Manos Antonakakis"
-        ]
-      },
-      {
-        "title": "Detection of Rogue Certificates from Trusted Certificate Authorities Using Deep Neural Networks.",
-        "authors": [
-          "Zheng Dong",
-          "Kevin Kane",
-          "L. Jean Camp"
-        ]
-      },
-      {
-        "title": "MAC Precomputation with Applications to Secure Memory.",
-        "authors": [
-          "Juan A. Garay",
-          "Vladimir Kolesnikov",
-          "Rae McLellan"
-        ]
-      },
-      {
-        "title": "Privacy-Preserving Publishing of Hierarchical Data.",
-        "authors": [
-          "Ismet Ozalp",
-          "Mehmet Emre Gursoy",
-          "Mehmet Ercan Nergiz",
-          "Yücel Saygin"
-        ]
-      },
-      {
-        "title": "On the Workflow Satisfiability Problem with Class-Independent Constraints for Hierarchical Organizations.",
-        "authors": [
-          "Jason Crampton",
-          "Andrei Gagarin",
-          "Gregory Z. Gutin",
-          "Mark Jones",
-          "Magnus Wahlström"
-        ]
-      },
-      {
-        "title": "Inhibiting and Detecting Offline Password Cracking Using ErsatzPasswords.",
-        "authors": [
-          "Christopher N. Gutierrez",
-          "Mohammed H. Almeshekah",
-          "Eugene H. Spafford",
-          "Mikhail J. Atallah",
-          "Jeffrey Avery"
-        ]
-      },
-      {
-        "title": "Toward Improved Audio CAPTCHAs Based on Auditory Perception and Language Understanding.",
-        "authors": [
-          "Hendrik Meutzner",
-          "Santosh Gupta",
-          "Viet-Hung Nguyen",
-          "Thorsten Holz",
-          "Dorothea Kolossa"
-        ]
-      },
-      {
-        "title": "Privacy Games Along Location Traces: A Game-Theoretic Framework for Optimizing Location Privacy.",
-        "authors": [
-          "Reza Shokri",
-          "George Theodorakopoulos",
-          "Carmela Troncoso"
-        ]
-      },
-      {
-        "title": "Evaluating the Privacy Guarantees of Location Proximity Services.",
-        "authors": [
-          "George Argyros",
-          "Theofilos Petsios",
-          "Suphannee Sivakorn",
-          "Angelos D. Keromytis",
-          "Iasonas Polakis"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/journals/tissec/tissec20.html": {
     "header": "ACM Transactions on Privacy and Security, Volume 20",
     "year": "2017",
@@ -2522,9 +2410,121 @@
       }
     ]
   },
+  "https://dblp.org/db/journals/tissec/tissec19.html": {
+    "header": "ACM Transactions on Privacy and Security, Volume 19",
+    "year": "2016,2017",
+    "papers": [
+      {
+        "title": "Looks Like Eve: Exposing Insider Threats Using Eye Movement Biometrics.",
+        "authors": [
+          "Simon Eberz",
+          "Kasper Bonne Rasmussen",
+          "Vincent Lenders",
+          "Ivan Martinovic"
+        ]
+      },
+      {
+        "title": "How to Train Your Browser: Preventing XSS Attacks Using Contextual Script Fingerprints.",
+        "authors": [
+          "Dimitris Mitropoulos",
+          "Konstantinos Stroggylos",
+          "Diomidis Spinellis",
+          "Angelos D. Keromytis"
+        ]
+      },
+      {
+        "title": "Don't Let Google Know I'm Lonely.",
+        "authors": [
+          "Pol Mac Aonghusa",
+          "Douglas J. Leith"
+        ]
+      },
+      {
+        "title": "Efficient and Accurate Behavior-Based Tracking of Malware-Control Domains in Large ISP Networks.",
+        "authors": [
+          "Babak Rahbarinia",
+          "Roberto Perdisci",
+          "Manos Antonakakis"
+        ]
+      },
+      {
+        "title": "Detection of Rogue Certificates from Trusted Certificate Authorities Using Deep Neural Networks.",
+        "authors": [
+          "Zheng Dong",
+          "Kevin Kane",
+          "L. Jean Camp"
+        ]
+      },
+      {
+        "title": "MAC Precomputation with Applications to Secure Memory.",
+        "authors": [
+          "Juan A. Garay",
+          "Vladimir Kolesnikov",
+          "Rae McLellan"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Publishing of Hierarchical Data.",
+        "authors": [
+          "Ismet Ozalp",
+          "Mehmet Emre Gursoy",
+          "Mehmet Ercan Nergiz",
+          "Yücel Saygin"
+        ]
+      },
+      {
+        "title": "On the Workflow Satisfiability Problem with Class-Independent Constraints for Hierarchical Organizations.",
+        "authors": [
+          "Jason Crampton",
+          "Andrei Gagarin",
+          "Gregory Z. Gutin",
+          "Mark Jones",
+          "Magnus Wahlström"
+        ]
+      },
+      {
+        "title": "Inhibiting and Detecting Offline Password Cracking Using ErsatzPasswords.",
+        "authors": [
+          "Christopher N. Gutierrez",
+          "Mohammed H. Almeshekah",
+          "Eugene H. Spafford",
+          "Mikhail J. Atallah",
+          "Jeffrey Avery"
+        ]
+      },
+      {
+        "title": "Toward Improved Audio CAPTCHAs Based on Auditory Perception and Language Understanding.",
+        "authors": [
+          "Hendrik Meutzner",
+          "Santosh Gupta",
+          "Viet-Hung Nguyen",
+          "Thorsten Holz",
+          "Dorothea Kolossa"
+        ]
+      },
+      {
+        "title": "Privacy Games Along Location Traces: A Game-Theoretic Framework for Optimizing Location Privacy.",
+        "authors": [
+          "Reza Shokri",
+          "George Theodorakopoulos",
+          "Carmela Troncoso"
+        ]
+      },
+      {
+        "title": "Evaluating the Privacy Guarantees of Location Proximity Services.",
+        "authors": [
+          "George Argyros",
+          "Theofilos Petsios",
+          "Suphannee Sivakorn",
+          "Angelos D. Keromytis",
+          "Iasonas Polakis"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/tissec/tissec18.html": {
     "header": "ACM Transactions on Information and System Security, Volume 18",
-    "year": "2016,2015",
+    "year": "2015,2016",
     "papers": [
       {
         "title": "A Large-Scale Evaluation of High-Impact Password Strength Meters.",
@@ -2797,7 +2797,7 @@
   },
   "https://dblp.org/db/journals/tissec/tissec16.html": {
     "header": "ACM Transactions on Information and System Security, Volume 16",
-    "year": "2014,2013",
+    "year": "2013,2014",
     "papers": [
       {
         "title": "CPM: Masking Code Pointers to Prevent Code Injection Attacks.",
@@ -3704,7 +3704,7 @@
   },
   "https://dblp.org/db/journals/tissec/tissec12.html": {
     "header": "ACM Transactions on Information and System Security (TISSEC), Volume 12",
-    "year": "2009,2008",
+    "year": "2008,2009",
     "papers": [
       {
         "title": "Status-Based Access Control.",
@@ -3885,168 +3885,6 @@
           "Serdar Cabuk",
           "Carla E. Brodley",
           "Clay Shields"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/journals/tissec/tissec10.html": {
-    "header": "ACM Transactions on Information and System Security (TISSEC), Volume 10",
-    "year": "2008,2007",
-    "papers": [
-      {
-        "title": "Guest editorial: Special issue on access control models and technologies.",
-        "authors": [
-          "Gail-Joon Ahn"
-        ]
-      },
-      {
-        "title": "GEO-RBAC: A spatially aware RBAC.",
-        "authors": [
-          "Maria Luisa Damiani",
-          "Elisa Bertino",
-          "Barbara Catania",
-          "Paolo Perlasca"
-        ]
-      },
-      {
-        "title": "Relevancy-based access control and its evaluation on versioned XML documents.",
-        "authors": [
-          "Mizuho Iwaihara",
-          "Ryotaro Hayashi",
-          "Somchai Chatvichienchai",
-          "Chutiporn Anutariya",
-          "Vilas Wuwongse"
-        ]
-      },
-      {
-        "title": "Modeling network intrusion detection alerts for correlation.",
-        "authors": [
-          "Jingmin Zhou",
-          "Mark R. Heckman",
-          "Brennen Reynolds",
-          "Adam Carlson",
-          "Matt Bishop"
-        ]
-      },
-      {
-        "title": "On mutually exclusive roles and separation-of-duty.",
-        "authors": [
-          "Ninghui Li",
-          "Mahesh V. Tripunitara",
-          "Ziad Bizri"
-        ]
-      },
-      {
-        "title": "Batch zero-knowledge proof and verification and its applications.",
-        "authors": [
-          "Kun Peng",
-          "Colin Boyd",
-          "Ed Dawson"
-        ]
-      },
-      {
-        "title": "Specification and verification of security requirements in a programming model for decentralized CSCW systems.",
-        "authors": [
-          "Tanvir Ahmed",
-          "Anand R. Tripathi"
-        ]
-      },
-      {
-        "title": "Secure sessions for Web services.",
-        "authors": [
-          "Karthikeyan Bhargavan",
-          "Ricardo Corin",
-          "Cédric Fournet",
-          "Andrew D. Gordon"
-        ]
-      },
-      {
-        "title": "Just fast keying in the pi calculus.",
-        "authors": [
-          "Martín Abadi",
-          "Bruno Blanchet",
-          "Cédric Fournet"
-        ]
-      },
-      {
-        "title": "Provably secure authenticated group Diffie-Hellman key exchange.",
-        "authors": [
-          "Emmanuel Bresson",
-          "Olivier Chevassut",
-          "David Pointcheval"
-        ]
-      },
-      {
-        "title": "On interdomain routing security and pretty secure BGP (psBGP).",
-        "authors": [
-          "Paul C. van Oorschot",
-          "Tao Wan",
-          "Evangelos Kranakis"
-        ]
-      },
-      {
-        "title": "PP-trust-X: A system for privacy preserving trust negotiations.",
-        "authors": [
-          "Anna Cinzia Squicciarini",
-          "Elisa Bertino",
-          "Elena Ferrari",
-          "Federica Paci",
-          "Bhavani Thuraisingham"
-        ]
-      },
-      {
-        "title": "Epidemic thresholds in real networks.",
-        "authors": [
-          "Deepayan Chakrabarti",
-          "Yang Wang",
-          "Chenxi Wang",
-          "Jure Leskovec",
-          "Christos Faloutsos"
-        ]
-      },
-      {
-        "title": "Formal foundations for hybrid hierarchies in GTRBAC.",
-        "authors": [
-          "James B. D. Joshi",
-          "Elisa Bertino",
-          "Arif Ghafoor",
-          "Yue Zhang"
-        ]
-      },
-      {
-        "title": "Controlled physical random functions and applications.",
-        "authors": [
-          "Blaise Gassend",
-          "Marten van Dijk",
-          "Dwaine E. Clarke",
-          "Emina Torlak",
-          "Srinivas Devadas",
-          "Pim Tuyls"
-        ]
-      },
-      {
-        "title": "Dynamic access-control policies on XML encrypted data.",
-        "authors": [
-          "Luc Bouganim",
-          "François Dang Ngoc",
-          "Philippe Pucheral"
-        ]
-      },
-      {
-        "title": "On predictive models and user-drawn graphical passwords.",
-        "authors": [
-          "Paul C. van Oorschot",
-          "Julie Thorpe"
-        ]
-      },
-      {
-        "title": "ODSBR: An on-demand secure Byzantine resilient routing protocol for wireless ad hoc networks.",
-        "authors": [
-          "Baruch Awerbuch",
-          "Reza Curtmola",
-          "David Holmer",
-          "Cristina Nita-Rotaru",
-          "Herbert Rubens"
         ]
       }
     ]
@@ -4244,6 +4082,168 @@
           "Christina Pöpper",
           "Srdjan Capkun",
           "Mani B. Srivastava"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/tissec/tissec10.html": {
+    "header": "ACM Transactions on Information and System Security (TISSEC), Volume 10",
+    "year": "2007,2008",
+    "papers": [
+      {
+        "title": "Guest editorial: Special issue on access control models and technologies.",
+        "authors": [
+          "Gail-Joon Ahn"
+        ]
+      },
+      {
+        "title": "GEO-RBAC: A spatially aware RBAC.",
+        "authors": [
+          "Maria Luisa Damiani",
+          "Elisa Bertino",
+          "Barbara Catania",
+          "Paolo Perlasca"
+        ]
+      },
+      {
+        "title": "Relevancy-based access control and its evaluation on versioned XML documents.",
+        "authors": [
+          "Mizuho Iwaihara",
+          "Ryotaro Hayashi",
+          "Somchai Chatvichienchai",
+          "Chutiporn Anutariya",
+          "Vilas Wuwongse"
+        ]
+      },
+      {
+        "title": "Modeling network intrusion detection alerts for correlation.",
+        "authors": [
+          "Jingmin Zhou",
+          "Mark R. Heckman",
+          "Brennen Reynolds",
+          "Adam Carlson",
+          "Matt Bishop"
+        ]
+      },
+      {
+        "title": "On mutually exclusive roles and separation-of-duty.",
+        "authors": [
+          "Ninghui Li",
+          "Mahesh V. Tripunitara",
+          "Ziad Bizri"
+        ]
+      },
+      {
+        "title": "Batch zero-knowledge proof and verification and its applications.",
+        "authors": [
+          "Kun Peng",
+          "Colin Boyd",
+          "Ed Dawson"
+        ]
+      },
+      {
+        "title": "Specification and verification of security requirements in a programming model for decentralized CSCW systems.",
+        "authors": [
+          "Tanvir Ahmed",
+          "Anand R. Tripathi"
+        ]
+      },
+      {
+        "title": "Secure sessions for Web services.",
+        "authors": [
+          "Karthikeyan Bhargavan",
+          "Ricardo Corin",
+          "Cédric Fournet",
+          "Andrew D. Gordon"
+        ]
+      },
+      {
+        "title": "Just fast keying in the pi calculus.",
+        "authors": [
+          "Martín Abadi",
+          "Bruno Blanchet",
+          "Cédric Fournet"
+        ]
+      },
+      {
+        "title": "Provably secure authenticated group Diffie-Hellman key exchange.",
+        "authors": [
+          "Emmanuel Bresson",
+          "Olivier Chevassut",
+          "David Pointcheval"
+        ]
+      },
+      {
+        "title": "On interdomain routing security and pretty secure BGP (psBGP).",
+        "authors": [
+          "Paul C. van Oorschot",
+          "Tao Wan",
+          "Evangelos Kranakis"
+        ]
+      },
+      {
+        "title": "PP-trust-X: A system for privacy preserving trust negotiations.",
+        "authors": [
+          "Anna Cinzia Squicciarini",
+          "Elisa Bertino",
+          "Elena Ferrari",
+          "Federica Paci",
+          "Bhavani Thuraisingham"
+        ]
+      },
+      {
+        "title": "Epidemic thresholds in real networks.",
+        "authors": [
+          "Deepayan Chakrabarti",
+          "Yang Wang",
+          "Chenxi Wang",
+          "Jure Leskovec",
+          "Christos Faloutsos"
+        ]
+      },
+      {
+        "title": "Formal foundations for hybrid hierarchies in GTRBAC.",
+        "authors": [
+          "James B. D. Joshi",
+          "Elisa Bertino",
+          "Arif Ghafoor",
+          "Yue Zhang"
+        ]
+      },
+      {
+        "title": "Controlled physical random functions and applications.",
+        "authors": [
+          "Blaise Gassend",
+          "Marten van Dijk",
+          "Dwaine E. Clarke",
+          "Emina Torlak",
+          "Srinivas Devadas",
+          "Pim Tuyls"
+        ]
+      },
+      {
+        "title": "Dynamic access-control policies on XML encrypted data.",
+        "authors": [
+          "Luc Bouganim",
+          "François Dang Ngoc",
+          "Philippe Pucheral"
+        ]
+      },
+      {
+        "title": "On predictive models and user-drawn graphical passwords.",
+        "authors": [
+          "Paul C. van Oorschot",
+          "Julie Thorpe"
+        ]
+      },
+      {
+        "title": "ODSBR: An on-demand secure Byzantine resilient routing protocol for wireless ad hoc networks.",
+        "authors": [
+          "Baruch Awerbuch",
+          "Reza Curtmola",
+          "David Holmer",
+          "Cristina Nita-Rotaru",
+          "Herbert Rubens"
         ]
       }
     ]

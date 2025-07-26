@@ -9814,127 +9814,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/iptps/iptps2010.html": {
-    "header": "IPTPS 2010: San Jose, CA, USA",
-    "year": "2010",
-    "papers": [
-      {
-        "title": "Blindfold: a system to \"See no evil\" in content discovery.",
-        "authors": [
-          "Ryan S. Peterson",
-          "Bernard Wong",
-          "Emin Gün Sirer"
-        ]
-      },
-      {
-        "title": "AmazingStore: available, low-cost online storage service using cloudlets.",
-        "authors": [
-          "Zhi Yang",
-          "Ben Y. Zhao",
-          "Yuanjian Xing",
-          "Song Ding",
-          "Feng Xiao",
-          "Yafei Dai"
-        ]
-      },
-      {
-        "title": "Peer-to-peer bargaining in container-based datacenters.",
-        "authors": [
-          "Yuan Feng",
-          "Baochun Li",
-          "Bo Li"
-        ]
-      },
-      {
-        "title": "Estimating peer similarity using distance of shared files.",
-        "authors": [
-          "Yuval Shavitt",
-          "Ela Weinsberg",
-          "Udi Weinsberg"
-        ]
-      },
-      {
-        "title": "Don't love thy nearest neighbor.",
-        "authors": [
-          "Cristian Lumezanu",
-          "Dave Levin",
-          "Bo Han",
-          "Neil Spring",
-          "Bobby Bhattacharjee"
-        ]
-      },
-      {
-        "title": "SplitQuest: controlled and exhaustive search in peer-to-peer networks.",
-        "authors": [
-          "Pericles Lopes",
-          "Ronaldo A. Ferreira"
-        ]
-      },
-      {
-        "title": "Balancing gossip exchanges in networks with firewalls.",
-        "authors": [
-          "João Leitão",
-          "Robbert van Renesse",
-          "Luís E. T. Rodrigues"
-        ]
-      },
-      {
-        "title": "A middleware for gossip protocols.",
-        "authors": [
-          "Michael Chow",
-          "Robbert van Renesse"
-        ]
-      },
-      {
-        "title": "StAN: exploiting shared interests without disclosing them in gossip-based publish/subscribe.",
-        "authors": [
-          "Miguel Matos",
-          "Ana Nunes",
-          "Rui Oliveira",
-          "José Pereira"
-        ]
-      },
-      {
-        "title": "Public and private BitTorrent communities: a measurement study.",
-        "authors": [
-          "Michel Meulpolder",
-          "Lucia D'Acunto",
-          "Mihai Capota",
-          "Maciej Wojciechowski",
-          "Johan A. Pouwelse",
-          "Dick H. J. Epema",
-          "Henk J. Sips"
-        ]
-      },
-      {
-        "title": "Comparing BitTorrent clients in the wild: the case of download speed.",
-        "authors": [
-          "Marios Iliofotou",
-          "Georgos Siganos",
-          "Xiaoyuan Yang",
-          "Pablo Rodriguez"
-        ]
-      },
-      {
-        "title": "Power-law revisited: large scale measurement study of P2P content popularity.",
-        "authors": [
-          "György Dán",
-          "Niklas Carlsson"
-        ]
-      },
-      {
-        "title": "Strange bedfellows: community identification in bittorrent.",
-        "authors": [
-          "David R. Choffnes",
-          "Jordi Duch",
-          "R. Dean Malmgren",
-          "Roger Guimerà",
-          "Fabián E. Bustamante",
-          "Luís A. Nunes Amaral"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/nsdi/nsdi2010.html": {
     "header": "7th NSDI 2010: San Jose, California, USA",
     "year": "2010",
@@ -10326,6 +10205,127 @@
         "authors": [
           "Yashar Ganjali",
           "Amin Tootoonchian"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/iptps/iptps2010.html": {
+    "header": "IPTPS 2010: San Jose, CA, USA",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Blindfold: a system to \"See no evil\" in content discovery.",
+        "authors": [
+          "Ryan S. Peterson",
+          "Bernard Wong",
+          "Emin Gün Sirer"
+        ]
+      },
+      {
+        "title": "AmazingStore: available, low-cost online storage service using cloudlets.",
+        "authors": [
+          "Zhi Yang",
+          "Ben Y. Zhao",
+          "Yuanjian Xing",
+          "Song Ding",
+          "Feng Xiao",
+          "Yafei Dai"
+        ]
+      },
+      {
+        "title": "Peer-to-peer bargaining in container-based datacenters.",
+        "authors": [
+          "Yuan Feng",
+          "Baochun Li",
+          "Bo Li"
+        ]
+      },
+      {
+        "title": "Estimating peer similarity using distance of shared files.",
+        "authors": [
+          "Yuval Shavitt",
+          "Ela Weinsberg",
+          "Udi Weinsberg"
+        ]
+      },
+      {
+        "title": "Don't love thy nearest neighbor.",
+        "authors": [
+          "Cristian Lumezanu",
+          "Dave Levin",
+          "Bo Han",
+          "Neil Spring",
+          "Bobby Bhattacharjee"
+        ]
+      },
+      {
+        "title": "SplitQuest: controlled and exhaustive search in peer-to-peer networks.",
+        "authors": [
+          "Pericles Lopes",
+          "Ronaldo A. Ferreira"
+        ]
+      },
+      {
+        "title": "Balancing gossip exchanges in networks with firewalls.",
+        "authors": [
+          "João Leitão",
+          "Robbert van Renesse",
+          "Luís E. T. Rodrigues"
+        ]
+      },
+      {
+        "title": "A middleware for gossip protocols.",
+        "authors": [
+          "Michael Chow",
+          "Robbert van Renesse"
+        ]
+      },
+      {
+        "title": "StAN: exploiting shared interests without disclosing them in gossip-based publish/subscribe.",
+        "authors": [
+          "Miguel Matos",
+          "Ana Nunes",
+          "Rui Oliveira",
+          "José Pereira"
+        ]
+      },
+      {
+        "title": "Public and private BitTorrent communities: a measurement study.",
+        "authors": [
+          "Michel Meulpolder",
+          "Lucia D'Acunto",
+          "Mihai Capota",
+          "Maciej Wojciechowski",
+          "Johan A. Pouwelse",
+          "Dick H. J. Epema",
+          "Henk J. Sips"
+        ]
+      },
+      {
+        "title": "Comparing BitTorrent clients in the wild: the case of download speed.",
+        "authors": [
+          "Marios Iliofotou",
+          "Georgos Siganos",
+          "Xiaoyuan Yang",
+          "Pablo Rodriguez"
+        ]
+      },
+      {
+        "title": "Power-law revisited: large scale measurement study of P2P content popularity.",
+        "authors": [
+          "György Dán",
+          "Niklas Carlsson"
+        ]
+      },
+      {
+        "title": "Strange bedfellows: community identification in bittorrent.",
+        "authors": [
+          "David R. Choffnes",
+          "Jordi Duch",
+          "R. Dean Malmgren",
+          "Roger Guimerà",
+          "Fabián E. Bustamante",
+          "Luís A. Nunes Amaral"
         ]
       }
     ]
@@ -10767,6 +10767,189 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/nsdi/wowcs2008.html": {
+    "header": "5th NSDI 2008: San Francisco, California, USA - WOWCS",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Best Practices for the Care and Feeding of a Program Committee, and Other Thoughts on Conference Organization.",
+        "authors": [
+          "Fred Douglis"
+        ]
+      },
+      {
+        "title": "What Ought a Program Committee to Do?",
+        "authors": [
+          "Mark Allman"
+        ]
+      },
+      {
+        "title": "Program Committee Meetings Considered Harmful.",
+        "authors": [
+          "Robbert van Renesse"
+        ]
+      },
+      {
+        "title": "Paper Rating vs. Paper Ranking.",
+        "authors": [
+          "John R. Douceur"
+        ]
+      },
+      {
+        "title": "Overcoming Challenges of Maturity.",
+        "authors": [
+          "Ken Birman"
+        ]
+      },
+      {
+        "title": "Thoughts on Improving Review Quality.",
+        "authors": [
+          "Paul Francis"
+        ]
+      },
+      {
+        "title": "Scaling Internet Research Publication Processes to Internet Scale.",
+        "authors": [
+          "Jon Crowcroft",
+          "Srinivasan Keshav",
+          "Nick McKeown"
+        ]
+      },
+      {
+        "title": "Towards a Model of Computer Systems Research.",
+        "authors": [
+          "Thomas E. Anderson"
+        ]
+      },
+      {
+        "title": "Banal: Because Format Checking Is So Trite.",
+        "authors": [
+          "Geoffrey M. Voelker"
+        ]
+      },
+      {
+        "title": "Hot Crap!",
+        "authors": [
+          "Eddie Kohler"
+        ]
+      },
+      {
+        "title": "Before and After WOWCS: A literature survey, A list of papers we wish had been submitted.",
+        "authors": [
+          "Jeffrey C. Mogul",
+          "Tom Anderson"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/nsdi/upsec2008.html": {
+    "header": "5th NSDI 2008: San Francisco, California, USA - UPSEC",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "A Framework for Reasoning About the Human in the Loop.",
+        "authors": [
+          "Lorrie Faith Cranor"
+        ]
+      },
+      {
+        "title": "Understanding Privacy Settings in Facebook with an Audience View.",
+        "authors": [
+          "Heather Richter Lipford",
+          "Andrew Besmer",
+          "Jason Watson"
+        ]
+      },
+      {
+        "title": "Centered Discretization with Application to Graphical Passwords.",
+        "authors": [
+          "Sonia Chiasson",
+          "Jayakumar Srinivasan",
+          "Robert Biddle",
+          "Paul C. van Oorschot"
+        ]
+      },
+      {
+        "title": "iPhish: Phishing Vulnerabilities on Consumer Electronics.",
+        "authors": [
+          "Yuan Niu",
+          "Francis Hsu",
+          "Hao Chen"
+        ]
+      },
+      {
+        "title": "Where's The Beep? Security, Privacy, and User Misunderstandings of RFID.",
+        "authors": [
+          "Jennifer King",
+          "Andrew McDiarmid"
+        ]
+      },
+      {
+        "title": "Biometric Daemons: Authentication via Electronic Pets.",
+        "authors": [
+          "Pamela Briggs",
+          "Patrick L. Olivier"
+        ]
+      },
+      {
+        "title": "Freezing More Than Bits: Chilling Effects of the OLPC XO Security Model.",
+        "authors": [
+          "Meredith L. Patterson",
+          "Len Sassaman",
+          "David Chaum"
+        ]
+      },
+      {
+        "title": "Using Salience Differentials to Making Visual Cues Noticeable.",
+        "authors": [
+          "Andreas P. Heiner",
+          "N. Asokan"
+        ]
+      },
+      {
+        "title": "Predicted and Observed User Behavior in the Weakest-link Security Game.",
+        "authors": [
+          "Jens Grossklags",
+          "Nicolas Christin",
+          "John Chuang"
+        ]
+      },
+      {
+        "title": "Ad-hoc Guesting: When Exceptions Are the Rule.",
+        "authors": [
+          "Brinda Dalal",
+          "Les Nelson",
+          "Diana K. Smetters",
+          "Nathaniel Good",
+          "Ame Elliot"
+        ]
+      },
+      {
+        "title": "RUST: A Retargetable Usability Testbed for Web Site Authentication Technologies.",
+        "authors": [
+          "Maritza L. Johnson",
+          "Chaitanya Atreya",
+          "Adam J. Aviv",
+          "Steven M. Bellovin",
+          "Gail E. Kaiser"
+        ]
+      },
+      {
+        "title": "A User Study Design for Comparing the Security of Registration Protocols.",
+        "authors": [
+          "Chris Karlof",
+          "J. Doug Tygar",
+          "David A. Wagner"
+        ]
+      },
+      {
+        "title": "IRBs and Security Research: Myths, Facts and Mission Creep.",
+        "authors": [
+          "Simson L. Garfinkel"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/nsdi/nsdi2008.html": {
     "header": "5th NSDI 2008: San Francisco, California, USA",
     "year": "2008",
@@ -11054,114 +11237,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/nsdi/upsec2008.html": {
-    "header": "5th NSDI 2008: San Francisco, California, USA - UPSEC",
-    "year": "2008",
-    "papers": [
-      {
-        "title": "A Framework for Reasoning About the Human in the Loop.",
-        "authors": [
-          "Lorrie Faith Cranor"
-        ]
-      },
-      {
-        "title": "Understanding Privacy Settings in Facebook with an Audience View.",
-        "authors": [
-          "Heather Richter Lipford",
-          "Andrew Besmer",
-          "Jason Watson"
-        ]
-      },
-      {
-        "title": "Centered Discretization with Application to Graphical Passwords.",
-        "authors": [
-          "Sonia Chiasson",
-          "Jayakumar Srinivasan",
-          "Robert Biddle",
-          "Paul C. van Oorschot"
-        ]
-      },
-      {
-        "title": "iPhish: Phishing Vulnerabilities on Consumer Electronics.",
-        "authors": [
-          "Yuan Niu",
-          "Francis Hsu",
-          "Hao Chen"
-        ]
-      },
-      {
-        "title": "Where's The Beep? Security, Privacy, and User Misunderstandings of RFID.",
-        "authors": [
-          "Jennifer King",
-          "Andrew McDiarmid"
-        ]
-      },
-      {
-        "title": "Biometric Daemons: Authentication via Electronic Pets.",
-        "authors": [
-          "Pamela Briggs",
-          "Patrick L. Olivier"
-        ]
-      },
-      {
-        "title": "Freezing More Than Bits: Chilling Effects of the OLPC XO Security Model.",
-        "authors": [
-          "Meredith L. Patterson",
-          "Len Sassaman",
-          "David Chaum"
-        ]
-      },
-      {
-        "title": "Using Salience Differentials to Making Visual Cues Noticeable.",
-        "authors": [
-          "Andreas P. Heiner",
-          "N. Asokan"
-        ]
-      },
-      {
-        "title": "Predicted and Observed User Behavior in the Weakest-link Security Game.",
-        "authors": [
-          "Jens Grossklags",
-          "Nicolas Christin",
-          "John Chuang"
-        ]
-      },
-      {
-        "title": "Ad-hoc Guesting: When Exceptions Are the Rule.",
-        "authors": [
-          "Brinda Dalal",
-          "Les Nelson",
-          "Diana K. Smetters",
-          "Nathaniel Good",
-          "Ame Elliot"
-        ]
-      },
-      {
-        "title": "RUST: A Retargetable Usability Testbed for Web Site Authentication Technologies.",
-        "authors": [
-          "Maritza L. Johnson",
-          "Chaitanya Atreya",
-          "Adam J. Aviv",
-          "Steven M. Bellovin",
-          "Gail E. Kaiser"
-        ]
-      },
-      {
-        "title": "A User Study Design for Comparing the Security of Registration Protocols.",
-        "authors": [
-          "Chris Karlof",
-          "J. Doug Tygar",
-          "David A. Wagner"
-        ]
-      },
-      {
-        "title": "IRBs and Security Research: Myths, Facts and Mission Creep.",
-        "authors": [
-          "Simson L. Garfinkel"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/nsdi/leet2008.html": {
     "header": "5th NSDI 2008: San Francisco, California, USA - LEET",
     "year": "2008",
@@ -11268,81 +11343,6 @@
         "authors": [
           "Michalis Polychronakis",
           "Niels Provos"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/nsdi/wowcs2008.html": {
-    "header": "5th NSDI 2008: San Francisco, California, USA - WOWCS",
-    "year": "2008",
-    "papers": [
-      {
-        "title": "Best Practices for the Care and Feeding of a Program Committee, and Other Thoughts on Conference Organization.",
-        "authors": [
-          "Fred Douglis"
-        ]
-      },
-      {
-        "title": "What Ought a Program Committee to Do?",
-        "authors": [
-          "Mark Allman"
-        ]
-      },
-      {
-        "title": "Program Committee Meetings Considered Harmful.",
-        "authors": [
-          "Robbert van Renesse"
-        ]
-      },
-      {
-        "title": "Paper Rating vs. Paper Ranking.",
-        "authors": [
-          "John R. Douceur"
-        ]
-      },
-      {
-        "title": "Overcoming Challenges of Maturity.",
-        "authors": [
-          "Ken Birman"
-        ]
-      },
-      {
-        "title": "Thoughts on Improving Review Quality.",
-        "authors": [
-          "Paul Francis"
-        ]
-      },
-      {
-        "title": "Scaling Internet Research Publication Processes to Internet Scale.",
-        "authors": [
-          "Jon Crowcroft",
-          "Srinivasan Keshav",
-          "Nick McKeown"
-        ]
-      },
-      {
-        "title": "Towards a Model of Computer Systems Research.",
-        "authors": [
-          "Thomas E. Anderson"
-        ]
-      },
-      {
-        "title": "Banal: Because Format Checking Is So Trite.",
-        "authors": [
-          "Geoffrey M. Voelker"
-        ]
-      },
-      {
-        "title": "Hot Crap!",
-        "authors": [
-          "Eddie Kohler"
-        ]
-      },
-      {
-        "title": "Before and After WOWCS: A literature survey, A list of papers we wish had been submitted.",
-        "authors": [
-          "Jeffrey C. Mogul",
-          "Tom Anderson"
         ]
       }
     ]
@@ -11609,6 +11609,54 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/nsdi/netdb2007.html": {
+    "header": "4th NSDI 2007: Cambridge, Massachusetts, USA - NetDB",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "On-Demand View Materialization and Indexing for Network Forensic Analysis.",
+        "authors": [
+          "Roxana Geambasu",
+          "Tanya Bragin",
+          "Jaeyeon Jung",
+          "Magdalena Balazinska"
+        ]
+      },
+      {
+        "title": "Throughput-Optimized, Global-Scale Join Processing in Scientific Federations.",
+        "authors": [
+          "Xiaodan Wang",
+          "Randal C. Burns",
+          "Andreas Terzis"
+        ]
+      },
+      {
+        "title": "Networked PIM Using PDMS.",
+        "authors": [
+          "Alexander Albrecht",
+          "Felix Naumann",
+          "Armin Roth"
+        ]
+      },
+      {
+        "title": "Towards a Declarative Language and System for Secure Networking.",
+        "authors": [
+          "Martín Abadi",
+          "Boon Thau Loo"
+        ]
+      },
+      {
+        "title": "Net-X: Unified Data-Centric Internet Services.",
+        "authors": [
+          "Praveen Rao",
+          "Justin Cappos",
+          "Varun Khare",
+          "Bongki Moon",
+          "Beichuan Zhang"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/nsdi/hotbots2007.html": {
     "header": "4th NSDI 2007: Cambridge, Massachusetts, USA - HotBots",
     "year": "2007",
@@ -11699,54 +11747,6 @@
         "authors": [
           "Alex Brodsky",
           "Dmitry Brodsky"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/nsdi/netdb2007.html": {
-    "header": "4th NSDI 2007: Cambridge, Massachusetts, USA - NetDB",
-    "year": "2007",
-    "papers": [
-      {
-        "title": "On-Demand View Materialization and Indexing for Network Forensic Analysis.",
-        "authors": [
-          "Roxana Geambasu",
-          "Tanya Bragin",
-          "Jaeyeon Jung",
-          "Magdalena Balazinska"
-        ]
-      },
-      {
-        "title": "Throughput-Optimized, Global-Scale Join Processing in Scientific Federations.",
-        "authors": [
-          "Xiaodan Wang",
-          "Randal C. Burns",
-          "Andreas Terzis"
-        ]
-      },
-      {
-        "title": "Networked PIM Using PDMS.",
-        "authors": [
-          "Alexander Albrecht",
-          "Felix Naumann",
-          "Armin Roth"
-        ]
-      },
-      {
-        "title": "Towards a Declarative Language and System for Secure Networking.",
-        "authors": [
-          "Martín Abadi",
-          "Boon Thau Loo"
-        ]
-      },
-      {
-        "title": "Net-X: Unified Data-Centric Internet Services.",
-        "authors": [
-          "Praveen Rao",
-          "Justin Cappos",
-          "Varun Khare",
-          "Bongki Moon",
-          "Beichuan Zhang"
         ]
       }
     ]

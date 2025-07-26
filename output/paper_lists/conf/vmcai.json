@@ -200,145 +200,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/vmcai/vmcai2024-1.html": {
-    "header": "25th VMCAI 2024: London, UK - Part I",
-    "year": "2024",
-    "papers": [
-      {
-        "title": "Formal Runtime Error Detection During Development in the Automotive Industry.",
-        "authors": [
-          "Jesko Hecking-Harbusch",
-          "Jochen Quante",
-          "Maximilian Schlund"
-        ]
-      },
-      {
-        "title": "Abstract Interpretation-Based Feature Importance for Support Vector Machines.",
-        "authors": [
-          "Abhinandan Pal",
-          "Francesco Ranzato",
-          "Caterina Urban",
-          "Marco Zanella"
-        ]
-      },
-      {
-        "title": "Generation of Violation Witnesses by Under-Approximating Abstract Interpretation.",
-        "authors": [
-          "Marco Milanese",
-          "Antoine Miné"
-        ]
-      },
-      {
-        "title": "Correctness Witness Validation by Abstract Interpretation.",
-        "authors": [
-          "Simmo Saan",
-          "Michael Schwarz",
-          "Julian Erhard",
-          "Helmut Seidl",
-          "Sarah Tilscher",
-          "Vesal Vojdani"
-        ]
-      },
-      {
-        "title": "Project and Conquer: Fast Quantifier Elimination for Checking Petri Net Reachability.",
-        "authors": [
-          "Nicolas Amat",
-          "Silvano Dal-Zilio",
-          "Didier Le Botlan"
-        ]
-      },
-      {
-        "title": "Parameterized Verification of Disjunctive Timed Networks.",
-        "authors": [
-          "Étienne André",
-          "Paul Eichler",
-          "Swen Jacobs",
-          "Shyam Lal Karra"
-        ]
-      },
-      {
-        "title": "Resilience and Home-Space for WSTS.",
-        "authors": [
-          "Alain Finkel",
-          "Mathieu Hilaire"
-        ]
-      },
-      {
-        "title": "Generic Model Checking for Modal Fixpoint Logics in COOL-MC.",
-        "authors": [
-          "Daniel Hausmann",
-          "Merlin Humml",
-          "Simon Prucker",
-          "Lutz Schröder",
-          "Aaron Strahlberger"
-        ]
-      },
-      {
-        "title": "Model-Guided Synthesis for LTL over Finite Traces.",
-        "authors": [
-          "Shengping Xiao",
-          "Yongkang Li",
-          "Xinyue Huang",
-          "Yicong Xu",
-          "Jianwen Li",
-          "Geguang Pu",
-          "Ofer Strichman",
-          "Moshe Y. Vardi"
-        ]
-      },
-      {
-        "title": "Solving Two-Player Games Under Progress Assumptions.",
-        "authors": [
-          "Anne-Kathrin Schmuck",
-          "K. S. Thejaswini",
-          "Irmak Saglam",
-          "Satya Prakash Nayak"
-        ]
-      },
-      {
-        "title": "Interpolation and Quantifiers in Ortholattices.",
-        "authors": [
-          "Simon Guilloud",
-          "Sankalp Gambhir",
-          "Viktor Kuncak"
-        ]
-      },
-      {
-        "title": "Function Synthesis for Maximizing Model Counting.",
-        "authors": [
-          "Thomas Vigouroux",
-          "Marius Bozga",
-          "Cristian Ene",
-          "Laurent Mounier"
-        ]
-      },
-      {
-        "title": "Boosting Constrained Horn Solving by Unsat Core Learning.",
-        "authors": [
-          "Parosh Aziz Abdulla",
-          "Chencheng Liang",
-          "Philipp Rümmer"
-        ]
-      },
-      {
-        "title": "On the Verification of the Correctness of a Subgraph Construction Algorithm.",
-        "authors": [
-          "Lucas Böltz",
-          "Viorica Sofronie-Stokkermans",
-          "Hannes Frey"
-        ]
-      },
-      {
-        "title": "Efficient Local Search for Nonlinear Real Arithmetic.",
-        "authors": [
-          "Zhonghan Wang",
-          "Bohua Zhan",
-          "Bohan Li",
-          "Shaowei Cai"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/vmcai/vmcai2024-2.html": {
     "header": "25th VMCAI 2024: London, UK - Part II",
     "year": "2024",
@@ -477,6 +338,145 @@
         "authors": [
           "Francesco Parolini",
           "Antoine Miné"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/vmcai/vmcai2024-1.html": {
+    "header": "25th VMCAI 2024: London, UK - Part I",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "Formal Runtime Error Detection During Development in the Automotive Industry.",
+        "authors": [
+          "Jesko Hecking-Harbusch",
+          "Jochen Quante",
+          "Maximilian Schlund"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation-Based Feature Importance for Support Vector Machines.",
+        "authors": [
+          "Abhinandan Pal",
+          "Francesco Ranzato",
+          "Caterina Urban",
+          "Marco Zanella"
+        ]
+      },
+      {
+        "title": "Generation of Violation Witnesses by Under-Approximating Abstract Interpretation.",
+        "authors": [
+          "Marco Milanese",
+          "Antoine Miné"
+        ]
+      },
+      {
+        "title": "Correctness Witness Validation by Abstract Interpretation.",
+        "authors": [
+          "Simmo Saan",
+          "Michael Schwarz",
+          "Julian Erhard",
+          "Helmut Seidl",
+          "Sarah Tilscher",
+          "Vesal Vojdani"
+        ]
+      },
+      {
+        "title": "Project and Conquer: Fast Quantifier Elimination for Checking Petri Net Reachability.",
+        "authors": [
+          "Nicolas Amat",
+          "Silvano Dal-Zilio",
+          "Didier Le Botlan"
+        ]
+      },
+      {
+        "title": "Parameterized Verification of Disjunctive Timed Networks.",
+        "authors": [
+          "Étienne André",
+          "Paul Eichler",
+          "Swen Jacobs",
+          "Shyam Lal Karra"
+        ]
+      },
+      {
+        "title": "Resilience and Home-Space for WSTS.",
+        "authors": [
+          "Alain Finkel",
+          "Mathieu Hilaire"
+        ]
+      },
+      {
+        "title": "Generic Model Checking for Modal Fixpoint Logics in COOL-MC.",
+        "authors": [
+          "Daniel Hausmann",
+          "Merlin Humml",
+          "Simon Prucker",
+          "Lutz Schröder",
+          "Aaron Strahlberger"
+        ]
+      },
+      {
+        "title": "Model-Guided Synthesis for LTL over Finite Traces.",
+        "authors": [
+          "Shengping Xiao",
+          "Yongkang Li",
+          "Xinyue Huang",
+          "Yicong Xu",
+          "Jianwen Li",
+          "Geguang Pu",
+          "Ofer Strichman",
+          "Moshe Y. Vardi"
+        ]
+      },
+      {
+        "title": "Solving Two-Player Games Under Progress Assumptions.",
+        "authors": [
+          "Anne-Kathrin Schmuck",
+          "K. S. Thejaswini",
+          "Irmak Saglam",
+          "Satya Prakash Nayak"
+        ]
+      },
+      {
+        "title": "Interpolation and Quantifiers in Ortholattices.",
+        "authors": [
+          "Simon Guilloud",
+          "Sankalp Gambhir",
+          "Viktor Kuncak"
+        ]
+      },
+      {
+        "title": "Function Synthesis for Maximizing Model Counting.",
+        "authors": [
+          "Thomas Vigouroux",
+          "Marius Bozga",
+          "Cristian Ene",
+          "Laurent Mounier"
+        ]
+      },
+      {
+        "title": "Boosting Constrained Horn Solving by Unsat Core Learning.",
+        "authors": [
+          "Parosh Aziz Abdulla",
+          "Chencheng Liang",
+          "Philipp Rümmer"
+        ]
+      },
+      {
+        "title": "On the Verification of the Correctness of a Subgraph Construction Algorithm.",
+        "authors": [
+          "Lucas Böltz",
+          "Viorica Sofronie-Stokkermans",
+          "Hannes Frey"
+        ]
+      },
+      {
+        "title": "Efficient Local Search for Nonlinear Real Arithmetic.",
+        "authors": [
+          "Zhonghan Wang",
+          "Bohua Zhan",
+          "Bohan Li",
+          "Shaowei Cai"
         ]
       }
     ]

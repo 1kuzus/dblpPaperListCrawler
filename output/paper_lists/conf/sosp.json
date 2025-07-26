@@ -1168,173 +1168,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sosp/plos2021.html": {
-    "header": "11th PLOS@SOSP 2021: Virtual Event, Germany",
-    "year": "2021",
-    "papers": [
-      {
-        "title": "AnyCall: Fast and Flexible System-Call Aggregation.",
-        "authors": [
-          "Luis Gerhorst",
-          "Benedict Herzog",
-          "Stefan Reif",
-          "Wolfgang Schröder-Preikschat",
-          "Timo Hönig"
-        ]
-      },
-      {
-        "title": "Asterope: A Cross-Platform Optimization Method for Fast Memory Copy.",
-        "authors": [
-          "Giorgos Kappes",
-          "Stergios V. Anastasiadis"
-        ]
-      },
-      {
-        "title": "Files-as-Filesystems for POSIX Shell Data Processing.",
-        "authors": [
-          "Michael Greenberg"
-        ]
-      },
-      {
-        "title": "Decoupling Application Logic from Persistent Memory Frameworks with AspectC++.",
-        "authors": [
-          "Marcel Köppen",
-          "Birte Friesel",
-          "Christoph Borchert",
-          "Olaf Spinczyk"
-        ]
-      },
-      {
-        "title": "PyMM: Heterogeneous Memory Programming for Python Data Science.",
-        "authors": [
-          "Daniel G. Waddington",
-          "Moshik Hershcovitch",
-          "Clem Dickey"
-        ]
-      },
-      {
-        "title": "FlashCube: Fast Provisioning of Serverless Functions with Streamlined Container Runtimes.",
-        "authors": [
-          "Zhen Lin",
-          "Kao-Feng Hsieh",
-          "Yu Sun",
-          "Seunghee Shin",
-          "Hui Lu"
-        ]
-      },
-      {
-        "title": "Using Coroutines for Multi-core Preemptive Scheduling.",
-        "authors": [
-          "Ole Lehrmann Madsen"
-        ]
-      },
-      {
-        "title": "Understanding the Overheads of Hardware and Language-Based IPC Mechanisms.",
-        "authors": [
-          "Zhaofeng Li",
-          "Tianjiao Huang",
-          "Vikram Narayanan",
-          "Anton Burtsev"
-        ]
-      },
-      {
-        "title": "CppSig: Extracting Type Information for C-Preprocessor Macro Expansions.",
-        "authors": [
-          "Christian Dietrich"
-        ]
-      },
-      {
-        "title": "Generating correct initial page tables from formal hardware descriptions.",
-        "authors": [
-          "Reto Achermann",
-          "David A. Cock",
-          "Roni Haecki",
-          "Nora Hossle",
-          "Lukas Humbel",
-          "Timothy Roscoe",
-          "Daniel David Schwyn"
-        ]
-      },
-      {
-        "title": "Isolation in Rust: What is Missing?",
-        "authors": [
-          "Anton Burtsev",
-          "Dan Appel",
-          "David Detweiler",
-          "Tianjiao Huang",
-          "Zhaofeng Li",
-          "Vikram Narayanan",
-          "Gerd Zellweger"
-        ]
-      },
-      {
-        "title": "How ISO C became unusable for operating systems development.",
-        "authors": [
-          "Victor Yodaiken"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sosp/resilientfl2021.html": {
-    "header": "ResilientFL@SOSP 2021: Virtual Event, Germany",
-    "year": "2021",
-    "papers": [
-      {
-        "title": "FedScale: Benchmarking Model and System Performance of Federated Learning.",
-        "authors": [
-          "Fan Lai",
-          "Yinwei Dai",
-          "Xiangfeng Zhu",
-          "Harsha V. Madhyastha",
-          "Mosharaf Chowdhury"
-        ]
-      },
-      {
-        "title": "Redundancy in cost functions for Byzantine fault-tolerant federated learning.",
-        "authors": [
-          "Shuo Liu",
-          "Nirupam Gupta",
-          "Nitin H. Vaidya"
-        ]
-      },
-      {
-        "title": "Towards an Efficient System for Differentially-private, Cross-device Federated Learning.",
-        "authors": [
-          "Kunlong Liu",
-          "Richa Wadaskar",
-          "Trinabh Gupta"
-        ]
-      },
-      {
-        "title": "GradSec: a TEE-based Scheme Against Federated Learning Inference Attacks.",
-        "authors": [
-          "Aghiles Ait Messaoud",
-          "Sonia Ben Mokhtar",
-          "Vlad Nitu",
-          "Valerio Schiavoni"
-        ]
-      },
-      {
-        "title": "Community-Structured Decentralized Learning for Resilient EI.",
-        "authors": [
-          "Harikrishna Kuttivelil",
-          "Katia Obraczka"
-        ]
-      },
-      {
-        "title": "Separation of Powers in Federated Learning (Poster Paper).",
-        "authors": [
-          "Pau-Chen Cheng",
-          "Kevin Eykholt",
-          "Zhongshu Gu",
-          "Hani Jamjoom",
-          "K. R. Jayaram",
-          "Enriquillo Valdez",
-          "Ashish Verma"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/sosp/sosp2021.html": {
     "header": "28th SOSP 2021: Virtual Event / Koblenz, Germany",
     "year": "2021",
@@ -1969,6 +1802,237 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/sosp/resilientfl2021.html": {
+    "header": "ResilientFL@SOSP 2021: Virtual Event, Germany",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "FedScale: Benchmarking Model and System Performance of Federated Learning.",
+        "authors": [
+          "Fan Lai",
+          "Yinwei Dai",
+          "Xiangfeng Zhu",
+          "Harsha V. Madhyastha",
+          "Mosharaf Chowdhury"
+        ]
+      },
+      {
+        "title": "Redundancy in cost functions for Byzantine fault-tolerant federated learning.",
+        "authors": [
+          "Shuo Liu",
+          "Nirupam Gupta",
+          "Nitin H. Vaidya"
+        ]
+      },
+      {
+        "title": "Towards an Efficient System for Differentially-private, Cross-device Federated Learning.",
+        "authors": [
+          "Kunlong Liu",
+          "Richa Wadaskar",
+          "Trinabh Gupta"
+        ]
+      },
+      {
+        "title": "GradSec: a TEE-based Scheme Against Federated Learning Inference Attacks.",
+        "authors": [
+          "Aghiles Ait Messaoud",
+          "Sonia Ben Mokhtar",
+          "Vlad Nitu",
+          "Valerio Schiavoni"
+        ]
+      },
+      {
+        "title": "Community-Structured Decentralized Learning for Resilient EI.",
+        "authors": [
+          "Harikrishna Kuttivelil",
+          "Katia Obraczka"
+        ]
+      },
+      {
+        "title": "Separation of Powers in Federated Learning (Poster Paper).",
+        "authors": [
+          "Pau-Chen Cheng",
+          "Kevin Eykholt",
+          "Zhongshu Gu",
+          "Hani Jamjoom",
+          "K. R. Jayaram",
+          "Enriquillo Valdez",
+          "Ashish Verma"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sosp/plos2021.html": {
+    "header": "11th PLOS@SOSP 2021: Virtual Event, Germany",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "AnyCall: Fast and Flexible System-Call Aggregation.",
+        "authors": [
+          "Luis Gerhorst",
+          "Benedict Herzog",
+          "Stefan Reif",
+          "Wolfgang Schröder-Preikschat",
+          "Timo Hönig"
+        ]
+      },
+      {
+        "title": "Asterope: A Cross-Platform Optimization Method for Fast Memory Copy.",
+        "authors": [
+          "Giorgos Kappes",
+          "Stergios V. Anastasiadis"
+        ]
+      },
+      {
+        "title": "Files-as-Filesystems for POSIX Shell Data Processing.",
+        "authors": [
+          "Michael Greenberg"
+        ]
+      },
+      {
+        "title": "Decoupling Application Logic from Persistent Memory Frameworks with AspectC++.",
+        "authors": [
+          "Marcel Köppen",
+          "Birte Friesel",
+          "Christoph Borchert",
+          "Olaf Spinczyk"
+        ]
+      },
+      {
+        "title": "PyMM: Heterogeneous Memory Programming for Python Data Science.",
+        "authors": [
+          "Daniel G. Waddington",
+          "Moshik Hershcovitch",
+          "Clem Dickey"
+        ]
+      },
+      {
+        "title": "FlashCube: Fast Provisioning of Serverless Functions with Streamlined Container Runtimes.",
+        "authors": [
+          "Zhen Lin",
+          "Kao-Feng Hsieh",
+          "Yu Sun",
+          "Seunghee Shin",
+          "Hui Lu"
+        ]
+      },
+      {
+        "title": "Using Coroutines for Multi-core Preemptive Scheduling.",
+        "authors": [
+          "Ole Lehrmann Madsen"
+        ]
+      },
+      {
+        "title": "Understanding the Overheads of Hardware and Language-Based IPC Mechanisms.",
+        "authors": [
+          "Zhaofeng Li",
+          "Tianjiao Huang",
+          "Vikram Narayanan",
+          "Anton Burtsev"
+        ]
+      },
+      {
+        "title": "CppSig: Extracting Type Information for C-Preprocessor Macro Expansions.",
+        "authors": [
+          "Christian Dietrich"
+        ]
+      },
+      {
+        "title": "Generating correct initial page tables from formal hardware descriptions.",
+        "authors": [
+          "Reto Achermann",
+          "David A. Cock",
+          "Roni Haecki",
+          "Nora Hossle",
+          "Lukas Humbel",
+          "Timothy Roscoe",
+          "Daniel David Schwyn"
+        ]
+      },
+      {
+        "title": "Isolation in Rust: What is Missing?",
+        "authors": [
+          "Anton Burtsev",
+          "Dan Appel",
+          "David Detweiler",
+          "Tianjiao Huang",
+          "Zhaofeng Li",
+          "Vikram Narayanan",
+          "Gerd Zellweger"
+        ]
+      },
+      {
+        "title": "How ISO C became unusable for operating systems development.",
+        "authors": [
+          "Victor Yodaiken"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sosp/systex2019.html": {
+    "header": "4nd SysTEX@SOSP 2019: Huntsville, ON, Canada",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "A vision for autonomous blockchains backed by secure hardware.",
+        "authors": [
+          "Kai Mast",
+          "Lequn Chen",
+          "Emin Gün Sirer"
+        ]
+      },
+      {
+        "title": "Propagating trusted execution through mutual attestation.",
+        "authors": [
+          "Furkan Turan",
+          "Ingrid Verbauwhede"
+        ]
+      },
+      {
+        "title": "Toward scaling hardware security module for emerging cloud services.",
+        "authors": [
+          "Juhyeng Han",
+          "Seong-Min Kim",
+          "Taesoo Kim",
+          "Dongsu Han"
+        ]
+      },
+      {
+        "title": "Protecting the stack with PACed canaries.",
+        "authors": [
+          "Hans Liljestrand",
+          "Zaheer Gauhar",
+          "Thomas Nyman",
+          "Jan-Erik Ekberg",
+          "N. Asokan"
+        ]
+      },
+      {
+        "title": "Execution integrity without implicit trust of system software.",
+        "authors": [
+          "Ahmed Awad",
+          "Brad Karp"
+        ]
+      },
+      {
+        "title": "Towards a standards-compliant pure-software trusted execution environment for resource-constrained embedded devices.",
+        "authors": [
+          "Hassaan Janjua",
+          "Mahmoud Ammar",
+          "Bruno Crispo",
+          "Danny Hughes"
+        ]
+      },
+      {
+        "title": "TEEMo: trusted peripheral monitoring for optical networks and beyond.",
+        "authors": [
+          "Marcel Busch",
+          "Ralph Schlenk",
+          "Hans Heckel"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/sosp/sosp2019.html": {
     "header": "27th SOSP 2019: Huntsville, , ON, Canada",
     "year": "2019",
@@ -2397,70 +2461,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sosp/systex2019.html": {
-    "header": "4nd SysTEX@SOSP 2019: Huntsville, ON, Canada",
-    "year": "2019",
-    "papers": [
-      {
-        "title": "A vision for autonomous blockchains backed by secure hardware.",
-        "authors": [
-          "Kai Mast",
-          "Lequn Chen",
-          "Emin Gün Sirer"
-        ]
-      },
-      {
-        "title": "Propagating trusted execution through mutual attestation.",
-        "authors": [
-          "Furkan Turan",
-          "Ingrid Verbauwhede"
-        ]
-      },
-      {
-        "title": "Toward scaling hardware security module for emerging cloud services.",
-        "authors": [
-          "Juhyeng Han",
-          "Seong-Min Kim",
-          "Taesoo Kim",
-          "Dongsu Han"
-        ]
-      },
-      {
-        "title": "Protecting the stack with PACed canaries.",
-        "authors": [
-          "Hans Liljestrand",
-          "Zaheer Gauhar",
-          "Thomas Nyman",
-          "Jan-Erik Ekberg",
-          "N. Asokan"
-        ]
-      },
-      {
-        "title": "Execution integrity without implicit trust of system software.",
-        "authors": [
-          "Ahmed Awad",
-          "Brad Karp"
-        ]
-      },
-      {
-        "title": "Towards a standards-compliant pure-software trusted execution environment for resource-constrained embedded devices.",
-        "authors": [
-          "Hassaan Janjua",
-          "Mahmoud Ammar",
-          "Bruno Crispo",
-          "Danny Hughes"
-        ]
-      },
-      {
-        "title": "TEEMo: trusted peripheral monitoring for optical networks and beyond.",
-        "authors": [
-          "Marcel Busch",
-          "Ralph Schlenk",
-          "Hans Heckel"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/sosp/plos2019.html": {
     "header": "10th PLOS@SOSP 2019: Huntsville, ON, Canada",
     "year": "2019",
@@ -2564,80 +2564,91 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sosp/plos2017.html": {
-    "header": "9th PLOS@SOSP 2017: Shanghai, China",
+  "https://dblp.org/db/conf/sosp/systex2017.html": {
+    "header": "2nd SysTEX@SOSP 2017: Shanghai, China",
     "year": "2017",
     "papers": [
       {
-        "title": "The Cogent Case for Property-Based Testing.",
+        "title": "Strongly Secure and Efficient Data Shuffle on Hardware Enclaves.",
         "authors": [
-          "Zilin Chen",
-          "Liam O'Connor",
-          "Gabriele Keller",
-          "Gerwin Klein",
-          "Gernot Heiser"
+          "Ju Chen",
+          "Yuzhe Richard Tang",
+          "Hao Zhou"
         ]
       },
       {
-        "title": "Towards Correct-by-Construction Interrupt Routing on Real Hardware.",
+        "title": "Hardening Intel SGX Applications: Balancing Concerns.",
         "authors": [
-          "Lukas Humbel",
-          "Reto Achermann",
-          "David A. Cock",
-          "Timothy Roscoe"
+          "Kobe Vrancken",
+          "Frank Piessens",
+          "Raoul Strackx"
         ]
       },
       {
-        "title": "Programmable Elasticity for Actor-based Cloud Applications.",
+        "title": "Cobweb: Practical Remote Attestation Using Contextual Graphs.",
         "authors": [
-          "Bo Sang",
-          "Srivatsan Ravi",
-          "Gustavo Petri",
-          "Mahsa Najafzadeh",
-          "Masoud Saeida Ardekani",
-          "Patrick Eugster"
+          "Frank Wang",
+          "Yuna Joung",
+          "James Mickens"
         ]
       },
       {
-        "title": "Adaptable Actors: Just What The World Needs.",
+        "title": "SGX-Step: A Practical Attack Framework for Precise Enclave Execution Control.",
         "authors": [
-          "Paul Harvey",
-          "Joseph S. Sventek"
+          "Jo Van Bulck",
+          "Frank Piessens",
+          "Raoul Strackx"
         ]
       },
       {
-        "title": "Theseus: a State Spill-free Operating System.",
+        "title": "SGX-Bomb: Locking Down the Processor via Rowhammer Attack.",
         "authors": [
-          "Kevin Boos",
-          "Lin Zhong"
+          "Yeongjin Jang",
+          "Jae-Hyuk Lee",
+          "Sangho Lee",
+          "Taesoo Kim"
         ]
       },
       {
-        "title": "Annotations in Operating Systems with Custom AspectC++ Attributes.",
+        "title": "vCFI: Visible Control Flow Integrity for Cloud Tenants.",
         "authors": [
-          "Birte Friesel",
-          "Markus Buschhoff",
-          "Olaf Spinczyk"
+          "Yuan Li",
+          "Chao Zhang",
+          "Xiapu Luo"
         ]
       },
       {
-        "title": "Towards Fine-grained, Automated Application Compartmentalization.",
+        "title": "Enclave-Based Privacy-Preserving Alignment of Raw Genomic Information: Information Leakage and Countermeasures.",
         "authors": [
-          "Nikos Vasilakis",
-          "Ben Karel",
-          "Nick Roessler",
-          "Nathan Dautenhahn",
-          "André DeHon",
-          "Jonathan M. Smith"
+          "Marcus Völp",
+          "Jérémie Decouchant",
+          "Christoph Lambert",
+          "Maria Fernandes",
+          "Paulo Jorge Esteves Veríssimo"
         ]
       },
       {
-        "title": "Sandcrust: Automatic Sandboxing of Unsafe Components in Rust.",
+        "title": "Challenges For Scaling Applications Across Enclaves.",
         "authors": [
-          "Benjamin Lamowski",
-          "Carsten Weinhold",
-          "Adam Lackorzynski",
-          "Hermann Härtig"
+          "Jethro G. Beekman",
+          "Donald E. Porter"
+        ]
+      },
+      {
+        "title": "Scaling Databases through Trusted Hardware Proxies.",
+        "authors": [
+          "Kai Mast",
+          "Lequn Chen",
+          "Emin Gün Sirer"
+        ]
+      },
+      {
+        "title": "Architectures for Enhancing Authentication Privacy and Security using Trusted Computing.",
+        "authors": [
+          "Ranjbar A. Balisane",
+          "Ravishankar Borgaonkar",
+          "Ahmad Atamli-Reineh",
+          "Andrew Martin"
         ]
       }
     ]
@@ -3070,314 +3081,80 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sosp/systex2017.html": {
-    "header": "2nd SysTEX@SOSP 2017: Shanghai, China",
+  "https://dblp.org/db/conf/sosp/plos2017.html": {
+    "header": "9th PLOS@SOSP 2017: Shanghai, China",
     "year": "2017",
     "papers": [
       {
-        "title": "Strongly Secure and Efficient Data Shuffle on Hardware Enclaves.",
+        "title": "The Cogent Case for Property-Based Testing.",
         "authors": [
-          "Ju Chen",
-          "Yuzhe Richard Tang",
-          "Hao Zhou"
+          "Zilin Chen",
+          "Liam O'Connor",
+          "Gabriele Keller",
+          "Gerwin Klein",
+          "Gernot Heiser"
         ]
       },
       {
-        "title": "Hardening Intel SGX Applications: Balancing Concerns.",
+        "title": "Towards Correct-by-Construction Interrupt Routing on Real Hardware.",
         "authors": [
-          "Kobe Vrancken",
-          "Frank Piessens",
-          "Raoul Strackx"
+          "Lukas Humbel",
+          "Reto Achermann",
+          "David A. Cock",
+          "Timothy Roscoe"
         ]
       },
       {
-        "title": "Cobweb: Practical Remote Attestation Using Contextual Graphs.",
+        "title": "Programmable Elasticity for Actor-based Cloud Applications.",
         "authors": [
-          "Frank Wang",
-          "Yuna Joung",
-          "James Mickens"
+          "Bo Sang",
+          "Srivatsan Ravi",
+          "Gustavo Petri",
+          "Mahsa Najafzadeh",
+          "Masoud Saeida Ardekani",
+          "Patrick Eugster"
         ]
       },
       {
-        "title": "SGX-Step: A Practical Attack Framework for Precise Enclave Execution Control.",
+        "title": "Adaptable Actors: Just What The World Needs.",
         "authors": [
-          "Jo Van Bulck",
-          "Frank Piessens",
-          "Raoul Strackx"
+          "Paul Harvey",
+          "Joseph S. Sventek"
         ]
       },
       {
-        "title": "SGX-Bomb: Locking Down the Processor via Rowhammer Attack.",
+        "title": "Theseus: a State Spill-free Operating System.",
         "authors": [
-          "Yeongjin Jang",
-          "Jae-Hyuk Lee",
-          "Sangho Lee",
-          "Taesoo Kim"
+          "Kevin Boos",
+          "Lin Zhong"
         ]
       },
       {
-        "title": "vCFI: Visible Control Flow Integrity for Cloud Tenants.",
+        "title": "Annotations in Operating Systems with Custom AspectC++ Attributes.",
         "authors": [
-          "Yuan Li",
-          "Chao Zhang",
-          "Xiapu Luo"
+          "Birte Friesel",
+          "Markus Buschhoff",
+          "Olaf Spinczyk"
         ]
       },
       {
-        "title": "Enclave-Based Privacy-Preserving Alignment of Raw Genomic Information: Information Leakage and Countermeasures.",
+        "title": "Towards Fine-grained, Automated Application Compartmentalization.",
         "authors": [
-          "Marcus Völp",
-          "Jérémie Decouchant",
-          "Christoph Lambert",
-          "Maria Fernandes",
-          "Paulo Jorge Esteves Veríssimo"
+          "Nikos Vasilakis",
+          "Ben Karel",
+          "Nick Roessler",
+          "Nathan Dautenhahn",
+          "André DeHon",
+          "Jonathan M. Smith"
         ]
       },
       {
-        "title": "Challenges For Scaling Applications Across Enclaves.",
+        "title": "Sandcrust: Automatic Sandboxing of Unsafe Components in Rust.",
         "authors": [
-          "Jethro G. Beekman",
-          "Donald E. Porter"
-        ]
-      },
-      {
-        "title": "Scaling Databases through Trusted Hardware Proxies.",
-        "authors": [
-          "Kai Mast",
-          "Lequn Chen",
-          "Emin Gün Sirer"
-        ]
-      },
-      {
-        "title": "Architectures for Enhancing Authentication Privacy and Security using Trusted Computing.",
-        "authors": [
-          "Ranjbar A. Balisane",
-          "Ravishankar Borgaonkar",
-          "Ahmad Atamli-Reineh",
-          "Andrew Martin"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sosp/history2015.html": {
-    "header": "25th SOSP 2015: Monterey, CA, USA - History Day",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Overview of the day.",
-        "authors": [
-          "Jeanna Neefe Matthews"
-        ]
-      },
-      {
-        "title": "The founding of the SOSP conferences.",
-        "authors": [
-          "Jack B. Dennis"
-        ]
-      },
-      {
-        "title": "Perspectives on OS foundations.",
-        "authors": [
-          "Peter J. Denning"
-        ]
-      },
-      {
-        "title": "Perspectives on protection and security.",
-        "authors": [
-          "Butler W. Lampson"
-        ]
-      },
-      {
-        "title": "Perspectives on system languages and abstraction.",
-        "authors": [
-          "Barbara Liskov"
-        ]
-      },
-      {
-        "title": "Evolution of file and memory management.",
-        "authors": [
-          "Mahadev Satyanarayanan"
-        ]
-      },
-      {
-        "title": "Evolution of fault tolerance.",
-        "authors": [
-          "Ken Birman"
-        ]
-      },
-      {
-        "title": "Virtualization.",
-        "authors": [
-          "Andrew Herbert"
-        ]
-      },
-      {
-        "title": "Past and future of hardware and architecture.",
-        "authors": [
-          "David A. Patterson"
-        ]
-      },
-      {
-        "title": "Parallel computing and the OS.",
-        "authors": [
-          "M. Frans Kaashoek"
-        ]
-      },
-      {
-        "title": "The network and the OS.",
-        "authors": [
-          "David Clark"
-        ]
-      },
-      {
-        "title": "The rise of cloud computing systems.",
-        "authors": [
-          "Jeffrey Dean"
-        ]
-      },
-      {
-        "title": "Is achieving security a hopeless quest?",
-        "authors": [
-          "Margo I. Seltzer",
-          "Mark Miller",
-          "David Mazières",
-          "Yuanyuan Zhou"
-        ]
-      },
-      {
-        "title": "Reminiscences on SOSP history day.",
-        "authors": [
-          "Peter G. Neumann"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sosp/inflow2015.html": {
-    "header": "3. INFLOW@SOSP 2015: Monterey, California, USA",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Revisiting hash table design for phase change memory.",
-        "authors": [
-          "Biplob Debnath",
-          "Alireza Haghdoost",
-          "Asim Kadav",
-          "Mohammed G. Khatib",
-          "Cristian Ungureanu"
-        ]
-      },
-      {
-        "title": "Exploiting NVM in large-scale graph analytics.",
-        "authors": [
-          "Jasmina Malicevic",
-          "Subramanya Dulloor",
-          "Narayanan Sundaram",
-          "Nadathur Satish",
-          "Jeff Jackson",
-          "Willy Zwaenepoel"
-        ]
-      },
-      {
-        "title": "Androtrace: framework for tracing and analyzing IOs on Android.",
-        "authors": [
-          "Eunryoung Lim",
-          "Seongjin Lee",
-          "Youjip Won"
-        ]
-      },
-      {
-        "title": "Mjölnir: collecting trash in a demanding new world.",
-        "authors": [
-          "Zev Weiss",
-          "Sriram Subramanian",
-          "Swaminathan Sundararaman",
-          "Vinay Sridhar",
-          "Nisha Talagala",
-          "Andrea C. Arpaci-Dusseau",
-          "Remzi H. Arpaci-Dusseau"
-        ]
-      },
-      {
-        "title": "A fast and slippery slope for file systems.",
-        "authors": [
-          "Ricardo Santana",
-          "Raju Rangaswami",
-          "Vasily Tarasov",
-          "Dean Hildebrand"
-        ]
-      },
-      {
-        "title": "Towards software defined persistent memory: rethinking software support for heterogenous memory architectures.",
-        "authors": [
-          "Swaminathan Sundararaman",
-          "Nisha Talagala",
-          "Dhananjoy Das",
-          "Amar Mudrankit",
-          "Dulcardo Arteaga"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sosp/hotpower2015.html": {
-    "header": "HotPower@SOSP 2015: Monterey, California, USA",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "A case for bad big.LITTLE switching: how to scale power-performance in SI-HMP.",
-        "authors": [
-          "Seehwan Yoo",
-          "YoonSeok Shim",
-          "Seunghac Lee",
-          "Sang-Ah Lee",
-          "Joongheon Kim"
-        ]
-      },
-      {
-        "title": "Harnessing energy efficiency of heterogeneous-ISA platforms.",
-        "authors": [
-          "Sharath K. Bhat",
-          "Ajithchandra Saya",
-          "Hemedra K. Rawat",
-          "Antonio Barbalace",
-          "Binoy Ravindran"
-        ]
-      },
-      {
-        "title": "Modeling communication costs in blade servers.",
-        "authors": [
-          "Qiuyun Wang",
-          "Benjamin C. Lee"
-        ]
-      },
-      {
-        "title": "Data layout for power efficient archival storage systems.",
-        "authors": [
-          "Ramana Reddy",
-          "Atish Kathpal",
-          "Jayanta Basak",
-          "Randy H. Katz"
-        ]
-      },
-      {
-        "title": "Optimizing power consumption of mobile games.",
-        "authors": [
-          "Yu Yan",
-          "Songtao He",
-          "Yunxin Liu",
-          "Longbo Huang"
-        ]
-      },
-      {
-        "title": "Sudden drop in the battery level?: understanding smartphone state of charge anomaly.",
-        "authors": [
-          "Mohammad Ashraful Hoque",
-          "Sasu Tarkoma"
-        ]
-      },
-      {
-        "title": "How device properties influence energy-delay metrics and the energy-efficiency of parallel computations.",
-        "authors": [
-          "Phillip Stanley-Marbell"
+          "Benjamin Lamowski",
+          "Carsten Weinhold",
+          "Adam Lackorzynski",
+          "Hermann Härtig"
         ]
       }
     ]
@@ -3764,406 +3541,321 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sosp/hotpower2013.html": {
-    "header": "HotPower@SOSP 2013: Farmington, PA, USA",
-    "year": "2013",
+  "https://dblp.org/db/conf/sosp/inflow2015.html": {
+    "header": "3. INFLOW@SOSP 2015: Monterey, California, USA",
+    "year": "2015",
     "papers": [
       {
-        "title": "On death, taxes, and sleep disorder bugs in smartphones.",
+        "title": "Revisiting hash table design for phase change memory.",
         "authors": [
-          "Abhilash Jindal",
-          "Abhinav Pathak",
-          "Y. Charlie Hu",
-          "Samuel P. Midkiff"
+          "Biplob Debnath",
+          "Alireza Haghdoost",
+          "Asim Kadav",
+          "Mohammed G. Khatib",
+          "Cristian Ungureanu"
         ]
       },
       {
-        "title": "Why application errors drain battery easily?: a study of memory leaks in smartphone apps.",
+        "title": "Exploiting NVM in large-scale graph analytics.",
         "authors": [
-          "Mingyuan Xia",
-          "Wenbo He",
-          "Xue Liu",
-          "Jie Liu"
+          "Jasmina Malicevic",
+          "Subramanya Dulloor",
+          "Narayanan Sundaram",
+          "Nadathur Satish",
+          "Jeff Jackson",
+          "Willy Zwaenepoel"
         ]
       },
       {
-        "title": "How much energy can we save from prefetching ads?: energy drain analysis of top 100 apps.",
+        "title": "Androtrace: framework for tracing and analyzing IOs on Android.",
         "authors": [
-          "Xiaomeng Chen",
-          "Abhilash Jindal",
-          "Y. Charlie Hu"
+          "Eunryoung Lim",
+          "Seongjin Lee",
+          "Youjip Won"
         ]
       },
       {
-        "title": "Cooperative control architecture of fan-less servers and fresh-air cooling in container servers for low power operation.",
+        "title": "Mjölnir: collecting trash in a demanding new world.",
         "authors": [
-          "Hiroshi Endo",
-          "Hiroyoshi Kodama",
-          "Hiroyuki Fukuda",
-          "Toshio Sugimoto",
-          "Takashi Horie",
-          "Masao Kondo"
-        ]
-      },
-      {
-        "title": "No more electrical infrastructure: towards fuel cell powered data centers.",
-        "authors": [
-          "Ana Carolina Riekstin",
-          "Sean James",
-          "Aman Kansal",
-          "Jie Liu",
-          "Eric Peterson"
-        ]
-      },
-      {
-        "title": "Greening the compute cloud's pricing plans.",
-        "authors": [
-          "Rini T. Kaushik",
-          "Prasenjit Sarkar",
-          "Abdullah Gharaibeh"
-        ]
-      },
-      {
-        "title": "Coordinate page allocation and thread group for improving main memory power efficiency.",
-        "authors": [
-          "Gangyong Jia",
-          "Xi Li",
-          "Jian Wan",
-          "Liang Shi",
-          "Chao Wang"
-        ]
-      },
-      {
-        "title": "Evaluating integrated graphics processors for data center workloads.",
-        "authors": [
-          "Sangman Kim",
-          "Indrajit Roy",
-          "Vanish Talwar"
-        ]
-      },
-      {
-        "title": "Exploiting processor heterogeneity for energy efficient context inference on mobile phones.",
-        "authors": [
-          "Chenguang Shen",
-          "Supriyo Chakraborty",
-          "Kasturi Rangan Raghavan",
-          "Haksoo Choi",
-          "Mani B. Srivastava"
-        ]
-      },
-      {
-        "title": "A measurement study of GPU DVFS on energy conservation.",
-        "authors": [
-          "Xinxin Mei",
-          "Ling Sing Yung",
-          "Kaiyong Zhao",
-          "Xiaowen Chu"
-        ]
-      },
-      {
-        "title": "Towards better CPU power management on multicore smartphones.",
-        "authors": [
-          "Yifan Zhang",
-          "Xudong Wang",
-          "Xuanzhe Liu",
-          "Yunxin Liu",
-          "Li Zhuang",
-          "Feng Zhao"
-        ]
-      },
-      {
-        "title": "Mobile multicores: use them or waste them.",
-        "authors": [
-          "Aaron Carroll",
-          "Gernot Heiser"
-        ]
-      },
-      {
-        "title": "Racing and pacing to idle: an evaluation of heuristics for energy-aware resource allocation.",
-        "authors": [
-          "Henry Hoffmann"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sosp/plos2013.html": {
-    "header": "7th PLOS@SOSP 2013: Farmington, PA, USA",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "File systems deserve verification too!",
-        "authors": [
-          "Gabriele Keller",
-          "Toby C. Murray",
-          "Sidney Amani",
-          "Liam O'Connor",
-          "Zilin Chen",
-          "Leonid Ryzhyk",
-          "Gerwin Klein",
-          "Gernot Heiser"
-        ]
-      },
-      {
-        "title": "Towards a verified component platform.",
-        "authors": [
-          "Matthew Fernandez",
-          "Ihor Kuz",
-          "Gerwin Klein",
-          "June Andronick"
-        ]
-      },
-      {
-        "title": "Modeling NICs with Unicorn.",
-        "authors": [
-          "Pravin Shinde",
-          "Antoine Kaufmann",
-          "Kornilios Kourtis",
-          "Timothy Roscoe"
-        ]
-      },
-      {
-        "title": "Annotation for automation: rapid generation of file system tools.",
-        "authors": [
-          "Kuei Jack Sun",
-          "Daniel Fryer",
-          "Angela Demke Brown",
-          "Ashvin Goel"
-        ]
-      },
-      {
-        "title": "Your server as a function.",
-        "authors": [
-          "Marius Eriksen"
-        ]
-      },
-      {
-        "title": "Weir: a streaming language for performance analysis.",
-        "authors": [
-          "Anton Burtsev",
-          "Nikhil Mishrikoti",
-          "Eric Eide",
-          "Robert Ricci"
-        ]
-      },
-      {
-        "title": "MBrace: cloud computing with monads.",
-        "authors": [
-          "Jan Dzik",
-          "Nick Palladinos",
-          "Konstantinos Rontogiannis",
-          "Eirik Tsarpalis",
-          "Nikolaos Vathis"
-        ]
-      },
-      {
-        "title": "The operating system: should there be one?",
-        "authors": [
-          "Stephen Kell"
-        ]
-      },
-      {
-        "title": "Semi-automated debugging via binary search through a process lifetime.",
-        "authors": [
-          "Kapil Arya",
-          "Tyler Denniston",
-          "Ana Maria Visan",
-          "Gene Cooperman"
-        ]
-      },
-      {
-        "title": "Understanding the genetic makeup of Linux device drivers.",
-        "authors": [
-          "Peter Senna Tschudin",
-          "Laurent Réveillère",
-          "Lingxiao Jiang",
-          "David Lo",
-          "Julia Lawall",
-          "Gilles Muller"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sosp/inflow2013.html": {
-    "header": "1. INFLOW@SOSP 2013: Farmington, PA, USA",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "Bankshot: caching slow storage in fast non-volatile memory.",
-        "authors": [
-          "Meenakshi Sundaram Bhaskaran",
-          "Jian Xu",
-          "Steven Swanson"
-        ]
-      },
-      {
-        "title": "Phase change memory in enterprise storage systems: silver bullet or snake oil?",
-        "authors": [
-          "Hyojun Kim",
-          "Sangeetha Seshadri",
-          "Clement L. Dickey",
-          "Lawrence Chiu"
-        ]
-      },
-      {
-        "title": "MetaData persistence using storage class memory: experiences with flash-backed DRAM.",
-        "authors": [
-          "Jithin Jose",
-          "Mohammad Banikazemi",
-          "Wendy Belluomini",
-          "Chet Murthy",
-          "Dhabaleswar K. Panda"
-        ]
-      },
-      {
-        "title": "Exploring storage class memory with key value stores.",
-        "authors": [
-          "Katelin A. Bailey",
-          "Peter Hornyack",
-          "Luis Ceze",
-          "Steven D. Gribble",
-          "Henry M. Levy"
-        ]
-      },
-      {
-        "title": "Improving performance and lifetime of the SSD RAID-based host cache through a log-structured approach.",
-        "authors": [
-          "Yongseok Oh",
-          "Jongmoo Choi",
-          "Donghee Lee",
-          "Sam H. Noh"
-        ]
-      },
-      {
-        "title": "High performance & low latency in solid-state drives through redundancy.",
-        "authors": [
-          "Dimitris Skourtis",
-          "Dimitris Achlioptas",
-          "Carlos Maltzahn",
-          "Scott A. Brandt"
-        ]
-      },
-      {
-        "title": "Log-structured cache: trading hit-rate for storage performance (and winning) in mobile devices.",
-        "authors": [
-          "Abutalib Aghayev",
-          "Peter Desnoyers"
-        ]
-      },
-      {
-        "title": "NVM heaps for accelerating browser-based applications.",
-        "authors": [
-          "Sudarsun Kannan",
-          "Ada Gavrilovska",
-          "Karsten Schwan",
-          "Sanjay Kumar"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/hotdep/hotdep2013.html": {
-    "header": "9th HotDep 2013: Farmington, PA, USA",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "Higher SLA satisfaction in datacenters with continuous VM placement constraints.",
-        "authors": [
-          "Huynh Tu Dang",
-          "Fabien Hermenier"
-        ]
-      },
-      {
-        "title": "Using big data for more dependability: a cellular network tale.",
-        "authors": [
-          "Nawanol Theera-Ampornpunt",
-          "Saurabh Bagchi",
-          "Kaustubh R. Joshi",
-          "Rajesh K. Panta"
-        ]
-      },
-      {
-        "title": "An untold story of redundant clouds: making your service deployment truly reliable.",
-        "authors": [
-          "Ennan Zhai",
-          "Ruichuan Chen",
-          "David Isaac Wolinsky",
-          "Bryan Ford"
-        ]
-      },
-      {
-        "title": "Towards transparent hardening of distributed systems.",
-        "authors": [
-          "Diogo Behrens",
-          "Christof Fetzer",
-          "Flavio Paiva Junqueira",
-          "Marco Serafini"
-        ]
-      },
-      {
-        "title": "Towards Byzantine fault tolerant publish/subscribe: a state machine approach.",
-        "authors": [
-          "Leander Jehl",
-          "Hein Meling"
-        ]
-      },
-      {
-        "title": "Towards privacy-preserving fault detection.",
-        "authors": [
-          "Antonis Papadimitriou",
-          "Mingchen Zhao",
-          "Andreas Haeberlen"
-        ]
-      },
-      {
-        "title": "Verifying the correctness of remote executions: from wild implausibility to near practicality.",
-        "authors": [
-          "Michael Walfish"
-        ]
-      },
-      {
-        "title": "Towards efficient, portable application-level consistency.",
-        "authors": [
-          "Thanumalayan Sankaranarayana Pillai",
-          "Vijay Chidambaram",
-          "Joo Young Hwang",
+          "Zev Weiss",
+          "Sriram Subramanian",
+          "Swaminathan Sundararaman",
+          "Vinay Sridhar",
+          "Nisha Talagala",
           "Andrea C. Arpaci-Dusseau",
           "Remzi H. Arpaci-Dusseau"
         ]
       },
       {
-        "title": "PSCloud: a durable context-aware personal storage cloud.",
+        "title": "A fast and slippery slope for file systems.",
         "authors": [
-          "Sobir Bazarbayev",
-          "Matti A. Hiltunen",
-          "Kaustubh R. Joshi",
-          "William H. Sanders",
-          "Richard D. Schlichting"
+          "Ricardo Santana",
+          "Raju Rangaswami",
+          "Vasily Tarasov",
+          "Dean Hildebrand"
         ]
       },
       {
-        "title": "Towards effective and efficient search-based deterministic replay.",
+        "title": "Towards software defined persistent memory: rethinking software support for heterogenous memory architectures.",
         "authors": [
-          "Manuel Bravo",
-          "Nuno Machado",
-          "Paolo Romano",
-          "Luís E. T. Rodrigues"
+          "Swaminathan Sundararaman",
+          "Nisha Talagala",
+          "Dhananjoy Das",
+          "Amar Mudrankit",
+          "Dulcardo Arteaga"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sosp/hotpower2015.html": {
+    "header": "HotPower@SOSP 2015: Monterey, California, USA",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "A case for bad big.LITTLE switching: how to scale power-performance in SI-HMP.",
+        "authors": [
+          "Seehwan Yoo",
+          "YoonSeok Shim",
+          "Seunghac Lee",
+          "Sang-Ah Lee",
+          "Joongheon Kim"
         ]
       },
       {
-        "title": "Behave or be watched: debugging with behavioral watchpoints.",
+        "title": "Harnessing energy efficiency of heterogeneous-ISA platforms.",
         "authors": [
-          "Akshay Kumar",
-          "Peter Goodman",
-          "Ashvin Goel",
-          "Angela Demke Brown"
+          "Sharath K. Bhat",
+          "Ajithchandra Saya",
+          "Hemedra K. Rawat",
+          "Antonio Barbalace",
+          "Binoy Ravindran"
         ]
       },
       {
-        "title": "Techniques for efficient in-memory checkpointing.",
+        "title": "Modeling communication costs in blade servers.",
         "authors": [
-          "Dirk Vogt",
-          "Cristiano Giuffrida",
-          "Herbert Bos",
-          "Andrew S. Tanenbaum"
+          "Qiuyun Wang",
+          "Benjamin C. Lee"
+        ]
+      },
+      {
+        "title": "Data layout for power efficient archival storage systems.",
+        "authors": [
+          "Ramana Reddy",
+          "Atish Kathpal",
+          "Jayanta Basak",
+          "Randy H. Katz"
+        ]
+      },
+      {
+        "title": "Optimizing power consumption of mobile games.",
+        "authors": [
+          "Yu Yan",
+          "Songtao He",
+          "Yunxin Liu",
+          "Longbo Huang"
+        ]
+      },
+      {
+        "title": "Sudden drop in the battery level?: understanding smartphone state of charge anomaly.",
+        "authors": [
+          "Mohammad Ashraful Hoque",
+          "Sasu Tarkoma"
+        ]
+      },
+      {
+        "title": "How device properties influence energy-delay metrics and the energy-efficiency of parallel computations.",
+        "authors": [
+          "Phillip Stanley-Marbell"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sosp/history2015.html": {
+    "header": "25th SOSP 2015: Monterey, CA, USA - History Day",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Overview of the day.",
+        "authors": [
+          "Jeanna Neefe Matthews"
+        ]
+      },
+      {
+        "title": "The founding of the SOSP conferences.",
+        "authors": [
+          "Jack B. Dennis"
+        ]
+      },
+      {
+        "title": "Perspectives on OS foundations.",
+        "authors": [
+          "Peter J. Denning"
+        ]
+      },
+      {
+        "title": "Perspectives on protection and security.",
+        "authors": [
+          "Butler W. Lampson"
+        ]
+      },
+      {
+        "title": "Perspectives on system languages and abstraction.",
+        "authors": [
+          "Barbara Liskov"
+        ]
+      },
+      {
+        "title": "Evolution of file and memory management.",
+        "authors": [
+          "Mahadev Satyanarayanan"
+        ]
+      },
+      {
+        "title": "Evolution of fault tolerance.",
+        "authors": [
+          "Ken Birman"
+        ]
+      },
+      {
+        "title": "Virtualization.",
+        "authors": [
+          "Andrew Herbert"
+        ]
+      },
+      {
+        "title": "Past and future of hardware and architecture.",
+        "authors": [
+          "David A. Patterson"
+        ]
+      },
+      {
+        "title": "Parallel computing and the OS.",
+        "authors": [
+          "M. Frans Kaashoek"
+        ]
+      },
+      {
+        "title": "The network and the OS.",
+        "authors": [
+          "David Clark"
+        ]
+      },
+      {
+        "title": "The rise of cloud computing systems.",
+        "authors": [
+          "Jeffrey Dean"
+        ]
+      },
+      {
+        "title": "Is achieving security a hopeless quest?",
+        "authors": [
+          "Margo I. Seltzer",
+          "Mark Miller",
+          "David Mazières",
+          "Yuanyuan Zhou"
+        ]
+      },
+      {
+        "title": "Reminiscences on SOSP history day.",
+        "authors": [
+          "Peter G. Neumann"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sosp/trios2013.html": {
+    "header": "TRIOS@SOSP 2013: Farmington, PA, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Consistent, durable, and safe memory management for byte-addressable non volatile main memory.",
+        "authors": [
+          "Iulian Moraru",
+          "David G. Andersen",
+          "Michael Kaminsky",
+          "Niraj Tolia",
+          "Parthasarathy Ranganathan",
+          "Nathan L. Binkert"
+        ]
+      },
+      {
+        "title": "Transparent driver-kernel isolation with VMM intervention.",
+        "authors": [
+          "Hao Zheng",
+          "Endong Wang",
+          "Yinfeng Wang",
+          "Xingjun Zhang",
+          "Baoke Chen",
+          "Weiguo Wu",
+          "Xiaoshe Dong"
+        ]
+      },
+      {
+        "title": "Better flash access via shape-shifting virtual memory pages.",
+        "authors": [
+          "Anirudh Badam",
+          "Vivek S. Pai",
+          "David W. Nellans"
+        ]
+      },
+      {
+        "title": "inTune: coordinating multicore islands to achieve global policy objectives.",
+        "authors": [
+          "Priyanka Tembey",
+          "Ada Gavrilovska",
+          "Karsten Schwan"
+        ]
+      },
+      {
+        "title": "Impact of DVFS on n-tier application performance.",
+        "authors": [
+          "Qingyang Wang",
+          "Yasuhiko Kanemasa",
+          "Jack Li",
+          "Chien-An Lai",
+          "Masazumi Matsubara",
+          "Calton Pu"
+        ]
+      },
+      {
+        "title": "MUTT: a watchdog for OSN applications.",
+        "authors": [
+          "Amre Shakimov",
+          "Landon P. Cox"
+        ]
+      },
+      {
+        "title": "SETSUDŌ: perturbation-based testing framework for scalable distributed systems.",
+        "authors": [
+          "Pallavi Joshi",
+          "Malay K. Ganai",
+          "Gogul Balakrishnan",
+          "Aarti Gupta",
+          "Nadia Papakonstantinou"
+        ]
+      },
+      {
+        "title": "Scalable coordination of a tightly-coupled service in the wide area.",
+        "authors": [
+          "Kevin C. Webb",
+          "Bhanu Chandra Vattikonda",
+          "Kenneth Yocum",
+          "Alex C. Snoeren"
+        ]
+      },
+      {
+        "title": "LFGraph: simple and fast distributed graph analytics.",
+        "authors": [
+          "Imranul Hoque",
+          "Indranil Gupta"
+        ]
+      },
+      {
+        "title": "Hosting dynamic data in the cloud with Isis2 and the Ida DHT.",
+        "authors": [
+          "Ken Birman",
+          "Heesung Sohn"
         ]
       }
     ]
@@ -4468,278 +4160,406 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sosp/trios2013.html": {
-    "header": "TRIOS@SOSP 2013: Farmington, PA, USA",
+  "https://dblp.org/db/conf/sosp/plos2013.html": {
+    "header": "7th PLOS@SOSP 2013: Farmington, PA, USA",
     "year": "2013",
     "papers": [
       {
-        "title": "Consistent, durable, and safe memory management for byte-addressable non volatile main memory.",
+        "title": "File systems deserve verification too!",
         "authors": [
-          "Iulian Moraru",
-          "David G. Andersen",
-          "Michael Kaminsky",
-          "Niraj Tolia",
-          "Parthasarathy Ranganathan",
-          "Nathan L. Binkert"
+          "Gabriele Keller",
+          "Toby C. Murray",
+          "Sidney Amani",
+          "Liam O'Connor",
+          "Zilin Chen",
+          "Leonid Ryzhyk",
+          "Gerwin Klein",
+          "Gernot Heiser"
         ]
       },
       {
-        "title": "Transparent driver-kernel isolation with VMM intervention.",
+        "title": "Towards a verified component platform.",
         "authors": [
-          "Hao Zheng",
-          "Endong Wang",
-          "Yinfeng Wang",
-          "Xingjun Zhang",
-          "Baoke Chen",
-          "Weiguo Wu",
-          "Xiaoshe Dong"
+          "Matthew Fernandez",
+          "Ihor Kuz",
+          "Gerwin Klein",
+          "June Andronick"
         ]
       },
       {
-        "title": "Better flash access via shape-shifting virtual memory pages.",
+        "title": "Modeling NICs with Unicorn.",
         "authors": [
-          "Anirudh Badam",
-          "Vivek S. Pai",
-          "David W. Nellans"
+          "Pravin Shinde",
+          "Antoine Kaufmann",
+          "Kornilios Kourtis",
+          "Timothy Roscoe"
         ]
       },
       {
-        "title": "inTune: coordinating multicore islands to achieve global policy objectives.",
+        "title": "Annotation for automation: rapid generation of file system tools.",
         "authors": [
-          "Priyanka Tembey",
-          "Ada Gavrilovska",
-          "Karsten Schwan"
+          "Kuei Jack Sun",
+          "Daniel Fryer",
+          "Angela Demke Brown",
+          "Ashvin Goel"
         ]
       },
       {
-        "title": "Impact of DVFS on n-tier application performance.",
+        "title": "Your server as a function.",
         "authors": [
-          "Qingyang Wang",
-          "Yasuhiko Kanemasa",
-          "Jack Li",
-          "Chien-An Lai",
-          "Masazumi Matsubara",
-          "Calton Pu"
+          "Marius Eriksen"
         ]
       },
       {
-        "title": "MUTT: a watchdog for OSN applications.",
+        "title": "Weir: a streaming language for performance analysis.",
         "authors": [
-          "Amre Shakimov",
-          "Landon P. Cox"
+          "Anton Burtsev",
+          "Nikhil Mishrikoti",
+          "Eric Eide",
+          "Robert Ricci"
         ]
       },
       {
-        "title": "SETSUDŌ: perturbation-based testing framework for scalable distributed systems.",
+        "title": "MBrace: cloud computing with monads.",
         "authors": [
-          "Pallavi Joshi",
-          "Malay K. Ganai",
-          "Gogul Balakrishnan",
-          "Aarti Gupta",
-          "Nadia Papakonstantinou"
+          "Jan Dzik",
+          "Nick Palladinos",
+          "Konstantinos Rontogiannis",
+          "Eirik Tsarpalis",
+          "Nikolaos Vathis"
         ]
       },
       {
-        "title": "Scalable coordination of a tightly-coupled service in the wide area.",
+        "title": "The operating system: should there be one?",
         "authors": [
-          "Kevin C. Webb",
-          "Bhanu Chandra Vattikonda",
-          "Kenneth Yocum",
-          "Alex C. Snoeren"
+          "Stephen Kell"
         ]
       },
       {
-        "title": "LFGraph: simple and fast distributed graph analytics.",
+        "title": "Semi-automated debugging via binary search through a process lifetime.",
         "authors": [
-          "Imranul Hoque",
-          "Indranil Gupta"
+          "Kapil Arya",
+          "Tyler Denniston",
+          "Ana Maria Visan",
+          "Gene Cooperman"
         ]
       },
       {
-        "title": "Hosting dynamic data in the cloud with Isis2 and the Ida DHT.",
+        "title": "Understanding the genetic makeup of Linux device drivers.",
         "authors": [
-          "Ken Birman",
-          "Heesung Sohn"
+          "Peter Senna Tschudin",
+          "Laurent Réveillère",
+          "Lingxiao Jiang",
+          "David Lo",
+          "Julia Lawall",
+          "Gilles Muller"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/sosp/plos2011.html": {
-    "header": "6th PLOS@SOSP 2011: Cascais, Portugal",
-    "year": "2011",
+  "https://dblp.org/db/conf/sosp/inflow2013.html": {
+    "header": "1. INFLOW@SOSP 2013: Farmington, PA, USA",
+    "year": "2013",
     "papers": [
       {
-        "title": "Finding resource-release omission faults in Linux.",
+        "title": "Bankshot: caching slow storage in fast non-volatile memory.",
         "authors": [
-          "Suman Saha",
-          "Julia Lawall",
-          "Gilles Muller"
+          "Meenakshi Sundaram Bhaskaran",
+          "Jian Xu",
+          "Steven Swanson"
         ]
       },
       {
-        "title": "Configuration coverage in the analysis of large-scale system software.",
+        "title": "Phase change memory in enterprise storage systems: silver bullet or snake oil?",
         "authors": [
-          "Reinhard Tartler",
-          "Daniel Lohmann",
-          "Christian Dietrich",
-          "Christoph Egger",
-          "Julio Sincero"
+          "Hyojun Kim",
+          "Sangeetha Seshadri",
+          "Clement L. Dickey",
+          "Lawrence Chiu"
         ]
       },
       {
-        "title": "Rounding pointers: type safe capabilities with C++ meta programming.",
+        "title": "MetaData persistence using storage class memory: experiences with flash-backed DRAM.",
         "authors": [
-          "Alexander Warg",
-          "Adam Lackorzynski"
+          "Jithin Jose",
+          "Mohammad Banikazemi",
+          "Wendy Belluomini",
+          "Chet Murthy",
+          "Dhabaleswar K. Panda"
         ]
       },
       {
-        "title": "Preliminary design of the SAFE platform.",
+        "title": "Exploring storage class memory with key value stores.",
         "authors": [
-          "André DeHon",
-          "Ben Karel",
-          "Thomas F. Knight Jr.",
-          "Gregory Malecha",
-          "Benoît Montagu",
-          "Robin Morisset",
-          "Greg Morrisett",
-          "Benjamin C. Pierce",
-          "Randy Pollack",
-          "Sumit Ray",
-          "Olin Shivers",
-          "Jonathan M. Smith",
-          "Gregory Sullivan"
+          "Katelin A. Bailey",
+          "Peter Hornyack",
+          "Luis Ceze",
+          "Steven D. Gribble",
+          "Henry M. Levy"
         ]
       },
       {
-        "title": "Dynamic deadlock avoidance in systems code using statically inferred effects.",
+        "title": "Improving performance and lifetime of the SSD RAID-based host cache through a log-structured approach.",
         "authors": [
-          "Prodromos Gerakios",
-          "Nikolaos Papaspyrou",
-          "Konstantinos Sagonas",
-          "Panagiotis Vekris"
+          "Yongseok Oh",
+          "Jongmoo Choi",
+          "Donghee Lee",
+          "Sam H. Noh"
         ]
       },
       {
-        "title": "Using declarative invariants for protecting file-system integrity.",
+        "title": "High performance & low latency in solid-state drives through redundancy.",
         "authors": [
-          "Jack Sun",
-          "Daniel Fryer",
+          "Dimitris Skourtis",
+          "Dimitris Achlioptas",
+          "Carlos Maltzahn",
+          "Scott A. Brandt"
+        ]
+      },
+      {
+        "title": "Log-structured cache: trading hit-rate for storage performance (and winning) in mobile devices.",
+        "authors": [
+          "Abutalib Aghayev",
+          "Peter Desnoyers"
+        ]
+      },
+      {
+        "title": "NVM heaps for accelerating browser-based applications.",
+        "authors": [
+          "Sudarsun Kannan",
+          "Ada Gavrilovska",
+          "Karsten Schwan",
+          "Sanjay Kumar"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sosp/hotpower2013.html": {
+    "header": "HotPower@SOSP 2013: Farmington, PA, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "On death, taxes, and sleep disorder bugs in smartphones.",
+        "authors": [
+          "Abhilash Jindal",
+          "Abhinav Pathak",
+          "Y. Charlie Hu",
+          "Samuel P. Midkiff"
+        ]
+      },
+      {
+        "title": "Why application errors drain battery easily?: a study of memory leaks in smartphone apps.",
+        "authors": [
+          "Mingyuan Xia",
+          "Wenbo He",
+          "Xue Liu",
+          "Jie Liu"
+        ]
+      },
+      {
+        "title": "How much energy can we save from prefetching ads?: energy drain analysis of top 100 apps.",
+        "authors": [
+          "Xiaomeng Chen",
+          "Abhilash Jindal",
+          "Y. Charlie Hu"
+        ]
+      },
+      {
+        "title": "Cooperative control architecture of fan-less servers and fresh-air cooling in container servers for low power operation.",
+        "authors": [
+          "Hiroshi Endo",
+          "Hiroyoshi Kodama",
+          "Hiroyuki Fukuda",
+          "Toshio Sugimoto",
+          "Takashi Horie",
+          "Masao Kondo"
+        ]
+      },
+      {
+        "title": "No more electrical infrastructure: towards fuel cell powered data centers.",
+        "authors": [
+          "Ana Carolina Riekstin",
+          "Sean James",
+          "Aman Kansal",
+          "Jie Liu",
+          "Eric Peterson"
+        ]
+      },
+      {
+        "title": "Greening the compute cloud's pricing plans.",
+        "authors": [
+          "Rini T. Kaushik",
+          "Prasenjit Sarkar",
+          "Abdullah Gharaibeh"
+        ]
+      },
+      {
+        "title": "Coordinate page allocation and thread group for improving main memory power efficiency.",
+        "authors": [
+          "Gangyong Jia",
+          "Xi Li",
+          "Jian Wan",
+          "Liang Shi",
+          "Chao Wang"
+        ]
+      },
+      {
+        "title": "Evaluating integrated graphics processors for data center workloads.",
+        "authors": [
+          "Sangman Kim",
+          "Indrajit Roy",
+          "Vanish Talwar"
+        ]
+      },
+      {
+        "title": "Exploiting processor heterogeneity for energy efficient context inference on mobile phones.",
+        "authors": [
+          "Chenguang Shen",
+          "Supriyo Chakraborty",
+          "Kasturi Rangan Raghavan",
+          "Haksoo Choi",
+          "Mani B. Srivastava"
+        ]
+      },
+      {
+        "title": "A measurement study of GPU DVFS on energy conservation.",
+        "authors": [
+          "Xinxin Mei",
+          "Ling Sing Yung",
+          "Kaiyong Zhao",
+          "Xiaowen Chu"
+        ]
+      },
+      {
+        "title": "Towards better CPU power management on multicore smartphones.",
+        "authors": [
+          "Yifan Zhang",
+          "Xudong Wang",
+          "Xuanzhe Liu",
+          "Yunxin Liu",
+          "Li Zhuang",
+          "Feng Zhao"
+        ]
+      },
+      {
+        "title": "Mobile multicores: use them or waste them.",
+        "authors": [
+          "Aaron Carroll",
+          "Gernot Heiser"
+        ]
+      },
+      {
+        "title": "Racing and pacing to idle: an evaluation of heuristics for energy-aware resource allocation.",
+        "authors": [
+          "Henry Hoffmann"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/hotdep/hotdep2013.html": {
+    "header": "9th HotDep 2013: Farmington, PA, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Higher SLA satisfaction in datacenters with continuous VM placement constraints.",
+        "authors": [
+          "Huynh Tu Dang",
+          "Fabien Hermenier"
+        ]
+      },
+      {
+        "title": "Using big data for more dependability: a cellular network tale.",
+        "authors": [
+          "Nawanol Theera-Ampornpunt",
+          "Saurabh Bagchi",
+          "Kaustubh R. Joshi",
+          "Rajesh K. Panta"
+        ]
+      },
+      {
+        "title": "An untold story of redundant clouds: making your service deployment truly reliable.",
+        "authors": [
+          "Ennan Zhai",
+          "Ruichuan Chen",
+          "David Isaac Wolinsky",
+          "Bryan Ford"
+        ]
+      },
+      {
+        "title": "Towards transparent hardening of distributed systems.",
+        "authors": [
+          "Diogo Behrens",
+          "Christof Fetzer",
+          "Flavio Paiva Junqueira",
+          "Marco Serafini"
+        ]
+      },
+      {
+        "title": "Towards Byzantine fault tolerant publish/subscribe: a state machine approach.",
+        "authors": [
+          "Leander Jehl",
+          "Hein Meling"
+        ]
+      },
+      {
+        "title": "Towards privacy-preserving fault detection.",
+        "authors": [
+          "Antonis Papadimitriou",
+          "Mingchen Zhao",
+          "Andreas Haeberlen"
+        ]
+      },
+      {
+        "title": "Verifying the correctness of remote executions: from wild implausibility to near practicality.",
+        "authors": [
+          "Michael Walfish"
+        ]
+      },
+      {
+        "title": "Towards efficient, portable application-level consistency.",
+        "authors": [
+          "Thanumalayan Sankaranarayana Pillai",
+          "Vijay Chidambaram",
+          "Joo Young Hwang",
+          "Andrea C. Arpaci-Dusseau",
+          "Remzi H. Arpaci-Dusseau"
+        ]
+      },
+      {
+        "title": "PSCloud: a durable context-aware personal storage cloud.",
+        "authors": [
+          "Sobir Bazarbayev",
+          "Matti A. Hiltunen",
+          "Kaustubh R. Joshi",
+          "William H. Sanders",
+          "Richard D. Schlichting"
+        ]
+      },
+      {
+        "title": "Towards effective and efficient search-based deterministic replay.",
+        "authors": [
+          "Manuel Bravo",
+          "Nuno Machado",
+          "Paolo Romano",
+          "Luís E. T. Rodrigues"
+        ]
+      },
+      {
+        "title": "Behave or be watched: debugging with behavioral watchpoints.",
+        "authors": [
+          "Akshay Kumar",
+          "Peter Goodman",
           "Ashvin Goel",
           "Angela Demke Brown"
         ]
       },
       {
-        "title": "Assessing the scalability of garbage collectors on many cores.",
+        "title": "Techniques for efficient in-memory checkpointing.",
         "authors": [
-          "Lokesh Gidra",
-          "Gaël Thomas",
-          "Julien Sopena",
-          "Marc Shapiro"
-        ]
-      },
-      {
-        "title": "URDB: a universal reversible debugger based on decomposing debugging histories.",
-        "authors": [
-          "Ana Maria Visan",
-          "Kapil Arya",
-          "Gene Cooperman",
-          "Tyler Denniston"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sosp/hotpower2011.html": {
-    "header": "HotPower@SOSP 2011: Cascais, Portugal",
-    "year": "2011",
-    "papers": [
-      {
-        "title": "The interplay of software bloat, hardware energy proportionality and system bottlenecks.",
-        "authors": [
-          "Suparna Bhattacharya",
-          "Karthick Rajamani",
-          "K. Gopinath",
-          "Manish Gupta"
-        ]
-      },
-      {
-        "title": "The case for sleep states in servers.",
-        "authors": [
-          "Anshul Gandhi",
-          "Mor Harchol-Balter",
-          "Michael A. Kozuch"
-        ]
-      },
-      {
-        "title": "Power-efficient networking for balanced system designs: early experiences with PCIe.",
-        "authors": [
-          "John L. Byrne",
-          "Jichuan Chang",
-          "Kevin T. Lim",
-          "Laura L. Ramirez",
-          "Parthasarathy Ranganathan"
-        ]
-      },
-      {
-        "title": "SEEP: exploiting symbolic execution for energy-aware programming.",
-        "authors": [
-          "Timo Hönig",
-          "Christopher Eibel",
-          "Rüdiger Kapitza",
-          "Wolfgang Schröder-Preikschat"
-        ]
-      },
-      {
-        "title": "Utilizing green energy prediction to schedule mixed batch and service jobs in data centers.",
-        "authors": [
-          "Baris Aksanli",
-          "Jagannathan Venkatesh",
-          "Liuyi Eric Zhang",
-          "Tajana Rosing"
-        ]
-      },
-      {
-        "title": "Energy-aware writes to non-volatile main memory.",
-        "authors": [
-          "Jie Chen",
-          "Ron Chi-Lung Chiang",
-          "H. Howie Huang",
-          "Guru Venkataramani"
-        ]
-      },
-      {
-        "title": "Towards realizing a low cost and highly available datacenter power infrastructure.",
-        "authors": [
-          "Sriram Govindan",
-          "Di Wang",
-          "Lydia Y. Chen",
-          "Anand Sivasubramaniam",
-          "Bhuvan Urgaonkar"
-        ]
-      },
-      {
-        "title": "Leveraging thermal storage to cut the electricity bill for datacenter cooling.",
-        "authors": [
-          "Yefu Wang",
-          "Xiaorui Wang",
-          "Yanwei Zhang"
-        ]
-      },
-      {
-        "title": "Ekho: bridging the gap between simulation and reality in tiny energy-harvesting sensors.",
-        "authors": [
-          "Hong Zhang",
-          "Mastooreh Salajegheh",
-          "Kevin Fu",
-          "Jacob Sorber"
-        ]
-      },
-      {
-        "title": "Simultaneous multithreading on x86_64 systems: an energy efficiency evaluation.",
-        "authors": [
-          "Robert Schöne",
-          "Daniel Hackenberg",
-          "Daniel Molka"
+          "Dirk Vogt",
+          "Cristiano Giuffrida",
+          "Herbert Bos",
+          "Andrew S. Tanenbaum"
         ]
       }
     ]
@@ -5042,6 +4862,186 @@
           "Michael J. Freedman",
           "Michael Kaminsky",
           "David G. Andersen"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sosp/plos2011.html": {
+    "header": "6th PLOS@SOSP 2011: Cascais, Portugal",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "Finding resource-release omission faults in Linux.",
+        "authors": [
+          "Suman Saha",
+          "Julia Lawall",
+          "Gilles Muller"
+        ]
+      },
+      {
+        "title": "Configuration coverage in the analysis of large-scale system software.",
+        "authors": [
+          "Reinhard Tartler",
+          "Daniel Lohmann",
+          "Christian Dietrich",
+          "Christoph Egger",
+          "Julio Sincero"
+        ]
+      },
+      {
+        "title": "Rounding pointers: type safe capabilities with C++ meta programming.",
+        "authors": [
+          "Alexander Warg",
+          "Adam Lackorzynski"
+        ]
+      },
+      {
+        "title": "Preliminary design of the SAFE platform.",
+        "authors": [
+          "André DeHon",
+          "Ben Karel",
+          "Thomas F. Knight Jr.",
+          "Gregory Malecha",
+          "Benoît Montagu",
+          "Robin Morisset",
+          "Greg Morrisett",
+          "Benjamin C. Pierce",
+          "Randy Pollack",
+          "Sumit Ray",
+          "Olin Shivers",
+          "Jonathan M. Smith",
+          "Gregory Sullivan"
+        ]
+      },
+      {
+        "title": "Dynamic deadlock avoidance in systems code using statically inferred effects.",
+        "authors": [
+          "Prodromos Gerakios",
+          "Nikolaos Papaspyrou",
+          "Konstantinos Sagonas",
+          "Panagiotis Vekris"
+        ]
+      },
+      {
+        "title": "Using declarative invariants for protecting file-system integrity.",
+        "authors": [
+          "Jack Sun",
+          "Daniel Fryer",
+          "Ashvin Goel",
+          "Angela Demke Brown"
+        ]
+      },
+      {
+        "title": "Assessing the scalability of garbage collectors on many cores.",
+        "authors": [
+          "Lokesh Gidra",
+          "Gaël Thomas",
+          "Julien Sopena",
+          "Marc Shapiro"
+        ]
+      },
+      {
+        "title": "URDB: a universal reversible debugger based on decomposing debugging histories.",
+        "authors": [
+          "Ana Maria Visan",
+          "Kapil Arya",
+          "Gene Cooperman",
+          "Tyler Denniston"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sosp/hotpower2011.html": {
+    "header": "HotPower@SOSP 2011: Cascais, Portugal",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "The interplay of software bloat, hardware energy proportionality and system bottlenecks.",
+        "authors": [
+          "Suparna Bhattacharya",
+          "Karthick Rajamani",
+          "K. Gopinath",
+          "Manish Gupta"
+        ]
+      },
+      {
+        "title": "The case for sleep states in servers.",
+        "authors": [
+          "Anshul Gandhi",
+          "Mor Harchol-Balter",
+          "Michael A. Kozuch"
+        ]
+      },
+      {
+        "title": "Power-efficient networking for balanced system designs: early experiences with PCIe.",
+        "authors": [
+          "John L. Byrne",
+          "Jichuan Chang",
+          "Kevin T. Lim",
+          "Laura L. Ramirez",
+          "Parthasarathy Ranganathan"
+        ]
+      },
+      {
+        "title": "SEEP: exploiting symbolic execution for energy-aware programming.",
+        "authors": [
+          "Timo Hönig",
+          "Christopher Eibel",
+          "Rüdiger Kapitza",
+          "Wolfgang Schröder-Preikschat"
+        ]
+      },
+      {
+        "title": "Utilizing green energy prediction to schedule mixed batch and service jobs in data centers.",
+        "authors": [
+          "Baris Aksanli",
+          "Jagannathan Venkatesh",
+          "Liuyi Eric Zhang",
+          "Tajana Rosing"
+        ]
+      },
+      {
+        "title": "Energy-aware writes to non-volatile main memory.",
+        "authors": [
+          "Jie Chen",
+          "Ron Chi-Lung Chiang",
+          "H. Howie Huang",
+          "Guru Venkataramani"
+        ]
+      },
+      {
+        "title": "Towards realizing a low cost and highly available datacenter power infrastructure.",
+        "authors": [
+          "Sriram Govindan",
+          "Di Wang",
+          "Lydia Y. Chen",
+          "Anand Sivasubramaniam",
+          "Bhuvan Urgaonkar"
+        ]
+      },
+      {
+        "title": "Leveraging thermal storage to cut the electricity bill for datacenter cooling.",
+        "authors": [
+          "Yefu Wang",
+          "Xiaorui Wang",
+          "Yanwei Zhang"
+        ]
+      },
+      {
+        "title": "Ekho: bridging the gap between simulation and reality in tiny energy-harvesting sensors.",
+        "authors": [
+          "Hong Zhang",
+          "Mastooreh Salajegheh",
+          "Kevin Fu",
+          "Jacob Sorber"
+        ]
+      },
+      {
+        "title": "Simultaneous multithreading on x86_64 systems: an energy efficiency evaluation.",
+        "authors": [
+          "Robert Schöne",
+          "Daniel Hackenberg",
+          "Daniel Molka"
         ]
       }
     ]

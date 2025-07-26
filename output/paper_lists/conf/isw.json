@@ -1,159 +1,4 @@
 {
-  "https://dblp.org/db/conf/isw/isc2024-1.html": {
-    "header": "27th ISC 2024: Arlington, VA, USA - Part I",
-    "year": "2024",
-    "papers": [
-      {
-        "title": "The Formal Verification of Aptos Coin.",
-        "authors": [
-          "Kundu Chen",
-          "Jie Luo",
-          "Yi Lu",
-          "Zhongyun Zhang",
-          "Wenbo Zhang",
-          "Xudong Wang",
-          "Pan Li",
-          "Jun Zhao"
-        ]
-      },
-      {
-        "title": "Anonymous, Timed and Revocable Proxy Signatures.",
-        "authors": [
-          "Ghada Almashaqbeh",
-          "Anca Nitulescu"
-        ]
-      },
-      {
-        "title": "MILP/MIQCP-Based Differential-Linear Cryptanalysis on CHAM-64/128.",
-        "authors": [
-          "Yong Liu",
-          "Zejun Xiang",
-          "Shasha Zhang",
-          "Xiangyong Zeng"
-        ]
-      },
-      {
-        "title": "Security Analysis of CMAC in the Multi-user Model.",
-        "authors": [
-          "Xiangyang Zhang",
-          "Yaobin Shen",
-          "Lei Wang"
-        ]
-      },
-      {
-        "title": "Quantum Key Recovery Attacks on 4-Round Iterated Even-Mansour with Two Keys.",
-        "authors": [
-          "Ravi Anand",
-          "Shibam Ghosh",
-          "Takanori Isobe",
-          "Rentaro Shiba"
-        ]
-      },
-      {
-        "title": "Optimizing Label-Only Membership Inference Attacks by Global Relative Decision Boundary Distances.",
-        "authors": [
-          "Jiacheng Xu",
-          "Jianpeng Hu",
-          "Chunqing Yu",
-          "Chengxiang Tan"
-        ]
-      },
-      {
-        "title": "Risk of Text Backdoor Attacks Under Dataset Distillation.",
-        "authors": [
-          "Kejun Zhang",
-          "Yutuo Song",
-          "Shaofei Xu",
-          "Pengcheng Li",
-          "Rong Qian",
-          "Pengzhi Han",
-          "Lingyun Xu"
-        ]
-      },
-      {
-        "title": "Emulating Android Device Drivers via Borrowed Execution Context.",
-        "authors": [
-          "Alex Le Blanc",
-          "Ivan Pustogarov"
-        ]
-      },
-      {
-        "title": "SyzLego: Enhancing Kernel Directed Greybox Fuzzing via Dependency Inference and Scheduling.",
-        "authors": [
-          "Chengxiang Liao",
-          "Ruipeng Wang",
-          "Yuwei Li",
-          "Juxing Chen",
-          "Yang Li",
-          "Zulie Pan"
-        ]
-      },
-      {
-        "title": "A Lightweight Defense Scheme Against Usermode Helper Privilege Escalation Using Linux Capability.",
-        "authors": [
-          "Jingzi Meng",
-          "Yuewu Wang",
-          "Lingguang Lei",
-          "Chunjing Kou",
-          "Peng Wang"
-        ]
-      },
-      {
-        "title": "Balance-Based ZKP Protocols for Pencil-and-Paper Puzzles.",
-        "authors": [
-          "Shohei Kaneko",
-          "Pascal Lafourcade",
-          "Lola-Baie Mallordy",
-          "Daiki Miyahara",
-          "Maxime Puys",
-          "Kazuo Sakiyama"
-        ]
-      },
-      {
-        "title": "ChronoCloak: An Integrated Solution for Mitigating Premature Disclosure in Oblivious Digital Dissemination.",
-        "authors": [
-          "Ahmed Zawia",
-          "M. Anwar Hasan"
-        ]
-      },
-      {
-        "title": "Large-Plaintext Functional Bootstrapping with Small Parameters for BGV Encoding.",
-        "authors": [
-          "Yan Xu",
-          "Guizhen Zhu",
-          "Huaxiong Wang",
-          "Li-Ping Wang"
-        ]
-      },
-      {
-        "title": "Ripple: Accelerating Programmable Bootstraps for FHE with Wavelet Approximations.",
-        "authors": [
-          "Charles Gouert",
-          "Mehmet Ugurbil",
-          "Dimitris Mouris",
-          "Miguel de Vega",
-          "Nektarios Georgios Tsoutsos"
-        ]
-      },
-      {
-        "title": "Robust Multiparty Computation from Threshold Encryption Based on RLWE.",
-        "authors": [
-          "Antoine Urban",
-          "Matthieu Rambaud"
-        ]
-      },
-      {
-        "title": "Efficient Blind Rotation in FHEW Using Refined Decomposition and NTT.",
-        "authors": [
-          "Ying Liu",
-          "Zhihao Li",
-          "Ruida Wang",
-          "Xianhui Lu",
-          "Kunpeng Wang"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/isw/isc2024-2.html": {
     "header": "27th ISC 2024: Arlington, VA, USA - Part II",
     "year": "2024",
@@ -306,6 +151,161 @@
         "authors": [
           "Yue Song",
           "Jianting Yuan"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/isw/isc2024-1.html": {
+    "header": "27th ISC 2024: Arlington, VA, USA - Part I",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "The Formal Verification of Aptos Coin.",
+        "authors": [
+          "Kundu Chen",
+          "Jie Luo",
+          "Yi Lu",
+          "Zhongyun Zhang",
+          "Wenbo Zhang",
+          "Xudong Wang",
+          "Pan Li",
+          "Jun Zhao"
+        ]
+      },
+      {
+        "title": "Anonymous, Timed and Revocable Proxy Signatures.",
+        "authors": [
+          "Ghada Almashaqbeh",
+          "Anca Nitulescu"
+        ]
+      },
+      {
+        "title": "MILP/MIQCP-Based Differential-Linear Cryptanalysis on CHAM-64/128.",
+        "authors": [
+          "Yong Liu",
+          "Zejun Xiang",
+          "Shasha Zhang",
+          "Xiangyong Zeng"
+        ]
+      },
+      {
+        "title": "Security Analysis of CMAC in the Multi-user Model.",
+        "authors": [
+          "Xiangyang Zhang",
+          "Yaobin Shen",
+          "Lei Wang"
+        ]
+      },
+      {
+        "title": "Quantum Key Recovery Attacks on 4-Round Iterated Even-Mansour with Two Keys.",
+        "authors": [
+          "Ravi Anand",
+          "Shibam Ghosh",
+          "Takanori Isobe",
+          "Rentaro Shiba"
+        ]
+      },
+      {
+        "title": "Optimizing Label-Only Membership Inference Attacks by Global Relative Decision Boundary Distances.",
+        "authors": [
+          "Jiacheng Xu",
+          "Jianpeng Hu",
+          "Chunqing Yu",
+          "Chengxiang Tan"
+        ]
+      },
+      {
+        "title": "Risk of Text Backdoor Attacks Under Dataset Distillation.",
+        "authors": [
+          "Kejun Zhang",
+          "Yutuo Song",
+          "Shaofei Xu",
+          "Pengcheng Li",
+          "Rong Qian",
+          "Pengzhi Han",
+          "Lingyun Xu"
+        ]
+      },
+      {
+        "title": "Emulating Android Device Drivers via Borrowed Execution Context.",
+        "authors": [
+          "Alex Le Blanc",
+          "Ivan Pustogarov"
+        ]
+      },
+      {
+        "title": "SyzLego: Enhancing Kernel Directed Greybox Fuzzing via Dependency Inference and Scheduling.",
+        "authors": [
+          "Chengxiang Liao",
+          "Ruipeng Wang",
+          "Yuwei Li",
+          "Juxing Chen",
+          "Yang Li",
+          "Zulie Pan"
+        ]
+      },
+      {
+        "title": "A Lightweight Defense Scheme Against Usermode Helper Privilege Escalation Using Linux Capability.",
+        "authors": [
+          "Jingzi Meng",
+          "Yuewu Wang",
+          "Lingguang Lei",
+          "Chunjing Kou",
+          "Peng Wang"
+        ]
+      },
+      {
+        "title": "Balance-Based ZKP Protocols for Pencil-and-Paper Puzzles.",
+        "authors": [
+          "Shohei Kaneko",
+          "Pascal Lafourcade",
+          "Lola-Baie Mallordy",
+          "Daiki Miyahara",
+          "Maxime Puys",
+          "Kazuo Sakiyama"
+        ]
+      },
+      {
+        "title": "ChronoCloak: An Integrated Solution for Mitigating Premature Disclosure in Oblivious Digital Dissemination.",
+        "authors": [
+          "Ahmed Zawia",
+          "M. Anwar Hasan"
+        ]
+      },
+      {
+        "title": "Large-Plaintext Functional Bootstrapping with Small Parameters for BGV Encoding.",
+        "authors": [
+          "Yan Xu",
+          "Guizhen Zhu",
+          "Huaxiong Wang",
+          "Li-Ping Wang"
+        ]
+      },
+      {
+        "title": "Ripple: Accelerating Programmable Bootstraps for FHE with Wavelet Approximations.",
+        "authors": [
+          "Charles Gouert",
+          "Mehmet Ugurbil",
+          "Dimitris Mouris",
+          "Miguel de Vega",
+          "Nektarios Georgios Tsoutsos"
+        ]
+      },
+      {
+        "title": "Robust Multiparty Computation from Threshold Encryption Based on RLWE.",
+        "authors": [
+          "Antoine Urban",
+          "Matthieu Rambaud"
+        ]
+      },
+      {
+        "title": "Efficient Blind Rotation in FHEW Using Refined Decomposition and NTT.",
+        "authors": [
+          "Ying Liu",
+          "Zhihao Li",
+          "Ruida Wang",
+          "Xianhui Lu",
+          "Kunpeng Wang"
         ]
       }
     ]

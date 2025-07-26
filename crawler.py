@@ -92,7 +92,7 @@ def run_get_paper_list(url, throttle_delay=15):
         assert len(matches) > 0, f"No matching year found in {url}"
         year = max(set(matches), key=matches.count)
     else:
-        year = ",".join(matches)
+        year = ",".join(sorted(matches))
 
     time.sleep(throttle_delay)
 
@@ -147,7 +147,7 @@ def update_paper_list(typ, index, paper_list, output_dir=None):
     paper_list_old = load_json(path_paper_list)
     paper_list = {**paper_list, **paper_list_old}
 
-    save_json(paper_list, path_paper_list, sort_fn=lambda item: item[1]["year"] + item[0], reverse=True)
+    save_json(paper_list, path_paper_list, sort_fn=lambda item: (item[1]["year"], item[0]), reverse=True)
     print(f"[+] Updated {path_paper_list}.")
 
 

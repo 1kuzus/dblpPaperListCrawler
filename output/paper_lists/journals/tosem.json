@@ -6728,147 +6728,6 @@
       }
     ]
   },
-  "https://dblp.org/db/journals/tosem/tosem26.html": {
-    "header": "ACM Transactions on Software Engineering and Methodology, Volume 26",
-    "year": "2018,2017",
-    "papers": [
-      {
-        "title": "Augmenting Field Data for Testing Systems Subject to Incremental Requirements Changes.",
-        "authors": [
-          "Daniel Di Nardo",
-          "Fabrizio Pastore",
-          "Lionel C. Briand"
-        ]
-      },
-      {
-        "title": "Ensuring the Consistency of Adaptation through Inter- and Intra-Component Dependency Analysis.",
-        "authors": [
-          "Alireza Sadeghi",
-          "Naeem Esfahani",
-          "Sam Malek"
-        ]
-      },
-      {
-        "title": "Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks.",
-        "authors": [
-          "Chris Mills",
-          "Gabriele Bavota",
-          "Sonia Haiduc",
-          "Rocco Oliveto",
-          "Andrian Marcus",
-          "Andrea De Lucia"
-        ]
-      },
-      {
-        "title": "Human Competitiveness of Genetic Programming in Spectrum-Based Fault Localisation: Theoretical and Empirical Analysis.",
-        "authors": [
-          "Shin Yoo",
-          "Xiaoyuan Xie",
-          "Fei-Ching Kuo",
-          "Tsong Yueh Chen",
-          "Mark Harman"
-        ]
-      },
-      {
-        "title": "Parallel Algorithms for Generating Distinguishing Sequences for Observable Non-deterministic FSMs.",
-        "authors": [
-          "Robert M. Hierons",
-          "Uraz Cengiz Türker"
-        ]
-      },
-      {
-        "title": "Editorial.",
-        "authors": [
-          "David S. Rosenblum"
-        ]
-      },
-      {
-        "title": "Fixing Faults in C and Java Source Code: Abbreviated vs. Full-Word Identifier Names.",
-        "authors": [
-          "Giuseppe Scanniello",
-          "Michele Risi",
-          "Porfirio Tramontana",
-          "Simone Romano"
-        ]
-      },
-      {
-        "title": "A Logic-Based Approach for the Verification of UML Timed Models.",
-        "authors": [
-          "Luciano Baresi",
-          "Angelo Morzenti",
-          "Alfredo Motta",
-          "Mohammad Mehdi Pourhashem Kallehbasti",
-          "Matteo Rossi"
-        ]
-      },
-      {
-        "title": "Early Evaluation of Implementation Alternatives of Composite Data Structures Toward Maintainability.",
-        "authors": [
-          "Chris Karanikolas",
-          "Grigoris Dimitroulakos",
-          "Konstantinos Masselos"
-        ]
-      },
-      {
-        "title": "Global and Local Deadlock Freedom in BIP.",
-        "authors": [
-          "Paul C. Attie",
-          "Saddek Bensalem",
-          "Marius Bozga",
-          "Mohamad Jaber",
-          "Joseph Sifakis",
-          "Fadi A. Zaraket"
-        ]
-      },
-      {
-        "title": "Variability Bugs in Highly Configurable Systems: A Qualitative Analysis.",
-        "authors": [
-          "Iago Abal",
-          "Jean Melo",
-          "Stefan Stanciulescu",
-          "Claus Brabrand",
-          "Márcio Ribeiro",
-          "Andrzej Wasowski"
-        ]
-      },
-      {
-        "title": "Lightweight, Obfuscation-Resilient Detection and Family Identification of Android Malware.",
-        "authors": [
-          "Joshua Garcia",
-          "Mahmoud Hammad",
-          "Sam Malek"
-        ]
-      },
-      {
-        "title": "Understanding and Combating Memory Bloat in Managed Data-Intensive Systems.",
-        "authors": [
-          "Khanh Nguyen",
-          "Kai Wang",
-          "Yingyi Bu",
-          "Lu Fang",
-          "Guoqing Xu"
-        ]
-      },
-      {
-        "title": "Detecting the Behavior of Design Patterns through Model Checking and Dynamic Analysis.",
-        "authors": [
-          "Andrea De Lucia",
-          "Vincenzo Deufemia",
-          "Carmine Gravino",
-          "Michele Risi"
-        ]
-      },
-      {
-        "title": "Configuring Software Product Lines by Combining Many-Objective Optimization and SAT Solvers.",
-        "authors": [
-          "Yi Xiang",
-          "Yuren Zhou",
-          "Zibin Zheng",
-          "Miqing Li"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/journals/tosem/tosem27.html": {
     "header": "ACM Transactions on Software Engineering and Methodology, Volume 27",
     "year": "2018",
@@ -7035,9 +6894,150 @@
       }
     ]
   },
+  "https://dblp.org/db/journals/tosem/tosem26.html": {
+    "header": "ACM Transactions on Software Engineering and Methodology, Volume 26",
+    "year": "2017,2018",
+    "papers": [
+      {
+        "title": "Augmenting Field Data for Testing Systems Subject to Incremental Requirements Changes.",
+        "authors": [
+          "Daniel Di Nardo",
+          "Fabrizio Pastore",
+          "Lionel C. Briand"
+        ]
+      },
+      {
+        "title": "Ensuring the Consistency of Adaptation through Inter- and Intra-Component Dependency Analysis.",
+        "authors": [
+          "Alireza Sadeghi",
+          "Naeem Esfahani",
+          "Sam Malek"
+        ]
+      },
+      {
+        "title": "Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks.",
+        "authors": [
+          "Chris Mills",
+          "Gabriele Bavota",
+          "Sonia Haiduc",
+          "Rocco Oliveto",
+          "Andrian Marcus",
+          "Andrea De Lucia"
+        ]
+      },
+      {
+        "title": "Human Competitiveness of Genetic Programming in Spectrum-Based Fault Localisation: Theoretical and Empirical Analysis.",
+        "authors": [
+          "Shin Yoo",
+          "Xiaoyuan Xie",
+          "Fei-Ching Kuo",
+          "Tsong Yueh Chen",
+          "Mark Harman"
+        ]
+      },
+      {
+        "title": "Parallel Algorithms for Generating Distinguishing Sequences for Observable Non-deterministic FSMs.",
+        "authors": [
+          "Robert M. Hierons",
+          "Uraz Cengiz Türker"
+        ]
+      },
+      {
+        "title": "Editorial.",
+        "authors": [
+          "David S. Rosenblum"
+        ]
+      },
+      {
+        "title": "Fixing Faults in C and Java Source Code: Abbreviated vs. Full-Word Identifier Names.",
+        "authors": [
+          "Giuseppe Scanniello",
+          "Michele Risi",
+          "Porfirio Tramontana",
+          "Simone Romano"
+        ]
+      },
+      {
+        "title": "A Logic-Based Approach for the Verification of UML Timed Models.",
+        "authors": [
+          "Luciano Baresi",
+          "Angelo Morzenti",
+          "Alfredo Motta",
+          "Mohammad Mehdi Pourhashem Kallehbasti",
+          "Matteo Rossi"
+        ]
+      },
+      {
+        "title": "Early Evaluation of Implementation Alternatives of Composite Data Structures Toward Maintainability.",
+        "authors": [
+          "Chris Karanikolas",
+          "Grigoris Dimitroulakos",
+          "Konstantinos Masselos"
+        ]
+      },
+      {
+        "title": "Global and Local Deadlock Freedom in BIP.",
+        "authors": [
+          "Paul C. Attie",
+          "Saddek Bensalem",
+          "Marius Bozga",
+          "Mohamad Jaber",
+          "Joseph Sifakis",
+          "Fadi A. Zaraket"
+        ]
+      },
+      {
+        "title": "Variability Bugs in Highly Configurable Systems: A Qualitative Analysis.",
+        "authors": [
+          "Iago Abal",
+          "Jean Melo",
+          "Stefan Stanciulescu",
+          "Claus Brabrand",
+          "Márcio Ribeiro",
+          "Andrzej Wasowski"
+        ]
+      },
+      {
+        "title": "Lightweight, Obfuscation-Resilient Detection and Family Identification of Android Malware.",
+        "authors": [
+          "Joshua Garcia",
+          "Mahmoud Hammad",
+          "Sam Malek"
+        ]
+      },
+      {
+        "title": "Understanding and Combating Memory Bloat in Managed Data-Intensive Systems.",
+        "authors": [
+          "Khanh Nguyen",
+          "Kai Wang",
+          "Yingyi Bu",
+          "Lu Fang",
+          "Guoqing Xu"
+        ]
+      },
+      {
+        "title": "Detecting the Behavior of Design Patterns through Model Checking and Dynamic Analysis.",
+        "authors": [
+          "Andrea De Lucia",
+          "Vincenzo Deufemia",
+          "Carmine Gravino",
+          "Michele Risi"
+        ]
+      },
+      {
+        "title": "Configuring Software Product Lines by Combining Many-Objective Optimization and SAT Solvers.",
+        "authors": [
+          "Yi Xiang",
+          "Yuren Zhou",
+          "Zibin Zheng",
+          "Miqing Li"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/tosem/tosem25.html": {
     "header": "ACM Transactions on Software Engineering and Methodology, Volume 25",
-    "year": "2015,2017,2016",
+    "year": "2015,2016,2017",
     "papers": [
       {
         "title": "Editorial Journal-First Publication for the Software Engineering Community.",
@@ -7311,7 +7311,7 @@
   },
   "https://dblp.org/db/journals/tosem/tosem24.html": {
     "header": "ACM Transactions on Software Engineering and Methodology, Volume 24",
-    "year": "2015,2014",
+    "year": "2014,2015",
     "papers": [
       {
         "title": "Assessing the Effect of Screen Mockups on the Comprehension of Functional Requirements.",
@@ -8514,7 +8514,7 @@
   },
   "https://dblp.org/db/journals/tosem/tosem19.html": {
     "header": "ACM Transactions on Software Engineering and Methodology (TOSEM), Volume 19",
-    "year": "2010,2009",
+    "year": "2009,2010",
     "papers": [
       {
         "title": "J-Orchestra: Enhancing Java programs with distribution capabilities.",
@@ -8741,7 +8741,7 @@
   },
   "https://dblp.org/db/journals/tosem/tosem17.html": {
     "header": "ACM Transactions on Software Engineering and Methodology (TOSEM), Volume 17",
-    "year": "2008,2007",
+    "year": "2007,2008",
     "papers": [
       {
         "title": "Editorial.",

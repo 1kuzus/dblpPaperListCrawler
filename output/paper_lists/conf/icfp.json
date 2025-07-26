@@ -1257,48 +1257,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/icfp/dtp2013.html": {
-    "header": "DTP@ICFP 2013: Boston, Massachusetts, USA",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "Correct-by-construction pretty-printing.",
-        "authors": [
-          "Nils Anders Danielsson"
-        ]
-      },
-      {
-        "title": "New equations for neutral terms: a sound and complete decision procedure, formalized.",
-        "authors": [
-          "Guillaume Allais",
-          "Conor McBride",
-          "Pierre Boutillier"
-        ]
-      },
-      {
-        "title": "A multivalued language with a dependent type system.",
-        "authors": [
-          "Neal Glew",
-          "Tim Sweeney",
-          "Leaf Petersen"
-        ]
-      },
-      {
-        "title": "Relational algebraic ornaments.",
-        "authors": [
-          "Hsiang-Shang Ko",
-          "Jeremy Gibbons"
-        ]
-      },
-      {
-        "title": "Leveling up dependent types: generic programming over a predicative hierarchy of universes.",
-        "authors": [
-          "Larry Diehl",
-          "Tim Sheard"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/icfp/fpcdsl2013.html": {
     "header": "1. FPCDSL@ICFP 2013: Boston, Massachusetts, USA",
     "year": "2013",
@@ -1356,6 +1314,128 @@
           "Emilio Jesús Gallego Arias",
           "Andreas Haeberlen",
           "Benjamin C. Pierce"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/dtp2013.html": {
+    "header": "DTP@ICFP 2013: Boston, Massachusetts, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Correct-by-construction pretty-printing.",
+        "authors": [
+          "Nils Anders Danielsson"
+        ]
+      },
+      {
+        "title": "New equations for neutral terms: a sound and complete decision procedure, formalized.",
+        "authors": [
+          "Guillaume Allais",
+          "Conor McBride",
+          "Pierre Boutillier"
+        ]
+      },
+      {
+        "title": "A multivalued language with a dependent type system.",
+        "authors": [
+          "Neal Glew",
+          "Tim Sweeney",
+          "Leaf Petersen"
+        ]
+      },
+      {
+        "title": "Relational algebraic ornaments.",
+        "authors": [
+          "Hsiang-Shang Ko",
+          "Jeremy Gibbons"
+        ]
+      },
+      {
+        "title": "Leveling up dependent types: generic programming over a predicative hierarchy of universes.",
+        "authors": [
+          "Larry Diehl",
+          "Tim Sheard"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/scheme2012.html": {
+    "header": "Scheme @ICFP 2012: Copenhagen, Denmark",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "Scheme on the web and in the classroom: a retrospective about the LAML project.",
+        "authors": [
+          "Kurt Nørmark"
+        ]
+      },
+      {
+        "title": "miniKanren, live and untagged: quine generation via relational interpreters (programming pearl).",
+        "authors": [
+          "William E. Byrd",
+          "Eric Holk",
+          "Daniel P. Friedman"
+        ]
+      },
+      {
+        "title": "Optimizing closures in O(0) time.",
+        "authors": [
+          "Andrew W. Keep",
+          "Alex Hearn",
+          "R. Kent Dybvig"
+        ]
+      },
+      {
+        "title": "A sufficiently smart compiler for procedural records.",
+        "authors": [
+          "Andrew W. Keep",
+          "R. Kent Dybvig"
+        ]
+      },
+      {
+        "title": "Efficient compilation of tail calls and continuations to JavaScript.",
+        "authors": [
+          "Eric Thivierge",
+          "Marc Feeley"
+        ]
+      },
+      {
+        "title": "Hygienic quasiquotation in scheme.",
+        "authors": [
+          "Morten Rhiger"
+        ]
+      },
+      {
+        "title": "AspectScheme: aspects in higher-order languages.",
+        "authors": [
+          "Christopher J. Dutchyn"
+        ]
+      },
+      {
+        "title": "Optimizing JavaScript code for V8.",
+        "authors": [
+          "Florian Loitsch"
+        ]
+      },
+      {
+        "title": "Interpretations of the gradually-typed lambda calculus.",
+        "authors": [
+          "Jeremy G. Siek",
+          "Ronald Garcia"
+        ]
+      },
+      {
+        "title": "Form over function: teaching beginners how to construct programs.",
+        "authors": [
+          "Michael Sperber",
+          "Marcus Crestani"
+        ]
+      },
+      {
+        "title": "Using scheme to control simulated modular robots.",
+        "authors": [
+          "Ulrik Pagh Schultz"
         ]
       }
     ]
@@ -1627,86 +1707,6 @@
           "Umut A. Acar",
           "James Cheney",
           "Paul Blain Levy"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/icfp/scheme2012.html": {
-    "header": "Scheme @ICFP 2012: Copenhagen, Denmark",
-    "year": "2012",
-    "papers": [
-      {
-        "title": "Scheme on the web and in the classroom: a retrospective about the LAML project.",
-        "authors": [
-          "Kurt Nørmark"
-        ]
-      },
-      {
-        "title": "miniKanren, live and untagged: quine generation via relational interpreters (programming pearl).",
-        "authors": [
-          "William E. Byrd",
-          "Eric Holk",
-          "Daniel P. Friedman"
-        ]
-      },
-      {
-        "title": "Optimizing closures in O(0) time.",
-        "authors": [
-          "Andrew W. Keep",
-          "Alex Hearn",
-          "R. Kent Dybvig"
-        ]
-      },
-      {
-        "title": "A sufficiently smart compiler for procedural records.",
-        "authors": [
-          "Andrew W. Keep",
-          "R. Kent Dybvig"
-        ]
-      },
-      {
-        "title": "Efficient compilation of tail calls and continuations to JavaScript.",
-        "authors": [
-          "Eric Thivierge",
-          "Marc Feeley"
-        ]
-      },
-      {
-        "title": "Hygienic quasiquotation in scheme.",
-        "authors": [
-          "Morten Rhiger"
-        ]
-      },
-      {
-        "title": "AspectScheme: aspects in higher-order languages.",
-        "authors": [
-          "Christopher J. Dutchyn"
-        ]
-      },
-      {
-        "title": "Optimizing JavaScript code for V8.",
-        "authors": [
-          "Florian Loitsch"
-        ]
-      },
-      {
-        "title": "Interpretations of the gradually-typed lambda calculus.",
-        "authors": [
-          "Jeremy G. Siek",
-          "Ronald Garcia"
-        ]
-      },
-      {
-        "title": "Form over function: teaching beginners how to construct programs.",
-        "authors": [
-          "Michael Sperber",
-          "Marcus Crestani"
-        ]
-      },
-      {
-        "title": "Using scheme to control simulated modular robots.",
-        "authors": [
-          "Ulrik Pagh Schultz"
         ]
       }
     ]
@@ -2577,81 +2577,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/icfp/fdpe2008.html": {
-    "header": "FDPE@ICFP 2008: Victoria, BC, Canada",
-    "year": "2008",
-    "papers": [
-      {
-        "title": "Htdp and dmda in the battlefield: a case study in first-year programming instruction.",
-        "authors": [
-          "Annette Bieniusa",
-          "Markus Degen",
-          "Phillip Heidegger",
-          "Peter Thiemann",
-          "Stefan Wehr",
-          "Martin Gasbichler",
-          "Michael Sperber",
-          "Marcus Crestani",
-          "Herbert Klaeren",
-          "Eric Knauel"
-        ]
-      },
-      {
-        "title": "The chilling descent: making the transition to a conventional curriculum.",
-        "authors": [
-          "Prabhakar Ragde"
-        ]
-      },
-      {
-        "title": "Functional programming and theorem proving for undergraduates: a progress report.",
-        "authors": [
-          "Rex L. Page",
-          "Carl Eastlund",
-          "Matthias Felleisen"
-        ]
-      },
-      {
-        "title": "SASyLF: an educational proof assistant for language theory.",
-        "authors": [
-          "Jonathan Aldrich",
-          "Robert J. Simmons",
-          "Key Shin"
-        ]
-      },
-      {
-        "title": "Experimenting with formal languages using forlan.",
-        "authors": [
-          "Alley Stoughton"
-        ]
-      },
-      {
-        "title": "A robot in every classroom: robots and functional programming across the curriculum.",
-        "authors": [
-          "David Wakeling"
-        ]
-      },
-      {
-        "title": "Teaching functional programming with soccer-fun.",
-        "authors": [
-          "Peter Achten"
-        ]
-      },
-      {
-        "title": "Declarative language extensions for prolog courses.",
-        "authors": [
-          "Ulrich Neumerkel",
-          "Markus Triska",
-          "Jan Wielemaker"
-        ]
-      },
-      {
-        "title": "Tips on teaching types and functions.",
-        "authors": [
-          "Fritz Ruehr"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/icfp/icfp2008.html": {
     "header": "13th ICFP 2008: Victoria, BC, Canada",
     "year": "2008",
@@ -2952,6 +2877,81 @@
           "Arie Middelkoop",
           "Alexey Rodriguez",
           "John van Schie"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icfp/fdpe2008.html": {
+    "header": "FDPE@ICFP 2008: Victoria, BC, Canada",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Htdp and dmda in the battlefield: a case study in first-year programming instruction.",
+        "authors": [
+          "Annette Bieniusa",
+          "Markus Degen",
+          "Phillip Heidegger",
+          "Peter Thiemann",
+          "Stefan Wehr",
+          "Martin Gasbichler",
+          "Michael Sperber",
+          "Marcus Crestani",
+          "Herbert Klaeren",
+          "Eric Knauel"
+        ]
+      },
+      {
+        "title": "The chilling descent: making the transition to a conventional curriculum.",
+        "authors": [
+          "Prabhakar Ragde"
+        ]
+      },
+      {
+        "title": "Functional programming and theorem proving for undergraduates: a progress report.",
+        "authors": [
+          "Rex L. Page",
+          "Carl Eastlund",
+          "Matthias Felleisen"
+        ]
+      },
+      {
+        "title": "SASyLF: an educational proof assistant for language theory.",
+        "authors": [
+          "Jonathan Aldrich",
+          "Robert J. Simmons",
+          "Key Shin"
+        ]
+      },
+      {
+        "title": "Experimenting with formal languages using forlan.",
+        "authors": [
+          "Alley Stoughton"
+        ]
+      },
+      {
+        "title": "A robot in every classroom: robots and functional programming across the curriculum.",
+        "authors": [
+          "David Wakeling"
+        ]
+      },
+      {
+        "title": "Teaching functional programming with soccer-fun.",
+        "authors": [
+          "Peter Achten"
+        ]
+      },
+      {
+        "title": "Declarative language extensions for prolog courses.",
+        "authors": [
+          "Ulrich Neumerkel",
+          "Markus Triska",
+          "Jan Wielemaker"
+        ]
+      },
+      {
+        "title": "Tips on teaching types and functions.",
+        "authors": [
+          "Fritz Ruehr"
         ]
       }
     ]
@@ -3405,52 +3405,64 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/icfp/fdpe2005.html": {
-    "header": "FDPE@ICFP 2005: Tallinn, Estonia",
+  "https://dblp.org/db/conf/icfp/merlin2005.html": {
+    "header": "MERLIN (ICFP 2005 Workshop): Tallinn, Estonia",
     "year": "2005",
     "papers": [
       {
-        "title": "How to design class hierarchies.",
+        "title": "Towards a type theory of contexts.",
         "authors": [
-          "Matthias Felleisen"
+          "Frank Pfenning"
         ]
       },
       {
-        "title": "From functional to object-oriented programming: a smooth transition for beginners.",
+        "title": "A computational approach to reflective meta-reasoning about languages with bindings.",
         "authors": [
-          "Rudolf Berghammer",
-          "Frank Huch"
+          "Aleksey Nogin",
+          "Alexei Kopylov",
+          "Xin Yu",
+          "Jason Hickey"
         ]
       },
       {
-        "title": "Laziness without all the hard work: combining lazy and strict languages for teaching.",
+        "title": "A unified category-theoretic formulation of typed binding signatures.",
         "authors": [
-          "Eli Barzilay",
-          "John Clements"
+          "Miki Tanaka",
+          "John Power"
         ]
       },
       {
-        "title": "Word puzzles in Haskell: interactive games for functional programming exercises.",
+        "title": "A formal treatment of the barendregt variable convention in rule inductions.",
         "authors": [
-          "S. A. Curtis"
+          "Christian Urban",
+          "Michael Norrish"
         ]
       },
       {
-        "title": "Teaching of image synthesis in functional style.",
+        "title": "Toward a general theory of names: binding and scope.",
         "authors": [
-          "Jerzy Karczmarczuk"
+          "James Cheney"
         ]
       },
       {
-        "title": "MinCaml: a simple and efficient compiler for a minimal functional language.",
+        "title": "Translating specifications from nominal logic to CIC with the theory of contexts.",
         "authors": [
-          "Eijiro Sumii"
+          "Marino Miculan",
+          "Ivan Scagnetto",
+          "Furio Honsell"
         ]
       },
       {
-        "title": "Engineering software correctness.",
+        "title": "Types with semantics: soundness proof assistant.",
         "authors": [
-          "Rex L. Page"
+          "Olha Shkaravska"
+        ]
+      },
+      {
+        "title": "Combining higher-order abstract syntax with first-order abstract syntax in ATS.",
+        "authors": [
+          "Kevin Donnelly",
+          "Hongwei Xi"
         ]
       }
     ]
@@ -3680,64 +3692,52 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/icfp/merlin2005.html": {
-    "header": "MERLIN (ICFP 2005 Workshop): Tallinn, Estonia",
+  "https://dblp.org/db/conf/icfp/fdpe2005.html": {
+    "header": "FDPE@ICFP 2005: Tallinn, Estonia",
     "year": "2005",
     "papers": [
       {
-        "title": "Towards a type theory of contexts.",
+        "title": "How to design class hierarchies.",
         "authors": [
-          "Frank Pfenning"
+          "Matthias Felleisen"
         ]
       },
       {
-        "title": "A computational approach to reflective meta-reasoning about languages with bindings.",
+        "title": "From functional to object-oriented programming: a smooth transition for beginners.",
         "authors": [
-          "Aleksey Nogin",
-          "Alexei Kopylov",
-          "Xin Yu",
-          "Jason Hickey"
+          "Rudolf Berghammer",
+          "Frank Huch"
         ]
       },
       {
-        "title": "A unified category-theoretic formulation of typed binding signatures.",
+        "title": "Laziness without all the hard work: combining lazy and strict languages for teaching.",
         "authors": [
-          "Miki Tanaka",
-          "John Power"
+          "Eli Barzilay",
+          "John Clements"
         ]
       },
       {
-        "title": "A formal treatment of the barendregt variable convention in rule inductions.",
+        "title": "Word puzzles in Haskell: interactive games for functional programming exercises.",
         "authors": [
-          "Christian Urban",
-          "Michael Norrish"
+          "S. A. Curtis"
         ]
       },
       {
-        "title": "Toward a general theory of names: binding and scope.",
+        "title": "Teaching of image synthesis in functional style.",
         "authors": [
-          "James Cheney"
+          "Jerzy Karczmarczuk"
         ]
       },
       {
-        "title": "Translating specifications from nominal logic to CIC with the theory of contexts.",
+        "title": "MinCaml: a simple and efficient compiler for a minimal functional language.",
         "authors": [
-          "Marino Miculan",
-          "Ivan Scagnetto",
-          "Furio Honsell"
+          "Eijiro Sumii"
         ]
       },
       {
-        "title": "Types with semantics: soundness proof assistant.",
+        "title": "Engineering software correctness.",
         "authors": [
-          "Olha Shkaravska"
-        ]
-      },
-      {
-        "title": "Combining higher-order abstract syntax with first-order abstract syntax in ATS.",
-        "authors": [
-          "Kevin Donnelly",
-          "Hongwei Xi"
+          "Rex L. Page"
         ]
       }
     ]

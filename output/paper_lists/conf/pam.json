@@ -194,115 +194,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/pam/pam2024-1.html": {
-    "header": "25th PAM 2024: Virtual Event - Part I",
-    "year": "2024",
-    "papers": [
-      {
-        "title": "From Power to Water: Dissecting SCADA Networks Across Different Critical Infrastructures.",
-        "authors": [
-          "Neil Ortiz Silva",
-          "Martin Rosso",
-          "Emmanuele Zambon",
-          "Jerry den Hartog",
-          "Alvaro A. Cárdenas"
-        ]
-      },
-      {
-        "title": "Inside the Engine Room: Investigating Steam's Content Delivery Platform Infrastructure in the Era of 100GB Games.",
-        "authors": [
-          "Christoff Visser",
-          "Romain Fontugne"
-        ]
-      },
-      {
-        "title": "Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming.",
-        "authors": [
-          "Minzhao Lyu",
-          "Sharat Chandra Madanapalli",
-          "Arun Vishwanath",
-          "Vijay Sivaraman"
-        ]
-      },
-      {
-        "title": "Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet.",
-        "authors": [
-          "Liang Zhao",
-          "Satoru Kobayashi",
-          "Kensuke Fukuda"
-        ]
-      },
-      {
-        "title": "A First Look at NAT64 Deployment In-The-Wild.",
-        "authors": [
-          "Amanda Hsu",
-          "Frank Li",
-          "Paul Pearce",
-          "Oliver Gasser"
-        ]
-      },
-      {
-        "title": "Dom-BERT: Detecting Malicious Domains with Pre-training Model.",
-        "authors": [
-          "Yu Tian",
-          "Zhenyu Li"
-        ]
-      },
-      {
-        "title": "Data Augmentation for Traffic Classification.",
-        "authors": [
-          "Chao Wang",
-          "Alessandro Finamore",
-          "Pietro Michiardi",
-          "Massimo Gallo",
-          "Dario Rossi"
-        ]
-      },
-      {
-        "title": "Towards Improving Outage Detection with Multiple Probing Protocols.",
-        "authors": [
-          "Manasvini Sethuraman",
-          "Zachary S. Bischof",
-          "Alberto Dainotti"
-        ]
-      },
-      {
-        "title": "WHOIS Right? An Analysis of WHOIS and RDAP Consistency.",
-        "authors": [
-          "Simon Fernandez",
-          "Olivier Hureau",
-          "Andrzej Duda",
-          "Maciej Korczynski"
-        ]
-      },
-      {
-        "title": "Spoofed Emails: An Analysis of the Issues Hindering a Larger Deployment of DMARC.",
-        "authors": [
-          "Olivier Hureau",
-          "Jan Bayer",
-          "Andrzej Duda",
-          "Maciej Korczynski"
-        ]
-      },
-      {
-        "title": "Designing a Lightweight Network Observability Agent for Cloud Applications.",
-        "authors": [
-          "Pravein Govindan Kannan",
-          "Shachee Mishra Gupta",
-          "Dushyant Behl",
-          "Eran Raichstein",
-          "Joel Takvorian"
-        ]
-      },
-      {
-        "title": "Crawling to the Top: An Empirical Evaluation of Top List Use.",
-        "authors": [
-          "Qinge Xie",
-          "Frank Li"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/pam/pam2024-2.html": {
     "header": "25th PAM 2024: Virtual Event - Part II",
     "year": "2024",
@@ -441,6 +332,115 @@
           "Daniel J. Dubois",
           "David R. Choffnes",
           "Hamed Haddadi"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/pam/pam2024-1.html": {
+    "header": "25th PAM 2024: Virtual Event - Part I",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "From Power to Water: Dissecting SCADA Networks Across Different Critical Infrastructures.",
+        "authors": [
+          "Neil Ortiz Silva",
+          "Martin Rosso",
+          "Emmanuele Zambon",
+          "Jerry den Hartog",
+          "Alvaro A. Cárdenas"
+        ]
+      },
+      {
+        "title": "Inside the Engine Room: Investigating Steam's Content Delivery Platform Infrastructure in the Era of 100GB Games.",
+        "authors": [
+          "Christoff Visser",
+          "Romain Fontugne"
+        ]
+      },
+      {
+        "title": "Network Anatomy and Real-Time Measurement of Nvidia GeForce NOW Cloud Gaming.",
+        "authors": [
+          "Minzhao Lyu",
+          "Sharat Chandra Madanapalli",
+          "Arun Vishwanath",
+          "Vijay Sivaraman"
+        ]
+      },
+      {
+        "title": "Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet.",
+        "authors": [
+          "Liang Zhao",
+          "Satoru Kobayashi",
+          "Kensuke Fukuda"
+        ]
+      },
+      {
+        "title": "A First Look at NAT64 Deployment In-The-Wild.",
+        "authors": [
+          "Amanda Hsu",
+          "Frank Li",
+          "Paul Pearce",
+          "Oliver Gasser"
+        ]
+      },
+      {
+        "title": "Dom-BERT: Detecting Malicious Domains with Pre-training Model.",
+        "authors": [
+          "Yu Tian",
+          "Zhenyu Li"
+        ]
+      },
+      {
+        "title": "Data Augmentation for Traffic Classification.",
+        "authors": [
+          "Chao Wang",
+          "Alessandro Finamore",
+          "Pietro Michiardi",
+          "Massimo Gallo",
+          "Dario Rossi"
+        ]
+      },
+      {
+        "title": "Towards Improving Outage Detection with Multiple Probing Protocols.",
+        "authors": [
+          "Manasvini Sethuraman",
+          "Zachary S. Bischof",
+          "Alberto Dainotti"
+        ]
+      },
+      {
+        "title": "WHOIS Right? An Analysis of WHOIS and RDAP Consistency.",
+        "authors": [
+          "Simon Fernandez",
+          "Olivier Hureau",
+          "Andrzej Duda",
+          "Maciej Korczynski"
+        ]
+      },
+      {
+        "title": "Spoofed Emails: An Analysis of the Issues Hindering a Larger Deployment of DMARC.",
+        "authors": [
+          "Olivier Hureau",
+          "Jan Bayer",
+          "Andrzej Duda",
+          "Maciej Korczynski"
+        ]
+      },
+      {
+        "title": "Designing a Lightweight Network Observability Agent for Cloud Applications.",
+        "authors": [
+          "Pravein Govindan Kannan",
+          "Shachee Mishra Gupta",
+          "Dushyant Behl",
+          "Eran Raichstein",
+          "Joel Takvorian"
+        ]
+      },
+      {
+        "title": "Crawling to the Top: An Empirical Evaluation of Top List Use.",
+        "authors": [
+          "Qinge Xie",
+          "Frank Li"
         ]
       }
     ]

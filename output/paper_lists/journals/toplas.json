@@ -602,9 +602,160 @@
       }
     ]
   },
+  "https://dblp.org/db/journals/toplas/toplas43.html": {
+    "header": "ACM Transactions on Programming Languages and Systems, Volume 43",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Robustly Safe Compilation, an Efficient Form of Secure Compilation.",
+        "authors": [
+          "Marco Patrignani",
+          "Deepak Garg"
+        ]
+      },
+      {
+        "title": "CSim2: Compositional Top-down Verification of Concurrent Systems using Rely-Guarantee.",
+        "authors": [
+          "David Sanán",
+          "Yongwang Zhao",
+          "Shang-Wei Lin",
+          "Yang Liu"
+        ]
+      },
+      {
+        "title": "A Lightweight Formalism for Reference Lifetimes and Borrowing in Rust.",
+        "authors": [
+          "David J. Pearce"
+        ]
+      },
+      {
+        "title": "Polymorphic Iterable Sequential Effect Systems.",
+        "authors": [
+          "Colin S. Gordon"
+        ]
+      },
+      {
+        "title": "Ranking and Repulsing Supermartingales for Reachability in Randomized Programs.",
+        "authors": [
+          "Toru Takisaka",
+          "Yuichiro Oyabu",
+          "Natsuki Urabe",
+          "Ichiro Hasuo"
+        ]
+      },
+      {
+        "title": "A Programming Language for Data Privacy with Accuracy Estimations.",
+        "authors": [
+          "Elisabet Lobo Vesga",
+          "Alejandro Russo",
+          "Marco Gaboardi"
+        ]
+      },
+      {
+        "title": "On Polymorphic Sessions and Functions: A Tale of Two (Fully Abstract) Encodings.",
+        "authors": [
+          "Bernardo Toninho",
+          "Nobuko Yoshida"
+        ]
+      },
+      {
+        "title": "Armed Cats: Formal Concurrency Modelling at Arm.",
+        "authors": [
+          "Jade Alglave",
+          "Will Deacon",
+          "Richard Grisenthwaite",
+          "Antoine Hacquard",
+          "Luc Maranget"
+        ]
+      },
+      {
+        "title": "Compositional Programming.",
+        "authors": [
+          "Weixin Zhang",
+          "Yaozhu Sun",
+          "Bruno C. d. S. Oliveira"
+        ]
+      },
+      {
+        "title": "Safe-by-default Concurrency for Modern Programming Languages.",
+        "authors": [
+          "Lun Liu",
+          "Todd D. Millstein",
+          "Madanlal Musuvathi"
+        ]
+      },
+      {
+        "title": "A Fresh Look at Zones and Octagons.",
+        "authors": [
+          "Graeme Gange",
+          "Zequn Ma",
+          "Jorge A. Navas",
+          "Peter Schachte",
+          "Harald Søndergaard",
+          "Peter J. Stuckey"
+        ]
+      },
+      {
+        "title": "Securing Interruptible Enclaved Execution on Small Microprocessors.",
+        "authors": [
+          "Matteo Busi",
+          "Job Noorman",
+          "Jo Van Bulck",
+          "Letterio Galletta",
+          "Pierpaolo Degano",
+          "Jan Tobias Mühlberg",
+          "Frank Piessens"
+        ]
+      },
+      {
+        "title": "Introduction to the Special Section on ESOP 2020.",
+        "authors": [
+          "Peter Müller"
+        ]
+      },
+      {
+        "title": "An Extended Account of Trace-relating Compiler Correctness and Secure Compilation.",
+        "authors": [
+          "Carmine Abate",
+          "Roberto Blanco",
+          "Stefan Ciobaca",
+          "Adrien Durier",
+          "Deepak Garg",
+          "Catalin Hritcu",
+          "Marco Patrignani",
+          "Éric Tanter",
+          "Jérémy Thibault"
+        ]
+      },
+      {
+        "title": "RustHorn: CHC-based Verification for Rust Programs.",
+        "authors": [
+          "Yusuke Matsushita",
+          "Takeshi Tsukada",
+          "Naoki Kobayashi"
+        ]
+      },
+      {
+        "title": "TaDA Live: Compositional Reasoning for Termination of Fine-grained Concurrent Programs.",
+        "authors": [
+          "Emanuele D'Osualdo",
+          "Julian Sutherland",
+          "Azadeh Farzan",
+          "Philippa Gardner"
+        ]
+      },
+      {
+        "title": "Completeness and Complexity of Reasoning about Call-by-Value in Hoare Logic.",
+        "authors": [
+          "Frank S. de Boer",
+          "Hans-Dieter A. Hiep"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/toplas/toplas42.html": {
     "header": "ACM Transactions on Programming Languages and Systems, Volume 42",
-    "year": "2021,2020",
+    "year": "2020,2021",
     "papers": [
       {
         "title": "Introduction to the Special Issue on ESOP 2018.",
@@ -758,157 +909,6 @@
         "authors": [
           "Abu Naser Masud",
           "Björn Lisper"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/journals/toplas/toplas43.html": {
-    "header": "ACM Transactions on Programming Languages and Systems, Volume 43",
-    "year": "2021",
-    "papers": [
-      {
-        "title": "Robustly Safe Compilation, an Efficient Form of Secure Compilation.",
-        "authors": [
-          "Marco Patrignani",
-          "Deepak Garg"
-        ]
-      },
-      {
-        "title": "CSim2: Compositional Top-down Verification of Concurrent Systems using Rely-Guarantee.",
-        "authors": [
-          "David Sanán",
-          "Yongwang Zhao",
-          "Shang-Wei Lin",
-          "Yang Liu"
-        ]
-      },
-      {
-        "title": "A Lightweight Formalism for Reference Lifetimes and Borrowing in Rust.",
-        "authors": [
-          "David J. Pearce"
-        ]
-      },
-      {
-        "title": "Polymorphic Iterable Sequential Effect Systems.",
-        "authors": [
-          "Colin S. Gordon"
-        ]
-      },
-      {
-        "title": "Ranking and Repulsing Supermartingales for Reachability in Randomized Programs.",
-        "authors": [
-          "Toru Takisaka",
-          "Yuichiro Oyabu",
-          "Natsuki Urabe",
-          "Ichiro Hasuo"
-        ]
-      },
-      {
-        "title": "A Programming Language for Data Privacy with Accuracy Estimations.",
-        "authors": [
-          "Elisabet Lobo Vesga",
-          "Alejandro Russo",
-          "Marco Gaboardi"
-        ]
-      },
-      {
-        "title": "On Polymorphic Sessions and Functions: A Tale of Two (Fully Abstract) Encodings.",
-        "authors": [
-          "Bernardo Toninho",
-          "Nobuko Yoshida"
-        ]
-      },
-      {
-        "title": "Armed Cats: Formal Concurrency Modelling at Arm.",
-        "authors": [
-          "Jade Alglave",
-          "Will Deacon",
-          "Richard Grisenthwaite",
-          "Antoine Hacquard",
-          "Luc Maranget"
-        ]
-      },
-      {
-        "title": "Compositional Programming.",
-        "authors": [
-          "Weixin Zhang",
-          "Yaozhu Sun",
-          "Bruno C. d. S. Oliveira"
-        ]
-      },
-      {
-        "title": "Safe-by-default Concurrency for Modern Programming Languages.",
-        "authors": [
-          "Lun Liu",
-          "Todd D. Millstein",
-          "Madanlal Musuvathi"
-        ]
-      },
-      {
-        "title": "A Fresh Look at Zones and Octagons.",
-        "authors": [
-          "Graeme Gange",
-          "Zequn Ma",
-          "Jorge A. Navas",
-          "Peter Schachte",
-          "Harald Søndergaard",
-          "Peter J. Stuckey"
-        ]
-      },
-      {
-        "title": "Securing Interruptible Enclaved Execution on Small Microprocessors.",
-        "authors": [
-          "Matteo Busi",
-          "Job Noorman",
-          "Jo Van Bulck",
-          "Letterio Galletta",
-          "Pierpaolo Degano",
-          "Jan Tobias Mühlberg",
-          "Frank Piessens"
-        ]
-      },
-      {
-        "title": "Introduction to the Special Section on ESOP 2020.",
-        "authors": [
-          "Peter Müller"
-        ]
-      },
-      {
-        "title": "An Extended Account of Trace-relating Compiler Correctness and Secure Compilation.",
-        "authors": [
-          "Carmine Abate",
-          "Roberto Blanco",
-          "Stefan Ciobaca",
-          "Adrien Durier",
-          "Deepak Garg",
-          "Catalin Hritcu",
-          "Marco Patrignani",
-          "Éric Tanter",
-          "Jérémy Thibault"
-        ]
-      },
-      {
-        "title": "RustHorn: CHC-based Verification for Rust Programs.",
-        "authors": [
-          "Yusuke Matsushita",
-          "Takeshi Tsukada",
-          "Naoki Kobayashi"
-        ]
-      },
-      {
-        "title": "TaDA Live: Compositional Reasoning for Termination of Fine-grained Concurrent Programs.",
-        "authors": [
-          "Emanuele D'Osualdo",
-          "Julian Sutherland",
-          "Azadeh Farzan",
-          "Philippa Gardner"
-        ]
-      },
-      {
-        "title": "Completeness and Complexity of Reasoning about Call-by-Value in Hoare Logic.",
-        "authors": [
-          "Frank S. de Boer",
-          "Hans-Dieter A. Hiep"
         ]
       }
     ]
@@ -1610,7 +1610,7 @@
   },
   "https://dblp.org/db/journals/toplas/toplas37.html": {
     "header": "ACM Transactions on Programming Languages and Systems, Volume 37",
-    "year": "2015,2014",
+    "year": "2014,2015",
     "papers": [
       {
         "title": "Editorial.",
@@ -2304,7 +2304,7 @@
   },
   "https://dblp.org/db/journals/toplas/toplas32.html": {
     "header": "ACM Transactions on Programming Languages and Systems (TOPLAS), Volume 32",
-    "year": "2010,2009",
+    "year": "2009,2010",
     "papers": [
       {
         "title": "Dependence clusters in source code.",
@@ -2707,7 +2707,7 @@
   },
   "https://dblp.org/db/journals/toplas/toplas30.html": {
     "header": "ACM Transactions on Programming Languages and Systems (TOPLAS), Volume 30",
-    "year": "2008,2007",
+    "year": "2007,2008",
     "papers": [
       {
         "title": "Heap reference analysis using access graphs.",

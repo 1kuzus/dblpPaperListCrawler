@@ -1,178 +1,135 @@
 {
-  "https://dblp.org/db/conf/acns/acns2025-1.html": {
-    "header": "23rd ACNS 2025: Munich, Germany - Part I",
+  "https://dblp.org/db/conf/acns/acns2025-3.html": {
+    "header": "23rd ACNS 2025: Munich, Germany - Part III",
     "year": "2025",
     "papers": [
       {
-        "title": "Registered Matchmaking Encryption.",
+        "title": "Everlasting Fully Dynamic Group Signatures.",
         "authors": [
-          "Danilo Francati",
-          "Valeria Huang",
-          "Daniele Venturi"
+          "Yimeng He",
+          "San Ling",
+          "Khai Hanh Tang",
+          "Huaxiong Wang"
         ]
       },
       {
-        "title": "Sum-Preserving Encryption: Improved Bounds and Constructions for Long Vectors.",
+        "title": "From ElGamal to Lattice-Based: Enhancing Helios Voting with Quantum-Safe Cryptography.",
         "authors": [
-          "Sarah Miracle",
-          "Scott Yilek"
+          "João Pedro Cardoso Barbosa",
+          "Gustavo Zambonin",
+          "Thaís Bardini Idalino",
+          "Ricardo Felipe Custódio"
         ]
       },
       {
-        "title": "Fully Secure Searchable Encryption from PRFs, Pairings, and Lattices.",
+        "title": "Post-Quantum Cryptography for Linux File System Integrity.",
         "authors": [
-          "Hirotomo Shinoki",
-          "Hisayoshi Sato",
-          "Masayuki Yoshino"
+          "Johannes Wiesböck",
+          "Maximiliane Münch",
+          "Michael Weiß"
         ]
       },
       {
-        "title": "Pre-constructed Publicly Verifiable Secret Sharing and Applications.",
+        "title": "sf SEBioID: Secure and Efficient Biometric Identification with Two-Party Computation.",
         "authors": [
-          "Karim Baghery",
-          "Noah Knapen",
-          "Georgio Nicolas",
+          "Fuyi Wang",
+          "Jinzhi Ouyang",
+          "Leo Yu Zhang",
+          "Lei Pan",
+          "Shengshan Hu",
+          "Robin Doss",
+          "Jianying Zhou"
+        ]
+      },
+      {
+        "title": "SoK: Continuous Authentication Beyond Error Rates: Reviewing General System Properties.",
+        "authors": [
+          "Florian Dehling",
+          "Sebastian Kawelke",
+          "Luigi Lo Iacono"
+        ]
+      },
+      {
+        "title": "Cancelable Biometrics Based on Cosine Locality Sensitive Hashing and Grouped Inner Product Transformation for Real-Valued Features.",
+        "authors": [
+          "Ruoqi Zhang",
+          "Yulin Ni",
+          "Peisong Shen",
+          "Xue Tian",
+          "Yuepeng E"
+        ]
+      },
+      {
+        "title": "PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks.",
+        "authors": [
           "Mahdi Rahimi"
         ]
       },
       {
-        "title": "HCC: A Language-Independent Hardening Contract Compiler for Smart Contracts.",
+        "title": "ProvDP: Differential Privacy for System Provenance Dataset.",
         "authors": [
-          "Jens-Rene Giesen",
-          "Sébastien Andreina",
-          "Michael Rodler",
-          "Ghassan Karame",
-          "Lucas Davi"
+          "Kunal Mukherjee",
+          "Jonathan Yu",
+          "Partha De",
+          "Dinil Mon Divakaran"
         ]
       },
       {
-        "title": "Double Auction Meets Blockchain: Consensus from Scored Bid-Assignment.",
+        "title": "A New Quadratic Noisy Functional Encryption Scheme and Its Application for Privacy Preserving Machine Learning.",
         "authors": [
-          "Xiangyu Su",
-          "Xavier Défago",
-          "Mario Larangeira",
-          "Kazuyuki Mori",
-          "Takuya Oda",
-          "Yasumasa Tamura",
-          "Keisuke Tanaka"
+          "Jasmin Zalonis",
+          "Linda Scheu-Hachtel",
+          "Frederik Armknecht"
         ]
       },
       {
-        "title": "SoK: Measuring Blockchain Decentralization.",
+        "title": "FNSA: An Adaptive Privacy Protection Model for Trajectory Data.",
         "authors": [
-          "Christina Ovezik",
-          "Dimitris Karakostas",
-          "Mary Milad",
-          "Daniel W. Woods",
-          "Aggelos Kiayias"
+          "Jin Shang",
+          "Zhengyou Xia"
         ]
       },
       {
-        "title": "Automated Selfish Mining Analysis for DAG-Based PoW Consensus Protocols.",
+        "title": "SPPM: A Stackelberg Game-Based Personalized Privacy-Preserving Model in Mobile Crowdsensing Systems.",
         "authors": [
-          "Patrik Keller"
+          "Jinhui Jiao",
+          "Zhengyou Xia"
         ]
       },
       {
-        "title": "Sassafras: Efficient Batch Single Leader Election.",
+        "title": "Homomorphic WiSARDs: Efficient Weightless Neural Network Training over Encrypted Data.",
         "authors": [
-          "Jeffrey Burdges",
-          "Elizabeth Crites",
-          "Handan Kilinç Alper",
-          "Alistair Stewart",
-          "Sergey Vasilyev"
+          "Leonardo Neumann",
+          "Antonio Guimarães",
+          "Diego F. Aranha",
+          "Edson Borin"
         ]
       },
       {
-        "title": "Oblivious Suffix Sorting: A Multi-Party Computation Scheme for Secure and Efficient Suffix Sorting.",
+        "title": "LaserGuider: A Laser Based Physical Backdoor Attack Against Deep Neural Networks.",
         "authors": [
-          "Kota Isayama",
-          "Koki Jimbo",
-          "Naohiro Okamoto",
-          "Kunihiko Sadakane",
-          "Kazunari Tozawa"
+          "Yongjie Xu",
+          "Guangke Chen",
+          "Fu Song",
+          "Yuqi Chen"
         ]
       },
       {
-        "title": "Share&Shrink: Efficient and Delegatable MPC in One Broadcast then Asynchrony.",
+        "title": "Recovering S-Box Design Structures and Quantifying Distances Between S-Boxes Using Deep Learning.",
         "authors": [
-          "Antoine Urban",
-          "Matthieu Rambaud"
+          "Donggeun Kwon",
+          "Deukjo Hong",
+          "Jaechul Sung",
+          "Seokhie Hong"
         ]
       },
       {
-        "title": "Delayed-Input Multi-party Computation.",
+        "title": "Obfuscation for Deep Neural Networks Against Model Extraction: Attack Taxonomy and Defense Optimization.",
         "authors": [
-          "Michele Ciampi",
-          "Jure Sternad",
-          "Yu Xia"
-        ]
-      },
-      {
-        "title": "Quantum-Safe Public Key Blinding from MPC-in-the-Head Signature Schemes.",
-        "authors": [
-          "Sathvika Balumuri",
-          "Edward Eaton",
-          "Philippe Lamontagne"
-        ]
-      },
-      {
-        "title": "Opening Pandora's Packet: Expose IPv6 Implementations Vulnerabilities Using Differential Fuzzing.",
-        "authors": [
-          "Enrico Bassetti",
-          "Edoardo Di Paolo",
-          "Francesco Drago",
-          "Mauro Conti",
-          "Angelo Spognardi"
-        ]
-      },
-      {
-        "title": "TAU: Trust via Asynchronous Updates for Satellite Network Resiliency.",
-        "authors": [
-          "Quincy Bayer",
-          "Robert Esswein",
-          "Samuel Mergendahl",
-          "Jonathan Ruffley",
-          "Mai Abdelhakim",
-          "Robert K. Cunningham"
-        ]
-      },
-      {
-        "title": "Spilling-Cascade: An Optimal PKE Combiner for KEM Hybridization.",
-        "authors": [
-          "Céline Chevalier",
-          "Guirec Lebrun",
-          "Ange Martinelli"
-        ]
-      },
-      {
-        "title": "Distributed Asynchronous Remote Key Generation.",
-        "authors": [
-          "Mark Manulis",
-          "Hugo Nartz"
-        ]
-      },
-      {
-        "title": "Anonymous Authenticated Key Exchange.",
-        "authors": [
-          "José Ignacio Escribano Pablos",
-          "María Isabel González Vasco",
-          "Angel L. Pérez del Pozo",
-          "Claudio Soriente"
-        ]
-      },
-      {
-        "title": "Key Recovery Attacks on Unpatched MEGA from Four Queries: Solving Approximate Divisor Problem with Help of Approximation of Squared Divisor.",
-        "authors": [
-          "Naoki Shimoe",
-          "Noboru Kunihiro"
-        ]
-      },
-      {
-        "title": "Tighter Provable Security for TreeKEM.",
-        "authors": [
-          "Karen Azari",
-          "Andreas Ellison"
+          "Yulian Sun",
+          "Vedant Bonde",
+          "Li Duan",
+          "Yong Li"
         ]
       }
     ]
@@ -359,137 +316,180 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/acns/acns2025-3.html": {
-    "header": "23rd ACNS 2025: Munich, Germany - Part III",
+  "https://dblp.org/db/conf/acns/acns2025-1.html": {
+    "header": "23rd ACNS 2025: Munich, Germany - Part I",
     "year": "2025",
     "papers": [
       {
-        "title": "Everlasting Fully Dynamic Group Signatures.",
+        "title": "Registered Matchmaking Encryption.",
         "authors": [
-          "Yimeng He",
-          "San Ling",
-          "Khai Hanh Tang",
-          "Huaxiong Wang"
+          "Danilo Francati",
+          "Valeria Huang",
+          "Daniele Venturi"
         ]
       },
       {
-        "title": "From ElGamal to Lattice-Based: Enhancing Helios Voting with Quantum-Safe Cryptography.",
+        "title": "Sum-Preserving Encryption: Improved Bounds and Constructions for Long Vectors.",
         "authors": [
-          "João Pedro Cardoso Barbosa",
-          "Gustavo Zambonin",
-          "Thaís Bardini Idalino",
-          "Ricardo Felipe Custódio"
+          "Sarah Miracle",
+          "Scott Yilek"
         ]
       },
       {
-        "title": "Post-Quantum Cryptography for Linux File System Integrity.",
+        "title": "Fully Secure Searchable Encryption from PRFs, Pairings, and Lattices.",
         "authors": [
-          "Johannes Wiesböck",
-          "Maximiliane Münch",
-          "Michael Weiß"
+          "Hirotomo Shinoki",
+          "Hisayoshi Sato",
+          "Masayuki Yoshino"
         ]
       },
       {
-        "title": "sf SEBioID: Secure and Efficient Biometric Identification with Two-Party Computation.",
+        "title": "Pre-constructed Publicly Verifiable Secret Sharing and Applications.",
         "authors": [
-          "Fuyi Wang",
-          "Jinzhi Ouyang",
-          "Leo Yu Zhang",
-          "Lei Pan",
-          "Shengshan Hu",
-          "Robin Doss",
-          "Jianying Zhou"
-        ]
-      },
-      {
-        "title": "SoK: Continuous Authentication Beyond Error Rates: Reviewing General System Properties.",
-        "authors": [
-          "Florian Dehling",
-          "Sebastian Kawelke",
-          "Luigi Lo Iacono"
-        ]
-      },
-      {
-        "title": "Cancelable Biometrics Based on Cosine Locality Sensitive Hashing and Grouped Inner Product Transformation for Real-Valued Features.",
-        "authors": [
-          "Ruoqi Zhang",
-          "Yulin Ni",
-          "Peisong Shen",
-          "Xue Tian",
-          "Yuepeng E"
-        ]
-      },
-      {
-        "title": "PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks.",
-        "authors": [
+          "Karim Baghery",
+          "Noah Knapen",
+          "Georgio Nicolas",
           "Mahdi Rahimi"
         ]
       },
       {
-        "title": "ProvDP: Differential Privacy for System Provenance Dataset.",
+        "title": "HCC: A Language-Independent Hardening Contract Compiler for Smart Contracts.",
         "authors": [
-          "Kunal Mukherjee",
-          "Jonathan Yu",
-          "Partha De",
-          "Dinil Mon Divakaran"
+          "Jens-Rene Giesen",
+          "Sébastien Andreina",
+          "Michael Rodler",
+          "Ghassan Karame",
+          "Lucas Davi"
         ]
       },
       {
-        "title": "A New Quadratic Noisy Functional Encryption Scheme and Its Application for Privacy Preserving Machine Learning.",
+        "title": "Double Auction Meets Blockchain: Consensus from Scored Bid-Assignment.",
         "authors": [
-          "Jasmin Zalonis",
-          "Linda Scheu-Hachtel",
-          "Frederik Armknecht"
+          "Xiangyu Su",
+          "Xavier Défago",
+          "Mario Larangeira",
+          "Kazuyuki Mori",
+          "Takuya Oda",
+          "Yasumasa Tamura",
+          "Keisuke Tanaka"
         ]
       },
       {
-        "title": "FNSA: An Adaptive Privacy Protection Model for Trajectory Data.",
+        "title": "SoK: Measuring Blockchain Decentralization.",
         "authors": [
-          "Jin Shang",
-          "Zhengyou Xia"
+          "Christina Ovezik",
+          "Dimitris Karakostas",
+          "Mary Milad",
+          "Daniel W. Woods",
+          "Aggelos Kiayias"
         ]
       },
       {
-        "title": "SPPM: A Stackelberg Game-Based Personalized Privacy-Preserving Model in Mobile Crowdsensing Systems.",
+        "title": "Automated Selfish Mining Analysis for DAG-Based PoW Consensus Protocols.",
         "authors": [
-          "Jinhui Jiao",
-          "Zhengyou Xia"
+          "Patrik Keller"
         ]
       },
       {
-        "title": "Homomorphic WiSARDs: Efficient Weightless Neural Network Training over Encrypted Data.",
+        "title": "Sassafras: Efficient Batch Single Leader Election.",
         "authors": [
-          "Leonardo Neumann",
-          "Antonio Guimarães",
-          "Diego F. Aranha",
-          "Edson Borin"
+          "Jeffrey Burdges",
+          "Elizabeth Crites",
+          "Handan Kilinç Alper",
+          "Alistair Stewart",
+          "Sergey Vasilyev"
         ]
       },
       {
-        "title": "LaserGuider: A Laser Based Physical Backdoor Attack Against Deep Neural Networks.",
+        "title": "Oblivious Suffix Sorting: A Multi-Party Computation Scheme for Secure and Efficient Suffix Sorting.",
         "authors": [
-          "Yongjie Xu",
-          "Guangke Chen",
-          "Fu Song",
-          "Yuqi Chen"
+          "Kota Isayama",
+          "Koki Jimbo",
+          "Naohiro Okamoto",
+          "Kunihiko Sadakane",
+          "Kazunari Tozawa"
         ]
       },
       {
-        "title": "Recovering S-Box Design Structures and Quantifying Distances Between S-Boxes Using Deep Learning.",
+        "title": "Share&Shrink: Efficient and Delegatable MPC in One Broadcast then Asynchrony.",
         "authors": [
-          "Donggeun Kwon",
-          "Deukjo Hong",
-          "Jaechul Sung",
-          "Seokhie Hong"
+          "Antoine Urban",
+          "Matthieu Rambaud"
         ]
       },
       {
-        "title": "Obfuscation for Deep Neural Networks Against Model Extraction: Attack Taxonomy and Defense Optimization.",
+        "title": "Delayed-Input Multi-party Computation.",
         "authors": [
-          "Yulian Sun",
-          "Vedant Bonde",
-          "Li Duan",
-          "Yong Li"
+          "Michele Ciampi",
+          "Jure Sternad",
+          "Yu Xia"
+        ]
+      },
+      {
+        "title": "Quantum-Safe Public Key Blinding from MPC-in-the-Head Signature Schemes.",
+        "authors": [
+          "Sathvika Balumuri",
+          "Edward Eaton",
+          "Philippe Lamontagne"
+        ]
+      },
+      {
+        "title": "Opening Pandora's Packet: Expose IPv6 Implementations Vulnerabilities Using Differential Fuzzing.",
+        "authors": [
+          "Enrico Bassetti",
+          "Edoardo Di Paolo",
+          "Francesco Drago",
+          "Mauro Conti",
+          "Angelo Spognardi"
+        ]
+      },
+      {
+        "title": "TAU: Trust via Asynchronous Updates for Satellite Network Resiliency.",
+        "authors": [
+          "Quincy Bayer",
+          "Robert Esswein",
+          "Samuel Mergendahl",
+          "Jonathan Ruffley",
+          "Mai Abdelhakim",
+          "Robert K. Cunningham"
+        ]
+      },
+      {
+        "title": "Spilling-Cascade: An Optimal PKE Combiner for KEM Hybridization.",
+        "authors": [
+          "Céline Chevalier",
+          "Guirec Lebrun",
+          "Ange Martinelli"
+        ]
+      },
+      {
+        "title": "Distributed Asynchronous Remote Key Generation.",
+        "authors": [
+          "Mark Manulis",
+          "Hugo Nartz"
+        ]
+      },
+      {
+        "title": "Anonymous Authenticated Key Exchange.",
+        "authors": [
+          "José Ignacio Escribano Pablos",
+          "María Isabel González Vasco",
+          "Angel L. Pérez del Pozo",
+          "Claudio Soriente"
+        ]
+      },
+      {
+        "title": "Key Recovery Attacks on Unpatched MEGA from Four Queries: Solving Approximate Divisor Problem with Help of Approximation of Squared Divisor.",
+        "authors": [
+          "Naoki Shimoe",
+          "Noboru Kunihiro"
+        ]
+      },
+      {
+        "title": "Tighter Provable Security for TreeKEM.",
+        "authors": [
+          "Karen Azari",
+          "Andreas Ellison"
         ]
       }
     ]
@@ -2259,6 +2259,335 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/acns/acns2022w.html": {
+    "header": "20th ACNS 2022: Rome, Italy - Workshops",
+    "year": "2022",
+    "papers": [
+      {
+        "title": "Universal Physical Adversarial Attack via Background Image.",
+        "authors": [
+          "Yidan Xu",
+          "Juan Wang",
+          "Yuanzhang Li",
+          "Yajie Wang",
+          "Zixuan Xu",
+          "Dianxin Wang"
+        ]
+      },
+      {
+        "title": "Efficient Verifiable Boolean Range Query for Light Clients on Blockchain Database.",
+        "authors": [
+          "Jianpeng Gong",
+          "Jiaojiao Wu",
+          "Jianfeng Wang",
+          "Shichong Tan"
+        ]
+      },
+      {
+        "title": "SuppliedTrust: A Trusted Blockchain Architecture for Supply Chains.",
+        "authors": [
+          "Lim Yong Zhi",
+          "Jianying Zhou",
+          "Martin Saerbeck"
+        ]
+      },
+      {
+        "title": "Towards Interpreting Vulnerability of Object Detection Models via Adversarial Distillation.",
+        "authors": [
+          "Yaoyuan Zhang",
+          "Yu-an Tan",
+          "Mingfeng Lu",
+          "Lu Liu",
+          "Quanxin Zhang",
+          "Yuanzhang Li",
+          "Dianxin Wang"
+        ]
+      },
+      {
+        "title": "Vulnerability Detection for Smart Contract via Backward Bayesian Active Learning.",
+        "authors": [
+          "Jiale Zhang",
+          "Liangqiong Tu",
+          "Jie Cai",
+          "Xiaobing Sun",
+          "Bin Li",
+          "Weitong Chen",
+          "Yu Wang"
+        ]
+      },
+      {
+        "title": "A Multi-agent Deep Reinforcement Learning-Based Collaborative Willingness Network for Automobile Maintenance Service.",
+        "authors": [
+          "Shengang Hao",
+          "Jun Zheng",
+          "Jie Yang",
+          "Ziwei Ni",
+          "Quanxin Zhang",
+          "Li Zhang"
+        ]
+      },
+      {
+        "title": "Hybrid Isolation Model for Device Application Sandboxing Deployment in Zero Trust Architecture.",
+        "authors": [
+          "Jingci Zhang",
+          "Jun Zheng",
+          "Zheng Zhang",
+          "Tian Chen",
+          "Kefan Qiu",
+          "Quanxin Zhang",
+          "Yuanzhang Li"
+        ]
+      },
+      {
+        "title": "On the Effect of Clock Frequency on Voltage and Electromagnetic Fault Injection.",
+        "authors": [
+          "Stefanos Koffas",
+          "Praveen Kumar Vadnala"
+        ]
+      },
+      {
+        "title": "S-box Pooling: Towards More Efficient Side-Channel Security Evaluations.",
+        "authors": [
+          "Yuanyuan Zhou",
+          "François-Xavier Standaert"
+        ]
+      },
+      {
+        "title": "Deep Learning-Based Side-Channel Analysis Against AES Inner Rounds.",
+        "authors": [
+          "Sudharshan Swaminathan",
+          "Lukasz Chmielewski",
+          "Guilherme Perin",
+          "Stjepan Picek"
+        ]
+      },
+      {
+        "title": "A Side-Channel Based Disassembler for the ARM-Cortex M0.",
+        "authors": [
+          "Jurian van Geest",
+          "Ileana Buhan"
+        ]
+      },
+      {
+        "title": "Towards Isolated AI Accelerators with OP-TEE on SoC-FPGAs.",
+        "authors": [
+          "Tsunato Nakai",
+          "Daisuke Suzuki",
+          "Takeshi Fujino"
+        ]
+      },
+      {
+        "title": "Order vs. Chaos: Multi-trunk Classifier for Side-Channel Attack.",
+        "authors": [
+          "Praveen Kulkarni",
+          "Vincent Verneuil"
+        ]
+      },
+      {
+        "title": "Framework for Calculating Residual Cybersecurity Risk of Threats to Road Vehicles in Alignment with ISO/SAE 21434.",
+        "authors": [
+          "Ahmed Nawaz Khan",
+          "Jeremy W. Bryans",
+          "Giedre Sabaliauskaite"
+        ]
+      },
+      {
+        "title": "Output Prediction Attacks on Block Ciphers Using Deep Learning.",
+        "authors": [
+          "Hayato Kimura",
+          "Keita Emura",
+          "Takanori Isobe",
+          "Ryoma Ito",
+          "Kazuto Ogawa",
+          "Toshihiro Ohigashi"
+        ]
+      },
+      {
+        "title": "HolA: Holistic and Autonomous Attestation for IoT Networks.",
+        "authors": [
+          "Alessandro Visintin",
+          "Flavio Toffalini",
+          "Eleonora Losiouk",
+          "Mauro Conti",
+          "Jianying Zhou"
+        ]
+      },
+      {
+        "title": "The Etiology of Cybersecurity.",
+        "authors": [
+          "Michele Ambrosi",
+          "Francesco Beltramini",
+          "Federico De Meo",
+          "Oliviero Nardi",
+          "Mattia Pacchin",
+          "Marco Rocchetto"
+        ]
+      },
+      {
+        "title": "Outsider Key Compromise Impersonation Attack on a Multi-factor Authenticated Key Exchange Protocol.",
+        "authors": [
+          "Zhiqiang Ma",
+          "Jun He"
+        ]
+      },
+      {
+        "title": "Toward Safe Integration of Legacy SCADA Systems in the Smart Grid.",
+        "authors": [
+          "Aldar C.-F. Chan",
+          "Jianying Zhou"
+        ]
+      },
+      {
+        "title": "RATLS: Integrating Transport Layer Security with Remote Attestation.",
+        "authors": [
+          "Robert Walther",
+          "Carsten Weinhold",
+          "Michael Roitzsch"
+        ]
+      },
+      {
+        "title": "DLPFS: The Data Leakage Prevention FileSystem.",
+        "authors": [
+          "Stefano Braghin",
+          "Marco Simioni",
+          "Mathieu Sinn"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Record Linkage Using Local Sensitive Hash and Private Set Intersection.",
+        "authors": [
+          "Allon Adir",
+          "Ehud Aharoni",
+          "Nir Drucker",
+          "Eyal Kushnir",
+          "Ramy Masalha",
+          "Michael Mirkin",
+          "Omri Soceanu"
+        ]
+      },
+      {
+        "title": "UniqueChain: Achieving (Near) Optimal Transaction Settlement Time via Single Leader Election.",
+        "authors": [
+          "Peifang Ni",
+          "Jing Xu"
+        ]
+      },
+      {
+        "title": "PEPEC: Precomputed ECC Points Embedded in Certificates and Verified by CT Log Servers.",
+        "authors": [
+          "Guangshen Cheng",
+          "Jiankuo Dong",
+          "Xinyi Ji",
+          "Bingyu Li",
+          "Haoling Fan",
+          "Pinchang Zhang"
+        ]
+      },
+      {
+        "title": "Efficient Software Implementation of GMT6-672 and GMT8-542 Pairing-Friendly Curves for a 128-Bit Security Level.",
+        "authors": [
+          "Zihao Song",
+          "Junichi Sakamoto",
+          "Shigeo Mitsunari",
+          "Naoki Yoshida",
+          "Riku Anzai",
+          "Tsutomu Matsumoto"
+        ]
+      },
+      {
+        "title": "Leaky Blinders: Information Leakage in Mobile VPNs.",
+        "authors": [
+          "Thijs Heijligenberg",
+          "Oualid Lkhaouni",
+          "Katharina Kohls"
+        ]
+      },
+      {
+        "title": "Instrumentation Blueprints: Towards Combining Several Android Instrumentation Tools.",
+        "authors": [
+          "Arthur van der Staaij",
+          "Olga Gadyatskaya"
+        ]
+      },
+      {
+        "title": "A Siamese Neural Network for Scalable Behavioral Biometrics Authentication.",
+        "authors": [
+          "Jesus Solano",
+          "Esteban Rivera",
+          "Lizzy Tengana",
+          "Christian Lopez",
+          "Johana Flórez",
+          "Martín Ochoa"
+        ]
+      },
+      {
+        "title": "A Methodology for Training Homomorphic Encryption Friendly Neural Networks.",
+        "authors": [
+          "Moran Baruch",
+          "Nir Drucker",
+          "Lev Greenberg",
+          "Guy Moshkowich"
+        ]
+      },
+      {
+        "title": "Scalable and Secure HTML5 Canvas-Based User Authentication.",
+        "authors": [
+          "Esteban Rivera",
+          "Lizzy Tengana",
+          "Jesus Solano",
+          "Christian Lopez",
+          "Johana Flórez",
+          "Martín Ochoa"
+        ]
+      },
+      {
+        "title": "Android Malware Detection Using BERT.",
+        "authors": [
+          "Badr Souani",
+          "Ahmed Khanfir",
+          "Alexandre Bartel",
+          "Kevin Allix",
+          "Yves Le Traon"
+        ]
+      },
+      {
+        "title": "POSTER: A Transparent Remote Quantum Random Number Generator over a Quantum-Safe Link.",
+        "authors": [
+          "Sergejs Kozlovics",
+          "Juris Viksna"
+        ]
+      },
+      {
+        "title": "POSTER: Enabling User-Accountable Mechanisms in Decision Systems.",
+        "authors": [
+          "Rosario Giustolisi",
+          "Carsten Schürmann"
+        ]
+      },
+      {
+        "title": "Poster: Key Generation Scheme Based on Physical Layer.",
+        "authors": [
+          "Hong Zhao",
+          "Chunhua Su"
+        ]
+      },
+      {
+        "title": "POSTER: ODABE: Outsourced Decentralized CP-ABE in Internet of Things.",
+        "authors": [
+          "Mohammed B. Alshawki",
+          "Péter Ligeti",
+          "Christoph Reich"
+        ]
+      },
+      {
+        "title": "POSTER: Ransomware Detection Mechanism - Current State of the Project.",
+        "authors": [
+          "Michal Glet",
+          "Kamil Kaczynski"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/acns/acns2022.html": {
     "header": "20th ACNS 2022: Rome, Italy",
     "year": "2022",
@@ -2636,335 +2965,6 @@
           "Joseph K. Liu",
           "Ron Steinfeld",
           "Amin Sakzad"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/acns/acns2022w.html": {
-    "header": "20th ACNS 2022: Rome, Italy - Workshops",
-    "year": "2022",
-    "papers": [
-      {
-        "title": "Universal Physical Adversarial Attack via Background Image.",
-        "authors": [
-          "Yidan Xu",
-          "Juan Wang",
-          "Yuanzhang Li",
-          "Yajie Wang",
-          "Zixuan Xu",
-          "Dianxin Wang"
-        ]
-      },
-      {
-        "title": "Efficient Verifiable Boolean Range Query for Light Clients on Blockchain Database.",
-        "authors": [
-          "Jianpeng Gong",
-          "Jiaojiao Wu",
-          "Jianfeng Wang",
-          "Shichong Tan"
-        ]
-      },
-      {
-        "title": "SuppliedTrust: A Trusted Blockchain Architecture for Supply Chains.",
-        "authors": [
-          "Lim Yong Zhi",
-          "Jianying Zhou",
-          "Martin Saerbeck"
-        ]
-      },
-      {
-        "title": "Towards Interpreting Vulnerability of Object Detection Models via Adversarial Distillation.",
-        "authors": [
-          "Yaoyuan Zhang",
-          "Yu-an Tan",
-          "Mingfeng Lu",
-          "Lu Liu",
-          "Quanxin Zhang",
-          "Yuanzhang Li",
-          "Dianxin Wang"
-        ]
-      },
-      {
-        "title": "Vulnerability Detection for Smart Contract via Backward Bayesian Active Learning.",
-        "authors": [
-          "Jiale Zhang",
-          "Liangqiong Tu",
-          "Jie Cai",
-          "Xiaobing Sun",
-          "Bin Li",
-          "Weitong Chen",
-          "Yu Wang"
-        ]
-      },
-      {
-        "title": "A Multi-agent Deep Reinforcement Learning-Based Collaborative Willingness Network for Automobile Maintenance Service.",
-        "authors": [
-          "Shengang Hao",
-          "Jun Zheng",
-          "Jie Yang",
-          "Ziwei Ni",
-          "Quanxin Zhang",
-          "Li Zhang"
-        ]
-      },
-      {
-        "title": "Hybrid Isolation Model for Device Application Sandboxing Deployment in Zero Trust Architecture.",
-        "authors": [
-          "Jingci Zhang",
-          "Jun Zheng",
-          "Zheng Zhang",
-          "Tian Chen",
-          "Kefan Qiu",
-          "Quanxin Zhang",
-          "Yuanzhang Li"
-        ]
-      },
-      {
-        "title": "On the Effect of Clock Frequency on Voltage and Electromagnetic Fault Injection.",
-        "authors": [
-          "Stefanos Koffas",
-          "Praveen Kumar Vadnala"
-        ]
-      },
-      {
-        "title": "S-box Pooling: Towards More Efficient Side-Channel Security Evaluations.",
-        "authors": [
-          "Yuanyuan Zhou",
-          "François-Xavier Standaert"
-        ]
-      },
-      {
-        "title": "Deep Learning-Based Side-Channel Analysis Against AES Inner Rounds.",
-        "authors": [
-          "Sudharshan Swaminathan",
-          "Lukasz Chmielewski",
-          "Guilherme Perin",
-          "Stjepan Picek"
-        ]
-      },
-      {
-        "title": "A Side-Channel Based Disassembler for the ARM-Cortex M0.",
-        "authors": [
-          "Jurian van Geest",
-          "Ileana Buhan"
-        ]
-      },
-      {
-        "title": "Towards Isolated AI Accelerators with OP-TEE on SoC-FPGAs.",
-        "authors": [
-          "Tsunato Nakai",
-          "Daisuke Suzuki",
-          "Takeshi Fujino"
-        ]
-      },
-      {
-        "title": "Order vs. Chaos: Multi-trunk Classifier for Side-Channel Attack.",
-        "authors": [
-          "Praveen Kulkarni",
-          "Vincent Verneuil"
-        ]
-      },
-      {
-        "title": "Framework for Calculating Residual Cybersecurity Risk of Threats to Road Vehicles in Alignment with ISO/SAE 21434.",
-        "authors": [
-          "Ahmed Nawaz Khan",
-          "Jeremy W. Bryans",
-          "Giedre Sabaliauskaite"
-        ]
-      },
-      {
-        "title": "Output Prediction Attacks on Block Ciphers Using Deep Learning.",
-        "authors": [
-          "Hayato Kimura",
-          "Keita Emura",
-          "Takanori Isobe",
-          "Ryoma Ito",
-          "Kazuto Ogawa",
-          "Toshihiro Ohigashi"
-        ]
-      },
-      {
-        "title": "HolA: Holistic and Autonomous Attestation for IoT Networks.",
-        "authors": [
-          "Alessandro Visintin",
-          "Flavio Toffalini",
-          "Eleonora Losiouk",
-          "Mauro Conti",
-          "Jianying Zhou"
-        ]
-      },
-      {
-        "title": "The Etiology of Cybersecurity.",
-        "authors": [
-          "Michele Ambrosi",
-          "Francesco Beltramini",
-          "Federico De Meo",
-          "Oliviero Nardi",
-          "Mattia Pacchin",
-          "Marco Rocchetto"
-        ]
-      },
-      {
-        "title": "Outsider Key Compromise Impersonation Attack on a Multi-factor Authenticated Key Exchange Protocol.",
-        "authors": [
-          "Zhiqiang Ma",
-          "Jun He"
-        ]
-      },
-      {
-        "title": "Toward Safe Integration of Legacy SCADA Systems in the Smart Grid.",
-        "authors": [
-          "Aldar C.-F. Chan",
-          "Jianying Zhou"
-        ]
-      },
-      {
-        "title": "RATLS: Integrating Transport Layer Security with Remote Attestation.",
-        "authors": [
-          "Robert Walther",
-          "Carsten Weinhold",
-          "Michael Roitzsch"
-        ]
-      },
-      {
-        "title": "DLPFS: The Data Leakage Prevention FileSystem.",
-        "authors": [
-          "Stefano Braghin",
-          "Marco Simioni",
-          "Mathieu Sinn"
-        ]
-      },
-      {
-        "title": "Privacy-Preserving Record Linkage Using Local Sensitive Hash and Private Set Intersection.",
-        "authors": [
-          "Allon Adir",
-          "Ehud Aharoni",
-          "Nir Drucker",
-          "Eyal Kushnir",
-          "Ramy Masalha",
-          "Michael Mirkin",
-          "Omri Soceanu"
-        ]
-      },
-      {
-        "title": "UniqueChain: Achieving (Near) Optimal Transaction Settlement Time via Single Leader Election.",
-        "authors": [
-          "Peifang Ni",
-          "Jing Xu"
-        ]
-      },
-      {
-        "title": "PEPEC: Precomputed ECC Points Embedded in Certificates and Verified by CT Log Servers.",
-        "authors": [
-          "Guangshen Cheng",
-          "Jiankuo Dong",
-          "Xinyi Ji",
-          "Bingyu Li",
-          "Haoling Fan",
-          "Pinchang Zhang"
-        ]
-      },
-      {
-        "title": "Efficient Software Implementation of GMT6-672 and GMT8-542 Pairing-Friendly Curves for a 128-Bit Security Level.",
-        "authors": [
-          "Zihao Song",
-          "Junichi Sakamoto",
-          "Shigeo Mitsunari",
-          "Naoki Yoshida",
-          "Riku Anzai",
-          "Tsutomu Matsumoto"
-        ]
-      },
-      {
-        "title": "Leaky Blinders: Information Leakage in Mobile VPNs.",
-        "authors": [
-          "Thijs Heijligenberg",
-          "Oualid Lkhaouni",
-          "Katharina Kohls"
-        ]
-      },
-      {
-        "title": "Instrumentation Blueprints: Towards Combining Several Android Instrumentation Tools.",
-        "authors": [
-          "Arthur van der Staaij",
-          "Olga Gadyatskaya"
-        ]
-      },
-      {
-        "title": "A Siamese Neural Network for Scalable Behavioral Biometrics Authentication.",
-        "authors": [
-          "Jesus Solano",
-          "Esteban Rivera",
-          "Lizzy Tengana",
-          "Christian Lopez",
-          "Johana Flórez",
-          "Martín Ochoa"
-        ]
-      },
-      {
-        "title": "A Methodology for Training Homomorphic Encryption Friendly Neural Networks.",
-        "authors": [
-          "Moran Baruch",
-          "Nir Drucker",
-          "Lev Greenberg",
-          "Guy Moshkowich"
-        ]
-      },
-      {
-        "title": "Scalable and Secure HTML5 Canvas-Based User Authentication.",
-        "authors": [
-          "Esteban Rivera",
-          "Lizzy Tengana",
-          "Jesus Solano",
-          "Christian Lopez",
-          "Johana Flórez",
-          "Martín Ochoa"
-        ]
-      },
-      {
-        "title": "Android Malware Detection Using BERT.",
-        "authors": [
-          "Badr Souani",
-          "Ahmed Khanfir",
-          "Alexandre Bartel",
-          "Kevin Allix",
-          "Yves Le Traon"
-        ]
-      },
-      {
-        "title": "POSTER: A Transparent Remote Quantum Random Number Generator over a Quantum-Safe Link.",
-        "authors": [
-          "Sergejs Kozlovics",
-          "Juris Viksna"
-        ]
-      },
-      {
-        "title": "POSTER: Enabling User-Accountable Mechanisms in Decision Systems.",
-        "authors": [
-          "Rosario Giustolisi",
-          "Carsten Schürmann"
-        ]
-      },
-      {
-        "title": "Poster: Key Generation Scheme Based on Physical Layer.",
-        "authors": [
-          "Hong Zhao",
-          "Chunhua Su"
-        ]
-      },
-      {
-        "title": "POSTER: ODABE: Outsourced Decentralized CP-ABE in Internet of Things.",
-        "authors": [
-          "Mohammed B. Alshawki",
-          "Péter Ligeti",
-          "Christoph Reich"
-        ]
-      },
-      {
-        "title": "POSTER: Ransomware Detection Mechanism - Current State of the Project.",
-        "authors": [
-          "Michal Glet",
-          "Kamil Kaczynski"
         ]
       }
     ]
@@ -3548,204 +3548,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/acns/acns2020-2.html": {
-    "header": "18th ACNS 2020: Rome, Italy - Part II",
-    "year": "2020",
-    "papers": [
-      {
-        "title": "A Breach into the Authentication with Built-in Camera (ABC) Protocol.",
-        "authors": [
-          "Cezara Benegui",
-          "Radu Tudor Ionescu"
-        ]
-      },
-      {
-        "title": "A Practical System for Privacy-Preserving Video Surveillance.",
-        "authors": [
-          "Elmahdi Bentafat",
-          "M. Mazhar Rathore",
-          "Spiridon Bakiras"
-        ]
-      },
-      {
-        "title": "Biometric-Authenticated Searchable Encryption.",
-        "authors": [
-          "Daniel Gardham",
-          "Mark Manulis",
-          "Constantin Catalin Dragan"
-        ]
-      },
-      {
-        "title": "\\(\\mathsf {BioLocker}\\): A Practical Biometric Authentication Mechanism Based on 3D Fingervein.",
-        "authors": [
-          "F. Betül Durak",
-          "Loïs Huguenin-Dumittan",
-          "Serge Vaudenay"
-        ]
-      },
-      {
-        "title": "Accelerating Forward and Backward Private Searchable Encryption Using Trusted Execution.",
-        "authors": [
-          "Viet Vo",
-          "Shangqi Lai",
-          "Xingliang Yuan",
-          "Shifeng Sun",
-          "Surya Nepal",
-          "Joseph K. Liu"
-        ]
-      },
-      {
-        "title": "Cluster-Based Anonymization of Knowledge Graphs.",
-        "authors": [
-          "Anh-Tu Hoang",
-          "Barbara Carminati",
-          "Elena Ferrari"
-        ]
-      },
-      {
-        "title": "Same Point Composable and Nonmalleable Obfuscated Point Functions.",
-        "authors": [
-          "Peter Fenteany",
-          "Benjamin Fuller"
-        ]
-      },
-      {
-        "title": "A Concise Bounded Anonymous Broadcast Yielding Combinatorial Trace-and-Revoke Schemes.",
-        "authors": [
-          "Xuan Thanh Do",
-          "Duong Hieu Phan",
-          "Moti Yung"
-        ]
-      },
-      {
-        "title": "Multi-Device for Signal.",
-        "authors": [
-          "Sébastien Campion",
-          "Julien Devigne",
-          "Céline Duguey",
-          "Pierre-Alain Fouque"
-        ]
-      },
-      {
-        "title": "On the Cryptographic Deniability of the Signal Protocol.",
-        "authors": [
-          "Nihal Vatandas",
-          "Rosario Gennaro",
-          "Bertrand Ithurburn",
-          "Hugo Krawczyk"
-        ]
-      },
-      {
-        "title": "Powerless Security.",
-        "authors": [
-          "Stefan Hoffmann",
-          "Jens Müller",
-          "Jörg Schwenk",
-          "Gerd Bumiller"
-        ]
-      },
-      {
-        "title": "Watching the Weak Link into Your Home: An Inspection and Monitoring Toolkit for TR-069.",
-        "authors": [
-          "Maximilian Hils",
-          "Rainer Böhme"
-        ]
-      },
-      {
-        "title": "The Naked Sun: Malicious Cooperation Between Benign-Looking Processes.",
-        "authors": [
-          "Fabio De Gaspari",
-          "Dorjan Hitaj",
-          "Giulio Pagnotta",
-          "Lorenzo De Carli",
-          "Luigi V. Mancini"
-        ]
-      },
-      {
-        "title": "Quality Evaluation of Cyber Threat Intelligence Feeds.",
-        "authors": [
-          "Harm Griffioen",
-          "Tim M. Booij",
-          "Christian Doerr"
-        ]
-      },
-      {
-        "title": "Game Theory-Based Approach for Defense Against APTs.",
-        "authors": [
-          "Juan E. Rubio",
-          "Cristina Alcaraz",
-          "Javier López"
-        ]
-      },
-      {
-        "title": "MemShield: GPU-Assisted Software Memory Encryption.",
-        "authors": [
-          "Pierpaolo Santucci",
-          "Emiliano Ingrassia",
-          "Giulio Picierro",
-          "Marco Cesati"
-        ]
-      },
-      {
-        "title": "Super Root: A New Stealthy Rooting Technique on ARM Devices.",
-        "authors": [
-          "Zhangkai Zhang",
-          "Yueqiang Cheng",
-          "Zhoujun Li"
-        ]
-      },
-      {
-        "title": "Towards Automated Augmentation and Instrumentation of Legacy Cryptographic Executables.",
-        "authors": [
-          "Karim Eldefrawy",
-          "Michael E. Locasto",
-          "Norrathep Rattanavipanon",
-          "Hassen Saïdi"
-        ]
-      },
-      {
-        "title": "When TLS Meets Proxy on Mobile.",
-        "authors": [
-          "Joyanta Debnath",
-          "Sze Yiu Chau",
-          "Omar Chowdhury"
-        ]
-      },
-      {
-        "title": "Human Factors in Homograph Attack Recognition.",
-        "authors": [
-          "Tran Phuong Thao",
-          "Yukiko Sawaya",
-          "Hoang-Quoc Nguyen-Son",
-          "Akira Yamada",
-          "Ayumu Kubota",
-          "Tran Van Sang",
-          "Rie Shigetomi Yamaguchi"
-        ]
-      },
-      {
-        "title": "Publicly Evaluatable Perceptual Hashing.",
-        "authors": [
-          "Rosario Gennaro",
-          "David Hadaller",
-          "Tahereh Jafarikhah",
-          "Zhuobang Liu",
-          "William E. Skeith III",
-          "Anastasiia Timashova"
-        ]
-      },
-      {
-        "title": "TrollThrottle - Raising the Cost of Astroturfing.",
-        "authors": [
-          "Ilkan Esiyok",
-          "Lucjan Hanzlik",
-          "Robert Künnemann",
-          "Lena Marie Budde",
-          "Michael Backes"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/acns/acns2020w.html": {
     "header": "18th ACNS 2020: Rome, Italy - Workshops",
     "year": "2020",
@@ -4014,6 +3816,204 @@
           "Minjune Hwang",
           "Jason Xinyu Liu",
           "David A. Wagner"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/acns/acns2020-2.html": {
+    "header": "18th ACNS 2020: Rome, Italy - Part II",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "A Breach into the Authentication with Built-in Camera (ABC) Protocol.",
+        "authors": [
+          "Cezara Benegui",
+          "Radu Tudor Ionescu"
+        ]
+      },
+      {
+        "title": "A Practical System for Privacy-Preserving Video Surveillance.",
+        "authors": [
+          "Elmahdi Bentafat",
+          "M. Mazhar Rathore",
+          "Spiridon Bakiras"
+        ]
+      },
+      {
+        "title": "Biometric-Authenticated Searchable Encryption.",
+        "authors": [
+          "Daniel Gardham",
+          "Mark Manulis",
+          "Constantin Catalin Dragan"
+        ]
+      },
+      {
+        "title": "\\(\\mathsf {BioLocker}\\): A Practical Biometric Authentication Mechanism Based on 3D Fingervein.",
+        "authors": [
+          "F. Betül Durak",
+          "Loïs Huguenin-Dumittan",
+          "Serge Vaudenay"
+        ]
+      },
+      {
+        "title": "Accelerating Forward and Backward Private Searchable Encryption Using Trusted Execution.",
+        "authors": [
+          "Viet Vo",
+          "Shangqi Lai",
+          "Xingliang Yuan",
+          "Shifeng Sun",
+          "Surya Nepal",
+          "Joseph K. Liu"
+        ]
+      },
+      {
+        "title": "Cluster-Based Anonymization of Knowledge Graphs.",
+        "authors": [
+          "Anh-Tu Hoang",
+          "Barbara Carminati",
+          "Elena Ferrari"
+        ]
+      },
+      {
+        "title": "Same Point Composable and Nonmalleable Obfuscated Point Functions.",
+        "authors": [
+          "Peter Fenteany",
+          "Benjamin Fuller"
+        ]
+      },
+      {
+        "title": "A Concise Bounded Anonymous Broadcast Yielding Combinatorial Trace-and-Revoke Schemes.",
+        "authors": [
+          "Xuan Thanh Do",
+          "Duong Hieu Phan",
+          "Moti Yung"
+        ]
+      },
+      {
+        "title": "Multi-Device for Signal.",
+        "authors": [
+          "Sébastien Campion",
+          "Julien Devigne",
+          "Céline Duguey",
+          "Pierre-Alain Fouque"
+        ]
+      },
+      {
+        "title": "On the Cryptographic Deniability of the Signal Protocol.",
+        "authors": [
+          "Nihal Vatandas",
+          "Rosario Gennaro",
+          "Bertrand Ithurburn",
+          "Hugo Krawczyk"
+        ]
+      },
+      {
+        "title": "Powerless Security.",
+        "authors": [
+          "Stefan Hoffmann",
+          "Jens Müller",
+          "Jörg Schwenk",
+          "Gerd Bumiller"
+        ]
+      },
+      {
+        "title": "Watching the Weak Link into Your Home: An Inspection and Monitoring Toolkit for TR-069.",
+        "authors": [
+          "Maximilian Hils",
+          "Rainer Böhme"
+        ]
+      },
+      {
+        "title": "The Naked Sun: Malicious Cooperation Between Benign-Looking Processes.",
+        "authors": [
+          "Fabio De Gaspari",
+          "Dorjan Hitaj",
+          "Giulio Pagnotta",
+          "Lorenzo De Carli",
+          "Luigi V. Mancini"
+        ]
+      },
+      {
+        "title": "Quality Evaluation of Cyber Threat Intelligence Feeds.",
+        "authors": [
+          "Harm Griffioen",
+          "Tim M. Booij",
+          "Christian Doerr"
+        ]
+      },
+      {
+        "title": "Game Theory-Based Approach for Defense Against APTs.",
+        "authors": [
+          "Juan E. Rubio",
+          "Cristina Alcaraz",
+          "Javier López"
+        ]
+      },
+      {
+        "title": "MemShield: GPU-Assisted Software Memory Encryption.",
+        "authors": [
+          "Pierpaolo Santucci",
+          "Emiliano Ingrassia",
+          "Giulio Picierro",
+          "Marco Cesati"
+        ]
+      },
+      {
+        "title": "Super Root: A New Stealthy Rooting Technique on ARM Devices.",
+        "authors": [
+          "Zhangkai Zhang",
+          "Yueqiang Cheng",
+          "Zhoujun Li"
+        ]
+      },
+      {
+        "title": "Towards Automated Augmentation and Instrumentation of Legacy Cryptographic Executables.",
+        "authors": [
+          "Karim Eldefrawy",
+          "Michael E. Locasto",
+          "Norrathep Rattanavipanon",
+          "Hassen Saïdi"
+        ]
+      },
+      {
+        "title": "When TLS Meets Proxy on Mobile.",
+        "authors": [
+          "Joyanta Debnath",
+          "Sze Yiu Chau",
+          "Omar Chowdhury"
+        ]
+      },
+      {
+        "title": "Human Factors in Homograph Attack Recognition.",
+        "authors": [
+          "Tran Phuong Thao",
+          "Yukiko Sawaya",
+          "Hoang-Quoc Nguyen-Son",
+          "Akira Yamada",
+          "Ayumu Kubota",
+          "Tran Van Sang",
+          "Rie Shigetomi Yamaguchi"
+        ]
+      },
+      {
+        "title": "Publicly Evaluatable Perceptual Hashing.",
+        "authors": [
+          "Rosario Gennaro",
+          "David Hadaller",
+          "Tahereh Jafarikhah",
+          "Zhuobang Liu",
+          "William E. Skeith III",
+          "Anastasiia Timashova"
+        ]
+      },
+      {
+        "title": "TrollThrottle - Raising the Cost of Astroturfing.",
+        "authors": [
+          "Ilkan Esiyok",
+          "Lucjan Hanzlik",
+          "Robert Künnemann",
+          "Lena Marie Budde",
+          "Michael Backes"
         ]
       }
     ]

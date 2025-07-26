@@ -1,4 +1,109 @@
 {
+  "https://dblp.org/db/conf/sacrypt/sacrypt2024-2.html": {
+    "header": "31st SAC 2024: Montreal, QC, Canada - Part II",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "Generic Security of the Ascon Mode: On the Power of Key Blinding.",
+        "authors": [
+          "Charlotte Lefevre",
+          "Bart Mennink"
+        ]
+      },
+      {
+        "title": "Fast Parallelizable Misuse-Resistant Authenticated Encryption - Low Latency (Decryption-Fast) SIV.",
+        "authors": [
+          "Mustafa Khairallah"
+        ]
+      },
+      {
+        "title": "Provably Secure Online Authenticated Encryption and Bidirectional Online Channels.",
+        "authors": [
+          "Arghya Bhattacharjee",
+          "Ritam Bhaumik",
+          "Daniel Collins",
+          "Mridul Nandi"
+        ]
+      },
+      {
+        "title": "Classical and Quantum Generic Attacks on 6-Round Feistel Schemes.",
+        "authors": [
+          "Maya Chartouny",
+          "Benoît Cogliati",
+          "Jacques Patarin"
+        ]
+      },
+      {
+        "title": "Weightwise (Almost) Perfectly Balanced Functions Based on Total Orders.",
+        "authors": [
+          "Pierrick Méaux"
+        ]
+      },
+      {
+        "title": "Generalized Triangular Dynamical System: An Algebraic System for Constructing Cryptographic Permutations over Finite Fields.",
+        "authors": [
+          "Arnab Roy",
+          "Matthias Johann Steiner"
+        ]
+      },
+      {
+        "title": "A Univariate Attack Against the Limited-Data Instance of Ciminion.",
+        "authors": [
+          "Augustin Bariant"
+        ]
+      },
+      {
+        "title": "Improved Algebraic Attacks on Round-Reduced LowMC with Single-Data Complexity.",
+        "authors": [
+          "Xingwei Ren",
+          "Yongqiang Li",
+          "Mingsheng Wang"
+        ]
+      },
+      {
+        "title": "Minimize the Randomness in Rasta-Like Designs: How Far Can We Go? - Application to Pasta.",
+        "authors": [
+          "Lorenzo Grassi",
+          "Fukang Liu",
+          "Christian Rechberger",
+          "Fabian Schmid",
+          "Roman Walch",
+          "Qingju Wang"
+        ]
+      },
+      {
+        "title": "Koala: A Low-Latency Pseudorandom Function.",
+        "authors": [
+          "Parisa Amiri-Eliasi",
+          "Yanis Belkheyar",
+          "Joan Daemen",
+          "Santosh Ghosh",
+          "Daniël Kuijsters",
+          "Alireza Mehrdad",
+          "Silvia Mella",
+          "Shahram Rasoolzadeh",
+          "Gilles Van Assche"
+        ]
+      },
+      {
+        "title": "Modular Multiplication in the AMNS Representation: Hardware Implementation.",
+        "authors": [
+          "Louis Noyez",
+          "Nadia El Mrabet",
+          "Olivier Potin",
+          "Pascal Véron"
+        ]
+      },
+      {
+        "title": "Train Wisely: Multifidelity Bayesian Optimization Hyperparameter Tuning in Deep Learning-Based Side-Channel Analysis.",
+        "authors": [
+          "Trevor Yap",
+          "Shivam Bhasin",
+          "Léo Weissbart"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/sacrypt/sacrypt2024-1.html": {
     "header": "31st SAC 2024: Montreal, QC, Canada - Part I",
     "year": "2024",
@@ -111,111 +216,6 @@
           "Aikaterini Mitrokotsa",
           "Sayantan Mukherjee",
           "Jenit Tomy"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sacrypt/sacrypt2024-2.html": {
-    "header": "31st SAC 2024: Montreal, QC, Canada - Part II",
-    "year": "2024",
-    "papers": [
-      {
-        "title": "Generic Security of the Ascon Mode: On the Power of Key Blinding.",
-        "authors": [
-          "Charlotte Lefevre",
-          "Bart Mennink"
-        ]
-      },
-      {
-        "title": "Fast Parallelizable Misuse-Resistant Authenticated Encryption - Low Latency (Decryption-Fast) SIV.",
-        "authors": [
-          "Mustafa Khairallah"
-        ]
-      },
-      {
-        "title": "Provably Secure Online Authenticated Encryption and Bidirectional Online Channels.",
-        "authors": [
-          "Arghya Bhattacharjee",
-          "Ritam Bhaumik",
-          "Daniel Collins",
-          "Mridul Nandi"
-        ]
-      },
-      {
-        "title": "Classical and Quantum Generic Attacks on 6-Round Feistel Schemes.",
-        "authors": [
-          "Maya Chartouny",
-          "Benoît Cogliati",
-          "Jacques Patarin"
-        ]
-      },
-      {
-        "title": "Weightwise (Almost) Perfectly Balanced Functions Based on Total Orders.",
-        "authors": [
-          "Pierrick Méaux"
-        ]
-      },
-      {
-        "title": "Generalized Triangular Dynamical System: An Algebraic System for Constructing Cryptographic Permutations over Finite Fields.",
-        "authors": [
-          "Arnab Roy",
-          "Matthias Johann Steiner"
-        ]
-      },
-      {
-        "title": "A Univariate Attack Against the Limited-Data Instance of Ciminion.",
-        "authors": [
-          "Augustin Bariant"
-        ]
-      },
-      {
-        "title": "Improved Algebraic Attacks on Round-Reduced LowMC with Single-Data Complexity.",
-        "authors": [
-          "Xingwei Ren",
-          "Yongqiang Li",
-          "Mingsheng Wang"
-        ]
-      },
-      {
-        "title": "Minimize the Randomness in Rasta-Like Designs: How Far Can We Go? - Application to Pasta.",
-        "authors": [
-          "Lorenzo Grassi",
-          "Fukang Liu",
-          "Christian Rechberger",
-          "Fabian Schmid",
-          "Roman Walch",
-          "Qingju Wang"
-        ]
-      },
-      {
-        "title": "Koala: A Low-Latency Pseudorandom Function.",
-        "authors": [
-          "Parisa Amiri-Eliasi",
-          "Yanis Belkheyar",
-          "Joan Daemen",
-          "Santosh Ghosh",
-          "Daniël Kuijsters",
-          "Alireza Mehrdad",
-          "Silvia Mella",
-          "Shahram Rasoolzadeh",
-          "Gilles Van Assche"
-        ]
-      },
-      {
-        "title": "Modular Multiplication in the AMNS Representation: Hardware Implementation.",
-        "authors": [
-          "Louis Noyez",
-          "Nadia El Mrabet",
-          "Olivier Potin",
-          "Pascal Véron"
-        ]
-      },
-      {
-        "title": "Train Wisely: Multifidelity Bayesian Optimization Hyperparameter Tuning in Deep Learning-Based Side-Channel Analysis.",
-        "authors": [
-          "Trevor Yap",
-          "Shivam Bhasin",
-          "Léo Weissbart"
         ]
       }
     ]

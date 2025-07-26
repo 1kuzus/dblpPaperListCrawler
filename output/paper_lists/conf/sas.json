@@ -1187,6 +1187,38 @@
       }
     ]
   },
+  "https://dblp.org/db/journals/entcs/entcs334.html": {
+    "header": "7th NSAD@SAS 2017: New York City, NY, USA",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Preface.",
+        "authors": [
+          "Francesca Scozzari"
+        ]
+      },
+      {
+        "title": "Experimental Evaluation of Numerical Domains for Inferring Ranges.",
+        "authors": [
+          "Gianluca Amato",
+          "Marco Rubino"
+        ]
+      },
+      {
+        "title": "Fuzzy Set Abstraction.",
+        "authors": [
+          "Jacob Lidman",
+          "Josef Svenningsson"
+        ]
+      },
+      {
+        "title": "On the Efficiency of Convex Polyhedra.",
+        "authors": [
+          "Enea Zaffanella"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/sas/sas2017.html": {
     "header": "24th SAS 2017: New York, NY, USA",
     "year": "2017",
@@ -1362,34 +1394,47 @@
       }
     ]
   },
-  "https://dblp.org/db/journals/entcs/entcs334.html": {
-    "header": "7th NSAD@SAS 2017: New York City, NY, USA",
-    "year": "2017",
+  "https://dblp.org/db/journals/entcs/entcs331.html": {
+    "header": "6th NSAD@SAS 2016: Edinburgh, UK",
+    "year": "2016",
     "papers": [
       {
         "title": "Preface.",
         "authors": [
-          "Francesca Scozzari"
+          "Isabella Mastroeni"
         ]
       },
       {
-        "title": "Experimental Evaluation of Numerical Domains for Inferring Ranges.",
+        "title": "Static Analysis of Embedded Real-Time Concurrent Software with Dynamic Priorities.",
         "authors": [
-          "Gianluca Amato",
-          "Marco Rubino"
+          "Antoine Miné"
         ]
       },
       {
-        "title": "Fuzzy Set Abstraction.",
+        "title": "Abstract Domains for Type Juggling.",
         "authors": [
-          "Jacob Lidman",
-          "Josef Svenningsson"
+          "Vincenzo Arceri",
+          "Sergio Maffeis"
         ]
       },
       {
-        "title": "On the Efficiency of Convex Polyhedra.",
+        "title": "Sparsity Preserving Algorithms for Octagons.",
         "authors": [
-          "Enea Zaffanella"
+          "Jacques-Henri Jourdan"
+        ]
+      },
+      {
+        "title": "Software Watermarking: A Semantics-based Approach.",
+        "authors": [
+          "Mila Dalla Preda",
+          "Michele Pasqua"
+        ]
+      },
+      {
+        "title": "Abstract Similarity Analysis.",
+        "authors": [
+          "Mila Dalla Preda",
+          "Vanessa Vidali"
         ]
       }
     ]
@@ -1578,51 +1623,6 @@
           "Tian Tan",
           "Yue Li",
           "Jingling Xue"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/journals/entcs/entcs331.html": {
-    "header": "6th NSAD@SAS 2016: Edinburgh, UK",
-    "year": "2016",
-    "papers": [
-      {
-        "title": "Preface.",
-        "authors": [
-          "Isabella Mastroeni"
-        ]
-      },
-      {
-        "title": "Static Analysis of Embedded Real-Time Concurrent Software with Dynamic Priorities.",
-        "authors": [
-          "Antoine Miné"
-        ]
-      },
-      {
-        "title": "Abstract Domains for Type Juggling.",
-        "authors": [
-          "Vincenzo Arceri",
-          "Sergio Maffeis"
-        ]
-      },
-      {
-        "title": "Sparsity Preserving Algorithms for Octagons.",
-        "authors": [
-          "Jacques-Henri Jourdan"
-        ]
-      },
-      {
-        "title": "Software Watermarking: A Semantics-based Approach.",
-        "authors": [
-          "Mila Dalla Preda",
-          "Michele Pasqua"
-        ]
-      },
-      {
-        "title": "Abstract Similarity Analysis.",
-        "authors": [
-          "Mila Dalla Preda",
-          "Vanessa Vidali"
         ]
       }
     ]
@@ -1979,6 +1979,35 @@
       }
     ]
   },
+  "https://dblp.org/db/journals/entcs/entcs311.html": {
+    "header": "4th TAPAS@SAS 2013: Seattle, WA, USA",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Preface.",
+        "authors": [
+          "Bor-Yuh Evan Chang"
+        ]
+      },
+      {
+        "title": "AnaDroid: Malware Analysis of Android with User-supplied Predicates.",
+        "authors": [
+          "Shuying Liang",
+          "Matthew Might",
+          "David Van Horn"
+        ]
+      },
+      {
+        "title": "PostHat and All That: Automating Abstract Interpretation.",
+        "authors": [
+          "Aditya V. Thakur",
+          "Akash Lal",
+          "Junghee Lim",
+          "Thomas W. Reps"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/sas/sas2013.html": {
     "header": "20. SAS 2013: Seattle, WA, USA",
     "year": "2013",
@@ -2181,31 +2210,55 @@
       }
     ]
   },
-  "https://dblp.org/db/journals/entcs/entcs311.html": {
-    "header": "4th TAPAS@SAS 2013: Seattle, WA, USA",
-    "year": "2013",
+  "https://dblp.org/db/journals/entcs/entcs289.html": {
+    "header": "3rd TAPAS@SAS 2012: Deauville, France",
+    "year": "2012",
     "papers": [
       {
         "title": "Preface.",
         "authors": [
-          "Bor-Yuh Evan Chang"
+          "Bertrand Jeannet"
         ]
       },
       {
-        "title": "AnaDroid: Malware Analysis of Android with User-supplied Predicates.",
+        "title": "High Performance Static Analysis for Industry.",
         "authors": [
-          "Shuying Liang",
-          "Matthew Might",
-          "David Van Horn"
+          "Mark Bradley",
+          "Franck Cassez",
+          "Ansgar Fehnker",
+          "Thomas Given-Wilson",
+          "Ralf Huuck"
         ]
       },
       {
-        "title": "PostHat and All That: Automating Abstract Interpretation.",
+        "title": "PAGAI: A Path Sensitive Static Analyser.",
         "authors": [
-          "Aditya V. Thakur",
-          "Akash Lal",
-          "Junghee Lim",
-          "Thomas W. Reps"
+          "Julien Henry",
+          "David Monniaux",
+          "Matthieu Moy"
+        ]
+      },
+      {
+        "title": "SMT for Polynomial Constraints on Real Numbers.",
+        "authors": [
+          "To Van Khanh",
+          "Mizuhito Ogawa"
+        ]
+      },
+      {
+        "title": "Normalisation of Loops with Covariant Variables.",
+        "authors": [
+          "Marianne De Michiel",
+          "Armelle Bonenfant",
+          "Hugues Cassé"
+        ]
+      },
+      {
+        "title": "GDSL: A Generic Decoder Specification Language for Interpreting Machine Language.",
+        "authors": [
+          "Alexander Sepp",
+          "Julian Kranz",
+          "Axel Simon"
         ]
       }
     ]
@@ -2507,54 +2560,62 @@
       }
     ]
   },
-  "https://dblp.org/db/journals/entcs/entcs289.html": {
-    "header": "3rd TAPAS@SAS 2012: Deauville, France",
-    "year": "2012",
+  "https://dblp.org/db/journals/entcs/entcs288.html": {
+    "header": "3rd NSAD@SAS 2011: Venice, Italy",
+    "year": "2011",
     "papers": [
       {
         "title": "Preface.",
         "authors": [
-          "Bertrand Jeannet"
+          "Damien Massé",
+          "Laurent Mauborgne"
         ]
       },
       {
-        "title": "High Performance Static Analysis for Industry.",
+        "title": "Fully Bounded Polyhedral Analysis of Integers with Wrapping.",
         "authors": [
-          "Mark Bradley",
-          "Franck Cassez",
-          "Ansgar Fehnker",
-          "Thomas Given-Wilson",
-          "Ralf Huuck"
+          "Stefan Bygde",
+          "Björn Lisper",
+          "Niklas Holsti"
         ]
       },
       {
-        "title": "PAGAI: A Path Sensitive Static Analyser.",
+        "title": "Checking Compatibility of Bit Sizes in Floating Point Comparison Operations.",
         "authors": [
-          "Julien Henry",
+          "Manuel Fähndrich",
+          "Francesco Logozzo"
+        ]
+      },
+      {
+        "title": "Sweeping in Abstract Interpretation.",
+        "authors": [
+          "Krzysztof Jakubczyk"
+        ]
+      },
+      {
+        "title": "Inferring Effective Types for Static Analysis of C Programs.",
+        "authors": [
+          "Bertrand Jeannet",
+          "Pascal Sotin"
+        ]
+      },
+      {
+        "title": "Convex Invariant Refinement by Control Node Splitting: a Heuristic Approach.",
+        "authors": [
+          "Vivien Maisonneuve"
+        ]
+      },
+      {
+        "title": "Stratified Static Analysis Based on Variable Dependencies.",
+        "authors": [
           "David Monniaux",
-          "Matthieu Moy"
+          "Julien Le Guen"
         ]
       },
       {
-        "title": "SMT for Polynomial Constraints on Real Numbers.",
+        "title": "Summarized Dimensions Revisited.",
         "authors": [
-          "To Van Khanh",
-          "Mizuhito Ogawa"
-        ]
-      },
-      {
-        "title": "Normalisation of Loops with Covariant Variables.",
-        "authors": [
-          "Marianne De Michiel",
-          "Armelle Bonenfant",
-          "Hugues Cassé"
-        ]
-      },
-      {
-        "title": "GDSL: A Generic Decoder Specification Language for Interpreting Machine Language.",
-        "authors": [
-          "Alexander Sepp",
-          "Julian Kranz",
+          "Holger Siegel",
           "Axel Simon"
         ]
       }
@@ -2770,63 +2831,52 @@
       }
     ]
   },
-  "https://dblp.org/db/journals/entcs/entcs288.html": {
-    "header": "3rd NSAD@SAS 2011: Venice, Italy",
-    "year": "2011",
+  "https://dblp.org/db/conf/tapas2/tapas2010.html": {
+    "header": "1st TAPAS@SAS 2010: Perpignan, France",
+    "year": "2010",
     "papers": [
       {
         "title": "Preface.",
         "authors": [
-          "Damien Massé",
-          "Laurent Mauborgne"
+          "David Delmas",
+          "Xavier Rival"
         ]
       },
       {
-        "title": "Fully Bounded Polyhedral Analysis of Integers with Wrapping.",
+        "title": "Accelerated Invariant Generation for C Programs with Aspic and C2fsm.",
         "authors": [
-          "Stefan Bygde",
-          "Björn Lisper",
-          "Niklas Holsti"
+          "Paul Feautrier",
+          "Laure Gonnord"
         ]
       },
       {
-        "title": "Checking Compatibility of Bit Sizes in Floating Point Comparison Operations.",
+        "title": "Explicit Versus Symbolic Algorithms for Solving ALFP Constraints.",
         "authors": [
-          "Manuel Fähndrich",
-          "Francesco Logozzo"
+          "Piotr Filipiuk",
+          "Hanne Riis Nielson",
+          "Flemming Nielson"
         ]
       },
       {
-        "title": "Sweeping in Abstract Interpretation.",
+        "title": "Some Experience on the Software Engineering of Abstract Interpretation Tools.",
         "authors": [
-          "Krzysztof Jakubczyk"
+          "Bertrand Jeannet"
         ]
       },
       {
-        "title": "Inferring Effective Types for Static Analysis of C Programs.",
+        "title": "The Interval Analysis of Multilinear Expressions.",
         "authors": [
-          "Bertrand Jeannet",
-          "Pascal Sotin"
+          "Cosimo Laneve",
+          "Tudor A. Lascu",
+          "Vania Sordoni"
         ]
       },
       {
-        "title": "Convex Invariant Refinement by Control Node Splitting: a Heuristic Approach.",
+        "title": "SMT-AI: an Abstract Interpreter as Oracle for k-induction.",
         "authors": [
-          "Vivien Maisonneuve"
-        ]
-      },
-      {
-        "title": "Stratified Static Analysis Based on Variable Dependencies.",
-        "authors": [
-          "David Monniaux",
-          "Julien Le Guen"
-        ]
-      },
-      {
-        "title": "Summarized Dimensions Revisited.",
-        "authors": [
-          "Holger Siegel",
-          "Axel Simon"
+          "Pierre Roux",
+          "Remi Delmas",
+          "Pierre-Loïc Garoche"
         ]
       }
     ]
@@ -3145,56 +3195,6 @@
           "Pascal Sotin",
           "Bertrand Jeannet",
           "Xavier Rival"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/tapas2/tapas2010.html": {
-    "header": "1st TAPAS@SAS 2010: Perpignan, France",
-    "year": "2010",
-    "papers": [
-      {
-        "title": "Preface.",
-        "authors": [
-          "David Delmas",
-          "Xavier Rival"
-        ]
-      },
-      {
-        "title": "Accelerated Invariant Generation for C Programs with Aspic and C2fsm.",
-        "authors": [
-          "Paul Feautrier",
-          "Laure Gonnord"
-        ]
-      },
-      {
-        "title": "Explicit Versus Symbolic Algorithms for Solving ALFP Constraints.",
-        "authors": [
-          "Piotr Filipiuk",
-          "Hanne Riis Nielson",
-          "Flemming Nielson"
-        ]
-      },
-      {
-        "title": "Some Experience on the Software Engineering of Abstract Interpretation Tools.",
-        "authors": [
-          "Bertrand Jeannet"
-        ]
-      },
-      {
-        "title": "The Interval Analysis of Multilinear Expressions.",
-        "authors": [
-          "Cosimo Laneve",
-          "Tudor A. Lascu",
-          "Vania Sordoni"
-        ]
-      },
-      {
-        "title": "SMT-AI: an Abstract Interpreter as Oracle for k-induction.",
-        "authors": [
-          "Pierre Roux",
-          "Remi Delmas",
-          "Pierre-Loïc Garoche"
         ]
       }
     ]

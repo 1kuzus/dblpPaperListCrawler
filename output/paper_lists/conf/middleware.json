@@ -1,4 +1,225 @@
 {
+  "https://dblp.org/db/conf/middleware/middleware2024p.html": {
+    "header": "Middleware Demos/Posters/Doctoral Symposium 2024:\nHong Kong, SAR, China",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "A Universal Graph Transaction-Log.",
+        "authors": [
+          "Luis Garcés-Erice",
+          "Enrico Toniato",
+          "Daniel Bauer",
+          "Peter Urbanetz",
+          "Sean Rooney"
+        ]
+      },
+      {
+        "title": "Zero-Setup Computation Offloading to Heterogeneous Volunteer Devices Using Web Browsers.",
+        "authors": [
+          "Anton Semjonov",
+          "Janick Edinger"
+        ]
+      },
+      {
+        "title": "SCALE-Ahead-Of-Time Compilation of CUDA for AMD GPUs.",
+        "authors": [
+          "Manos Pavlidakis",
+          "Chris Kitching",
+          "Nicholas Tomlinson",
+          "Michael Søndergaard"
+        ]
+      },
+      {
+        "title": "Userland Page Table - A Key for Transparent Persistent Memory.",
+        "authors": [
+          "Jana Toljaga",
+          "Nicolas Derumigny",
+          "Yohan Pipereau",
+          "Mathieu Bacou",
+          "Gaël Thomas"
+        ]
+      },
+      {
+        "title": "An LLM-driven Framework for Dynamic Infrastructure as Code Generation.",
+        "authors": [
+          "Junhee Lee",
+          "Sungjoo Kang",
+          "In-Young Ko"
+        ]
+      },
+      {
+        "title": "Fine-Grained CUDA Call Interception for GPU Virtualization.",
+        "authors": [
+          "Manos Pavlidakis",
+          "Anargyros Argyros",
+          "Stelios Mavridis",
+          "Giorgos Vasiliadis",
+          "Angelos Bilas"
+        ]
+      },
+      {
+        "title": "Grid-aware Energy Management by Data Center Workload Control Across Multiple Data Centers.",
+        "authors": [
+          "Yoji Ozawa",
+          "Satoshi Kaneko",
+          "Taku Okamura",
+          "Tetsu Moriwake",
+          "Yuichi Nabetani",
+          "Daiki Shimizu",
+          "Soichiro Kumagai"
+        ]
+      },
+      {
+        "title": "Towards Embracing Object Granularity in Tiered Memory Management for Big Data.",
+        "authors": [
+          "Maciej Kokocinski",
+          "Tadeusz Kobus",
+          "Krystian Chmielewski",
+          "Rafal Pyzik",
+          "Maciej Maciejewski"
+        ]
+      },
+      {
+        "title": "Creek: A Mixed-Consistency Replication Scheme.",
+        "authors": [
+          "Maciej Kokocinski",
+          "Tadeusz Kobus",
+          "Pawel T. Wojciechowski"
+        ]
+      },
+      {
+        "title": "Ripple: Large-Scale Service and Configuration Management in the Cloud.",
+        "authors": [
+          "Shuping Ji",
+          "Zhen Tang",
+          "Wei Wang",
+          "Hui Li",
+          "Jianguo Yao",
+          "Hans-Arno Jacobsen"
+        ]
+      },
+      {
+        "title": "Towards Resilience of Community-based Intrusion Detection.",
+        "authors": [
+          "Philipp Eichhammer"
+        ]
+      },
+      {
+        "title": "KDB: A Persistent Key-Value Data Store with Batch Updates and Snapshots.",
+        "authors": [
+          "Tadeusz Kobus",
+          "Maciej Kokocinski",
+          "Krzysztof Kortas",
+          "Pawel T. Wojciechowski"
+        ]
+      },
+      {
+        "title": "FDPVirt: Investigating the Behavior of FDP SSDs.",
+        "authors": [
+          "Joonyeop Park",
+          "Hyeonsang Eom"
+        ]
+      },
+      {
+        "title": "Comparative Analysis and Optimization of LoRA Adapter Co-serving for Large Language Models.",
+        "authors": [
+          "Jiaxuan Chen"
+        ]
+      },
+      {
+        "title": "Towards Interoperability of APIs - an LLM-based approach.",
+        "authors": [
+          "René Lehmann"
+        ]
+      },
+      {
+        "title": "Distributed Computation Offloading in Heterogeneous Edge Environments.",
+        "authors": [
+          "Anton Semjonov"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2024i.html": {
+    "header": "Middleware Industry 2024:\nHong Kong, SAR, China",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "A Conversational Assistant Framework for Automation.",
+        "authors": [
+          "Evelyn Duesterwald",
+          "Vatche Isahagian",
+          "K. R. Jayaram",
+          "Ritesh Kumar",
+          "Vinod Muthusamy",
+          "Punleuk Oum",
+          "Gegi Thomas",
+          "Praveen Venkateswaran"
+        ]
+      },
+      {
+        "title": "ColdPurge: Effecient Metadata Cache Cleaning via Accurate Online Data Hotness Tracking.",
+        "authors": [
+          "Yuhang Li",
+          "Rong Gu",
+          "Simian Li",
+          "Baohan Wang",
+          "Wei Yu"
+        ]
+      },
+      {
+        "title": "Serverful Functions: Leveraging Servers in Complex Serverless Workflows (industry track).",
+        "authors": [
+          "Germán T. Eizaguirre",
+          "Daniel Barcelona Pons",
+          "Aitor Arjona",
+          "Gil Vernik",
+          "Pedro García López",
+          "Theodore Alexandrov"
+        ]
+      },
+      {
+        "title": "Microcosm: A Scalable Transaction Processing Scheme for Modular Blockchain (Industry Track).",
+        "authors": [
+          "Mansub Song",
+          "Hyojin Song",
+          "Nadine Ben Amar",
+          "Yunhyeong Seo",
+          "Yongseok Son",
+          "Hyeonsang Eom"
+        ]
+      },
+      {
+        "title": "StreamSense: Policy-driven Semantic Video Search in Streaming Systems.",
+        "authors": [
+          "Gerard Finol",
+          "Arnau Gabriel",
+          "Pedro García López",
+          "Raúl Gracia Tinedo",
+          "Luis Liu",
+          "Reuben Docea",
+          "Max Kirchner",
+          "Sebastian Bodenstedt"
+        ]
+      },
+      {
+        "title": "A2L: User-Transparent Workload-Adaptive Asynchronous I/O Layer (industry track).",
+        "authors": [
+          "Byoung Chul An",
+          "Hanul Sung",
+          "Hyeonsang Eom"
+        ]
+      },
+      {
+        "title": "\"Back to the Byte\": Towards Byte-oriented Semantics for Streaming Storage.",
+        "authors": [
+          "Raúl Gracia Tinedo",
+          "Flavio Junqueira",
+          "Tom Kaitchuck"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/middleware/middleware2024.html": {
     "header": "25th Middleware 2024:\nHong Kong, SAR, China",
     "year": "2024",
@@ -373,223 +594,197 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2024p.html": {
-    "header": "Middleware Demos/Posters/Doctoral Symposium 2024:\nHong Kong, SAR, China",
-    "year": "2024",
+  "https://dblp.org/db/conf/middleware/middleware2023p.html": {
+    "header": "Middleware Demos/Posters/Doctoral Symposium 2023:\nBologna, Italy",
+    "year": "2023",
     "papers": [
       {
-        "title": "A Universal Graph Transaction-Log.",
+        "title": "Sky Computing for Serverless.",
         "authors": [
-          "Luis Garcés-Erice",
-          "Enrico Toniato",
-          "Daniel Bauer",
-          "Peter Urbanetz",
-          "Sean Rooney"
+          "Robert Cordingly"
         ]
       },
       {
-        "title": "Zero-Setup Computation Offloading to Heterogeneous Volunteer Devices Using Web Browsers.",
+        "title": "Serverless Abstractions for Edge Computing in Large Low-Earth Orbit Satellite Networks.",
         "authors": [
-          "Anton Semjonov",
-          "Janick Edinger"
+          "Tobias Pfandzelter"
         ]
       },
       {
-        "title": "SCALE-Ahead-Of-Time Compilation of CUDA for AMD GPUs.",
+        "title": "Adaptive Thresholding for Fair and Robust Biometric Authentication.",
         "authors": [
-          "Manos Pavlidakis",
-          "Chris Kitching",
-          "Nicholas Tomlinson",
-          "Michael Søndergaard"
+          "Willem Verheyen"
         ]
       },
       {
-        "title": "Userland Page Table - A Key for Transparent Persistent Memory.",
+        "title": "Better Orchestration for SLO-Oriented Cross-site Microservices in Multi-tenant Cloud/Edge Continuum.",
         "authors": [
-          "Jana Toljaga",
-          "Nicolas Derumigny",
-          "Yohan Pipereau",
-          "Mathieu Bacou",
-          "Gaël Thomas"
+          "Yinan Cao"
         ]
       },
       {
-        "title": "An LLM-driven Framework for Dynamic Infrastructure as Code Generation.",
+        "title": "Secure and Scalable Policy Management in Cloud Native Networking.",
         "authors": [
-          "Junhee Lee",
-          "Sungjoo Kang",
-          "In-Young Ko"
+          "Gerald Budigiri"
         ]
       },
       {
-        "title": "Fine-Grained CUDA Call Interception for GPU Virtualization.",
+        "title": "Towards Effective yet Frugal Blockchain Network Emulation.",
         "authors": [
-          "Manos Pavlidakis",
-          "Anargyros Argyros",
-          "Stelios Mavridis",
-          "Giorgos Vasiliadis",
-          "Angelos Bilas"
+          "Vincenzo Di Perna"
         ]
       },
       {
-        "title": "Grid-aware Energy Management by Data Center Workload Control Across Multiple Data Centers.",
+        "title": "Decentralized Service Composition Applications (dXapps): Towards A new Paradigm for Building Blockchain Applications.",
         "authors": [
-          "Yoji Ozawa",
-          "Satoshi Kaneko",
-          "Taku Okamura",
-          "Tetsu Moriwake",
-          "Yuichi Nabetani",
-          "Daiki Shimizu",
-          "Soichiro Kumagai"
+          "Sion Israel Sion"
         ]
       },
       {
-        "title": "Towards Embracing Object Granularity in Tiered Memory Management for Big Data.",
+        "title": "Towards the Automatic Adaptation of Stateful Microservices Applications across Edge and Cloud.",
         "authors": [
-          "Maciej Kokocinski",
-          "Tadeusz Kobus",
-          "Krystian Chmielewski",
-          "Rafal Pyzik",
-          "Maciej Maciejewski"
+          "Carole Djeumo Noucti"
         ]
       },
       {
-        "title": "Creek: A Mixed-Consistency Replication Scheme.",
+        "title": "Towards a User-Centric Decentralized Web: Lightweight Clients as First-class Blockchain Citizens.",
         "authors": [
-          "Maciej Kokocinski",
-          "Tadeusz Kobus",
-          "Pawel T. Wojciechowski"
+          "Weihong Wang"
         ]
       },
       {
-        "title": "Ripple: Large-Scale Service and Configuration Management in the Cloud.",
+        "title": "Attacks and Defences for ML-enhanced Access Control.",
         "authors": [
-          "Shuping Ji",
-          "Zhen Tang",
-          "Wei Wang",
-          "Hui Li",
-          "Jianguo Yao",
+          "Javier Martínez Llamas"
+        ]
+      },
+      {
+        "title": "Towards Fine Grain Resource Management for Stream Processing.",
+        "authors": [
+          "Donatien Schmitz"
+        ]
+      },
+      {
+        "title": "Towards Building Edge-side Common Data Processing Services on The Computing Continuum.",
+        "authors": [
+          "Yusuke Tanimura",
+          "Hidemoto Nakada",
+          "Yunzhi Dong"
+        ]
+      },
+      {
+        "title": "Publish-subscribe with large language models: Improving expressiveness with natural language and generated custom notifications: Poster Abstract.",
+        "authors": [
+          "Vatche Isahagian",
+          "Vinod Muthusamy",
+          "Aleksander Slominski"
+        ]
+      },
+      {
+        "title": "Fabric-Visualizer: A Transaction Dependency Visualizer for Hyperledger Fabric.",
+        "authors": [
+          "Jeeta Ann Chacko",
+          "Nino Richter",
+          "Ruben Mayer",
           "Hans-Arno Jacobsen"
         ]
       },
       {
-        "title": "Towards Resilience of Community-based Intrusion Detection.",
+        "title": "Thetacrypt: A Distributed Service for Threshold Cryptography On-Demand: Demo Abstract.",
         "authors": [
-          "Philipp Eichhammer"
+          "Orestis Alpos",
+          "Mariarosaria Barbaraci",
+          "Christian Cachin",
+          "Noah Schmid",
+          "Michael Senn"
         ]
       },
       {
-        "title": "KDB: A Persistent Key-Value Data Store with Batch Updates and Snapshots.",
+        "title": "ABCperf: Performance Evaluation of Fault Tolerant State Machine Replication Made Simple: Demo Abstract.",
         "authors": [
-          "Tadeusz Kobus",
-          "Maciej Kokocinski",
-          "Krzysztof Kortas",
-          "Pawel T. Wojciechowski"
-        ]
-      },
-      {
-        "title": "FDPVirt: Investigating the Behavior of FDP SSDs.",
-        "authors": [
-          "Joonyeop Park",
-          "Hyeonsang Eom"
-        ]
-      },
-      {
-        "title": "Comparative Analysis and Optimization of LoRA Adapter Co-serving for Large Language Models.",
-        "authors": [
-          "Jiaxuan Chen"
-        ]
-      },
-      {
-        "title": "Towards Interoperability of APIs - an LLM-based approach.",
-        "authors": [
-          "René Lehmann"
-        ]
-      },
-      {
-        "title": "Distributed Computation Offloading in Heterogeneous Edge Environments.",
-        "authors": [
-          "Anton Semjonov"
+          "Tilo Spannagel",
+          "Marc Leinweber",
+          "Adriano Castro",
+          "Hannes Hartenstein"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2024i.html": {
-    "header": "Middleware Industry 2024:\nHong Kong, SAR, China",
-    "year": "2024",
+  "https://dblp.org/db/conf/middleware/middleware2023i.html": {
+    "header": "Middleware Industry 2023:\nBologna, Italy",
+    "year": "2023",
     "papers": [
       {
-        "title": "A Conversational Assistant Framework for Automation.",
-        "authors": [
-          "Evelyn Duesterwald",
-          "Vatche Isahagian",
-          "K. R. Jayaram",
-          "Ritesh Kumar",
-          "Vinod Muthusamy",
-          "Punleuk Oum",
-          "Gegi Thomas",
-          "Praveen Venkateswaran"
-        ]
-      },
-      {
-        "title": "ColdPurge: Effecient Metadata Cache Cleaning via Accurate Online Data Hotness Tracking.",
-        "authors": [
-          "Yuhang Li",
-          "Rong Gu",
-          "Simian Li",
-          "Baohan Wang",
-          "Wei Yu"
-        ]
-      },
-      {
-        "title": "Serverful Functions: Leveraging Servers in Complex Serverless Workflows (industry track).",
-        "authors": [
-          "Germán T. Eizaguirre",
-          "Daniel Barcelona Pons",
-          "Aitor Arjona",
-          "Gil Vernik",
-          "Pedro García López",
-          "Theodore Alexandrov"
-        ]
-      },
-      {
-        "title": "Microcosm: A Scalable Transaction Processing Scheme for Modular Blockchain (Industry Track).",
-        "authors": [
-          "Mansub Song",
-          "Hyojin Song",
-          "Nadine Ben Amar",
-          "Yunhyeong Seo",
-          "Yongseok Son",
-          "Hyeonsang Eom"
-        ]
-      },
-      {
-        "title": "StreamSense: Policy-driven Semantic Video Search in Streaming Systems.",
-        "authors": [
-          "Gerard Finol",
-          "Arnau Gabriel",
-          "Pedro García López",
-          "Raúl Gracia Tinedo",
-          "Luis Liu",
-          "Reuben Docea",
-          "Max Kirchner",
-          "Sebastian Bodenstedt"
-        ]
-      },
-      {
-        "title": "A2L: User-Transparent Workload-Adaptive Asynchronous I/O Layer (industry track).",
-        "authors": [
-          "Byoung Chul An",
-          "Hanul Sung",
-          "Hyeonsang Eom"
-        ]
-      },
-      {
-        "title": "\"Back to the Byte\": Towards Byte-oriented Semantics for Streaming Storage.",
+        "title": "Practical Storage-Compute Elasticity for Stream Data Processing.",
         "authors": [
           "Raúl Gracia Tinedo",
           "Flavio Junqueira",
-          "Tom Kaitchuck"
+          "Brian Zhou",
+          "Yimin Xiong",
+          "Luis Liu"
+        ]
+      },
+      {
+        "title": "Federated Computing in Electric Vehicles to Predict Coolant Temperature.",
+        "authors": [
+          "René Schwermer",
+          "Ekin-Alp Bicer",
+          "Pascal A. Schirmer",
+          "Ruben Mayer",
+          "Hans-Arno Jacobsen"
+        ]
+      },
+      {
+        "title": "LogDAPT: Log Data Anomaly Detection with Domain-Adaptive Pretraining (industry track).",
+        "authors": [
+          "Haoyu Zheng",
+          "Guojun Chu",
+          "Haifeng Sun",
+          "Jingyu Wang",
+          "Shimin Tao",
+          "Hao Yang"
+        ]
+      },
+      {
+        "title": "Mr-TEE: Practical Trusted Execution of Mixed-Criticality Code.",
+        "authors": [
+          "Tom Van Eyck",
+          "Hamdi Trimech",
+          "Sam Michiels",
+          "Danny Hughes",
+          "Majid Salehi",
+          "Hassaan Janjua",
+          "Thanh-Liem Ta"
+        ]
+      },
+      {
+        "title": "CNN-BiLSTM-Based Classification of RPL Attacks in IoT Smart Grid Networks (Industry Track).",
+        "authors": [
+          "Yue Guan",
+          "Morteza Noferesti",
+          "Naser Ezzati-Jivan"
+        ]
+      },
+      {
+        "title": "Distributed Asynchronous Regular Path Queries (RPQs) on Graphs.",
+        "authors": [
+          "Tomás Faltín",
+          "Vasileios Trigonakis",
+          "Ayoub Berdai",
+          "Luigi Fusco",
+          "Calin Iorgulescu",
+          "Jinsoo Lee",
+          "Jakub Yaghob",
+          "Sungpack Hong",
+          "Hassan Chafi"
+        ]
+      },
+      {
+        "title": "FastXenBlk: high-performance virtualized disk IOs without compromising isolation (industry track).",
+        "authors": [
+          "Damien Thenot",
+          "Jean-Pierre Lozi",
+          "Gaël Thomas"
         ]
       }
     ]
@@ -833,201 +1028,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2023p.html": {
-    "header": "Middleware Demos/Posters/Doctoral Symposium 2023:\nBologna, Italy",
-    "year": "2023",
-    "papers": [
-      {
-        "title": "Sky Computing for Serverless.",
-        "authors": [
-          "Robert Cordingly"
-        ]
-      },
-      {
-        "title": "Serverless Abstractions for Edge Computing in Large Low-Earth Orbit Satellite Networks.",
-        "authors": [
-          "Tobias Pfandzelter"
-        ]
-      },
-      {
-        "title": "Adaptive Thresholding for Fair and Robust Biometric Authentication.",
-        "authors": [
-          "Willem Verheyen"
-        ]
-      },
-      {
-        "title": "Better Orchestration for SLO-Oriented Cross-site Microservices in Multi-tenant Cloud/Edge Continuum.",
-        "authors": [
-          "Yinan Cao"
-        ]
-      },
-      {
-        "title": "Secure and Scalable Policy Management in Cloud Native Networking.",
-        "authors": [
-          "Gerald Budigiri"
-        ]
-      },
-      {
-        "title": "Towards Effective yet Frugal Blockchain Network Emulation.",
-        "authors": [
-          "Vincenzo Di Perna"
-        ]
-      },
-      {
-        "title": "Decentralized Service Composition Applications (dXapps): Towards A new Paradigm for Building Blockchain Applications.",
-        "authors": [
-          "Sion Israel Sion"
-        ]
-      },
-      {
-        "title": "Towards the Automatic Adaptation of Stateful Microservices Applications across Edge and Cloud.",
-        "authors": [
-          "Carole Djeumo Noucti"
-        ]
-      },
-      {
-        "title": "Towards a User-Centric Decentralized Web: Lightweight Clients as First-class Blockchain Citizens.",
-        "authors": [
-          "Weihong Wang"
-        ]
-      },
-      {
-        "title": "Attacks and Defences for ML-enhanced Access Control.",
-        "authors": [
-          "Javier Martínez Llamas"
-        ]
-      },
-      {
-        "title": "Towards Fine Grain Resource Management for Stream Processing.",
-        "authors": [
-          "Donatien Schmitz"
-        ]
-      },
-      {
-        "title": "Towards Building Edge-side Common Data Processing Services on The Computing Continuum.",
-        "authors": [
-          "Yusuke Tanimura",
-          "Hidemoto Nakada",
-          "Yunzhi Dong"
-        ]
-      },
-      {
-        "title": "Publish-subscribe with large language models: Improving expressiveness with natural language and generated custom notifications: Poster Abstract.",
-        "authors": [
-          "Vatche Isahagian",
-          "Vinod Muthusamy",
-          "Aleksander Slominski"
-        ]
-      },
-      {
-        "title": "Fabric-Visualizer: A Transaction Dependency Visualizer for Hyperledger Fabric.",
-        "authors": [
-          "Jeeta Ann Chacko",
-          "Nino Richter",
-          "Ruben Mayer",
-          "Hans-Arno Jacobsen"
-        ]
-      },
-      {
-        "title": "Thetacrypt: A Distributed Service for Threshold Cryptography On-Demand: Demo Abstract.",
-        "authors": [
-          "Orestis Alpos",
-          "Mariarosaria Barbaraci",
-          "Christian Cachin",
-          "Noah Schmid",
-          "Michael Senn"
-        ]
-      },
-      {
-        "title": "ABCperf: Performance Evaluation of Fault Tolerant State Machine Replication Made Simple: Demo Abstract.",
-        "authors": [
-          "Tilo Spannagel",
-          "Marc Leinweber",
-          "Adriano Castro",
-          "Hannes Hartenstein"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/middleware2023i.html": {
-    "header": "Middleware Industry 2023:\nBologna, Italy",
-    "year": "2023",
-    "papers": [
-      {
-        "title": "Practical Storage-Compute Elasticity for Stream Data Processing.",
-        "authors": [
-          "Raúl Gracia Tinedo",
-          "Flavio Junqueira",
-          "Brian Zhou",
-          "Yimin Xiong",
-          "Luis Liu"
-        ]
-      },
-      {
-        "title": "Federated Computing in Electric Vehicles to Predict Coolant Temperature.",
-        "authors": [
-          "René Schwermer",
-          "Ekin-Alp Bicer",
-          "Pascal A. Schirmer",
-          "Ruben Mayer",
-          "Hans-Arno Jacobsen"
-        ]
-      },
-      {
-        "title": "LogDAPT: Log Data Anomaly Detection with Domain-Adaptive Pretraining (industry track).",
-        "authors": [
-          "Haoyu Zheng",
-          "Guojun Chu",
-          "Haifeng Sun",
-          "Jingyu Wang",
-          "Shimin Tao",
-          "Hao Yang"
-        ]
-      },
-      {
-        "title": "Mr-TEE: Practical Trusted Execution of Mixed-Criticality Code.",
-        "authors": [
-          "Tom Van Eyck",
-          "Hamdi Trimech",
-          "Sam Michiels",
-          "Danny Hughes",
-          "Majid Salehi",
-          "Hassaan Janjua",
-          "Thanh-Liem Ta"
-        ]
-      },
-      {
-        "title": "CNN-BiLSTM-Based Classification of RPL Attacks in IoT Smart Grid Networks (Industry Track).",
-        "authors": [
-          "Yue Guan",
-          "Morteza Noferesti",
-          "Naser Ezzati-Jivan"
-        ]
-      },
-      {
-        "title": "Distributed Asynchronous Regular Path Queries (RPQs) on Graphs.",
-        "authors": [
-          "Tomás Faltín",
-          "Vasileios Trigonakis",
-          "Ayoub Berdai",
-          "Luigi Fusco",
-          "Calin Iorgulescu",
-          "Jinsoo Lee",
-          "Jakub Yaghob",
-          "Sungpack Hong",
-          "Hassan Chafi"
-        ]
-      },
-      {
-        "title": "FastXenBlk: high-performance virtualized disk IOs without compromising isolation (industry track).",
-        "authors": [
-          "Damien Thenot",
-          "Jean-Pierre Lozi",
-          "Gaël Thomas"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/middleware/middleware2022p.html": {
     "header": "Middleware Demos/Posters 2022: Québec City, Canada",
     "year": "2022",
@@ -1111,6 +1111,82 @@
         "authors": [
           "Yue Guan",
           "Naser Ezzati-Jivan"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2022i.html": {
+    "header": "Middleware Industry 2022: Québec City, Canada",
+    "year": "2022",
+    "papers": [
+      {
+        "title": "AVOC: history-aware data fusion for reliable IoT analytics.",
+        "authors": [
+          "Panagiotis Gkikopoulos",
+          "Peter G. Kropf",
+          "Valerio Schiavoni",
+          "Josef Spillner"
+        ]
+      },
+      {
+        "title": "Revisiting data lakes: the metadata lake.",
+        "authors": [
+          "Daniel Bauer",
+          "Chris Giblin",
+          "Luis Garcés-Erice",
+          "Niels Pardon",
+          "Sean Rooney",
+          "Enrico Toniato",
+          "Peter Urbanetz"
+        ]
+      },
+      {
+        "title": "Accelerating RocksDB for small-zone ZNS SSDs by parallel I/O mechanism.",
+        "authors": [
+          "Minwoo Im",
+          "Kyungsu Kang",
+          "Heonyoung Yeom"
+        ]
+      },
+      {
+        "title": "Proposing a framework for evaluating learning strategies in vehicular CPSs.",
+        "authors": [
+          "Bastian Havers",
+          "Marina Papatriantafilou",
+          "Ashok Koppisetty",
+          "Vincenzo Gulisano"
+        ]
+      },
+      {
+        "title": "Closed loop optimization of 5G network slices.",
+        "authors": [
+          "Kavya Govindarajan",
+          "Seep Goel",
+          "Praveen Jayachandran",
+          "Steve Glover",
+          "Jose-Miguel Pulido Villaverde",
+          "Brian Naughton",
+          "Jacques Cresp",
+          "Joel Viale",
+          "Sophie Martin",
+          "Fabrice Livigni"
+        ]
+      },
+      {
+        "title": "LPR: learning-based page replacement scheme for scientific applications.",
+        "authors": [
+          "Hwajung Kim",
+          "Heon Y. Yeom"
+        ]
+      },
+      {
+        "title": "Towards data-driven additive manufacturing processes.",
+        "authors": [
+          "Vincenzo Gulisano",
+          "Marina Papatriantafilou",
+          "Zhuoer Chen",
+          "Eduard Hryha",
+          "Lars Nyborg"
         ]
       }
     ]
@@ -1373,82 +1449,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2022i.html": {
-    "header": "Middleware Industry 2022: Québec City, Canada",
-    "year": "2022",
-    "papers": [
-      {
-        "title": "AVOC: history-aware data fusion for reliable IoT analytics.",
-        "authors": [
-          "Panagiotis Gkikopoulos",
-          "Peter G. Kropf",
-          "Valerio Schiavoni",
-          "Josef Spillner"
-        ]
-      },
-      {
-        "title": "Revisiting data lakes: the metadata lake.",
-        "authors": [
-          "Daniel Bauer",
-          "Chris Giblin",
-          "Luis Garcés-Erice",
-          "Niels Pardon",
-          "Sean Rooney",
-          "Enrico Toniato",
-          "Peter Urbanetz"
-        ]
-      },
-      {
-        "title": "Accelerating RocksDB for small-zone ZNS SSDs by parallel I/O mechanism.",
-        "authors": [
-          "Minwoo Im",
-          "Kyungsu Kang",
-          "Heonyoung Yeom"
-        ]
-      },
-      {
-        "title": "Proposing a framework for evaluating learning strategies in vehicular CPSs.",
-        "authors": [
-          "Bastian Havers",
-          "Marina Papatriantafilou",
-          "Ashok Koppisetty",
-          "Vincenzo Gulisano"
-        ]
-      },
-      {
-        "title": "Closed loop optimization of 5G network slices.",
-        "authors": [
-          "Kavya Govindarajan",
-          "Seep Goel",
-          "Praveen Jayachandran",
-          "Steve Glover",
-          "Jose-Miguel Pulido Villaverde",
-          "Brian Naughton",
-          "Jacques Cresp",
-          "Joel Viale",
-          "Sophie Martin",
-          "Fabrice Livigni"
-        ]
-      },
-      {
-        "title": "LPR: learning-based page replacement scheme for scientific applications.",
-        "authors": [
-          "Hwajung Kim",
-          "Heon Y. Yeom"
-        ]
-      },
-      {
-        "title": "Towards data-driven additive manufacturing processes.",
-        "authors": [
-          "Vincenzo Gulisano",
-          "Marina Papatriantafilou",
-          "Zhuoer Chen",
-          "Eduard Hryha",
-          "Lars Nyborg"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/middleware/middleware2021p.html": {
     "header": "Middleware Demos/Posters 2021: Virtual Event / Québec City, Canada",
     "year": "2021",
@@ -1526,39 +1526,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/m4iot2021.html": {
-    "header": "M4IoT@Middleware 2021: Virtual Event, Canada",
-    "year": "2021",
-    "papers": [
-      {
-        "title": "Towards low-effort development of advanced IoT applications.",
-        "authors": [
-          "Ilse Bohé",
-          "Michiel Willocx",
-          "Jorn Lapon",
-          "Vincent Naessens"
-        ]
-      },
-      {
-        "title": "RedCASTLE: practically applicable ks-anonymity for IoT streaming data at the edge in node-RED.",
-        "authors": [
-          "Frank Pallas",
-          "Julian Legler",
-          "Niklas Amslgruber",
-          "Elias Grünewald"
-        ]
-      },
-      {
-        "title": "Towards grassroots peering at the edge.",
-        "authors": [
-          "David Bermbach",
-          "Sergio Lucia",
-          "Vlado Handziski",
-          "Adam Wolisz"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/middleware/middleware2021i.html": {
     "header": "Middleware Industry 2021: Virtual Event / Québec City, Canada",
     "year": "2021",
@@ -1598,6 +1565,102 @@
           "Sonia Fahmy",
           "Puneet Sharma",
           "Navin Modi"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2021ea.html": {
+    "header": "Middleware Extended Abstracts 2021: Virtual Event / Québec City, Canada",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Towards transparent and trustworthy cloud carbon accounting.",
+        "authors": [
+          "Tamar Eilam"
+        ]
+      },
+      {
+        "title": "Connected and autonomous vehicles as a grand challenge for middleware in cyber-physical systems.",
+        "authors": [
+          "Raj Rajkumar"
+        ]
+      },
+      {
+        "title": "The cloud to things continuum: infrastructure and management.",
+        "authors": [
+          "Raouf Boutaba"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2021ds.html": {
+    "header": "Middleware Doctoral Symposium 2021: Virtual Event / Québec City, Canada",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Config 2.0: towards reinforcement learning based configuration of stream processing systems.",
+        "authors": [
+          "Jawad Tahir"
+        ]
+      },
+      {
+        "title": "AutoML: towards automation of machine learning systems maintainability.",
+        "authors": [
+          "Lorena Poenaru-Olaru"
+        ]
+      },
+      {
+        "title": "Multi-objective evolutionary based feature selection supported by distributed multi-label classification and deep learning on image/video data.",
+        "authors": [
+          "Gizem Nur Karagoz"
+        ]
+      },
+      {
+        "title": "Efficient parallel execution of block transactions in blockchain.",
+        "authors": [
+          "Parwat Singh Anjana"
+        ]
+      },
+      {
+        "title": "OneOS: a distributed operating system for the internet of things.",
+        "authors": [
+          "Kumseok Jung"
+        ]
+      },
+      {
+        "title": "Non-relational multi-level caching for mitigation of staleness & stragglers in distributed deep learning.",
+        "authors": [
+          "Aswathy Ravikumar"
+        ]
+      },
+      {
+        "title": "Using blockchain to provide trusted interoperability to system-of-systems in smart cities context.",
+        "authors": [
+          "Stefano Momo Loss"
+        ]
+      },
+      {
+        "title": "Autonomous resource management in distributed stream processing systems.",
+        "authors": [
+          "Pratyush Agnihotri"
+        ]
+      },
+      {
+        "title": "Token-based incentive schemes in decentralized P2P storage networks.",
+        "authors": [
+          "Vahid Heidaripour Lakhani"
+        ]
+      },
+      {
+        "title": "Using blockchain technology for software identity maintenance.",
+        "authors": [
+          "Andreea-Elena Dragnoiu"
+        ]
+      },
+      {
+        "title": "FlexOS: easy specialization of OS safety properties.",
+        "authors": [
+          "Hugo Lefeuvre"
         ]
       }
     ]
@@ -1873,98 +1936,59 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2021ea.html": {
-    "header": "Middleware Extended Abstracts 2021: Virtual Event / Québec City, Canada",
+  "https://dblp.org/db/conf/middleware/m4iot2021.html": {
+    "header": "M4IoT@Middleware 2021: Virtual Event, Canada",
     "year": "2021",
     "papers": [
       {
-        "title": "Towards transparent and trustworthy cloud carbon accounting.",
+        "title": "Towards low-effort development of advanced IoT applications.",
         "authors": [
-          "Tamar Eilam"
+          "Ilse Bohé",
+          "Michiel Willocx",
+          "Jorn Lapon",
+          "Vincent Naessens"
         ]
       },
       {
-        "title": "Connected and autonomous vehicles as a grand challenge for middleware in cyber-physical systems.",
+        "title": "RedCASTLE: practically applicable ks-anonymity for IoT streaming data at the edge in node-RED.",
         "authors": [
-          "Raj Rajkumar"
+          "Frank Pallas",
+          "Julian Legler",
+          "Niklas Amslgruber",
+          "Elias Grünewald"
         ]
       },
       {
-        "title": "The cloud to things continuum: infrastructure and management.",
+        "title": "Towards grassroots peering at the edge.",
         "authors": [
-          "Raouf Boutaba"
+          "David Bermbach",
+          "Sergio Lucia",
+          "Vlado Handziski",
+          "Adam Wolisz"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2021ds.html": {
-    "header": "Middleware Doctoral Symposium 2021: Virtual Event / Québec City, Canada",
-    "year": "2021",
+  "https://dblp.org/db/conf/middleware/serial2020.html": {
+    "header": "SERIAL@Middleware 2020: Delft, The Netherlands",
+    "year": "2020",
     "papers": [
       {
-        "title": "Config 2.0: towards reinforcement learning based configuration of stream processing systems.",
+        "title": "Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention.",
         "authors": [
-          "Jawad Tahir"
+          "Yuzhe Richard Tang",
+          "Kai Li",
+          "Yibo Wang",
+          "Sencer Burak Somuncuoglu"
         ]
       },
       {
-        "title": "AutoML: towards automation of machine learning systems maintainability.",
+        "title": "Healthor: Protecting the Weak in Heterogeneous DLTs with Health-aware Flow Control.",
         "authors": [
-          "Lorena Poenaru-Olaru"
-        ]
-      },
-      {
-        "title": "Multi-objective evolutionary based feature selection supported by distributed multi-label classification and deep learning on image/video data.",
-        "authors": [
-          "Gizem Nur Karagoz"
-        ]
-      },
-      {
-        "title": "Efficient parallel execution of block transactions in blockchain.",
-        "authors": [
-          "Parwat Singh Anjana"
-        ]
-      },
-      {
-        "title": "OneOS: a distributed operating system for the internet of things.",
-        "authors": [
-          "Kumseok Jung"
-        ]
-      },
-      {
-        "title": "Non-relational multi-level caching for mitigation of staleness & stragglers in distributed deep learning.",
-        "authors": [
-          "Aswathy Ravikumar"
-        ]
-      },
-      {
-        "title": "Using blockchain to provide trusted interoperability to system-of-systems in smart cities context.",
-        "authors": [
-          "Stefano Momo Loss"
-        ]
-      },
-      {
-        "title": "Autonomous resource management in distributed stream processing systems.",
-        "authors": [
-          "Pratyush Agnihotri"
-        ]
-      },
-      {
-        "title": "Token-based incentive schemes in decentralized P2P storage networks.",
-        "authors": [
-          "Vahid Heidaripour Lakhani"
-        ]
-      },
-      {
-        "title": "Using blockchain technology for software identity maintenance.",
-        "authors": [
-          "Andreea-Elena Dragnoiu"
-        ]
-      },
-      {
-        "title": "FlexOS: easy specialization of OS safety properties.",
-        "authors": [
-          "Hugo Lefeuvre"
+          "Jonas Theis",
+          "Luigi Vigneri",
+          "Lin Wang",
+          "Animesh Trivedi"
         ]
       }
     ]
@@ -2009,6 +2033,145 @@
           "Oliver Stengele",
           "Jan Droll",
           "Hannes Hartenstein"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2020i.html": {
+    "header": "Middleware Industry 2020: Delft, The Netherlands",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "mmFilter: Language-Guided Video Analytics at the Edge.",
+        "authors": [
+          "Zhiming Hu",
+          "Angela Ning Ye",
+          "Caleb Phillips",
+          "Tim Capes",
+          "Iqbal Mohomed"
+        ]
+      },
+      {
+        "title": "blockNDP: Block-storage Near Data Processing.",
+        "authors": [
+          "Antonio Barbalace",
+          "Martin Decky",
+          "Javier Picorel",
+          "Pramod Bhatotia"
+        ]
+      },
+      {
+        "title": "DiagSys: network and third-party web-service monitoring from the browser's perspective (industry track).",
+        "authors": [
+          "Loïck Bonniot",
+          "Christoph Neumann",
+          "François Taïani"
+        ]
+      },
+      {
+        "title": "HopsFS-S3: Extending Object Stores with POSIX-like Semantics and more (industry track).",
+        "authors": [
+          "Mahmoud Ismail",
+          "Salman Niazi",
+          "Gautier Berthou",
+          "Mikael Ronström",
+          "Seif Haridi",
+          "Jim Dowling"
+        ]
+      },
+      {
+        "title": "Primula: a Practical Shuffle/Sort Operator for Serverless Computing.",
+        "authors": [
+          "Marc Sánchez Artigas",
+          "Germán T. Eizaguirre",
+          "Gil Vernik",
+          "Lachlan Stuart",
+          "Pedro García López"
+        ]
+      },
+      {
+        "title": "Secure Volume Hot-plugging for Containers (industry track).",
+        "authors": [
+          "Eunsoo Park",
+          "Kyungho Jeon"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2020ds.html": {
+    "header": "Middleware Doctoral Symposium 2020: Virtual Event / Delft, The Netherlands",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "Towards Environmental-Adaptive and Performance-Resilient Consensus in Distributed Ledger Technology.",
+        "authors": [
+          "Christian Berger"
+        ]
+      },
+      {
+        "title": "Model-based auto-scaling of distributed data stream processing applications.",
+        "authors": [
+          "Gabriele Russo Russo"
+        ]
+      },
+      {
+        "title": "Rubberband: Enabling Elastic Federated Learning with the Temporary State Management.",
+        "authors": [
+          "Vladimir Podolskiy"
+        ]
+      },
+      {
+        "title": "Fog Transport Mode Detection.",
+        "authors": [
+          "Mahdieh Kamalian"
+        ]
+      },
+      {
+        "title": "Griffin: A Storage Service for Granular Edge Applications.",
+        "authors": [
+          "Giulia Frascaria"
+        ]
+      },
+      {
+        "title": "Selecting a JVM Garbage Collector for Big Data and Cloud Services.",
+        "authors": [
+          "Sanaz Tavakoli-Someh"
+        ]
+      },
+      {
+        "title": "Towards Autonomous Security Monitoring in Internet-of-Things Infrastructures.",
+        "authors": [
+          "Philipp Eichhammer"
+        ]
+      },
+      {
+        "title": "Minimizing Cost and Maximizing Performance for Cloud Platforms.",
+        "authors": [
+          "Jashwant Raj Gunasekaran"
+        ]
+      },
+      {
+        "title": "Self-managed services using MirageOS unikernels.",
+        "authors": [
+          "Al Amjad Tawfiq Isstaif"
+        ]
+      },
+      {
+        "title": "Execution Migration of Managed Languages Programs Among Heterogeneous-ISA Processing Units.",
+        "authors": [
+          "Amir Khordadi"
+        ]
+      },
+      {
+        "title": "Building Private-by-Design IoT Systems.",
+        "authors": [
+          "Igor Zavalyshyn"
+        ]
+      },
+      {
+        "title": "Apodini: An Internal Domain Specific Language to Design Web Services.",
+        "authors": [
+          "Paul Schmiedmayer"
         ]
       }
     ]
@@ -2308,165 +2471,392 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2020i.html": {
-    "header": "Middleware Industry 2020: Delft, The Netherlands",
-    "year": "2020",
+  "https://dblp.org/db/conf/middleware/serial2019.html": {
+    "header": "SERIAL@Middleware 2019: Davis, CA, USA",
+    "year": "2019",
     "papers": [
       {
-        "title": "mmFilter: Language-Guided Video Analytics at the Edge.",
+        "title": "Design of Extensible Non-Fungible Token Model in Hyperledger Fabric.",
         "authors": [
-          "Zhiming Hu",
-          "Angela Ning Ye",
-          "Caleb Phillips",
-          "Tim Capes",
-          "Iqbal Mohomed"
+          "Sangwon Hong",
+          "Yoongdoo Noh",
+          "Chanik Park"
         ]
       },
       {
-        "title": "blockNDP: Block-storage Near Data Processing.",
+        "title": "You Don't Need a Ledger: Lightweight Decentralized Consensus Between Mobile Web Clients.",
         "authors": [
-          "Antonio Barbalace",
-          "Martin Decky",
-          "Javier Picorel",
-          "Pramod Bhatotia"
+          "Kristof Jannes",
+          "Bert Lagaisse",
+          "Wouter Joosen"
         ]
       },
       {
-        "title": "DiagSys: network and third-party web-service monitoring from the browser's perspective (industry track).",
+        "title": "Themis: An Efficient and Memory-Safe BFT Framework in Rust: Research Statement.",
         "authors": [
-          "Loïck Bonniot",
-          "Christoph Neumann",
-          "François Taïani"
+          "Signe Rüsch",
+          "Kai Bleeke",
+          "Rüdiger Kapitza"
         ]
       },
       {
-        "title": "HopsFS-S3: Extending Object Stores with POSIX-like Semantics and more (industry track).",
+        "title": "Codit: Collaborative Auditing for BaaS.",
         "authors": [
-          "Mahmoud Ismail",
-          "Salman Niazi",
-          "Gautier Berthou",
-          "Mikael Ronström",
-          "Seif Haridi",
-          "Jim Dowling"
-        ]
-      },
-      {
-        "title": "Primula: a Practical Shuffle/Sort Operator for Serverless Computing.",
-        "authors": [
-          "Marc Sánchez Artigas",
-          "Germán T. Eizaguirre",
-          "Gil Vernik",
-          "Lachlan Stuart",
-          "Pedro García López"
-        ]
-      },
-      {
-        "title": "Secure Volume Hot-plugging for Containers (industry track).",
-        "authors": [
-          "Eunsoo Park",
-          "Kyungho Jeon"
+          "Yongrae Jo",
+          "Chanik Park"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/serial2020.html": {
-    "header": "SERIAL@Middleware 2020: Delft, The Netherlands",
-    "year": "2020",
+  "https://dblp.org/db/conf/middleware/middleware2019t.html": {
+    "header": "20th Middleware Tutorials 2019: Davis, CA, USA",
+    "year": "2019",
     "papers": [
       {
-        "title": "Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention.",
+        "title": "Leveraging Queueing Theory and OS Profiling to Reduce Application Latency.",
         "authors": [
-          "Yuzhe Richard Tang",
-          "Kai Li",
-          "Yibo Wang",
-          "Sencer Burak Somuncuoglu"
+          "Anshul Gandhi",
+          "Amoghavarsha Suresh"
         ]
       },
       {
-        "title": "Healthor: Protecting the Weak in Heterogeneous DLTs with Health-aware Flow Control.",
+        "title": "An In-Depth Look of BFT Consensus in Blockchain: Challenges and Opportunities.",
         "authors": [
-          "Jonas Theis",
-          "Luigi Vigneri",
+          "Suyash Gupta",
+          "Jelle Hellings",
+          "Sajjad Rahnama",
+          "Mohammad Sadoghi"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2019p.html": {
+    "header": "Middleware Demos/Posters 2019: Davis, CA, USA",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "A Fast and Secure Key-Value Service Using Hardware Enclaves.",
+        "authors": [
+          "Ines Messadi",
+          "Shivananda Neumann",
+          "Lennart Almstedt",
+          "Rüdiger Kapitza"
+        ]
+      },
+      {
+        "title": "HyperProv: Decentralized Resilient Data Provenance at the Edge with Blockchains.",
+        "authors": [
+          "Petter Tunstad",
+          "Amin M. Khan",
+          "Phuong Hoai Ha"
+        ]
+      },
+      {
+        "title": "A Glimpse of the Matrix: Scalability issues of a new message-oriented data synchronization middleware.",
+        "authors": [
+          "Florian Jacob",
+          "Jan Grashöfer",
+          "Hannes Hartenstein"
+        ]
+      },
+      {
+        "title": "AquaSCALE - Exploring Resilience of Community Water Infrastructures.",
+        "authors": [
+          "Qing Han",
+          "Sharad Mehrotra",
+          "Nalini Venkatasubramanian"
+        ]
+      },
+      {
+        "title": "Serverless-Enabled Permissioned Blockchain for Elastic Transaction Processing.",
+        "authors": [
+          "Byungsoo Oh",
+          "Daeyoung Kim"
+        ]
+      },
+      {
+        "title": "Highly Flexible Server Agnostic Complex Event Processing Operators.",
+        "authors": [
+          "Manisha Luthra",
+          "Sebastian Hennig",
+          "Pratyush Agnihotri",
           "Lin Wang",
-          "Animesh Trivedi"
+          "Boris Koldehofe"
+        ]
+      },
+      {
+        "title": "Chaining of hardware accelerated Virtual Network Functions in PCIe Environments.",
+        "authors": [
+          "Ralf Kundel",
+          "Tim Burkert",
+          "Carsten Griwodz",
+          "Boris Koldehofe"
+        ]
+      },
+      {
+        "title": "Data-Driven Windows to Accelerate Video Stream Content Extraction in Complex Event Processing.",
+        "authors": [
+          "Piyush Yadav",
+          "Dibya Prakash Das",
+          "Edward Curry"
+        ]
+      },
+      {
+        "title": "A Blockchain-based Payment and Validity Check System for Vehicle Services.",
+        "authors": [
+          "Felix Kohlbrenner",
+          "Pezhman Nasirifard",
+          "Christian Löbel",
+          "Hans-Arno Jacobsen"
+        ]
+      },
+      {
+        "title": "Haren: A Middleware for Ad-Hoc Thread Scheduling Policies in Data Streaming.",
+        "authors": [
+          "Dimitris Palyvos-Giannas",
+          "Vincenzo Gulisano",
+          "Marina Papatriantafilou"
+        ]
+      },
+      {
+        "title": "ByzGame, a Visualized and Understandable BFT Consensus.",
+        "authors": [
+          "James R. Clavin",
+          "Sisi Duan"
+        ]
+      },
+      {
+        "title": "Praxi: Cloud Software Discovery That Learns From Practice.",
+        "authors": [
+          "Anthony Byrne",
+          "Sadie L. Allen",
+          "Shripad Nadgowda",
+          "Ayse K. Coskun"
+        ]
+      },
+      {
+        "title": "A Monocular Vision-based Obstacle Avoidance Android/Linux Middleware for the Visually Impaired.",
+        "authors": [
+          "Xiaoyang Qiu",
+          "Arjun Keerthi",
+          "Teppei Kotake",
+          "Aniruddha Gokhale"
+        ]
+      },
+      {
+        "title": "ACTiManager: An end-to-end interference-aware cloud resource manager.",
+        "authors": [
+          "Stratos Psomadakis",
+          "Stefanos Gerangelos",
+          "Dimitrios Siakavaras",
+          "Ioannis A. Papadakis",
+          "Marina Vemmou",
+          "Aspa Skalidi",
+          "Vasileios Karakostas",
+          "Konstantinos Nikas",
+          "Nectarios Koziris",
+          "Georgios I. Goumas"
+        ]
+      },
+      {
+        "title": "UrbanPulse: Adaptable Middleware to offer City and User Centric Smart City Solution.",
+        "authors": [
+          "Pratyush Agnihotri",
+          "Manisha Luthra",
+          "Sascha Peters"
+        ]
+      },
+      {
+        "title": "VR Application Framework for Collecting Sensor Data in Risky Situations.",
+        "authors": [
+          "Tatsuya Amano",
+          "Ryota Akikawa",
+          "Akira Uchiyama",
+          "Akihito Hiromori",
+          "Hirozumi Yamaguchi",
+          "Teruo Higashino",
+          "Masaki Suzuki",
+          "Yasuhiko Hiehata",
+          "Takeshi Kitahara"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2020ds.html": {
-    "header": "Middleware Doctoral Symposium 2020: Virtual Event / Delft, The Netherlands",
-    "year": "2020",
+  "https://dblp.org/db/conf/middleware/middleware2019i.html": {
+    "header": "Middleware Industry 2019: Davis, CA, USA",
+    "year": "2019",
     "papers": [
       {
-        "title": "Towards Environmental-Adaptive and Performance-Resilient Consensus in Distributed Ledger Technology.",
+        "title": "Profiling Dynamic Data Access Patterns with Controlled Overhead and Quality.",
         "authors": [
-          "Christian Berger"
+          "Seongjae Park",
+          "Yunjae Lee",
+          "Heon Y. Yeom"
         ]
       },
       {
-        "title": "Model-based auto-scaling of distributed data stream processing applications.",
+        "title": "Building Own Blockchain.",
         "authors": [
-          "Gabriele Russo Russo"
+          "Anil Mujagic",
+          "Marian Gheorghe",
+          "Ermin Dzinic"
         ]
       },
       {
-        "title": "Rubberband: Enabling Elastic Federated Learning with the Temporary State Management.",
+        "title": "Multi-Device Framework with Spatial Clustering.",
         "authors": [
-          "Vladimir Podolskiy"
+          "Hyukjoong Kim",
+          "Daedong Park",
+          "Uze Choi",
+          "Sungjin Shin",
+          "Minsoo Kim",
+          "Kyunghoon Lee"
         ]
       },
       {
-        "title": "Fog Transport Mode Detection.",
+        "title": "Designing for Privacy and Confidentiality on Distributed Ledgers for Enterprise (Industry Track).",
         "authors": [
-          "Mahdieh Kamalian"
+          "Allison Irvin",
+          "Isabell Kiral"
         ]
       },
       {
-        "title": "Griffin: A Storage Service for Granular Edge Applications.",
+        "title": "Enabling Enterprise Blockchain Interoperability with Trusted Data Transfer (Industry Track).",
         "authors": [
-          "Giulia Frascaria"
+          "Ermyas Abebe",
+          "Dushyant Behl",
+          "Chander Govindarajan",
+          "Yining Hu",
+          "Dileban Karunamoorthy",
+          "Petr Novotný",
+          "Vinayaka Pandit",
+          "Venkatraman Ramakrishna",
+          "Christian Vecchiola"
         ]
       },
       {
-        "title": "Selecting a JVM Garbage Collector for Big Data and Cloud Services.",
+        "title": "It's not a Sprint, it's a Marathon: Stretching Multi-resource Burstable Performance in Public Clouds.",
         "authors": [
-          "Sanaz Tavakoli-Someh"
+          "Ahsan Ali",
+          "Riccardo Pinciroli",
+          "Feng Yan",
+          "Evgenia Smirni"
         ]
       },
       {
-        "title": "Towards Autonomous Security Monitoring in Internet-of-Things Infrastructures.",
+        "title": "VideoPipe: Building Video Stream Processing Pipelines at the Edge.",
         "authors": [
-          "Philipp Eichhammer"
+          "Mohammad Salehe",
+          "Zhiming Hu",
+          "Seyed Hossein Mortazavi",
+          "Iqbal Mohomed",
+          "Tim Capes"
         ]
       },
       {
-        "title": "Minimizing Cost and Maximizing Performance for Cloud Platforms.",
+        "title": "DataBlinder: A distributed data protection middleware supporting search and computation on encrypted data.",
         "authors": [
-          "Jashwant Raj Gunasekaran"
+          "Emad Heydari Beni",
+          "Bert Lagaisse",
+          "Wouter Joosen",
+          "Abdelrahaman Aly",
+          "Michael Brackx"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2019ds.html": {
+    "header": "Middleware Doctoral Symposium 2019: Davis, CA, USA",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "Analysing system behaviour by automatic benchmarking of system-level provenance.",
+        "authors": [
+          "Sheung Chi Chan"
         ]
       },
       {
-        "title": "Self-managed services using MirageOS unikernels.",
+        "title": "BlockML: a useful proof of work system based on machine learning tasks.",
         "authors": [
-          "Al Amjad Tawfiq Isstaif"
+          "Andrea Merlina"
         ]
       },
       {
-        "title": "Execution Migration of Managed Languages Programs Among Heterogeneous-ISA Processing Units.",
+        "title": "Troubleshooting distributed data analytics systems.",
         "authors": [
-          "Amir Khordadi"
+          "Aidi Pi"
         ]
       },
       {
-        "title": "Building Private-by-Design IoT Systems.",
+        "title": "Self-organizing middleware for cyber-physical networks.",
         "authors": [
-          "Igor Zavalyshyn"
+          "Melanie Brinkschulte"
         ]
       },
       {
-        "title": "Apodini: An Internal Domain Specific Language to Design Web Services.",
+        "title": "A blockchain-based adaptive middleware for large scale internet of things data storage selection.",
         "authors": [
-          "Paul Schmiedmayer"
+          "Syed Muhammad Danish"
+        ]
+      },
+      {
+        "title": "A trustable platform for exchange of resources across organizations and their customers.",
+        "authors": [
+          "Kushal Soni"
+        ]
+      },
+      {
+        "title": "Publish-subscribe systems over large dynamic graphs.",
+        "authors": [
+          "Suhail Kandanur"
+        ]
+      },
+      {
+        "title": "A queue-oriented transaction processing paradigm.",
+        "authors": [
+          "Thamir M. Qadah"
+        ]
+      },
+      {
+        "title": "Smart proxying for microservices.",
+        "authors": [
+          "Ratnadeep Bhattacharya"
+        ]
+      },
+      {
+        "title": "Improving the scalability of blockchain through DAG.",
+        "authors": [
+          "Qin Wang"
+        ]
+      },
+      {
+        "title": "Monitoring as a service for SDN Based cloud data centers.",
+        "authors": [
+          "Mona Elsaadawy"
+        ]
+      },
+      {
+        "title": "Dynamic resource management algorithms for edge computing using hardware accelerators.",
+        "authors": [
+          "Robert Canady"
+        ]
+      },
+      {
+        "title": "Efficient storage support for unikernels as containers.",
+        "authors": [
+          "Orestis Lagkas Nikolos"
+        ]
+      },
+      {
+        "title": "High-performance complex event processing framework to detect event patterns over video streams.",
+        "authors": [
+          "Piyush Yadav"
+        ]
+      },
+      {
+        "title": "Dredging a data lake: decentralized metadata extraction.",
+        "authors": [
+          "Tyler J. Skluzacek"
         ]
       }
     ]
@@ -2714,65 +3104,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/serial2019.html": {
-    "header": "SERIAL@Middleware 2019: Davis, CA, USA",
-    "year": "2019",
-    "papers": [
-      {
-        "title": "Design of Extensible Non-Fungible Token Model in Hyperledger Fabric.",
-        "authors": [
-          "Sangwon Hong",
-          "Yoongdoo Noh",
-          "Chanik Park"
-        ]
-      },
-      {
-        "title": "You Don't Need a Ledger: Lightweight Decentralized Consensus Between Mobile Web Clients.",
-        "authors": [
-          "Kristof Jannes",
-          "Bert Lagaisse",
-          "Wouter Joosen"
-        ]
-      },
-      {
-        "title": "Themis: An Efficient and Memory-Safe BFT Framework in Rust: Research Statement.",
-        "authors": [
-          "Signe Rüsch",
-          "Kai Bleeke",
-          "Rüdiger Kapitza"
-        ]
-      },
-      {
-        "title": "Codit: Collaborative Auditing for BaaS.",
-        "authors": [
-          "Yongrae Jo",
-          "Chanik Park"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/middleware2019t.html": {
-    "header": "20th Middleware Tutorials 2019: Davis, CA, USA",
-    "year": "2019",
-    "papers": [
-      {
-        "title": "Leveraging Queueing Theory and OS Profiling to Reduce Application Latency.",
-        "authors": [
-          "Anshul Gandhi",
-          "Amoghavarsha Suresh"
-        ]
-      },
-      {
-        "title": "An In-Depth Look of BFT Consensus in Blockchain: Challenges and Opportunities.",
-        "authors": [
-          "Suyash Gupta",
-          "Jelle Hellings",
-          "Sajjad Rahnama",
-          "Mohammad Sadoghi"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/middleware/m4iot2019.html": {
     "header": "M4IoT@Middleware 2019: Davis, CA, USA",
     "year": "2019",
@@ -2825,158 +3156,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2019p.html": {
-    "header": "Middleware Demos/Posters 2019: Davis, CA, USA",
-    "year": "2019",
-    "papers": [
-      {
-        "title": "A Fast and Secure Key-Value Service Using Hardware Enclaves.",
-        "authors": [
-          "Ines Messadi",
-          "Shivananda Neumann",
-          "Lennart Almstedt",
-          "Rüdiger Kapitza"
-        ]
-      },
-      {
-        "title": "HyperProv: Decentralized Resilient Data Provenance at the Edge with Blockchains.",
-        "authors": [
-          "Petter Tunstad",
-          "Amin M. Khan",
-          "Phuong Hoai Ha"
-        ]
-      },
-      {
-        "title": "A Glimpse of the Matrix: Scalability issues of a new message-oriented data synchronization middleware.",
-        "authors": [
-          "Florian Jacob",
-          "Jan Grashöfer",
-          "Hannes Hartenstein"
-        ]
-      },
-      {
-        "title": "AquaSCALE - Exploring Resilience of Community Water Infrastructures.",
-        "authors": [
-          "Qing Han",
-          "Sharad Mehrotra",
-          "Nalini Venkatasubramanian"
-        ]
-      },
-      {
-        "title": "Serverless-Enabled Permissioned Blockchain for Elastic Transaction Processing.",
-        "authors": [
-          "Byungsoo Oh",
-          "Daeyoung Kim"
-        ]
-      },
-      {
-        "title": "Highly Flexible Server Agnostic Complex Event Processing Operators.",
-        "authors": [
-          "Manisha Luthra",
-          "Sebastian Hennig",
-          "Pratyush Agnihotri",
-          "Lin Wang",
-          "Boris Koldehofe"
-        ]
-      },
-      {
-        "title": "Chaining of hardware accelerated Virtual Network Functions in PCIe Environments.",
-        "authors": [
-          "Ralf Kundel",
-          "Tim Burkert",
-          "Carsten Griwodz",
-          "Boris Koldehofe"
-        ]
-      },
-      {
-        "title": "Data-Driven Windows to Accelerate Video Stream Content Extraction in Complex Event Processing.",
-        "authors": [
-          "Piyush Yadav",
-          "Dibya Prakash Das",
-          "Edward Curry"
-        ]
-      },
-      {
-        "title": "A Blockchain-based Payment and Validity Check System for Vehicle Services.",
-        "authors": [
-          "Felix Kohlbrenner",
-          "Pezhman Nasirifard",
-          "Christian Löbel",
-          "Hans-Arno Jacobsen"
-        ]
-      },
-      {
-        "title": "Haren: A Middleware for Ad-Hoc Thread Scheduling Policies in Data Streaming.",
-        "authors": [
-          "Dimitris Palyvos-Giannas",
-          "Vincenzo Gulisano",
-          "Marina Papatriantafilou"
-        ]
-      },
-      {
-        "title": "ByzGame, a Visualized and Understandable BFT Consensus.",
-        "authors": [
-          "James R. Clavin",
-          "Sisi Duan"
-        ]
-      },
-      {
-        "title": "Praxi: Cloud Software Discovery That Learns From Practice.",
-        "authors": [
-          "Anthony Byrne",
-          "Sadie L. Allen",
-          "Shripad Nadgowda",
-          "Ayse K. Coskun"
-        ]
-      },
-      {
-        "title": "A Monocular Vision-based Obstacle Avoidance Android/Linux Middleware for the Visually Impaired.",
-        "authors": [
-          "Xiaoyang Qiu",
-          "Arjun Keerthi",
-          "Teppei Kotake",
-          "Aniruddha Gokhale"
-        ]
-      },
-      {
-        "title": "ACTiManager: An end-to-end interference-aware cloud resource manager.",
-        "authors": [
-          "Stratos Psomadakis",
-          "Stefanos Gerangelos",
-          "Dimitrios Siakavaras",
-          "Ioannis A. Papadakis",
-          "Marina Vemmou",
-          "Aspa Skalidi",
-          "Vasileios Karakostas",
-          "Konstantinos Nikas",
-          "Nectarios Koziris",
-          "Georgios I. Goumas"
-        ]
-      },
-      {
-        "title": "UrbanPulse: Adaptable Middleware to offer City and User Centric Smart City Solution.",
-        "authors": [
-          "Pratyush Agnihotri",
-          "Manisha Luthra",
-          "Sascha Peters"
-        ]
-      },
-      {
-        "title": "VR Application Framework for Collecting Sensor Data in Risky Situations.",
-        "authors": [
-          "Tatsuya Amano",
-          "Ryota Akikawa",
-          "Akira Uchiyama",
-          "Akihito Hiromori",
-          "Hirozumi Yamaguchi",
-          "Teruo Higashino",
-          "Masaki Suzuki",
-          "Yasuhiko Hiehata",
-          "Takeshi Kitahara"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/middleware/dfsd2019.html": {
     "header": "DFSD@Middleware 2019: Davis, CA, USA",
     "year": "2019",
@@ -2999,265 +3178,71 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2019i.html": {
-    "header": "Middleware Industry 2019: Davis, CA, USA",
-    "year": "2019",
-    "papers": [
-      {
-        "title": "Profiling Dynamic Data Access Patterns with Controlled Overhead and Quality.",
-        "authors": [
-          "Seongjae Park",
-          "Yunjae Lee",
-          "Heon Y. Yeom"
-        ]
-      },
-      {
-        "title": "Building Own Blockchain.",
-        "authors": [
-          "Anil Mujagic",
-          "Marian Gheorghe",
-          "Ermin Dzinic"
-        ]
-      },
-      {
-        "title": "Multi-Device Framework with Spatial Clustering.",
-        "authors": [
-          "Hyukjoong Kim",
-          "Daedong Park",
-          "Uze Choi",
-          "Sungjin Shin",
-          "Minsoo Kim",
-          "Kyunghoon Lee"
-        ]
-      },
-      {
-        "title": "Designing for Privacy and Confidentiality on Distributed Ledgers for Enterprise (Industry Track).",
-        "authors": [
-          "Allison Irvin",
-          "Isabell Kiral"
-        ]
-      },
-      {
-        "title": "Enabling Enterprise Blockchain Interoperability with Trusted Data Transfer (Industry Track).",
-        "authors": [
-          "Ermyas Abebe",
-          "Dushyant Behl",
-          "Chander Govindarajan",
-          "Yining Hu",
-          "Dileban Karunamoorthy",
-          "Petr Novotný",
-          "Vinayaka Pandit",
-          "Venkatraman Ramakrishna",
-          "Christian Vecchiola"
-        ]
-      },
-      {
-        "title": "It's not a Sprint, it's a Marathon: Stretching Multi-resource Burstable Performance in Public Clouds.",
-        "authors": [
-          "Ahsan Ali",
-          "Riccardo Pinciroli",
-          "Feng Yan",
-          "Evgenia Smirni"
-        ]
-      },
-      {
-        "title": "VideoPipe: Building Video Stream Processing Pipelines at the Edge.",
-        "authors": [
-          "Mohammad Salehe",
-          "Zhiming Hu",
-          "Seyed Hossein Mortazavi",
-          "Iqbal Mohomed",
-          "Tim Capes"
-        ]
-      },
-      {
-        "title": "DataBlinder: A distributed data protection middleware supporting search and computation on encrypted data.",
-        "authors": [
-          "Emad Heydari Beni",
-          "Bert Lagaisse",
-          "Wouter Joosen",
-          "Abdelrahaman Aly",
-          "Michael Brackx"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/middleware2019ds.html": {
-    "header": "Middleware Doctoral Symposium 2019: Davis, CA, USA",
-    "year": "2019",
-    "papers": [
-      {
-        "title": "Analysing system behaviour by automatic benchmarking of system-level provenance.",
-        "authors": [
-          "Sheung Chi Chan"
-        ]
-      },
-      {
-        "title": "BlockML: a useful proof of work system based on machine learning tasks.",
-        "authors": [
-          "Andrea Merlina"
-        ]
-      },
-      {
-        "title": "Troubleshooting distributed data analytics systems.",
-        "authors": [
-          "Aidi Pi"
-        ]
-      },
-      {
-        "title": "Self-organizing middleware for cyber-physical networks.",
-        "authors": [
-          "Melanie Brinkschulte"
-        ]
-      },
-      {
-        "title": "A blockchain-based adaptive middleware for large scale internet of things data storage selection.",
-        "authors": [
-          "Syed Muhammad Danish"
-        ]
-      },
-      {
-        "title": "A trustable platform for exchange of resources across organizations and their customers.",
-        "authors": [
-          "Kushal Soni"
-        ]
-      },
-      {
-        "title": "Publish-subscribe systems over large dynamic graphs.",
-        "authors": [
-          "Suhail Kandanur"
-        ]
-      },
-      {
-        "title": "A queue-oriented transaction processing paradigm.",
-        "authors": [
-          "Thamir M. Qadah"
-        ]
-      },
-      {
-        "title": "Smart proxying for microservices.",
-        "authors": [
-          "Ratnadeep Bhattacharya"
-        ]
-      },
-      {
-        "title": "Improving the scalability of blockchain through DAG.",
-        "authors": [
-          "Qin Wang"
-        ]
-      },
-      {
-        "title": "Monitoring as a service for SDN Based cloud data centers.",
-        "authors": [
-          "Mona Elsaadawy"
-        ]
-      },
-      {
-        "title": "Dynamic resource management algorithms for edge computing using hardware accelerators.",
-        "authors": [
-          "Robert Canady"
-        ]
-      },
-      {
-        "title": "Efficient storage support for unikernels as containers.",
-        "authors": [
-          "Orestis Lagkas Nikolos"
-        ]
-      },
-      {
-        "title": "High-performance complex event processing framework to detect event patterns over video streams.",
-        "authors": [
-          "Piyush Yadav"
-        ]
-      },
-      {
-        "title": "Dredging a data lake: decentralized metadata extraction.",
-        "authors": [
-          "Tyler J. Skluzacek"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/middleware2018i.html": {
-    "header": "Middleware Industry 2018: Rennes, France",
+  "https://dblp.org/db/conf/middleware/serial2018.html": {
+    "header": "SERIAL@Middleware 2018: Rennes, France",
     "year": "2018",
     "papers": [
       {
-        "title": "Serverless Data Analytics in the IBM Cloud.",
+        "title": "StreamChain: Do Blockchains Need Blocks?",
         "authors": [
-          "Josep Sampé",
-          "Gil Vernik",
-          "Marc Sánchez Artigas",
-          "Pedro García López"
+          "Zsolt István",
+          "Alessandro Sorniotti",
+          "Marko Vukolic"
         ]
       },
       {
-        "title": "The Design and Implementation of a Real Time Visual Search System on JD E-commerce Platform.",
+        "title": "Off-chaining Models and Approaches to Off-chain Computations.",
         "authors": [
-          "Jie Li",
-          "Haifeng Liu",
-          "Chuanghua Gui",
-          "Jianyu Chen",
-          "Zhenyuan Ni",
-          "Ning Wang",
-          "Yuan Chen"
+          "Jacob Eberhardt",
+          "Jonathan Heiss"
         ]
       },
       {
-        "title": "DéjàVu: Bringing Black-box Security Analytics to Cloud.",
+        "title": "Scaling Byzantine Consensus: A Broad Analysis.",
         "authors": [
-          "Shripad Nadgowda",
-          "Canturk Isci",
-          "Mustafa Bal"
+          "Christian Berger",
+          "Hans P. Reiser"
         ]
       },
       {
-        "title": "Exploratory Study of Privacy Preserving Fraud Detection.",
+        "title": "Sol2js: Translating Solidity Contracts into Javascript for Hyperledger Fabric.",
         "authors": [
-          "Rémi Canillas",
-          "Rania Talbi",
-          "Sara Bouchenak",
-          "Omar Hasan",
-          "Lionel Brunie",
-          "Laurent Sarrat"
+          "Muhammad Ahmad Zafar",
+          "Falak Sher",
+          "Muhammad Umar Janjua",
+          "Salman Baset"
         ]
       },
       {
-        "title": "NBWGuard: Realizing Network QoS for Kubernetes.",
+        "title": "Towards Solving the Data Availability Problem for Sharded Ethereum.",
         "authors": [
-          "Cong Xu",
-          "Karthick Rajamani",
-          "Wesley M. Felter"
+          "Daniel Sel",
+          "Kaiwen Zhang",
+          "Hans-Arno Jacobsen"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2018t.html": {
+    "header": "19th Middleware Tutorials 2018: Rennes, France",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "Tutorial: Adaptive Replication and Partitioning in Data Systems.",
+        "authors": [
+          "Brad Glasbergen",
+          "Michael Abebe",
+          "Khuzaima Daudjee"
         ]
       },
       {
-        "title": "A High Performance, Scalable DNS Service for Very Large Scale Container Cloud Platforms.",
+        "title": "Blockchain Landscape and AI Renaissance: The Bright Path Forward.",
         "authors": [
-          "Haifeng Liu",
-          "Shugang Chen",
-          "Yongcheng Bao",
-          "Wanli Yang",
-          "Yuan Chen",
-          "Wei Ding",
-          "Huasong Shan"
-        ]
-      },
-      {
-        "title": "Resource Fairness and Prioritization of Transactions in Permissioned Blockchain Systems (Industry Track).",
-        "authors": [
-          "Seep Goel",
-          "Abhishek Singh",
-          "Rachit Garg",
-          "Mudit Verma",
-          "Praveen Jayachandran"
-        ]
-      },
-      {
-        "title": "BcWAN: A Federated Low-Power WAN for the Internet of Things (Industry track).",
-        "authors": [
-          "Mehdi Bezahaf",
-          "Gaëtan Cathelain",
-          "Tony Ducrocq"
+          "Hans-Arno Jacobsen",
+          "Mohammad Sadoghi",
+          "Mohammad Hossein Tabatabaei",
+          "Roman Vitenberg",
+          "Kaiwen Zhang"
         ]
       }
     ]
@@ -3369,47 +3354,86 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/serial2018.html": {
-    "header": "SERIAL@Middleware 2018: Rennes, France",
+  "https://dblp.org/db/conf/middleware/middleware2018i.html": {
+    "header": "Middleware Industry 2018: Rennes, France",
     "year": "2018",
     "papers": [
       {
-        "title": "StreamChain: Do Blockchains Need Blocks?",
+        "title": "Serverless Data Analytics in the IBM Cloud.",
         "authors": [
-          "Zsolt István",
-          "Alessandro Sorniotti",
-          "Marko Vukolic"
+          "Josep Sampé",
+          "Gil Vernik",
+          "Marc Sánchez Artigas",
+          "Pedro García López"
         ]
       },
       {
-        "title": "Off-chaining Models and Approaches to Off-chain Computations.",
+        "title": "The Design and Implementation of a Real Time Visual Search System on JD E-commerce Platform.",
         "authors": [
-          "Jacob Eberhardt",
-          "Jonathan Heiss"
+          "Jie Li",
+          "Haifeng Liu",
+          "Chuanghua Gui",
+          "Jianyu Chen",
+          "Zhenyuan Ni",
+          "Ning Wang",
+          "Yuan Chen"
         ]
       },
       {
-        "title": "Scaling Byzantine Consensus: A Broad Analysis.",
+        "title": "DéjàVu: Bringing Black-box Security Analytics to Cloud.",
         "authors": [
-          "Christian Berger",
-          "Hans P. Reiser"
+          "Shripad Nadgowda",
+          "Canturk Isci",
+          "Mustafa Bal"
         ]
       },
       {
-        "title": "Sol2js: Translating Solidity Contracts into Javascript for Hyperledger Fabric.",
+        "title": "Exploratory Study of Privacy Preserving Fraud Detection.",
         "authors": [
-          "Muhammad Ahmad Zafar",
-          "Falak Sher",
-          "Muhammad Umar Janjua",
-          "Salman Baset"
+          "Rémi Canillas",
+          "Rania Talbi",
+          "Sara Bouchenak",
+          "Omar Hasan",
+          "Lionel Brunie",
+          "Laurent Sarrat"
         ]
       },
       {
-        "title": "Towards Solving the Data Availability Problem for Sharded Ethereum.",
+        "title": "NBWGuard: Realizing Network QoS for Kubernetes.",
         "authors": [
-          "Daniel Sel",
-          "Kaiwen Zhang",
-          "Hans-Arno Jacobsen"
+          "Cong Xu",
+          "Karthick Rajamani",
+          "Wesley M. Felter"
+        ]
+      },
+      {
+        "title": "A High Performance, Scalable DNS Service for Very Large Scale Container Cloud Platforms.",
+        "authors": [
+          "Haifeng Liu",
+          "Shugang Chen",
+          "Yongcheng Bao",
+          "Wanli Yang",
+          "Yuan Chen",
+          "Wei Ding",
+          "Huasong Shan"
+        ]
+      },
+      {
+        "title": "Resource Fairness and Prioritization of Transactions in Permissioned Blockchain Systems (Industry Track).",
+        "authors": [
+          "Seep Goel",
+          "Abhishek Singh",
+          "Rachit Garg",
+          "Mudit Verma",
+          "Praveen Jayachandran"
+        ]
+      },
+      {
+        "title": "BcWAN: A Federated Low-Power WAN for the Internet of Things (Industry track).",
+        "authors": [
+          "Mehdi Bezahaf",
+          "Gaëtan Cathelain",
+          "Tony Ducrocq"
         ]
       }
     ]
@@ -3712,74 +3736,62 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2018t.html": {
-    "header": "19th Middleware Tutorials 2018: Rennes, France",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "Tutorial: Adaptive Replication and Partitioning in Data Systems.",
-        "authors": [
-          "Brad Glasbergen",
-          "Michael Abebe",
-          "Khuzaima Daudjee"
-        ]
-      },
-      {
-        "title": "Blockchain Landscape and AI Renaissance: The Bright Path Forward.",
-        "authors": [
-          "Hans-Arno Jacobsen",
-          "Mohammad Sadoghi",
-          "Mohammad Hossein Tabatabaei",
-          "Roman Vitenberg",
-          "Kaiwen Zhang"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/ds2017.html": {
-    "header": "Middleware Doctoral Symposium 2017: Las Vegas, NV, USA",
+  "https://dblp.org/db/conf/middleware/wosc2017.html": {
+    "header": "WOSC@Middleware 2017: Las Vegas, NV, USA",
     "year": "2017",
     "papers": [
       {
-        "title": "Sharing a connectivity through informed proxy selection process.",
+        "title": "The SPEC cloud group's research vision on FaaS and serverless architectures.",
         "authors": [
-          "Khulan Batbayar"
+          "Erwin Van Eyk",
+          "Alexandru Iosup",
+          "Simon Seif",
+          "Markus Thömmes"
         ]
       },
       {
-        "title": "Message-oriented middleware for edge computing applications.",
+        "title": "Speeding up children reunification in disaster scenarios via serverless computing.",
         "authors": [
-          "Thomas Rausch"
+          "Kyle Coleman",
+          "Flavio Esposito",
+          "Rachel Charney"
         ]
       },
       {
-        "title": "Continuous experimentation for software developers.",
+        "title": "Serverless: beyond the cloud.",
         "authors": [
-          "Gerald Schermann"
+          "Ali Kanso",
+          "Alaa Youssef"
         ]
       },
       {
-        "title": "End-to-end regression testing for distributed systems.",
+        "title": "Using a serverless framework for implementing a cognitive tutor: experiences and issues.",
         "authors": [
-          "Eugenia Gabrielova"
+          "Nirmal K. Mukhi",
+          "Srijith Prabhu",
+          "Bruce Slawson"
         ]
       },
       {
-        "title": "Towards a framework for orchestrated distributed database evaluation in the cloud.",
+        "title": "Kappa: serverless IoT deployment.",
         "authors": [
-          "Daniel Seybold"
+          "Per Persson",
+          "Ola Angelsmark"
         ]
       },
       {
-        "title": "Toward software updates in IoT environments: why existing P2P systems are not enough.",
+        "title": "The less server architecture for cloud functions.",
         "authors": [
-          "Jean-Baptiste Trystram"
+          "Shripad Nadgowda",
+          "Nilton Bila",
+          "Canturk Isci"
         ]
       },
       {
-        "title": "Towards accelerating synchrophasor based linear state estimation of power grid systems.",
+        "title": "Self-contained web components through serverless computing.",
         "authors": [
-          "Vinaya Chakati"
+          "Markus Ast",
+          "Martin Gaedke"
         ]
       }
     ]
@@ -3850,49 +3862,6 @@
           "Stefano Lande",
           "Livio Pompianu",
           "Andrea Bracciali"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/m4iot2017.html": {
-    "header": "M4IoT@Middleware 2017: Las Vegas, NV, USA",
-    "year": "2017",
-    "papers": [
-      {
-        "title": "A dynamic decision fusion middleware for trustworthy context-aware IoT applications.",
-        "authors": [
-          "Tim Van hamme",
-          "Davy Preuveneers",
-          "Wouter Joosen"
-        ]
-      },
-      {
-        "title": "IoTVar to transparently handle interactions between applications and IoT platforms.",
-        "authors": [
-          "Clément Courtais",
-          "Chantal Taconet",
-          "Denis Conan",
-          "Sophie Chabridon",
-          "Porfírio Gomes",
-          "Everton Cavalcante",
-          "Thaís Batista"
-        ]
-      },
-      {
-        "title": "ThingsJS: towards a flexible and self-adaptable middleware for dynamic and heterogeneous IoT environments.",
-        "authors": [
-          "Julien Gascon-Samson",
-          "Mohammad Rafiuzzaman",
-          "Karthik Pattabiraman"
-        ]
-      },
-      {
-        "title": "PlaTIBART: a platform for transactive IoT blockchain applications with repeatable testing.",
-        "authors": [
-          "Michael A. Walker",
-          "Abhishek Dubey",
-          "Aron Laszka",
-          "Douglas C. Schmidt"
         ]
       }
     ]
@@ -4008,49 +3977,78 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/active2017.html": {
-    "header": "ACTIVE@Middleware 2017: Las Vegas, NV, USA",
+  "https://dblp.org/db/conf/middleware/middleware2017i.html": {
+    "header": "Middleware Industry 2017: Las Vegas, NV, USA",
     "year": "2017",
     "papers": [
       {
-        "title": "Netstore: leveraging network optimizations to improve distributed transaction processing performance.",
+        "title": "Reliable messaging to millions of users with migratorydata.",
         "authors": [
-          "Xu Cui",
-          "Michael Mior",
-          "Bernard Wong",
-          "Khuzaima Daudjee",
-          "Sajjad Rizvi"
+          "Mihai Rotaru",
+          "Florentin Olariu",
+          "Emanuel Onica",
+          "Etienne Rivière"
         ]
       },
       {
-        "title": "Online reconfigurable line-rate matching of filter rules.",
+        "title": "Accessing google scholar under extreme internet censorship: a legal avenue.",
         "authors": [
-          "Geoffrey Elliott",
-          "Hans-Arno Jacobsen"
+          "Zhen Lu",
+          "Zhenhua Li",
+          "Jian Yang",
+          "Tianyin Xu",
+          "Ennan Zhai",
+          "Yao Liu",
+          "Christo Wilson"
         ]
       },
       {
-        "title": "SABER: hybrid data processing with heterogeneous servers.",
+        "title": "Predicting DRAM reliability in the field with machine learning.",
         "authors": [
-          "Peter R. Pietzuch"
+          "Ioana Giurgiu",
+          "Jácint Szabó",
+          "Dorothea Wiesmann",
+          "John Bird"
         ]
       },
       {
-        "title": "Active network middleware with opennetVM.",
+        "title": "Darnet: a deep learning solution for distracted driving detection.",
         "authors": [
-          "Timothy Wood"
+          "Christopher Streiffer",
+          "Ramya Raghavendra",
+          "Theophilus Benson",
+          "Mudhakar Srivatsa"
         ]
       },
       {
-        "title": "Harnessing the power of software-defined networking for a high performance communication middleware.",
+        "title": "Usable declarative configuration specification and validation for applications, systems, and cloud.",
         "authors": [
-          "Sukanya Bhowmik"
+          "Salman Baset",
+          "Sahil Suneja",
+          "Nilton Bila",
+          "Ozan Tuncer",
+          "Canturk Isci"
         ]
       },
       {
-        "title": "Hardware accelerated application integration: challenges and opportunities.",
+        "title": "SμV - the security microvisor: a virtualisation-based security middleware for the internet of things.",
         "authors": [
-          "Daniel Ritter"
+          "Wilfried Daniels",
+          "Danny Hughes",
+          "Mahmoud Ammar",
+          "Bruno Crispo",
+          "Nelson Matthys",
+          "Wouter Joosen"
+        ]
+      },
+      {
+        "title": "Opvis: extensible, cross-platform operational visibility and analytics for cloud.",
+        "authors": [
+          "Fábio Oliveira",
+          "Sahil Suneja",
+          "Shripad Nadgowda",
+          "Priya Nagpurkar",
+          "Canturk Isci"
         ]
       }
     ]
@@ -4258,258 +4256,225 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/wosc2017.html": {
-    "header": "WOSC@Middleware 2017: Las Vegas, NV, USA",
+  "https://dblp.org/db/conf/middleware/m4iot2017.html": {
+    "header": "M4IoT@Middleware 2017: Las Vegas, NV, USA",
     "year": "2017",
     "papers": [
       {
-        "title": "The SPEC cloud group's research vision on FaaS and serverless architectures.",
+        "title": "A dynamic decision fusion middleware for trustworthy context-aware IoT applications.",
         "authors": [
-          "Erwin Van Eyk",
-          "Alexandru Iosup",
-          "Simon Seif",
-          "Markus Thömmes"
-        ]
-      },
-      {
-        "title": "Speeding up children reunification in disaster scenarios via serverless computing.",
-        "authors": [
-          "Kyle Coleman",
-          "Flavio Esposito",
-          "Rachel Charney"
-        ]
-      },
-      {
-        "title": "Serverless: beyond the cloud.",
-        "authors": [
-          "Ali Kanso",
-          "Alaa Youssef"
-        ]
-      },
-      {
-        "title": "Using a serverless framework for implementing a cognitive tutor: experiences and issues.",
-        "authors": [
-          "Nirmal K. Mukhi",
-          "Srijith Prabhu",
-          "Bruce Slawson"
-        ]
-      },
-      {
-        "title": "Kappa: serverless IoT deployment.",
-        "authors": [
-          "Per Persson",
-          "Ola Angelsmark"
-        ]
-      },
-      {
-        "title": "The less server architecture for cloud functions.",
-        "authors": [
-          "Shripad Nadgowda",
-          "Nilton Bila",
-          "Canturk Isci"
-        ]
-      },
-      {
-        "title": "Self-contained web components through serverless computing.",
-        "authors": [
-          "Markus Ast",
-          "Martin Gaedke"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/middleware2017i.html": {
-    "header": "Middleware Industry 2017: Las Vegas, NV, USA",
-    "year": "2017",
-    "papers": [
-      {
-        "title": "Reliable messaging to millions of users with migratorydata.",
-        "authors": [
-          "Mihai Rotaru",
-          "Florentin Olariu",
-          "Emanuel Onica",
-          "Etienne Rivière"
-        ]
-      },
-      {
-        "title": "Accessing google scholar under extreme internet censorship: a legal avenue.",
-        "authors": [
-          "Zhen Lu",
-          "Zhenhua Li",
-          "Jian Yang",
-          "Tianyin Xu",
-          "Ennan Zhai",
-          "Yao Liu",
-          "Christo Wilson"
-        ]
-      },
-      {
-        "title": "Predicting DRAM reliability in the field with machine learning.",
-        "authors": [
-          "Ioana Giurgiu",
-          "Jácint Szabó",
-          "Dorothea Wiesmann",
-          "John Bird"
-        ]
-      },
-      {
-        "title": "Darnet: a deep learning solution for distracted driving detection.",
-        "authors": [
-          "Christopher Streiffer",
-          "Ramya Raghavendra",
-          "Theophilus Benson",
-          "Mudhakar Srivatsa"
-        ]
-      },
-      {
-        "title": "Usable declarative configuration specification and validation for applications, systems, and cloud.",
-        "authors": [
-          "Salman Baset",
-          "Sahil Suneja",
-          "Nilton Bila",
-          "Ozan Tuncer",
-          "Canturk Isci"
-        ]
-      },
-      {
-        "title": "SμV - the security microvisor: a virtualisation-based security middleware for the internet of things.",
-        "authors": [
-          "Wilfried Daniels",
-          "Danny Hughes",
-          "Mahmoud Ammar",
-          "Bruno Crispo",
-          "Nelson Matthys",
+          "Tim Van hamme",
+          "Davy Preuveneers",
           "Wouter Joosen"
         ]
       },
       {
-        "title": "Opvis: extensible, cross-platform operational visibility and analytics for cloud.",
+        "title": "IoTVar to transparently handle interactions between applications and IoT platforms.",
         "authors": [
-          "Fábio Oliveira",
-          "Sahil Suneja",
-          "Shripad Nadgowda",
-          "Priya Nagpurkar",
-          "Canturk Isci"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/mecc2016.html": {
-    "header": "MECC@Middleware 2016: Trento, Italy",
-    "year": "2016",
-    "papers": [
-      {
-        "title": "Resource Constrained Offloading in Fog Computing.",
-        "authors": [
-          "Ajay Kattepur",
-          "Harshit Dohare",
-          "Visali Mushunuri",
-          "Hemant Kumar Rath",
-          "Anantha Simha"
+          "Clément Courtais",
+          "Chantal Taconet",
+          "Denis Conan",
+          "Sophie Chabridon",
+          "Porfírio Gomes",
+          "Everton Cavalcante",
+          "Thaís Batista"
         ]
       },
       {
-        "title": "Partial Replication Policies for Dynamic Distributed Transactional Memory in Edge Clouds.",
+        "title": "ThingsJS: towards a flexible and self-adaptable middleware for dynamic and heterogeneous IoT environments.",
         "authors": [
-          "Diogo Lima",
-          "Hugo Miranda",
-          "François Taïani"
+          "Julien Gascon-Samson",
+          "Mohammad Rafiuzzaman",
+          "Karthik Pattabiraman"
         ]
       },
       {
-        "title": "Towards the Opportunistic Combination of Mobile Ad-hoc Networks with Infrastructure Access.",
+        "title": "PlaTIBART: a platform for transactive IoT blockchain applications with repeatable testing.",
         "authors": [
-          "João A. Silva",
-          "João Leitão",
-          "Nuno M. Preguiça",
-          "João M. Lourenço",
-          "Hervé Paulino"
-        ]
-      },
-      {
-        "title": "Life Beyond Distributed Transactions on the Edge.",
-        "authors": [
-          "Ali Shoker",
-          "Ziad Kassam",
-          "Paulo Sérgio Almeida",
-          "Carlos Baquero"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/m4iot2016.html": {
-    "header": "3rd M4IoT@Middleware 2016: Trento, Italy",
-    "year": "2016",
-    "papers": [
-      {
-        "title": "The Role of Context and Resilient Middleware in Next Generation Smart Grids.",
-        "authors": [
+          "Michael A. Walker",
           "Abhishek Dubey",
-          "Subhav Pradhan",
-          "Douglas C. Schmidt",
-          "Sebnem Rusitschka",
-          "Monika Sturm"
-        ]
-      },
-      {
-        "title": "Contextual Relationship-based Activity Segmentation on an Event Stream in the IoT Environment with Multi-user Activities.",
-        "authors": [
-          "Minkyoung Cho",
-          "Younggi Kim",
-          "Younghee Lee"
-        ]
-      },
-      {
-        "title": "Operator Migration for Distributed Complex Event Processing in Device-to-Device Based Networks.",
-        "authors": [
-          "Rahul Chini Dwarakanath",
-          "Boris Koldehofe",
-          "Ralf Steinmetz"
-        ]
-      },
-      {
-        "title": "Lightweight Privacy-Preserving Averaging for the Internet of Things.",
-        "authors": [
-          "Tristan Allard",
-          "Davide Frey",
-          "George Giakkoupis",
-          "Julien Lepiller"
+          "Aron Laszka",
+          "Douglas C. Schmidt"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2016i.html": {
-    "header": "Middleware Industry 2016: Trento, Italy",
+  "https://dblp.org/db/conf/middleware/ds2017.html": {
+    "header": "Middleware Doctoral Symposium 2017: Las Vegas, NV, USA",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Sharing a connectivity through informed proxy selection process.",
+        "authors": [
+          "Khulan Batbayar"
+        ]
+      },
+      {
+        "title": "Message-oriented middleware for edge computing applications.",
+        "authors": [
+          "Thomas Rausch"
+        ]
+      },
+      {
+        "title": "Continuous experimentation for software developers.",
+        "authors": [
+          "Gerald Schermann"
+        ]
+      },
+      {
+        "title": "End-to-end regression testing for distributed systems.",
+        "authors": [
+          "Eugenia Gabrielova"
+        ]
+      },
+      {
+        "title": "Towards a framework for orchestrated distributed database evaluation in the cloud.",
+        "authors": [
+          "Daniel Seybold"
+        ]
+      },
+      {
+        "title": "Toward software updates in IoT environments: why existing P2P systems are not enough.",
+        "authors": [
+          "Jean-Baptiste Trystram"
+        ]
+      },
+      {
+        "title": "Towards accelerating synchrophasor based linear state estimation of power grid systems.",
+        "authors": [
+          "Vinaya Chakati"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/active2017.html": {
+    "header": "ACTIVE@Middleware 2017: Las Vegas, NV, USA",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Netstore: leveraging network optimizations to improve distributed transaction processing performance.",
+        "authors": [
+          "Xu Cui",
+          "Michael Mior",
+          "Bernard Wong",
+          "Khuzaima Daudjee",
+          "Sajjad Rizvi"
+        ]
+      },
+      {
+        "title": "Online reconfigurable line-rate matching of filter rules.",
+        "authors": [
+          "Geoffrey Elliott",
+          "Hans-Arno Jacobsen"
+        ]
+      },
+      {
+        "title": "SABER: hybrid data processing with heterogeneous servers.",
+        "authors": [
+          "Peter R. Pietzuch"
+        ]
+      },
+      {
+        "title": "Active network middleware with opennetVM.",
+        "authors": [
+          "Timothy Wood"
+        ]
+      },
+      {
+        "title": "Harnessing the power of software-defined networking for a high performance communication middleware.",
+        "authors": [
+          "Sukanya Bhowmik"
+        ]
+      },
+      {
+        "title": "Hardware accelerated application integration: challenges and opportunities.",
+        "authors": [
+          "Daniel Ritter"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/systex2016.html": {
+    "header": "1st SysTEX@Middleware 2016: Trento, Italy",
     "year": "2016",
     "papers": [
       {
-        "title": "MP-trie: Fast Spatial Queries on Moving Objects.",
+        "title": "Mitigating Password Database Breaches with Intel SGX.",
         "authors": [
-          "Raghu K. Ganti",
-          "Mudhakar Srivatsa",
-          "Dakshi Agrawal",
-          "Petros Zerfos",
-          "Jorge Ortiz"
+          "Helena Brekalo",
+          "Raoul Strackx",
+          "Frank Piessens"
         ]
       },
       {
-        "title": "A Supervised Learning Model for Identifying Inactive VMs in Private Cloud Data Centers.",
+        "title": "Proof of Luck: an Efficient Blockchain Consensus Protocol.",
         "authors": [
-          "In Kee Kim",
-          "Sai Zeng",
-          "Christopher C. Young",
-          "Jinho Hwang",
-          "Marty Humphrey"
+          "Mitar Milutinovic",
+          "Warren He",
+          "Howard Wu",
+          "Maxinder Kanwal"
         ]
       },
       {
-        "title": "Towards Scalable Service Composition.",
+        "title": "Developing Secure SGX Enclaves: New Challenges on the Horizon.",
         "authors": [
-          "Elyas Ben Hadj Yahia",
-          "Inti Y. Gonzalez-Herrera",
-          "Anthony Bayle",
-          "Yérom-David Bromberg",
-          "Laurent Réveillère"
+          "Raoul Strackx",
+          "Frank Piessens"
+        ]
+      },
+      {
+        "title": "A Case for Protecting Computer Games With SGX.",
+        "authors": [
+          "Erick Bauman",
+          "Zhiqiang Lin"
+        ]
+      },
+      {
+        "title": "Exploring the use of Intel SGX for Secure Many-Party Applications.",
+        "authors": [
+          "Kubilay Ahmet Küçük",
+          "Andrew Paverd",
+          "Andrew Martin",
+          "N. Asokan",
+          "Andrew Simpson",
+          "Robin Ankele"
+        ]
+      },
+      {
+        "title": "Avoiding Leakage and Synchronization Attacks through Enclave-Side Preemption Control.",
+        "authors": [
+          "Marcus Völp",
+          "Adam Lackorzynski",
+          "Jérémie Decouchant",
+          "Vincent Rahli",
+          "Francisco Rocha",
+          "Paulo Jorge Esteves Veríssimo"
+        ]
+      },
+      {
+        "title": "Analysis of Trusted Execution Environment usage in Samsung KNOX.",
+        "authors": [
+          "Ahmad Atamli-Reineh",
+          "Ravishankar Borgaonkar",
+          "Ranjbar A. Balisane",
+          "Giuseppe Petracca",
+          "Andrew P. Martin"
+        ]
+      },
+      {
+        "title": "Isolating Operating System Components with Intel SGX.",
+        "authors": [
+          "Lars Richter",
+          "Johannes Götzfried",
+          "Tilo Müller"
+        ]
+      },
+      {
+        "title": "Protecting Password Databases using Trusted Hardware.",
+        "authors": [
+          "Klaudia Krawiecka",
+          "Andrew Paverd",
+          "N. Asokan"
         ]
       }
     ]
@@ -4566,99 +4531,6 @@
         "title": "Situational Data-Analytics for the Web-of-Things.",
         "authors": [
           "Christian Zirpins"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/iwsc2016.html": {
-    "header": "2nd IWSC@Middleware 2016: Trento, Italy",
-    "year": "2016",
-    "papers": [
-      {
-        "title": "Toward On-Demand Urban Air Quality Monitoring using Public Vehicles.",
-        "authors": [
-          "Yoshinari Shirai",
-          "Yasue Kishino",
-          "Futoshi Naya",
-          "Yutaka Yanagisawa"
-        ]
-      },
-      {
-        "title": "SOXFire: A Universal Sensor Network System for Sharing Social Big Sensor Data in Smart Cities.",
-        "authors": [
-          "Takuro Yonezawa",
-          "Tomotaka Ito",
-          "Jin Nakazawa",
-          "Hideyuki Tokuda"
-        ]
-      },
-      {
-        "title": "Increasing Bicycle Usage in Smart Cities.",
-        "authors": [
-          "João Barreto",
-          "Miguel B. Costa",
-          "Rodrigo Lourenço",
-          "Paulo Ferreira",
-          "Joño Bernardino",
-          "Bossuyt Evelien",
-          "Jan Christiaens",
-          "Deham Nick",
-          "Franchois Elke",
-          "Vleugels Ilse"
-        ]
-      },
-      {
-        "title": "SoS-centric Middleware Services for Interoperability in Smart Cities Systems.",
-        "authors": [
-          "Frederico Lopes",
-          "Stefano Momo Loss",
-          "Altair Mendes",
-          "Thaís Batista",
-          "Rodger Lea"
-        ]
-      },
-      {
-        "title": "Graph regularized Non-negative Tensor Completion for spatio-temporal data analysis.",
-        "authors": [
-          "Koh Takeuchi",
-          "Naonori Ueda"
-        ]
-      },
-      {
-        "title": "An Empirical Study on Coverage-Ensured Automotive Sensing using Door-to-door Garbage Collecting Trucks.",
-        "authors": [
-          "Yin Chen",
-          "Jin Nakazawa",
-          "Takuro Yonezawa",
-          "Takafumi Kawasaki",
-          "Hideyuki Tokuda"
-        ]
-      },
-      {
-        "title": "On Building Smart City IoT Applications: a Coordination-based Perspective.",
-        "authors": [
-          "Nam Ky Giang",
-          "Rodger Lea",
-          "Michael Blackstock",
-          "Victor C. M. Leung"
-        ]
-      },
-      {
-        "title": "Efficient Processing of Mobile Crowdsourcing Queries with Multiple Sub-tasks for Facilitating Smart Cities.",
-        "authors": [
-          "Nilesh Padhariya",
-          "Anirban Mondal",
-          "Sanjay Kumar Madria"
-        ]
-      },
-      {
-        "title": "Thinking Smart Cities as Systems-of-Systems: A Perspective Study.",
-        "authors": [
-          "Everton Cavalcante",
-          "Nélio Cacho",
-          "Frederico Lopes",
-          "Thaís Batista",
-          "Flávio Oquendo"
         ]
       }
     ]
@@ -4810,6 +4682,42 @@
         "authors": [
           "Paul Fremantle",
           "Benjamin Aziz"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2016i.html": {
+    "header": "Middleware Industry 2016: Trento, Italy",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "MP-trie: Fast Spatial Queries on Moving Objects.",
+        "authors": [
+          "Raghu K. Ganti",
+          "Mudhakar Srivatsa",
+          "Dakshi Agrawal",
+          "Petros Zerfos",
+          "Jorge Ortiz"
+        ]
+      },
+      {
+        "title": "A Supervised Learning Model for Identifying Inactive VMs in Private Cloud Data Centers.",
+        "authors": [
+          "In Kee Kim",
+          "Sai Zeng",
+          "Christopher C. Young",
+          "Jinho Hwang",
+          "Marty Humphrey"
+        ]
+      },
+      {
+        "title": "Towards Scalable Service Composition.",
+        "authors": [
+          "Elyas Ben Hadj Yahia",
+          "Inti Y. Gonzalez-Herrera",
+          "Anthony Bayle",
+          "Yérom-David Bromberg",
+          "Laurent Réveillère"
         ]
       }
     ]
@@ -5018,87 +4926,179 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/systex2016.html": {
-    "header": "1st SysTEX@Middleware 2016: Trento, Italy",
+  "https://dblp.org/db/conf/middleware/mecc2016.html": {
+    "header": "MECC@Middleware 2016: Trento, Italy",
     "year": "2016",
     "papers": [
       {
-        "title": "Mitigating Password Database Breaches with Intel SGX.",
+        "title": "Resource Constrained Offloading in Fog Computing.",
         "authors": [
-          "Helena Brekalo",
-          "Raoul Strackx",
-          "Frank Piessens"
+          "Ajay Kattepur",
+          "Harshit Dohare",
+          "Visali Mushunuri",
+          "Hemant Kumar Rath",
+          "Anantha Simha"
         ]
       },
       {
-        "title": "Proof of Luck: an Efficient Blockchain Consensus Protocol.",
+        "title": "Partial Replication Policies for Dynamic Distributed Transactional Memory in Edge Clouds.",
         "authors": [
-          "Mitar Milutinovic",
-          "Warren He",
-          "Howard Wu",
-          "Maxinder Kanwal"
+          "Diogo Lima",
+          "Hugo Miranda",
+          "François Taïani"
         ]
       },
       {
-        "title": "Developing Secure SGX Enclaves: New Challenges on the Horizon.",
+        "title": "Towards the Opportunistic Combination of Mobile Ad-hoc Networks with Infrastructure Access.",
         "authors": [
-          "Raoul Strackx",
-          "Frank Piessens"
+          "João A. Silva",
+          "João Leitão",
+          "Nuno M. Preguiça",
+          "João M. Lourenço",
+          "Hervé Paulino"
         ]
       },
       {
-        "title": "A Case for Protecting Computer Games With SGX.",
+        "title": "Life Beyond Distributed Transactions on the Edge.",
         "authors": [
-          "Erick Bauman",
-          "Zhiqiang Lin"
+          "Ali Shoker",
+          "Ziad Kassam",
+          "Paulo Sérgio Almeida",
+          "Carlos Baquero"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/m4iot2016.html": {
+    "header": "3rd M4IoT@Middleware 2016: Trento, Italy",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "The Role of Context and Resilient Middleware in Next Generation Smart Grids.",
+        "authors": [
+          "Abhishek Dubey",
+          "Subhav Pradhan",
+          "Douglas C. Schmidt",
+          "Sebnem Rusitschka",
+          "Monika Sturm"
         ]
       },
       {
-        "title": "Exploring the use of Intel SGX for Secure Many-Party Applications.",
+        "title": "Contextual Relationship-based Activity Segmentation on an Event Stream in the IoT Environment with Multi-user Activities.",
         "authors": [
-          "Kubilay Ahmet Küçük",
-          "Andrew Paverd",
-          "Andrew Martin",
-          "N. Asokan",
-          "Andrew Simpson",
-          "Robin Ankele"
+          "Minkyoung Cho",
+          "Younggi Kim",
+          "Younghee Lee"
         ]
       },
       {
-        "title": "Avoiding Leakage and Synchronization Attacks through Enclave-Side Preemption Control.",
+        "title": "Operator Migration for Distributed Complex Event Processing in Device-to-Device Based Networks.",
         "authors": [
-          "Marcus Völp",
-          "Adam Lackorzynski",
-          "Jérémie Decouchant",
-          "Vincent Rahli",
-          "Francisco Rocha",
-          "Paulo Jorge Esteves Veríssimo"
+          "Rahul Chini Dwarakanath",
+          "Boris Koldehofe",
+          "Ralf Steinmetz"
         ]
       },
       {
-        "title": "Analysis of Trusted Execution Environment usage in Samsung KNOX.",
+        "title": "Lightweight Privacy-Preserving Averaging for the Internet of Things.",
         "authors": [
-          "Ahmad Atamli-Reineh",
-          "Ravishankar Borgaonkar",
-          "Ranjbar A. Balisane",
-          "Giuseppe Petracca",
-          "Andrew P. Martin"
+          "Tristan Allard",
+          "Davide Frey",
+          "George Giakkoupis",
+          "Julien Lepiller"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/iwsc2016.html": {
+    "header": "2nd IWSC@Middleware 2016: Trento, Italy",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "Toward On-Demand Urban Air Quality Monitoring using Public Vehicles.",
+        "authors": [
+          "Yoshinari Shirai",
+          "Yasue Kishino",
+          "Futoshi Naya",
+          "Yutaka Yanagisawa"
         ]
       },
       {
-        "title": "Isolating Operating System Components with Intel SGX.",
+        "title": "SOXFire: A Universal Sensor Network System for Sharing Social Big Sensor Data in Smart Cities.",
         "authors": [
-          "Lars Richter",
-          "Johannes Götzfried",
-          "Tilo Müller"
+          "Takuro Yonezawa",
+          "Tomotaka Ito",
+          "Jin Nakazawa",
+          "Hideyuki Tokuda"
         ]
       },
       {
-        "title": "Protecting Password Databases using Trusted Hardware.",
+        "title": "Increasing Bicycle Usage in Smart Cities.",
         "authors": [
-          "Klaudia Krawiecka",
-          "Andrew Paverd",
-          "N. Asokan"
+          "João Barreto",
+          "Miguel B. Costa",
+          "Rodrigo Lourenço",
+          "Paulo Ferreira",
+          "Joño Bernardino",
+          "Bossuyt Evelien",
+          "Jan Christiaens",
+          "Deham Nick",
+          "Franchois Elke",
+          "Vleugels Ilse"
+        ]
+      },
+      {
+        "title": "SoS-centric Middleware Services for Interoperability in Smart Cities Systems.",
+        "authors": [
+          "Frederico Lopes",
+          "Stefano Momo Loss",
+          "Altair Mendes",
+          "Thaís Batista",
+          "Rodger Lea"
+        ]
+      },
+      {
+        "title": "Graph regularized Non-negative Tensor Completion for spatio-temporal data analysis.",
+        "authors": [
+          "Koh Takeuchi",
+          "Naonori Ueda"
+        ]
+      },
+      {
+        "title": "An Empirical Study on Coverage-Ensured Automotive Sensing using Door-to-door Garbage Collecting Trucks.",
+        "authors": [
+          "Yin Chen",
+          "Jin Nakazawa",
+          "Takuro Yonezawa",
+          "Takafumi Kawasaki",
+          "Hideyuki Tokuda"
+        ]
+      },
+      {
+        "title": "On Building Smart City IoT Applications: a Coordination-based Perspective.",
+        "authors": [
+          "Nam Ky Giang",
+          "Rodger Lea",
+          "Michael Blackstock",
+          "Victor C. M. Leung"
+        ]
+      },
+      {
+        "title": "Efficient Processing of Mobile Crowdsourcing Queries with Multiple Sub-tasks for Facilitating Smart Cities.",
+        "authors": [
+          "Nilesh Padhariya",
+          "Anirban Mondal",
+          "Sanjay Kumar Madria"
+        ]
+      },
+      {
+        "title": "Thinking Smart Cities as Systems-of-Systems: A Perspective Study.",
+        "authors": [
+          "Everton Cavalcante",
+          "Nélio Cacho",
+          "Frederico Lopes",
+          "Thaís Batista",
+          "Flávio Oquendo"
         ]
       }
     ]
@@ -5165,6 +5165,35 @@
         "title": "Position paper: Toward an holistic approach of Systems of Systems.",
         "authors": [
           "Simon Bouget"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/vt2015.html": {
+    "header": "VT@Middleware 2015: Vancouver, BC, Canada",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Kyoto: Applying the polluters pay principle to cache contention in an IaaS.",
+        "authors": [
+          "Vo Quoc Bao Bui",
+          "Boris Teabe",
+          "Alain Tchana",
+          "Daniel Hagimont"
+        ]
+      },
+      {
+        "title": "An Adaptive Resource Provisioning Scheme for Effective QoS Maintenance in the IaaS Cloud.",
+        "authors": [
+          "Abiola Adegboyega"
+        ]
+      },
+      {
+        "title": "How to bid and report in the Market of Virtualized Resources of Cloud Computing.",
+        "authors": [
+          "Junwu Zhu",
+          "Heng Song",
+          "Fang Liu"
         ]
       }
     ]
@@ -5245,136 +5274,6 @@
           "Hiroshi Araki",
           "Norie Iwasaki",
           "Thomas W. Bish"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/ds2015.html": {
-    "header": "Middleware Doctoral Symposium 2015: Vancouver, BC, Canada",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Enhancing the Internet of Things with Reconfigurable Hardware and Software.",
-        "authors": [
-          "Fan Yang"
-        ]
-      },
-      {
-        "title": "Towards Semantic Integration of Heterogeneous Sensor Data with Indigenous Knowledge for Drought Forecasting.",
-        "authors": [
-          "Adeyinka K. Akanbi",
-          "Muthoni Masinde"
-        ]
-      },
-      {
-        "title": "Advanced monitoring and smart auto-scaling of NoSQL systems.",
-        "authors": [
-          "Arnaud Schoonjans",
-          "Bert Lagaisse",
-          "Wouter Joosen"
-        ]
-      },
-      {
-        "title": "Distributed Data Flow: a Programming Model for the Crowdsourced Internet of Things.",
-        "authors": [
-          "Nam Ky Giang",
-          "Michael Blackstock",
-          "Rodger Lea",
-          "Victor C. M. Leung"
-        ]
-      },
-      {
-        "title": "Towards a Scalable, Distributed Metadata Service for Causal Consistency under Partial Geo-replication.",
-        "authors": [
-          "Manuel Bravo",
-          "Luís E. T. Rodrigues",
-          "Peter Van Roy"
-        ]
-      },
-      {
-        "title": "Optimal Resource Provisioning Approach based on Cost Modeling for Spark Applications in Public Clouds.",
-        "authors": [
-          "Jianfei Ruan",
-          "Qinghua Zheng",
-          "Bo Dong"
-        ]
-      },
-      {
-        "title": "Graph-Based Publish/Subscribe Research with Dynamic Subscriptions.",
-        "authors": [
-          "César Cañas",
-          "Eduardo Pacheco"
-        ]
-      },
-      {
-        "title": "Drums: a Middleware-Aware Distributed Robot Monitoring System.",
-        "authors": [
-          "Valiallah Mani Monajjemi",
-          "Jens Wawerla",
-          "Richard T. Vaughan"
-        ]
-      },
-      {
-        "title": "Intrusion Detection System for Embedded Systems.",
-        "authors": [
-          "Farid Molazem Tabrizi",
-          "Karthik Pattabiraman"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/m4iot2015.html": {
-    "header": "2nd M4IoT@Middleware 2015: Vancouver, BC, Canada",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Cassowary: Middleware Platform for Context-Aware Smart Buildings with Software-Defined Sensor Networks.",
-        "authors": [
-          "Pradeeban Kathiravelu",
-          "Leila Sharifi",
-          "Luís Veiga"
-        ]
-      },
-      {
-        "title": "Safe Composition in Middleware for the Internet of Things.",
-        "authors": [
-          "Ines Sarray",
-          "Annie Ressouche",
-          "Daniel Gaffé",
-          "Jean-Yves Tigli",
-          "Stephane Lavirotte"
-        ]
-      },
-      {
-        "title": "Tomography: lowering management overhead for distributed component-based applications.",
-        "authors": [
-          "Wilfried Daniels",
-          "José Proença",
-          "Nelson Matthys",
-          "Wouter Joosen",
-          "Danny Hughes"
-        ]
-      },
-      {
-        "title": "DIANNE: Distributed Artificial Neural Networks for the Internet of Things.",
-        "authors": [
-          "Elias De Coninck",
-          "Tim Verbelen",
-          "Bert Vankeirsbilck",
-          "Steven Bohez",
-          "Sam Leroux",
-          "Pieter Simoens"
-        ]
-      },
-      {
-        "title": "A Federated Discovery Service for the Internet of Things.",
-        "authors": [
-          "Porfírio Gomes",
-          "Everton Cavalcante",
-          "Taniro Rodrigues",
-          "Thaís Vasconcelos Batista",
-          "Flávia Coimbra Delicato",
-          "Paulo F. Pires"
         ]
       }
     ]
@@ -5643,31 +5542,196 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/vt2015.html": {
-    "header": "VT@Middleware 2015: Vancouver, BC, Canada",
+  "https://dblp.org/db/conf/middleware/m4iot2015.html": {
+    "header": "2nd M4IoT@Middleware 2015: Vancouver, BC, Canada",
     "year": "2015",
     "papers": [
       {
-        "title": "Kyoto: Applying the polluters pay principle to cache contention in an IaaS.",
+        "title": "Cassowary: Middleware Platform for Context-Aware Smart Buildings with Software-Defined Sensor Networks.",
         "authors": [
-          "Vo Quoc Bao Bui",
-          "Boris Teabe",
-          "Alain Tchana",
-          "Daniel Hagimont"
+          "Pradeeban Kathiravelu",
+          "Leila Sharifi",
+          "Luís Veiga"
         ]
       },
       {
-        "title": "An Adaptive Resource Provisioning Scheme for Effective QoS Maintenance in the IaaS Cloud.",
+        "title": "Safe Composition in Middleware for the Internet of Things.",
         "authors": [
-          "Abiola Adegboyega"
+          "Ines Sarray",
+          "Annie Ressouche",
+          "Daniel Gaffé",
+          "Jean-Yves Tigli",
+          "Stephane Lavirotte"
         ]
       },
       {
-        "title": "How to bid and report in the Market of Virtualized Resources of Cloud Computing.",
+        "title": "Tomography: lowering management overhead for distributed component-based applications.",
         "authors": [
-          "Junwu Zhu",
-          "Heng Song",
-          "Fang Liu"
+          "Wilfried Daniels",
+          "José Proença",
+          "Nelson Matthys",
+          "Wouter Joosen",
+          "Danny Hughes"
+        ]
+      },
+      {
+        "title": "DIANNE: Distributed Artificial Neural Networks for the Internet of Things.",
+        "authors": [
+          "Elias De Coninck",
+          "Tim Verbelen",
+          "Bert Vankeirsbilck",
+          "Steven Bohez",
+          "Sam Leroux",
+          "Pieter Simoens"
+        ]
+      },
+      {
+        "title": "A Federated Discovery Service for the Internet of Things.",
+        "authors": [
+          "Porfírio Gomes",
+          "Everton Cavalcante",
+          "Taniro Rodrigues",
+          "Thaís Vasconcelos Batista",
+          "Flávia Coimbra Delicato",
+          "Paulo F. Pires"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/ds2015.html": {
+    "header": "Middleware Doctoral Symposium 2015: Vancouver, BC, Canada",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Enhancing the Internet of Things with Reconfigurable Hardware and Software.",
+        "authors": [
+          "Fan Yang"
+        ]
+      },
+      {
+        "title": "Towards Semantic Integration of Heterogeneous Sensor Data with Indigenous Knowledge for Drought Forecasting.",
+        "authors": [
+          "Adeyinka K. Akanbi",
+          "Muthoni Masinde"
+        ]
+      },
+      {
+        "title": "Advanced monitoring and smart auto-scaling of NoSQL systems.",
+        "authors": [
+          "Arnaud Schoonjans",
+          "Bert Lagaisse",
+          "Wouter Joosen"
+        ]
+      },
+      {
+        "title": "Distributed Data Flow: a Programming Model for the Crowdsourced Internet of Things.",
+        "authors": [
+          "Nam Ky Giang",
+          "Michael Blackstock",
+          "Rodger Lea",
+          "Victor C. M. Leung"
+        ]
+      },
+      {
+        "title": "Towards a Scalable, Distributed Metadata Service for Causal Consistency under Partial Geo-replication.",
+        "authors": [
+          "Manuel Bravo",
+          "Luís E. T. Rodrigues",
+          "Peter Van Roy"
+        ]
+      },
+      {
+        "title": "Optimal Resource Provisioning Approach based on Cost Modeling for Spark Applications in Public Clouds.",
+        "authors": [
+          "Jianfei Ruan",
+          "Qinghua Zheng",
+          "Bo Dong"
+        ]
+      },
+      {
+        "title": "Graph-Based Publish/Subscribe Research with Dynamic Subscriptions.",
+        "authors": [
+          "César Cañas",
+          "Eduardo Pacheco"
+        ]
+      },
+      {
+        "title": "Drums: a Middleware-Aware Distributed Robot Monitoring System.",
+        "authors": [
+          "Valiallah Mani Monajjemi",
+          "Jens Wawerla",
+          "Richard T. Vaughan"
+        ]
+      },
+      {
+        "title": "Intrusion Detection System for Embedded Systems.",
+        "authors": [
+          "Farid Molazem Tabrizi",
+          "Karthik Pattabiraman"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/mw4ng2014.html": {
+    "header": "9th MW4NG@Middleware 2014: Bordeaux, France",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Towards efficient and accurate privacy preserving web search.",
+        "authors": [
+          "Albin Petit",
+          "Sonia Ben Mokhtar",
+          "Lionel Brunie",
+          "Harald Kosch"
+        ]
+      },
+      {
+        "title": "Moana: a case for redefining the internet service abstraction.",
+        "authors": [
+          "Yan Shvartzshnaider",
+          "Maximilian Ott"
+        ]
+      },
+      {
+        "title": "Distributed event-based system with multiscoping for multiscalability.",
+        "authors": [
+          "Léon Lim",
+          "Denis Conan"
+        ]
+      },
+      {
+        "title": "Multi-site Gargamel: optimistic synchronization for reliable geo-replicated databases.",
+        "authors": [
+          "Pierpaolo Cincilla",
+          "Sébastien Monnet",
+          "Marc Shapiro"
+        ]
+      },
+      {
+        "title": "Speculative client execution in deferred update replication.",
+        "authors": [
+          "Balaji Arun",
+          "Sachin Hirve",
+          "Roberto Palmieri",
+          "Sebastiano Peluso",
+          "Binoy Ravindran"
+        ]
+      },
+      {
+        "title": "Towards a model@runtime middleware for cyber physical systems.",
+        "authors": [
+          "Francisco Javier Acosta Padilla",
+          "Frédéric Weis",
+          "Johann Bourcier"
+        ]
+      },
+      {
+        "title": "An architecture for a smart spaces virtual machine.",
+        "authors": [
+          "Leandro Alexandre Freitas",
+          "Fábio M. Costa",
+          "Ricardo Couto Antunes da Rocha",
+          "Andrew A. Allen"
         ]
       }
     ]
@@ -5874,6 +5938,62 @@
           "Christophe Ribeiro",
           "Romain Rouvoy",
           "Sonia Ben Mokhtar"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2014i.html": {
+    "header": "15th Middleware 2014: Bordeaux, France - Industry Track",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "The X-flex cross-platform scheduler: who's the fairest of them all?",
+        "authors": [
+          "Joel L. Wolf",
+          "Zubair Nabi",
+          "Viswanath Nagarajan",
+          "Robert Saccone",
+          "Rohit Wagle",
+          "Kirsten Hildrum",
+          "Edward Pring",
+          "Kanthi K. Sarpatwar"
+        ]
+      },
+      {
+        "title": "Virtual GPS: a middleware for power efficient localization of smartphones using cross layer approach.",
+        "authors": [
+          "Sravan Kumar Thokala",
+          "Pranav Koundinyaa",
+          "Shivakant Mishra",
+          "Larry Shi"
+        ]
+      },
+      {
+        "title": "PMWare: a middleware for discovering and managing places of human interest.",
+        "authors": [
+          "Kuldeep Yadav",
+          "Abhishek Kumar",
+          "Prateek Jassal",
+          "Vinayak S. Naik"
+        ]
+      },
+      {
+        "title": "Scheduling online repartitioning in OLTP systems.",
+        "authors": [
+          "Kaiji Chen",
+          "Yongluan Zhou",
+          "Yu Cao"
+        ]
+      },
+      {
+        "title": "Improving readiness for enterprise migration to the cloud.",
+        "authors": [
+          "Jill Jermyn",
+          "Jinho Hwang",
+          "Kun Bai",
+          "Maja Vukovic",
+          "Nikos Anerousis",
+          "Salvatore J. Stolfo"
         ]
       }
     ]
@@ -6120,85 +6240,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2014i.html": {
-    "header": "15th Middleware 2014: Bordeaux, France - Industry Track",
-    "year": "2014",
-    "papers": [
-      {
-        "title": "The X-flex cross-platform scheduler: who's the fairest of them all?",
-        "authors": [
-          "Joel L. Wolf",
-          "Zubair Nabi",
-          "Viswanath Nagarajan",
-          "Robert Saccone",
-          "Rohit Wagle",
-          "Kirsten Hildrum",
-          "Edward Pring",
-          "Kanthi K. Sarpatwar"
-        ]
-      },
-      {
-        "title": "Virtual GPS: a middleware for power efficient localization of smartphones using cross layer approach.",
-        "authors": [
-          "Sravan Kumar Thokala",
-          "Pranav Koundinyaa",
-          "Shivakant Mishra",
-          "Larry Shi"
-        ]
-      },
-      {
-        "title": "PMWare: a middleware for discovering and managing places of human interest.",
-        "authors": [
-          "Kuldeep Yadav",
-          "Abhishek Kumar",
-          "Prateek Jassal",
-          "Vinayak S. Naik"
-        ]
-      },
-      {
-        "title": "Scheduling online repartitioning in OLTP systems.",
-        "authors": [
-          "Kaiji Chen",
-          "Yongluan Zhou",
-          "Yu Cao"
-        ]
-      },
-      {
-        "title": "Improving readiness for enterprise migration to the cloud.",
-        "authors": [
-          "Jill Jermyn",
-          "Jinho Hwang",
-          "Kun Bai",
-          "Maja Vukovic",
-          "Nikos Anerousis",
-          "Salvatore J. Stolfo"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/ds2014.html": {
-    "header": "11th Middleware Doctoral Symposium 2014: Bordeaux, France",
-    "year": "2014",
-    "papers": [
-      {
-        "title": "Improving the energy efficiency of software systems for multi-core architectures.",
-        "authors": [
-          "Maxime Colmant",
-          "Romain Rouvoy",
-          "Lionel Seinturier"
-        ]
-      },
-      {
-        "title": "A middleware-based approach for QoS-aware deployment of service choreography in the cloud.",
-        "authors": [
-          "Raphael de Aquino Gomes",
-          "Fábio M. Costa",
-          "Ricardo Couto Antunes da Rocha",
-          "Nikolaos Georgantas"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/middleware/m4iot2014.html": {
     "header": "M4IoT@Middleware 2014: Bordeaux, France",
     "year": "2014",
@@ -6257,66 +6298,25 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/mw4ng2014.html": {
-    "header": "9th MW4NG@Middleware 2014: Bordeaux, France",
+  "https://dblp.org/db/conf/middleware/ds2014.html": {
+    "header": "11th Middleware Doctoral Symposium 2014: Bordeaux, France",
     "year": "2014",
     "papers": [
       {
-        "title": "Towards efficient and accurate privacy preserving web search.",
+        "title": "Improving the energy efficiency of software systems for multi-core architectures.",
         "authors": [
-          "Albin Petit",
-          "Sonia Ben Mokhtar",
-          "Lionel Brunie",
-          "Harald Kosch"
+          "Maxime Colmant",
+          "Romain Rouvoy",
+          "Lionel Seinturier"
         ]
       },
       {
-        "title": "Moana: a case for redefining the internet service abstraction.",
+        "title": "A middleware-based approach for QoS-aware deployment of service choreography in the cloud.",
         "authors": [
-          "Yan Shvartzshnaider",
-          "Maximilian Ott"
-        ]
-      },
-      {
-        "title": "Distributed event-based system with multiscoping for multiscalability.",
-        "authors": [
-          "Léon Lim",
-          "Denis Conan"
-        ]
-      },
-      {
-        "title": "Multi-site Gargamel: optimistic synchronization for reliable geo-replicated databases.",
-        "authors": [
-          "Pierpaolo Cincilla",
-          "Sébastien Monnet",
-          "Marc Shapiro"
-        ]
-      },
-      {
-        "title": "Speculative client execution in deferred update replication.",
-        "authors": [
-          "Balaji Arun",
-          "Sachin Hirve",
-          "Roberto Palmieri",
-          "Sebastiano Peluso",
-          "Binoy Ravindran"
-        ]
-      },
-      {
-        "title": "Towards a model@runtime middleware for cyber physical systems.",
-        "authors": [
-          "Francisco Javier Acosta Padilla",
-          "Frédéric Weis",
-          "Johann Bourcier"
-        ]
-      },
-      {
-        "title": "An architecture for a smart spaces virtual machine.",
-        "authors": [
-          "Leandro Alexandre Freitas",
+          "Raphael de Aquino Gomes",
           "Fábio M. Costa",
           "Ricardo Couto Antunes da Rocha",
-          "Andrew A. Allen"
+          "Nikolaos Georgantas"
         ]
       }
     ]
@@ -6438,48 +6438,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/mcs2013.html": {
-    "header": "1st MCS@Middleware 2013: Beijing, China",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "A generic framework for cyber-physical web.",
-        "authors": [
-          "Xiaoling Gu",
-          "Lidan Shou",
-          "Hua Lu",
-          "Gang Chen"
-        ]
-      },
-      {
-        "title": "Towards secure outsourcing of collaborative sensing and analytic applications to the cloud - the pCloud approach.",
-        "authors": [
-          "Tien Tuan Anh Dinh",
-          "Anwitaman Datta"
-        ]
-      },
-      {
-        "title": "A mobile crowdsensing system enhanced by cloud-based social networking services.",
-        "authors": [
-          "Xiping Hu",
-          "Qiang Liu",
-          "Chunsheng Zhu",
-          "Victor C. M. Leung",
-          "Terry H. S. Chu",
-          "Henry C. B. Chan"
-        ]
-      },
-      {
-        "title": "Offloading work to mobile devices: an availability-aware data partitioning approach.",
-        "authors": [
-          "Ansuman Banerjee",
-          "Arijit Mukherjee",
-          "Himadri Sekhar Paul",
-          "Swarnava Dey"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/middleware/middleware2013mds.html": {
     "header": "14th Middleware 2013: Beijing, China - Doctoral Symposium",
     "year": "2013",
@@ -6532,6 +6490,222 @@
         "authors": [
           "Yihan Wu",
           "Gang Huang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2013i.html": {
+    "header": "14th Middleware 2013: Beijing, China - Industry Track",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "GeoMix: scalable geoscientific array data management.",
+        "authors": [
+          "Yaoliang Chen",
+          "Xiaomin Xu",
+          "Pohan Li",
+          "Siyuan Lu",
+          "Sheng Huang",
+          "Wei Lu",
+          "Kevin Brown"
+        ]
+      },
+      {
+        "title": "Forecasting household electricity demand with complex event processing: insights from a prototypical solution.",
+        "authors": [
+          "Holger Ziekow",
+          "Christoph Doblander",
+          "Christoph Goebel",
+          "Hans-Arno Jacobsen"
+        ]
+      },
+      {
+        "title": "Practical out-of-band authentication for mobile applications.",
+        "authors": [
+          "Kapil Singh",
+          "Larry Koved"
+        ]
+      },
+      {
+        "title": "State based Paxos.",
+        "authors": [
+          "Nicolo Rivetti",
+          "Angelo Corsaro"
+        ]
+      },
+      {
+        "title": "Adaptive middleware for real-time prescriptive analytics in large scale power systems.",
+        "authors": [
+          "Sebnem Rusitschka",
+          "Christoph Doblander",
+          "Christoph Goebel",
+          "Hans-Arno Jacobsen"
+        ]
+      },
+      {
+        "title": "HybNET: network manager for a hybrid network infrastructure.",
+        "authors": [
+          "Hui Lu",
+          "Nipun Arora",
+          "Hui Zhang",
+          "Cristian Lumezanu",
+          "Junghwan Rhee",
+          "Guofei Jiang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2013dpt.html": {
+    "header": "14th Middleware 2013: Beijing, China - Demo & Poster Track",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "CareDedup: cache-aware deduplication for reading performance optimization in primary storage.",
+        "authors": [
+          "Bin Lin",
+          "Shanshan Li",
+          "Xiangke Liao"
+        ]
+      },
+      {
+        "title": "FTCloudSim: a simulation tool for cloud service reliability enhancement mechanisms.",
+        "authors": [
+          "Ao Zhou",
+          "Shangguang Wang",
+          "Qibo Sun",
+          "Hua Zou",
+          "Fangchun Yang"
+        ]
+      },
+      {
+        "title": "SM@RT offloader: supporting adaptive computation offloading for Android applications.",
+        "authors": [
+          "Huaqian Cai",
+          "Wei Zhang",
+          "Ying Zhang",
+          "Gang Huang"
+        ]
+      },
+      {
+        "title": "Automated testing of chef automation scripts.",
+        "authors": [
+          "Waldemar Hummer",
+          "Florian Rosenberg",
+          "Fábio Oliveira",
+          "Tamar Eilam"
+        ]
+      },
+      {
+        "title": "DGFIndex: a hive multidimensional range index for smart meter big data.",
+        "authors": [
+          "Yue Liu",
+          "Wantao Liu",
+          "Zheng Xiao",
+          "Weihao Qiu",
+          "Yanhu Li",
+          "Ying Liang"
+        ]
+      },
+      {
+        "title": "MobiTran: tool support for refactoring PC websites to smart phones.",
+        "authors": [
+          "Yun Ma",
+          "Yimeng Fang",
+          "Xiaomin Zhu",
+          "Xuanzhe Liu",
+          "Gang Huang"
+        ]
+      },
+      {
+        "title": "Enabling offline access to Facebook streams on mobile devices.",
+        "authors": [
+          "Ye Zhao",
+          "Ngoc Minh Do",
+          "Shu-Ting Wang",
+          "Cheng-Hsin Hsu",
+          "Nalini Venkatasubramanian"
+        ]
+      },
+      {
+        "title": "T-CloudDisk: a tunable cloud storage service for flexible batched synchronization.",
+        "authors": [
+          "Zhenhua Li",
+          "He Xiao",
+          "Linsong Cheng",
+          "Zhen Lu",
+          "Jian Li",
+          "Christo Wilson",
+          "Yao Liu",
+          "Yunhao Liu",
+          "Yafei Dai"
+        ]
+      },
+      {
+        "title": "Galaxie: a P2P based EDSOA platform for cloud services.",
+        "authors": [
+          "Chen Shen",
+          "Yao Zhao",
+          "Liang Chen"
+        ]
+      },
+      {
+        "title": "On high performance distributed transactional data structures.",
+        "authors": [
+          "Aditya Dhoke",
+          "Roberto Palmieri",
+          "Binoy Ravindran"
+        ]
+      },
+      {
+        "title": "Automated data partitioning for independent distributed transactions.",
+        "authors": [
+          "Alexandru Turcu",
+          "Roberto Palmieri",
+          "Binoy Ravindran"
+        ]
+      },
+      {
+        "title": "Smart phone application for connected vehicles and smart transportation.",
+        "authors": [
+          "Yingqi Yue",
+          "Kaiwen Zhang",
+          "Hans-Arno Jacobsen"
+        ]
+      },
+      {
+        "title": "Dynamic datacenter resource provisioning for high-performance distributed stream processing with adaptive fault-tolerance.",
+        "authors": [
+          "Paolo Bellavista",
+          "Antonio Corradi",
+          "Spyros Kotoulas",
+          "Andrea Reale"
+        ]
+      },
+      {
+        "title": "Predicting unknown QoS value with QoS-Prophet.",
+        "authors": [
+          "You Ma",
+          "Shangguang Wang",
+          "Qibo Sun",
+          "Hua Zou",
+          "Fangchun Yang"
+        ]
+      },
+      {
+        "title": "SMASH: speculative state machine replication in transactional systems.",
+        "authors": [
+          "Sachin Hirve",
+          "Roberto Palmieri",
+          "Binoy Ravindran"
+        ]
+      },
+      {
+        "title": "A load balancing algorithm in multi-tenancy environment.",
+        "authors": [
+          "Tao Zhao",
+          "Hailong Sun",
+          "Yu Tang",
+          "Xudong Liu"
         ]
       }
     ]
@@ -6764,218 +6938,44 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2013dpt.html": {
-    "header": "14th Middleware 2013: Beijing, China - Demo & Poster Track",
+  "https://dblp.org/db/conf/middleware/mcs2013.html": {
+    "header": "1st MCS@Middleware 2013: Beijing, China",
     "year": "2013",
     "papers": [
       {
-        "title": "CareDedup: cache-aware deduplication for reading performance optimization in primary storage.",
+        "title": "A generic framework for cyber-physical web.",
         "authors": [
-          "Bin Lin",
-          "Shanshan Li",
-          "Xiangke Liao"
+          "Xiaoling Gu",
+          "Lidan Shou",
+          "Hua Lu",
+          "Gang Chen"
         ]
       },
       {
-        "title": "FTCloudSim: a simulation tool for cloud service reliability enhancement mechanisms.",
+        "title": "Towards secure outsourcing of collaborative sensing and analytic applications to the cloud - the pCloud approach.",
         "authors": [
-          "Ao Zhou",
-          "Shangguang Wang",
-          "Qibo Sun",
-          "Hua Zou",
-          "Fangchun Yang"
+          "Tien Tuan Anh Dinh",
+          "Anwitaman Datta"
         ]
       },
       {
-        "title": "SM@RT offloader: supporting adaptive computation offloading for Android applications.",
+        "title": "A mobile crowdsensing system enhanced by cloud-based social networking services.",
         "authors": [
-          "Huaqian Cai",
-          "Wei Zhang",
-          "Ying Zhang",
-          "Gang Huang"
+          "Xiping Hu",
+          "Qiang Liu",
+          "Chunsheng Zhu",
+          "Victor C. M. Leung",
+          "Terry H. S. Chu",
+          "Henry C. B. Chan"
         ]
       },
       {
-        "title": "Automated testing of chef automation scripts.",
+        "title": "Offloading work to mobile devices: an availability-aware data partitioning approach.",
         "authors": [
-          "Waldemar Hummer",
-          "Florian Rosenberg",
-          "Fábio Oliveira",
-          "Tamar Eilam"
-        ]
-      },
-      {
-        "title": "DGFIndex: a hive multidimensional range index for smart meter big data.",
-        "authors": [
-          "Yue Liu",
-          "Wantao Liu",
-          "Zheng Xiao",
-          "Weihao Qiu",
-          "Yanhu Li",
-          "Ying Liang"
-        ]
-      },
-      {
-        "title": "MobiTran: tool support for refactoring PC websites to smart phones.",
-        "authors": [
-          "Yun Ma",
-          "Yimeng Fang",
-          "Xiaomin Zhu",
-          "Xuanzhe Liu",
-          "Gang Huang"
-        ]
-      },
-      {
-        "title": "Enabling offline access to Facebook streams on mobile devices.",
-        "authors": [
-          "Ye Zhao",
-          "Ngoc Minh Do",
-          "Shu-Ting Wang",
-          "Cheng-Hsin Hsu",
-          "Nalini Venkatasubramanian"
-        ]
-      },
-      {
-        "title": "T-CloudDisk: a tunable cloud storage service for flexible batched synchronization.",
-        "authors": [
-          "Zhenhua Li",
-          "He Xiao",
-          "Linsong Cheng",
-          "Zhen Lu",
-          "Jian Li",
-          "Christo Wilson",
-          "Yao Liu",
-          "Yunhao Liu",
-          "Yafei Dai"
-        ]
-      },
-      {
-        "title": "Galaxie: a P2P based EDSOA platform for cloud services.",
-        "authors": [
-          "Chen Shen",
-          "Yao Zhao",
-          "Liang Chen"
-        ]
-      },
-      {
-        "title": "On high performance distributed transactional data structures.",
-        "authors": [
-          "Aditya Dhoke",
-          "Roberto Palmieri",
-          "Binoy Ravindran"
-        ]
-      },
-      {
-        "title": "Automated data partitioning for independent distributed transactions.",
-        "authors": [
-          "Alexandru Turcu",
-          "Roberto Palmieri",
-          "Binoy Ravindran"
-        ]
-      },
-      {
-        "title": "Smart phone application for connected vehicles and smart transportation.",
-        "authors": [
-          "Yingqi Yue",
-          "Kaiwen Zhang",
-          "Hans-Arno Jacobsen"
-        ]
-      },
-      {
-        "title": "Dynamic datacenter resource provisioning for high-performance distributed stream processing with adaptive fault-tolerance.",
-        "authors": [
-          "Paolo Bellavista",
-          "Antonio Corradi",
-          "Spyros Kotoulas",
-          "Andrea Reale"
-        ]
-      },
-      {
-        "title": "Predicting unknown QoS value with QoS-Prophet.",
-        "authors": [
-          "You Ma",
-          "Shangguang Wang",
-          "Qibo Sun",
-          "Hua Zou",
-          "Fangchun Yang"
-        ]
-      },
-      {
-        "title": "SMASH: speculative state machine replication in transactional systems.",
-        "authors": [
-          "Sachin Hirve",
-          "Roberto Palmieri",
-          "Binoy Ravindran"
-        ]
-      },
-      {
-        "title": "A load balancing algorithm in multi-tenancy environment.",
-        "authors": [
-          "Tao Zhao",
-          "Hailong Sun",
-          "Yu Tang",
-          "Xudong Liu"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/middleware2013i.html": {
-    "header": "14th Middleware 2013: Beijing, China - Industry Track",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "GeoMix: scalable geoscientific array data management.",
-        "authors": [
-          "Yaoliang Chen",
-          "Xiaomin Xu",
-          "Pohan Li",
-          "Siyuan Lu",
-          "Sheng Huang",
-          "Wei Lu",
-          "Kevin Brown"
-        ]
-      },
-      {
-        "title": "Forecasting household electricity demand with complex event processing: insights from a prototypical solution.",
-        "authors": [
-          "Holger Ziekow",
-          "Christoph Doblander",
-          "Christoph Goebel",
-          "Hans-Arno Jacobsen"
-        ]
-      },
-      {
-        "title": "Practical out-of-band authentication for mobile applications.",
-        "authors": [
-          "Kapil Singh",
-          "Larry Koved"
-        ]
-      },
-      {
-        "title": "State based Paxos.",
-        "authors": [
-          "Nicolo Rivetti",
-          "Angelo Corsaro"
-        ]
-      },
-      {
-        "title": "Adaptive middleware for real-time prescriptive analytics in large scale power systems.",
-        "authors": [
-          "Sebnem Rusitschka",
-          "Christoph Doblander",
-          "Christoph Goebel",
-          "Hans-Arno Jacobsen"
-        ]
-      },
-      {
-        "title": "HybNET: network manager for a hybrid network infrastructure.",
-        "authors": [
-          "Hui Lu",
-          "Nipun Arora",
-          "Hui Zhang",
-          "Cristian Lumezanu",
-          "Junghwan Rhee",
-          "Guofei Jiang"
+          "Ansuman Banerjee",
+          "Arijit Mukherjee",
+          "Himadri Sekhar Paul",
+          "Swarnava Dey"
         ]
       }
     ]
@@ -7774,47 +7774,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/ds2010.html": {
-    "header": "11th Middleware 2010: Bangalore, India - Doctoral Symposium",
-    "year": "2010",
-    "papers": [
-      {
-        "title": "Middleware solutions for integrated simulation environments.",
-        "authors": [
-          "Leila Jalali",
-          "Sharad Mehrotra",
-          "Nalini Venkatasubramanian"
-        ]
-      },
-      {
-        "title": "Adaptive service migration and transaction processing in wireless sensor networks.",
-        "authors": [
-          "Christoph Reinke"
-        ]
-      },
-      {
-        "title": "Generic replication of software transactional memory.",
-        "authors": [
-          "Nuno Carvalho"
-        ]
-      },
-      {
-        "title": "A flexible and collaborative middleware for an unmanned aerial vehicle platform: when one-fit-all solution is required.",
-        "authors": [
-          "Domingo Diez Barrero",
-          "Njål T. Borch",
-          "Anders Andersen"
-        ]
-      },
-      {
-        "title": "Enriching events to support hospital care.",
-        "authors": [
-          "Leendert W. M. Wienhofen",
-          "Pieter J. Toussaint"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/middleware/middleware2010.html": {
     "header": "11th Middleware 2010: Bangalore, India",
     "year": "2010",
@@ -7999,6 +7958,47 @@
           "Nuno Carvalho",
           "Paolo Romano",
           "Luís E. T. Rodrigues"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/ds2010.html": {
+    "header": "11th Middleware 2010: Bangalore, India - Doctoral Symposium",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Middleware solutions for integrated simulation environments.",
+        "authors": [
+          "Leila Jalali",
+          "Sharad Mehrotra",
+          "Nalini Venkatasubramanian"
+        ]
+      },
+      {
+        "title": "Adaptive service migration and transaction processing in wireless sensor networks.",
+        "authors": [
+          "Christoph Reinke"
+        ]
+      },
+      {
+        "title": "Generic replication of software transactional memory.",
+        "authors": [
+          "Nuno Carvalho"
+        ]
+      },
+      {
+        "title": "A flexible and collaborative middleware for an unmanned aerial vehicle platform: when one-fit-all solution is required.",
+        "authors": [
+          "Domingo Diez Barrero",
+          "Njål T. Borch",
+          "Anders Andersen"
+        ]
+      },
+      {
+        "title": "Enriching events to support hospital care.",
+        "authors": [
+          "Leendert W. M. Wienhofen",
+          "Pieter J. Toussaint"
         ]
       }
     ]
@@ -8198,6 +8198,52 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/middleware/ds2009.html": {
+    "header": "10th Middleware 2009: Urbana, IL, USA - Doctoral Symposium",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Context information provisioning in tuple spaces.",
+        "authors": [
+          "Zigor Salvador"
+        ]
+      },
+      {
+        "title": "A semantic approach for building pervasive spaces.",
+        "authors": [
+          "Daniel Massaguer",
+          "Sharad Mehrotra",
+          "Nalini Venkatasubramanian"
+        ]
+      },
+      {
+        "title": "Using the graphics processor unit to realize data streaming operations.",
+        "authors": [
+          "Konstantinos Tsakalozos",
+          "Manolis M. Tsangaris",
+          "Alex Delis"
+        ]
+      },
+      {
+        "title": "EbAT: online methods for detecting utility cloud anomalies.",
+        "authors": [
+          "Chengwei Wang"
+        ]
+      },
+      {
+        "title": "Modeling and optimizing content-based publish/subscribe systems.",
+        "authors": [
+          "Arnd Schröter"
+        ]
+      },
+      {
+        "title": "Enhancing event based architectures with contextualised events in order to support cooperation in the perioperative environment: position paper.",
+        "authors": [
+          "Leendert W. M. Wienhofen"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/middleware/comp2009.html": {
     "header": "10th Middleware 2009: Urbana, IL, USA - Companion",
     "year": "2009",
@@ -8329,95 +8375,151 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/ds2009.html": {
-    "header": "10th Middleware 2009: Urbana, IL, USA - Doctoral Symposium",
-    "year": "2009",
+  "https://dblp.org/db/conf/middleware/mw4soc2008.html": {
+    "header": "3rd MW4SOC@Middleware 2008: Leuven, Belgium",
+    "year": "2008",
     "papers": [
       {
-        "title": "Context information provisioning in tuple spaces.",
+        "title": "Dependable distributed OSGi environment.",
         "authors": [
-          "Zigor Salvador"
+          "Miguel Matos",
+          "António Luís Sousa"
         ]
       },
       {
-        "title": "A semantic approach for building pervasive spaces.",
+        "title": "Using fail-stop proxies for enhancing services isolation in the OSGi service platform.",
         "authors": [
-          "Daniel Massaguer",
-          "Sharad Mehrotra",
-          "Nalini Venkatasubramanian"
+          "Kiev Gama",
+          "Walter Rudametkin",
+          "Didier Donsez"
         ]
       },
       {
-        "title": "Using the graphics processor unit to realize data streaming operations.",
+        "title": "SoapME: a lightweight Java ME web service container.",
         "authors": [
-          "Konstantinos Tsakalozos",
-          "Manolis M. Tsangaris",
-          "Alex Delis"
+          "Holger Schmidt",
+          "Andreas Köhrer",
+          "Franz J. Hauck"
         ]
       },
       {
-        "title": "EbAT: online methods for detecting utility cloud anomalies.",
+        "title": "Workload decomposition for QoS in hosted storage services.",
         "authors": [
-          "Chengwei Wang"
+          "Lanyue Lu",
+          "Kshitij A. Doshi",
+          "Peter J. Varman"
         ]
       },
       {
-        "title": "Modeling and optimizing content-based publish/subscribe systems.",
+        "title": "Technical challenges in market-driven automated service provisioning.",
         "authors": [
-          "Arnd Schröter"
+          "Anna Chmielowiec",
+          "Guillaume Pierre",
+          "Jaap Gordijn",
+          "Maarten van Steen"
         ]
       },
       {
-        "title": "Enhancing event based architectures with contextualised events in order to support cooperation in the perioperative environment: position paper.",
+        "title": "SLA-driven distributed application development.",
         "authors": [
-          "Leendert W. M. Wienhofen"
+          "Vinod Muthusamy",
+          "Hans-Arno Jacobsen"
+        ]
+      },
+      {
+        "title": "Cross-layer self-adaptation of service-oriented architectures.",
+        "authors": [
+          "Eli Gjørven",
+          "Romain Rouvoy",
+          "Frank Eliassen"
+        ]
+      },
+      {
+        "title": "Service oriented adaptive Java applications.",
+        "authors": [
+          "Iyad Alshabani",
+          "Richard Olejnik",
+          "Bernard Toursel"
+        ]
+      },
+      {
+        "title": "Dynamic reconfiguration using template based web service composition.",
+        "authors": [
+          "Kristof Geebelen",
+          "Sam Michiels",
+          "Wouter Joosen"
+        ]
+      },
+      {
+        "title": "Gossip-based service coordination for scalability and resilience.",
+        "authors": [
+          "Filipe Campos",
+          "José Pereira"
+        ]
+      },
+      {
+        "title": "Achieving causal and total ordering in publish/subscribe middleware with DSM.",
+        "authors": [
+          "Cássio M. M. Pereira",
+          "Daniel Corrêa Lobato",
+          "César A. C. Teixeira",
+          "Maria da Graça Campos Pimentel"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/ds2008.html": {
-    "header": "9th Middleware 2008: Leuven, Belgium - Doctoral Symposium",
+  "https://dblp.org/db/conf/middleware/mobmid2008.html": {
+    "header": "9th Middleware 2008: Leuven, Belgium - Mobile Middleware",
     "year": "2008",
     "papers": [
       {
-        "title": "Reliable framework for RFID devices.",
+        "title": "Design issues and an empirical study in mobility oriented service development.",
         "authors": [
-          "Nova Ahmed",
-          "Umakishore Ramachandran"
+          "Tetsuo Yamabe",
+          "Kiyotaka Takahashi",
+          "Tatsuo Nakajima"
         ]
       },
       {
-        "title": "Optimistic parallelization support for event stream processing systems.",
+        "title": "Execution plans for cyber foraging.",
         "authors": [
-          "Andrey Brito"
+          "Mads Darø Kristensen"
         ]
       },
       {
-        "title": "TimeAdapt: timely execution of dynamic software reconfigurations.",
+        "title": "Addressing mobility issues in mobile environment.",
         "authors": [
-          "Serena Fritsch",
-          "Siobhán Clarke"
+          "Ji Zhang",
+          "Arto Hämäläinen",
+          "Jari Porras"
         ]
       },
       {
-        "title": "Designing middleware for context awareness in agriculture.",
+        "title": "SMILE-JS, a SIP-based middleware for J2ME devices.",
         "authors": [
-          "Kristian Ellebæk Kjær"
+          "Giovanni Bartolomeo",
+          "Stefano Salsano",
+          "Andrea Polidoro"
         ]
       },
       {
-        "title": "To happen or not to happen: towards an open distributed complex event processing system.",
+        "title": "MoTaskit: a personal task-centric tool for service accesses from mobile phones.",
         "authors": [
-          "Jarle Søberg",
-          "Vera Goebel",
-          "Thomas Plagemann"
+          "Huaigu Wu",
+          "Jean-Charles Grégoire",
+          "Enrico Mrass",
+          "Charles Fung",
+          "Faraaz Haslani"
         ]
       },
       {
-        "title": "A dynamic OSGi-based data stream system.",
+        "title": "MUSIC: an autonomous platform supporting self-adaptive mobile applications.",
         "authors": [
-          "Bernhard Wolf",
-          "Martin Rosjat"
+          "Romain Rouvoy",
+          "Mikaël Beauvois",
+          "Laura Lozano",
+          "Jorge Lorenzo",
+          "Frank Eliassen"
         ]
       }
     ]
@@ -8681,58 +8783,49 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/mobmid2008.html": {
-    "header": "9th Middleware 2008: Leuven, Belgium - Mobile Middleware",
+  "https://dblp.org/db/conf/middleware/ds2008.html": {
+    "header": "9th Middleware 2008: Leuven, Belgium - Doctoral Symposium",
     "year": "2008",
     "papers": [
       {
-        "title": "Design issues and an empirical study in mobility oriented service development.",
+        "title": "Reliable framework for RFID devices.",
         "authors": [
-          "Tetsuo Yamabe",
-          "Kiyotaka Takahashi",
-          "Tatsuo Nakajima"
+          "Nova Ahmed",
+          "Umakishore Ramachandran"
         ]
       },
       {
-        "title": "Execution plans for cyber foraging.",
+        "title": "Optimistic parallelization support for event stream processing systems.",
         "authors": [
-          "Mads Darø Kristensen"
+          "Andrey Brito"
         ]
       },
       {
-        "title": "Addressing mobility issues in mobile environment.",
+        "title": "TimeAdapt: timely execution of dynamic software reconfigurations.",
         "authors": [
-          "Ji Zhang",
-          "Arto Hämäläinen",
-          "Jari Porras"
+          "Serena Fritsch",
+          "Siobhán Clarke"
         ]
       },
       {
-        "title": "SMILE-JS, a SIP-based middleware for J2ME devices.",
+        "title": "Designing middleware for context awareness in agriculture.",
         "authors": [
-          "Giovanni Bartolomeo",
-          "Stefano Salsano",
-          "Andrea Polidoro"
+          "Kristian Ellebæk Kjær"
         ]
       },
       {
-        "title": "MoTaskit: a personal task-centric tool for service accesses from mobile phones.",
+        "title": "To happen or not to happen: towards an open distributed complex event processing system.",
         "authors": [
-          "Huaigu Wu",
-          "Jean-Charles Grégoire",
-          "Enrico Mrass",
-          "Charles Fung",
-          "Faraaz Haslani"
+          "Jarle Søberg",
+          "Vera Goebel",
+          "Thomas Plagemann"
         ]
       },
       {
-        "title": "MUSIC: an autonomous platform supporting self-adaptive mobile applications.",
+        "title": "A dynamic OSGi-based data stream system.",
         "authors": [
-          "Romain Rouvoy",
-          "Mikaël Beauvois",
-          "Laura Lozano",
-          "Jorge Lorenzo",
-          "Frank Eliassen"
+          "Bernhard Wolf",
+          "Martin Rosjat"
         ]
       }
     ]
@@ -9033,99 +9126,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/mw4soc2008.html": {
-    "header": "3rd MW4SOC@Middleware 2008: Leuven, Belgium",
-    "year": "2008",
-    "papers": [
-      {
-        "title": "Dependable distributed OSGi environment.",
-        "authors": [
-          "Miguel Matos",
-          "António Luís Sousa"
-        ]
-      },
-      {
-        "title": "Using fail-stop proxies for enhancing services isolation in the OSGi service platform.",
-        "authors": [
-          "Kiev Gama",
-          "Walter Rudametkin",
-          "Didier Donsez"
-        ]
-      },
-      {
-        "title": "SoapME: a lightweight Java ME web service container.",
-        "authors": [
-          "Holger Schmidt",
-          "Andreas Köhrer",
-          "Franz J. Hauck"
-        ]
-      },
-      {
-        "title": "Workload decomposition for QoS in hosted storage services.",
-        "authors": [
-          "Lanyue Lu",
-          "Kshitij A. Doshi",
-          "Peter J. Varman"
-        ]
-      },
-      {
-        "title": "Technical challenges in market-driven automated service provisioning.",
-        "authors": [
-          "Anna Chmielowiec",
-          "Guillaume Pierre",
-          "Jaap Gordijn",
-          "Maarten van Steen"
-        ]
-      },
-      {
-        "title": "SLA-driven distributed application development.",
-        "authors": [
-          "Vinod Muthusamy",
-          "Hans-Arno Jacobsen"
-        ]
-      },
-      {
-        "title": "Cross-layer self-adaptation of service-oriented architectures.",
-        "authors": [
-          "Eli Gjørven",
-          "Romain Rouvoy",
-          "Frank Eliassen"
-        ]
-      },
-      {
-        "title": "Service oriented adaptive Java applications.",
-        "authors": [
-          "Iyad Alshabani",
-          "Richard Olejnik",
-          "Bernard Toursel"
-        ]
-      },
-      {
-        "title": "Dynamic reconfiguration using template based web service composition.",
-        "authors": [
-          "Kristof Geebelen",
-          "Sam Michiels",
-          "Wouter Joosen"
-        ]
-      },
-      {
-        "title": "Gossip-based service coordination for scalability and resilience.",
-        "authors": [
-          "Filipe Campos",
-          "José Pereira"
-        ]
-      },
-      {
-        "title": "Achieving causal and total ordering in publish/subscribe middleware with DSM.",
-        "authors": [
-          "Cássio M. M. Pereira",
-          "Daniel Corrêa Lobato",
-          "César A. C. Teixeira",
-          "Maria da Graça Campos Pimentel"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/middleware/mw4soc2007.html": {
     "header": "2nd MW4SOC@Middleware 2007: Newport Beach, CA, USA",
     "year": "2007",
@@ -9167,217 +9167,6 @@
         "authors": [
           "Navid Ahmadi",
           "Walter Binder"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/ds2007.html": {
-    "header": "8th Middleware 2007: Newport Beach, CA, USA - Doctoral Symposium",
-    "year": "2007",
-    "papers": [
-      {
-        "title": "SAMProc: middleware for self-adaptive mobile processes in heterogeneous ubiquitous environments.",
-        "authors": [
-          "Holger Schmidt",
-          "Franz J. Hauck"
-        ]
-      },
-      {
-        "title": "Publish/subscribe notification middleware for vehicular networks.",
-        "authors": [
-          "Ilias Leontiadis"
-        ]
-      },
-      {
-        "title": "Securing peer-to-peer media streaming systems from selfish and malicious behavior.",
-        "authors": [
-          "William Conner",
-          "Klara Nahrstedt"
-        ]
-      },
-      {
-        "title": "Performance prediction of component- and pattern-based middleware for distributed systems.",
-        "authors": [
-          "Shruti Gorappa"
-        ]
-      },
-      {
-        "title": "Intelligent software agent framework for customized mobile services.",
-        "authors": [
-          "Kirsti Simula"
-        ]
-      },
-      {
-        "title": "Domain-based context management for dynamic and evolutionary environments.",
-        "authors": [
-          "Ricardo Couto Antunes da Rocha",
-          "Markus Endler"
-        ]
-      },
-      {
-        "title": "FLARe: a Fault-tolerant Lightweight Adaptive Real-time middleware for distributed real-time and embedded systems.",
-        "authors": [
-          "Jaiganesh Balasubramanian"
-        ]
-      },
-      {
-        "title": "Middleware support for protecting personal data from web based data services.",
-        "authors": [
-          "Ravi Chandra Jammalamadaka"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/dp2007.html": {
-    "header": "8th Middleware 2007: Newport Beach, CA, USA - Demos and Posters",
-    "year": "2007",
-    "papers": [
-      {
-        "title": "netEmbed: a service for embedding distributed applications.",
-        "authors": [
-          "Jorge Londoño",
-          "Azer Bestavros"
-        ]
-      },
-      {
-        "title": "Placement of replicated message mediation components.",
-        "authors": [
-          "Ying Li",
-          "Robert E. Strom",
-          "Chitra Dorai"
-        ]
-      },
-      {
-        "title": "Ethnographic studies as a requirement gathering process for the design of context aware middleware.",
-        "authors": [
-          "Kristian Ellebæk Kjær"
-        ]
-      },
-      {
-        "title": "Suitable EAI architectures are necessary to fit interoperability challenges of SME's in less developed countries.",
-        "authors": [
-          "Gerald Knoll",
-          "Karsten Tolle",
-          "Claudia Guglielmina"
-        ]
-      },
-      {
-        "title": "Using sound for monitoring wireless sensor network behavior.",
-        "authors": [
-          "Deeksha Ganju",
-          "Loren Schwiebert"
-        ]
-      },
-      {
-        "title": "A service-oriented middleware for providing context awareness and notification.",
-        "authors": [
-          "Luiz Olavo Bonino da Silva Santos",
-          "Peter Vink",
-          "Remco Poortinga van Wijnen"
-        ]
-      },
-      {
-        "title": "Discovering social services in pervasive environments with privacy.",
-        "authors": [
-          "Sonia Ben Mokhtar",
-          "Pierre-Guillaume Raverdy",
-          "Roberto Speicys Cardoso",
-          "Aitor Urbieta",
-          "Nikolaos Georgantas"
-        ]
-      },
-      {
-        "title": "Muliple routing configurations demonstrator: IP fast reroute in practice.",
-        "authors": [
-          "Tarik Cicic",
-          "Ole Kristoffer Apeland"
-        ]
-      },
-      {
-        "title": "Mobile medical diagnosis: an m-health initiative through service continuity in B3G.",
-        "authors": [
-          "Letian Rong",
-          "Thomas Wallet",
-          "Manel Fredj",
-          "Nikolaos Georgantas"
-        ]
-      },
-      {
-        "title": "General purpose fault injector for CORBA applications.",
-        "authors": [
-          "Mohammad Alsaeed",
-          "Neil A. Speirs"
-        ]
-      },
-      {
-        "title": "Dynamic multi-process information flow tracking for web application security.",
-        "authors": [
-          "Susanta Nanda",
-          "Lap-Chung Lam",
-          "Tzi-cker Chiueh"
-        ]
-      },
-      {
-        "title": "Got predictability?: experiences with fault-tolerant middleware.",
-        "authors": [
-          "Tudor Dumitras",
-          "Priya Narasimhan"
-        ]
-      },
-      {
-        "title": "INFORM: integrated flow orchestration and meta-scheduling for managed grid systems.",
-        "authors": [
-          "Gargi Dasgupta",
-          "Balaji Viswanathan"
-        ]
-      },
-      {
-        "title": "Combining ontology queries with key word search in the GloServ service discovery system.",
-        "authors": [
-          "Knarig Arabshian",
-          "Henning Schulzrinne"
-        ]
-      },
-      {
-        "title": "SOVoIP: middleware for universal VoIP connectivity.",
-        "authors": [
-          "Mohammed Jubaer Arif",
-          "Shanika Karunasekera",
-          "Santosh Kulkarni"
-        ]
-      },
-      {
-        "title": "A middleware architecture for unmanned aircraft avionics.",
-        "authors": [
-          "Juan López",
-          "Pablo Royo",
-          "Enric Pastor",
-          "Cristina Barrado",
-          "Eduard Santamaria"
-        ]
-      },
-      {
-        "title": "BAD: bandwidth adaptive dissemination or (the case for BAD trees).",
-        "authors": [
-          "Manos Kapritsos",
-          "Peter Triantafillou"
-        ]
-      },
-      {
-        "title": "Resource discovery in federated systems with voluntary sharing.",
-        "authors": [
-          "Hao Yang",
-          "Fan Ye",
-          "Zhen Liu"
-        ]
-      },
-      {
-        "title": "EVEY: enhancing privacy of service discovery in pervasive computing.",
-        "authors": [
-          "Roberto Speicys Cardoso",
-          "Sonia Ben Mokhtar",
-          "Aitor Urbieta",
-          "Valérie Issarny"
         ]
       }
     ]
@@ -9683,6 +9472,322 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/middleware/ds2007.html": {
+    "header": "8th Middleware 2007: Newport Beach, CA, USA - Doctoral Symposium",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "SAMProc: middleware for self-adaptive mobile processes in heterogeneous ubiquitous environments.",
+        "authors": [
+          "Holger Schmidt",
+          "Franz J. Hauck"
+        ]
+      },
+      {
+        "title": "Publish/subscribe notification middleware for vehicular networks.",
+        "authors": [
+          "Ilias Leontiadis"
+        ]
+      },
+      {
+        "title": "Securing peer-to-peer media streaming systems from selfish and malicious behavior.",
+        "authors": [
+          "William Conner",
+          "Klara Nahrstedt"
+        ]
+      },
+      {
+        "title": "Performance prediction of component- and pattern-based middleware for distributed systems.",
+        "authors": [
+          "Shruti Gorappa"
+        ]
+      },
+      {
+        "title": "Intelligent software agent framework for customized mobile services.",
+        "authors": [
+          "Kirsti Simula"
+        ]
+      },
+      {
+        "title": "Domain-based context management for dynamic and evolutionary environments.",
+        "authors": [
+          "Ricardo Couto Antunes da Rocha",
+          "Markus Endler"
+        ]
+      },
+      {
+        "title": "FLARe: a Fault-tolerant Lightweight Adaptive Real-time middleware for distributed real-time and embedded systems.",
+        "authors": [
+          "Jaiganesh Balasubramanian"
+        ]
+      },
+      {
+        "title": "Middleware support for protecting personal data from web based data services.",
+        "authors": [
+          "Ravi Chandra Jammalamadaka"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/dp2007.html": {
+    "header": "8th Middleware 2007: Newport Beach, CA, USA - Demos and Posters",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "netEmbed: a service for embedding distributed applications.",
+        "authors": [
+          "Jorge Londoño",
+          "Azer Bestavros"
+        ]
+      },
+      {
+        "title": "Placement of replicated message mediation components.",
+        "authors": [
+          "Ying Li",
+          "Robert E. Strom",
+          "Chitra Dorai"
+        ]
+      },
+      {
+        "title": "Ethnographic studies as a requirement gathering process for the design of context aware middleware.",
+        "authors": [
+          "Kristian Ellebæk Kjær"
+        ]
+      },
+      {
+        "title": "Suitable EAI architectures are necessary to fit interoperability challenges of SME's in less developed countries.",
+        "authors": [
+          "Gerald Knoll",
+          "Karsten Tolle",
+          "Claudia Guglielmina"
+        ]
+      },
+      {
+        "title": "Using sound for monitoring wireless sensor network behavior.",
+        "authors": [
+          "Deeksha Ganju",
+          "Loren Schwiebert"
+        ]
+      },
+      {
+        "title": "A service-oriented middleware for providing context awareness and notification.",
+        "authors": [
+          "Luiz Olavo Bonino da Silva Santos",
+          "Peter Vink",
+          "Remco Poortinga van Wijnen"
+        ]
+      },
+      {
+        "title": "Discovering social services in pervasive environments with privacy.",
+        "authors": [
+          "Sonia Ben Mokhtar",
+          "Pierre-Guillaume Raverdy",
+          "Roberto Speicys Cardoso",
+          "Aitor Urbieta",
+          "Nikolaos Georgantas"
+        ]
+      },
+      {
+        "title": "Muliple routing configurations demonstrator: IP fast reroute in practice.",
+        "authors": [
+          "Tarik Cicic",
+          "Ole Kristoffer Apeland"
+        ]
+      },
+      {
+        "title": "Mobile medical diagnosis: an m-health initiative through service continuity in B3G.",
+        "authors": [
+          "Letian Rong",
+          "Thomas Wallet",
+          "Manel Fredj",
+          "Nikolaos Georgantas"
+        ]
+      },
+      {
+        "title": "General purpose fault injector for CORBA applications.",
+        "authors": [
+          "Mohammad Alsaeed",
+          "Neil A. Speirs"
+        ]
+      },
+      {
+        "title": "Dynamic multi-process information flow tracking for web application security.",
+        "authors": [
+          "Susanta Nanda",
+          "Lap-Chung Lam",
+          "Tzi-cker Chiueh"
+        ]
+      },
+      {
+        "title": "Got predictability?: experiences with fault-tolerant middleware.",
+        "authors": [
+          "Tudor Dumitras",
+          "Priya Narasimhan"
+        ]
+      },
+      {
+        "title": "INFORM: integrated flow orchestration and meta-scheduling for managed grid systems.",
+        "authors": [
+          "Gargi Dasgupta",
+          "Balaji Viswanathan"
+        ]
+      },
+      {
+        "title": "Combining ontology queries with key word search in the GloServ service discovery system.",
+        "authors": [
+          "Knarig Arabshian",
+          "Henning Schulzrinne"
+        ]
+      },
+      {
+        "title": "SOVoIP: middleware for universal VoIP connectivity.",
+        "authors": [
+          "Mohammed Jubaer Arif",
+          "Shanika Karunasekera",
+          "Santosh Kulkarni"
+        ]
+      },
+      {
+        "title": "A middleware architecture for unmanned aircraft avionics.",
+        "authors": [
+          "Juan López",
+          "Pablo Royo",
+          "Enric Pastor",
+          "Cristina Barrado",
+          "Eduard Santamaria"
+        ]
+      },
+      {
+        "title": "BAD: bandwidth adaptive dissemination or (the case for BAD trees).",
+        "authors": [
+          "Manos Kapritsos",
+          "Peter Triantafillou"
+        ]
+      },
+      {
+        "title": "Resource discovery in federated systems with voluntary sharing.",
+        "authors": [
+          "Hao Yang",
+          "Fan Ye",
+          "Zhen Liu"
+        ]
+      },
+      {
+        "title": "EVEY: enhancing privacy of service discovery in pervasive computing.",
+        "authors": [
+          "Roberto Speicys Cardoso",
+          "Sonia Ben Mokhtar",
+          "Aitor Urbieta",
+          "Valérie Issarny"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/mw4soc2006.html": {
+    "header": "1st MW4SOC@Middleware 2006: Melbourne, Australia - MW4SOC",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "Adaptive application-specific middleware.",
+        "authors": [
+          "Alan W. Colman",
+          "Linh Duy Pham",
+          "Jun Han",
+          "Jean-Guy Schneider"
+        ]
+      },
+      {
+        "title": "Software adaptation for service-oriented systems.",
+        "authors": [
+          "Pablo Rossi",
+          "Zahir Tari"
+        ]
+      },
+      {
+        "title": "What service replication middleware can learn from object replication middleware.",
+        "authors": [
+          "Johannes Osrael",
+          "Lorenz Froihofer",
+          "Karl M. Göschka"
+        ]
+      },
+      {
+        "title": "Middleware support for auditing service process flows.",
+        "authors": [
+          "Hakan Hacigümüs"
+        ]
+      },
+      {
+        "title": "Heuristics-based scheduling of composite web service workloads.",
+        "authors": [
+          "Thomas Phan",
+          "Wen-Syan Li"
+        ]
+      },
+      {
+        "title": "Towards ad hoc contextual services for pervasive computing.",
+        "authors": [
+          "Damien Fournier",
+          "Sonia Ben Mokhtar",
+          "Nikolaos Georgantas",
+          "Valérie Issarny"
+        ]
+      },
+      {
+        "title": "Modeling QoS characteristics in WSMO.",
+        "authors": [
+          "Ioan Toma",
+          "Douglas Foxvog",
+          "Michael C. Jaeger"
+        ]
+      },
+      {
+        "title": "SH-BPEL: a self-healing plug-in for Ws-BPEL engines.",
+        "authors": [
+          "Stefano Modafferi",
+          "Enrico Mussi",
+          "Barbara Pernici"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/moddm2006.html": {
+    "header": "7th Middleware 2006: Melbourne, Australia - MODDM",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "DSLBench: applying DSL in benchmark generation.",
+        "authors": [
+          "Ngoc Bao Bui",
+          "D. Ross Jeffery"
+        ]
+      },
+      {
+        "title": "UML profile for the design of a platform-independent context-aware applications.",
+        "authors": [
+          "Dhouha Ayed",
+          "Yolande Berbers"
+        ]
+      },
+      {
+        "title": "Models, reflective mechanisms and family-based systems to support dynamic configuration.",
+        "authors": [
+          "Nelly Bencomo",
+          "Gordon S. Blair",
+          "Paul Grace"
+        ]
+      },
+      {
+        "title": "Auto-tune design and evaluation on staged event-driven architecture.",
+        "authors": [
+          "Zhanwen Li",
+          "David Levy",
+          "Shiping Chen",
+          "John Zic"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/middleware/middleware2006.html": {
     "header": "7th Middleware 2006: Melbourne, Australia",
     "year": "2006",
@@ -9855,111 +9960,6 @@
           "Tamar Eilam",
           "Michael H. Kalantar",
           "Alexander V. Konstantinou"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/moddm2006.html": {
-    "header": "7th Middleware 2006: Melbourne, Australia - MODDM",
-    "year": "2006",
-    "papers": [
-      {
-        "title": "DSLBench: applying DSL in benchmark generation.",
-        "authors": [
-          "Ngoc Bao Bui",
-          "D. Ross Jeffery"
-        ]
-      },
-      {
-        "title": "UML profile for the design of a platform-independent context-aware applications.",
-        "authors": [
-          "Dhouha Ayed",
-          "Yolande Berbers"
-        ]
-      },
-      {
-        "title": "Models, reflective mechanisms and family-based systems to support dynamic configuration.",
-        "authors": [
-          "Nelly Bencomo",
-          "Gordon S. Blair",
-          "Paul Grace"
-        ]
-      },
-      {
-        "title": "Auto-tune design and evaluation on staged event-driven architecture.",
-        "authors": [
-          "Zhanwen Li",
-          "David Levy",
-          "Shiping Chen",
-          "John Zic"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/mw4soc2006.html": {
-    "header": "1st MW4SOC@Middleware 2006: Melbourne, Australia - MW4SOC",
-    "year": "2006",
-    "papers": [
-      {
-        "title": "Adaptive application-specific middleware.",
-        "authors": [
-          "Alan W. Colman",
-          "Linh Duy Pham",
-          "Jun Han",
-          "Jean-Guy Schneider"
-        ]
-      },
-      {
-        "title": "Software adaptation for service-oriented systems.",
-        "authors": [
-          "Pablo Rossi",
-          "Zahir Tari"
-        ]
-      },
-      {
-        "title": "What service replication middleware can learn from object replication middleware.",
-        "authors": [
-          "Johannes Osrael",
-          "Lorenz Froihofer",
-          "Karl M. Göschka"
-        ]
-      },
-      {
-        "title": "Middleware support for auditing service process flows.",
-        "authors": [
-          "Hakan Hacigümüs"
-        ]
-      },
-      {
-        "title": "Heuristics-based scheduling of composite web service workloads.",
-        "authors": [
-          "Thomas Phan",
-          "Wen-Syan Li"
-        ]
-      },
-      {
-        "title": "Towards ad hoc contextual services for pervasive computing.",
-        "authors": [
-          "Damien Fournier",
-          "Sonia Ben Mokhtar",
-          "Nikolaos Georgantas",
-          "Valérie Issarny"
-        ]
-      },
-      {
-        "title": "Modeling QoS characteristics in WSMO.",
-        "authors": [
-          "Ioan Toma",
-          "Douglas Foxvog",
-          "Michael C. Jaeger"
-        ]
-      },
-      {
-        "title": "SH-BPEL: a self-healing plug-in for Ws-BPEL engines.",
-        "authors": [
-          "Stefano Modafferi",
-          "Enrico Mussi",
-          "Barbara Pernici"
         ]
       }
     ]
@@ -10266,71 +10266,6 @@
         "title": "A framework for detecting performance design and deployment antipatterns in component based enterprise systems.",
         "authors": [
           "Trevor Parsons"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/middleware/middleware2004-w3.html": {
-    "header": "5th Middleware 2004: Toronto, Canada - Doctoral Symposium on Middleware",
-    "year": "2004",
-    "papers": [
-      {
-        "title": "Introduction to the 1st International Middleware Doctoral Symposium.",
-        "authors": [
-          "Edward Curry",
-          "Doug Lea"
-        ]
-      },
-      {
-        "title": "CUROCO: a distributed architecture for the dynamic generation, composition and use of context in highly dynamic and heterogeneous environments [extended version].",
-        "authors": [
-          "Gorka Guardiola Muzquiz"
-        ]
-      },
-      {
-        "title": "Adaptive replication for web applications.",
-        "authors": [
-          "Swaminathan Sivasubramanian"
-        ]
-      },
-      {
-        "title": "SHAD: a human centered security architecture for partitionable, dynamic and heterogeneous distributed systems.",
-        "authors": [
-          "Enrique Soriano-Salvador"
-        ]
-      },
-      {
-        "title": "Semantic management of middleware.",
-        "authors": [
-          "Daniel Oberle"
-        ]
-      },
-      {
-        "title": "Designing a context-aware middleware for asynchronous communication in mobile ad hoc environments.",
-        "authors": [
-          "Mirco Musolesi"
-        ]
-      },
-      {
-        "title": "MDA refinements along middleware-specific concern-dimensions.",
-        "authors": [
-          "Raul Silaghi"
-        ]
-      },
-      {
-        "title": "Application partitioning and hierarchical management in grid environments.",
-        "authors": [
-          "Patrícia Kayser Vargas",
-          "Inês de Castro Dutra",
-          "Cláudio F. R. Geyer"
-        ]
-      },
-      {
-        "title": "Dynamic reconfiguration through OSA+, a real-time middleware.",
-        "authors": [
-          "Etienne Schneider",
-          "Florentin Picioroaga",
-          "Uwe Brinkschulte"
         ]
       }
     ]
@@ -10680,207 +10615,67 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/middleware/middleware2003.html": {
-    "header": "4th Middleware 2003: Rio de Janeiro, Brazil",
-    "year": "2003",
+  "https://dblp.org/db/conf/middleware/middleware2004-w3.html": {
+    "header": "5th Middleware 2004: Toronto, Canada - Doctoral Symposium on Middleware",
+    "year": "2004",
     "papers": [
       {
-        "title": "Approximate Object Location and Spam Filtering on Peer-to-Peer Systems.",
+        "title": "Introduction to the 1st International Middleware Doctoral Symposium.",
         "authors": [
-          "Feng Zhou",
-          "Li Zhuang",
-          "Ben Y. Zhao",
-          "Ling Huang",
-          "Anthony D. Joseph",
-          "John Kubiatowicz"
+          "Edward Curry",
+          "Doug Lea"
         ]
       },
       {
-        "title": "Efficient Peer-to-Peer Keyword Searching.",
+        "title": "CUROCO: a distributed architecture for the dynamic generation, composition and use of context in highly dynamic and heterogeneous environments [extended version].",
         "authors": [
-          "Patrick Reynolds",
-          "Amin Vahdat"
+          "Gorka Guardiola Muzquiz"
         ]
       },
       {
-        "title": "NaradaBrokering: A Distributed Middleware Framework and Architecture for Enabling Durable Peer-to-Peer Grids.",
+        "title": "Adaptive replication for web applications.",
         "authors": [
-          "Shrideep Pallickara",
-          "Geoffrey C. Fox"
+          "Swaminathan Sivasubramanian"
         ]
       },
       {
-        "title": "A Framework for Event Composition in Distributed Systems.",
+        "title": "SHAD: a human centered security architecture for partitionable, dynamic and heterogeneous distributed systems.",
         "authors": [
-          "Peter R. Pietzuch",
-          "Brian Shand",
-          "Jean Bacon"
+          "Enrique Soriano-Salvador"
         ]
       },
       {
-        "title": "Content Distribution for Publish/Subscribe Services.",
+        "title": "Semantic management of middleware.",
         "authors": [
-          "Mao Chen",
-          "Andrea S. LaPaugh",
-          "Jaswinder Pal Singh"
+          "Daniel Oberle"
         ]
       },
       {
-        "title": "Supporting Mobility in Content-Based Publish/Subscribe Middleware.",
+        "title": "Designing a context-aware middleware for asynchronous communication in mobile ad hoc environments.",
         "authors": [
-          "Ludger Fiege",
-          "Felix C. Gärtner",
-          "Oliver Kasten",
-          "Andreas Zeidler"
+          "Mirco Musolesi"
         ]
       },
       {
-        "title": "Fine-Grained Dynamic Adaptation of Distributed Components.",
+        "title": "MDA refinements along middleware-specific concern-dimensions.",
         "authors": [
-          "Frédéric Peschanski",
-          "Jean-Pierre Briot",
-          "Akinori Yonezawa"
+          "Raul Silaghi"
         ]
       },
       {
-        "title": "A Middleware for Context-Aware Agents in Ubiquitous Computing Environments.",
+        "title": "Application partitioning and hierarchical management in grid environments.",
         "authors": [
-          "Anand Ranganathan",
-          "Roy H. Campbell"
+          "Patrícia Kayser Vargas",
+          "Inês de Castro Dutra",
+          "Cláudio F. R. Geyer"
         ]
       },
       {
-        "title": "Adaptable Architectural Middleware for Programming-in-the-Small-and-Many.",
+        "title": "Dynamic reconfiguration through OSA+, a real-time middleware.",
         "authors": [
-          "Marija Mikic-Rakic",
-          "Nenad Medvidovic"
-        ]
-      },
-      {
-        "title": "Opportunistic Channels: Mobility-Aware Event Delivery.",
-        "authors": [
-          "Yuan Chen",
-          "Karsten Schwan",
-          "Dong Zhou"
-        ]
-      },
-      {
-        "title": "Congestion Control in a Reliable Scalable Message-Oriented Middleware.",
-        "authors": [
-          "Peter R. Pietzuch",
-          "Sumeer Bhola"
-        ]
-      },
-      {
-        "title": "On Shouting \"Fire!\": Regulating Decoupled Communication in Distributed Systems.",
-        "authors": [
-          "Takahiro Murata",
-          "Naftaly H. Minsky"
-        ]
-      },
-      {
-        "title": "Performance Comparison of Middleware Architectures for Generating Dynamic Web Content.",
-        "authors": [
-          "Emmanuel Cecchet",
-          "Anupam Chanda",
-          "Sameh Elnikety",
-          "Julie Marguerite",
-          "Willy Zwaenepoel"
-        ]
-      },
-      {
-        "title": "Prefetching Based on Web Usage Mining.",
-        "authors": [
-          "Daby M. Sow",
-          "David P. Olshefski",
-          "Mandis Beigi",
-          "Guruduth Banavar"
-        ]
-      },
-      {
-        "title": "Distributed Versioning: Consistent Replication for Scaling Back-End Databases of Dynamic Content Web Sites.",
-        "authors": [
-          "Cristiana Amza",
-          "Alan L. Cox",
-          "Willy Zwaenepoel"
-        ]
-      },
-      {
-        "title": "Abstraction of Transaction Demarcation in Component-Oriented Platforms.",
-        "authors": [
-          "Romain Rouvoy",
-          "Philippe Merle"
-        ]
-      },
-      {
-        "title": "Optimising Java RMI Programs by Communication Restructuring.",
-        "authors": [
-          "Kwok Cheung Yeung",
-          "Paul H. J. Kelly"
-        ]
-      },
-      {
-        "title": "The JBoss Extensible Server.",
-        "authors": [
-          "Marc J. Fleury",
-          "Francisco Reverbel"
-        ]
-      },
-      {
-        "title": "Flexible and Adaptive QoS Control for Distributed Real-Time and Embedded Middleware.",
-        "authors": [
-          "Richard E. Schantz",
-          "Joseph P. Loyall",
-          "Craig Rodrigues",
-          "Douglas C. Schmidt",
-          "Yamuna Krishnamurthy",
-          "Irfan Pyarali"
-        ]
-      },
-      {
-        "title": "Large-Scale Service Overlay Networking with Distance-Based Clustering.",
-        "authors": [
-          "Jingwen Jin",
-          "Klara Nahrstedt"
-        ]
-      },
-      {
-        "title": "A Step Towards a New Generation of Group Communication Systems.",
-        "authors": [
-          "Sergio Mena",
-          "André Schiper",
-          "Pawel T. Wojciechowski"
-        ]
-      },
-      {
-        "title": "A Middleware-Based Application Framework for Active Space Applications.",
-        "authors": [
-          "Manuel Román",
-          "Roy H. Campbell"
-        ]
-      },
-      {
-        "title": "A Proactive Middleware Platform for Mobile Computing.",
-        "authors": [
-          "Andrei Popovici",
-          "Andreas Frei",
-          "Gustavo Alonso"
-        ]
-      },
-      {
-        "title": "A Flexible Middleware System for Wireless Sensor Networks.",
-        "authors": [
-          "Flávia Coimbra Delicato",
-          "Paulo F. Pires",
-          "Luci Pirmez",
-          "Luiz F. Rust da Costa Carmo"
-        ]
-      },
-      {
-        "title": "A Middleware Service for Mobile Ad Hoc Data Sharing, Enhancing Data Availability.",
-        "authors": [
-          "Malika Boulkenafed",
-          "Valérie Issarny"
+          "Etienne Schneider",
+          "Florentin Picioroaga",
+          "Uwe Brinkschulte"
         ]
       }
     ]
@@ -11319,6 +11114,211 @@
         "title": "Generic Concern-Oriented Model Transformations Meet AOP.",
         "authors": [
           "Raul Silaghi"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/middleware/middleware2003.html": {
+    "header": "4th Middleware 2003: Rio de Janeiro, Brazil",
+    "year": "2003",
+    "papers": [
+      {
+        "title": "Approximate Object Location and Spam Filtering on Peer-to-Peer Systems.",
+        "authors": [
+          "Feng Zhou",
+          "Li Zhuang",
+          "Ben Y. Zhao",
+          "Ling Huang",
+          "Anthony D. Joseph",
+          "John Kubiatowicz"
+        ]
+      },
+      {
+        "title": "Efficient Peer-to-Peer Keyword Searching.",
+        "authors": [
+          "Patrick Reynolds",
+          "Amin Vahdat"
+        ]
+      },
+      {
+        "title": "NaradaBrokering: A Distributed Middleware Framework and Architecture for Enabling Durable Peer-to-Peer Grids.",
+        "authors": [
+          "Shrideep Pallickara",
+          "Geoffrey C. Fox"
+        ]
+      },
+      {
+        "title": "A Framework for Event Composition in Distributed Systems.",
+        "authors": [
+          "Peter R. Pietzuch",
+          "Brian Shand",
+          "Jean Bacon"
+        ]
+      },
+      {
+        "title": "Content Distribution for Publish/Subscribe Services.",
+        "authors": [
+          "Mao Chen",
+          "Andrea S. LaPaugh",
+          "Jaswinder Pal Singh"
+        ]
+      },
+      {
+        "title": "Supporting Mobility in Content-Based Publish/Subscribe Middleware.",
+        "authors": [
+          "Ludger Fiege",
+          "Felix C. Gärtner",
+          "Oliver Kasten",
+          "Andreas Zeidler"
+        ]
+      },
+      {
+        "title": "Fine-Grained Dynamic Adaptation of Distributed Components.",
+        "authors": [
+          "Frédéric Peschanski",
+          "Jean-Pierre Briot",
+          "Akinori Yonezawa"
+        ]
+      },
+      {
+        "title": "A Middleware for Context-Aware Agents in Ubiquitous Computing Environments.",
+        "authors": [
+          "Anand Ranganathan",
+          "Roy H. Campbell"
+        ]
+      },
+      {
+        "title": "Adaptable Architectural Middleware for Programming-in-the-Small-and-Many.",
+        "authors": [
+          "Marija Mikic-Rakic",
+          "Nenad Medvidovic"
+        ]
+      },
+      {
+        "title": "Opportunistic Channels: Mobility-Aware Event Delivery.",
+        "authors": [
+          "Yuan Chen",
+          "Karsten Schwan",
+          "Dong Zhou"
+        ]
+      },
+      {
+        "title": "Congestion Control in a Reliable Scalable Message-Oriented Middleware.",
+        "authors": [
+          "Peter R. Pietzuch",
+          "Sumeer Bhola"
+        ]
+      },
+      {
+        "title": "On Shouting \"Fire!\": Regulating Decoupled Communication in Distributed Systems.",
+        "authors": [
+          "Takahiro Murata",
+          "Naftaly H. Minsky"
+        ]
+      },
+      {
+        "title": "Performance Comparison of Middleware Architectures for Generating Dynamic Web Content.",
+        "authors": [
+          "Emmanuel Cecchet",
+          "Anupam Chanda",
+          "Sameh Elnikety",
+          "Julie Marguerite",
+          "Willy Zwaenepoel"
+        ]
+      },
+      {
+        "title": "Prefetching Based on Web Usage Mining.",
+        "authors": [
+          "Daby M. Sow",
+          "David P. Olshefski",
+          "Mandis Beigi",
+          "Guruduth Banavar"
+        ]
+      },
+      {
+        "title": "Distributed Versioning: Consistent Replication for Scaling Back-End Databases of Dynamic Content Web Sites.",
+        "authors": [
+          "Cristiana Amza",
+          "Alan L. Cox",
+          "Willy Zwaenepoel"
+        ]
+      },
+      {
+        "title": "Abstraction of Transaction Demarcation in Component-Oriented Platforms.",
+        "authors": [
+          "Romain Rouvoy",
+          "Philippe Merle"
+        ]
+      },
+      {
+        "title": "Optimising Java RMI Programs by Communication Restructuring.",
+        "authors": [
+          "Kwok Cheung Yeung",
+          "Paul H. J. Kelly"
+        ]
+      },
+      {
+        "title": "The JBoss Extensible Server.",
+        "authors": [
+          "Marc J. Fleury",
+          "Francisco Reverbel"
+        ]
+      },
+      {
+        "title": "Flexible and Adaptive QoS Control for Distributed Real-Time and Embedded Middleware.",
+        "authors": [
+          "Richard E. Schantz",
+          "Joseph P. Loyall",
+          "Craig Rodrigues",
+          "Douglas C. Schmidt",
+          "Yamuna Krishnamurthy",
+          "Irfan Pyarali"
+        ]
+      },
+      {
+        "title": "Large-Scale Service Overlay Networking with Distance-Based Clustering.",
+        "authors": [
+          "Jingwen Jin",
+          "Klara Nahrstedt"
+        ]
+      },
+      {
+        "title": "A Step Towards a New Generation of Group Communication Systems.",
+        "authors": [
+          "Sergio Mena",
+          "André Schiper",
+          "Pawel T. Wojciechowski"
+        ]
+      },
+      {
+        "title": "A Middleware-Based Application Framework for Active Space Applications.",
+        "authors": [
+          "Manuel Román",
+          "Roy H. Campbell"
+        ]
+      },
+      {
+        "title": "A Proactive Middleware Platform for Mobile Computing.",
+        "authors": [
+          "Andrei Popovici",
+          "Andreas Frei",
+          "Gustavo Alonso"
+        ]
+      },
+      {
+        "title": "A Flexible Middleware System for Wireless Sensor Networks.",
+        "authors": [
+          "Flávia Coimbra Delicato",
+          "Paulo F. Pires",
+          "Luci Pirmez",
+          "Luiz F. Rust da Costa Carmo"
+        ]
+      },
+      {
+        "title": "A Middleware Service for Mobile Ad Hoc Data Sharing, Enhancing Data Availability.",
+        "authors": [
+          "Malika Boulkenafed",
+          "Valérie Issarny"
         ]
       }
     ]

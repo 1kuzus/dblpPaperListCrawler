@@ -1,151 +1,4 @@
 {
-  "https://dblp.org/db/conf/dimva/dimva2025-1.html": {
-    "header": "22nd DIMVA 2025: Graz, Austria - Part I",
-    "year": "2025",
-    "papers": [
-      {
-        "title": "ScamFerret: Detecting Scam Websites Autonomously with Large Language Models.",
-        "authors": [
-          "Hiroki Nakano",
-          "Takashi Koide",
-          "Daiki Chiba"
-        ]
-      },
-      {
-        "title": "Domain Name Encryption Does Not Ensure Privacy: Website Fingerprinting Attack With Only a Few Samples Using Siamese Network.",
-        "authors": [
-          "Neriya Mazzuz",
-          "Asaf Shabtai"
-        ]
-      },
-      {
-        "title": "Making (Only) the Right Calls: Preventing Remote Code Execution Attacks in PHP Applications with Contextual, State-Sensitive System Call Filtering.",
-        "authors": [
-          "Yunsen Lei",
-          "Craig A. Shue"
-        ]
-      },
-      {
-        "title": "Poster: Generating the WEB-IDS23 Dataset.",
-        "authors": [
-          "Eric Lanfer",
-          "Dominik Brockmann",
-          "Nils Aschenbruck"
-        ]
-      },
-      {
-        "title": "Sourcerer: Channeling the void.",
-        "authors": [
-          "Nicolas Badoux",
-          "Flavio Toffalini",
-          "Mathias Payer"
-        ]
-      },
-      {
-        "title": "CodeGrafter: Unifying Source and Binary Graphs for Robust Vulnerability Detection.",
-        "authors": [
-          "Saquib Irtiza",
-          "Mahmoud Zamani",
-          "Shamila Wickramasuriya",
-          "Kevin W. Hamlen",
-          "Latifur Khan"
-        ]
-      },
-      {
-        "title": "SyzForge: An Automated System Call Specification Generation Process for Efficient Kernel Fuzzing.",
-        "authors": [
-          "ZhiZhuo Tang",
-          "Jian Lin",
-          "Weiyu Dong",
-          "Hang Ma",
-          "Tieming Liu"
-        ]
-      },
-      {
-        "title": "Poster: Machine Learning for Vulnerability Detection as Target Oracle in Automated Fuzz Driver Generation.",
-        "authors": [
-          "Gianpietro Castiglione",
-          "Marcello Maugeri",
-          "Giampaolo Bella"
-        ]
-      },
-      {
-        "title": "Reverse-Engineering the Address Translation Caches.",
-        "authors": [
-          "Philipp Ertmer",
-          "Robbie Dumitru",
-          "Yuval Yarom"
-        ]
-      },
-      {
-        "title": "The HMB Timing Side Channel: Exploiting the SSD's Host Memory Buffer.",
-        "authors": [
-          "Jonas Juffinger",
-          "Hannes Weissteiner",
-          "Thomas Steinbauer",
-          "Daniel Gruss"
-        ]
-      },
-      {
-        "title": "Cohere+Reload: Re-enabling High-Resolution Cache Attacks on AMD SEV-SNP.",
-        "authors": [
-          "Lukas Giner",
-          "Sudheendra Raghav Neela",
-          "Daniel Gruss"
-        ]
-      },
-      {
-        "title": "Poster: Extracting Cryptographic Keys from Windows Live Processes.",
-        "authors": [
-          "León Abascal",
-          "Ricardo J. Rodríguez"
-        ]
-      },
-      {
-        "title": "Experimental Study of Binary Diffing Resilience on Obfuscated Programs.",
-        "authors": [
-          "Roxane Cohen",
-          "Robin David",
-          "Riccardo Mori",
-          "Florian Yger",
-          "Fabrice Rossi"
-        ]
-      },
-      {
-        "title": "Quantifying and Mitigating the Impact of Obfuscations on Machine-Learning-Based Decompilation Improvement.",
-        "authors": [
-          "Luke Dramko",
-          "Deniz Bölöni-Turgut",
-          "Claire Le Goues",
-          "Edward J. Schwartz"
-        ]
-      },
-      {
-        "title": "Exploring the Potential of LLMs for Code Deobfuscation.",
-        "authors": [
-          "David Beste",
-          "Grégoire Menguy",
-          "Hossein Hajipour",
-          "Mario Fritz",
-          "Antonio Emanuele Cinà",
-          "Sébastien Bardin",
-          "Thorsten Holz",
-          "Thorsten Eisenhofer",
-          "Lea Schönherr"
-        ]
-      },
-      {
-        "title": "Poster: All Right Then, (Don't) Keep Your Secrets: Exposing API Hashing in Malware.",
-        "authors": [
-          "Nicola Bottura",
-          "Giorgia Di Pietro",
-          "Yuya Yamada",
-          "Daniele Cono D'Elia",
-          "Leonardo Querzoni"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/dimva/dimva2025-2.html": {
     "header": "22nd DIMVA 2025: Graz, Austria - Part II",
     "year": "2025",
@@ -331,6 +184,153 @@
           "Michele Carminati",
           "Stefano Zanero",
           "Stefano Longari"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/dimva/dimva2025-1.html": {
+    "header": "22nd DIMVA 2025: Graz, Austria - Part I",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "ScamFerret: Detecting Scam Websites Autonomously with Large Language Models.",
+        "authors": [
+          "Hiroki Nakano",
+          "Takashi Koide",
+          "Daiki Chiba"
+        ]
+      },
+      {
+        "title": "Domain Name Encryption Does Not Ensure Privacy: Website Fingerprinting Attack With Only a Few Samples Using Siamese Network.",
+        "authors": [
+          "Neriya Mazzuz",
+          "Asaf Shabtai"
+        ]
+      },
+      {
+        "title": "Making (Only) the Right Calls: Preventing Remote Code Execution Attacks in PHP Applications with Contextual, State-Sensitive System Call Filtering.",
+        "authors": [
+          "Yunsen Lei",
+          "Craig A. Shue"
+        ]
+      },
+      {
+        "title": "Poster: Generating the WEB-IDS23 Dataset.",
+        "authors": [
+          "Eric Lanfer",
+          "Dominik Brockmann",
+          "Nils Aschenbruck"
+        ]
+      },
+      {
+        "title": "Sourcerer: Channeling the void.",
+        "authors": [
+          "Nicolas Badoux",
+          "Flavio Toffalini",
+          "Mathias Payer"
+        ]
+      },
+      {
+        "title": "CodeGrafter: Unifying Source and Binary Graphs for Robust Vulnerability Detection.",
+        "authors": [
+          "Saquib Irtiza",
+          "Mahmoud Zamani",
+          "Shamila Wickramasuriya",
+          "Kevin W. Hamlen",
+          "Latifur Khan"
+        ]
+      },
+      {
+        "title": "SyzForge: An Automated System Call Specification Generation Process for Efficient Kernel Fuzzing.",
+        "authors": [
+          "ZhiZhuo Tang",
+          "Jian Lin",
+          "Weiyu Dong",
+          "Hang Ma",
+          "Tieming Liu"
+        ]
+      },
+      {
+        "title": "Poster: Machine Learning for Vulnerability Detection as Target Oracle in Automated Fuzz Driver Generation.",
+        "authors": [
+          "Gianpietro Castiglione",
+          "Marcello Maugeri",
+          "Giampaolo Bella"
+        ]
+      },
+      {
+        "title": "Reverse-Engineering the Address Translation Caches.",
+        "authors": [
+          "Philipp Ertmer",
+          "Robbie Dumitru",
+          "Yuval Yarom"
+        ]
+      },
+      {
+        "title": "The HMB Timing Side Channel: Exploiting the SSD's Host Memory Buffer.",
+        "authors": [
+          "Jonas Juffinger",
+          "Hannes Weissteiner",
+          "Thomas Steinbauer",
+          "Daniel Gruss"
+        ]
+      },
+      {
+        "title": "Cohere+Reload: Re-enabling High-Resolution Cache Attacks on AMD SEV-SNP.",
+        "authors": [
+          "Lukas Giner",
+          "Sudheendra Raghav Neela",
+          "Daniel Gruss"
+        ]
+      },
+      {
+        "title": "Poster: Extracting Cryptographic Keys from Windows Live Processes.",
+        "authors": [
+          "León Abascal",
+          "Ricardo J. Rodríguez"
+        ]
+      },
+      {
+        "title": "Experimental Study of Binary Diffing Resilience on Obfuscated Programs.",
+        "authors": [
+          "Roxane Cohen",
+          "Robin David",
+          "Riccardo Mori",
+          "Florian Yger",
+          "Fabrice Rossi"
+        ]
+      },
+      {
+        "title": "Quantifying and Mitigating the Impact of Obfuscations on Machine-Learning-Based Decompilation Improvement.",
+        "authors": [
+          "Luke Dramko",
+          "Deniz Bölöni-Turgut",
+          "Claire Le Goues",
+          "Edward J. Schwartz"
+        ]
+      },
+      {
+        "title": "Exploring the Potential of LLMs for Code Deobfuscation.",
+        "authors": [
+          "David Beste",
+          "Grégoire Menguy",
+          "Hossein Hajipour",
+          "Mario Fritz",
+          "Antonio Emanuele Cinà",
+          "Sébastien Bardin",
+          "Thorsten Holz",
+          "Thorsten Eisenhofer",
+          "Lea Schönherr"
+        ]
+      },
+      {
+        "title": "Poster: All Right Then, (Don't) Keep Your Secrets: Exposing API Hashing in Malware.",
+        "authors": [
+          "Nicola Bottura",
+          "Giorgia Di Pietro",
+          "Yuya Yamada",
+          "Daniele Cono D'Elia",
+          "Leonardo Querzoni"
         ]
       }
     ]
@@ -2407,123 +2407,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/dimva/dimva2011.html": {
-    "header": "DIMVA 2011: Amsterdam, The Netherlands",
-    "year": "2011",
-    "papers": [
-      {
-        "title": "Protecting against DNS Reflection Attacks with Bloom Filters.",
-        "authors": [
-          "Sebastiano Di Paola",
-          "Dario Lombardo"
-        ]
-      },
-      {
-        "title": "Effective Network Vulnerability Assessment through Model Abstraction.",
-        "authors": [
-          "Su Zhang",
-          "Xinming Ou",
-          "John Homer"
-        ]
-      },
-      {
-        "title": "Decoy Document Deployment for Effective Masquerade Attack Detection.",
-        "authors": [
-          "Malek Ben Salem",
-          "Salvatore J. Stolfo"
-        ]
-      },
-      {
-        "title": "Reverse Social Engineering Attacks in Online Social Networks.",
-        "authors": [
-          "Danesh Irani",
-          "Marco Balduzzi",
-          "Davide Balzarotti",
-          "Engin Kirda",
-          "Calton Pu"
-        ]
-      },
-      {
-        "title": "Timing Attacks on PIN Input in VoIP Networks (Short Paper).",
-        "authors": [
-          "Ge Zhang",
-          "Simone Fischer-Hübner"
-        ]
-      },
-      {
-        "title": "Biting the Hand That Serves You: A Closer Look at Client-Side Flash Proxies for Cross-Domain Requests.",
-        "authors": [
-          "Martin Johns",
-          "Sebastian Lekies"
-        ]
-      },
-      {
-        "title": "Mitigating Cross-Site Form History Spamming Attacks with Domain-Based Ranking.",
-        "authors": [
-          "Chuan Yue"
-        ]
-      },
-      {
-        "title": "Escape from Monkey Island: Evading High-Interaction Honeyclients.",
-        "authors": [
-          "Alexandros Kapravelos",
-          "Marco Cova",
-          "Christopher Kruegel",
-          "Giovanni Vigna"
-        ]
-      },
-      {
-        "title": "An Assessment of Overt Malicious Activity Manifest in Residential Networks.",
-        "authors": [
-          "Gregor Maier",
-          "Anja Feldmann",
-          "Vern Paxson",
-          "Robin Sommer",
-          "Matthias Vallentin"
-        ]
-      },
-      {
-        "title": "What's Clicking What? Techniques and Innovations of Today's Clickbots.",
-        "authors": [
-          "Brad Miller",
-          "Paul Pearce",
-          "Chris Grier",
-          "Christian Kreibich",
-          "Vern Paxson"
-        ]
-      },
-      {
-        "title": "MISHIMA: Multilateration of Internet Hosts Hidden Using Malicious Fast-Flux Agents (Short Paper).",
-        "authors": [
-          "Greg Banks",
-          "Aristide Fattori",
-          "Richard A. Kemmerer",
-          "Christopher Kruegel",
-          "Giovanni Vigna"
-        ]
-      },
-      {
-        "title": "Code Pointer Masking: Hardening Applications against Code Injection Attacks.",
-        "authors": [
-          "Pieter Philippaerts",
-          "Yves Younan",
-          "Stijn Muylle",
-          "Frank Piessens",
-          "Sven Lachmund",
-          "Thomas Walter"
-        ]
-      },
-      {
-        "title": "Operating System Interface Obfuscation and the Revealing of Hidden Operations.",
-        "authors": [
-          "Abhinav Srivastava",
-          "Andrea Lanzi",
-          "Jonathon T. Giffin",
-          "Davide Balzarotti"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/dimva/syssec2011.html": {
     "header": "SysSec@DIMVA 2011: Amsterdam, The Netherlands",
     "year": "2011",
@@ -2768,6 +2651,123 @@
         "title": "Systems Security Research at Ruhr-University Bochum.",
         "authors": [
           "Thorsten Holz"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/dimva/dimva2011.html": {
+    "header": "DIMVA 2011: Amsterdam, The Netherlands",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "Protecting against DNS Reflection Attacks with Bloom Filters.",
+        "authors": [
+          "Sebastiano Di Paola",
+          "Dario Lombardo"
+        ]
+      },
+      {
+        "title": "Effective Network Vulnerability Assessment through Model Abstraction.",
+        "authors": [
+          "Su Zhang",
+          "Xinming Ou",
+          "John Homer"
+        ]
+      },
+      {
+        "title": "Decoy Document Deployment for Effective Masquerade Attack Detection.",
+        "authors": [
+          "Malek Ben Salem",
+          "Salvatore J. Stolfo"
+        ]
+      },
+      {
+        "title": "Reverse Social Engineering Attacks in Online Social Networks.",
+        "authors": [
+          "Danesh Irani",
+          "Marco Balduzzi",
+          "Davide Balzarotti",
+          "Engin Kirda",
+          "Calton Pu"
+        ]
+      },
+      {
+        "title": "Timing Attacks on PIN Input in VoIP Networks (Short Paper).",
+        "authors": [
+          "Ge Zhang",
+          "Simone Fischer-Hübner"
+        ]
+      },
+      {
+        "title": "Biting the Hand That Serves You: A Closer Look at Client-Side Flash Proxies for Cross-Domain Requests.",
+        "authors": [
+          "Martin Johns",
+          "Sebastian Lekies"
+        ]
+      },
+      {
+        "title": "Mitigating Cross-Site Form History Spamming Attacks with Domain-Based Ranking.",
+        "authors": [
+          "Chuan Yue"
+        ]
+      },
+      {
+        "title": "Escape from Monkey Island: Evading High-Interaction Honeyclients.",
+        "authors": [
+          "Alexandros Kapravelos",
+          "Marco Cova",
+          "Christopher Kruegel",
+          "Giovanni Vigna"
+        ]
+      },
+      {
+        "title": "An Assessment of Overt Malicious Activity Manifest in Residential Networks.",
+        "authors": [
+          "Gregor Maier",
+          "Anja Feldmann",
+          "Vern Paxson",
+          "Robin Sommer",
+          "Matthias Vallentin"
+        ]
+      },
+      {
+        "title": "What's Clicking What? Techniques and Innovations of Today's Clickbots.",
+        "authors": [
+          "Brad Miller",
+          "Paul Pearce",
+          "Chris Grier",
+          "Christian Kreibich",
+          "Vern Paxson"
+        ]
+      },
+      {
+        "title": "MISHIMA: Multilateration of Internet Hosts Hidden Using Malicious Fast-Flux Agents (Short Paper).",
+        "authors": [
+          "Greg Banks",
+          "Aristide Fattori",
+          "Richard A. Kemmerer",
+          "Christopher Kruegel",
+          "Giovanni Vigna"
+        ]
+      },
+      {
+        "title": "Code Pointer Masking: Hardening Applications against Code Injection Attacks.",
+        "authors": [
+          "Pieter Philippaerts",
+          "Yves Younan",
+          "Stijn Muylle",
+          "Frank Piessens",
+          "Sven Lachmund",
+          "Thomas Walter"
+        ]
+      },
+      {
+        "title": "Operating System Interface Obfuscation and the Revealing of Hidden Operations.",
+        "authors": [
+          "Abhinav Srivastava",
+          "Andrea Lanzi",
+          "Jonathon T. Giffin",
+          "Davide Balzarotti"
         ]
       }
     ]

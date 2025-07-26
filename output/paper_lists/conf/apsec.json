@@ -1,4 +1,83 @@
 {
+  "https://dblp.org/db/conf/apsec/quasoq2024.html": {
+    "header": "QuASoQ@APSEC 2024:\nChongqing, China",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "Report on the 12th International Workshop on Quantitative Approaches to Software Quality.",
+        "authors": [
+          "Horst Lichter",
+          "Nils Wild",
+          "Thanwadee Sunetnanta",
+          "Toni Anwar"
+        ]
+      },
+      {
+        "title": "An Automated Evaluation Approach for Jupyter Notebook Code Cell Recommender Systems.",
+        "authors": [
+          "Selin Aydin",
+          "Dennis Mertens",
+          "Ouyu Xu"
+        ]
+      },
+      {
+        "title": "A Report on Sentiment Analysis of Requirements Engineering Artifacts created in University Course.",
+        "authors": [
+          "Takumi Katsuie",
+          "Shinpei Ogata",
+          "Kozo Okano",
+          "Yukako Iimura",
+          "Shinobu Saito"
+        ]
+      },
+      {
+        "title": "F-IKOS: An Abstract Interpretation-based Static Analyzer for Fortran Programs.",
+        "authors": [
+          "Sheng Zou",
+          "Liqian Chen",
+          "Guangsheng Fan",
+          "Renjie Huang",
+          "Banghu Yin"
+        ]
+      },
+      {
+        "title": "Understanding the Occurrences of Test Smells in Open Source and Industrial Software Systems: An Empirical Study on Python Projects.",
+        "authors": [
+          "Md Arif Hasan",
+          "Toukir Ahammed"
+        ]
+      },
+      {
+        "title": "Challenges in Adopting LLaMA: An Empirical Study of Discussions on Stack Overflow.",
+        "authors": [
+          "Ramita Deeprom",
+          "Shiyu Yang",
+          "Yoshiki Higo",
+          "Morakot Choetkiertikul",
+          "Chaiyong Ragkhitwetsagul"
+        ]
+      },
+      {
+        "title": "Requirements Engineering Practices Model to Incorporate 'Power' Human Value.",
+        "authors": [
+          "Nasir Mehmood Minhas",
+          "Javed Iqbal",
+          "Saif Ur Rehman Khan"
+        ]
+      },
+      {
+        "title": "A Novel Approach to Automated Test Script Generation using Large Language Models for Domain-Specific Languages.",
+        "authors": [
+          "Jianing Sun",
+          "Jiahui Wang",
+          "Yuyan Zhu",
+          "Xingyu Li",
+          "Ying Xie",
+          "Jiaxin Chen"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/apsec/apsec2024.html": {
     "header": "31st APSEC 2024: Chongqing, China",
     "year": "2024",
@@ -621,85 +700,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/apsec/quasoq2024.html": {
-    "header": "QuASoQ@APSEC 2024:\nChongqing, China",
-    "year": "2024",
-    "papers": [
-      {
-        "title": "Report on the 12th International Workshop on Quantitative Approaches to Software Quality.",
-        "authors": [
-          "Horst Lichter",
-          "Nils Wild",
-          "Thanwadee Sunetnanta",
-          "Toni Anwar"
-        ]
-      },
-      {
-        "title": "An Automated Evaluation Approach for Jupyter Notebook Code Cell Recommender Systems.",
-        "authors": [
-          "Selin Aydin",
-          "Dennis Mertens",
-          "Ouyu Xu"
-        ]
-      },
-      {
-        "title": "A Report on Sentiment Analysis of Requirements Engineering Artifacts created in University Course.",
-        "authors": [
-          "Takumi Katsuie",
-          "Shinpei Ogata",
-          "Kozo Okano",
-          "Yukako Iimura",
-          "Shinobu Saito"
-        ]
-      },
-      {
-        "title": "F-IKOS: An Abstract Interpretation-based Static Analyzer for Fortran Programs.",
-        "authors": [
-          "Sheng Zou",
-          "Liqian Chen",
-          "Guangsheng Fan",
-          "Renjie Huang",
-          "Banghu Yin"
-        ]
-      },
-      {
-        "title": "Understanding the Occurrences of Test Smells in Open Source and Industrial Software Systems: An Empirical Study on Python Projects.",
-        "authors": [
-          "Md Arif Hasan",
-          "Toukir Ahammed"
-        ]
-      },
-      {
-        "title": "Challenges in Adopting LLaMA: An Empirical Study of Discussions on Stack Overflow.",
-        "authors": [
-          "Ramita Deeprom",
-          "Shiyu Yang",
-          "Yoshiki Higo",
-          "Morakot Choetkiertikul",
-          "Chaiyong Ragkhitwetsagul"
-        ]
-      },
-      {
-        "title": "Requirements Engineering Practices Model to Incorporate 'Power' Human Value.",
-        "authors": [
-          "Nasir Mehmood Minhas",
-          "Javed Iqbal",
-          "Saif Ur Rehman Khan"
-        ]
-      },
-      {
-        "title": "A Novel Approach to Automated Test Script Generation using Large Language Models for Domain-Specific Languages.",
-        "authors": [
-          "Jianing Sun",
-          "Jiahui Wang",
-          "Yuyan Zhu",
-          "Xingyu Li",
-          "Ying Xie",
-          "Jiaxin Chen"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/apsec/quasoq2023.html": {
     "header": "IWESQ/QuASoQ@APSEC 2023:\nSeoul, Korea",
     "year": "2023",
@@ -810,6 +810,95 @@
           "Jiaqi Yin",
           "Sini Chen",
           "Huibiao Zhu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apsec/ise2023.html": {
+    "header": "ISE@APSEC 2023:\nSeoul, Korea",
+    "year": "2023",
+    "papers": [
+      {
+        "title": "Topic-aware video summarization technique for product reviews exploiting the BERTopic and BART models.",
+        "authors": [
+          "Yujin Ha",
+          "Gun-Woo Kim"
+        ]
+      },
+      {
+        "title": "GAN-based image generation techniques exploiting latent vector distribution and edge loss methods on limited datasets.",
+        "authors": [
+          "Yun Gyeong Song",
+          "Gun-Woo Kim"
+        ]
+      },
+      {
+        "title": "A Combination of Classification and Summarization Techniques for Bug Report Summarization.",
+        "authors": [
+          "Samal Mukhtar",
+          "Seonah Lee"
+        ]
+      },
+      {
+        "title": "Developing Machine Learning Systems: Situational Factors Shaping the Development Process.",
+        "authors": [
+          "Selin Aydin",
+          "Horst Lichter"
+        ]
+      },
+      {
+        "title": "Fault Localization with DNN-based Test Case Learning and Ablated Execution Traces.",
+        "authors": [
+          "Takuma Ikeda",
+          "Kozo Okano",
+          "Shinpei Ogata",
+          "Shin Nakajima"
+        ]
+      },
+      {
+        "title": "Measuring Modularity in JavaScript-Based Microservices from Software Architectural Perspectives.",
+        "authors": [
+          "Claudia Cahya Primadani",
+          "Seonah Lee"
+        ]
+      },
+      {
+        "title": "Duplicate Bug Report Detection by Using Sentence Embedding and Faiss.",
+        "authors": [
+          "Sunho Lee",
+          "Seonah Lee"
+        ]
+      },
+      {
+        "title": "A Survey of Software Health Management in Unmanned Aerial Vehicle Systems.",
+        "authors": [
+          "Jinseok Park",
+          "Euteum Choi",
+          "Seongjin Lee"
+        ]
+      },
+      {
+        "title": "Hyperparameter Optimization Technique in Autonomous Racing Cars exploiting the Leaky Piece and Conquer Fireworks Algorithm.",
+        "authors": [
+          "Myeongjun Kim",
+          "Gun-Woo Kim"
+        ]
+      },
+      {
+        "title": "A Ground Control System Based on Digital Twin for Monitoring the Status of UAVs.",
+        "authors": [
+          "Chang-Hui Bae",
+          "Chang-Hui Kim",
+          "Seongjin Lee"
+        ]
+      },
+      {
+        "title": "A Survey of Health Management System for On-The-Fly Repairing of Concurrency Errors in Airborne Software.",
+        "authors": [
+          "Junho Lee",
+          "Seongyun Go",
+          "Euteum Choi",
+          "Seongjin Lee"
         ]
       }
     ]
@@ -1624,91 +1713,174 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/apsec/ise2023.html": {
-    "header": "ISE@APSEC 2023:\nSeoul, Korea",
-    "year": "2023",
+  "https://dblp.org/db/conf/apsec/quasoq2022.html": {
+    "header": "10th QuASoQ / 6th SEED@APSEC 2022: Virtual",
+    "year": "2022",
     "papers": [
       {
-        "title": "Topic-aware video summarization technique for product reviews exploiting the BERTopic and BART models.",
+        "title": "Report on the the 10th International Workshop on Quantitative Approaches to Software Quality (QuASoQ 2022).",
         "authors": [
-          "Yujin Ha",
-          "Gun-Woo Kim"
-        ]
-      },
-      {
-        "title": "GAN-based image generation techniques exploiting latent vector distribution and edge loss methods on limited datasets.",
-        "authors": [
-          "Yun Gyeong Song",
-          "Gun-Woo Kim"
-        ]
-      },
-      {
-        "title": "A Combination of Classification and Summarization Techniques for Bug Report Summarization.",
-        "authors": [
-          "Samal Mukhtar",
-          "Seonah Lee"
-        ]
-      },
-      {
-        "title": "Developing Machine Learning Systems: Situational Factors Shaping the Development Process.",
-        "authors": [
+          "Horst Lichter",
           "Selin Aydin",
-          "Horst Lichter"
+          "Thanwadee Sunetnanta",
+          "Toni Anwar"
         ]
       },
       {
-        "title": "Fault Localization with DNN-based Test Case Learning and Ablated Execution Traces.",
+        "title": "A Dynamic Model Selection Approach to Mitigate the Change of Balance Problem in Cross-Version Bug Prediction.",
         "authors": [
-          "Takuma Ikeda",
-          "Kozo Okano",
-          "Shinpei Ogata",
-          "Shin Nakajima"
+          "Hiroshi Demanou",
+          "Akito Monden",
+          "Masateru Tsunoda"
         ]
       },
       {
-        "title": "Measuring Modularity in JavaScript-Based Microservices from Software Architectural Perspectives.",
+        "title": "A Composite Discover Method for Gadget Chains in Java Deserialization Vulnerability.",
         "authors": [
-          "Claudia Cahya Primadani",
-          "Seonah Lee"
+          "Zhaojia Lai",
+          "Haipeng Qu",
+          "Lingyun Ying"
         ]
       },
       {
-        "title": "Duplicate Bug Report Detection by Using Sentence Embedding and Faiss.",
+        "title": "Exploring the Impact of Code Style in Identifying Good Programmers.",
         "authors": [
-          "Sunho Lee",
-          "Seonah Lee"
+          "Rafed Muhammad Yasir",
+          "Ahmedul Kabir"
         ]
       },
       {
-        "title": "A Survey of Software Health Management in Unmanned Aerial Vehicle Systems.",
+        "title": "An Empirical Evaluation of Defect Prediction Models Using Project-Specific Measures.",
         "authors": [
-          "Jinseok Park",
-          "Euteum Choi",
-          "Seongjin Lee"
+          "Umamaheswara Sharma Bhutamapuram",
+          "Ravichandra Sadam"
         ]
       },
       {
-        "title": "Hyperparameter Optimization Technique in Autonomous Racing Cars exploiting the Leaky Piece and Conquer Fireworks Algorithm.",
+        "title": "Towards Model Driven Safety and Security by Design.",
         "authors": [
-          "Myeongjun Kim",
-          "Gun-Woo Kim"
+          "Miguel Campusano",
+          "Simon Hacks",
+          "Eun-Young Kang"
         ]
       },
       {
-        "title": "A Ground Control System Based on Digital Twin for Monitoring the Status of UAVs.",
+        "title": "Proposal of a User Interface Design Guideline based on Analysis of the Causes of Usability Defects reported in a project-based Software Engineering Course.",
         "authors": [
-          "Chang-Hui Bae",
-          "Chang-Hui Kim",
-          "Seongjin Lee"
+          "Takuro Minoya",
+          "Kiichi Furukawa",
+          "Atsuo Hazeyama"
         ]
       },
       {
-        "title": "A Survey of Health Management System for On-The-Fly Repairing of Concurrency Errors in Airborne Software.",
+        "title": "Adaptation of an Online Platform to Teach Testing.",
         "authors": [
-          "Junho Lee",
-          "Seongyun Go",
-          "Euteum Choi",
-          "Seongjin Lee"
+          "Lydie du Bousquet",
+          "Christophe Saint-Marcel"
+        ]
+      },
+      {
+        "title": "Online Service-Learning in Application Development Course: The Challenges during the COVID-19 Post-Pandemic Period.",
+        "authors": [
+          "Shahida Sulaiman"
+        ]
+      },
+      {
+        "title": "Identifying Learning Challenges faced by Novice/Beginner Computer Programming Students: An Action Research Approach.",
+        "authors": [
+          "Sarita Singh"
+        ]
+      },
+      {
+        "title": "Using Student-generated Questions in Software Engineering Courses.",
+        "authors": [
+          "Deepika Badampudi"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apsec/iwesq2022.html": {
+    "header": "IWESQ/APSEDEI@APSEC 2022: Virtual Event / Tokyo, Japan",
+    "year": "2022",
+    "papers": [
+      {
+        "title": "SQuaRE Matters: Reflection of Quality Evaluation, Benchmark, and Practioners' Perception through SQuaRE (invited).",
+        "authors": [
+          "Hironori Washizaki"
+        ]
+      },
+      {
+        "title": "Extensions of ISO/IEC 25000 Quality Models to the Context of Artificial Intelligence (poster).",
+        "authors": [
+          "Domenico Natale"
+        ]
+      },
+      {
+        "title": "What Is the Difference between Usability in ISO 25000 and Usability in 9241-11? - The Term \"usability\" as Part of the Product Quality Model Used in the SQuaRE Series in Contrast to the Term Usability in ISO 9241-11-(poster).",
+        "authors": [
+          "Shin'ichi Fukuzumi",
+          "Thomas Geis",
+          "Jonathan Earthy"
+        ]
+      },
+      {
+        "title": "Fairness Metrics and Maximum Completeness for the Prediction of Discrimination.",
+        "authors": [
+          "Alessandro Simonetta",
+          "Tsuyoshi Nakajima",
+          "Maria Cristina Paoletti",
+          "Alessio Venticinque"
+        ]
+      },
+      {
+        "title": "ISO/IEC 25000 and AI product quality measurement perspectives.",
+        "authors": [
+          "Andrea Trenta"
+        ]
+      },
+      {
+        "title": "Concept of Quality Digital Twin in Agile Development.",
+        "authors": [
+          "Tsuyoshi Nakajima",
+          "Alessandro Simonetta"
+        ]
+      },
+      {
+        "title": "Proposal for the Use of Quality Characteristics in Security Design Methodologies.",
+        "authors": [
+          "Daiju Kato",
+          "Daisuke Iwasaki"
+        ]
+      },
+      {
+        "title": "Data Cybersecurity Evaluation with ISO/IEC 25012.",
+        "authors": [
+          "Javier Verdugo",
+          "Moisés Rodríguez",
+          "Jesús Ramon Oviedo",
+          "Mario Piattini"
+        ]
+      },
+      {
+        "title": "Systematic Literature Review of Gender and Software Engineering in Asia.",
+        "authors": [
+          "Hironori Washizaki"
+        ]
+      },
+      {
+        "title": "Diving Deep into Human Centric Issues within Cyber Security.",
+        "authors": [
+          "Kalpit Jadhav",
+          "Sherif Haggag",
+          "Hussein Haggag"
+        ]
+      },
+      {
+        "title": "Human Centric Framework for Customising and Producing Effective Cybersecurity Training Materials.",
+        "authors": [
+          "Ashwinraj Giriraj",
+          "Sherif Haggag",
+          "Hussein Haggag"
         ]
       }
     ]
@@ -1826,92 +1998,6 @@
         "authors": [
           "Changwon Kwak",
           "Seonah Lee"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/apsec/iwesq2022.html": {
-    "header": "IWESQ/APSEDEI@APSEC 2022: Virtual Event / Tokyo, Japan",
-    "year": "2022",
-    "papers": [
-      {
-        "title": "SQuaRE Matters: Reflection of Quality Evaluation, Benchmark, and Practioners' Perception through SQuaRE (invited).",
-        "authors": [
-          "Hironori Washizaki"
-        ]
-      },
-      {
-        "title": "Extensions of ISO/IEC 25000 Quality Models to the Context of Artificial Intelligence (poster).",
-        "authors": [
-          "Domenico Natale"
-        ]
-      },
-      {
-        "title": "What Is the Difference between Usability in ISO 25000 and Usability in 9241-11? - The Term \"usability\" as Part of the Product Quality Model Used in the SQuaRE Series in Contrast to the Term Usability in ISO 9241-11-(poster).",
-        "authors": [
-          "Shin'ichi Fukuzumi",
-          "Thomas Geis",
-          "Jonathan Earthy"
-        ]
-      },
-      {
-        "title": "Fairness Metrics and Maximum Completeness for the Prediction of Discrimination.",
-        "authors": [
-          "Alessandro Simonetta",
-          "Tsuyoshi Nakajima",
-          "Maria Cristina Paoletti",
-          "Alessio Venticinque"
-        ]
-      },
-      {
-        "title": "ISO/IEC 25000 and AI product quality measurement perspectives.",
-        "authors": [
-          "Andrea Trenta"
-        ]
-      },
-      {
-        "title": "Concept of Quality Digital Twin in Agile Development.",
-        "authors": [
-          "Tsuyoshi Nakajima",
-          "Alessandro Simonetta"
-        ]
-      },
-      {
-        "title": "Proposal for the Use of Quality Characteristics in Security Design Methodologies.",
-        "authors": [
-          "Daiju Kato",
-          "Daisuke Iwasaki"
-        ]
-      },
-      {
-        "title": "Data Cybersecurity Evaluation with ISO/IEC 25012.",
-        "authors": [
-          "Javier Verdugo",
-          "Moisés Rodríguez",
-          "Jesús Ramon Oviedo",
-          "Mario Piattini"
-        ]
-      },
-      {
-        "title": "Systematic Literature Review of Gender and Software Engineering in Asia.",
-        "authors": [
-          "Hironori Washizaki"
-        ]
-      },
-      {
-        "title": "Diving Deep into Human Centric Issues within Cyber Security.",
-        "authors": [
-          "Kalpit Jadhav",
-          "Sherif Haggag",
-          "Hussein Haggag"
-        ]
-      },
-      {
-        "title": "Human Centric Framework for Customising and Producing Effective Cybersecurity Training Materials.",
-        "authors": [
-          "Ashwinraj Giriraj",
-          "Sherif Haggag",
-          "Hussein Haggag"
         ]
       }
     ]
@@ -2625,12 +2711,111 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/apsec/quasoq2022.html": {
-    "header": "10th QuASoQ / 6th SEED@APSEC 2022: Virtual",
-    "year": "2022",
+  "https://dblp.org/db/conf/apsec/resosy2021.html": {
+    "header": "RESOSY@APSEC 2021: Virtual Event, Taiwan",
+    "year": "2021",
     "papers": [
       {
-        "title": "Report on the the 10th International Workshop on Quantitative Approaches to Software Quality (QuASoQ 2022).",
+        "title": "Continuous Requirements Engineering in Sociotechnical Systems: Challenges and Solutions.",
+        "authors": [
+          "Marite Kirikova"
+        ]
+      },
+      {
+        "title": "Requirements engineering for sociotechnical systems that may include mixed initiative interactions between humans and machines.",
+        "authors": [
+          "Steven Alter"
+        ]
+      },
+      {
+        "title": "Towards an approach for designing socio-technical business processes.",
+        "authors": [
+          "Mohamad Gharib",
+          "Ishaya Peni Gambo"
+        ]
+      },
+      {
+        "title": "Emotion-oriented AOM: A case study.",
+        "authors": [
+          "Syazwanie Filzah Binti Zulkifli",
+          "Cheah Wai Shiang",
+          "Nurfauza binti Jali"
+        ]
+      },
+      {
+        "title": "An ideal physical activity app for adults - what should it be like? Requirements of adult users.",
+        "authors": [
+          "Kerli Mooses"
+        ]
+      },
+      {
+        "title": "Requirements elicitation and repeatable processes - interdisciplinary collaboration between software engineering and design.",
+        "authors": [
+          "Leon Sterling",
+          "James Marshall",
+          "Steven Murdoch",
+          "Sonja Pedell"
+        ]
+      },
+      {
+        "title": "Requirements engineering for sociotechnical systems: Case study of an Airline Operations Control Center.",
+        "authors": [
+          "Nico Zimmer",
+          "Kuldar Taveter"
+        ]
+      },
+      {
+        "title": "Transitioning from motivational goal models to user stories within user-centred software design.",
+        "authors": [
+          "Eduardo Araujo Oliveira",
+          "Varsha Maram",
+          "Leon Sterling"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apsec/quasoq2021.html": {
+    "header": "SEED/QuASoQ@APSEC 2021: Virtual Event, Taiwan",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Introducing Software System Course to Engineering Undergraduate Students - An Experience Report.",
+        "authors": [
+          "Sai Anirudh Karre",
+          "Abhinav Gupta",
+          "Lalit Mohan S.",
+          "Y. Raghu Reddy"
+        ]
+      },
+      {
+        "title": "Mining and Detecting Bugs in Introductory Programs.",
+        "authors": [
+          "Wenchu Xu",
+          "Yanran Ma"
+        ]
+      },
+      {
+        "title": "Teaching Software Engineering Virtually during COVID-19 Pandemic Era: Lessons Learned.",
+        "authors": [
+          "Shahida Sulaiman"
+        ]
+      },
+      {
+        "title": "The Perceived Effects of Introducing Coaching on the Development of Student's Soft Skills Managing Software Quality.",
+        "authors": [
+          "Azeem Ahmad",
+          "Kristian Sandahl",
+          "Aseel Barglund"
+        ]
+      },
+      {
+        "title": "Applying Software Engineering to Teach Online Project-Based Software Engineering Courses.",
+        "authors": [
+          "Duc Minh Le"
+        ]
+      },
+      {
+        "title": "Report on the the 9th International Workshop on Quantitative Approaches to Software Quality.",
         "authors": [
           "Horst Lichter",
           "Selin Aydin",
@@ -2639,74 +2824,107 @@
         ]
       },
       {
-        "title": "A Dynamic Model Selection Approach to Mitigate the Change of Balance Problem in Cross-Version Bug Prediction.",
+        "title": "The Impacts of Requirements Relationships Knowledge on Requirements Quality and Software Development Project Success.",
         "authors": [
-          "Hiroshi Demanou",
-          "Akito Monden",
-          "Masateru Tsunoda"
+          "Ruhaya Ab. Aziz",
+          "Bernard Wong"
         ]
       },
       {
-        "title": "A Composite Discover Method for Gadget Chains in Java Deserialization Vulnerability.",
+        "title": "Predicting Requirements Volatility: An Industry Case Study.",
         "authors": [
-          "Zhaojia Lai",
-          "Haipeng Qu",
-          "Lingyun Ying"
+          "Anil Holat",
+          "Ayse Tosun"
         ]
       },
       {
-        "title": "Exploring the Impact of Code Style in Identifying Good Programmers.",
+        "title": "Towards a Catalog of Refactoring Solutions for Enterprise Architecture Smells.",
         "authors": [
-          "Rafed Muhammad Yasir",
-          "Ahmedul Kabir"
+          "Lukas Liss",
+          "Henrik Kämmerling",
+          "Peter Alexander",
+          "Horst Lichter"
         ]
       },
       {
-        "title": "An Empirical Evaluation of Defect Prediction Models Using Project-Specific Measures.",
+        "title": "A Condition Coverage-Based Black Hole Inspired Meta-Heuristic for Test Data Generation.",
         "authors": [
-          "Umamaheswara Sharma Bhutamapuram",
-          "Ravichandra Sadam"
+          "Derya Yeliz Ulutas",
+          "Ayse Tosun"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apsec/iwesq2021.html": {
+    "header": "IWESQ@APSEC 2021: Virtual Event, Taipei, Taiwan",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Approach to Develop Quality Model of Cloud Services.",
+        "authors": [
+          "Hyunchong Kim",
+          "Jaehyo Lee"
         ]
       },
       {
-        "title": "Towards Model Driven Safety and Security by Design.",
+        "title": "Research on Quality Model and Measurement for Microservices.",
         "authors": [
-          "Miguel Campusano",
-          "Simon Hacks",
-          "Eun-Young Kang"
+          "Jinchuan Yu",
+          "Jianxin Ge",
+          "Jixin Sun"
         ]
       },
       {
-        "title": "Proposal of a User Interface Design Guideline based on Analysis of the Causes of Usability Defects reported in a project-based Software Engineering Course.",
+        "title": "Data bias measurement: a geometrical approach through frames.",
         "authors": [
-          "Takuro Minoya",
-          "Kiichi Furukawa",
-          "Atsuo Hazeyama"
+          "Andrea Trenta"
         ]
       },
       {
-        "title": "Adaptation of an Online Platform to Teach Testing.",
+        "title": "Integrating SQuARE with ISO 31000 risk management to measure and mitigate software bias.",
         "authors": [
-          "Lydie du Bousquet",
-          "Christophe Saint-Marcel"
+          "Alessandro Simonetta",
+          "Antonio Vetrò",
+          "Maria Cristina Paoletti",
+          "Marco Torchiano"
         ]
       },
       {
-        "title": "Online Service-Learning in Application Development Course: The Challenges during the COVID-19 Post-Pandemic Period.",
+        "title": "Using the SQuaRE series as a guarantee for GDPR compliance.",
         "authors": [
-          "Shahida Sulaiman"
+          "Alessandro Simonetta",
+          "Maria Cristina Paoletti",
+          "Alessio Venticinque"
         ]
       },
       {
-        "title": "Identifying Learning Challenges faced by Novice/Beginner Computer Programming Students: An Action Research Approach.",
+        "title": "Context Coverage in \"Quality in Use Model\"(short paper).",
         "authors": [
-          "Sarita Singh"
+          "Shin'ichi Fukuzumi"
         ]
       },
       {
-        "title": "Using Student-generated Questions in Software Engineering Courses.",
+        "title": "Requirement analysis for social acceptance of AI medical interview - from view of quality in use (short paper).",
         "authors": [
-          "Deepika Badampudi"
+          "Natsuko Noda",
+          "Shin'ichi Fukuzumi"
+        ]
+      },
+      {
+        "title": "Survey on Testing of Autonomous Driving Systems.",
+        "authors": [
+          "Wenjie Chen",
+          "Zeyu Ma",
+          "Chao Wang",
+          "Mingang Chen",
+          "Lizhi Cai"
+        ]
+      },
+      {
+        "title": "A study on the evaluation method of SW test items to quantify BEMS quality.",
+        "authors": [
+          "A.-Young Park",
+          "Sang-sin Park"
         ]
       }
     ]
@@ -3469,220 +3687,75 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/apsec/iwesq2021.html": {
-    "header": "IWESQ@APSEC 2021: Virtual Event, Taipei, Taiwan",
-    "year": "2021",
+  "https://dblp.org/db/conf/apsec/seed2020.html": {
+    "header": "SEED/NLPaSE@APSEC 2020: Virtual Event, Singapore",
+    "year": "2020",
     "papers": [
       {
-        "title": "Approach to Develop Quality Model of Cloud Services.",
+        "title": "A lightweight collaborative approach for teaching software project labs with industry partners.",
         "authors": [
-          "Hyunchong Kim",
-          "Jaehyo Lee"
-        ]
-      },
-      {
-        "title": "Research on Quality Model and Measurement for Microservices.",
-        "authors": [
-          "Jinchuan Yu",
-          "Jianxin Ge",
-          "Jixin Sun"
-        ]
-      },
-      {
-        "title": "Data bias measurement: a geometrical approach through frames.",
-        "authors": [
-          "Andrea Trenta"
-        ]
-      },
-      {
-        "title": "Integrating SQuARE with ISO 31000 risk management to measure and mitigate software bias.",
-        "authors": [
-          "Alessandro Simonetta",
-          "Antonio Vetrò",
-          "Maria Cristina Paoletti",
-          "Marco Torchiano"
-        ]
-      },
-      {
-        "title": "Using the SQuaRE series as a guarantee for GDPR compliance.",
-        "authors": [
-          "Alessandro Simonetta",
-          "Maria Cristina Paoletti",
-          "Alessio Venticinque"
-        ]
-      },
-      {
-        "title": "Context Coverage in \"Quality in Use Model\"(short paper).",
-        "authors": [
-          "Shin'ichi Fukuzumi"
-        ]
-      },
-      {
-        "title": "Requirement analysis for social acceptance of AI medical interview - from view of quality in use (short paper).",
-        "authors": [
-          "Natsuko Noda",
-          "Shin'ichi Fukuzumi"
-        ]
-      },
-      {
-        "title": "Survey on Testing of Autonomous Driving Systems.",
-        "authors": [
-          "Wenjie Chen",
-          "Zeyu Ma",
-          "Chao Wang",
-          "Mingang Chen",
-          "Lizhi Cai"
-        ]
-      },
-      {
-        "title": "A study on the evaluation method of SW test items to quantify BEMS quality.",
-        "authors": [
-          "A.-Young Park",
-          "Sang-sin Park"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/apsec/resosy2021.html": {
-    "header": "RESOSY@APSEC 2021: Virtual Event, Taiwan",
-    "year": "2021",
-    "papers": [
-      {
-        "title": "Continuous Requirements Engineering in Sociotechnical Systems: Challenges and Solutions.",
-        "authors": [
-          "Marite Kirikova"
-        ]
-      },
-      {
-        "title": "Requirements engineering for sociotechnical systems that may include mixed initiative interactions between humans and machines.",
-        "authors": [
-          "Steven Alter"
-        ]
-      },
-      {
-        "title": "Towards an approach for designing socio-technical business processes.",
-        "authors": [
-          "Mohamad Gharib",
-          "Ishaya Peni Gambo"
-        ]
-      },
-      {
-        "title": "Emotion-oriented AOM: A case study.",
-        "authors": [
-          "Syazwanie Filzah Binti Zulkifli",
-          "Cheah Wai Shiang",
-          "Nurfauza binti Jali"
-        ]
-      },
-      {
-        "title": "An ideal physical activity app for adults - what should it be like? Requirements of adult users.",
-        "authors": [
-          "Kerli Mooses"
-        ]
-      },
-      {
-        "title": "Requirements elicitation and repeatable processes - interdisciplinary collaboration between software engineering and design.",
-        "authors": [
-          "Leon Sterling",
-          "James Marshall",
-          "Steven Murdoch",
-          "Sonja Pedell"
-        ]
-      },
-      {
-        "title": "Requirements engineering for sociotechnical systems: Case study of an Airline Operations Control Center.",
-        "authors": [
-          "Nico Zimmer",
-          "Kuldar Taveter"
-        ]
-      },
-      {
-        "title": "Transitioning from motivational goal models to user stories within user-centred software design.",
-        "authors": [
-          "Eduardo Araujo Oliveira",
-          "Varsha Maram",
-          "Leon Sterling"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/apsec/quasoq2021.html": {
-    "header": "SEED/QuASoQ@APSEC 2021: Virtual Event, Taiwan",
-    "year": "2021",
-    "papers": [
-      {
-        "title": "Introducing Software System Course to Engineering Undergraduate Students - An Experience Report.",
-        "authors": [
-          "Sai Anirudh Karre",
-          "Abhinav Gupta",
-          "Lalit Mohan S.",
-          "Y. Raghu Reddy"
-        ]
-      },
-      {
-        "title": "Mining and Detecting Bugs in Introductory Programs.",
-        "authors": [
-          "Wenchu Xu",
-          "Yanran Ma"
-        ]
-      },
-      {
-        "title": "Teaching Software Engineering Virtually during COVID-19 Pandemic Era: Lessons Learned.",
-        "authors": [
-          "Shahida Sulaiman"
-        ]
-      },
-      {
-        "title": "The Perceived Effects of Introducing Coaching on the Development of Student's Soft Skills Managing Software Quality.",
-        "authors": [
-          "Azeem Ahmad",
-          "Kristian Sandahl",
-          "Aseel Barglund"
-        ]
-      },
-      {
-        "title": "Applying Software Engineering to Teach Online Project-Based Software Engineering Courses.",
-        "authors": [
-          "Duc Minh Le"
-        ]
-      },
-      {
-        "title": "Report on the the 9th International Workshop on Quantitative Approaches to Software Quality.",
-        "authors": [
-          "Horst Lichter",
-          "Selin Aydin",
-          "Thanwadee Sunetnanta",
-          "Toni Anwar"
-        ]
-      },
-      {
-        "title": "The Impacts of Requirements Relationships Knowledge on Requirements Quality and Software Development Project Success.",
-        "authors": [
-          "Ruhaya Ab. Aziz",
-          "Bernard Wong"
-        ]
-      },
-      {
-        "title": "Predicting Requirements Volatility: An Industry Case Study.",
-        "authors": [
-          "Anil Holat",
-          "Ayse Tosun"
-        ]
-      },
-      {
-        "title": "Towards a Catalog of Refactoring Solutions for Enterprise Architecture Smells.",
-        "authors": [
-          "Lukas Liss",
-          "Henrik Kämmerling",
-          "Peter Alexander",
+          "Christian Plewnia",
+          "Andreas Steffens",
+          "Nils Wild",
           "Horst Lichter"
         ]
       },
       {
-        "title": "A Condition Coverage-Based Black Hole Inspired Meta-Heuristic for Test Data Generation.",
+        "title": "A G-READY model to support subject design for Software Engineering.",
         "authors": [
-          "Derya Yeliz Ulutas",
-          "Ayse Tosun"
+          "Jagdeep Kaur Sabharwal",
+          "Shailey Chawla"
+        ]
+      },
+      {
+        "title": "Conducting a Fully Online Education of a Software Engineering Course with a Web Application Development Component due to the COVID-19 Pandemic and its Evaluation.",
+        "authors": [
+          "Yuki Yamada",
+          "Keychi Furukawa",
+          "Atsuo Hazeyama"
+        ]
+      },
+      {
+        "title": "Programming Project in an Undergraduate Software Engineering in the New Normal: Challenges and Proposed Solutions.",
+        "authors": [
+          "Rex Perez Bringula",
+          "Sheila Geronimo",
+          "Ariel Aviles"
+        ]
+      },
+      {
+        "title": "A Report on the First Workshop on Natural Language Processing Advancements for Software Engineering (NLPaSE) co-located with APSEC 2020 (short paper).",
+        "authors": [
+          "Saurabh Tiwari",
+          "Santosh Singh Rathore",
+          "Lata Nautiyal",
+          "Ravindra Singh"
+        ]
+      },
+      {
+        "title": "Reducing Regression Test Suites using the Word2Vec Natural Language Processing Tool.",
+        "authors": [
+          "Bahareh Afshinpour",
+          "Roland Groz",
+          "Massih-Reza Amini",
+          "Yves Ledru",
+          "Catherine Oriat"
+        ]
+      },
+      {
+        "title": "Recording Software Design Decisions on the Fly.",
+        "authors": [
+          "Fabian Gilson",
+          "Sam Annand",
+          "Jack Steel"
+        ]
+      },
+      {
+        "title": "Humpback: Code Completion System for Dockerfile Based on Language Models (short paper).",
+        "authors": [
+          "Kaisei Hanayama",
+          "Shinsuke Matsumoto",
+          "Shinji Kusumoto"
         ]
       }
     ]
@@ -3778,79 +3851,6 @@
         "authors": [
           "Kristiina Rahkema",
           "Dietmar Pfahl"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/apsec/seed2020.html": {
-    "header": "SEED/NLPaSE@APSEC 2020: Virtual Event, Singapore",
-    "year": "2020",
-    "papers": [
-      {
-        "title": "A lightweight collaborative approach for teaching software project labs with industry partners.",
-        "authors": [
-          "Christian Plewnia",
-          "Andreas Steffens",
-          "Nils Wild",
-          "Horst Lichter"
-        ]
-      },
-      {
-        "title": "A G-READY model to support subject design for Software Engineering.",
-        "authors": [
-          "Jagdeep Kaur Sabharwal",
-          "Shailey Chawla"
-        ]
-      },
-      {
-        "title": "Conducting a Fully Online Education of a Software Engineering Course with a Web Application Development Component due to the COVID-19 Pandemic and its Evaluation.",
-        "authors": [
-          "Yuki Yamada",
-          "Keychi Furukawa",
-          "Atsuo Hazeyama"
-        ]
-      },
-      {
-        "title": "Programming Project in an Undergraduate Software Engineering in the New Normal: Challenges and Proposed Solutions.",
-        "authors": [
-          "Rex Perez Bringula",
-          "Sheila Geronimo",
-          "Ariel Aviles"
-        ]
-      },
-      {
-        "title": "A Report on the First Workshop on Natural Language Processing Advancements for Software Engineering (NLPaSE) co-located with APSEC 2020 (short paper).",
-        "authors": [
-          "Saurabh Tiwari",
-          "Santosh Singh Rathore",
-          "Lata Nautiyal",
-          "Ravindra Singh"
-        ]
-      },
-      {
-        "title": "Reducing Regression Test Suites using the Word2Vec Natural Language Processing Tool.",
-        "authors": [
-          "Bahareh Afshinpour",
-          "Roland Groz",
-          "Massih-Reza Amini",
-          "Yves Ledru",
-          "Catherine Oriat"
-        ]
-      },
-      {
-        "title": "Recording Software Design Decisions on the Fly.",
-        "authors": [
-          "Fabian Gilson",
-          "Sam Annand",
-          "Jack Steel"
-        ]
-      },
-      {
-        "title": "Humpback: Code Completion System for Dockerfile Based on Language Models (short paper).",
-        "authors": [
-          "Kaisei Hanayama",
-          "Shinsuke Matsumoto",
-          "Shinji Kusumoto"
         ]
       }
     ]
@@ -4512,6 +4512,57 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/apsec/seed2019.html": {
+    "header": "SEED@APSEC 2019: Putrajaya, Malaysia",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "Understanding the Decision-Making of Students in Requirements Engineering Course Projects.",
+        "authors": [
+          "Tianqing Liu",
+          "Peng Liang",
+          "Chen Yang",
+          "Zhuang Xiong",
+          "Chong Wang",
+          "Ruiyin Li"
+        ]
+      },
+      {
+        "title": "Toward Industry Oriented Software Engineering Project Course: A Pilot Study.",
+        "authors": [
+          "Yu Liu",
+          "Ju Yan",
+          "Daqing Hou"
+        ]
+      },
+      {
+        "title": "Teaching Object-Oriented Modeling as a Part of Programming Courses.",
+        "authors": [
+          "Hidehiko Masuhara"
+        ]
+      },
+      {
+        "title": "Collaborative Learning Strategies in Software Engineering Course.",
+        "authors": [
+          "Shailey Chawla"
+        ]
+      },
+      {
+        "title": "Literature Reviews on Applying Artificial Intelligence/Machine Learning to Software Engineering Research Problems: Preliminary.",
+        "authors": [
+          "Pornsiri Muenchaisri"
+        ]
+      },
+      {
+        "title": "Report on the 2nd Software Engineering Education Workshop (SEED 2019) co-located with APSEC 2019.",
+        "authors": [
+          "Shailey Chawla",
+          "Bimlesh Wadhwa",
+          "Pornsiri Muenchaisri"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/apsec/quasoq2019.html": {
     "header": "QuASoQ@APSEC 2019: Putrajaya, Malaysia",
     "year": "2019",
@@ -4573,6 +4624,68 @@
           "Yoon Chow Yeong",
           "Simon Hacks",
           "Horst Lichter"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apsec/iwesq2019.html": {
+    "header": "IWESQ@APSEC 2019: Putrajaya, Malaysia",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "Study Group Report on SQuaRE Future Direction (invited paper).",
+        "authors": [
+          "Tsuyoshi Nakajima"
+        ]
+      },
+      {
+        "title": "Revisiting the Quality in Use Model (short paper).",
+        "authors": [
+          "Raul Martinez"
+        ]
+      },
+      {
+        "title": "Examples of Practical Use of ISO/IEC 25000 (short paper).",
+        "authors": [
+          "Andrea Trenta",
+          "Domenico Natale"
+        ]
+      },
+      {
+        "title": "Quality Consideration for e-Learning System Based on ISO/IEC 25000 Quality Standard.",
+        "authors": [
+          "Aedah Abd Rahman"
+        ]
+      },
+      {
+        "title": "Usability in Software Development Process -Proposal of Society/Stakeholder Centered Design (SCD)- (short paper).",
+        "authors": [
+          "Shin'ichi Fukuzumi",
+          "Nowky Hirasawa"
+        ]
+      },
+      {
+        "title": "Test Management Based on Quality Characteristics (short paper).",
+        "authors": [
+          "Daiju Kato",
+          "Ayako Okuyama",
+          "Hiroshi Ishikawa"
+        ]
+      },
+      {
+        "title": "Research on Quality Model of Industrial Application Software (short paper).",
+        "authors": [
+          "Yangyang Zhang",
+          "Xiaojian Liu",
+          "Xun Sun"
+        ]
+      },
+      {
+        "title": "Hidden-use Case for Eliciting Quality in Use (short paper).",
+        "authors": [
+          "Natsuko Noda",
+          "Tomoji Kishi",
+          "Shin'ichi Fukuzumi"
         ]
       }
     ]
@@ -5158,119 +5271,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/apsec/seed2019.html": {
-    "header": "SEED@APSEC 2019: Putrajaya, Malaysia",
-    "year": "2019",
-    "papers": [
-      {
-        "title": "Understanding the Decision-Making of Students in Requirements Engineering Course Projects.",
-        "authors": [
-          "Tianqing Liu",
-          "Peng Liang",
-          "Chen Yang",
-          "Zhuang Xiong",
-          "Chong Wang",
-          "Ruiyin Li"
-        ]
-      },
-      {
-        "title": "Toward Industry Oriented Software Engineering Project Course: A Pilot Study.",
-        "authors": [
-          "Yu Liu",
-          "Ju Yan",
-          "Daqing Hou"
-        ]
-      },
-      {
-        "title": "Teaching Object-Oriented Modeling as a Part of Programming Courses.",
-        "authors": [
-          "Hidehiko Masuhara"
-        ]
-      },
-      {
-        "title": "Collaborative Learning Strategies in Software Engineering Course.",
-        "authors": [
-          "Shailey Chawla"
-        ]
-      },
-      {
-        "title": "Literature Reviews on Applying Artificial Intelligence/Machine Learning to Software Engineering Research Problems: Preliminary.",
-        "authors": [
-          "Pornsiri Muenchaisri"
-        ]
-      },
-      {
-        "title": "Report on the 2nd Software Engineering Education Workshop (SEED 2019) co-located with APSEC 2019.",
-        "authors": [
-          "Shailey Chawla",
-          "Bimlesh Wadhwa",
-          "Pornsiri Muenchaisri"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/apsec/iwesq2019.html": {
-    "header": "IWESQ@APSEC 2019: Putrajaya, Malaysia",
-    "year": "2019",
-    "papers": [
-      {
-        "title": "Study Group Report on SQuaRE Future Direction (invited paper).",
-        "authors": [
-          "Tsuyoshi Nakajima"
-        ]
-      },
-      {
-        "title": "Revisiting the Quality in Use Model (short paper).",
-        "authors": [
-          "Raul Martinez"
-        ]
-      },
-      {
-        "title": "Examples of Practical Use of ISO/IEC 25000 (short paper).",
-        "authors": [
-          "Andrea Trenta",
-          "Domenico Natale"
-        ]
-      },
-      {
-        "title": "Quality Consideration for e-Learning System Based on ISO/IEC 25000 Quality Standard.",
-        "authors": [
-          "Aedah Abd Rahman"
-        ]
-      },
-      {
-        "title": "Usability in Software Development Process -Proposal of Society/Stakeholder Centered Design (SCD)- (short paper).",
-        "authors": [
-          "Shin'ichi Fukuzumi",
-          "Nowky Hirasawa"
-        ]
-      },
-      {
-        "title": "Test Management Based on Quality Characteristics (short paper).",
-        "authors": [
-          "Daiju Kato",
-          "Ayako Okuyama",
-          "Hiroshi Ishikawa"
-        ]
-      },
-      {
-        "title": "Research on Quality Model of Industrial Application Software (short paper).",
-        "authors": [
-          "Yangyang Zhang",
-          "Xiaojian Liu",
-          "Xun Sun"
-        ]
-      },
-      {
-        "title": "Hidden-use Case for Eliciting Quality in Use (short paper).",
-        "authors": [
-          "Natsuko Noda",
-          "Tomoji Kishi",
-          "Shin'ichi Fukuzumi"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/apsec/wespr2018.html": {
     "header": "WESPr-iMLSE@APSEC 2018: Nara, Japan",
     "year": "2018",
@@ -5349,6 +5349,79 @@
         "title": "Guaranteeing Deep Neural Network Outputs in a Feasible Region (short paper).",
         "authors": [
           "Hiroshi Maruyama"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/apsec/quasoq2018.html": {
+    "header": "QuASoQ@APSEC 2018: Nara, Japan",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "Cross-Sub-Project Just-in-Time Defect Prediction on Multi-Repo Projects.",
+        "authors": [
+          "Yeongjun Cho",
+          "Jung-Hyun Kwon",
+          "In-Young Ko"
+        ]
+      },
+      {
+        "title": "Boost Symbolic Execution Using Dynamic State Merging and Forking.",
+        "authors": [
+          "Chao Zhang",
+          "Weiliang Yin",
+          "Zhiqiang Lin"
+        ]
+      },
+      {
+        "title": "A Case Study on Robustness Fault Characteristics for Combinatorial Testing - Results and Challenges.",
+        "authors": [
+          "Konrad Fögen",
+          "Horst Lichter"
+        ]
+      },
+      {
+        "title": "What Do We Know about Software Security Evaluation? A Preliminary Study.",
+        "authors": [
+          "Séverine Sentilles",
+          "Efi Papatheocharous",
+          "Federico Ciccozzi"
+        ]
+      },
+      {
+        "title": "Generation of Mimic Software Project Data Sets for Software Engineering Research.",
+        "authors": [
+          "Maohua Gan",
+          "Kentaro Sasaki",
+          "Akito Monden",
+          "Zeynep Yücel"
+        ]
+      },
+      {
+        "title": "Implementing Value Stream Mapping in a Scrum-based project - An Experience Report.",
+        "authors": [
+          "Nayla Nasir",
+          "Nasir Mehmood Minhas"
+        ]
+      },
+      {
+        "title": "Prioritization in Automotive Software Testing: Systematic Literature Review.",
+        "authors": [
+          "Ankush Dadwal",
+          "Hironori Washizaki",
+          "Yoshiaki Fukazawa",
+          "Takahiro Iida",
+          "Masashi Mizoguchi",
+          "Kentaro Yoshimura"
+        ]
+      },
+      {
+        "title": "Use-Relationship Based Classification for Software Components.",
+        "authors": [
+          "Reishi Yokomori",
+          "Norihiro Yoshida",
+          "Masami Noro",
+          "Katsuro Inoue"
         ]
       }
     ]
@@ -6193,75 +6266,81 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/apsec/quasoq2018.html": {
-    "header": "QuASoQ@APSEC 2018: Nara, Japan",
-    "year": "2018",
+  "https://dblp.org/db/conf/apsec/quasoq2017.html": {
+    "header": "QuASoQ@APSEC 2017: Nanjing, Jiangsu, China",
+    "year": "2017",
     "papers": [
       {
-        "title": "Cross-Sub-Project Just-in-Time Defect Prediction on Multi-Repo Projects.",
+        "title": "Static and Dynamic Architecture Conformance Checking: A Systematic, Case Study-Based Analysis on Tradeoffs and Synergies.",
         "authors": [
-          "Yeongjun Cho",
-          "Jung-Hyun Kwon",
-          "In-Young Ko"
-        ]
-      },
-      {
-        "title": "Boost Symbolic Execution Using Dynamic State Merging and Forking.",
-        "authors": [
-          "Chao Zhang",
-          "Weiliang Yin",
-          "Zhiqiang Lin"
-        ]
-      },
-      {
-        "title": "A Case Study on Robustness Fault Characteristics for Combinatorial Testing - Results and Challenges.",
-        "authors": [
-          "Konrad Fögen",
+          "Jan Thomas",
+          "Ana Nicolaescu",
           "Horst Lichter"
         ]
       },
       {
-        "title": "What Do We Know about Software Security Evaluation? A Preliminary Study.",
+        "title": "Towards a Quality Framework for Enterprise Architecture Models.",
         "authors": [
-          "Séverine Sentilles",
-          "Efi Papatheocharous",
-          "Federico Ciccozzi"
+          "Felix Timm",
+          "Simon Hacks",
+          "Felix Thiede",
+          "Daniel Hintzpeter"
         ]
       },
       {
-        "title": "Generation of Mimic Software Project Data Sets for Software Engineering Research.",
+        "title": "Multi-Level Compliance Measurements for Software Process Appraisal.",
         "authors": [
-          "Maohua Gan",
-          "Kentaro Sasaki",
-          "Akito Monden",
-          "Zeynep Yücel"
+          "Suppasit Roongsangjan",
+          "Thanwadee Sunetnanta",
+          "Pattanasak Mongkolwat"
         ]
       },
       {
-        "title": "Implementing Value Stream Mapping in a Scrum-based project - An Experience Report.",
+        "title": "Towards the Re-engineering of Readiness Review Process with R2P2 Lifecycle Model.",
         "authors": [
-          "Nayla Nasir",
-          "Nasir Mehmood Minhas"
+          "Tachanun Kangwantrakool",
+          "Thanaruk Theeramunkong"
         ]
       },
       {
-        "title": "Prioritization in Automotive Software Testing: Systematic Literature Review.",
+        "title": "A Web Application to Manage and Improve Software Development Projects by SEMAT Essence.",
         "authors": [
-          "Ankush Dadwal",
+          "Yuichiro Senzaki",
+          "Siyuan Liu",
           "Hironori Washizaki",
           "Yoshiaki Fukazawa",
-          "Takahiro Iida",
-          "Masashi Mizoguchi",
-          "Kentaro Yoshimura"
+          "Hiroshi Kobayashi",
+          "Masaharu Adachi"
         ]
       },
       {
-        "title": "Use-Relationship Based Classification for Software Components.",
+        "title": "Investigating the Effectiveness of Greedy Algorithm on Open Source Software Systems for Determining Refactoring Sequence.",
         "authors": [
-          "Reishi Yokomori",
-          "Norihiro Yoshida",
-          "Masami Noro",
-          "Katsuro Inoue"
+          "Sandhya Tarwani",
+          "Ashish Sureka"
+        ]
+      },
+      {
+        "title": "Automatically Identifying Dead Fields in Test Code by Resolving Method Call and Field Dependency.",
+        "authors": [
+          "Abdus Satter",
+          "Nadia Nahar",
+          "Kazi Sakib"
+        ]
+      },
+      {
+        "title": "Detecting Technical Debt through Issue Trackers.",
+        "authors": [
+          "Ke Dai",
+          "Philippe Kruchten"
+        ]
+      },
+      {
+        "title": "Estimating Web Service Quality of Service Parameters using Source Code Metrics and LSSVM.",
+        "authors": [
+          "Lov Kumar",
+          "Santanu Kumar Rath",
+          "Ashish Sureka"
         ]
       }
     ]
@@ -6452,85 +6531,6 @@
         "authors": [
           "Kishan Kumar Ganguly",
           "Kazi Sakib"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/apsec/quasoq2017.html": {
-    "header": "QuASoQ@APSEC 2017: Nanjing, Jiangsu, China",
-    "year": "2017",
-    "papers": [
-      {
-        "title": "Static and Dynamic Architecture Conformance Checking: A Systematic, Case Study-Based Analysis on Tradeoffs and Synergies.",
-        "authors": [
-          "Jan Thomas",
-          "Ana Nicolaescu",
-          "Horst Lichter"
-        ]
-      },
-      {
-        "title": "Towards a Quality Framework for Enterprise Architecture Models.",
-        "authors": [
-          "Felix Timm",
-          "Simon Hacks",
-          "Felix Thiede",
-          "Daniel Hintzpeter"
-        ]
-      },
-      {
-        "title": "Multi-Level Compliance Measurements for Software Process Appraisal.",
-        "authors": [
-          "Suppasit Roongsangjan",
-          "Thanwadee Sunetnanta",
-          "Pattanasak Mongkolwat"
-        ]
-      },
-      {
-        "title": "Towards the Re-engineering of Readiness Review Process with R2P2 Lifecycle Model.",
-        "authors": [
-          "Tachanun Kangwantrakool",
-          "Thanaruk Theeramunkong"
-        ]
-      },
-      {
-        "title": "A Web Application to Manage and Improve Software Development Projects by SEMAT Essence.",
-        "authors": [
-          "Yuichiro Senzaki",
-          "Siyuan Liu",
-          "Hironori Washizaki",
-          "Yoshiaki Fukazawa",
-          "Hiroshi Kobayashi",
-          "Masaharu Adachi"
-        ]
-      },
-      {
-        "title": "Investigating the Effectiveness of Greedy Algorithm on Open Source Software Systems for Determining Refactoring Sequence.",
-        "authors": [
-          "Sandhya Tarwani",
-          "Ashish Sureka"
-        ]
-      },
-      {
-        "title": "Automatically Identifying Dead Fields in Test Code by Resolving Method Call and Field Dependency.",
-        "authors": [
-          "Abdus Satter",
-          "Nadia Nahar",
-          "Kazi Sakib"
-        ]
-      },
-      {
-        "title": "Detecting Technical Debt through Issue Trackers.",
-        "authors": [
-          "Ke Dai",
-          "Philippe Kruchten"
-        ]
-      },
-      {
-        "title": "Estimating Web Service Quality of Service Parameters using Source Code Metrics and LSSVM.",
-        "authors": [
-          "Lov Kumar",
-          "Santanu Kumar Rath",
-          "Ashish Sureka"
         ]
       }
     ]
@@ -7324,6 +7324,137 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/apsec/quasoq2016.html": {
+    "header": "QuASoQ/TDA@APSEC 2016: Hamilton, New Zealand",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "Report on the 4th International Workshop on Quantitative Approaches to Software Quality (QuASoQ 2016).",
+        "authors": [
+          "Horst Lichter",
+          "Konrad Fögen",
+          "Thanwadee Sunetnanta",
+          "Toni Anwar"
+        ]
+      },
+      {
+        "title": "Local Variables with Compound Names and Comments as Signs of Fault-Prone Java Methods.",
+        "authors": [
+          "Hirohisa Aman",
+          "Sousuke Amasaki",
+          "Tomoyuki Yokogawa",
+          "Minoru Kawahara"
+        ]
+      },
+      {
+        "title": "Sustainability Profiling of Long-living Software Systems.",
+        "authors": [
+          "Ahmed D. Alharthi",
+          "Maria Spichkova",
+          "Margaret Hamilton"
+        ]
+      },
+      {
+        "title": "Towards improved Adoption: Effectiveness of Research Tools in the Real World.",
+        "authors": [
+          "Richa Awasthy",
+          "Shayne Flint",
+          "Ramesh S. Sankaranarayana"
+        ]
+      },
+      {
+        "title": "Predicting Quality of Service (QoS) Parameters using Extreme Learning Machines with Various Kernel Methods.",
+        "authors": [
+          "Lov Kumar",
+          "Santanu Kumar Rath",
+          "Ashish Sureka"
+        ]
+      },
+      {
+        "title": "Improving Recall in Code Search by Indexing Similar Codes under Proper Terms.",
+        "authors": [
+          "Abdus Satter",
+          "Kazi Sakib"
+        ]
+      },
+      {
+        "title": "Code Coverage Analysis of Combinatorial Testing.",
+        "authors": [
+          "Eun-Hye Choi",
+          "Osamu Mizuno",
+          "Yifan Hu"
+        ]
+      },
+      {
+        "title": "Trying to Increase the Mature Use of Agile Practices by Group Development Psychology Training - An Experiment.",
+        "authors": [
+          "Lucas Gren",
+          "Alfredo Goldman"
+        ]
+      },
+      {
+        "title": "Report on the First International Workshop on Technical Debt Analytics (TDA 2016).",
+        "authors": [
+          "Aiko Yamashita",
+          "Leon Moonen",
+          "Tom Mens",
+          "Amjed Tahir"
+        ]
+      },
+      {
+        "title": "When, Why and for Whom do Practitioners Detect Technical Debt? An Experience Report.",
+        "authors": [
+          "Norihiro Yoshida"
+        ]
+      },
+      {
+        "title": "Using Analytics to Quantify Interest of Self-Admitted Technical Debt.",
+        "authors": [
+          "Yasutaka Kamei",
+          "Everton da S. Maldonado",
+          "Emad Shihab",
+          "Naoyasu Ubayashi"
+        ]
+      },
+      {
+        "title": "Rework Effort Estimation of Self-admitted Technical Debt.",
+        "authors": [
+          "Solomon Mensah",
+          "Jacky W. Keung",
+          "Michael Franklin Bosu",
+          "Kwabena Ebo Bennin"
+        ]
+      },
+      {
+        "title": "Minimizing Refactoring Effort through Prioritization of Classes based on Historical, Architectural and Code Smell Information.",
+        "authors": [
+          "Aabha Choudhary",
+          "Paramvir Singh"
+        ]
+      },
+      {
+        "title": "Co-Existence of the 'Technical Debt' and 'Software Legacy' Concepts.",
+        "authors": [
+          "Johannes Holvitie",
+          "Sherlock A. Licorish",
+          "Antonio Martini",
+          "Ville Leppänen"
+        ]
+      },
+      {
+        "title": "Perspectives on Managing Technical Debt: A Transition Point and Roadmap from Dagstuhl.",
+        "authors": [
+          "Clemente Izurieta",
+          "Ipek Ozkaya",
+          "Carolyn B. Seaman",
+          "Philippe Kruchten",
+          "Robert L. Nord",
+          "Will Snipes",
+          "Paris Avgeriou"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/apsec/apsec2016.html": {
     "header": "23rd APSEC 2016: Hamilton, New Zealand",
     "year": "2016",
@@ -7835,137 +7966,6 @@
         "authors": [
           "Yangfan He",
           "Xiaojian Li"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/apsec/quasoq2016.html": {
-    "header": "QuASoQ/TDA@APSEC 2016: Hamilton, New Zealand",
-    "year": "2016",
-    "papers": [
-      {
-        "title": "Report on the 4th International Workshop on Quantitative Approaches to Software Quality (QuASoQ 2016).",
-        "authors": [
-          "Horst Lichter",
-          "Konrad Fögen",
-          "Thanwadee Sunetnanta",
-          "Toni Anwar"
-        ]
-      },
-      {
-        "title": "Local Variables with Compound Names and Comments as Signs of Fault-Prone Java Methods.",
-        "authors": [
-          "Hirohisa Aman",
-          "Sousuke Amasaki",
-          "Tomoyuki Yokogawa",
-          "Minoru Kawahara"
-        ]
-      },
-      {
-        "title": "Sustainability Profiling of Long-living Software Systems.",
-        "authors": [
-          "Ahmed D. Alharthi",
-          "Maria Spichkova",
-          "Margaret Hamilton"
-        ]
-      },
-      {
-        "title": "Towards improved Adoption: Effectiveness of Research Tools in the Real World.",
-        "authors": [
-          "Richa Awasthy",
-          "Shayne Flint",
-          "Ramesh S. Sankaranarayana"
-        ]
-      },
-      {
-        "title": "Predicting Quality of Service (QoS) Parameters using Extreme Learning Machines with Various Kernel Methods.",
-        "authors": [
-          "Lov Kumar",
-          "Santanu Kumar Rath",
-          "Ashish Sureka"
-        ]
-      },
-      {
-        "title": "Improving Recall in Code Search by Indexing Similar Codes under Proper Terms.",
-        "authors": [
-          "Abdus Satter",
-          "Kazi Sakib"
-        ]
-      },
-      {
-        "title": "Code Coverage Analysis of Combinatorial Testing.",
-        "authors": [
-          "Eun-Hye Choi",
-          "Osamu Mizuno",
-          "Yifan Hu"
-        ]
-      },
-      {
-        "title": "Trying to Increase the Mature Use of Agile Practices by Group Development Psychology Training - An Experiment.",
-        "authors": [
-          "Lucas Gren",
-          "Alfredo Goldman"
-        ]
-      },
-      {
-        "title": "Report on the First International Workshop on Technical Debt Analytics (TDA 2016).",
-        "authors": [
-          "Aiko Yamashita",
-          "Leon Moonen",
-          "Tom Mens",
-          "Amjed Tahir"
-        ]
-      },
-      {
-        "title": "When, Why and for Whom do Practitioners Detect Technical Debt? An Experience Report.",
-        "authors": [
-          "Norihiro Yoshida"
-        ]
-      },
-      {
-        "title": "Using Analytics to Quantify Interest of Self-Admitted Technical Debt.",
-        "authors": [
-          "Yasutaka Kamei",
-          "Everton da S. Maldonado",
-          "Emad Shihab",
-          "Naoyasu Ubayashi"
-        ]
-      },
-      {
-        "title": "Rework Effort Estimation of Self-admitted Technical Debt.",
-        "authors": [
-          "Solomon Mensah",
-          "Jacky W. Keung",
-          "Michael Franklin Bosu",
-          "Kwabena Ebo Bennin"
-        ]
-      },
-      {
-        "title": "Minimizing Refactoring Effort through Prioritization of Classes based on Historical, Architectural and Code Smell Information.",
-        "authors": [
-          "Aabha Choudhary",
-          "Paramvir Singh"
-        ]
-      },
-      {
-        "title": "Co-Existence of the 'Technical Debt' and 'Software Legacy' Concepts.",
-        "authors": [
-          "Johannes Holvitie",
-          "Sherlock A. Licorish",
-          "Antonio Martini",
-          "Ville Leppänen"
-        ]
-      },
-      {
-        "title": "Perspectives on Managing Technical Debt: A Transition Point and Roadmap from Dagstuhl.",
-        "authors": [
-          "Clemente Izurieta",
-          "Ipek Ozkaya",
-          "Carolyn B. Seaman",
-          "Philippe Kruchten",
-          "Robert L. Nord",
-          "Will Snipes",
-          "Paris Avgeriou"
         ]
       }
     ]
@@ -8564,6 +8564,170 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/apsec/apsec2014-2.html": {
+    "header": "21st APSEC 2014: Jeju, South Korea - Volume 2",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Reducing False Alarms from an Industrial-Strength Static Analyzer by SVM.",
+        "authors": [
+          "Jongwon Yoon",
+          "Minsik Jin",
+          "Yungbum Jung"
+        ]
+      },
+      {
+        "title": "Concolic Testing Framework for Industrial Embedded Software.",
+        "authors": [
+          "Taeksu Kim",
+          "Jonghyun Park",
+          "Igor Kulida",
+          "Yoonkyu Jang"
+        ]
+      },
+      {
+        "title": "A Goal-Oriented Design Methodology of IT-Driven Business Architecture.",
+        "authors": [
+          "Masahiro Ide",
+          "Tomoko Kishida",
+          "Mikio Aoyama",
+          "Yasuhiro Kikushima"
+        ]
+      },
+      {
+        "title": "SYNCEYE: An Availability Measurement Tool for Embedded Systems.",
+        "authors": [
+          "Junghwan Lee",
+          "Kwangyong Lee"
+        ]
+      },
+      {
+        "title": "SW FMEA for ISO-26262 Software Development.",
+        "authors": [
+          "Hyung-Ho Kim"
+        ]
+      },
+      {
+        "title": "Software Quality Control via Exit Criteria Methodology: An Industrial Experience Report.",
+        "authors": [
+          "Xiaoqiong Zhao",
+          "Xiao Xuan",
+          "Aoyu Wang",
+          "Dong Liu",
+          "Lingyun Zheng"
+        ]
+      },
+      {
+        "title": "API Document Quality for Resolving Deprecated APIs.",
+        "authors": [
+          "Deokyoon Ko",
+          "Kyeongwook Ma",
+          "Sooyong Park",
+          "Suntae Kim",
+          "Dongsun Kim",
+          "Yves Le Traon"
+        ]
+      },
+      {
+        "title": "What Community Contribution Pattern Says about Stability of Software Project?",
+        "authors": [
+          "Ayushi Rastogi",
+          "Ashish Sureka"
+        ]
+      },
+      {
+        "title": "Migrated Question Prediction on StackExchange.",
+        "authors": [
+          "Sangeeta Lal",
+          "Denzil Correa",
+          "Ashish Sureka"
+        ]
+      },
+      {
+        "title": "An Empirical Study on Interaction Factors Influencing Bug Reopenings.",
+        "authors": [
+          "Jinkun Pan",
+          "Xiaoguang Mao"
+        ]
+      },
+      {
+        "title": "Initial Industrial Experience of GQM-Based Product-Focused Project Monitoring with Trend Patterns.",
+        "authors": [
+          "Hidenori Nakai",
+          "Kiyoshi Honda",
+          "Hironori Washizaki",
+          "Yoshiaki Fukazawa",
+          "Ken Asoh",
+          "Kaz Takahashi",
+          "Kentarou Ogawa",
+          "Maki Mori",
+          "Takashi Hino",
+          "Yosuke Hayakawa",
+          "Yasuyuki Tanaka",
+          "Shinichi Yamada",
+          "Daisuke Miyazaki"
+        ]
+      },
+      {
+        "title": "Lessons Learned on Systematic Metric System Development at a Large IT Service Provider.",
+        "authors": [
+          "Matthias Vianden",
+          "Horst Lichter"
+        ]
+      },
+      {
+        "title": "Empirical Analysis of Fault-Proneness in Methods by Focusing on their Comment Lines.",
+        "authors": [
+          "Hirohisa Aman",
+          "Sousuke Amasaki",
+          "Takashi Sasaki",
+          "Minoru Kawahara"
+        ]
+      },
+      {
+        "title": "Quality Ranking of Features in Software Product Line Engineering.",
+        "authors": [
+          "Lei Tan",
+          "Yuqing Lin",
+          "Li Liu"
+        ]
+      },
+      {
+        "title": "A CMMI-Based Automated Risk Assessment Framework.",
+        "authors": [
+          "Morakot Choetkiertikul",
+          "Hoa Khanh Dam",
+          "Aditya K. Ghose",
+          "Thanwadee Sunetnanta"
+        ]
+      },
+      {
+        "title": "Continuous Product-Focused Project Monitoring with Trend Patterns and GQM.",
+        "authors": [
+          "Hidenori Nakai",
+          "Kiyoshi Honda",
+          "Hironori Washizaki",
+          "Yoshiaki Fukazawa",
+          "Ken Asoh",
+          "Kaz Takahashi",
+          "Kentarou Ogawa",
+          "Maki Mori",
+          "Takashi Hino",
+          "Yosuke Hayakawa",
+          "Yasuyuki Tanaka",
+          "Shinichi Yamada",
+          "Daisuke Miyazaki"
+        ]
+      },
+      {
+        "title": "Towards an Architecture Quality Index for the Behavior of Software Systems.",
+        "authors": [
+          "Ana Dragomir",
+          "Horst Lichter"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/apsec/apsec2014-1.html": {
     "header": "21st APSEC 2014: Jeju, South Korea - Volume 1",
     "year": "2014",
@@ -9066,170 +9230,6 @@
         "authors": [
           "Amel Mammar",
           "Régine Laleau"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/apsec/apsec2014-2.html": {
-    "header": "21st APSEC 2014: Jeju, South Korea - Volume 2",
-    "year": "2014",
-    "papers": [
-      {
-        "title": "Reducing False Alarms from an Industrial-Strength Static Analyzer by SVM.",
-        "authors": [
-          "Jongwon Yoon",
-          "Minsik Jin",
-          "Yungbum Jung"
-        ]
-      },
-      {
-        "title": "Concolic Testing Framework for Industrial Embedded Software.",
-        "authors": [
-          "Taeksu Kim",
-          "Jonghyun Park",
-          "Igor Kulida",
-          "Yoonkyu Jang"
-        ]
-      },
-      {
-        "title": "A Goal-Oriented Design Methodology of IT-Driven Business Architecture.",
-        "authors": [
-          "Masahiro Ide",
-          "Tomoko Kishida",
-          "Mikio Aoyama",
-          "Yasuhiro Kikushima"
-        ]
-      },
-      {
-        "title": "SYNCEYE: An Availability Measurement Tool for Embedded Systems.",
-        "authors": [
-          "Junghwan Lee",
-          "Kwangyong Lee"
-        ]
-      },
-      {
-        "title": "SW FMEA for ISO-26262 Software Development.",
-        "authors": [
-          "Hyung-Ho Kim"
-        ]
-      },
-      {
-        "title": "Software Quality Control via Exit Criteria Methodology: An Industrial Experience Report.",
-        "authors": [
-          "Xiaoqiong Zhao",
-          "Xiao Xuan",
-          "Aoyu Wang",
-          "Dong Liu",
-          "Lingyun Zheng"
-        ]
-      },
-      {
-        "title": "API Document Quality for Resolving Deprecated APIs.",
-        "authors": [
-          "Deokyoon Ko",
-          "Kyeongwook Ma",
-          "Sooyong Park",
-          "Suntae Kim",
-          "Dongsun Kim",
-          "Yves Le Traon"
-        ]
-      },
-      {
-        "title": "What Community Contribution Pattern Says about Stability of Software Project?",
-        "authors": [
-          "Ayushi Rastogi",
-          "Ashish Sureka"
-        ]
-      },
-      {
-        "title": "Migrated Question Prediction on StackExchange.",
-        "authors": [
-          "Sangeeta Lal",
-          "Denzil Correa",
-          "Ashish Sureka"
-        ]
-      },
-      {
-        "title": "An Empirical Study on Interaction Factors Influencing Bug Reopenings.",
-        "authors": [
-          "Jinkun Pan",
-          "Xiaoguang Mao"
-        ]
-      },
-      {
-        "title": "Initial Industrial Experience of GQM-Based Product-Focused Project Monitoring with Trend Patterns.",
-        "authors": [
-          "Hidenori Nakai",
-          "Kiyoshi Honda",
-          "Hironori Washizaki",
-          "Yoshiaki Fukazawa",
-          "Ken Asoh",
-          "Kaz Takahashi",
-          "Kentarou Ogawa",
-          "Maki Mori",
-          "Takashi Hino",
-          "Yosuke Hayakawa",
-          "Yasuyuki Tanaka",
-          "Shinichi Yamada",
-          "Daisuke Miyazaki"
-        ]
-      },
-      {
-        "title": "Lessons Learned on Systematic Metric System Development at a Large IT Service Provider.",
-        "authors": [
-          "Matthias Vianden",
-          "Horst Lichter"
-        ]
-      },
-      {
-        "title": "Empirical Analysis of Fault-Proneness in Methods by Focusing on their Comment Lines.",
-        "authors": [
-          "Hirohisa Aman",
-          "Sousuke Amasaki",
-          "Takashi Sasaki",
-          "Minoru Kawahara"
-        ]
-      },
-      {
-        "title": "Quality Ranking of Features in Software Product Line Engineering.",
-        "authors": [
-          "Lei Tan",
-          "Yuqing Lin",
-          "Li Liu"
-        ]
-      },
-      {
-        "title": "A CMMI-Based Automated Risk Assessment Framework.",
-        "authors": [
-          "Morakot Choetkiertikul",
-          "Hoa Khanh Dam",
-          "Aditya K. Ghose",
-          "Thanwadee Sunetnanta"
-        ]
-      },
-      {
-        "title": "Continuous Product-Focused Project Monitoring with Trend Patterns and GQM.",
-        "authors": [
-          "Hidenori Nakai",
-          "Kiyoshi Honda",
-          "Hironori Washizaki",
-          "Yoshiaki Fukazawa",
-          "Ken Asoh",
-          "Kaz Takahashi",
-          "Kentarou Ogawa",
-          "Maki Mori",
-          "Takashi Hino",
-          "Yosuke Hayakawa",
-          "Yasuyuki Tanaka",
-          "Shinichi Yamada",
-          "Daisuke Miyazaki"
-        ]
-      },
-      {
-        "title": "Towards an Architecture Quality Index for the Behavior of Software Systems.",
-        "authors": [
-          "Ana Dragomir",
-          "Horst Lichter"
         ]
       }
     ]

@@ -2173,52 +2173,248 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/cop2018.html": {
-    "header": "10th COP@ECOOP 2018: Amsterdam, The Netherlands",
+  "https://dblp.org/db/series/eptcs/eptcs302.html": {
+    "header": "2nd VORTEX@ECOOP/ISSTA 2018: Amsterdam, The Netherlands",
     "year": "2018",
     "papers": [
       {
-        "title": "A Declarative Language for Context Activation.",
+        "title": "Analysis of SLA Compliance in the Cloud - An Automated, Model-based Approach.",
         "authors": [
-          "Nicolás Cardozo"
+          "Frank S. de Boer",
+          "Elena Giachino",
+          "Stijn de Gouw",
+          "Reiner Hähnle",
+          "Einar Broch Johnsen",
+          "Cosimo Laneve",
+          "Ka I Pun",
+          "Gianluigi Zavattaro"
         ]
       },
       {
-        "title": "A Context-Oriented Programming Approach to Dependency Hell.",
+        "title": "SNITCH: Dynamic Dependent Information Flow Analysis for Independent Java Bytecode.",
         "authors": [
-          "Yudai Tanabe",
-          "Tomoyuki Aotani",
-          "Hidehiko Masuhara"
+          "Eduardo Geraldo",
+          "João Costa Seco"
         ]
       },
       {
-        "title": "Feature Visualiser: an Inspection Tool for Context-Oriented Programmers.",
+        "title": "Who is to Blame? Runtime Verification of Distributed Objects with Active Monitors.",
         "authors": [
-          "Benoît Duhoux",
-          "Kim Mens",
-          "Bruno Dumas"
+          "Wolfgang Ahrendt",
+          "Ludovic Henrio",
+          "Wytse Oortwijn"
         ]
       },
       {
-        "title": "A Simple Context-Oriented Programming Extension to an FRP Language for Small-Scale Embedded Systems.",
+        "title": "On Distributed Runtime Verification by Aggregate Computing.",
         "authors": [
-          "Takuo Watanabe"
+          "Giorgio Audrito",
+          "Ferruccio Damiani",
+          "Volker Stolz",
+          "Mirko Viroli"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/issta/issta2018w.html": {
+    "header": "ISSTA/ECOOP Workshops 2018: Amsterdam, The Netherlands",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "On the importance of common sense in program synthesis.",
+        "authors": [
+          "Hila Peleg"
         ]
       },
       {
-        "title": "Activity Contexts: Improving Modularity in Blockchain-based Smart Contracts using Context-oriented Programming.",
+        "title": "Buffer overflow detection for C programs is hard to learn.",
         "authors": [
-          "Toni Mattis",
-          "Robert Hirschfeld"
+          "Yang Zhao",
+          "Xingzhong Du",
+          "Paddy Krishnan",
+          "Cristina Cifuentes"
         ]
       },
       {
-        "title": "Cross-cutting Commentary: Narratives for Multi-party Mechanisms and Concerns.",
+        "title": "Detecting anomalies in Kotlin code.",
         "authors": [
-          "Robert Hirschfeld",
-          "Tobias Dürschmid",
-          "Patrick Rein",
-          "Marcel Taeumel"
+          "Timofey Bryksin",
+          "Victor Petukhov",
+          "Kirill Smirenko",
+          "Nikita Povarov"
+        ]
+      },
+      {
+        "title": "Can we learn some PL theory?: how to make use of a corpus of subtype checks.",
+        "authors": [
+          "Artem Pelenitsyn"
+        ]
+      },
+      {
+        "title": "Subtype polymorphism à la carte via machine learning on dependent types.",
+        "authors": [
+          "Jerry Swan",
+          "Colin G. Johnson",
+          "Edwin C. Brady"
+        ]
+      },
+      {
+        "title": "Monotonic gradual typing in a common calculus.",
+        "authors": [
+          "Benjamin Chung",
+          "Jan Vitek"
+        ]
+      },
+      {
+        "title": "A formalism for specification of Java API interfaces.",
+        "authors": [
+          "Davide Ancona",
+          "Francesco Dagnino",
+          "Luca Franceschini"
+        ]
+      },
+      {
+        "title": "Incremental overload resolution in object-oriented programming languages.",
+        "authors": [
+          "Tamás Szabó",
+          "Edlira Kuci",
+          "Matthijs Bijman",
+          "Mira Mezini",
+          "Sebastian Erdweg"
+        ]
+      },
+      {
+        "title": "Static latency tracking with placement types.",
+        "authors": [
+          "Pascal Weisenburger",
+          "Tobias Reinhard",
+          "Guido Salvaneschi"
+        ]
+      },
+      {
+        "title": "Reasoning about functional programming in Java and C++.",
+        "authors": [
+          "David R. Cok"
+        ]
+      },
+      {
+        "title": "An exercise in verifying sequential programs with VerCors.",
+        "authors": [
+          "Sebastiaan J. C. Joosten",
+          "Wytse Oortwijn",
+          "Mohsen Safari",
+          "Marieke Huisman"
+        ]
+      },
+      {
+        "title": "Towards automated translation between generations of GUI-based tests for mobile devices.",
+        "authors": [
+          "Luca Ardito",
+          "Riccardo Coppola",
+          "Marco Torchiano",
+          "Emil Alégroth"
+        ]
+      },
+      {
+        "title": "Automatic GUI testing of desktop applications: an empirical assessment of the state of the art.",
+        "authors": [
+          "Mauro Pezzè",
+          "Paolo Rondena",
+          "Daniele Zuddas"
+        ]
+      },
+      {
+        "title": "GUI scalability issues of windows desktop applications and how to find them.",
+        "authors": [
+          "Rudolf Ramler",
+          "Thomas Wetzlmaier",
+          "Robert Hoschek"
+        ]
+      },
+      {
+        "title": "Is this the lifecycle we really want?: an automated black-box testing approach for Android activities.",
+        "authors": [
+          "Vincenzo Riccio",
+          "Domenico Amalfitano",
+          "Anna Rita Fasolino"
+        ]
+      },
+      {
+        "title": "Redesigning Soot's data-flow analysis framework for abstract interpretation.",
+        "authors": [
+          "Elena Sherman"
+        ]
+      },
+      {
+        "title": "The secret sauce in efficient and precise static analysis: the beauty of distributive, summary-based static analyses (and how to master them).",
+        "authors": [
+          "Eric Bodden"
+        ]
+      },
+      {
+        "title": "AFFOGATO: runtime detection of injection attacks for Node.js.",
+        "authors": [
+          "François Gauthier",
+          "Behnaz Hassanshahi",
+          "Alexander Jordan"
+        ]
+      },
+      {
+        "title": "NJR: a normalized Java resource.",
+        "authors": [
+          "Jens Palsberg",
+          "Cristina V. Lopes"
+        ]
+      },
+      {
+        "title": "Systematic evaluation of the unsoundness of call graph construction algorithms for Java.",
+        "authors": [
+          "Michael Reif",
+          "Florian Kübler",
+          "Michael Eichberg",
+          "Mira Mezini"
+        ]
+      },
+      {
+        "title": "Lattice based modularization of static analyses.",
+        "authors": [
+          "Michael Eichberg",
+          "Florian Kübler",
+          "Dominik Helm",
+          "Michael Reif",
+          "Guido Salvaneschi",
+          "Mira Mezini"
+        ]
+      },
+      {
+        "title": "Iceberg: dynamic analysis of Java synchronized methods for investigating runtime performance variability.",
+        "authors": [
+          "Michael D. Shah",
+          "Samuel Z. Guyer"
+        ]
+      },
+      {
+        "title": "Izinto: a pattern-based IoT testing framework.",
+        "authors": [
+          "Pedro Martins Pontes",
+          "Bruno Lima",
+          "João Pascoal Faria"
+        ]
+      },
+      {
+        "title": "Analysing the effect of uncertainty in airport surface operations.",
+        "authors": [
+          "Heron Yang",
+          "Robert Morris",
+          "Corina S. Pasareanu"
+        ]
+      },
+      {
+        "title": "Electromagnetic side-channel attacks: potential for progressing hindered digital forensic analysis.",
+        "authors": [
+          "Asanka P. Sayakkara",
+          "Nhien-An Le-Khac",
+          "Mark Scanlon"
         ]
       }
     ]
@@ -2493,248 +2689,52 @@
       }
     ]
   },
-  "https://dblp.org/db/series/eptcs/eptcs302.html": {
-    "header": "2nd VORTEX@ECOOP/ISSTA 2018: Amsterdam, The Netherlands",
+  "https://dblp.org/db/conf/ecoop/cop2018.html": {
+    "header": "10th COP@ECOOP 2018: Amsterdam, The Netherlands",
     "year": "2018",
     "papers": [
       {
-        "title": "Analysis of SLA Compliance in the Cloud - An Automated, Model-based Approach.",
+        "title": "A Declarative Language for Context Activation.",
         "authors": [
-          "Frank S. de Boer",
-          "Elena Giachino",
-          "Stijn de Gouw",
-          "Reiner Hähnle",
-          "Einar Broch Johnsen",
-          "Cosimo Laneve",
-          "Ka I Pun",
-          "Gianluigi Zavattaro"
+          "Nicolás Cardozo"
         ]
       },
       {
-        "title": "SNITCH: Dynamic Dependent Information Flow Analysis for Independent Java Bytecode.",
+        "title": "A Context-Oriented Programming Approach to Dependency Hell.",
         "authors": [
-          "Eduardo Geraldo",
-          "João Costa Seco"
+          "Yudai Tanabe",
+          "Tomoyuki Aotani",
+          "Hidehiko Masuhara"
         ]
       },
       {
-        "title": "Who is to Blame? Runtime Verification of Distributed Objects with Active Monitors.",
+        "title": "Feature Visualiser: an Inspection Tool for Context-Oriented Programmers.",
         "authors": [
-          "Wolfgang Ahrendt",
-          "Ludovic Henrio",
-          "Wytse Oortwijn"
+          "Benoît Duhoux",
+          "Kim Mens",
+          "Bruno Dumas"
         ]
       },
       {
-        "title": "On Distributed Runtime Verification by Aggregate Computing.",
+        "title": "A Simple Context-Oriented Programming Extension to an FRP Language for Small-Scale Embedded Systems.",
         "authors": [
-          "Giorgio Audrito",
-          "Ferruccio Damiani",
-          "Volker Stolz",
-          "Mirko Viroli"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/issta/issta2018w.html": {
-    "header": "ISSTA/ECOOP Workshops 2018: Amsterdam, The Netherlands",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "On the importance of common sense in program synthesis.",
-        "authors": [
-          "Hila Peleg"
+          "Takuo Watanabe"
         ]
       },
       {
-        "title": "Buffer overflow detection for C programs is hard to learn.",
+        "title": "Activity Contexts: Improving Modularity in Blockchain-based Smart Contracts using Context-oriented Programming.",
         "authors": [
-          "Yang Zhao",
-          "Xingzhong Du",
-          "Paddy Krishnan",
-          "Cristina Cifuentes"
+          "Toni Mattis",
+          "Robert Hirschfeld"
         ]
       },
       {
-        "title": "Detecting anomalies in Kotlin code.",
+        "title": "Cross-cutting Commentary: Narratives for Multi-party Mechanisms and Concerns.",
         "authors": [
-          "Timofey Bryksin",
-          "Victor Petukhov",
-          "Kirill Smirenko",
-          "Nikita Povarov"
-        ]
-      },
-      {
-        "title": "Can we learn some PL theory?: how to make use of a corpus of subtype checks.",
-        "authors": [
-          "Artem Pelenitsyn"
-        ]
-      },
-      {
-        "title": "Subtype polymorphism à la carte via machine learning on dependent types.",
-        "authors": [
-          "Jerry Swan",
-          "Colin G. Johnson",
-          "Edwin C. Brady"
-        ]
-      },
-      {
-        "title": "Monotonic gradual typing in a common calculus.",
-        "authors": [
-          "Benjamin Chung",
-          "Jan Vitek"
-        ]
-      },
-      {
-        "title": "A formalism for specification of Java API interfaces.",
-        "authors": [
-          "Davide Ancona",
-          "Francesco Dagnino",
-          "Luca Franceschini"
-        ]
-      },
-      {
-        "title": "Incremental overload resolution in object-oriented programming languages.",
-        "authors": [
-          "Tamás Szabó",
-          "Edlira Kuci",
-          "Matthijs Bijman",
-          "Mira Mezini",
-          "Sebastian Erdweg"
-        ]
-      },
-      {
-        "title": "Static latency tracking with placement types.",
-        "authors": [
-          "Pascal Weisenburger",
-          "Tobias Reinhard",
-          "Guido Salvaneschi"
-        ]
-      },
-      {
-        "title": "Reasoning about functional programming in Java and C++.",
-        "authors": [
-          "David R. Cok"
-        ]
-      },
-      {
-        "title": "An exercise in verifying sequential programs with VerCors.",
-        "authors": [
-          "Sebastiaan J. C. Joosten",
-          "Wytse Oortwijn",
-          "Mohsen Safari",
-          "Marieke Huisman"
-        ]
-      },
-      {
-        "title": "Towards automated translation between generations of GUI-based tests for mobile devices.",
-        "authors": [
-          "Luca Ardito",
-          "Riccardo Coppola",
-          "Marco Torchiano",
-          "Emil Alégroth"
-        ]
-      },
-      {
-        "title": "Automatic GUI testing of desktop applications: an empirical assessment of the state of the art.",
-        "authors": [
-          "Mauro Pezzè",
-          "Paolo Rondena",
-          "Daniele Zuddas"
-        ]
-      },
-      {
-        "title": "GUI scalability issues of windows desktop applications and how to find them.",
-        "authors": [
-          "Rudolf Ramler",
-          "Thomas Wetzlmaier",
-          "Robert Hoschek"
-        ]
-      },
-      {
-        "title": "Is this the lifecycle we really want?: an automated black-box testing approach for Android activities.",
-        "authors": [
-          "Vincenzo Riccio",
-          "Domenico Amalfitano",
-          "Anna Rita Fasolino"
-        ]
-      },
-      {
-        "title": "Redesigning Soot's data-flow analysis framework for abstract interpretation.",
-        "authors": [
-          "Elena Sherman"
-        ]
-      },
-      {
-        "title": "The secret sauce in efficient and precise static analysis: the beauty of distributive, summary-based static analyses (and how to master them).",
-        "authors": [
-          "Eric Bodden"
-        ]
-      },
-      {
-        "title": "AFFOGATO: runtime detection of injection attacks for Node.js.",
-        "authors": [
-          "François Gauthier",
-          "Behnaz Hassanshahi",
-          "Alexander Jordan"
-        ]
-      },
-      {
-        "title": "NJR: a normalized Java resource.",
-        "authors": [
-          "Jens Palsberg",
-          "Cristina V. Lopes"
-        ]
-      },
-      {
-        "title": "Systematic evaluation of the unsoundness of call graph construction algorithms for Java.",
-        "authors": [
-          "Michael Reif",
-          "Florian Kübler",
-          "Michael Eichberg",
-          "Mira Mezini"
-        ]
-      },
-      {
-        "title": "Lattice based modularization of static analyses.",
-        "authors": [
-          "Michael Eichberg",
-          "Florian Kübler",
-          "Dominik Helm",
-          "Michael Reif",
-          "Guido Salvaneschi",
-          "Mira Mezini"
-        ]
-      },
-      {
-        "title": "Iceberg: dynamic analysis of Java synchronized methods for investigating runtime performance variability.",
-        "authors": [
-          "Michael D. Shah",
-          "Samuel Z. Guyer"
-        ]
-      },
-      {
-        "title": "Izinto: a pattern-based IoT testing framework.",
-        "authors": [
-          "Pedro Martins Pontes",
-          "Bruno Lima",
-          "João Pascoal Faria"
-        ]
-      },
-      {
-        "title": "Analysing the effect of uncertainty in airport surface operations.",
-        "authors": [
-          "Heron Yang",
-          "Robert Morris",
-          "Corina S. Pasareanu"
-        ]
-      },
-      {
-        "title": "Electromagnetic side-channel attacks: potential for progressing hindered digital forensic analysis.",
-        "authors": [
-          "Asanka P. Sayakkara",
-          "Nhien-An Le-Khac",
-          "Mark Scanlon"
+          "Robert Hirschfeld",
+          "Tobias Dürschmid",
+          "Patrick Rein",
+          "Marcel Taeumel"
         ]
       }
     ]
@@ -3208,6 +3208,226 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/ecoop/plas2015.html": {
+    "header": "PLAS@ECOOP 2015: Prague, Czech Republic",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Micro-Policies: Formally Verified, Tag-Based Security Monitors.",
+        "authors": [
+          "Catalin Hritcu"
+        ]
+      },
+      {
+        "title": "Swapsies on the Internet: First Steps towards Reasoning about Risk and Trust in an Open World.",
+        "authors": [
+          "Sophia Drossopoulou",
+          "James Noble",
+          "Mark S. Miller"
+        ]
+      },
+      {
+        "title": "Memory-safe Execution of C on a Java VM.",
+        "authors": [
+          "Matthias Grimmer",
+          "Roland Schatz",
+          "Chris Seaton",
+          "Thomas Würthinger",
+          "Hanspeter Mössenböck"
+        ]
+      },
+      {
+        "title": "Dynamic Enforcement of Dynamic Policies.",
+        "authors": [
+          "Pablo Buiras",
+          "Bart van Delft"
+        ]
+      },
+      {
+        "title": "Tierless Programming and Reasoning for Networks.",
+        "authors": [
+          "Shriram Krishnamurthi"
+        ]
+      },
+      {
+        "title": "Short Paper: On High-Assurance Information-Flow-Secure Programming Languages.",
+        "authors": [
+          "Toby C. Murray"
+        ]
+      },
+      {
+        "title": "Short Paper: The Meaning of Attack-Resistant Systems.",
+        "authors": [
+          "Vijay Ganesh",
+          "Sebastian Banescu",
+          "Martín Ochoa"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/maspeghi2015.html": {
+    "header": "MASPEGHI@ECOOP 2015: Prague, Czech Republic",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "The Expression Problem, Gracefully.",
+        "authors": [
+          "Andrew P. Black"
+        ]
+      },
+      {
+        "title": "Analyzing inheritance hierarchies through Formal Concept Analysis: A 22-years walk in a landscape of conceptual structures.",
+        "authors": [
+          "Marianne Huchard"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/icooolps2015.html": {
+    "header": "10th ICOOOLPS@ECOOP 2015: Prague, Czech Republic",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "Data-centric metaprogramming in object-oriented languages.",
+        "authors": [
+          "Vlad Ureche"
+        ]
+      },
+      {
+        "title": "Building debuggers and other tools: we can \"have it all\".",
+        "authors": [
+          "Michael L. Van de Vanter"
+        ]
+      },
+      {
+        "title": "Trace-based debugging for advanced-dispatching programming languages.",
+        "authors": [
+          "Christoph Bockisch",
+          "Marnix van 't Riet",
+          "Haihan Yin",
+          "Mehmet Aksit",
+          "Ziyi Lin",
+          "Yuting Chen",
+          "Jianjun Zhao"
+        ]
+      },
+      {
+        "title": "Preexistence revisited.",
+        "authors": [
+          "Roland Ducournau",
+          "Julien Pagès",
+          "Colin Vidal",
+          "Jean Privat"
+        ]
+      },
+      {
+        "title": "Call-target-specific method arguments.",
+        "authors": [
+          "Fabio Niephaus",
+          "Matthias Springer",
+          "Tim Felgentreff",
+          "Tobias Pape",
+          "Robert Hirschfeld"
+        ]
+      },
+      {
+        "title": "Metis: a smart memory allocator using historical reclamation information.",
+        "authors": [
+          "Shijie Xu",
+          "Qi Guo",
+          "Gerhard W. Dueck",
+          "David Bremner",
+          "Yang Wang"
+        ]
+      },
+      {
+        "title": "Towards reducing the need for algorithmic primitives in dynamic language VMs through a tracing JIT.",
+        "authors": [
+          "Tim Felgentreff",
+          "Tobias Pape",
+          "Lars Wassermann",
+          "Robert Hirschfeld",
+          "Carl Friedrich Bolz"
+        ]
+      },
+      {
+        "title": "Techniques and applications for guest-language safepoints.",
+        "authors": [
+          "Benoit Daloze",
+          "Chris Seaton",
+          "Daniele Bonetta",
+          "Hanspeter Mössenböck"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/ftfjp2015.html": {
+    "header": "17th FTfJP@ECOOP 2015: Prague, Czech Republic",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "A three-valued type system for true positives detection in Java-like languages.",
+        "authors": [
+          "Davide Ancona",
+          "Federico Frassetto"
+        ]
+      },
+      {
+        "title": "Imperative objects with dependent types.",
+        "authors": [
+          "Joana Campos",
+          "Vasco T. Vasconcelos"
+        ]
+      },
+      {
+        "title": "Foo: a minimal modern OO calculus.",
+        "authors": [
+          "Prodromos Gerakios",
+          "George Fourtounis",
+          "Yannis Smaragdakis"
+        ]
+      },
+      {
+        "title": "Automatic verification of Dafny programs with traits.",
+        "authors": [
+          "Reza Ahmadi",
+          "K. Rustan M. Leino",
+          "Jyrki Nummenmaa"
+        ]
+      },
+      {
+        "title": "Conditional effects in fine-grained region logic.",
+        "authors": [
+          "Yuyan Bao",
+          "Gary T. Leavens",
+          "Gidon Ernst"
+        ]
+      },
+      {
+        "title": "Regression verification for Java using a secure information flow calculus.",
+        "authors": [
+          "Bernhard Beckert",
+          "Vladimir Klebanov",
+          "Mattias Ulbrich"
+        ]
+      },
+      {
+        "title": "Provably live exception handling.",
+        "authors": [
+          "Bart Jacobs"
+        ]
+      },
+      {
+        "title": "Run-time assertion checking of JML annotations in multithreaded applications with e-OpenJML.",
+        "authors": [
+          "Jorne Kandziora",
+          "Marieke Huisman",
+          "Christoph Bockisch",
+          "Marina Zaharieva-Stojanovski"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/ecoop/ecoop2015.html": {
     "header": "29th ECOOP 2015: Prague, Czech Republic",
     "year": "2015",
@@ -3480,226 +3700,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/icooolps2015.html": {
-    "header": "10th ICOOOLPS@ECOOP 2015: Prague, Czech Republic",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Data-centric metaprogramming in object-oriented languages.",
-        "authors": [
-          "Vlad Ureche"
-        ]
-      },
-      {
-        "title": "Building debuggers and other tools: we can \"have it all\".",
-        "authors": [
-          "Michael L. Van de Vanter"
-        ]
-      },
-      {
-        "title": "Trace-based debugging for advanced-dispatching programming languages.",
-        "authors": [
-          "Christoph Bockisch",
-          "Marnix van 't Riet",
-          "Haihan Yin",
-          "Mehmet Aksit",
-          "Ziyi Lin",
-          "Yuting Chen",
-          "Jianjun Zhao"
-        ]
-      },
-      {
-        "title": "Preexistence revisited.",
-        "authors": [
-          "Roland Ducournau",
-          "Julien Pagès",
-          "Colin Vidal",
-          "Jean Privat"
-        ]
-      },
-      {
-        "title": "Call-target-specific method arguments.",
-        "authors": [
-          "Fabio Niephaus",
-          "Matthias Springer",
-          "Tim Felgentreff",
-          "Tobias Pape",
-          "Robert Hirschfeld"
-        ]
-      },
-      {
-        "title": "Metis: a smart memory allocator using historical reclamation information.",
-        "authors": [
-          "Shijie Xu",
-          "Qi Guo",
-          "Gerhard W. Dueck",
-          "David Bremner",
-          "Yang Wang"
-        ]
-      },
-      {
-        "title": "Towards reducing the need for algorithmic primitives in dynamic language VMs through a tracing JIT.",
-        "authors": [
-          "Tim Felgentreff",
-          "Tobias Pape",
-          "Lars Wassermann",
-          "Robert Hirschfeld",
-          "Carl Friedrich Bolz"
-        ]
-      },
-      {
-        "title": "Techniques and applications for guest-language safepoints.",
-        "authors": [
-          "Benoit Daloze",
-          "Chris Seaton",
-          "Daniele Bonetta",
-          "Hanspeter Mössenböck"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/plas2015.html": {
-    "header": "PLAS@ECOOP 2015: Prague, Czech Republic",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "Micro-Policies: Formally Verified, Tag-Based Security Monitors.",
-        "authors": [
-          "Catalin Hritcu"
-        ]
-      },
-      {
-        "title": "Swapsies on the Internet: First Steps towards Reasoning about Risk and Trust in an Open World.",
-        "authors": [
-          "Sophia Drossopoulou",
-          "James Noble",
-          "Mark S. Miller"
-        ]
-      },
-      {
-        "title": "Memory-safe Execution of C on a Java VM.",
-        "authors": [
-          "Matthias Grimmer",
-          "Roland Schatz",
-          "Chris Seaton",
-          "Thomas Würthinger",
-          "Hanspeter Mössenböck"
-        ]
-      },
-      {
-        "title": "Dynamic Enforcement of Dynamic Policies.",
-        "authors": [
-          "Pablo Buiras",
-          "Bart van Delft"
-        ]
-      },
-      {
-        "title": "Tierless Programming and Reasoning for Networks.",
-        "authors": [
-          "Shriram Krishnamurthi"
-        ]
-      },
-      {
-        "title": "Short Paper: On High-Assurance Information-Flow-Secure Programming Languages.",
-        "authors": [
-          "Toby C. Murray"
-        ]
-      },
-      {
-        "title": "Short Paper: The Meaning of Attack-Resistant Systems.",
-        "authors": [
-          "Vijay Ganesh",
-          "Sebastian Banescu",
-          "Martín Ochoa"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/ftfjp2015.html": {
-    "header": "17th FTfJP@ECOOP 2015: Prague, Czech Republic",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "A three-valued type system for true positives detection in Java-like languages.",
-        "authors": [
-          "Davide Ancona",
-          "Federico Frassetto"
-        ]
-      },
-      {
-        "title": "Imperative objects with dependent types.",
-        "authors": [
-          "Joana Campos",
-          "Vasco T. Vasconcelos"
-        ]
-      },
-      {
-        "title": "Foo: a minimal modern OO calculus.",
-        "authors": [
-          "Prodromos Gerakios",
-          "George Fourtounis",
-          "Yannis Smaragdakis"
-        ]
-      },
-      {
-        "title": "Automatic verification of Dafny programs with traits.",
-        "authors": [
-          "Reza Ahmadi",
-          "K. Rustan M. Leino",
-          "Jyrki Nummenmaa"
-        ]
-      },
-      {
-        "title": "Conditional effects in fine-grained region logic.",
-        "authors": [
-          "Yuyan Bao",
-          "Gary T. Leavens",
-          "Gidon Ernst"
-        ]
-      },
-      {
-        "title": "Regression verification for Java using a secure information flow calculus.",
-        "authors": [
-          "Bernhard Beckert",
-          "Vladimir Klebanov",
-          "Mattias Ulbrich"
-        ]
-      },
-      {
-        "title": "Provably live exception handling.",
-        "authors": [
-          "Bart Jacobs"
-        ]
-      },
-      {
-        "title": "Run-time assertion checking of JML annotations in multithreaded applications with e-OpenJML.",
-        "authors": [
-          "Jorne Kandziora",
-          "Marieke Huisman",
-          "Christoph Bockisch",
-          "Marina Zaharieva-Stojanovski"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/maspeghi2015.html": {
-    "header": "MASPEGHI@ECOOP 2015: Prague, Czech Republic",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "The Expression Problem, Gracefully.",
-        "authors": [
-          "Andrew P. Black"
-        ]
-      },
-      {
-        "title": "Analyzing inheritance hierarchies through Formal Concept Analysis: A 22-years walk in a landscape of conceptual structures.",
-        "authors": [
-          "Marianne Huchard"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/ecoop/cop2015.html": {
     "header": "7th COP@ECOOP 2015: Prague, Czech Republic",
     "year": "2015",
@@ -3770,6 +3770,115 @@
           "Tomoyuki Aotani",
           "Tetsuo Kamina",
           "Hidehiko Masuhara"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/scala2014.html": {
+    "header": "5th SCALA@ECOOP 2014: Uppsala, Sweden",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "ScalaDyno: making name resolution and type checking fault-tolerant.",
+        "authors": [
+          "Cédric Bastin",
+          "Vlad Ureche",
+          "Martin Odersky"
+        ]
+      },
+      {
+        "title": "Accelerating parser combinators with macros.",
+        "authors": [
+          "Eric Béguet",
+          "Manohar Jonnalagedda"
+        ]
+      },
+      {
+        "title": "MorphScala: safe class morphing with macros.",
+        "authors": [
+          "Aggelos Biboudis",
+          "Eugene Burmako"
+        ]
+      },
+      {
+        "title": "Typecasting actors: from Akka to TAkka.",
+        "authors": [
+          "Jiansen He",
+          "Philip Wadler",
+          "Philip W. Trinder"
+        ]
+      },
+      {
+        "title": "Type-directed language extension for effectful computations.",
+        "authors": [
+          "Evgenii Kotelnikov"
+        ]
+      },
+      {
+        "title": "SciFe: Scala framework for efficient enumeration of data structures with invariants.",
+        "authors": [
+          "Ivan Kuraj",
+          "Viktor Kuncak"
+        ]
+      },
+      {
+        "title": "Containers and aggregates, mutators and isolates for reactive programming.",
+        "authors": [
+          "Aleksandar Prokopec",
+          "Philipp Haller",
+          "Martin Odersky"
+        ]
+      },
+      {
+        "title": "Real-time collaborative Scala development with Clide.",
+        "authors": [
+          "Martin Ring",
+          "Christoph Lüth"
+        ]
+      },
+      {
+        "title": "Towards virtual traits in Scala.",
+        "authors": [
+          "Manuel Weiel",
+          "Ingo Maier",
+          "Sebastian Erdweg",
+          "Michael Eichberg",
+          "Mira Mezini"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/ple2014.html": {
+    "header": "PLE@ECOOP 2014: Uppsala, Sweden",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Programming language evolution workshop report.",
+        "authors": [
+          "Raoul-Gabriel Urma",
+          "Dominic A. Orchard",
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "The evolution of Scala: PLE'14 keynote.",
+        "authors": [
+          "Martin Odersky"
+        ]
+      },
+      {
+        "title": "HERCULES/PL: the pattern language of HERCULES.",
+        "authors": [
+          "Christos Kartsaklis",
+          "Oscar R. Hernandez"
+        ]
+      },
+      {
+        "title": "Programming language feature agglomeration.",
+        "authors": [
+          "Jeremy Singer",
+          "Callum Cameron",
+          "Marc Alexander"
         ]
       }
     ]
@@ -3852,41 +3961,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/ple2014.html": {
-    "header": "PLE@ECOOP 2014: Uppsala, Sweden",
-    "year": "2014",
-    "papers": [
-      {
-        "title": "Programming language evolution workshop report.",
-        "authors": [
-          "Raoul-Gabriel Urma",
-          "Dominic A. Orchard",
-          "Alan Mycroft"
-        ]
-      },
-      {
-        "title": "The evolution of Scala: PLE'14 keynote.",
-        "authors": [
-          "Martin Odersky"
-        ]
-      },
-      {
-        "title": "HERCULES/PL: the pattern language of HERCULES.",
-        "authors": [
-          "Christos Kartsaklis",
-          "Oscar R. Hernandez"
-        ]
-      },
-      {
-        "title": "Programming language feature agglomeration.",
-        "authors": [
-          "Jeremy Singer",
-          "Callum Cameron",
-          "Marc Alexander"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/ecoop/icooolps2014.html": {
     "header": "9th ICOOOLPS@ECOOP 2014: Uppsala, Sweden",
     "year": "2014",
@@ -3940,76 +4014,45 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/scala2014.html": {
-    "header": "5th SCALA@ECOOP 2014: Uppsala, Sweden",
+  "https://dblp.org/db/conf/ecoop/ftfjp2014.html": {
+    "header": "16th FTfJP@ECOOP 2014: Uppsala, Sweden",
     "year": "2014",
     "papers": [
       {
-        "title": "ScalaDyno: making name resolution and type checking fault-tolerant.",
+        "title": "How to prove type soundness of Java-like languages without forgoing big-step semantics.",
         "authors": [
-          "Cédric Bastin",
-          "Vlad Ureche",
-          "Martin Odersky"
+          "Davide Ancona"
         ]
       },
       {
-        "title": "Accelerating parser combinators with macros.",
+        "title": "Constraint Semantics for Abstract Read Permissions.",
         "authors": [
-          "Eric Béguet",
-          "Manohar Jonnalagedda"
+          "John Tang Boyland",
+          "Peter Müller",
+          "Malte Schwerhoff",
+          "Alexander J. Summers"
         ]
       },
       {
-        "title": "MorphScala: safe class morphing with macros.",
+        "title": "Tinygrace: A Simple, Safe, and Structurally Typed Language.",
         "authors": [
-          "Aggelos Biboudis",
-          "Eugene Burmako"
+          "Timothy Jones",
+          "James Noble"
         ]
       },
       {
-        "title": "Typecasting actors: from Akka to TAkka.",
+        "title": "Verifying Functional Behaviour of Concurrent Programs.",
         "authors": [
-          "Jiansen He",
-          "Philip Wadler",
-          "Philip W. Trinder"
+          "Marina Zaharieva-Stojanovski",
+          "Marieke Huisman",
+          "Stefan Blom"
         ]
       },
       {
-        "title": "Type-directed language extension for effectful computations.",
+        "title": "Rationally Reconstructing the Escrow Example.",
         "authors": [
-          "Evgenii Kotelnikov"
-        ]
-      },
-      {
-        "title": "SciFe: Scala framework for efficient enumeration of data structures with invariants.",
-        "authors": [
-          "Ivan Kuraj",
-          "Viktor Kuncak"
-        ]
-      },
-      {
-        "title": "Containers and aggregates, mutators and isolates for reactive programming.",
-        "authors": [
-          "Aleksandar Prokopec",
-          "Philipp Haller",
-          "Martin Odersky"
-        ]
-      },
-      {
-        "title": "Real-time collaborative Scala development with Clide.",
-        "authors": [
-          "Martin Ring",
-          "Christoph Lüth"
-        ]
-      },
-      {
-        "title": "Towards virtual traits in Scala.",
-        "authors": [
-          "Manuel Weiel",
-          "Ingo Maier",
-          "Sebastian Erdweg",
-          "Michael Eichberg",
-          "Mira Mezini"
+          "James Noble",
+          "Sophia Drossopoulou"
         ]
       }
     ]
@@ -4317,45 +4360,281 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/ftfjp2014.html": {
-    "header": "16th FTfJP@ECOOP 2014: Uppsala, Sweden",
-    "year": "2014",
+  "https://dblp.org/db/conf/ecoop/sesos2013.html": {
+    "header": "SESoS@ECOOP 2013: Montpellier, France",
+    "year": "2013",
     "papers": [
       {
-        "title": "How to prove type soundness of Java-like languages without forgoing big-step semantics.",
+        "title": "Evolving systems of systems: industrial challenges and research perspectives.",
         "authors": [
-          "Davide Ancona"
+          "Michael Vierhauser",
+          "Rick Rabiser",
+          "Paul Grünbacher",
+          "Christian Danner",
+          "Stefan Wallner"
         ]
       },
       {
-        "title": "Constraint Semantics for Abstract Read Permissions.",
+        "title": "An approach combining SysML and modelica for modelling and validate wireless sensor networks.",
         "authors": [
-          "John Tang Boyland",
-          "Peter Müller",
-          "Malte Schwerhoff",
-          "Alexander J. Summers"
+          "Ahmed Hammad",
+          "Hassan Mountassir",
+          "Samir Chouali"
         ]
       },
       {
-        "title": "Tinygrace: A Simple, Safe, and Structurally Typed Language.",
+        "title": "The state of the art and future perspectives in systems of systems software architectures.",
         "authors": [
-          "Timothy Jones",
+          "Elisa Yumi Nakagawa",
+          "Marcelo Benites Gonçalves",
+          "Milena Guessi",
+          "Lucas Bueno Ruas de Oliveira",
+          "Flávio Oquendo"
+        ]
+      },
+      {
+        "title": "Issues and challenges in ecosystems for federated embedded systems.",
+        "authors": [
+          "Efi Papatheocharous",
+          "Jakob Axelsson",
+          "Jesper Andersson"
+        ]
+      },
+      {
+        "title": "Towards an IoT ecosystem.",
+        "authors": [
+          "Flávia Coimbra Delicato",
+          "Paulo F. Pires",
+          "Thaís Vasconcelos Batista",
+          "Everton Cavalcante",
+          "Bruno Costa",
+          "Thomaz Barros"
+        ]
+      },
+      {
+        "title": "On self-adaptation in systems-of-systems.",
+        "authors": [
+          "María del Pilar Romay",
+          "Carlos E. Cuesta",
+          "Luis Fernández Sanz"
+        ]
+      },
+      {
+        "title": "Challenges for SoS architecture description.",
+        "authors": [
+          "Thaís Vasconcelos Batista"
+        ]
+      },
+      {
+        "title": "Large-scale smart grids as system of systems.",
+        "authors": [
+          "Jennifer Pérez",
+          "Jessica Díaz",
+          "Juan Garbajosa",
+          "Agustín Yagüe",
+          "Eloy González",
+          "Mercedes Lopez-Perea"
+        ]
+      },
+      {
+        "title": "Supporting architectural decision making for systems-of-systems design under uncertainty.",
+        "authors": [
+          "Ioanna Lytra",
+          "Uwe Zdun"
+        ]
+      },
+      {
+        "title": "On the challenges of self-adaptation in systems of systems.",
+        "authors": [
+          "Danny Weyns",
+          "Jesper Andersson"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/pmde2013.html": {
+    "header": "3rd PMDE@ECOOP 2013: Montpellier, France",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Definition of processes for MDE-based migrations.",
+        "authors": [
+          "Francisco Javier Bermudez Ruiz",
+          "Óscar Sánchez Ramón",
+          "Jesús García Molina"
+        ]
+      },
+      {
+        "title": "A comparison of the Essence 1.0 and SPEM 2.0 specifications for software engineering methods.",
+        "authors": [
+          "Brian Elvesæter",
+          "Gorka Benguria",
+          "Sylvia Ilieva"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/icooolps2013.html": {
+    "header": "8th ICOOOLPS@ECOOP 2013: Montpellier, France",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Garbage collection: 50+ years later.",
+        "authors": [
+          "Tony Printezis"
+        ]
+      },
+      {
+        "title": "Efficiency of subtype test in object oriented languages with generics.",
+        "authors": [
+          "Alexandre Terrasa",
+          "Jean Privat"
+        ]
+      },
+      {
+        "title": "Programming highly mobile cloud applications of the future.",
+        "authors": [
+          "Eric Jul"
+        ]
+      },
+      {
+        "title": "TRACK: keeping track of highly mobile objects: a lanugage-level proposal position paper.",
+        "authors": [
+          "Eric Jul"
+        ]
+      },
+      {
+        "title": "History-based security for JavaScript.",
+        "authors": [
+          "Jan Vitek"
+        ]
+      },
+      {
+        "title": "Practical information flow for legacy web applications.",
+        "authors": [
+          "Georgios Chinis",
+          "Polyvios Pratikakis",
+          "Sotiris Ioannidis",
+          "Elias Athanasopoulos"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/globaldsl2013.html": {
+    "header": "1st GlobalDSL@ECOOP 2013: Montpellier, France",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "GlobalDSL 2013: First Workshop on the Globalization of Domain Specific Languages.",
+        "authors": [
+          "Benoît Combemale",
+          "Walter Cazzola",
+          "Robert B. France"
+        ]
+      },
+      {
+        "title": "Towards model and language composition.",
+        "authors": [
+          "Bernhard Rumpe"
+        ]
+      },
+      {
+        "title": "Type-directed, whitespace-delimited parsing for embedded DSLs.",
+        "authors": [
+          "Cyrus Omar",
+          "Benjamin Chung",
+          "Darya Kurilova",
+          "Alex Potanin",
+          "Jonathan Aldrich"
+        ]
+      },
+      {
+        "title": "Composing graphical languages.",
+        "authors": [
+          "Ivan Melo",
+          "Mario E. Sánchez",
+          "Jorge Villalobos"
+        ]
+      },
+      {
+        "title": "Creating and using domain-specific language features.",
+        "authors": [
+          "Ted Kaminski",
+          "Eric Van Wyk"
+        ]
+      },
+      {
+        "title": "Domain specific languages for the model driven organization.",
+        "authors": [
+          "Tony Clark",
+          "Ulrich Frank",
+          "Vinay Kulkarni",
+          "Balbir S. Barn",
+          "Dan Turk"
+        ]
+      },
+      {
+        "title": "Yet another DSL for cross-platforms mobile development.",
+        "authors": [
+          "Olivier Le Goaër",
+          "Sacha Waltham"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/ftfjp2013.html": {
+    "header": "15th FTfJP@ECOOP 2013: Montpellier, France",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "True small-step reduction for imperative object oriented languages.",
+        "authors": [
+          "Marco Servetto",
+          "Lindsay Groves"
+        ]
+      },
+      {
+        "title": "Safe corecursion in coFJ.",
+        "authors": [
+          "Davide Ancona",
+          "Elena Zucca"
+        ]
+      },
+      {
+        "title": "Semi-automatic controller design of Java-like models.",
+        "authors": [
+          "Yan Zhang",
+          "Béatrice Bérard",
+          "Lom-Messan Hillah",
+          "Yann Thierry-Mieg"
+        ]
+      },
+      {
+        "title": "A flow-insensitive, modular effect system for purity.",
+        "authors": [
+          "Lukas Rytz",
+          "Nada Amin",
+          "Martin Odersky"
+        ]
+      },
+      {
+        "title": "Composing polymorphic information flow systems with reference immutability.",
+        "authors": [
+          "Ana L. Milanova",
+          "Wei Huang"
+        ]
+      },
+      {
+        "title": "The need for capability policies.",
+        "authors": [
+          "Sophia Drossopoulou",
           "James Noble"
         ]
       },
       {
-        "title": "Verifying Functional Behaviour of Concurrent Programs.",
+        "title": "A calculus for constraint-based flow typing.",
         "authors": [
-          "Marina Zaharieva-Stojanovski",
-          "Marieke Huisman",
-          "Stefan Blom"
-        ]
-      },
-      {
-        "title": "Rationally Reconstructing the Escrow Example.",
-        "authors": [
-          "James Noble",
-          "Sophia Drossopoulou"
+          "David J. Pearce"
         ]
       }
     ]
@@ -4623,228 +4902,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/globaldsl2013.html": {
-    "header": "1st GlobalDSL@ECOOP 2013: Montpellier, France",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "GlobalDSL 2013: First Workshop on the Globalization of Domain Specific Languages.",
-        "authors": [
-          "Benoît Combemale",
-          "Walter Cazzola",
-          "Robert B. France"
-        ]
-      },
-      {
-        "title": "Towards model and language composition.",
-        "authors": [
-          "Bernhard Rumpe"
-        ]
-      },
-      {
-        "title": "Type-directed, whitespace-delimited parsing for embedded DSLs.",
-        "authors": [
-          "Cyrus Omar",
-          "Benjamin Chung",
-          "Darya Kurilova",
-          "Alex Potanin",
-          "Jonathan Aldrich"
-        ]
-      },
-      {
-        "title": "Composing graphical languages.",
-        "authors": [
-          "Ivan Melo",
-          "Mario E. Sánchez",
-          "Jorge Villalobos"
-        ]
-      },
-      {
-        "title": "Creating and using domain-specific language features.",
-        "authors": [
-          "Ted Kaminski",
-          "Eric Van Wyk"
-        ]
-      },
-      {
-        "title": "Domain specific languages for the model driven organization.",
-        "authors": [
-          "Tony Clark",
-          "Ulrich Frank",
-          "Vinay Kulkarni",
-          "Balbir S. Barn",
-          "Dan Turk"
-        ]
-      },
-      {
-        "title": "Yet another DSL for cross-platforms mobile development.",
-        "authors": [
-          "Olivier Le Goaër",
-          "Sacha Waltham"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/sesos2013.html": {
-    "header": "SESoS@ECOOP 2013: Montpellier, France",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "Evolving systems of systems: industrial challenges and research perspectives.",
-        "authors": [
-          "Michael Vierhauser",
-          "Rick Rabiser",
-          "Paul Grünbacher",
-          "Christian Danner",
-          "Stefan Wallner"
-        ]
-      },
-      {
-        "title": "An approach combining SysML and modelica for modelling and validate wireless sensor networks.",
-        "authors": [
-          "Ahmed Hammad",
-          "Hassan Mountassir",
-          "Samir Chouali"
-        ]
-      },
-      {
-        "title": "The state of the art and future perspectives in systems of systems software architectures.",
-        "authors": [
-          "Elisa Yumi Nakagawa",
-          "Marcelo Benites Gonçalves",
-          "Milena Guessi",
-          "Lucas Bueno Ruas de Oliveira",
-          "Flávio Oquendo"
-        ]
-      },
-      {
-        "title": "Issues and challenges in ecosystems for federated embedded systems.",
-        "authors": [
-          "Efi Papatheocharous",
-          "Jakob Axelsson",
-          "Jesper Andersson"
-        ]
-      },
-      {
-        "title": "Towards an IoT ecosystem.",
-        "authors": [
-          "Flávia Coimbra Delicato",
-          "Paulo F. Pires",
-          "Thaís Vasconcelos Batista",
-          "Everton Cavalcante",
-          "Bruno Costa",
-          "Thomaz Barros"
-        ]
-      },
-      {
-        "title": "On self-adaptation in systems-of-systems.",
-        "authors": [
-          "María del Pilar Romay",
-          "Carlos E. Cuesta",
-          "Luis Fernández Sanz"
-        ]
-      },
-      {
-        "title": "Challenges for SoS architecture description.",
-        "authors": [
-          "Thaís Vasconcelos Batista"
-        ]
-      },
-      {
-        "title": "Large-scale smart grids as system of systems.",
-        "authors": [
-          "Jennifer Pérez",
-          "Jessica Díaz",
-          "Juan Garbajosa",
-          "Agustín Yagüe",
-          "Eloy González",
-          "Mercedes Lopez-Perea"
-        ]
-      },
-      {
-        "title": "Supporting architectural decision making for systems-of-systems design under uncertainty.",
-        "authors": [
-          "Ioanna Lytra",
-          "Uwe Zdun"
-        ]
-      },
-      {
-        "title": "On the challenges of self-adaptation in systems of systems.",
-        "authors": [
-          "Danny Weyns",
-          "Jesper Andersson"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/pmde2013.html": {
-    "header": "3rd PMDE@ECOOP 2013: Montpellier, France",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "Definition of processes for MDE-based migrations.",
-        "authors": [
-          "Francisco Javier Bermudez Ruiz",
-          "Óscar Sánchez Ramón",
-          "Jesús García Molina"
-        ]
-      },
-      {
-        "title": "A comparison of the Essence 1.0 and SPEM 2.0 specifications for software engineering methods.",
-        "authors": [
-          "Brian Elvesæter",
-          "Gorka Benguria",
-          "Sylvia Ilieva"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/icooolps2013.html": {
-    "header": "8th ICOOOLPS@ECOOP 2013: Montpellier, France",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "Garbage collection: 50+ years later.",
-        "authors": [
-          "Tony Printezis"
-        ]
-      },
-      {
-        "title": "Efficiency of subtype test in object oriented languages with generics.",
-        "authors": [
-          "Alexandre Terrasa",
-          "Jean Privat"
-        ]
-      },
-      {
-        "title": "Programming highly mobile cloud applications of the future.",
-        "authors": [
-          "Eric Jul"
-        ]
-      },
-      {
-        "title": "TRACK: keeping track of highly mobile objects: a lanugage-level proposal position paper.",
-        "authors": [
-          "Eric Jul"
-        ]
-      },
-      {
-        "title": "History-based security for JavaScript.",
-        "authors": [
-          "Jan Vitek"
-        ]
-      },
-      {
-        "title": "Practical information flow for legacy web applications.",
-        "authors": [
-          "Georgios Chinis",
-          "Polyvios Pratikakis",
-          "Sotiris Ioannidis",
-          "Elias Athanasopoulos"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/ecoop/coompl2013.html": {
     "header": "2. COOMPL@ECOOP 2013: Montpellier, France",
     "year": "2013",
@@ -4931,59 +4988,101 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/ftfjp2013.html": {
-    "header": "15th FTfJP@ECOOP 2013: Montpellier, France",
-    "year": "2013",
+  "https://dblp.org/db/conf/ecoop/ramse2012.html": {
+    "header": "9th RAM-SE@ECOOP 2012: Beijing, China",
+    "year": "2012",
     "papers": [
       {
-        "title": "True small-step reduction for imperative object oriented languages.",
+        "title": "A data-parallel extension to Ruby for GPGPU: toward a framework for implementing domain-specific optimizations.",
         "authors": [
-          "Marco Servetto",
-          "Lindsay Groves"
+          "Hidehiko Masuhara",
+          "Yusuke Nishiguchi"
         ]
       },
       {
-        "title": "Safe corecursion in coFJ.",
+        "title": "Supporting methods and events by an integrated abstraction.",
+        "authors": [
+          "YungYu Zhuang",
+          "Shigeru Chiba"
+        ]
+      },
+      {
+        "title": "LogicObjects: a linguistic symbiosis approach to bring the declarative power of Prolog to Java.",
+        "authors": [
+          "Sergio Castro",
+          "Kim Mens",
+          "Paulo Moura"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/ftfjp2012.html": {
+    "header": "14th FTfJP@ECOOP 2012: Beijing, China",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "Featherweight X10: a core calculus for async-finish parallelism.",
+        "authors": [
+          "Jens Palsberg"
+        ]
+      },
+      {
+        "title": "AmbientTalk: modern actors for modern networks.",
+        "authors": [
+          "Tom Van Cutsem"
+        ]
+      },
+      {
+        "title": "Corecursive Featherweight Java.",
         "authors": [
           "Davide Ancona",
           "Elena Zucca"
         ]
       },
       {
-        "title": "Semi-automatic controller design of Java-like models.",
+        "title": "Encoding Featherweight Java with assignment and immutability using the Coq proof assistant.",
         "authors": [
-          "Yan Zhang",
-          "Béatrice Bérard",
-          "Lom-Messan Hillah",
-          "Yann Thierry-Mieg"
+          "Julian Mackay",
+          "Hannes Mehnert",
+          "Alex Potanin",
+          "Lindsay Groves",
+          "Nicholas Cameron"
         ]
       },
       {
-        "title": "A flow-insensitive, modular effect system for purity.",
+        "title": "A type system for regular expressions.",
         "authors": [
-          "Lukas Rytz",
-          "Nada Amin",
-          "Martin Odersky"
+          "Eric Spishak",
+          "Werner Dietl",
+          "Michael D. Ernst"
         ]
       },
       {
-        "title": "Composing polymorphic information flow systems with reference immutability.",
+        "title": "Verifying the reflective visitor pattern.",
         "authors": [
-          "Ana L. Milanova",
-          "Wei Huang"
+          "Ben Horsfall",
+          "Nathaniel Charlton",
+          "Bernhard Reus"
         ]
       },
       {
-        "title": "The need for capability policies.",
+        "title": "Verifying backwards compatibility of object-oriented libraries using Boogie.",
         "authors": [
-          "Sophia Drossopoulou",
-          "James Noble"
+          "Yannick Welsch",
+          "Arnd Poetzsch-Heffter"
         ]
       },
       {
-        "title": "A calculus for constraint-based flow typing.",
+        "title": "Verification games: making verification fun.",
         "authors": [
-          "David J. Pearce"
+          "Werner Dietl",
+          "Stephanie Dietzel",
+          "Michael D. Ernst",
+          "Nathaniel Mote",
+          "Brian Walker",
+          "Seth Cooper",
+          "Timothy Pavlik",
+          "Zoran Popovic"
         ]
       }
     ]
@@ -5249,105 +5348,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/ramse2012.html": {
-    "header": "9th RAM-SE@ECOOP 2012: Beijing, China",
-    "year": "2012",
-    "papers": [
-      {
-        "title": "A data-parallel extension to Ruby for GPGPU: toward a framework for implementing domain-specific optimizations.",
-        "authors": [
-          "Hidehiko Masuhara",
-          "Yusuke Nishiguchi"
-        ]
-      },
-      {
-        "title": "Supporting methods and events by an integrated abstraction.",
-        "authors": [
-          "YungYu Zhuang",
-          "Shigeru Chiba"
-        ]
-      },
-      {
-        "title": "LogicObjects: a linguistic symbiosis approach to bring the declarative power of Prolog to Java.",
-        "authors": [
-          "Sergio Castro",
-          "Kim Mens",
-          "Paulo Moura"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/ftfjp2012.html": {
-    "header": "14th FTfJP@ECOOP 2012: Beijing, China",
-    "year": "2012",
-    "papers": [
-      {
-        "title": "Featherweight X10: a core calculus for async-finish parallelism.",
-        "authors": [
-          "Jens Palsberg"
-        ]
-      },
-      {
-        "title": "AmbientTalk: modern actors for modern networks.",
-        "authors": [
-          "Tom Van Cutsem"
-        ]
-      },
-      {
-        "title": "Corecursive Featherweight Java.",
-        "authors": [
-          "Davide Ancona",
-          "Elena Zucca"
-        ]
-      },
-      {
-        "title": "Encoding Featherweight Java with assignment and immutability using the Coq proof assistant.",
-        "authors": [
-          "Julian Mackay",
-          "Hannes Mehnert",
-          "Alex Potanin",
-          "Lindsay Groves",
-          "Nicholas Cameron"
-        ]
-      },
-      {
-        "title": "A type system for regular expressions.",
-        "authors": [
-          "Eric Spishak",
-          "Werner Dietl",
-          "Michael D. Ernst"
-        ]
-      },
-      {
-        "title": "Verifying the reflective visitor pattern.",
-        "authors": [
-          "Ben Horsfall",
-          "Nathaniel Charlton",
-          "Bernhard Reus"
-        ]
-      },
-      {
-        "title": "Verifying backwards compatibility of object-oriented libraries using Boogie.",
-        "authors": [
-          "Yannick Welsch",
-          "Arnd Poetzsch-Heffter"
-        ]
-      },
-      {
-        "title": "Verification games: making verification fun.",
-        "authors": [
-          "Werner Dietl",
-          "Stephanie Dietzel",
-          "Michael D. Ernst",
-          "Nathaniel Mote",
-          "Brian Walker",
-          "Seth Cooper",
-          "Timothy Pavlik",
-          "Zoran Popovic"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/ecoop/cop2012.html": {
     "header": "4th COP@ECOOP 2012: Beijing, China",
     "year": "2012",
@@ -5463,6 +5463,81 @@
           "Michael Leuschel",
           "Samuele Pedroni",
           "Armin Rigo"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/ftfjp2011.html": {
+    "header": "13th FTfJP@ECOOP 2011: Lancaster, United Kingdom",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "Fractional permissions without the fractions.",
+        "authors": [
+          "Stefan Heule",
+          "K. Rustan M. Leino",
+          "Peter Müller",
+          "Alexander J. Summers"
+        ]
+      },
+      {
+        "title": "A sip of the Chalice.",
+        "authors": [
+          "Azalea Raad",
+          "Sophia Drossopoulou"
+        ]
+      },
+      {
+        "title": "Specification-based sketching with Sketch.",
+        "authors": [
+          "Hesam Samimi",
+          "Kaushik Rajan"
+        ]
+      },
+      {
+        "title": "Harmless compiler plugins.",
+        "authors": [
+          "Nathaniel Nystrom"
+        ]
+      },
+      {
+        "title": "Coinductive big-step operational semantics for type soundness of Java-like languages.",
+        "authors": [
+          "Davide Ancona"
+        ]
+      },
+      {
+        "title": "Guarded type promotion: eliminating redundant casts in Java.",
+        "authors": [
+          "Johnni Winther"
+        ]
+      },
+      {
+        "title": "On the interplay of exception handling and design by contract: an aspect-oriented recovery approach.",
+        "authors": [
+          "Henrique Rebêlo",
+          "Roberta Coelho",
+          "Ricardo M. F. Lima",
+          "Gary T. Leavens",
+          "Marieke Huisman",
+          "Alexandre Mota",
+          "Fernando Castor"
+        ]
+      },
+      {
+        "title": "Verifying traits: a proof system for fine-grained reuse.",
+        "authors": [
+          "Ferruccio Damiani",
+          "Johan Dovland",
+          "Einar Broch Johnsen",
+          "Ina Schaefer"
+        ]
+      },
+      {
+        "title": "Automatic inference of model fields and their representation.",
+        "authors": [
+          "Mihai Balint",
+          "Marius Minea"
         ]
       }
     ]
@@ -5771,108 +5846,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/ftfjp2011.html": {
-    "header": "13th FTfJP@ECOOP 2011: Lancaster, United Kingdom",
-    "year": "2011",
-    "papers": [
-      {
-        "title": "Fractional permissions without the fractions.",
-        "authors": [
-          "Stefan Heule",
-          "K. Rustan M. Leino",
-          "Peter Müller",
-          "Alexander J. Summers"
-        ]
-      },
-      {
-        "title": "A sip of the Chalice.",
-        "authors": [
-          "Azalea Raad",
-          "Sophia Drossopoulou"
-        ]
-      },
-      {
-        "title": "Specification-based sketching with Sketch.",
-        "authors": [
-          "Hesam Samimi",
-          "Kaushik Rajan"
-        ]
-      },
-      {
-        "title": "Harmless compiler plugins.",
-        "authors": [
-          "Nathaniel Nystrom"
-        ]
-      },
-      {
-        "title": "Coinductive big-step operational semantics for type soundness of Java-like languages.",
-        "authors": [
-          "Davide Ancona"
-        ]
-      },
-      {
-        "title": "Guarded type promotion: eliminating redundant casts in Java.",
-        "authors": [
-          "Johnni Winther"
-        ]
-      },
-      {
-        "title": "On the interplay of exception handling and design by contract: an aspect-oriented recovery approach.",
-        "authors": [
-          "Henrique Rebêlo",
-          "Roberta Coelho",
-          "Ricardo M. F. Lima",
-          "Gary T. Leavens",
-          "Marieke Huisman",
-          "Alexandre Mota",
-          "Fernando Castor"
-        ]
-      },
-      {
-        "title": "Verifying traits: a proof system for fine-grained reuse.",
-        "authors": [
-          "Ferruccio Damiani",
-          "Johan Dovland",
-          "Einar Broch Johnsen",
-          "Ina Schaefer"
-        ]
-      },
-      {
-        "title": "Automatic inference of model fields and their representation.",
-        "authors": [
-          "Mihai Balint",
-          "Marius Minea"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/icooolps2010.html": {
-    "header": "5th ICOOOLPS@ECOOP 2010: Maribor, Slovenia",
-    "year": "2010",
-    "papers": [
-      {
-        "title": "Towards a full multiple-inheritance virtual machine.",
-        "authors": [
-          "Roland Ducournau",
-          "Floréal Morandat"
-        ]
-      },
-      {
-        "title": "Empirical assessment of C++-like implementations for multiple inheritance.",
-        "authors": [
-          "Floréal Morandat",
-          "Roland Ducournau"
-        ]
-      },
-      {
-        "title": "Efficient compilation of .NET programs for embedded systems.",
-        "authors": [
-          "Olivier Sallenave",
-          "Roland Ducournau"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/ecoop/ramse2010.html": {
     "header": "7th RAM-SE@ECOOP 2010: Maribor, Slovenia",
     "year": "2010",
@@ -5941,6 +5914,33 @@
         "title": "Extending the model of ObjectTeams/Java programming language to distributed environments.",
         "authors": [
           "Abdullah Odeh Al-Zaghameem"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/icooolps2010.html": {
+    "header": "5th ICOOOLPS@ECOOP 2010: Maribor, Slovenia",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Towards a full multiple-inheritance virtual machine.",
+        "authors": [
+          "Roland Ducournau",
+          "Floréal Morandat"
+        ]
+      },
+      {
+        "title": "Empirical assessment of C++-like implementations for multiple inheritance.",
+        "authors": [
+          "Floréal Morandat",
+          "Roland Ducournau"
+        ]
+      },
+      {
+        "title": "Efficient compilation of .NET programs for embedded systems.",
+        "authors": [
+          "Olivier Sallenave",
+          "Roland Ducournau"
         ]
       }
     ]
@@ -6296,6 +6296,222 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/ecoop/stop2009.html": {
+    "header": "STOP@ECOOP 2009: Genova, Italy",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Blame for all.",
+        "authors": [
+          "Amal Ahmed",
+          "Robert Bruce Findler",
+          "Jacob Matthews",
+          "Philip Wadler"
+        ]
+      },
+      {
+        "title": "Tests to the left of me, types to the right: how not to get stuck in the middle of a ruby execution.",
+        "authors": [
+          "Michael Furr",
+          "Jong-hoon (David) An",
+          "Jeffrey S. Foster",
+          "Michael Hicks"
+        ]
+      },
+      {
+        "title": "Towards gradual typing for generics.",
+        "authors": [
+          "Lintaro Ina",
+          "Atsushi Igarashi"
+        ]
+      },
+      {
+        "title": "Understanding the dynamics of JavaScript.",
+        "authors": [
+          "Sylvain Lebresne",
+          "Gregor Richards",
+          "Johan Östlund",
+          "Tobias Wrigstad",
+          "Jan Vitek"
+        ]
+      },
+      {
+        "title": "Threesomes, with and without blame.",
+        "authors": [
+          "Jeremy G. Siek",
+          "Philip Wadler"
+        ]
+      },
+      {
+        "title": "Cycles without pollution: a gradual typing poem.",
+        "authors": [
+          "Sam Tobin-Hochstadt",
+          "Robert Bruce Findler"
+        ]
+      },
+      {
+        "title": "Software hardening: a research agenda.",
+        "authors": [
+          "Tobias Wrigstad",
+          "Patrick Eugster",
+          "John Field",
+          "Nate Nystrom",
+          "Jan Vitek"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/ramse2009.html": {
+    "header": "6th RAM-SE@ECOOP 2009: Genova, Italy",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Revision classes for explicit versioning.",
+        "authors": [
+          "Susanne Cech Previtali",
+          "Michele Schäuble",
+          "Thomas R. Gross"
+        ]
+      },
+      {
+        "title": "Towards a dynamic-update-enabled JVM.",
+        "authors": [
+          "Allan Raundahl Gregersen",
+          "Douglas Simon",
+          "Bo Nørregaard Jørgensen"
+        ]
+      },
+      {
+        "title": "Detecting unanticipated aspect interferences at runtime with compositional intentions.",
+        "authors": [
+          "Antoine Marot",
+          "Roel Wuyts"
+        ]
+      },
+      {
+        "title": "Using software product lines for runtime interoperability.",
+        "authors": [
+          "Norbert Siegmund",
+          "Mario Pukall",
+          "Michael Soffner",
+          "Veit Köppen",
+          "Gunter Saake"
+        ]
+      },
+      {
+        "title": "Pointcut-based architectural interface for bridging a gap between design and implementation.",
+        "authors": [
+          "Naoyasu Ubayashi",
+          "Hidenori Akatoki",
+          "Jun Nomura"
+        ]
+      },
+      {
+        "title": "Minimize aspect interaction re-evaluation due to software evolution.",
+        "authors": [
+          "Zaid Altahat",
+          "Tzilla Elrad"
+        ]
+      },
+      {
+        "title": "Daileon: a tool for enabling domain annotations.",
+        "authors": [
+          "José Roberto C. Perillo",
+          "Eduardo M. Guerra",
+          "Clovis T. Fernandes"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/icooolps2009.html": {
+    "header": "4th ICOOOLPS@ECOOP 2009: Genova, Italy",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Towards an actor-based concurrent machine model.",
+        "authors": [
+          "Hans Schippers",
+          "Tom Van Cutsem",
+          "Stefan Marr",
+          "Michael Haupt",
+          "Robert Hirschfeld"
+        ]
+      },
+      {
+        "title": "An efficient lock-aware transactional memory implementation.",
+        "authors": [
+          "Justin Emile Gottschlich",
+          "Jeremy G. Siek",
+          "Manish Vachharajani",
+          "Dwight Y. Winkler",
+          "Daniel A. Connors"
+        ]
+      },
+      {
+        "title": "Tracing the meta-level: PyPy's tracing JIT compiler.",
+        "authors": [
+          "Carl Friedrich Bolz",
+          "Antonio Cuni",
+          "Maciej Fijalkowski",
+          "Armin Rigo"
+        ]
+      },
+      {
+        "title": "Faster than C#: efficient implementation of dynamic languages on .NET.",
+        "authors": [
+          "Antonio Cuni",
+          "Davide Ancona",
+          "Armin Rigo"
+        ]
+      },
+      {
+        "title": "Compiling structural types on the JVM: a comparison of reflective and generative techniques from Scala's perspective.",
+        "authors": [
+          "Gilles Dubochet",
+          "Martin Odersky"
+        ]
+      },
+      {
+        "title": "Compiling generics through user-directed type specialization.",
+        "authors": [
+          "Iulian Dragos",
+          "Martin Odersky"
+        ]
+      },
+      {
+        "title": "Thread and execution-context specific barriers via dynamic method versioning.",
+        "authors": [
+          "Simon Wilkinson",
+          "Ian Watson"
+        ]
+      },
+      {
+        "title": "Using program metadata to support SDT in object-oriented applications.",
+        "authors": [
+          "Daniel W. Williams",
+          "Jason D. Hiser",
+          "Jack W. Davidson"
+        ]
+      },
+      {
+        "title": "Automatic vectorization using dynamic compilation and tree pattern matching technique in Jikes RVM.",
+        "authors": [
+          "Sara Elshobaky",
+          "Ahmed El-Mahdy",
+          "Ahmed El-Nahas"
+        ]
+      },
+      {
+        "title": "Just-In-Time compilation on ARM processors.",
+        "authors": [
+          "Michele Tartara",
+          "Simone Campanoni",
+          "Giovanni Agosta",
+          "Stefano Crespi-Reghizzi"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/ecoop/ftfjp2009.html": {
     "header": "11th FTfJP@ECOOP 2009: Genova, Italy",
     "year": "2009",
@@ -6366,90 +6582,6 @@
         "title": "Modelling Java requires state.",
         "authors": [
           "Alexander J. Summers"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/cop2009.html": {
-    "header": "1st COP@ECOOP 2009: Genova, Italy",
-    "year": "2009",
-    "papers": [
-      {
-        "title": "How should context-escaping closures proceed?",
-        "authors": [
-          "Dave Clarke",
-          "Pascal Costanza",
-          "Éric Tanter"
-        ]
-      },
-      {
-        "title": "Declarative definition of contexts with polymorphic events.",
-        "authors": [
-          "Angel Núñez",
-          "Jacques Noyé",
-          "Vaidas Gasiunas"
-        ]
-      },
-      {
-        "title": "Transactional contexts: harnessing the power of context-oriented reflection.",
-        "authors": [
-          "Sebastián González",
-          "Marcus Denker",
-          "Kim Mens"
-        ]
-      },
-      {
-        "title": "Towards safe and flexible object adaptation.",
-        "authors": [
-          "Tetsuo Kamina",
-          "Tetsuo Tamai"
-        ]
-      },
-      {
-        "title": "Improving the development of context-dependent Java applications with ContextJ.",
-        "authors": [
-          "Malte Appeltauer",
-          "Robert Hirschfeld",
-          "Hidehiko Masuhara"
-        ]
-      },
-      {
-        "title": "A comparison of context-oriented programming languages.",
-        "authors": [
-          "Malte Appeltauer",
-          "Robert Hirschfeld",
-          "Michael Haupt",
-          "Jens Lincke",
-          "Michael Perscheid"
-        ]
-      },
-      {
-        "title": "Model driven development of context aware software systems.",
-        "authors": [
-          "Andrea Sindico",
-          "Vincenzo Grassi"
-        ]
-      },
-      {
-        "title": "Towards context-aware propagators: language constructs for context-aware adaptation dependencies.",
-        "authors": [
-          "Engineer Bainomugisha",
-          "Wolfgang De Meuter",
-          "Theo D'Hondt"
-        ]
-      },
-      {
-        "title": "Context-oriented programming with EventJava.",
-        "authors": [
-          "K. R. Jayaram",
-          "Patrick Eugster"
-        ]
-      },
-      {
-        "title": "A semantics for context-oriented programming with layers.",
-        "authors": [
-          "Dave Clarke",
-          "Ilya Sergey"
         ]
       }
     ]
@@ -6686,218 +6818,242 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/icooolps2009.html": {
-    "header": "4th ICOOOLPS@ECOOP 2009: Genova, Italy",
+  "https://dblp.org/db/conf/ecoop/cop2009.html": {
+    "header": "1st COP@ECOOP 2009: Genova, Italy",
     "year": "2009",
     "papers": [
       {
-        "title": "Towards an actor-based concurrent machine model.",
+        "title": "How should context-escaping closures proceed?",
         "authors": [
-          "Hans Schippers",
-          "Tom Van Cutsem",
-          "Stefan Marr",
+          "Dave Clarke",
+          "Pascal Costanza",
+          "Éric Tanter"
+        ]
+      },
+      {
+        "title": "Declarative definition of contexts with polymorphic events.",
+        "authors": [
+          "Angel Núñez",
+          "Jacques Noyé",
+          "Vaidas Gasiunas"
+        ]
+      },
+      {
+        "title": "Transactional contexts: harnessing the power of context-oriented reflection.",
+        "authors": [
+          "Sebastián González",
+          "Marcus Denker",
+          "Kim Mens"
+        ]
+      },
+      {
+        "title": "Towards safe and flexible object adaptation.",
+        "authors": [
+          "Tetsuo Kamina",
+          "Tetsuo Tamai"
+        ]
+      },
+      {
+        "title": "Improving the development of context-dependent Java applications with ContextJ.",
+        "authors": [
+          "Malte Appeltauer",
+          "Robert Hirschfeld",
+          "Hidehiko Masuhara"
+        ]
+      },
+      {
+        "title": "A comparison of context-oriented programming languages.",
+        "authors": [
+          "Malte Appeltauer",
+          "Robert Hirschfeld",
           "Michael Haupt",
-          "Robert Hirschfeld"
+          "Jens Lincke",
+          "Michael Perscheid"
         ]
       },
       {
-        "title": "An efficient lock-aware transactional memory implementation.",
+        "title": "Model driven development of context aware software systems.",
         "authors": [
-          "Justin Emile Gottschlich",
-          "Jeremy G. Siek",
-          "Manish Vachharajani",
-          "Dwight Y. Winkler",
-          "Daniel A. Connors"
+          "Andrea Sindico",
+          "Vincenzo Grassi"
         ]
       },
       {
-        "title": "Tracing the meta-level: PyPy's tracing JIT compiler.",
+        "title": "Towards context-aware propagators: language constructs for context-aware adaptation dependencies.",
         "authors": [
-          "Carl Friedrich Bolz",
-          "Antonio Cuni",
-          "Maciej Fijalkowski",
-          "Armin Rigo"
+          "Engineer Bainomugisha",
+          "Wolfgang De Meuter",
+          "Theo D'Hondt"
         ]
       },
       {
-        "title": "Faster than C#: efficient implementation of dynamic languages on .NET.",
+        "title": "Context-oriented programming with EventJava.",
         "authors": [
-          "Antonio Cuni",
-          "Davide Ancona",
-          "Armin Rigo"
+          "K. R. Jayaram",
+          "Patrick Eugster"
         ]
       },
       {
-        "title": "Compiling structural types on the JVM: a comparison of reflective and generative techniques from Scala's perspective.",
+        "title": "A semantics for context-oriented programming with layers.",
         "authors": [
-          "Gilles Dubochet",
-          "Martin Odersky"
-        ]
-      },
-      {
-        "title": "Compiling generics through user-directed type specialization.",
-        "authors": [
-          "Iulian Dragos",
-          "Martin Odersky"
-        ]
-      },
-      {
-        "title": "Thread and execution-context specific barriers via dynamic method versioning.",
-        "authors": [
-          "Simon Wilkinson",
-          "Ian Watson"
-        ]
-      },
-      {
-        "title": "Using program metadata to support SDT in object-oriented applications.",
-        "authors": [
-          "Daniel W. Williams",
-          "Jason D. Hiser",
-          "Jack W. Davidson"
-        ]
-      },
-      {
-        "title": "Automatic vectorization using dynamic compilation and tree pattern matching technique in Jikes RVM.",
-        "authors": [
-          "Sara Elshobaky",
-          "Ahmed El-Mahdy",
-          "Ahmed El-Nahas"
-        ]
-      },
-      {
-        "title": "Just-In-Time compilation on ARM processors.",
-        "authors": [
-          "Michele Tartara",
-          "Simone Campanoni",
-          "Giovanni Agosta",
-          "Stefano Crespi-Reghizzi"
+          "Dave Clarke",
+          "Ilya Sergey"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/ramse2009.html": {
-    "header": "6th RAM-SE@ECOOP 2009: Genova, Italy",
-    "year": "2009",
+  "https://dblp.org/db/conf/ecoopw/ecoopw2008.html": {
+    "header": "ECOOP Workshops 2008: Paphos, Cyprus",
+    "year": "2008",
     "papers": [
       {
-        "title": "Revision classes for explicit versioning.",
+        "title": "Lisp.",
         "authors": [
-          "Susanne Cech Previtali",
-          "Michele Schäuble",
-          "Thomas R. Gross"
+          "Didier Verna",
+          "Charlotte Herzeel",
+          "Christophe Rhodes",
+          "Hans Hübner"
         ]
       },
       {
-        "title": "Towards a dynamic-update-enabled JVM.",
+        "title": "Multiparadigm Programming in Object-Oriented Languages: Current Research.",
         "authors": [
-          "Allan Raundahl Gregersen",
-          "Douglas Simon",
-          "Bo Nørregaard Jørgensen"
+          "Jörg Striegnitz",
+          "Kei Davis"
         ]
       },
       {
-        "title": "Detecting unanticipated aspect interferences at runtime with compositional intentions.",
+        "title": "Equation-Based Object-Oriented Languages and Tools.",
         "authors": [
-          "Antoine Marot",
-          "Roel Wuyts"
+          "Peter Fritzson",
+          "David Broman",
+          "François E. Cellier"
         ]
       },
       {
-        "title": "Using software product lines for runtime interoperability.",
+        "title": "Aliasing, Confinement, and Ownership in Object-Oriented Programming.",
         "authors": [
-          "Norbert Siegmund",
-          "Mario Pukall",
-          "Michael Soffner",
-          "Veit Köppen",
+          "Dave Clarke",
+          "Sophia Drossopoulou",
+          "Peter Müller",
+          "James Noble",
+          "Tobias Wrigstad"
+        ]
+      },
+      {
+        "title": "Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems.",
+        "authors": [
+          "Eric Jul",
+          "Ian Rogers"
+        ]
+      },
+      {
+        "title": "Aspects, Dependencies and Interactions.",
+        "authors": [
+          "Frans Sanen",
+          "Katharina Mehner",
+          "Ruzanna Chitchyan",
+          "Lodewijk Bergmans",
+          "Johan Fabry",
+          "Mario Südholt"
+        ]
+      },
+      {
+        "title": "Getting Farther on Software Evolution via AOP and Reflection.",
+        "authors": [
+          "Manuel Oriol",
+          "Walter Cazzola",
+          "Shigeru Chiba",
           "Gunter Saake"
         ]
       },
       {
-        "title": "Pointcut-based architectural interface for bridging a gap between design and implementation.",
+        "title": "Formal Techniques for Java-Like Programs.",
         "authors": [
-          "Naoyasu Ubayashi",
-          "Hidenori Akatoki",
-          "Jun Nomura"
+          "Elvira Albert",
+          "Anindya Banerjee",
+          "Sophia Drossopoulou",
+          "Marieke Huisman",
+          "Atsushi Igarashi",
+          "Gary T. Leavens",
+          "Peter Müller",
+          "Tobias Wrigstad"
         ]
       },
       {
-        "title": "Minimize aspect interaction re-evaluation due to software evolution.",
+        "title": "Quantitative Approaches in Object-Oriented Software Engineering.",
         "authors": [
-          "Zaid Altahat",
-          "Tzilla Elrad"
+          "Giovanni Falcone",
+          "Yann-Gaël Guéhéneuc",
+          "Christian F. J. Lange",
+          "Zoltán Porkoláb",
+          "Houari A. Sahraoui"
         ]
       },
       {
-        "title": "Daileon: a tool for enabling domain annotations.",
+        "title": "Academic Software Development Tools and Techniques.",
         "authors": [
-          "José Roberto C. Perillo",
-          "Eduardo M. Guerra",
-          "Clovis T. Fernandes"
+          "Roel Wuyts",
+          "Holger M. Kienle",
+          "Kim Mens",
+          "Mark van den Brand",
+          "Adrian Kuhn"
+        ]
+      },
+      {
+        "title": "Parallel/High-Performance Object-Oriented Scientific Computing: Today's Research, Tomorrow's Practice.",
+        "authors": [
+          "Kei Davis",
+          "Jörg Striegnitz"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/stop2009.html": {
-    "header": "STOP@ECOOP 2009: Genova, Italy",
-    "year": "2009",
+  "https://dblp.org/db/conf/ecoop/ramse2008.html": {
+    "header": "RAM-SE / ECOOP 2008: Paphos, Cyprus",
+    "year": "2008",
     "papers": [
       {
-        "title": "Blame for all.",
+        "title": "A Case Study for Aspect Based Updating.",
         "authors": [
-          "Amal Ahmed",
-          "Robert Bruce Findler",
-          "Jacob Matthews",
-          "Philip Wadler"
+          "Susanne Cech Previtali",
+          "Thomas R. Gross"
         ]
       },
       {
-        "title": "Tests to the left of me, types to the right: how not to get stuck in the middle of a ruby execution.",
+        "title": "Runtime Adaptations within the QuaD2-Framework.",
         "authors": [
-          "Michael Furr",
-          "Jong-hoon (David) An",
-          "Jeffrey S. Foster",
-          "Michael Hicks"
+          "Steffen Mencke",
+          "Martin Kunz",
+          "Mario Pukall"
         ]
       },
       {
-        "title": "Towards gradual typing for generics.",
+        "title": "Modeling Context-Dependent Aspect Interference Using Default Logics.",
         "authors": [
-          "Lintaro Ina",
-          "Atsushi Igarashi"
+          "Frans Sanen",
+          "Eddy Truyen",
+          "Wouter Joosen"
         ]
       },
       {
-        "title": "Understanding the dynamics of JavaScript.",
+        "title": "Exploring Role Based Adaptation.",
         "authors": [
-          "Sylvain Lebresne",
-          "Gregor Richards",
-          "Johan Östlund",
-          "Tobias Wrigstad",
-          "Jan Vitek"
+          "Sebastian Goetz",
+          "Ilie Savga"
         ]
       },
       {
-        "title": "Threesomes, with and without blame.",
+        "title": "Annotations for Seamless Aspect Based SW Evolution.",
         "authors": [
-          "Jeremy G. Siek",
-          "Philip Wadler"
+          "Susanne Cech Previtali",
+          "Thomas R. Gross"
         ]
       },
       {
-        "title": "Cycles without pollution: a gradual typing poem.",
+        "title": "Object Roles and Runtime Adaptation in Java.",
         "authors": [
-          "Sam Tobin-Hochstadt",
-          "Robert Bruce Findler"
-        ]
-      },
-      {
-        "title": "Software hardening: a research agenda.",
-        "authors": [
-          "Tobias Wrigstad",
-          "Patrick Eugster",
-          "John Field",
-          "Nate Nystrom",
-          "Jan Vitek"
+          "Mario Pukall"
         ]
       }
     ]
@@ -7129,81 +7285,44 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/ramse2008.html": {
-    "header": "RAM-SE / ECOOP 2008: Paphos, Cyprus",
-    "year": "2008",
-    "papers": [
-      {
-        "title": "A Case Study for Aspect Based Updating.",
-        "authors": [
-          "Susanne Cech Previtali",
-          "Thomas R. Gross"
-        ]
-      },
-      {
-        "title": "Runtime Adaptations within the QuaD2-Framework.",
-        "authors": [
-          "Steffen Mencke",
-          "Martin Kunz",
-          "Mario Pukall"
-        ]
-      },
-      {
-        "title": "Modeling Context-Dependent Aspect Interference Using Default Logics.",
-        "authors": [
-          "Frans Sanen",
-          "Eddy Truyen",
-          "Wouter Joosen"
-        ]
-      },
-      {
-        "title": "Exploring Role Based Adaptation.",
-        "authors": [
-          "Sebastian Goetz",
-          "Ilie Savga"
-        ]
-      },
-      {
-        "title": "Annotations for Seamless Aspect Based SW Evolution.",
-        "authors": [
-          "Susanne Cech Previtali",
-          "Thomas R. Gross"
-        ]
-      },
-      {
-        "title": "Object Roles and Runtime Adaptation in Java.",
-        "authors": [
-          "Mario Pukall"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoopw/ecoopw2008.html": {
-    "header": "ECOOP Workshops 2008: Paphos, Cyprus",
-    "year": "2008",
+  "https://dblp.org/db/conf/ecoopw/ecoopw2007.html": {
+    "header": "ECOOP Workshops 2007: Berlin, Germany",
+    "year": "2007",
     "papers": [
       {
         "title": "Lisp.",
         "authors": [
-          "Didier Verna",
-          "Charlotte Herzeel",
           "Christophe Rhodes",
+          "Pascal Costanza",
+          "Theo D'Hondt",
+          "Arthur Lemmens",
           "Hans Hübner"
+        ]
+      },
+      {
+        "title": "Dynamic Languages and Applications.",
+        "authors": [
+          "Alexandre Bergel",
+          "Wolfgang De Meuter",
+          "Stéphane Ducasse",
+          "Oscar Nierstrasz",
+          "Roel Wuyts"
         ]
       },
       {
         "title": "Multiparadigm Programming in Object-Oriented Languages: Current Research.",
         "authors": [
-          "Jörg Striegnitz",
-          "Kei Davis"
+          "Kei Davis",
+          "Jörg Striegnitz"
         ]
       },
       {
-        "title": "Equation-Based Object-Oriented Languages and Tools.",
+        "title": "Equation-Based Object-Oriented Languages and Tools Report on the Workshop EOOLT 2007 at ECOOP 2007.",
         "authors": [
           "Peter Fritzson",
           "David Broman",
-          "François E. Cellier"
+          "François E. Cellier",
+          "Christoph Nytsch-Geusen"
         ]
       },
       {
@@ -7211,7 +7330,6 @@
         "authors": [
           "Dave Clarke",
           "Sophia Drossopoulou",
-          "Peter Müller",
           "James Noble",
           "Tobias Wrigstad"
         ]
@@ -7219,68 +7337,139 @@
       {
         "title": "Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems.",
         "authors": [
+          "Olivier Zendra",
           "Eric Jul",
-          "Ian Rogers"
+          "Roland Ducournau",
+          "Etienne Gagnon",
+          "Richard E. Jones",
+          "Chandra Krintz",
+          "Philippe Mulet",
+          "Jan Vitek"
+        ]
+      },
+      {
+        "title": "Models and Aspects - Handling Crosscutting Concerns in MDSD.",
+        "authors": [
+          "Andrew Jackson",
+          "Iris Groher",
+          "Christa Schwanninger",
+          "Markus Völter"
         ]
       },
       {
         "title": "Aspects, Dependencies and Interactions.",
         "authors": [
           "Frans Sanen",
-          "Katharina Mehner",
           "Ruzanna Chitchyan",
           "Lodewijk Bergmans",
           "Johan Fabry",
-          "Mario Südholt"
+          "Mario Südholt",
+          "Katharina Mehner"
         ]
       },
       {
-        "title": "Getting Farther on Software Evolution via AOP and Reflection.",
+        "title": "Enabling Software Evolution Via AOP and Reflection.",
         "authors": [
           "Manuel Oriol",
           "Walter Cazzola",
           "Shigeru Chiba",
-          "Gunter Saake"
+          "Gunter Saake",
+          "Yvonne Coady",
+          "Stéphane Ducasse",
+          "Günter Kniesel"
         ]
       },
       {
         "title": "Formal Techniques for Java-Like Programs.",
         "authors": [
-          "Elvira Albert",
-          "Anindya Banerjee",
-          "Sophia Drossopoulou",
-          "Marieke Huisman",
-          "Atsushi Igarashi",
+          "John Boyland",
+          "Dave Clarke",
           "Gary T. Leavens",
-          "Peter Müller",
-          "Tobias Wrigstad"
+          "Francesco Logozzo",
+          "Arnd Poetzsch-Heffter"
+        ]
+      },
+      {
+        "title": "Roles and Relationships in Object-Oriented Programming, Multiagent Systems and Ontologies.",
+        "authors": [
+          "Guido Boella",
+          "Friedrich Steimann"
+        ]
+      },
+      {
+        "title": "Component-Oriented Programming.",
+        "authors": [
+          "Wolfgang Weck",
+          "Ralf H. Reussner",
+          "Clemens A. Szyperski"
+        ]
+      },
+      {
+        "title": "Model-Driven Software Adaptation.",
+        "authors": [
+          "Nelly Bencomo",
+          "Gordon S. Blair",
+          "Robert B. France"
+        ]
+      },
+      {
+        "title": "Object-Oriented Reengineering.",
+        "authors": [
+          "Serge Demeyer",
+          "Yann-Gaël Guéhéneuc",
+          "Anne Keller",
+          "Christian F. J. Lange",
+          "Kim Mens",
+          "Adrian Kuhn",
+          "Martin Kuhlemann"
+        ]
+      },
+      {
+        "title": "Practical Approaches for Software Adaptation.",
+        "authors": [
+          "Carlos Canal",
+          "Juan Manuel Murillo",
+          "Pascal Poizat"
         ]
       },
       {
         "title": "Quantitative Approaches in Object-Oriented Software Engineering.",
         "authors": [
-          "Giovanni Falcone",
           "Yann-Gaël Guéhéneuc",
           "Christian F. J. Lange",
-          "Zoltán Porkoláb",
-          "Houari A. Sahraoui"
+          "Houari A. Sahraoui",
+          "Giovanni Falcone",
+          "Michele Lanza",
+          "Coral Calero",
+          "Fernando Brito e Abreu"
         ]
       },
       {
-        "title": "Academic Software Development Tools and Techniques.",
+        "title": "Object Technology for Ambient Intelligence and Pervasive Computing.",
         "authors": [
-          "Roel Wuyts",
-          "Holger M. Kienle",
-          "Kim Mens",
-          "Mark van den Brand",
-          "Adrian Kuhn"
+          "Jessie Dedecker",
+          "Éric Tanter",
+          "Holger Mügge",
+          "Cristina Videira Lopes"
         ]
       },
       {
-        "title": "Parallel/High-Performance Object-Oriented Scientific Computing: Today's Research, Tomorrow's Practice.",
+        "title": "Pedagogies and Tools for the Teaching and Learning of Object Oriented Concepts.",
         "authors": [
-          "Kei Davis",
-          "Jörg Striegnitz"
+          "Jürgen Börstler",
+          "Irit Hadar"
+        ]
+      },
+      {
+        "title": "Refactoring Tools.",
+        "authors": [
+          "Danny Dig",
+          "Ralph E. Johnson",
+          "Frank Tip",
+          "Oege de Moor",
+          "Jan Becicka",
+          "William G. Griswold",
+          "Markus Keller"
         ]
       }
     ]
@@ -7540,191 +7729,73 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoopw/ecoopw2007.html": {
-    "header": "ECOOP Workshops 2007: Berlin, Germany",
+  "https://dblp.org/db/conf/ecoop/ramse2007.html": {
+    "header": "RAM-SE / ECOOP 2007: Berlin, Germany",
     "year": "2007",
     "papers": [
       {
-        "title": "Lisp.",
+        "title": "How We Should Use Aspects.",
         "authors": [
-          "Christophe Rhodes",
-          "Pascal Costanza",
-          "Theo D'Hondt",
-          "Arthur Lemmens",
-          "Hans Hübner"
+          "Shigeru Chiba"
         ]
       },
       {
-        "title": "Dynamic Languages and Applications.",
+        "title": "Toward Computer-Aided Usability Evaluation Evolving Interactive Software.",
         "authors": [
-          "Alexandre Bergel",
-          "Wolfgang De Meuter",
-          "Stéphane Ducasse",
-          "Oscar Nierstrasz",
-          "Roel Wuyts"
+          "Yonglei Tao"
         ]
       },
       {
-        "title": "Multiparadigm Programming in Object-Oriented Languages: Current Research.",
+        "title": "Towards Runtime Adaptation in a SOA Environment.",
         "authors": [
-          "Kei Davis",
-          "Jörg Striegnitz"
+          "Florian Irmert",
+          "Marcus Meyerhöfer",
+          "Markus Weiten"
         ]
       },
       {
-        "title": "Equation-Based Object-Oriented Languages and Tools Report on the Workshop EOOLT 2007 at ECOOP 2007.",
+        "title": "IDE-integrated Support for Schema Evolution in Object-Oriented Applications.",
         "authors": [
-          "Peter Fritzson",
-          "David Broman",
-          "François E. Cellier",
-          "Christoph Nytsch-Geusen"
-        ]
-      },
-      {
-        "title": "Aliasing, Confinement, and Ownership in Object-Oriented Programming.",
-        "authors": [
-          "Dave Clarke",
-          "Sophia Drossopoulou",
-          "James Noble",
-          "Tobias Wrigstad"
-        ]
-      },
-      {
-        "title": "Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems.",
-        "authors": [
-          "Olivier Zendra",
-          "Eric Jul",
-          "Roland Ducournau",
-          "Etienne Gagnon",
-          "Richard E. Jones",
-          "Chandra Krintz",
-          "Philippe Mulet",
-          "Jan Vitek"
-        ]
-      },
-      {
-        "title": "Models and Aspects - Handling Crosscutting Concerns in MDSD.",
-        "authors": [
-          "Andrew Jackson",
-          "Iris Groher",
-          "Christa Schwanninger",
-          "Markus Völter"
-        ]
-      },
-      {
-        "title": "Aspects, Dependencies and Interactions.",
-        "authors": [
-          "Frans Sanen",
-          "Ruzanna Chitchyan",
-          "Lodewijk Bergmans",
-          "Johan Fabry",
-          "Mario Südholt",
-          "Katharina Mehner"
-        ]
-      },
-      {
-        "title": "Enabling Software Evolution Via AOP and Reflection.",
-        "authors": [
+          "Marco Piccioni",
           "Manuel Oriol",
-          "Walter Cazzola",
-          "Shigeru Chiba",
-          "Gunter Saake",
-          "Yvonne Coady",
-          "Stéphane Ducasse",
-          "Günter Kniesel"
+          "Bertrand Meyer"
         ]
       },
       {
-        "title": "Formal Techniques for Java-Like Programs.",
+        "title": "Towards correct evolution of components using VPA-based aspects.",
         "authors": [
-          "John Boyland",
-          "Dave Clarke",
-          "Gary T. Leavens",
-          "Francesco Logozzo",
-          "Arnd Poetzsch-Heffter"
+          "Dong Ha Nguyen",
+          "Mario Südholt"
         ]
       },
       {
-        "title": "Roles and Relationships in Object-Oriented Programming, Multiagent Systems and Ontologies.",
+        "title": "Characteristics of Runtime Program Evolution.",
         "authors": [
-          "Guido Boella",
-          "Friedrich Steimann"
-        ]
-      },
-      {
-        "title": "Component-Oriented Programming.",
-        "authors": [
-          "Wolfgang Weck",
-          "Ralf H. Reussner",
-          "Clemens A. Szyperski"
-        ]
-      },
-      {
-        "title": "Model-Driven Software Adaptation.",
-        "authors": [
-          "Nelly Bencomo",
-          "Gordon S. Blair",
-          "Robert B. France"
-        ]
-      },
-      {
-        "title": "Object-Oriented Reengineering.",
-        "authors": [
-          "Serge Demeyer",
-          "Yann-Gaël Guéhéneuc",
-          "Anne Keller",
-          "Christian F. J. Lange",
-          "Kim Mens",
-          "Adrian Kuhn",
+          "Mario Pukall",
           "Martin Kuhlemann"
         ]
       },
       {
-        "title": "Practical Approaches for Software Adaptation.",
+        "title": "Aspect-Based Introspection and Change Analysis for Evolving Programs.",
         "authors": [
-          "Carlos Canal",
-          "Juan Manuel Murillo",
-          "Pascal Poizat"
+          "Kevin J. Hoffman",
+          "Murali Krishna Ramanathan",
+          "Patrick Eugster",
+          "Suresh Jagannathan"
         ]
       },
       {
-        "title": "Quantitative Approaches in Object-Oriented Software Engineering.",
+        "title": "Morphing Software for Easier Evolution.",
         "authors": [
-          "Yann-Gaël Guéhéneuc",
-          "Christian F. J. Lange",
-          "Houari A. Sahraoui",
-          "Giovanni Falcone",
-          "Michele Lanza",
-          "Coral Calero",
-          "Fernando Brito e Abreu"
+          "Shan Shan Huang",
+          "Yannis Smaragdakis"
         ]
       },
       {
-        "title": "Object Technology for Ambient Intelligence and Pervasive Computing.",
+        "title": "AOP vs Software Evolution: a Score in Favor of the Blueprint.",
         "authors": [
-          "Jessie Dedecker",
-          "Éric Tanter",
-          "Holger Mügge",
-          "Cristina Videira Lopes"
-        ]
-      },
-      {
-        "title": "Pedagogies and Tools for the Teaching and Learning of Object Oriented Concepts.",
-        "authors": [
-          "Jürgen Börstler",
-          "Irit Hadar"
-        ]
-      },
-      {
-        "title": "Refactoring Tools.",
-        "authors": [
-          "Danny Dig",
-          "Ralph E. Johnson",
-          "Frank Tip",
-          "Oege de Moor",
-          "Jan Becicka",
-          "William G. Griswold",
-          "Markus Keller"
+          "Walter Cazzola",
+          "Sonia Pini"
         ]
       }
     ]
@@ -7956,286 +8027,67 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/ramse2007.html": {
-    "header": "RAM-SE / ECOOP 2007: Berlin, Germany",
-    "year": "2007",
-    "papers": [
-      {
-        "title": "How We Should Use Aspects.",
-        "authors": [
-          "Shigeru Chiba"
-        ]
-      },
-      {
-        "title": "Toward Computer-Aided Usability Evaluation Evolving Interactive Software.",
-        "authors": [
-          "Yonglei Tao"
-        ]
-      },
-      {
-        "title": "Towards Runtime Adaptation in a SOA Environment.",
-        "authors": [
-          "Florian Irmert",
-          "Marcus Meyerhöfer",
-          "Markus Weiten"
-        ]
-      },
-      {
-        "title": "IDE-integrated Support for Schema Evolution in Object-Oriented Applications.",
-        "authors": [
-          "Marco Piccioni",
-          "Manuel Oriol",
-          "Bertrand Meyer"
-        ]
-      },
-      {
-        "title": "Towards correct evolution of components using VPA-based aspects.",
-        "authors": [
-          "Dong Ha Nguyen",
-          "Mario Südholt"
-        ]
-      },
-      {
-        "title": "Characteristics of Runtime Program Evolution.",
-        "authors": [
-          "Mario Pukall",
-          "Martin Kuhlemann"
-        ]
-      },
-      {
-        "title": "Aspect-Based Introspection and Change Analysis for Evolving Programs.",
-        "authors": [
-          "Kevin J. Hoffman",
-          "Murali Krishna Ramanathan",
-          "Patrick Eugster",
-          "Suresh Jagannathan"
-        ]
-      },
-      {
-        "title": "Morphing Software for Easier Evolution.",
-        "authors": [
-          "Shan Shan Huang",
-          "Yannis Smaragdakis"
-        ]
-      },
-      {
-        "title": "AOP vs Software Evolution: a Score in Favor of the Blueprint.",
-        "authors": [
-          "Walter Cazzola",
-          "Sonia Pini"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/ecoop2006.html": {
-    "header": "20th ECOOP 2006: Nantes, France",
+  "https://dblp.org/db/journals/entcs/entcs189.html": {
+    "header": "3rd WCAT@ECOOP 2006: Nantes, France",
     "year": "2006",
     "papers": [
       {
-        "title": "Design Patterns - 15 Years Later.",
+        "title": "Preface.",
         "authors": [
-          "Erich Gamma"
+          "Steffen Becker",
+          "Carlos Canal",
+          "Nikolay Diakov",
+          "Juan Manuel Murillo",
+          "Pascal Poizat",
+          "Massimo Tivoli"
         ]
       },
       {
-        "title": "codeQuest:  Scalable Source Code Queries with Datalog.",
+        "title": "Adaptation for Hierarchical Components and Services.",
         "authors": [
-          "Elnar Hajiyev",
-          "Mathieu Verbaere",
-          "Oege de Moor"
+          "Pascal André",
+          "Gilles Ardourel",
+          "J. Christian Attiogbé"
         ]
       },
       {
-        "title": "Efficient Object Querying for Java.",
+        "title": "An Aspect-Oriented Adaptation Framework for Dynamic Component Evolution.",
         "authors": [
-          "Darren Willis",
-          "David J. Pearce",
-          "James Noble"
+          "Javier Cámara",
+          "Carlos Canal",
+          "Javier Cubo",
+          "Juan Manuel Murillo"
         ]
       },
       {
-        "title": "Automatic Prefetching by Traversal Profiling in Object Persistence Architectures.",
+        "title": "Autonomic Adaptation solution based on Service-Context Adequacy Determination.",
         "authors": [
-          "Ali Ibrahim",
-          "William R. Cook"
+          "Marcel Cremene",
+          "Michel Riveill",
+          "Christian Martel"
         ]
       },
       {
-        "title": "The Runtime Structure of Object Ownership.",
+        "title": "Towards Software Component Procurement Automation with Latent Semantic Analysis.",
         "authors": [
-          "Nick Mitchell"
+          "Hans-Gerhard Groß",
+          "Marco Lormans",
+          "Jun Zhou"
         ]
       },
       {
-        "title": "On Ownership and Accessibility.",
+        "title": "Safe Adaptation of Component Coordination.",
         "authors": [
-          "Yi Lu",
-          "John Potter"
+          "Christophe Sibertin-Blanc",
+          "Philippe Mauran",
+          "Gérard Padiou"
         ]
       },
       {
-        "title": "Scoped Types and Aspects for Real-Time Java.",
+        "title": "Aspect-Oriented Coordination.",
         "authors": [
-          "Chris Andreae",
-          "Yvonne Coady",
-          "Celina Gibbs",
-          "James Noble",
-          "Jan Vitek",
-          "Tian Zhao"
-        ]
-      },
-      {
-        "title": "Transparently Reconciling Transactions with Locking for Java Synchronization.",
-        "authors": [
-          "Adam Welc",
-          "Antony L. Hosking",
-          "Suresh Jagannathan"
-        ]
-      },
-      {
-        "title": "Object Technology - A Grand Narrative?",
-        "authors": [
-          "Steve Cook"
-        ]
-      },
-      {
-        "title": "Peak Objects.",
-        "authors": [
-          "William R. Cook"
-        ]
-      },
-      {
-        "title": "From ECOOP'87 to ECOOP 2006 and Beyond.",
-        "authors": [
-          "Ole Lehrmann Madsen"
-        ]
-      },
-      {
-        "title": "The Continuing Quest for Abstraction.",
-        "authors": [
-          "Henry Lieberman"
-        ]
-      },
-      {
-        "title": "Early Concurrent/Mobile Objects.",
-        "authors": [
-          "Akinori Yonezawa"
-        ]
-      },
-      {
-        "title": "Turning the Network into a Database with Active XML.",
-        "authors": [
-          "Serge Abiteboul"
-        ]
-      },
-      {
-        "title": "SuperGlue: Component Programming with Object-Oriented Signals.",
-        "authors": [
-          "Sean McDirmid",
-          "Wilson C. Hsieh"
-        ]
-      },
-      {
-        "title": "Ambient-Oriented Programming in AmbientTalk.",
-        "authors": [
-          "Jessie Dedecker",
-          "Tom Van Cutsem",
-          "Stijn Mostinckx",
-          "Theo D'Hondt",
-          "Wolfgang De Meuter"
-        ]
-      },
-      {
-        "title": "Responders: Language Support for Interactive Applications.",
-        "authors": [
-          "Brian Chin",
-          "Todd D. Millstein"
-        ]
-      },
-      {
-        "title": "Variance and Generalized Constraints for C# Generics.",
-        "authors": [
-          "Burak Emir",
-          "Andrew Kennedy",
-          "Claudio V. Russo",
-          "Dachuan Yu"
-        ]
-      },
-      {
-        "title": "A Semantic Analysis of C++ Templates.",
-        "authors": [
-          "Jeremy G. Siek",
-          "Walid Taha"
-        ]
-      },
-      {
-        "title": "Session Types for Object-Oriented Languages.",
-        "authors": [
-          "Mariangiola Dezani-Ciancaglini",
-          "Dimitris Mostrous",
-          "Nobuko Yoshida",
-          "Sophia Drossopoulou"
-        ]
-      },
-      {
-        "title": "Parameterized Modules for Classes and Extensible Functions.",
-        "authors": [
-          "Keunwoo Lee",
-          "Craig Chambers"
-        ]
-      },
-      {
-        "title": "The Closing of the Frontier.",
-        "authors": [
-          "Ralph E. Johnson"
-        ]
-      },
-      {
-        "title": "Augmenting Automatically Generated Unit-Test Suites with Regression Oracle Checking.",
-        "authors": [
-          "Tao Xie"
-        ]
-      },
-      {
-        "title": "Automated Detection of Refactorings in Evolving Components.",
-        "authors": [
-          "Danny Dig",
-          "Can Comertoglu",
-          "Darko Marinov",
-          "Ralph E. Johnson"
-        ]
-      },
-      {
-        "title": "Modeling Runtime Behavior in Framework-Based Applications.",
-        "authors": [
-          "Nick Mitchell",
-          "Gary Sevitsky",
-          "Harini Srinivasan"
-        ]
-      },
-      {
-        "title": "Modular Software Upgrades for Distributed Systems.",
-        "authors": [
-          "Sameer Ajmani",
-          "Barbara Liskov",
-          "Liuba Shrira"
-        ]
-      },
-      {
-        "title": "Demeter Interfaces: Adaptive Programming Without Surprises.",
-        "authors": [
-          "Therapon Skotiniotis",
-          "Jeffrey Palm",
-          "Karl J. Lieberherr"
-        ]
-      },
-      {
-        "title": "Managing the Evolution of Aspect-Oriented Software with Model-Based Pointcuts.",
-        "authors": [
-          "Andy Kellens",
-          "Kim Mens",
-          "Johan Brichau",
-          "Kris Gybels"
+          "Lidia Fuentes",
+          "Pablo Sánchez"
         ]
       }
     ]
@@ -8602,67 +8454,291 @@
       }
     ]
   },
-  "https://dblp.org/db/journals/entcs/entcs189.html": {
-    "header": "3rd WCAT@ECOOP 2006: Nantes, France",
+  "https://dblp.org/db/conf/ecoop/ecoop2006.html": {
+    "header": "20th ECOOP 2006: Nantes, France",
     "year": "2006",
     "papers": [
       {
-        "title": "Preface.",
+        "title": "Design Patterns - 15 Years Later.",
         "authors": [
-          "Steffen Becker",
-          "Carlos Canal",
-          "Nikolay Diakov",
-          "Juan Manuel Murillo",
-          "Pascal Poizat",
-          "Massimo Tivoli"
+          "Erich Gamma"
         ]
       },
       {
-        "title": "Adaptation for Hierarchical Components and Services.",
+        "title": "codeQuest:  Scalable Source Code Queries with Datalog.",
         "authors": [
-          "Pascal André",
-          "Gilles Ardourel",
-          "J. Christian Attiogbé"
+          "Elnar Hajiyev",
+          "Mathieu Verbaere",
+          "Oege de Moor"
         ]
       },
       {
-        "title": "An Aspect-Oriented Adaptation Framework for Dynamic Component Evolution.",
+        "title": "Efficient Object Querying for Java.",
         "authors": [
-          "Javier Cámara",
-          "Carlos Canal",
-          "Javier Cubo",
-          "Juan Manuel Murillo"
+          "Darren Willis",
+          "David J. Pearce",
+          "James Noble"
         ]
       },
       {
-        "title": "Autonomic Adaptation solution based on Service-Context Adequacy Determination.",
+        "title": "Automatic Prefetching by Traversal Profiling in Object Persistence Architectures.",
         "authors": [
-          "Marcel Cremene",
-          "Michel Riveill",
-          "Christian Martel"
+          "Ali Ibrahim",
+          "William R. Cook"
         ]
       },
       {
-        "title": "Towards Software Component Procurement Automation with Latent Semantic Analysis.",
+        "title": "The Runtime Structure of Object Ownership.",
         "authors": [
-          "Hans-Gerhard Groß",
-          "Marco Lormans",
-          "Jun Zhou"
+          "Nick Mitchell"
         ]
       },
       {
-        "title": "Safe Adaptation of Component Coordination.",
+        "title": "On Ownership and Accessibility.",
         "authors": [
-          "Christophe Sibertin-Blanc",
-          "Philippe Mauran",
-          "Gérard Padiou"
+          "Yi Lu",
+          "John Potter"
         ]
       },
       {
-        "title": "Aspect-Oriented Coordination.",
+        "title": "Scoped Types and Aspects for Real-Time Java.",
         "authors": [
-          "Lidia Fuentes",
-          "Pablo Sánchez"
+          "Chris Andreae",
+          "Yvonne Coady",
+          "Celina Gibbs",
+          "James Noble",
+          "Jan Vitek",
+          "Tian Zhao"
+        ]
+      },
+      {
+        "title": "Transparently Reconciling Transactions with Locking for Java Synchronization.",
+        "authors": [
+          "Adam Welc",
+          "Antony L. Hosking",
+          "Suresh Jagannathan"
+        ]
+      },
+      {
+        "title": "Object Technology - A Grand Narrative?",
+        "authors": [
+          "Steve Cook"
+        ]
+      },
+      {
+        "title": "Peak Objects.",
+        "authors": [
+          "William R. Cook"
+        ]
+      },
+      {
+        "title": "From ECOOP'87 to ECOOP 2006 and Beyond.",
+        "authors": [
+          "Ole Lehrmann Madsen"
+        ]
+      },
+      {
+        "title": "The Continuing Quest for Abstraction.",
+        "authors": [
+          "Henry Lieberman"
+        ]
+      },
+      {
+        "title": "Early Concurrent/Mobile Objects.",
+        "authors": [
+          "Akinori Yonezawa"
+        ]
+      },
+      {
+        "title": "Turning the Network into a Database with Active XML.",
+        "authors": [
+          "Serge Abiteboul"
+        ]
+      },
+      {
+        "title": "SuperGlue: Component Programming with Object-Oriented Signals.",
+        "authors": [
+          "Sean McDirmid",
+          "Wilson C. Hsieh"
+        ]
+      },
+      {
+        "title": "Ambient-Oriented Programming in AmbientTalk.",
+        "authors": [
+          "Jessie Dedecker",
+          "Tom Van Cutsem",
+          "Stijn Mostinckx",
+          "Theo D'Hondt",
+          "Wolfgang De Meuter"
+        ]
+      },
+      {
+        "title": "Responders: Language Support for Interactive Applications.",
+        "authors": [
+          "Brian Chin",
+          "Todd D. Millstein"
+        ]
+      },
+      {
+        "title": "Variance and Generalized Constraints for C# Generics.",
+        "authors": [
+          "Burak Emir",
+          "Andrew Kennedy",
+          "Claudio V. Russo",
+          "Dachuan Yu"
+        ]
+      },
+      {
+        "title": "A Semantic Analysis of C++ Templates.",
+        "authors": [
+          "Jeremy G. Siek",
+          "Walid Taha"
+        ]
+      },
+      {
+        "title": "Session Types for Object-Oriented Languages.",
+        "authors": [
+          "Mariangiola Dezani-Ciancaglini",
+          "Dimitris Mostrous",
+          "Nobuko Yoshida",
+          "Sophia Drossopoulou"
+        ]
+      },
+      {
+        "title": "Parameterized Modules for Classes and Extensible Functions.",
+        "authors": [
+          "Keunwoo Lee",
+          "Craig Chambers"
+        ]
+      },
+      {
+        "title": "The Closing of the Frontier.",
+        "authors": [
+          "Ralph E. Johnson"
+        ]
+      },
+      {
+        "title": "Augmenting Automatically Generated Unit-Test Suites with Regression Oracle Checking.",
+        "authors": [
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Automated Detection of Refactorings in Evolving Components.",
+        "authors": [
+          "Danny Dig",
+          "Can Comertoglu",
+          "Darko Marinov",
+          "Ralph E. Johnson"
+        ]
+      },
+      {
+        "title": "Modeling Runtime Behavior in Framework-Based Applications.",
+        "authors": [
+          "Nick Mitchell",
+          "Gary Sevitsky",
+          "Harini Srinivasan"
+        ]
+      },
+      {
+        "title": "Modular Software Upgrades for Distributed Systems.",
+        "authors": [
+          "Sameer Ajmani",
+          "Barbara Liskov",
+          "Liuba Shrira"
+        ]
+      },
+      {
+        "title": "Demeter Interfaces: Adaptive Programming Without Surprises.",
+        "authors": [
+          "Therapon Skotiniotis",
+          "Jeffrey Palm",
+          "Karl J. Lieberherr"
+        ]
+      },
+      {
+        "title": "Managing the Evolution of Aspect-Oriented Software with Model-Based Pointcuts.",
+        "authors": [
+          "Andy Kellens",
+          "Kim Mens",
+          "Johan Brichau",
+          "Kris Gybels"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/ramse2005.html": {
+    "header": "RAM-SE / ECOOP 2005: Glasgow, UK",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "Combining Feature-Oriented and Aspect-Oriented Programming to Support Software Evolution.",
+        "authors": [
+          "Sven Apel",
+          "Thomas Leich",
+          "Marko Rosenmüller",
+          "Gunter Saake"
+        ]
+      },
+      {
+        "title": "Modular Aspect Verification for Safer Aspect-Based Evolution.",
+        "authors": [
+          "Nathan Weston",
+          "François Taïani",
+          "Awais Rashid"
+        ]
+      },
+      {
+        "title": "Towards Reusable Heterogeneous Data-Centric Disentangled Parts.",
+        "authors": [
+          "Michael Reinsch",
+          "Takuo Watanabe"
+        ]
+      },
+      {
+        "title": "Pitfalls in Unanticipated Dynamic Software Evolution.",
+        "authors": [
+          "Peter Ebraert",
+          "Theo D'Hondt",
+          "Yves Vandewoude",
+          "Yolande Berbers"
+        ]
+      },
+      {
+        "title": "Architectural Reflection for Software Evolution.",
+        "authors": [
+          "Stephen Rank"
+        ]
+      },
+      {
+        "title": "The Role of Design Information in Software Evolution.",
+        "authors": [
+          "Walter Cazzola",
+          "Sonia Pini",
+          "Massimo Ancona"
+        ]
+      },
+      {
+        "title": "Towards a Meta-Modelling Approach to Configurable Middleware.",
+        "authors": [
+          "Nelly Bencomo",
+          "Gordon S. Blair",
+          "Geoff Coulson",
+          "Thaís Vasconcelos Batista"
+        ]
+      },
+      {
+        "title": "MADAPT: Managed Aspects for Dynamic Adaptation based on Profiling Techniques.",
+        "authors": [
+          "Chunjian Robin Liu",
+          "Celina Gibbs",
+          "Yvonne Coady"
+        ]
+      },
+      {
+        "title": "A Biologist's View of Software Evolution.",
+        "authors": [
+          "DeLesley Hutchins"
         ]
       }
     ]
@@ -8874,82 +8950,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/ramse2005.html": {
-    "header": "RAM-SE / ECOOP 2005: Glasgow, UK",
-    "year": "2005",
-    "papers": [
-      {
-        "title": "Combining Feature-Oriented and Aspect-Oriented Programming to Support Software Evolution.",
-        "authors": [
-          "Sven Apel",
-          "Thomas Leich",
-          "Marko Rosenmüller",
-          "Gunter Saake"
-        ]
-      },
-      {
-        "title": "Modular Aspect Verification for Safer Aspect-Based Evolution.",
-        "authors": [
-          "Nathan Weston",
-          "François Taïani",
-          "Awais Rashid"
-        ]
-      },
-      {
-        "title": "Towards Reusable Heterogeneous Data-Centric Disentangled Parts.",
-        "authors": [
-          "Michael Reinsch",
-          "Takuo Watanabe"
-        ]
-      },
-      {
-        "title": "Pitfalls in Unanticipated Dynamic Software Evolution.",
-        "authors": [
-          "Peter Ebraert",
-          "Theo D'Hondt",
-          "Yves Vandewoude",
-          "Yolande Berbers"
-        ]
-      },
-      {
-        "title": "Architectural Reflection for Software Evolution.",
-        "authors": [
-          "Stephen Rank"
-        ]
-      },
-      {
-        "title": "The Role of Design Information in Software Evolution.",
-        "authors": [
-          "Walter Cazzola",
-          "Sonia Pini",
-          "Massimo Ancona"
-        ]
-      },
-      {
-        "title": "Towards a Meta-Modelling Approach to Configurable Middleware.",
-        "authors": [
-          "Nelly Bencomo",
-          "Gordon S. Blair",
-          "Geoff Coulson",
-          "Thaís Vasconcelos Batista"
-        ]
-      },
-      {
-        "title": "MADAPT: Managed Aspects for Dynamic Adaptation based on Profiling Techniques.",
-        "authors": [
-          "Chunjian Robin Liu",
-          "Celina Gibbs",
-          "Yvonne Coady"
-        ]
-      },
-      {
-        "title": "A Biologist's View of Software Evolution.",
-        "authors": [
-          "DeLesley Hutchins"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/ecoopw/ecoopw2004.html": {
     "header": "ECOOP Workshops 2004",
     "year": "2004",
@@ -9123,6 +9123,107 @@
           "Olaf Spinczyk",
           "Michael Schöttner",
           "Andreas Gal"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/ramse2004.html": {
+    "header": "RAM-SE / ECOOP 2004: Oslo, Norway",
+    "year": "2004",
+    "papers": [
+      {
+        "title": "Reflections on Programming with Grid Toolkits.",
+        "authors": [
+          "Emiliano Tramontana",
+          "Ian Welch"
+        ]
+      },
+      {
+        "title": "Using Aspects to Make Adaptive Object-Models Adaptable.",
+        "authors": [
+          "Ayla Dantas",
+          "Joseph W. Yoder",
+          "Paulo Borba",
+          "Ralph E. Johnson"
+        ]
+      },
+      {
+        "title": "RAMSES: a Reflective Middleware for Software Evolution.",
+        "authors": [
+          "Ahmed Ghoneim",
+          "Walter Cazzola"
+        ]
+      },
+      {
+        "title": "AOP and Reflection for Dynamic Hyperslices.",
+        "authors": [
+          "Ruzanna Chitchyan",
+          "Ian Sommerville"
+        ]
+      },
+      {
+        "title": "A Reflective Approach to Dynamic Software Evolution.",
+        "authors": [
+          "Peter Ebraert",
+          "Tom Tourwé"
+        ]
+      },
+      {
+        "title": "OASIS: Organic Aspects for System Infrastructure Software Easing Evolution and Adaptation through Natural Decomposition.",
+        "authors": [
+          "Celina Gibbs",
+          "Yvonne Coady"
+        ]
+      },
+      {
+        "title": "Negligent Class Loaders for Software Evolution.",
+        "authors": [
+          "Yoshiki Sato",
+          "Shigeru Chiba"
+        ]
+      },
+      {
+        "title": "Components, ADL & AOP: Towards a Common Approach.",
+        "authors": [
+          "Nicolas Pessemier",
+          "Lionel Seinturier",
+          "Laurence Duchien"
+        ]
+      },
+      {
+        "title": "An AOP Implementation Framework for Extending Join Point Models.",
+        "authors": [
+          "Naoyasu Ubayashi",
+          "Hidehiko Masuhara",
+          "Tetsuo Tamai"
+        ]
+      },
+      {
+        "title": "Evolving Pointcut Definition to Get Software Evolution.",
+        "authors": [
+          "Walter Cazzola",
+          "Sonia Pini",
+          "Massimo Ancona"
+        ]
+      },
+      {
+        "title": "Parametric Aspects: A Proposal.",
+        "authors": [
+          "Jordi Alvarez Canal"
+        ]
+      },
+      {
+        "title": "Dynamic Framed Aspects for Dynamic Software Evolution.",
+        "authors": [
+          "Philip James Greenwood"
+        ]
+      },
+      {
+        "title": "Evolvable Pattern Implementations Need Generic Aspects.",
+        "authors": [
+          "Günter Kniesel",
+          "Tobias Rho",
+          "Stefan Hanenberg"
         ]
       }
     ]
@@ -9333,107 +9434,6 @@
           "Bjorn De Sutter",
           "Frank Tip",
           "Julian Dolby"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/ramse2004.html": {
-    "header": "RAM-SE / ECOOP 2004: Oslo, Norway",
-    "year": "2004",
-    "papers": [
-      {
-        "title": "Reflections on Programming with Grid Toolkits.",
-        "authors": [
-          "Emiliano Tramontana",
-          "Ian Welch"
-        ]
-      },
-      {
-        "title": "Using Aspects to Make Adaptive Object-Models Adaptable.",
-        "authors": [
-          "Ayla Dantas",
-          "Joseph W. Yoder",
-          "Paulo Borba",
-          "Ralph E. Johnson"
-        ]
-      },
-      {
-        "title": "RAMSES: a Reflective Middleware for Software Evolution.",
-        "authors": [
-          "Ahmed Ghoneim",
-          "Walter Cazzola"
-        ]
-      },
-      {
-        "title": "AOP and Reflection for Dynamic Hyperslices.",
-        "authors": [
-          "Ruzanna Chitchyan",
-          "Ian Sommerville"
-        ]
-      },
-      {
-        "title": "A Reflective Approach to Dynamic Software Evolution.",
-        "authors": [
-          "Peter Ebraert",
-          "Tom Tourwé"
-        ]
-      },
-      {
-        "title": "OASIS: Organic Aspects for System Infrastructure Software Easing Evolution and Adaptation through Natural Decomposition.",
-        "authors": [
-          "Celina Gibbs",
-          "Yvonne Coady"
-        ]
-      },
-      {
-        "title": "Negligent Class Loaders for Software Evolution.",
-        "authors": [
-          "Yoshiki Sato",
-          "Shigeru Chiba"
-        ]
-      },
-      {
-        "title": "Components, ADL & AOP: Towards a Common Approach.",
-        "authors": [
-          "Nicolas Pessemier",
-          "Lionel Seinturier",
-          "Laurence Duchien"
-        ]
-      },
-      {
-        "title": "An AOP Implementation Framework for Extending Join Point Models.",
-        "authors": [
-          "Naoyasu Ubayashi",
-          "Hidehiko Masuhara",
-          "Tetsuo Tamai"
-        ]
-      },
-      {
-        "title": "Evolving Pointcut Definition to Get Software Evolution.",
-        "authors": [
-          "Walter Cazzola",
-          "Sonia Pini",
-          "Massimo Ancona"
-        ]
-      },
-      {
-        "title": "Parametric Aspects: A Proposal.",
-        "authors": [
-          "Jordi Alvarez Canal"
-        ]
-      },
-      {
-        "title": "Dynamic Framed Aspects for Dynamic Software Evolution.",
-        "authors": [
-          "Philip James Greenwood"
-        ]
-      },
-      {
-        "title": "Evolvable Pattern Implementations Need Generic Aspects.",
-        "authors": [
-          "Günter Kniesel",
-          "Tobias Rho",
-          "Stefan Hanenberg"
         ]
       }
     ]
@@ -10140,276 +10140,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/ecoop2001.html": {
-    "header": "15th ECOOP 2001: Budapest, Hungary",
-    "year": "2001",
-    "papers": [
-      {
-        "title": "Language, Objects, and Intentionality.",
-        "authors": [
-          "Charles Simonyi"
-        ]
-      },
-      {
-        "title": "Capabilities for Sharing: A Generalisation of Uniqueness and Read-Only.",
-        "authors": [
-          "John Boyland",
-          "James Noble",
-          "William Retert"
-        ]
-      },
-      {
-        "title": "Sealing, Encapsulation, and Mutability.",
-        "authors": [
-          "Marina Biberstein",
-          "Joseph Gil",
-          "Sara Porat"
-        ]
-      },
-      {
-        "title": "Simple Ownership Types for Object Containment.",
-        "authors": [
-          "David G. Clarke",
-          "James Noble",
-          "John Potter"
-        ]
-      },
-      {
-        "title": "Distinctness and Sharing Domains for Static Analysis of Java Programs.",
-        "authors": [
-          "Isabelle Pollet",
-          "Baudouin Le Charlier",
-          "Agostino Cortesi"
-        ]
-      },
-      {
-        "title": "Precise Constraint-Based Type Inference for Java.",
-        "authors": [
-          "Tiejun Wang",
-          "Scott F. Smith"
-        ]
-      },
-      {
-        "title": "CCC: User-Defined Object Structure in C.",
-        "authors": [
-          "Yasunori Harada",
-          "Kenichi Yamazaki",
-          "Richard Potter"
-        ]
-      },
-      {
-        "title": "Fickle : Dynamic Object Re-classification.",
-        "authors": [
-          "Sophia Drossopoulou",
-          "Ferruccio Damiani",
-          "Mariangiola Dezani-Ciancaglini",
-          "Paola Giannini"
-        ]
-      },
-      {
-        "title": "Scripting .NET Using Mondrian.",
-        "authors": [
-          "Erik Meijer",
-          "Nigel Perry",
-          "Arjan van Yzendoorn"
-        ]
-      },
-      {
-        "title": "A Quasi Optimal Bit-Vector Encoding of Tree Hierarchies. Application to Efficient Type Inclusion Tests.",
-        "authors": [
-          "Olivier Raynaud",
-          "Eric Thierry"
-        ]
-      },
-      {
-        "title": "On the Usefulness of Liveness for Garbage Collection and Leak Detection.",
-        "authors": [
-          "Martin Hirzel",
-          "Amer Diwan",
-          "Antony L. Hosking"
-        ]
-      },
-      {
-        "title": "Concurrent Cycle Collection in Reference Counted Systems.",
-        "authors": [
-          "David F. Bacon",
-          "V. T. Rajan"
-        ]
-      },
-      {
-        "title": "A Bytecode Translator for Distributed Execution of \"Legacy\" Java Software.",
-        "authors": [
-          "Michiaki Tatsubori",
-          "Toshiyuki Sasaki",
-          "Shigeru Chiba",
-          "Kozo Itano"
-        ]
-      },
-      {
-        "title": "Reflections on MOPs, Components, and Java Security.",
-        "authors": [
-          "Denis Caromel",
-          "Julien Vayssière"
-        ]
-      },
-      {
-        "title": "The Optimistic Readers Transformation.",
-        "authors": [
-          "Robert E. Strom",
-          "Joshua S. Auerbach"
-        ]
-      },
-      {
-        "title": "People and the Limits of Methodology.",
-        "authors": [
-          "Alistair Cockburn"
-        ]
-      },
-      {
-        "title": "Family Polymorphism.",
-        "authors": [
-          "Erik Ernst"
-        ]
-      },
-      {
-        "title": "An Overview of AspectJ.",
-        "authors": [
-          "Gregor Kiczales",
-          "Erik Hilsdale",
-          "Jim Hugunin",
-          "Mik Kersten",
-          "Jeffrey Palm",
-          "William G. Griswold"
-        ]
-      },
-      {
-        "title": "True Modules for Java-like Languages.",
-        "authors": [
-          "Davide Ancona",
-          "Elena Zucca"
-        ]
-      },
-      {
-        "title": "Selecting an Efficient OO Integration Testing Strategy: An Experimental Comparison of Actual Strategies.",
-        "authors": [
-          "Vu Le Hanh",
-          "Kamel Akif",
-          "Yves Le Traon",
-          "Jean-Marc Jézéquel"
-        ]
-      },
-      {
-        "title": "Quality and Understandability of Use Case Models.",
-        "authors": [
-          "Bente Anda",
-          "Dag I. K. Sjøberg",
-          "Magne Jørgensen"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/fics2001.html": {
-    "header": "15th ECOOP 2001: Budapest, Hungary - Workshop on Feature Interaction in Composed Systems (FICS)",
-    "year": "2001",
-    "papers": [
-      {
-        "title": "Position Paper: Feature Interaction in Composed Systems.",
-        "authors": [
-          "Elke Pulvermüller",
-          "Andreas Speck",
-          "James Coplien",
-          "Maja D'Hondt",
-          "Wolfgang De Meuter"
-        ]
-      },
-      {
-        "title": "Modelling Feature Interactions in Mobile Phones.",
-        "authors": [
-          "Louise Lorentsen",
-          "Antti-Pekka Tuovinen",
-          "Jianli Xu"
-        ]
-      },
-      {
-        "title": "Feature Interactions Outside a Telecom Domain.",
-        "authors": [
-          "Lynne Blair",
-          "Gordon S. Blair",
-          "Jianxiong Pang",
-          "Christos Efstratiou"
-        ]
-      },
-      {
-        "title": "A Proposal for Uniform Abstract Modeling of Feature Interactions in UML.",
-        "authors": [
-          "Matthias Clauß"
-        ]
-      },
-      {
-        "title": "What's in a Name?",
-        "authors": [
-          "Erik Ernst"
-        ]
-      },
-      {
-        "title": "Predicting Feature Interactions in Component-Based Systems.",
-        "authors": [
-          "Judith A. Stafford",
-          "Kurt C. Wallnau"
-        ]
-      },
-      {
-        "title": "An Architectural Style to Integrate Components and Aspects.",
-        "authors": [
-          "Miguel A. Pérez",
-          "Amparo Navasa Martínez",
-          "Juan Manuel Murillo"
-        ]
-      },
-      {
-        "title": "Feature Modeling and Composition with Coordination Contracts.",
-        "authors": [
-          "Luís Filipe Andrade",
-          "José Luiz Fiadeiro"
-        ]
-      },
-      {
-        "title": "Feature Based Composition of an Embedded Operating System Family.",
-        "authors": [
-          "Danilo Beuche"
-        ]
-      },
-      {
-        "title": "Feature Interaction and Composition Problems in Software Product Lines.",
-        "authors": [
-          "Silva Robak",
-          "Bogdan Franczyk"
-        ]
-      },
-      {
-        "title": "Configuring Software Product Line Features.",
-        "authors": [
-          "Andreas Hein",
-          "John MacGregor",
-          "Steffen Thiel"
-        ]
-      },
-      {
-        "title": "Representing and Reasoning on Feature Architecture: A Description Logic Approach.",
-        "authors": [
-          "Yu Jia",
-          "Yuqing Gu"
-        ]
-      },
-      {
-        "title": "Features and Features Interactions in Software Engineering using Logic.",
-        "authors": [
-          "Ragnhild Van Der Straeten",
-          "Johan Brichau"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/ecoopw/ecoopw2001.html": {
     "header": "ECOOP Workshops 2001",
     "year": "2001",
@@ -10578,6 +10308,276 @@
         "authors": [
           "Viktória Zsók",
           "István Juhász"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/fics2001.html": {
+    "header": "15th ECOOP 2001: Budapest, Hungary - Workshop on Feature Interaction in Composed Systems (FICS)",
+    "year": "2001",
+    "papers": [
+      {
+        "title": "Position Paper: Feature Interaction in Composed Systems.",
+        "authors": [
+          "Elke Pulvermüller",
+          "Andreas Speck",
+          "James Coplien",
+          "Maja D'Hondt",
+          "Wolfgang De Meuter"
+        ]
+      },
+      {
+        "title": "Modelling Feature Interactions in Mobile Phones.",
+        "authors": [
+          "Louise Lorentsen",
+          "Antti-Pekka Tuovinen",
+          "Jianli Xu"
+        ]
+      },
+      {
+        "title": "Feature Interactions Outside a Telecom Domain.",
+        "authors": [
+          "Lynne Blair",
+          "Gordon S. Blair",
+          "Jianxiong Pang",
+          "Christos Efstratiou"
+        ]
+      },
+      {
+        "title": "A Proposal for Uniform Abstract Modeling of Feature Interactions in UML.",
+        "authors": [
+          "Matthias Clauß"
+        ]
+      },
+      {
+        "title": "What's in a Name?",
+        "authors": [
+          "Erik Ernst"
+        ]
+      },
+      {
+        "title": "Predicting Feature Interactions in Component-Based Systems.",
+        "authors": [
+          "Judith A. Stafford",
+          "Kurt C. Wallnau"
+        ]
+      },
+      {
+        "title": "An Architectural Style to Integrate Components and Aspects.",
+        "authors": [
+          "Miguel A. Pérez",
+          "Amparo Navasa Martínez",
+          "Juan Manuel Murillo"
+        ]
+      },
+      {
+        "title": "Feature Modeling and Composition with Coordination Contracts.",
+        "authors": [
+          "Luís Filipe Andrade",
+          "José Luiz Fiadeiro"
+        ]
+      },
+      {
+        "title": "Feature Based Composition of an Embedded Operating System Family.",
+        "authors": [
+          "Danilo Beuche"
+        ]
+      },
+      {
+        "title": "Feature Interaction and Composition Problems in Software Product Lines.",
+        "authors": [
+          "Silva Robak",
+          "Bogdan Franczyk"
+        ]
+      },
+      {
+        "title": "Configuring Software Product Line Features.",
+        "authors": [
+          "Andreas Hein",
+          "John MacGregor",
+          "Steffen Thiel"
+        ]
+      },
+      {
+        "title": "Representing and Reasoning on Feature Architecture: A Description Logic Approach.",
+        "authors": [
+          "Yu Jia",
+          "Yuqing Gu"
+        ]
+      },
+      {
+        "title": "Features and Features Interactions in Software Engineering using Logic.",
+        "authors": [
+          "Ragnhild Van Der Straeten",
+          "Johan Brichau"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoop/ecoop2001.html": {
+    "header": "15th ECOOP 2001: Budapest, Hungary",
+    "year": "2001",
+    "papers": [
+      {
+        "title": "Language, Objects, and Intentionality.",
+        "authors": [
+          "Charles Simonyi"
+        ]
+      },
+      {
+        "title": "Capabilities for Sharing: A Generalisation of Uniqueness and Read-Only.",
+        "authors": [
+          "John Boyland",
+          "James Noble",
+          "William Retert"
+        ]
+      },
+      {
+        "title": "Sealing, Encapsulation, and Mutability.",
+        "authors": [
+          "Marina Biberstein",
+          "Joseph Gil",
+          "Sara Porat"
+        ]
+      },
+      {
+        "title": "Simple Ownership Types for Object Containment.",
+        "authors": [
+          "David G. Clarke",
+          "James Noble",
+          "John Potter"
+        ]
+      },
+      {
+        "title": "Distinctness and Sharing Domains for Static Analysis of Java Programs.",
+        "authors": [
+          "Isabelle Pollet",
+          "Baudouin Le Charlier",
+          "Agostino Cortesi"
+        ]
+      },
+      {
+        "title": "Precise Constraint-Based Type Inference for Java.",
+        "authors": [
+          "Tiejun Wang",
+          "Scott F. Smith"
+        ]
+      },
+      {
+        "title": "CCC: User-Defined Object Structure in C.",
+        "authors": [
+          "Yasunori Harada",
+          "Kenichi Yamazaki",
+          "Richard Potter"
+        ]
+      },
+      {
+        "title": "Fickle : Dynamic Object Re-classification.",
+        "authors": [
+          "Sophia Drossopoulou",
+          "Ferruccio Damiani",
+          "Mariangiola Dezani-Ciancaglini",
+          "Paola Giannini"
+        ]
+      },
+      {
+        "title": "Scripting .NET Using Mondrian.",
+        "authors": [
+          "Erik Meijer",
+          "Nigel Perry",
+          "Arjan van Yzendoorn"
+        ]
+      },
+      {
+        "title": "A Quasi Optimal Bit-Vector Encoding of Tree Hierarchies. Application to Efficient Type Inclusion Tests.",
+        "authors": [
+          "Olivier Raynaud",
+          "Eric Thierry"
+        ]
+      },
+      {
+        "title": "On the Usefulness of Liveness for Garbage Collection and Leak Detection.",
+        "authors": [
+          "Martin Hirzel",
+          "Amer Diwan",
+          "Antony L. Hosking"
+        ]
+      },
+      {
+        "title": "Concurrent Cycle Collection in Reference Counted Systems.",
+        "authors": [
+          "David F. Bacon",
+          "V. T. Rajan"
+        ]
+      },
+      {
+        "title": "A Bytecode Translator for Distributed Execution of \"Legacy\" Java Software.",
+        "authors": [
+          "Michiaki Tatsubori",
+          "Toshiyuki Sasaki",
+          "Shigeru Chiba",
+          "Kozo Itano"
+        ]
+      },
+      {
+        "title": "Reflections on MOPs, Components, and Java Security.",
+        "authors": [
+          "Denis Caromel",
+          "Julien Vayssière"
+        ]
+      },
+      {
+        "title": "The Optimistic Readers Transformation.",
+        "authors": [
+          "Robert E. Strom",
+          "Joshua S. Auerbach"
+        ]
+      },
+      {
+        "title": "People and the Limits of Methodology.",
+        "authors": [
+          "Alistair Cockburn"
+        ]
+      },
+      {
+        "title": "Family Polymorphism.",
+        "authors": [
+          "Erik Ernst"
+        ]
+      },
+      {
+        "title": "An Overview of AspectJ.",
+        "authors": [
+          "Gregor Kiczales",
+          "Erik Hilsdale",
+          "Jim Hugunin",
+          "Mik Kersten",
+          "Jeffrey Palm",
+          "William G. Griswold"
+        ]
+      },
+      {
+        "title": "True Modules for Java-like Languages.",
+        "authors": [
+          "Davide Ancona",
+          "Elena Zucca"
+        ]
+      },
+      {
+        "title": "Selecting an Efficient OO Integration Testing Strategy: An Experimental Comparison of Actual Strategies.",
+        "authors": [
+          "Vu Le Hanh",
+          "Kamel Akif",
+          "Yves Le Traon",
+          "Jean-Marc Jézéquel"
+        ]
+      },
+      {
+        "title": "Quality and Understandability of Use Case Models.",
+        "authors": [
+          "Bente Anda",
+          "Dag I. K. Sjøberg",
+          "Magne Jørgensen"
         ]
       }
     ]
@@ -10822,6 +10822,180 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/ecoopw/ecoopw2000.html": {
+    "header": "ECOOP Workshops 2000",
+    "year": "2000",
+    "papers": [
+      {
+        "title": "Reflection and Meta-level Architectures: State of the Art and Future Trends.",
+        "authors": [
+          "Walter Cazzola",
+          "Shigeru Chiba",
+          "Thomas Ledoux"
+        ]
+      },
+      {
+        "title": "Exception Handling in Object Oriented Systems.",
+        "authors": [
+          "Alexander B. Romanovsky",
+          "Christophe Dony",
+          "Jørgen Lindskov Knudsen",
+          "Anand Tripathi"
+        ]
+      },
+      {
+        "title": "Object-Orientation and Operating Systems.",
+        "authors": [
+          "Francisco J. Ballesteros",
+          "Frank Schubert",
+          "Ashish Singhai",
+          "Darío Álvarez Gutiérrez",
+          "Reinhard Meyer"
+        ]
+      },
+      {
+        "title": "Formal Techniques for Java Programs.",
+        "authors": [
+          "Sophia Drossopoulou",
+          "Susan Eisenbach",
+          "Bart Jacobs",
+          "Gary T. Leavens",
+          "Peter Müller",
+          "Arnd Poetzsch-Heffter"
+        ]
+      },
+      {
+        "title": "Component-Oriented Programming.",
+        "authors": [
+          "Jan Bosch",
+          "Clemens A. Szyperski",
+          "Wolfgang Weck"
+        ]
+      },
+      {
+        "title": "Tools and Environments for Understanding Object-Oriented Concepts.",
+        "authors": [
+          "Isabel Michiels",
+          "Alejandro Fernández",
+          "Jürgen Börstler",
+          "Maximo Prieto"
+        ]
+      },
+      {
+        "title": "PhDOOS 2000: The 10th Ph.D. Workshop on Object-Oriented Systems.",
+        "authors": [
+          "Anthony Lauder",
+          "Marlon Dumas",
+          "Ákos Frohner",
+          "Ian Oliver"
+        ]
+      },
+      {
+        "title": "Quantitative Approaches in Object-Oriented Software Engineering.",
+        "authors": [
+          "Fernando Brito e Abreu",
+          "Geert Poels",
+          "Houari A. Sahraoui",
+          "Horst Zuse"
+        ]
+      },
+      {
+        "title": "Metadata and Adaptive Object-Models.",
+        "authors": [
+          "Joseph W. Yoder",
+          "Reza Razavi"
+        ]
+      },
+      {
+        "title": "Defining Precise Semantics for UML.",
+        "authors": [
+          "Jean-Michel Bruel",
+          "Johan Lilius",
+          "Ana M. D. Moreira",
+          "Robert B. France"
+        ]
+      },
+      {
+        "title": "Objects and Classification.",
+        "authors": [
+          "Marianne Huchard",
+          "Robert Godin",
+          "Amedeo Napoli"
+        ]
+      },
+      {
+        "title": "Object-Oriented Architectural Evolution.",
+        "authors": [
+          "Isabelle Borne",
+          "Galal Hassan Galal",
+          "James Huw Evans",
+          "Luís Filipe Andrade"
+        ]
+      },
+      {
+        "title": "Specification, Implementation, and Validation of Object-Oriented Embedded Systems.",
+        "authors": [
+          "François Terrier",
+          "Nikos S. Voros",
+          "Udo Brockmeyer"
+        ]
+      },
+      {
+        "title": "Quality of Service in Distributed Object Systems.",
+        "authors": [
+          "Christian Becker",
+          "John Zincky"
+        ]
+      },
+      {
+        "title": "XML and Object Technology.",
+        "authors": [
+          "Barbara Catania",
+          "Elena Ferrari",
+          "Alon Y. Levy",
+          "Alberto O. Mendelzon"
+        ]
+      },
+      {
+        "title": "Workshop on Aspects and Dimensions of Concern: Requirements on, and Challenge Problems for, Advanced Separation of Concerns.",
+        "authors": [
+          "Peri L. Tarr",
+          "Maja D'Hondt",
+          "Lodewijk Bergmans",
+          "Cristina Videira Lopes"
+        ]
+      },
+      {
+        "title": "Mobile Object Systems.",
+        "authors": [
+          "Ciarán Bryce",
+          "Chrislain Razafimahefa"
+        ]
+      },
+      {
+        "title": "New Issues in Object Interoperability.",
+        "authors": [
+          "Antonio Vallecillo",
+          "Juan Hernández Núñez",
+          "José M. Troya"
+        ]
+      },
+      {
+        "title": "Mobile Code, Internet Security, and E-Commerce.",
+        "authors": [
+          "Refik Molva",
+          "Françoise Baude"
+        ]
+      },
+      {
+        "title": "Poster Session.",
+        "authors": [
+          "Mireille Blay-Fornarino",
+          "Anne-Marie Dery"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/ecoop/ecoop2000.html": {
     "header": "14th ECOOP 2000: Sophia Antipolis and Cannes, France",
     "year": "2000",
@@ -10997,359 +11171,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoopw/ecoopw2000.html": {
-    "header": "ECOOP Workshops 2000",
-    "year": "2000",
-    "papers": [
-      {
-        "title": "Reflection and Meta-level Architectures: State of the Art and Future Trends.",
-        "authors": [
-          "Walter Cazzola",
-          "Shigeru Chiba",
-          "Thomas Ledoux"
-        ]
-      },
-      {
-        "title": "Exception Handling in Object Oriented Systems.",
-        "authors": [
-          "Alexander B. Romanovsky",
-          "Christophe Dony",
-          "Jørgen Lindskov Knudsen",
-          "Anand Tripathi"
-        ]
-      },
-      {
-        "title": "Object-Orientation and Operating Systems.",
-        "authors": [
-          "Francisco J. Ballesteros",
-          "Frank Schubert",
-          "Ashish Singhai",
-          "Darío Álvarez Gutiérrez",
-          "Reinhard Meyer"
-        ]
-      },
-      {
-        "title": "Formal Techniques for Java Programs.",
-        "authors": [
-          "Sophia Drossopoulou",
-          "Susan Eisenbach",
-          "Bart Jacobs",
-          "Gary T. Leavens",
-          "Peter Müller",
-          "Arnd Poetzsch-Heffter"
-        ]
-      },
-      {
-        "title": "Component-Oriented Programming.",
-        "authors": [
-          "Jan Bosch",
-          "Clemens A. Szyperski",
-          "Wolfgang Weck"
-        ]
-      },
-      {
-        "title": "Tools and Environments for Understanding Object-Oriented Concepts.",
-        "authors": [
-          "Isabel Michiels",
-          "Alejandro Fernández",
-          "Jürgen Börstler",
-          "Maximo Prieto"
-        ]
-      },
-      {
-        "title": "PhDOOS 2000: The 10th Ph.D. Workshop on Object-Oriented Systems.",
-        "authors": [
-          "Anthony Lauder",
-          "Marlon Dumas",
-          "Ákos Frohner",
-          "Ian Oliver"
-        ]
-      },
-      {
-        "title": "Quantitative Approaches in Object-Oriented Software Engineering.",
-        "authors": [
-          "Fernando Brito e Abreu",
-          "Geert Poels",
-          "Houari A. Sahraoui",
-          "Horst Zuse"
-        ]
-      },
-      {
-        "title": "Metadata and Adaptive Object-Models.",
-        "authors": [
-          "Joseph W. Yoder",
-          "Reza Razavi"
-        ]
-      },
-      {
-        "title": "Defining Precise Semantics for UML.",
-        "authors": [
-          "Jean-Michel Bruel",
-          "Johan Lilius",
-          "Ana M. D. Moreira",
-          "Robert B. France"
-        ]
-      },
-      {
-        "title": "Objects and Classification.",
-        "authors": [
-          "Marianne Huchard",
-          "Robert Godin",
-          "Amedeo Napoli"
-        ]
-      },
-      {
-        "title": "Object-Oriented Architectural Evolution.",
-        "authors": [
-          "Isabelle Borne",
-          "Galal Hassan Galal",
-          "James Huw Evans",
-          "Luís Filipe Andrade"
-        ]
-      },
-      {
-        "title": "Specification, Implementation, and Validation of Object-Oriented Embedded Systems.",
-        "authors": [
-          "François Terrier",
-          "Nikos S. Voros",
-          "Udo Brockmeyer"
-        ]
-      },
-      {
-        "title": "Quality of Service in Distributed Object Systems.",
-        "authors": [
-          "Christian Becker",
-          "John Zincky"
-        ]
-      },
-      {
-        "title": "XML and Object Technology.",
-        "authors": [
-          "Barbara Catania",
-          "Elena Ferrari",
-          "Alon Y. Levy",
-          "Alberto O. Mendelzon"
-        ]
-      },
-      {
-        "title": "Workshop on Aspects and Dimensions of Concern: Requirements on, and Challenge Problems for, Advanced Separation of Concerns.",
-        "authors": [
-          "Peri L. Tarr",
-          "Maja D'Hondt",
-          "Lodewijk Bergmans",
-          "Cristina Videira Lopes"
-        ]
-      },
-      {
-        "title": "Mobile Object Systems.",
-        "authors": [
-          "Ciarán Bryce",
-          "Chrislain Razafimahefa"
-        ]
-      },
-      {
-        "title": "New Issues in Object Interoperability.",
-        "authors": [
-          "Antonio Vallecillo",
-          "Juan Hernández Núñez",
-          "José M. Troya"
-        ]
-      },
-      {
-        "title": "Mobile Code, Internet Security, and E-Commerce.",
-        "authors": [
-          "Refik Molva",
-          "Françoise Baude"
-        ]
-      },
-      {
-        "title": "Poster Session.",
-        "authors": [
-          "Mireille Blay-Fornarino",
-          "Anne-Marie Dery"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoop/ecoop99.html": {
-    "header": "13th ECOOP 1999: Lisbon, Portugal",
-    "year": "1999",
-    "papers": [
-      {
-        "title": "A Trace Model for Pointers and Objects.",
-        "authors": [
-          "C. A. R. Hoare",
-          "Jifeng He"
-        ]
-      },
-      {
-        "title": "Synthesizing Objects.",
-        "authors": [
-          "Krzysztof Czarnecki",
-          "Ulrich W. Eisenecker"
-        ]
-      },
-      {
-        "title": "A Core Calculus of Classes and Mixins.",
-        "authors": [
-          "Viviana Bono",
-          "Amit Patel",
-          "Vitaly Shmatikov"
-        ]
-      },
-      {
-        "title": "Propagating Class and Method Combination.",
-        "authors": [
-          "Erik Ernst"
-        ]
-      },
-      {
-        "title": "A Study of the Allocation Behavior of the SPECjvm98 Java Benchmark.",
-        "authors": [
-          "Sylvia Dieckmann",
-          "Urs Hölzle"
-        ]
-      },
-      {
-        "title": "Visualizing Reference Patterns for Solving Memory Leaks in Java.",
-        "authors": [
-          "Wim De Pauw",
-          "Gary Sevitsky"
-        ]
-      },
-      {
-        "title": "Dynamic Query-Based Debugging.",
-        "authors": [
-          "Raimondas Lencevicius",
-          "Urs Hölzle",
-          "Ambuj K. Singh"
-        ]
-      },
-      {
-        "title": "Foundations for Virtual Types.",
-        "authors": [
-          "Atsushi Igarashi",
-          "Benjamin C. Pierce"
-        ]
-      },
-      {
-        "title": "Unifying Genericity - Combining the Benefits of Virtual Types and Parameterized Classes.",
-        "authors": [
-          "Kresten Krab Thorup",
-          "Mads Torgersen"
-        ]
-      },
-      {
-        "title": "An Object-Oriented Effects System.",
-        "authors": [
-          "Aaron Greenhouse",
-          "John Boyland"
-        ]
-      },
-      {
-        "title": "Providing Persistent Objects in Distributed Systems.",
-        "authors": [
-          "Barbara Liskov",
-          "Miguel Castro",
-          "Liuba Shrira",
-          "Atul Adya"
-        ]
-      },
-      {
-        "title": "Inlining of Virtual Methods.",
-        "authors": [
-          "David Detlefs",
-          "Ole Agesen"
-        ]
-      },
-      {
-        "title": "Modular Statically Typed Multimethods.",
-        "authors": [
-          "Todd D. Millstein",
-          "Craig Chambers"
-        ]
-      },
-      {
-        "title": "Multi-method Dispatch Using Multiple Row Displacement.",
-        "authors": [
-          "Candy Pang",
-          "Wade Holst",
-          "Yuri Leontiev",
-          "Duane Szafron"
-        ]
-      },
-      {
-        "title": "Internal Iteration Externalized.",
-        "authors": [
-          "Thomas Kühne"
-        ]
-      },
-      {
-        "title": "Type-Safe Delegation for Run-Time Component Adaptation.",
-        "authors": [
-          "Günter Kniesel"
-        ]
-      },
-      {
-        "title": "Towards Automatic Specialization of Java Programs.",
-        "authors": [
-          "Ulrik Pagh Schultz",
-          "Julia L. Lawall",
-          "Charles Consel",
-          "Gilles Muller"
-        ]
-      },
-      {
-        "title": "Wide Classes.",
-        "authors": [
-          "Manuel Serrano"
-        ]
-      },
-      {
-        "title": "An Approach to Classify Semi-structured Objects.",
-        "authors": [
-          "Elisa Bertino",
-          "Giovanna Guerrini",
-          "Isabella Merlo",
-          "Marco Mesiti"
-        ]
-      },
-      {
-        "title": "Object-Oriented Programming on the Network.",
-        "authors": [
-          "Jim Waldo"
-        ]
-      },
-      {
-        "title": "Providing Fine-grained Access Control for Java Programs.",
-        "authors": [
-          "Raju Pandey",
-          "Brant Hashii"
-        ]
-      },
-      {
-        "title": "Formal Specification and Prototyping of CORBA Systems.",
-        "authors": [
-          "Rémi Bastide",
-          "Ousmane Sy",
-          "Philippe A. Palanque"
-        ]
-      },
-      {
-        "title": "Process Algebraic Specification of the New Asynchronous CORBA Messaging Service.",
-        "authors": [
-          "Mauro Gaspari",
-          "Gianluigi Zavattaro"
-        ]
-      },
-      {
-        "title": "Object-Oriented Programming: Regaining the Excitement.",
-        "authors": [
-          "Andrew P. Black"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/ecoopw/secure99.html": {
     "header": "Secure Internet Programming 1999",
     "year": "1999",
@@ -11511,6 +11332,159 @@
           "Uwe G. Wilhelm",
           "Sebastian Staamann",
           "Levente Buttyán"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoopw/phdoos99.html": {
+    "header": "ECOOP Workshop 1999: Workshop for PhD Students in OO Systems (PhDOOS '99)",
+    "year": "1999",
+    "papers": [
+      {
+        "title": "The GOLD Model: An OO Multidimensional Data Model for Multidimensional Databases.",
+        "authors": [
+          "Juan Trujillo"
+        ]
+      },
+      {
+        "title": "Systematic Change Impact Determination in Complex Object Database Schemata.",
+        "authors": [
+          "Simon Lock",
+          "Awais Rashid",
+          "Peter Sawyer",
+          "Gerald Kotonya"
+        ]
+      },
+      {
+        "title": "A Data Model for Active Temporal Object Databases.",
+        "authors": [
+          "Isabella Merlo"
+        ]
+      },
+      {
+        "title": "Data Models and Languages for Temportal OO DBMS.",
+        "authors": [
+          "Marlon Dumas"
+        ]
+      },
+      {
+        "title": "Object Databases in the LHCb Experiment.",
+        "authors": [
+          "Radovan Chytracek"
+        ]
+      },
+      {
+        "title": "Documentation of Object Interaction.",
+        "authors": [
+          "Stefan Chiettini"
+        ]
+      },
+      {
+        "title": "A Testing Approach for Program Families.",
+        "authors": [
+          "Moritz Schnizler"
+        ]
+      },
+      {
+        "title": "Connectionist/Symbolic Engine for High-Level Cognitive Tasks \"ConnECT\".",
+        "authors": [
+          "John Flackett"
+        ]
+      },
+      {
+        "title": "An OO Approach to C++ Compiler Technology.",
+        "authors": [
+          "Cristian Sminchisescu",
+          "Alexandru C. Telea"
+        ]
+      },
+      {
+        "title": "Event Ports.",
+        "authors": [
+          "Anthony Lauder"
+        ]
+      },
+      {
+        "title": "Object-Oriented Real Time Control System.",
+        "authors": [
+          "Andreas Speck"
+        ]
+      },
+      {
+        "title": "Layered Design Visualisation.",
+        "authors": [
+          "Ákos Frohner"
+        ]
+      },
+      {
+        "title": "A Practical Approach to Behavioural Inheritance in the Context of Coloured Petri Nets.",
+        "authors": [
+          "Charles Lakos",
+          "Glenn Lewis"
+        ]
+      },
+      {
+        "title": "Static Analysis of Object Oriented Programs.",
+        "authors": [
+          "Christoph Steindl"
+        ]
+      },
+      {
+        "title": "A Framework for Dynamically Configurable Multimedia Distribution.",
+        "authors": [
+          "Fabio Kon",
+          "Roy H. Campbell"
+        ]
+      },
+      {
+        "title": "Working with Business Patterns & Frameworks: A Case Study for Fuzzy Logic Control.",
+        "authors": [
+          "Nathalie Gaertner",
+          "Bernard Thirion"
+        ]
+      },
+      {
+        "title": "Combining Object Orientation and Dataflow Modeling in the Vission Simulation System.",
+        "authors": [
+          "Alexandru C. Telea",
+          "Cristian Sminchisescu"
+        ]
+      },
+      {
+        "title": "A Framework for Arbitrary Invocation Semantics.",
+        "authors": [
+          "Markus Hof"
+        ]
+      },
+      {
+        "title": "Medical KBS with Patterns.",
+        "authors": [
+          "Marie Beurton-Aimar"
+        ]
+      },
+      {
+        "title": "Development of OO Frameworks for Marine Information Systems.",
+        "authors": [
+          "Anita Jacob"
+        ]
+      },
+      {
+        "title": "A Reflective Architecture for Middleware: Design and Implementation.",
+        "authors": [
+          "Fábio M. Costa",
+          "Gordon S. Blair"
+        ]
+      },
+      {
+        "title": "Application of Process Types.",
+        "authors": [
+          "Christoph Peter"
+        ]
+      },
+      {
+        "title": "'Executing' the OCL.",
+        "authors": [
+          "Ian Oliver"
         ]
       }
     ]
@@ -13231,155 +13205,181 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoopw/phdoos99.html": {
-    "header": "ECOOP Workshop 1999: Workshop for PhD Students in OO Systems (PhDOOS '99)",
+  "https://dblp.org/db/conf/ecoop/ecoop99.html": {
+    "header": "13th ECOOP 1999: Lisbon, Portugal",
     "year": "1999",
     "papers": [
       {
-        "title": "The GOLD Model: An OO Multidimensional Data Model for Multidimensional Databases.",
+        "title": "A Trace Model for Pointers and Objects.",
         "authors": [
-          "Juan Trujillo"
+          "C. A. R. Hoare",
+          "Jifeng He"
         ]
       },
       {
-        "title": "Systematic Change Impact Determination in Complex Object Database Schemata.",
+        "title": "Synthesizing Objects.",
         "authors": [
-          "Simon Lock",
-          "Awais Rashid",
-          "Peter Sawyer",
-          "Gerald Kotonya"
+          "Krzysztof Czarnecki",
+          "Ulrich W. Eisenecker"
         ]
       },
       {
-        "title": "A Data Model for Active Temporal Object Databases.",
+        "title": "A Core Calculus of Classes and Mixins.",
         "authors": [
-          "Isabella Merlo"
+          "Viviana Bono",
+          "Amit Patel",
+          "Vitaly Shmatikov"
         ]
       },
       {
-        "title": "Data Models and Languages for Temportal OO DBMS.",
+        "title": "Propagating Class and Method Combination.",
         "authors": [
-          "Marlon Dumas"
+          "Erik Ernst"
         ]
       },
       {
-        "title": "Object Databases in the LHCb Experiment.",
+        "title": "A Study of the Allocation Behavior of the SPECjvm98 Java Benchmark.",
         "authors": [
-          "Radovan Chytracek"
+          "Sylvia Dieckmann",
+          "Urs Hölzle"
         ]
       },
       {
-        "title": "Documentation of Object Interaction.",
+        "title": "Visualizing Reference Patterns for Solving Memory Leaks in Java.",
         "authors": [
-          "Stefan Chiettini"
+          "Wim De Pauw",
+          "Gary Sevitsky"
         ]
       },
       {
-        "title": "A Testing Approach for Program Families.",
+        "title": "Dynamic Query-Based Debugging.",
         "authors": [
-          "Moritz Schnizler"
+          "Raimondas Lencevicius",
+          "Urs Hölzle",
+          "Ambuj K. Singh"
         ]
       },
       {
-        "title": "Connectionist/Symbolic Engine for High-Level Cognitive Tasks \"ConnECT\".",
+        "title": "Foundations for Virtual Types.",
         "authors": [
-          "John Flackett"
+          "Atsushi Igarashi",
+          "Benjamin C. Pierce"
         ]
       },
       {
-        "title": "An OO Approach to C++ Compiler Technology.",
+        "title": "Unifying Genericity - Combining the Benefits of Virtual Types and Parameterized Classes.",
         "authors": [
-          "Cristian Sminchisescu",
-          "Alexandru C. Telea"
+          "Kresten Krab Thorup",
+          "Mads Torgersen"
         ]
       },
       {
-        "title": "Event Ports.",
+        "title": "An Object-Oriented Effects System.",
         "authors": [
-          "Anthony Lauder"
+          "Aaron Greenhouse",
+          "John Boyland"
         ]
       },
       {
-        "title": "Object-Oriented Real Time Control System.",
+        "title": "Providing Persistent Objects in Distributed Systems.",
         "authors": [
-          "Andreas Speck"
+          "Barbara Liskov",
+          "Miguel Castro",
+          "Liuba Shrira",
+          "Atul Adya"
         ]
       },
       {
-        "title": "Layered Design Visualisation.",
+        "title": "Inlining of Virtual Methods.",
         "authors": [
-          "Ákos Frohner"
+          "David Detlefs",
+          "Ole Agesen"
         ]
       },
       {
-        "title": "A Practical Approach to Behavioural Inheritance in the Context of Coloured Petri Nets.",
+        "title": "Modular Statically Typed Multimethods.",
         "authors": [
-          "Charles Lakos",
-          "Glenn Lewis"
+          "Todd D. Millstein",
+          "Craig Chambers"
         ]
       },
       {
-        "title": "Static Analysis of Object Oriented Programs.",
+        "title": "Multi-method Dispatch Using Multiple Row Displacement.",
         "authors": [
-          "Christoph Steindl"
+          "Candy Pang",
+          "Wade Holst",
+          "Yuri Leontiev",
+          "Duane Szafron"
         ]
       },
       {
-        "title": "A Framework for Dynamically Configurable Multimedia Distribution.",
+        "title": "Internal Iteration Externalized.",
         "authors": [
-          "Fabio Kon",
-          "Roy H. Campbell"
+          "Thomas Kühne"
         ]
       },
       {
-        "title": "Working with Business Patterns & Frameworks: A Case Study for Fuzzy Logic Control.",
+        "title": "Type-Safe Delegation for Run-Time Component Adaptation.",
         "authors": [
-          "Nathalie Gaertner",
-          "Bernard Thirion"
+          "Günter Kniesel"
         ]
       },
       {
-        "title": "Combining Object Orientation and Dataflow Modeling in the Vission Simulation System.",
+        "title": "Towards Automatic Specialization of Java Programs.",
         "authors": [
-          "Alexandru C. Telea",
-          "Cristian Sminchisescu"
+          "Ulrik Pagh Schultz",
+          "Julia L. Lawall",
+          "Charles Consel",
+          "Gilles Muller"
         ]
       },
       {
-        "title": "A Framework for Arbitrary Invocation Semantics.",
+        "title": "Wide Classes.",
         "authors": [
-          "Markus Hof"
+          "Manuel Serrano"
         ]
       },
       {
-        "title": "Medical KBS with Patterns.",
+        "title": "An Approach to Classify Semi-structured Objects.",
         "authors": [
-          "Marie Beurton-Aimar"
+          "Elisa Bertino",
+          "Giovanna Guerrini",
+          "Isabella Merlo",
+          "Marco Mesiti"
         ]
       },
       {
-        "title": "Development of OO Frameworks for Marine Information Systems.",
+        "title": "Object-Oriented Programming on the Network.",
         "authors": [
-          "Anita Jacob"
+          "Jim Waldo"
         ]
       },
       {
-        "title": "A Reflective Architecture for Middleware: Design and Implementation.",
+        "title": "Providing Fine-grained Access Control for Java Programs.",
         "authors": [
-          "Fábio M. Costa",
-          "Gordon S. Blair"
+          "Raju Pandey",
+          "Brant Hashii"
         ]
       },
       {
-        "title": "Application of Process Types.",
+        "title": "Formal Specification and Prototyping of CORBA Systems.",
         "authors": [
-          "Christoph Peter"
+          "Rémi Bastide",
+          "Ousmane Sy",
+          "Philippe A. Palanque"
         ]
       },
       {
-        "title": "'Executing' the OCL.",
+        "title": "Process Algebraic Specification of the New Asynchronous CORBA Messaging Service.",
         "authors": [
-          "Ian Oliver"
+          "Mauro Gaspari",
+          "Gianluigi Zavattaro"
+        ]
+      },
+      {
+        "title": "Object-Oriented Programming: Regaining the Excitement.",
+        "authors": [
+          "Andrew P. Black"
         ]
       }
     ]
@@ -15376,179 +15376,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoop/ecoop97.html": {
-    "header": "11th ECOOP 1997: Jyväskylä, Finland",
-    "year": "1997",
-    "papers": [
-      {
-        "title": "GOODS to Appear on the Stage.",
-        "authors": [
-          "Kristen Nygaard"
-        ]
-      },
-      {
-        "title": "Balloon Types: Controlling Sharing of State in Data Types.",
-        "authors": [
-          "Paulo Sérgio Almeida"
-        ]
-      },
-      {
-        "title": "Static Integrity Constraint Management in Object-Oriented Database Programming Languages via Predicate Transformers.",
-        "authors": [
-          "Véronique Benzaken",
-          "Xavier Schaefer"
-        ]
-      },
-      {
-        "title": "Issues with Exception Handling in Object-Oriented Systems.",
-        "authors": [
-          "Robert Miller",
-          "Anand R. Tripathi"
-        ]
-      },
-      {
-        "title": "Subtyping Is Not a Good \"Match\" for Object-Oriented Languages.",
-        "authors": [
-          "Kim B. Bruce",
-          "Leaf Petersen",
-          "Adrian Fiech"
-        ]
-      },
-      {
-        "title": "Near Optimal Hierarchical Encoding of Types.",
-        "authors": [
-          "Andreas Krall",
-          "Jan Vitek",
-          "R. Nigel Horspool"
-        ]
-      },
-      {
-        "title": "An Extended Theory of Primitive Objects: FIrst Order System.",
-        "authors": [
-          "Luigi Liquori"
-        ]
-      },
-      {
-        "title": "A Reflective Architecture for Process Control Applications.",
-        "authors": [
-          "Charlotte Pii Lunau"
-        ]
-      },
-      {
-        "title": "Dynamic Object Evolution without Name Collisions.",
-        "authors": [
-          "Mira Mezini"
-        ]
-      },
-      {
-        "title": "Aspect-Oriented Programming.",
-        "authors": [
-          "Gregor Kiczales",
-          "John Lamping",
-          "Anurag Mendhekar",
-          "Chris Maeda",
-          "Cristina Videira Lopes",
-          "Jean-Marc Loingtier",
-          "John Irwin"
-        ]
-      },
-      {
-        "title": "DRASTIC: A Run-Time Architecture for Evolving, Distributed, Persistent Systems.",
-        "authors": [
-          "James Huw Evans",
-          "Peter Dickman"
-        ]
-      },
-      {
-        "title": "A General Framework for Inheritance Management and Method Dispatch in Object-Oriented Languages.",
-        "authors": [
-          "Wade Holst",
-          "Duane Szafron"
-        ]
-      },
-      {
-        "title": "Optimizing Smalltalk by Selector Code INdexing Can Be Practical.",
-        "authors": [
-          "Tamiya Onodera",
-          "Hiroaki Nakamura"
-        ]
-      },
-      {
-        "title": "Objects, Associations and Subsystems: A Hierarchical Approach to Encapsulation.",
-        "authors": [
-          "Juan Bicarregui",
-          "Kevin Lano",
-          "T. S. E. Maibaum"
-        ]
-      },
-      {
-        "title": "Towards a Formalization of the Unified Modeling Language.",
-        "authors": [
-          "Ruth Breu",
-          "Ursula Hinkel",
-          "Christoph Hofmann",
-          "Cornel Klein",
-          "Barbara Paech",
-          "Bernhard Rumpe",
-          "Veronika Thurner"
-        ]
-      },
-      {
-        "title": "Coordination Requirements Expressed in Types for Active Objects.",
-        "authors": [
-          "Franz Puntigam"
-        ]
-      },
-      {
-        "title": "Java is Type Safe - Probably.",
-        "authors": [
-          "Sophia Drossopoulou",
-          "Susan Eisenbach"
-        ]
-      },
-      {
-        "title": "Feature-Oriented Programming: A Fresh Look at Objects.",
-        "authors": [
-          "Christian Prehofer"
-        ]
-      },
-      {
-        "title": "Genericity in Java with Virtual Types.",
-        "authors": [
-          "Kresten Krab Thorup"
-        ]
-      },
-      {
-        "title": "Tool Support for Object-Oriented Patterns.",
-        "authors": [
-          "Gert Florijn",
-          "Marco Meijers",
-          "Pieter van Winsen"
-        ]
-      },
-      {
-        "title": "A Model for Structuring User Documentation of Object-Oriented Frameworks Using Patterns and Hypertext.",
-        "authors": [
-          "Matthias Meusel",
-          "Krzysztof Czarnecki",
-          "Wolfgang Köpf"
-        ]
-      },
-      {
-        "title": "Using Patterns for Design and Documentation.",
-        "authors": [
-          "Georg Odenthal",
-          "Klaus Quibeldey-Cirkel"
-        ]
-      },
-      {
-        "title": "Going Beyond Objects with Design Patterns (Abstract).",
-        "authors": [
-          "Erich Gamma"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/ecoopw/ecoopw97.html": {
     "header": "ECOOP Workshops 1997",
     "year": "1997",
@@ -16241,6 +16068,330 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/ecoop/ecoop97.html": {
+    "header": "11th ECOOP 1997: Jyväskylä, Finland",
+    "year": "1997",
+    "papers": [
+      {
+        "title": "GOODS to Appear on the Stage.",
+        "authors": [
+          "Kristen Nygaard"
+        ]
+      },
+      {
+        "title": "Balloon Types: Controlling Sharing of State in Data Types.",
+        "authors": [
+          "Paulo Sérgio Almeida"
+        ]
+      },
+      {
+        "title": "Static Integrity Constraint Management in Object-Oriented Database Programming Languages via Predicate Transformers.",
+        "authors": [
+          "Véronique Benzaken",
+          "Xavier Schaefer"
+        ]
+      },
+      {
+        "title": "Issues with Exception Handling in Object-Oriented Systems.",
+        "authors": [
+          "Robert Miller",
+          "Anand R. Tripathi"
+        ]
+      },
+      {
+        "title": "Subtyping Is Not a Good \"Match\" for Object-Oriented Languages.",
+        "authors": [
+          "Kim B. Bruce",
+          "Leaf Petersen",
+          "Adrian Fiech"
+        ]
+      },
+      {
+        "title": "Near Optimal Hierarchical Encoding of Types.",
+        "authors": [
+          "Andreas Krall",
+          "Jan Vitek",
+          "R. Nigel Horspool"
+        ]
+      },
+      {
+        "title": "An Extended Theory of Primitive Objects: FIrst Order System.",
+        "authors": [
+          "Luigi Liquori"
+        ]
+      },
+      {
+        "title": "A Reflective Architecture for Process Control Applications.",
+        "authors": [
+          "Charlotte Pii Lunau"
+        ]
+      },
+      {
+        "title": "Dynamic Object Evolution without Name Collisions.",
+        "authors": [
+          "Mira Mezini"
+        ]
+      },
+      {
+        "title": "Aspect-Oriented Programming.",
+        "authors": [
+          "Gregor Kiczales",
+          "John Lamping",
+          "Anurag Mendhekar",
+          "Chris Maeda",
+          "Cristina Videira Lopes",
+          "Jean-Marc Loingtier",
+          "John Irwin"
+        ]
+      },
+      {
+        "title": "DRASTIC: A Run-Time Architecture for Evolving, Distributed, Persistent Systems.",
+        "authors": [
+          "James Huw Evans",
+          "Peter Dickman"
+        ]
+      },
+      {
+        "title": "A General Framework for Inheritance Management and Method Dispatch in Object-Oriented Languages.",
+        "authors": [
+          "Wade Holst",
+          "Duane Szafron"
+        ]
+      },
+      {
+        "title": "Optimizing Smalltalk by Selector Code INdexing Can Be Practical.",
+        "authors": [
+          "Tamiya Onodera",
+          "Hiroaki Nakamura"
+        ]
+      },
+      {
+        "title": "Objects, Associations and Subsystems: A Hierarchical Approach to Encapsulation.",
+        "authors": [
+          "Juan Bicarregui",
+          "Kevin Lano",
+          "T. S. E. Maibaum"
+        ]
+      },
+      {
+        "title": "Towards a Formalization of the Unified Modeling Language.",
+        "authors": [
+          "Ruth Breu",
+          "Ursula Hinkel",
+          "Christoph Hofmann",
+          "Cornel Klein",
+          "Barbara Paech",
+          "Bernhard Rumpe",
+          "Veronika Thurner"
+        ]
+      },
+      {
+        "title": "Coordination Requirements Expressed in Types for Active Objects.",
+        "authors": [
+          "Franz Puntigam"
+        ]
+      },
+      {
+        "title": "Java is Type Safe - Probably.",
+        "authors": [
+          "Sophia Drossopoulou",
+          "Susan Eisenbach"
+        ]
+      },
+      {
+        "title": "Feature-Oriented Programming: A Fresh Look at Objects.",
+        "authors": [
+          "Christian Prehofer"
+        ]
+      },
+      {
+        "title": "Genericity in Java with Virtual Types.",
+        "authors": [
+          "Kresten Krab Thorup"
+        ]
+      },
+      {
+        "title": "Tool Support for Object-Oriented Patterns.",
+        "authors": [
+          "Gert Florijn",
+          "Marco Meijers",
+          "Pieter van Winsen"
+        ]
+      },
+      {
+        "title": "A Model for Structuring User Documentation of Object-Oriented Frameworks Using Patterns and Hypertext.",
+        "authors": [
+          "Matthias Meusel",
+          "Krzysztof Czarnecki",
+          "Wolfgang Köpf"
+        ]
+      },
+      {
+        "title": "Using Patterns for Design and Documentation.",
+        "authors": [
+          "Georg Odenthal",
+          "Klaus Quibeldey-Cirkel"
+        ]
+      },
+      {
+        "title": "Going Beyond Objects with Design Patterns (Abstract).",
+        "authors": [
+          "Erich Gamma"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/mos/mos1996.html": {
+    "header": "2. MOS 1996: Linz, Austria",
+    "year": "1996",
+    "papers": [
+      {
+        "title": "Mobile Computation.",
+        "authors": [
+          "Luca Cardelli"
+        ]
+      },
+      {
+        "title": "Objectworld.",
+        "authors": [
+          "Dennis Tsichritzis"
+        ]
+      },
+      {
+        "title": "Commentary on an \"Objectworld\".",
+        "authors": [
+          "Dennis Tsichritzis"
+        ]
+      },
+      {
+        "title": "Mobile Agents: Are They a Good Idea?",
+        "authors": [
+          "David M. Chess",
+          "Colin G. Harrison",
+          "Aaron Kershenbaum"
+        ]
+      },
+      {
+        "title": "Update.",
+        "authors": [
+          "David M. Chess",
+          "Colin G. Harrison",
+          "Aaron Kershenbaum"
+        ]
+      },
+      {
+        "title": "A Note on Distributed Computing.",
+        "authors": [
+          "Jim Waldo",
+          "Geoff Wyant",
+          "Ann Wollrath",
+          "Samuel C. Kendall"
+        ]
+      },
+      {
+        "title": "Afterword.",
+        "authors": [
+          "Jim Waldo",
+          "Ann Wollrath",
+          "Samuel C. Kendall"
+        ]
+      },
+      {
+        "title": "Instruction-Based Communications.",
+        "authors": [
+          "Christian F. Tschudin"
+        ]
+      },
+      {
+        "title": "Analyzing Mobile Code Languages.",
+        "authors": [
+          "Gianpaolo Cugola",
+          "Carlo Ghezzi",
+          "Gian Pietro Picco",
+          "Giovanni Vigna"
+        ]
+      },
+      {
+        "title": "Sumatra: A Language for Resource-Aware Mobile Programs.",
+        "authors": [
+          "Anurag Acharya",
+          "M. Ranganathan",
+          "Joel H. Saltz"
+        ]
+      },
+      {
+        "title": "Migratory Applications.",
+        "authors": [
+          "Krishna Bharat",
+          "Luca Cardelli"
+        ]
+      },
+      {
+        "title": "The Messenger Environment MØ - A Condensed Description.",
+        "authors": [
+          "Christian F. Tschudin"
+        ]
+      },
+      {
+        "title": "Mobility and Persistence.",
+        "authors": [
+          "Miguel Mira da Silva"
+        ]
+      },
+      {
+        "title": "Security and Communication in Mobile Object Systems.",
+        "authors": [
+          "Jan Vitek",
+          "Manuel Serrano",
+          "Dimitri Thanos"
+        ]
+      },
+      {
+        "title": "Safe and Secure Execution Mechanisms for Mobile Objects.",
+        "authors": [
+          "Kazuhiko Kato"
+        ]
+      },
+      {
+        "title": "Jada - Coordination and Communication for Java Agents.",
+        "authors": [
+          "Paolo Ciancarini",
+          "Davide Rossi"
+        ]
+      },
+      {
+        "title": "Performance-Oriented Implementation Strategies for a Mobile Agent Language.",
+        "authors": [
+          "Frederick Knabe"
+        ]
+      },
+      {
+        "title": "Dynamic Linking for Mobile Programs.",
+        "authors": [
+          "Anurag Acharya",
+          "Joel H. Saltz"
+        ]
+      },
+      {
+        "title": "Adaptive Compression of Syntax Trees and Iterative Dynamic Code Optimization: Two Basic Technologies for Mobile Object Systems.",
+        "authors": [
+          "Michael Franz"
+        ]
+      },
+      {
+        "title": "A Type-Based Implementation of a Language with Distributed Scope.",
+        "authors": [
+          "Dominic Duggan"
+        ]
+      },
+      {
+        "title": "Interaction of Java and Telescript Agents.",
+        "authors": [
+          "Peter Dömel"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/ecoop/ecoop96.html": {
     "header": "10th ECOOP 1996: Linz, Austria",
     "year": "1996",
@@ -16411,157 +16562,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/mos/mos1996.html": {
-    "header": "2. MOS 1996: Linz, Austria",
-    "year": "1996",
-    "papers": [
-      {
-        "title": "Mobile Computation.",
-        "authors": [
-          "Luca Cardelli"
-        ]
-      },
-      {
-        "title": "Objectworld.",
-        "authors": [
-          "Dennis Tsichritzis"
-        ]
-      },
-      {
-        "title": "Commentary on an \"Objectworld\".",
-        "authors": [
-          "Dennis Tsichritzis"
-        ]
-      },
-      {
-        "title": "Mobile Agents: Are They a Good Idea?",
-        "authors": [
-          "David M. Chess",
-          "Colin G. Harrison",
-          "Aaron Kershenbaum"
-        ]
-      },
-      {
-        "title": "Update.",
-        "authors": [
-          "David M. Chess",
-          "Colin G. Harrison",
-          "Aaron Kershenbaum"
-        ]
-      },
-      {
-        "title": "A Note on Distributed Computing.",
-        "authors": [
-          "Jim Waldo",
-          "Geoff Wyant",
-          "Ann Wollrath",
-          "Samuel C. Kendall"
-        ]
-      },
-      {
-        "title": "Afterword.",
-        "authors": [
-          "Jim Waldo",
-          "Ann Wollrath",
-          "Samuel C. Kendall"
-        ]
-      },
-      {
-        "title": "Instruction-Based Communications.",
-        "authors": [
-          "Christian F. Tschudin"
-        ]
-      },
-      {
-        "title": "Analyzing Mobile Code Languages.",
-        "authors": [
-          "Gianpaolo Cugola",
-          "Carlo Ghezzi",
-          "Gian Pietro Picco",
-          "Giovanni Vigna"
-        ]
-      },
-      {
-        "title": "Sumatra: A Language for Resource-Aware Mobile Programs.",
-        "authors": [
-          "Anurag Acharya",
-          "M. Ranganathan",
-          "Joel H. Saltz"
-        ]
-      },
-      {
-        "title": "Migratory Applications.",
-        "authors": [
-          "Krishna Bharat",
-          "Luca Cardelli"
-        ]
-      },
-      {
-        "title": "The Messenger Environment MØ - A Condensed Description.",
-        "authors": [
-          "Christian F. Tschudin"
-        ]
-      },
-      {
-        "title": "Mobility and Persistence.",
-        "authors": [
-          "Miguel Mira da Silva"
-        ]
-      },
-      {
-        "title": "Security and Communication in Mobile Object Systems.",
-        "authors": [
-          "Jan Vitek",
-          "Manuel Serrano",
-          "Dimitri Thanos"
-        ]
-      },
-      {
-        "title": "Safe and Secure Execution Mechanisms for Mobile Objects.",
-        "authors": [
-          "Kazuhiko Kato"
-        ]
-      },
-      {
-        "title": "Jada - Coordination and Communication for Java Agents.",
-        "authors": [
-          "Paolo Ciancarini",
-          "Davide Rossi"
-        ]
-      },
-      {
-        "title": "Performance-Oriented Implementation Strategies for a Mobile Agent Language.",
-        "authors": [
-          "Frederick Knabe"
-        ]
-      },
-      {
-        "title": "Dynamic Linking for Mobile Programs.",
-        "authors": [
-          "Anurag Acharya",
-          "Joel H. Saltz"
-        ]
-      },
-      {
-        "title": "Adaptive Compression of Syntax Trees and Iterative Dynamic Code Optimization: Two Basic Technologies for Mobile Object Systems.",
-        "authors": [
-          "Michael Franz"
-        ]
-      },
-      {
-        "title": "A Type-Based Implementation of a Language with Distributed Scope.",
-        "authors": [
-          "Dominic Duggan"
-        ]
-      },
-      {
-        "title": "Interaction of Java and Telescript Agents.",
-        "authors": [
-          "Peter Dömel"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/ecoop/ecoop95.html": {
     "header": "9th ECOOP 1995: Åarhus, Denmark",
     "year": "1995",
@@ -16708,6 +16708,92 @@
         "title": "ChyPro: A Hypermedia Programming Environment for Smalltalk-80.",
         "authors": [
           "Maurice Amsellem"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/ecoopw/ecoopw94.html": {
+    "header": "ECOOP Workshop 1994",
+    "year": "1994",
+    "papers": [
+      {
+        "title": "Rule-Based Object Coordination.",
+        "authors": [
+          "Jean-Marc Andreoli",
+          "Hervé Gallaire",
+          "Remo Pareschi"
+        ]
+      },
+      {
+        "title": "Sender-Initated and Receiver-Initated Coordination in a Global Object Space.",
+        "authors": [
+          "Stijn Bijnens",
+          "Wouter Joosen",
+          "Pierre Verbaeten"
+        ]
+      },
+      {
+        "title": "Correctness-Preserving Transformations for the Design of Parallel Programs.",
+        "authors": [
+          "Naima Brown"
+        ]
+      },
+      {
+        "title": "Distributed Conflicts in Communicating Systems.",
+        "authors": [
+          "Nadia Busi",
+          "Roberto Gorrieri"
+        ]
+      },
+      {
+        "title": "Bauhaus Linda.",
+        "authors": [
+          "Nicholas Carriero",
+          "David Gelernter",
+          "Lenore D. Zuck"
+        ]
+      },
+      {
+        "title": "On the Operational Sematics of a Coordination Language.",
+        "authors": [
+          "Paolo Ciancarini",
+          "Keld K. Jensen",
+          "Daniel Yankelevich"
+        ]
+      },
+      {
+        "title": "Abstracting Interactions Based on Message Sets.",
+        "authors": [
+          "Svend Frølund",
+          "Gul Agha"
+        ]
+      },
+      {
+        "title": "Law-Governed Linda as a Coordination Model.",
+        "authors": [
+          "Naftaly H. Minsky",
+          "Jerrold Leichter"
+        ]
+      },
+      {
+        "title": "Requirements for a Composition Language.",
+        "authors": [
+          "Oscar Nierstrasz",
+          "Theo Dirk Meijler"
+        ]
+      },
+      {
+        "title": "A Model for Active Object Coordination and for Distributed Multimedia Applications.",
+        "authors": [
+          "Michael Papathomas",
+          "Gordon S. Blair",
+          "Geoff Coulson"
+        ]
+      },
+      {
+        "title": "A Machine for Uncoupled Coordination and Its Concurrent Behavior.",
+        "authors": [
+          "Robert Tolksdorf"
         ]
       }
     ]
@@ -16911,20 +16997,64 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoopw/ecoopw94.html": {
-    "header": "ECOOP Workshop 1994",
-    "year": "1994",
+  "https://dblp.org/db/conf/ecoopw/ecoopw93.html": {
+    "header": "ECOOP Workshop 1993",
+    "year": "1993",
     "papers": [
       {
-        "title": "Rule-Based Object Coordination.",
+        "title": "Models and Paradigms of Interaction.",
         "authors": [
+          "Peter Wegner"
+        ]
+      },
+      {
+        "title": "Architectural Convergence and The Granularity of Objects in Distributed Systems.",
+        "authors": [
+          "Robert J. Fowler"
+        ]
+      },
+      {
+        "title": "Separation of Distribution and Objects.",
+        "authors": [
+          "Eric Jul"
+        ]
+      },
+      {
+        "title": "Integrating Structural and Operational Programming to Manage Distributed Systems.",
+        "authors": [
+          "Christian Zeidler",
+          "Bernhard Fank"
+        ]
+      },
+      {
+        "title": "Concurrency and Communication: Choices in Implementing the Coordination Language LO.",
+        "authors": [
+          "Marc Bourgois",
           "Jean-Marc Andreoli",
-          "Hervé Gallaire",
           "Remo Pareschi"
         ]
       },
       {
-        "title": "Sender-Initated and Receiver-Initated Coordination in a Global Object Space.",
+        "title": "Toward Languages and Formal Systems for Distributed Computing.",
+        "authors": [
+          "Mario Tokoro",
+          "Kazunori Takashio"
+        ]
+      },
+      {
+        "title": "Decomposing and Recomposing Transactional Concepts.",
+        "authors": [
+          "Jeannette M. Wing"
+        ]
+      },
+      {
+        "title": "DPL to Express a Concurrency Control Using Transaction and Object Semantics.",
+        "authors": [
+          "Andry Rakotonirainy"
+        ]
+      },
+      {
+        "title": "A Reflective Invocation Scheme to Realise Advanced Object Management.",
         "authors": [
           "Stijn Bijnens",
           "Wouter Joosen",
@@ -16932,67 +17062,42 @@
         ]
       },
       {
-        "title": "Correctness-Preserving Transformations for the Design of Parallel Programs.",
+        "title": "Abstracting Object Interactions Using Composition Filters.",
         "authors": [
-          "Naima Brown"
+          "Mehmet Aksit",
+          "Ken Wakita",
+          "Jan Bosch",
+          "Lodewijk Bergmans",
+          "Akinori Yonezawa"
         ]
       },
       {
-        "title": "Distributed Conflicts in Communicating Systems.",
+        "title": "Object-Oriented Distributed Programming in BETA.",
         "authors": [
-          "Nadia Busi",
-          "Roberto Gorrieri"
+          "Søren Brandt",
+          "Ole Lehrmann Madsen"
         ]
       },
       {
-        "title": "Bauhaus Linda.",
+        "title": "A Flexible System Design to Support Object-Groups and Object-Oriented Distributed Programming.",
         "authors": [
-          "Nicholas Carriero",
-          "David Gelernter",
-          "Lenore D. Zuck"
+          "Silvano Maffeis"
         ]
       },
       {
-        "title": "On the Operational Sematics of a Coordination Language.",
+        "title": "Distributed Programming in GARF.",
         "authors": [
-          "Paolo Ciancarini",
-          "Keld K. Jensen",
-          "Daniel Yankelevich"
+          "Benoît Garbinato",
+          "Rachid Guerraoui",
+          "Karim Mazouni"
         ]
       },
       {
-        "title": "Abstracting Interactions Based on Message Sets.",
+        "title": "Object-Oriented Extendibility in Hermes or ST, a Transactional Distributed Programming Environment.",
         "authors": [
-          "Svend Frølund",
-          "Gul Agha"
-        ]
-      },
-      {
-        "title": "Law-Governed Linda as a Coordination Model.",
-        "authors": [
-          "Naftaly H. Minsky",
-          "Jerrold Leichter"
-        ]
-      },
-      {
-        "title": "Requirements for a Composition Language.",
-        "authors": [
-          "Oscar Nierstrasz",
-          "Theo Dirk Meijler"
-        ]
-      },
-      {
-        "title": "A Model for Active Object Coordination and for Distributed Multimedia Applications.",
-        "authors": [
-          "Michael Papathomas",
-          "Gordon S. Blair",
-          "Geoff Coulson"
-        ]
-      },
-      {
-        "title": "A Machine for Uncoupled Coordination and Its Concurrent Behavior.",
-        "authors": [
-          "Robert Tolksdorf"
+          "Michael Fazzolare",
+          "Bernhard G. Humm",
+          "R. David Ranson"
         ]
       }
     ]
@@ -17191,111 +17296,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/ecoopw/ecoopw93.html": {
-    "header": "ECOOP Workshop 1993",
-    "year": "1993",
-    "papers": [
-      {
-        "title": "Models and Paradigms of Interaction.",
-        "authors": [
-          "Peter Wegner"
-        ]
-      },
-      {
-        "title": "Architectural Convergence and The Granularity of Objects in Distributed Systems.",
-        "authors": [
-          "Robert J. Fowler"
-        ]
-      },
-      {
-        "title": "Separation of Distribution and Objects.",
-        "authors": [
-          "Eric Jul"
-        ]
-      },
-      {
-        "title": "Integrating Structural and Operational Programming to Manage Distributed Systems.",
-        "authors": [
-          "Christian Zeidler",
-          "Bernhard Fank"
-        ]
-      },
-      {
-        "title": "Concurrency and Communication: Choices in Implementing the Coordination Language LO.",
-        "authors": [
-          "Marc Bourgois",
-          "Jean-Marc Andreoli",
-          "Remo Pareschi"
-        ]
-      },
-      {
-        "title": "Toward Languages and Formal Systems for Distributed Computing.",
-        "authors": [
-          "Mario Tokoro",
-          "Kazunori Takashio"
-        ]
-      },
-      {
-        "title": "Decomposing and Recomposing Transactional Concepts.",
-        "authors": [
-          "Jeannette M. Wing"
-        ]
-      },
-      {
-        "title": "DPL to Express a Concurrency Control Using Transaction and Object Semantics.",
-        "authors": [
-          "Andry Rakotonirainy"
-        ]
-      },
-      {
-        "title": "A Reflective Invocation Scheme to Realise Advanced Object Management.",
-        "authors": [
-          "Stijn Bijnens",
-          "Wouter Joosen",
-          "Pierre Verbaeten"
-        ]
-      },
-      {
-        "title": "Abstracting Object Interactions Using Composition Filters.",
-        "authors": [
-          "Mehmet Aksit",
-          "Ken Wakita",
-          "Jan Bosch",
-          "Lodewijk Bergmans",
-          "Akinori Yonezawa"
-        ]
-      },
-      {
-        "title": "Object-Oriented Distributed Programming in BETA.",
-        "authors": [
-          "Søren Brandt",
-          "Ole Lehrmann Madsen"
-        ]
-      },
-      {
-        "title": "A Flexible System Design to Support Object-Groups and Object-Oriented Distributed Programming.",
-        "authors": [
-          "Silvano Maffeis"
-        ]
-      },
-      {
-        "title": "Distributed Programming in GARF.",
-        "authors": [
-          "Benoît Garbinato",
-          "Rachid Guerraoui",
-          "Karim Mazouni"
-        ]
-      },
-      {
-        "title": "Object-Oriented Extendibility in Hermes or ST, a Transactional Distributed Programming Environment.",
-        "authors": [
-          "Michael Fazzolare",
-          "Bernhard G. Humm",
-          "R. David Ranson"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/ecoop/ecoop92.html": {
     "header": "6th ECOOP 1992: Utrecht, The Netherlands",
     "year": "1992",
@@ -17460,6 +17460,113 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/ecoopw/ecoopw1991.html": {
+    "header": "ECOOP Workshop 1991: Object-Based Concurrent Computing",
+    "year": "1991",
+    "papers": [
+      {
+        "title": "Towards and Object Calculus.",
+        "authors": [
+          "Oscar Nierstrasz"
+        ]
+      },
+      {
+        "title": "On Asynchronous Communication Semantics.",
+        "authors": [
+          "Kohei Honda",
+          "Mario Tokoro"
+        ]
+      },
+      {
+        "title": "A Unifying Framework for Process Calculus Semantics of Concurrent Object-Oriented Languages.",
+        "authors": [
+          "Michael Papathomas"
+        ]
+      },
+      {
+        "title": "A Sheaf Semantics for FOOPS Expressions.",
+        "authors": [
+          "David A. Wolfram",
+          "Joseph A. Goguen"
+        ]
+      },
+      {
+        "title": "Semantic Layers of Object-Based Concurrent Computing.",
+        "authors": [
+          "Etsuya Shibayama"
+        ]
+      },
+      {
+        "title": "Formal Techniques for Parallel Object-Oriented Languages.",
+        "authors": [
+          "Pierre America"
+        ]
+      },
+      {
+        "title": "Traces Semantics for Actor Systems.",
+        "authors": [
+          "Vasco Thudichum Vasconcelos",
+          "Mario Tokoro"
+        ]
+      },
+      {
+        "title": "Dynamic Programming as Multiagent Programming.",
+        "authors": [
+          "Jean-Marc Andreoli",
+          "Remo Pareschi",
+          "Marc Bourgois"
+        ]
+      },
+      {
+        "title": "Scheduling Predicates.",
+        "authors": [
+          "Ciaran McHale",
+          "Bridget Walsh",
+          "Seán Baker",
+          "Alexis A. Donnelly"
+        ]
+      },
+      {
+        "title": "A Concurrency Control Mechanism for C++ Objects.",
+        "authors": [
+          "Hayssam Saleh",
+          "Philippe Gautron"
+        ]
+      },
+      {
+        "title": "Object-Oriented Concurrent Reflective Architectures.",
+        "authors": [
+          "Satoshi Matsuoka",
+          "Takuo Watanabe",
+          "Yuuji Ichisugi",
+          "Akinori Yonezawa"
+        ]
+      },
+      {
+        "title": "Abstract Description of Distributed Object Systems.",
+        "authors": [
+          "Thorsten Hartmann",
+          "Ralf Jungclaus"
+        ]
+      },
+      {
+        "title": "Desgin Issues for Object-Based Concurrency.",
+        "authors": [
+          "Peter Wegner"
+        ]
+      },
+      {
+        "title": "What Is An Object?",
+        "authors": [
+          "Pierre America",
+          "Robin Milner",
+          "Oscar Nierstrasz",
+          "Mario Tokoro",
+          "Akinori Yonezawa"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/ecoop/ecoop91.html": {
     "header": "5th ECOOP 1991: Geneva, Switzerland",
     "year": "1991",
@@ -17611,113 +17718,6 @@
         "authors": [
           "Paul L. Bergstein",
           "Karl J. Lieberherr"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/ecoopw/ecoopw1991.html": {
-    "header": "ECOOP Workshop 1991: Object-Based Concurrent Computing",
-    "year": "1991",
-    "papers": [
-      {
-        "title": "Towards and Object Calculus.",
-        "authors": [
-          "Oscar Nierstrasz"
-        ]
-      },
-      {
-        "title": "On Asynchronous Communication Semantics.",
-        "authors": [
-          "Kohei Honda",
-          "Mario Tokoro"
-        ]
-      },
-      {
-        "title": "A Unifying Framework for Process Calculus Semantics of Concurrent Object-Oriented Languages.",
-        "authors": [
-          "Michael Papathomas"
-        ]
-      },
-      {
-        "title": "A Sheaf Semantics for FOOPS Expressions.",
-        "authors": [
-          "David A. Wolfram",
-          "Joseph A. Goguen"
-        ]
-      },
-      {
-        "title": "Semantic Layers of Object-Based Concurrent Computing.",
-        "authors": [
-          "Etsuya Shibayama"
-        ]
-      },
-      {
-        "title": "Formal Techniques for Parallel Object-Oriented Languages.",
-        "authors": [
-          "Pierre America"
-        ]
-      },
-      {
-        "title": "Traces Semantics for Actor Systems.",
-        "authors": [
-          "Vasco Thudichum Vasconcelos",
-          "Mario Tokoro"
-        ]
-      },
-      {
-        "title": "Dynamic Programming as Multiagent Programming.",
-        "authors": [
-          "Jean-Marc Andreoli",
-          "Remo Pareschi",
-          "Marc Bourgois"
-        ]
-      },
-      {
-        "title": "Scheduling Predicates.",
-        "authors": [
-          "Ciaran McHale",
-          "Bridget Walsh",
-          "Seán Baker",
-          "Alexis A. Donnelly"
-        ]
-      },
-      {
-        "title": "A Concurrency Control Mechanism for C++ Objects.",
-        "authors": [
-          "Hayssam Saleh",
-          "Philippe Gautron"
-        ]
-      },
-      {
-        "title": "Object-Oriented Concurrent Reflective Architectures.",
-        "authors": [
-          "Satoshi Matsuoka",
-          "Takuo Watanabe",
-          "Yuuji Ichisugi",
-          "Akinori Yonezawa"
-        ]
-      },
-      {
-        "title": "Abstract Description of Distributed Object Systems.",
-        "authors": [
-          "Thorsten Hartmann",
-          "Ralf Jungclaus"
-        ]
-      },
-      {
-        "title": "Desgin Issues for Object-Based Concurrency.",
-        "authors": [
-          "Peter Wegner"
-        ]
-      },
-      {
-        "title": "What Is An Object?",
-        "authors": [
-          "Pierre America",
-          "Robin Milner",
-          "Oscar Nierstrasz",
-          "Mario Tokoro",
-          "Akinori Yonezawa"
         ]
       }
     ]

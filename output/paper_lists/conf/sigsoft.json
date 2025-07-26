@@ -3102,63 +3102,55 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/easeai2022.html": {
-    "header": "EASEAI@ESEC/SIGSOFT FSE 2022: Singapore",
+  "https://dblp.org/db/conf/sigsoft/maltesque2022.html": {
+    "header": "MaLTeSQuE@ESEC/SIGSOFT FSE 2022: Singapore",
     "year": "2022",
     "papers": [
       {
-        "title": "Evidence-based practices: broadening participation and improving learning in CS (invited talk).",
+        "title": "The promise and perils of using machine learning when engineering software (keynote paper).",
         "authors": [
-          "Maureen Doyle",
-          "Alina Campan",
-          "Meghan Schmidt"
+          "Yuriy Brun"
         ]
       },
       {
-        "title": "Student misconceptions about finite state machines: identify them in order to create a concept inventory.",
+        "title": "Neural language models for code quality identification.",
         "authors": [
-          "Julie Henry",
-          "Bruno Dumas",
-          "Andreea Vescan",
-          "Alexandra Maria Pasca"
+          "Srinivasan Sengamedu",
+          "Hangqi Zhao"
         ]
       },
       {
-        "title": "Mining sorting concept across curriculum levels: a cyclic learning based approach.",
+        "title": "Are machine programming systems using right source-code measures to select code repositories?",
         "authors": [
-          "Mariana Maier",
-          "Camelia Serban",
-          "Andrei Moisin"
+          "Niranjan Hasabnis"
         ]
       },
       {
-        "title": "A pedagogical approach in interleaving software quality concerns at an artificial intelligence course.",
+        "title": "On the application of machine learning models to assess and predict software reusability.",
         "authors": [
-          "Laura Diana Cernau",
-          "Laura-Silvia Diosan",
-          "Camelia Serban"
+          "Matthew Yit Hang Yeow",
+          "Chun Yong Chong",
+          "Mei Kuan Lim"
         ]
       },
       {
-        "title": "Findings from teaching entrepreneurship to undergraduate multidisciplinary students: case study.",
+        "title": "Using machine learning to guide the application of software refactorings: a preliminary exploration.",
         "authors": [
-          "Manuela Andreea Petrescu",
-          "Diana Laura Borza",
-          "Dan-Mircea Suciu"
+          "Nikolaos Nikolaidis",
+          "Dimitrios Zisis",
+          "Apostolos Ampatzoglou",
+          "Nikolaos Mittas",
+          "Alexander Chatzigeorgiou"
         ]
       },
       {
-        "title": "Towards automated testing for simple programming exercises.",
+        "title": "DeepCrash: deep metric learning for crash bucketing based on stack trace.",
         "authors": [
-          "Pierre Ortegat",
-          "Benoît Vanderose",
-          "Xavier Devroey"
-        ]
-      },
-      {
-        "title": "Implementing microlearning and gamification techniques in teaching software project management concepts.",
-        "authors": [
-          "Dan-Mircea Suciu"
+          "Chao Liu",
+          "Qiaoluan Xie",
+          "Yong Li",
+          "Yang Xu",
+          "Hyun-Deok Choi"
         ]
       }
     ]
@@ -4981,134 +4973,63 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/qp4se/qp4se2022.html": {
-    "header": "QP4SE@ESEC/SIGSOFT FSE 2022: Singapore",
+  "https://dblp.org/db/conf/sigsoft/easeai2022.html": {
+    "header": "EASEAI@ESEC/SIGSOFT FSE 2022: Singapore",
     "year": "2022",
     "papers": [
       {
-        "title": "Automatic generation of test circuits for the verification of Quantum deterministic algorithms.",
+        "title": "Evidence-based practices: broadening participation and improving learning in CS (invited talk).",
         "authors": [
-          "Antonio García de la Barrera Amo",
-          "Manuel A. Serrano",
-          "Ignacio García Rodríguez de Guzmán",
-          "Macario Polo",
-          "Mario Piattini"
+          "Maureen Doyle",
+          "Alina Campan",
+          "Meghan Schmidt"
         ]
       },
       {
-        "title": "Towards Quantum-algorithms-as-a-service.",
+        "title": "Student misconceptions about finite state machines: identify them in order to create a concept inventory.",
         "authors": [
-          "Manuel De Stefano",
-          "Dario Di Nucci",
-          "Fabio Palomba",
-          "Davide Taibi",
-          "Andrea De Lucia"
+          "Julie Henry",
+          "Bruno Dumas",
+          "Andreea Vescan",
+          "Alexandra Maria Pasca"
         ]
       },
       {
-        "title": "Embracing iterations in Quantum software: a vision.",
+        "title": "Mining sorting concept across curriculum levels: a cyclic learning based approach.",
         "authors": [
-          "Arif Ali Khan",
-          "Mahdi Fahmideh",
-          "Aakash Ahmad",
-          "Muhammad Waseem",
-          "Mahmood Niazi",
-          "Valtteri Lahtinen",
-          "Tommi Mikkonen"
+          "Mariana Maier",
+          "Camelia Serban",
+          "Andrei Moisin"
         ]
       },
       {
-        "title": "Quantum optimization for fast CAN bus intrusion detection.",
+        "title": "A pedagogical approach in interleaving software quality concerns at an artificial intelligence course.",
         "authors": [
-          "Danilo Caivano",
-          "Mirko De Vincentiis",
-          "Federica Nitti",
-          "Anibrata Pal"
+          "Laura Diana Cernau",
+          "Laura-Silvia Diosan",
+          "Camelia Serban"
         ]
       },
       {
-        "title": "QAI4ASE: Quantum artificial intelligence for automotive software engineering.",
+        "title": "Findings from teaching entrepreneurship to undergraduate multidisciplinary students: case study.",
         "authors": [
-          "Mirko De Vincentiis",
-          "Fabio Cassano",
-          "Alessandro Pagano",
-          "Antonio Piccinno"
+          "Manuela Andreea Petrescu",
+          "Diana Laura Borza",
+          "Dan-Mircea Suciu"
         ]
       },
       {
-        "title": "Quantum computing for software engineering: prospects.",
+        "title": "Towards automated testing for simple programming exercises.",
         "authors": [
-          "Andriy V. Miranskyy",
-          "Mushahid Khan",
-          "Jean Paul Latyr Faye",
-          "Udson C. Mendes"
+          "Pierre Ortegat",
+          "Benoît Vanderose",
+          "Xavier Devroey"
         ]
       },
       {
-        "title": "Using Quantum computers to speed up dynamic testing of software.",
+        "title": "Implementing microlearning and gamification techniques in teaching software project management concepts.",
         "authors": [
-          "Andriy V. Miranskyy"
-        ]
-      },
-      {
-        "title": "Asserting the correctness of Shor implementations using metamorphic testing.",
-        "authors": [
-          "Nuno Costa",
-          "João Paulo Fernandes",
-          "Rui Abreu"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sigsoft/maltesque2022.html": {
-    "header": "MaLTeSQuE@ESEC/SIGSOFT FSE 2022: Singapore",
-    "year": "2022",
-    "papers": [
-      {
-        "title": "The promise and perils of using machine learning when engineering software (keynote paper).",
-        "authors": [
-          "Yuriy Brun"
-        ]
-      },
-      {
-        "title": "Neural language models for code quality identification.",
-        "authors": [
-          "Srinivasan Sengamedu",
-          "Hangqi Zhao"
-        ]
-      },
-      {
-        "title": "Are machine programming systems using right source-code measures to select code repositories?",
-        "authors": [
-          "Niranjan Hasabnis"
-        ]
-      },
-      {
-        "title": "On the application of machine learning models to assess and predict software reusability.",
-        "authors": [
-          "Matthew Yit Hang Yeow",
-          "Chun Yong Chong",
-          "Mei Kuan Lim"
-        ]
-      },
-      {
-        "title": "Using machine learning to guide the application of software refactorings: a preliminary exploration.",
-        "authors": [
-          "Nikolaos Nikolaidis",
-          "Dimitrios Zisis",
-          "Apostolos Ampatzoglou",
-          "Nikolaos Mittas",
-          "Alexander Chatzigeorgiou"
-        ]
-      },
-      {
-        "title": "DeepCrash: deep metric learning for crash bucketing based on stack trace.",
-        "authors": [
-          "Chao Liu",
-          "Qiaoluan Xie",
-          "Yong Li",
-          "Yang Xu",
-          "Hyun-Deok Choi"
+          "Dan-Mircea Suciu"
         ]
       }
     ]
@@ -5212,136 +5133,138 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/easeai2021.html": {
-    "header": "EASEAI@ESEC/SIGSOFT FSE 2021: Athens, Greece",
-    "year": "2021",
+  "https://dblp.org/db/conf/qp4se/qp4se2022.html": {
+    "header": "QP4SE@ESEC/SIGSOFT FSE 2022: Singapore",
+    "year": "2022",
     "papers": [
       {
-        "title": "The good, the bad, and the ugly: mining for patterns in student source code.",
+        "title": "Automatic generation of test circuits for the verification of Quantum deterministic algorithms.",
         "authors": [
-          "Kim Mens",
-          "Siegfried Nijssen",
-          "Hoang-Son Pham"
+          "Antonio García de la Barrera Amo",
+          "Manuel A. Serrano",
+          "Ignacio García Rodríguez de Guzmán",
+          "Macario Polo",
+          "Mario Piattini"
         ]
       },
       {
-        "title": "Experience report on soft and project skills building through repetition.",
+        "title": "Towards Quantum-algorithms-as-a-service.",
         "authors": [
-          "Xavier Devroey",
-          "Moussa Amrani",
-          "Benoît Vanderose"
+          "Manuel De Stefano",
+          "Dario Di Nucci",
+          "Fabio Palomba",
+          "Davide Taibi",
+          "Andrea De Lucia"
         ]
       },
       {
-        "title": "Experience report on teaching testing through gamification.",
+        "title": "Embracing iterations in Quantum software: a vision.",
         "authors": [
-          "Beáta Lorincz",
-          "Bogdan Iudean",
-          "Andreea Vescan"
+          "Arif Ali Khan",
+          "Mahdi Fahmideh",
+          "Aakash Ahmad",
+          "Muhammad Waseem",
+          "Mahmood Niazi",
+          "Valtteri Lahtinen",
+          "Tommi Mikkonen"
         ]
       },
       {
-        "title": "A tool for evaluating computer programs from students.",
+        "title": "Quantum optimization for fast CAN bus intrusion detection.",
         "authors": [
-          "Quentin Vaneck",
-          "Thomas Colart",
-          "Benoît Frénay",
-          "Benoît Vanderose"
+          "Danilo Caivano",
+          "Mirko De Vincentiis",
+          "Federica Nitti",
+          "Anibrata Pal"
         ]
       },
       {
-        "title": "Seeding digital competencies from early childhood: a competence based approach.",
+        "title": "QAI4ASE: Quantum artificial intelligence for automotive software engineering.",
         "authors": [
-          "Adriana Mihaela Guran",
-          "Grigoreta Sofia Cojocar",
-          "Anamaria Moldovan"
+          "Mirko De Vincentiis",
+          "Fabio Cassano",
+          "Alessandro Pagano",
+          "Antonio Piccinno"
         ]
       },
       {
-        "title": "Agile principles applied in learning contexts.",
+        "title": "Quantum computing for software engineering: prospects.",
         "authors": [
-          "Virginia Niculescu",
-          "Dan-Mircea Suciu",
-          "Darius Bufnea"
+          "Andriy V. Miranskyy",
+          "Mushahid Khan",
+          "Jean Paul Latyr Faye",
+          "Udson C. Mendes"
         ]
       },
       {
-        "title": "Students perception on the impact of their involvement in the learning process: an empirical study.",
+        "title": "Using Quantum computers to speed up dynamic testing of software.",
         "authors": [
-          "Ioana-Alexandra Todericiu",
-          "Camelia Serban",
-          "Andreea Vescan"
+          "Andriy V. Miranskyy"
         ]
       },
       {
-        "title": "Practice makes better: quiz retake software to increase student learning.",
+        "title": "Asserting the correctness of Shor implementations using metamorphic testing.",
         "authors": [
-          "Kesina Baral",
-          "Jeff Offutt",
-          "Paul Ammann",
-          "Rasika Mohod"
-        ]
-      },
-      {
-        "title": "Towards authentic undergraduate research experiences in software engineering and machine learning.",
-        "authors": [
-          "Suranjan Chakraborty",
-          "Lin Deng",
-          "Josh Dehlinger"
-        ]
-      },
-      {
-        "title": "Analysis of the transition to a virtual learning semester in a college software testing course.",
-        "authors": [
-          "Chloe Smith",
-          "Upsorn Praphamontripong"
+          "Nuno Costa",
+          "João Paulo Fernandes",
+          "Rui Abreu"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/atest2021.html": {
-    "header": "12th A-TEST@ESEC/SIGSOFT FSE 2021: Athens, Greece",
+  "https://dblp.org/db/conf/sigsoft/maltesque2021.html": {
+    "header": "MaLTeSQuE@ESEC/SIGSOFT FSE 2021: Athens, Greece",
     "year": "2021",
     "papers": [
       {
-        "title": "Using an agent-based approach for robust automated testing of computer games.",
+        "title": "Comparing within- and cross-project machine learning algorithms for code smell detection.",
         "authors": [
-          "Samira Shirzadehhajimahmood",
-          "I. S. W. B. Prasetya",
-          "Frank Dignum",
-          "Mehdi Dastani",
-          "Gabriele Keller"
+          "Manuel De Stefano",
+          "Fabiano Pecorelli",
+          "Fabio Palomba",
+          "Andrea De Lucia"
         ]
       },
       {
-        "title": "Towards automated generation of PO-based WebDriver test suites from Selenium IDE recordings.",
+        "title": "Unsupervised learning of general-purpose embeddings for code changes.",
         "authors": [
-          "Filippo Ricca",
-          "Maurizio Leotta"
+          "Mikhail Pravilov",
+          "Egor Bogomolov",
+          "Yaroslav Golubev",
+          "Timofey Bryksin"
         ]
       },
       {
-        "title": "Automated translation of Android context-dependent gestures to visual GUI test instructions.",
+        "title": "VaryMinions: leveraging RNNs to identify variants in event logs.",
         "authors": [
-          "Riccardo Coppola",
-          "Luca Ardito",
-          "Marco Torchiano"
+          "Sophie Fortz",
+          "Paul Temple",
+          "Xavier Devroey",
+          "Patrick Heymans",
+          "Gilles Perrouin"
         ]
       },
       {
-        "title": "Integrating usage monitoring for continuous evaluation and testing in the UI of an industry application.",
+        "title": "Toward static test flakiness prediction: a feasibility study.",
         "authors": [
-          "Stefan Fischer",
-          "Claus Klammer",
-          "Rudolf Ramler"
+          "Valeria Pontillo",
+          "Fabio Palomba",
+          "Filomena Ferrucci"
         ]
       },
       {
-        "title": "Towards a workflow for model-based testing of embedded systems.",
+        "title": "Building a bot for automatic expert retrieval on discord.",
         "authors": [
-          "Muhammad Nouman Zafar",
-          "Wasif Afzal",
-          "Eduard Enoiu"
+          "Ignacio Nuñez Norambuena",
+          "Alexandre Bergel"
+        ]
+      },
+      {
+        "title": "Metrics selection for load monitoring of service-oriented system.",
+        "authors": [
+          "Francesco Lomio",
+          "Sampsa Jurvansuu",
+          "Davide Taibi"
         ]
       }
     ]
@@ -7032,59 +6955,202 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/maltesque2021.html": {
-    "header": "MaLTeSQuE@ESEC/SIGSOFT FSE 2021: Athens, Greece",
+  "https://dblp.org/db/conf/sigsoft/easeai2021.html": {
+    "header": "EASEAI@ESEC/SIGSOFT FSE 2021: Athens, Greece",
     "year": "2021",
     "papers": [
       {
-        "title": "Comparing within- and cross-project machine learning algorithms for code smell detection.",
+        "title": "The good, the bad, and the ugly: mining for patterns in student source code.",
         "authors": [
-          "Manuel De Stefano",
+          "Kim Mens",
+          "Siegfried Nijssen",
+          "Hoang-Son Pham"
+        ]
+      },
+      {
+        "title": "Experience report on soft and project skills building through repetition.",
+        "authors": [
+          "Xavier Devroey",
+          "Moussa Amrani",
+          "Benoît Vanderose"
+        ]
+      },
+      {
+        "title": "Experience report on teaching testing through gamification.",
+        "authors": [
+          "Beáta Lorincz",
+          "Bogdan Iudean",
+          "Andreea Vescan"
+        ]
+      },
+      {
+        "title": "A tool for evaluating computer programs from students.",
+        "authors": [
+          "Quentin Vaneck",
+          "Thomas Colart",
+          "Benoît Frénay",
+          "Benoît Vanderose"
+        ]
+      },
+      {
+        "title": "Seeding digital competencies from early childhood: a competence based approach.",
+        "authors": [
+          "Adriana Mihaela Guran",
+          "Grigoreta Sofia Cojocar",
+          "Anamaria Moldovan"
+        ]
+      },
+      {
+        "title": "Agile principles applied in learning contexts.",
+        "authors": [
+          "Virginia Niculescu",
+          "Dan-Mircea Suciu",
+          "Darius Bufnea"
+        ]
+      },
+      {
+        "title": "Students perception on the impact of their involvement in the learning process: an empirical study.",
+        "authors": [
+          "Ioana-Alexandra Todericiu",
+          "Camelia Serban",
+          "Andreea Vescan"
+        ]
+      },
+      {
+        "title": "Practice makes better: quiz retake software to increase student learning.",
+        "authors": [
+          "Kesina Baral",
+          "Jeff Offutt",
+          "Paul Ammann",
+          "Rasika Mohod"
+        ]
+      },
+      {
+        "title": "Towards authentic undergraduate research experiences in software engineering and machine learning.",
+        "authors": [
+          "Suranjan Chakraborty",
+          "Lin Deng",
+          "Josh Dehlinger"
+        ]
+      },
+      {
+        "title": "Analysis of the transition to a virtual learning semester in a college software testing course.",
+        "authors": [
+          "Chloe Smith",
+          "Upsorn Praphamontripong"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sigsoft/atest2021.html": {
+    "header": "12th A-TEST@ESEC/SIGSOFT FSE 2021: Athens, Greece",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Using an agent-based approach for robust automated testing of computer games.",
+        "authors": [
+          "Samira Shirzadehhajimahmood",
+          "I. S. W. B. Prasetya",
+          "Frank Dignum",
+          "Mehdi Dastani",
+          "Gabriele Keller"
+        ]
+      },
+      {
+        "title": "Towards automated generation of PO-based WebDriver test suites from Selenium IDE recordings.",
+        "authors": [
+          "Filippo Ricca",
+          "Maurizio Leotta"
+        ]
+      },
+      {
+        "title": "Automated translation of Android context-dependent gestures to visual GUI test instructions.",
+        "authors": [
+          "Riccardo Coppola",
+          "Luca Ardito",
+          "Marco Torchiano"
+        ]
+      },
+      {
+        "title": "Integrating usage monitoring for continuous evaluation and testing in the UI of an industry application.",
+        "authors": [
+          "Stefan Fischer",
+          "Claus Klammer",
+          "Rudolf Ramler"
+        ]
+      },
+      {
+        "title": "Towards a workflow for model-based testing of embedded systems.",
+        "authors": [
+          "Muhammad Nouman Zafar",
+          "Wasif Afzal",
+          "Eduard Enoiu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sigsoft/maltesque2020.html": {
+    "header": "MaLTeSQuE@ESEC/SIGSOFT FSE 2020: Virtual Event, USA",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "A preliminary study on the adequacy of static analysis warnings with respect to code smell prediction.",
+        "authors": [
+          "Savanna Lujan",
           "Fabiano Pecorelli",
           "Fabio Palomba",
-          "Andrea De Lucia"
+          "Andrea De Lucia",
+          "Valentina Lenarduzzi"
         ]
       },
       {
-        "title": "Unsupervised learning of general-purpose embeddings for code changes.",
+        "title": "DeepIaC: deep learning-based linguistic anti-pattern detection in IaC.",
         "authors": [
-          "Mikhail Pravilov",
-          "Egor Bogomolov",
-          "Yaroslav Golubev",
-          "Timofey Bryksin"
-        ]
-      },
-      {
-        "title": "VaryMinions: leveraging RNNs to identify variants in event logs.",
-        "authors": [
-          "Sophie Fortz",
-          "Paul Temple",
-          "Xavier Devroey",
-          "Patrick Heymans",
-          "Gilles Perrouin"
-        ]
-      },
-      {
-        "title": "Toward static test flakiness prediction: a feasibility study.",
-        "authors": [
-          "Valeria Pontillo",
+          "Nemania Borovits",
+          "Indika Kumara",
+          "Parvathy Krishnan",
+          "Stefano Dalla Palma",
+          "Dario Di Nucci",
           "Fabio Palomba",
-          "Filomena Ferrucci"
+          "Damian A. Tamburri",
+          "Willem-Jan van den Heuvel"
         ]
       },
       {
-        "title": "Building a bot for automatic expert retrieval on discord.",
+        "title": "Speeding up the data extraction of machine learning approaches: a distributed framework.",
         "authors": [
-          "Ignacio Nuñez Norambuena",
-          "Alexandre Bergel"
+          "Martin Steinhauer",
+          "Fabio Palomba"
         ]
       },
       {
-        "title": "Metrics selection for load monitoring of service-oriented system.",
+        "title": "RARE: a labeled dataset for cloud-native memory anomalies.",
         "authors": [
           "Francesco Lomio",
-          "Sampsa Jurvansuu",
+          "Diego Martinez-Baselga",
+          "Sergio Moreschini",
+          "Heikki Huttunen",
           "Davide Taibi"
+        ]
+      },
+      {
+        "title": "TraceSim: a method for calculating stack trace similarity.",
+        "authors": [
+          "Roman Vasiliev",
+          "Dmitrij V. Koznov",
+          "George A. Chernishev",
+          "Aleksandr Khvorov",
+          "Dmitry V. Luciv",
+          "Nikita Povarov"
+        ]
+      },
+      {
+        "title": "Singling the odd ones out: a novelty detection approach to find defects in infrastructure-as-code.",
+        "authors": [
+          "Stefano Dalla Palma",
+          "Majid Mohammadi",
+          "Dario Di Nucci",
+          "Damian A. Tamburri"
         ]
       }
     ]
@@ -8831,99 +8897,121 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/maltesque2020.html": {
-    "header": "MaLTeSQuE@ESEC/SIGSOFT FSE 2020: Virtual Event, USA",
-    "year": "2020",
+  "https://dblp.org/db/conf/sigsoft/wama2019.html": {
+    "header": "WAMA@ESEC/SIGSOFT FSE 2019: Tallinn, Estonia",
+    "year": "2019",
     "papers": [
       {
-        "title": "A preliminary study on the adequacy of static analysis warnings with respect to code smell prediction.",
+        "title": "A recommendation system for emergency mobile applications using context attributes: REMAC.",
         "authors": [
-          "Savanna Lujan",
-          "Fabiano Pecorelli",
+          "Alireza Ahmadi",
+          "Debjyoti Mukherjee",
+          "Guenther Ruhe"
+        ]
+      },
+      {
+        "title": "Characterizing the transition to Kotlin of Android apps: a study on F-Droid, Play Store, and GitHub.",
+        "authors": [
+          "Riccardo Coppola",
+          "Luca Ardito",
+          "Marco Torchiano"
+        ]
+      },
+      {
+        "title": "Release practices for iOS and Android apps.",
+        "authors": [
+          "Daniel Domínguez-Álvarez",
+          "Alessandra Gorla"
+        ]
+      },
+      {
+        "title": "AppNet: understanding app recommendation in Google Play.",
+        "authors": [
+          "Qian Guo",
+          "Haoyu Wang",
+          "Chenwei Zhang",
+          "Yao Guo",
+          "Guoai Xu"
+        ]
+      },
+      {
+        "title": "Better Android apps using Android vitals.",
+        "authors": [
+          "Julian Harty",
+          "Matthias Müller"
+        ]
+      },
+      {
+        "title": "Healthcare Android apps: a tale of the customers' perspective.",
+        "authors": [
+          "Mariaclaudia Nicolai",
+          "Luca Pascarella",
           "Fabio Palomba",
-          "Andrea De Lucia",
-          "Valentina Lenarduzzi"
+          "Alberto Bacchelli"
         ]
       },
       {
-        "title": "DeepIaC: deep learning-based linguistic anti-pattern detection in IaC.",
+        "title": "Using app reviews for competitive analysis: tool support.",
         "authors": [
-          "Nemania Borovits",
-          "Indika Kumara",
-          "Parvathy Krishnan",
-          "Stefano Dalla Palma",
-          "Dario Di Nucci",
-          "Fabio Palomba",
-          "Damian A. Tamburri",
-          "Willem-Jan van den Heuvel"
-        ]
-      },
-      {
-        "title": "Speeding up the data extraction of machine learning approaches: a distributed framework.",
-        "authors": [
-          "Martin Steinhauer",
-          "Fabio Palomba"
-        ]
-      },
-      {
-        "title": "RARE: a labeled dataset for cloud-native memory anomalies.",
-        "authors": [
-          "Francesco Lomio",
-          "Diego Martinez-Baselga",
-          "Sergio Moreschini",
-          "Heikki Huttunen",
-          "Davide Taibi"
-        ]
-      },
-      {
-        "title": "TraceSim: a method for calculating stack trace similarity.",
-        "authors": [
-          "Roman Vasiliev",
-          "Dmitrij V. Koznov",
-          "George A. Chernishev",
-          "Aleksandr Khvorov",
-          "Dmitry V. Luciv",
-          "Nikita Povarov"
-        ]
-      },
-      {
-        "title": "Singling the odd ones out: a novelty detection approach to find defects in infrastructure-as-code.",
-        "authors": [
-          "Stefano Dalla Palma",
-          "Majid Mohammadi",
-          "Dario Di Nucci",
-          "Damian A. Tamburri"
+          "Faiz Ali Shah",
+          "Kairit Sirts",
+          "Dietmar Pfahl"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/ensemble2019.html": {
-    "header": "EnSEmble@ESEC/SIGSOFT FSE 2019: Tallinn, Estonia",
+  "https://dblp.org/db/conf/sigsoft/squade2019.html": {
+    "header": "2nd SQUADE@ESEC/SIGSOFT FSE 2019: Tallinn, Estonia",
     "year": "2019",
     "papers": [
       {
-        "title": "EnergyAware: a non-intrusive load monitoring system to improve the domestic energy consumption awareness.",
+        "title": "A heuristic fuzz test generator for Java native interface.",
         "authors": [
-          "Paolo Buono",
-          "Fabrizio Balducci",
-          "Fabio Cassano",
-          "Antonio Piccinno"
+          "Jinjing Zhao",
+          "Yan Wen",
+          "Xiang Li",
+          "Ling Pang",
+          "Xiaohui Kuang",
+          "Dongxia Wang"
         ]
       },
       {
-        "title": "Assessing the greenability of ensembles.",
+        "title": "A comparative study of FAQs for software development.",
         "authors": [
-          "J. David Patón-Romero",
-          "Maria Teresa Baldassarre",
-          "Moisés Rodríguez",
-          "Mario Piattini"
+          "Mathias Ellmann",
+          "Irmo Timmann"
         ]
       },
       {
-        "title": "Semi-automatic generation of cybersecurity exercises: a preliminary proposal.",
+        "title": "Hospitality of chatbot building platforms.",
         "authors": [
-          "Marina Ribaudo",
-          "Andrea Valenza"
+          "Saurabh Srivastava",
+          "Tadinada Vankata Prabhakar"
+        ]
+      },
+      {
+        "title": "Integrating runtime data with development data to monitor external quality: challenges from practice.",
+        "authors": [
+          "Aytaj Aghabayli",
+          "Dietmar Pfahl",
+          "Silverio Martínez-Fernández",
+          "Adam Trendowicz"
+        ]
+      },
+      {
+        "title": "Predicting reliability by severity and priority of defects.",
+        "authors": [
+          "Camelia Serban",
+          "Andreea Vescan"
+        ]
+      },
+      {
+        "title": "Contributors' impact on a FOSS project's quality.",
+        "authors": [
+          "Thomas Schranz",
+          "Christian Schindler",
+          "Matthias Müller",
+          "Wolfgang Slany"
         ]
       }
     ]
@@ -8992,71 +9080,88 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/easeai2019.html": {
-    "header": "EASEAI@ESEC/SIGSOFT FSE 2019: Tallinn, Estonia",
+  "https://dblp.org/db/conf/sigsoft/iwsib2019.html": {
+    "header": "IWSiB@ESEC/SIGSOFT FSE 2019: Tallinn, Estonia",
     "year": "2019",
     "papers": [
       {
-        "title": "Engaging children in the smart city: a participatory design workshop.",
+        "title": "iIoT ecosystem development through boundary resources: a Siemens MindSphere case study.",
         "authors": [
-          "Anthony Simonofski",
-          "Bruno Dumas",
-          "Antoine Clarinval"
+          "Dimitri Petrik",
+          "Georg Herzwurm"
         ]
       },
       {
-        "title": "Designing personalized learning environments through monitoring and guiding user interactions with code and natural language.",
+        "title": "Do we know how to price SaaS: a multi-vocal literature review.",
         "authors": [
-          "Mircea Lungu"
+          "Andrey Saltan"
         ]
       },
       {
-        "title": "Analysis of students' preconceptions of concurrency.",
+        "title": "QUESt: new practices to represent hypotheses in experiment-driven software development.",
         "authors": [
-          "Cédric Libert",
-          "Wim Vanhoof"
+          "Jorge Melegati",
+          "Xiaofeng Wang"
         ]
       },
       {
-        "title": "Open knowledge interface: a digital assistant to support students in writing academic assignments.",
+        "title": "DEEP: the product roadmap maturity model: a method for assessing the product roadmapping capabilities of organizations.",
         "authors": [
-          "Olaf Resch",
-          "Aglika Yankova"
+          "Jürgen Münch",
+          "Stefan Trieflinger",
+          "Dominic Lang"
         ]
       },
       {
-        "title": "Towards context-aware automated writing evaluation systems.",
+        "title": "Software startup education: gamifying growth hacking.",
         "authors": [
-          "Pierre-André Patout",
-          "Maxime Cordy"
+          "Kai-Kristian Kemell",
+          "Polina Feshchenko",
+          "Joonas Himmanen",
+          "Abrar Hossain",
+          "Furqan Jameel",
+          "Raffaele Luigi Puca",
+          "Teemu Vitikainen",
+          "Joni Kultanen",
+          "Juhani Risku",
+          "Johannes Impiö",
+          "Anssi Sorvisto",
+          "Pekka Abrahamsson"
         ]
       },
       {
-        "title": "Application of data clustering for automated feedback generation about student well-being.",
+        "title": "Touched by the Hackathon: a study on the connection between Hackathon participants and start-up founders.",
         "authors": [
-          "Mikko Kylväjä",
-          "Pekka Kumpulainen",
-          "Anne Konu"
+          "Alexander Nolte"
         ]
       },
       {
-        "title": "Does learning by doing have a positive impact on teaching model checking?",
+        "title": "The effects of AI-human-interaction to value creation in multi-actor systems: how AI shapes digital B2B sales.",
         "authors": [
-          "Andreea Vescan"
+          "Sami Rusthollkarhu",
+          "Leena Aarikka-Stenroos"
         ]
       },
       {
-        "title": "Artificial intelligence meets software engineering in the classroom.",
+        "title": "Productization levels towards whole product in SaaS business.",
         "authors": [
-          "Laura Diosan",
-          "Simona Motogna"
+          "Teppo Yrjönkoski",
+          "Kari Systä"
         ]
       },
       {
-        "title": "Advances in designing a student-centered learning process using cutting-edge methods, tools, and artificial intelligence: an e-learning platform.",
+        "title": "Hub companies shaping the future: the ethicality and corporate social responsibility of platform economy giants.",
         "authors": [
-          "Camelia Serban",
-          "Andreea Vescan"
+          "Hanna Härkönen",
+          "Juhani Naskali",
+          "Kai Kimppa"
+        ]
+      },
+      {
+        "title": "Value-based technical debt management: an exploratory case study in start-ups and scale-ups.",
+        "authors": [
+          "Mercy Njima",
+          "Serge Demeyer"
         ]
       }
     ]
@@ -10378,207 +10483,102 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/wama2019.html": {
-    "header": "WAMA@ESEC/SIGSOFT FSE 2019: Tallinn, Estonia",
+  "https://dblp.org/db/conf/sigsoft/ensemble2019.html": {
+    "header": "EnSEmble@ESEC/SIGSOFT FSE 2019: Tallinn, Estonia",
     "year": "2019",
     "papers": [
       {
-        "title": "A recommendation system for emergency mobile applications using context attributes: REMAC.",
+        "title": "EnergyAware: a non-intrusive load monitoring system to improve the domestic energy consumption awareness.",
         "authors": [
-          "Alireza Ahmadi",
-          "Debjyoti Mukherjee",
-          "Guenther Ruhe"
+          "Paolo Buono",
+          "Fabrizio Balducci",
+          "Fabio Cassano",
+          "Antonio Piccinno"
         ]
       },
       {
-        "title": "Characterizing the transition to Kotlin of Android apps: a study on F-Droid, Play Store, and GitHub.",
+        "title": "Assessing the greenability of ensembles.",
         "authors": [
-          "Riccardo Coppola",
-          "Luca Ardito",
-          "Marco Torchiano"
+          "J. David Patón-Romero",
+          "Maria Teresa Baldassarre",
+          "Moisés Rodríguez",
+          "Mario Piattini"
         ]
       },
       {
-        "title": "Release practices for iOS and Android apps.",
+        "title": "Semi-automatic generation of cybersecurity exercises: a preliminary proposal.",
         "authors": [
-          "Daniel Domínguez-Álvarez",
-          "Alessandra Gorla"
-        ]
-      },
-      {
-        "title": "AppNet: understanding app recommendation in Google Play.",
-        "authors": [
-          "Qian Guo",
-          "Haoyu Wang",
-          "Chenwei Zhang",
-          "Yao Guo",
-          "Guoai Xu"
-        ]
-      },
-      {
-        "title": "Better Android apps using Android vitals.",
-        "authors": [
-          "Julian Harty",
-          "Matthias Müller"
-        ]
-      },
-      {
-        "title": "Healthcare Android apps: a tale of the customers' perspective.",
-        "authors": [
-          "Mariaclaudia Nicolai",
-          "Luca Pascarella",
-          "Fabio Palomba",
-          "Alberto Bacchelli"
-        ]
-      },
-      {
-        "title": "Using app reviews for competitive analysis: tool support.",
-        "authors": [
-          "Faiz Ali Shah",
-          "Kairit Sirts",
-          "Dietmar Pfahl"
+          "Marina Ribaudo",
+          "Andrea Valenza"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/squade2019.html": {
-    "header": "2nd SQUADE@ESEC/SIGSOFT FSE 2019: Tallinn, Estonia",
+  "https://dblp.org/db/conf/sigsoft/easeai2019.html": {
+    "header": "EASEAI@ESEC/SIGSOFT FSE 2019: Tallinn, Estonia",
     "year": "2019",
     "papers": [
       {
-        "title": "A heuristic fuzz test generator for Java native interface.",
+        "title": "Engaging children in the smart city: a participatory design workshop.",
         "authors": [
-          "Jinjing Zhao",
-          "Yan Wen",
-          "Xiang Li",
-          "Ling Pang",
-          "Xiaohui Kuang",
-          "Dongxia Wang"
+          "Anthony Simonofski",
+          "Bruno Dumas",
+          "Antoine Clarinval"
         ]
       },
       {
-        "title": "A comparative study of FAQs for software development.",
+        "title": "Designing personalized learning environments through monitoring and guiding user interactions with code and natural language.",
         "authors": [
-          "Mathias Ellmann",
-          "Irmo Timmann"
+          "Mircea Lungu"
         ]
       },
       {
-        "title": "Hospitality of chatbot building platforms.",
+        "title": "Analysis of students' preconceptions of concurrency.",
         "authors": [
-          "Saurabh Srivastava",
-          "Tadinada Vankata Prabhakar"
+          "Cédric Libert",
+          "Wim Vanhoof"
         ]
       },
       {
-        "title": "Integrating runtime data with development data to monitor external quality: challenges from practice.",
+        "title": "Open knowledge interface: a digital assistant to support students in writing academic assignments.",
         "authors": [
-          "Aytaj Aghabayli",
-          "Dietmar Pfahl",
-          "Silverio Martínez-Fernández",
-          "Adam Trendowicz"
+          "Olaf Resch",
+          "Aglika Yankova"
         ]
       },
       {
-        "title": "Predicting reliability by severity and priority of defects.",
+        "title": "Towards context-aware automated writing evaluation systems.",
         "authors": [
-          "Camelia Serban",
+          "Pierre-André Patout",
+          "Maxime Cordy"
+        ]
+      },
+      {
+        "title": "Application of data clustering for automated feedback generation about student well-being.",
+        "authors": [
+          "Mikko Kylväjä",
+          "Pekka Kumpulainen",
+          "Anne Konu"
+        ]
+      },
+      {
+        "title": "Does learning by doing have a positive impact on teaching model checking?",
+        "authors": [
           "Andreea Vescan"
         ]
       },
       {
-        "title": "Contributors' impact on a FOSS project's quality.",
+        "title": "Artificial intelligence meets software engineering in the classroom.",
         "authors": [
-          "Thomas Schranz",
-          "Christian Schindler",
-          "Matthias Müller",
-          "Wolfgang Slany"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sigsoft/iwsib2019.html": {
-    "header": "IWSiB@ESEC/SIGSOFT FSE 2019: Tallinn, Estonia",
-    "year": "2019",
-    "papers": [
-      {
-        "title": "iIoT ecosystem development through boundary resources: a Siemens MindSphere case study.",
-        "authors": [
-          "Dimitri Petrik",
-          "Georg Herzwurm"
+          "Laura Diosan",
+          "Simona Motogna"
         ]
       },
       {
-        "title": "Do we know how to price SaaS: a multi-vocal literature review.",
+        "title": "Advances in designing a student-centered learning process using cutting-edge methods, tools, and artificial intelligence: an e-learning platform.",
         "authors": [
-          "Andrey Saltan"
-        ]
-      },
-      {
-        "title": "QUESt: new practices to represent hypotheses in experiment-driven software development.",
-        "authors": [
-          "Jorge Melegati",
-          "Xiaofeng Wang"
-        ]
-      },
-      {
-        "title": "DEEP: the product roadmap maturity model: a method for assessing the product roadmapping capabilities of organizations.",
-        "authors": [
-          "Jürgen Münch",
-          "Stefan Trieflinger",
-          "Dominic Lang"
-        ]
-      },
-      {
-        "title": "Software startup education: gamifying growth hacking.",
-        "authors": [
-          "Kai-Kristian Kemell",
-          "Polina Feshchenko",
-          "Joonas Himmanen",
-          "Abrar Hossain",
-          "Furqan Jameel",
-          "Raffaele Luigi Puca",
-          "Teemu Vitikainen",
-          "Joni Kultanen",
-          "Juhani Risku",
-          "Johannes Impiö",
-          "Anssi Sorvisto",
-          "Pekka Abrahamsson"
-        ]
-      },
-      {
-        "title": "Touched by the Hackathon: a study on the connection between Hackathon participants and start-up founders.",
-        "authors": [
-          "Alexander Nolte"
-        ]
-      },
-      {
-        "title": "The effects of AI-human-interaction to value creation in multi-actor systems: how AI shapes digital B2B sales.",
-        "authors": [
-          "Sami Rusthollkarhu",
-          "Leena Aarikka-Stenroos"
-        ]
-      },
-      {
-        "title": "Productization levels towards whole product in SaaS business.",
-        "authors": [
-          "Teppo Yrjönkoski",
-          "Kari Systä"
-        ]
-      },
-      {
-        "title": "Hub companies shaping the future: the ethicality and corporate social responsibility of platform economy giants.",
-        "authors": [
-          "Hanna Härkönen",
-          "Juhani Naskali",
-          "Kai Kimppa"
-        ]
-      },
-      {
-        "title": "Value-based technical debt management: an exploratory case study in start-ups and scale-ups.",
-        "authors": [
-          "Mercy Njima",
-          "Serge Demeyer"
+          "Camelia Serban",
+          "Andreea Vescan"
         ]
       }
     ]
@@ -10630,6 +10630,109 @@
         "authors": [
           "Marcus Kessel",
           "Colin Atkinson"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sigsoft/waspi2018.html": {
+    "header": "WASPI@ESEC/SIGSOFT FSE 2018: Lake Buena Vista, FL, USA",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "Towards static recovery of micro state transitions from legacy embedded code.",
+        "authors": [
+          "Ryota Yamamoto",
+          "Norihiro Yoshida",
+          "Hiroaki Takada"
+        ]
+      },
+      {
+        "title": "Contract discovery from black-box components.",
+        "authors": [
+          "Vaibhav Sharma",
+          "Taejoon Byun",
+          "Stephen McCamant",
+          "Sanjai Rayadurgam",
+          "Mats Per Erik Heimdahl"
+        ]
+      },
+      {
+        "title": "Automated generation of creative software requirements: a data-driven approach.",
+        "authors": [
+          "Anh Quoc Do",
+          "Tanmay Bhowmik"
+        ]
+      },
+      {
+        "title": "On the significance of contract-based typestate specification.",
+        "authors": [
+          "Syeda Khairunnesa Samantha",
+          "Hoan Anh Nguyen",
+          "Hridesh Rajan"
+        ]
+      },
+      {
+        "title": "Towards combining usage mining and implementation analysis to infer API preconditions.",
+        "authors": [
+          "Hoan Anh Nguyen",
+          "Tien N. Nguyen",
+          "Hridesh Rajan",
+          "Robert Dyer"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sigsoft/swan2018.html": {
+    "header": "SWAN@ESEC/SIGSOFT FSE 2018: Lake Buena Vista, FL, USA",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "(No) influence of continuous integration on the commit activity in GitHub projects.",
+        "authors": [
+          "Sebastian Baltes",
+          "Jascha Knack",
+          "Daniel Anastasiou",
+          "Ralf Tymann",
+          "Stephan Diehl"
+        ]
+      },
+      {
+        "title": "Characterizing the influence of continuous integration: empirical results from 250+ open source and proprietary projects.",
+        "authors": [
+          "Akond Rahman",
+          "Amritanshu Agrawal",
+          "Rahul Krishna",
+          "Alexander Sobran"
+        ]
+      },
+      {
+        "title": "Facilitating feasibility analysis: the pilot defects prediction dataset maker.",
+        "authors": [
+          "Davide Falessi",
+          "Max Jason Moede"
+        ]
+      },
+      {
+        "title": "Is one hyperparameter optimizer enough?",
+        "authors": [
+          "Huy Tu",
+          "Vivek Nair"
+        ]
+      },
+      {
+        "title": "Differentially-private software analytics for mobile apps: opportunities and challenges.",
+        "authors": [
+          "Hailong Zhang",
+          "Sufian Latif",
+          "Raef Bassily",
+          "Atanas Rountev"
+        ]
+      },
+      {
+        "title": "Towards a framework for generating program dependence graphs from source code.",
+        "authors": [
+          "Victor J. Marin",
+          "Carlos R. Rivero"
         ]
       }
     ]
@@ -10716,249 +10819,6 @@
         "title": "Natural language processing (NLP) applied on issue trackers.",
         "authors": [
           "Mathias Ellmann"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sigsoft/swan2018.html": {
-    "header": "SWAN@ESEC/SIGSOFT FSE 2018: Lake Buena Vista, FL, USA",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "(No) influence of continuous integration on the commit activity in GitHub projects.",
-        "authors": [
-          "Sebastian Baltes",
-          "Jascha Knack",
-          "Daniel Anastasiou",
-          "Ralf Tymann",
-          "Stephan Diehl"
-        ]
-      },
-      {
-        "title": "Characterizing the influence of continuous integration: empirical results from 250+ open source and proprietary projects.",
-        "authors": [
-          "Akond Rahman",
-          "Amritanshu Agrawal",
-          "Rahul Krishna",
-          "Alexander Sobran"
-        ]
-      },
-      {
-        "title": "Facilitating feasibility analysis: the pilot defects prediction dataset maker.",
-        "authors": [
-          "Davide Falessi",
-          "Max Jason Moede"
-        ]
-      },
-      {
-        "title": "Is one hyperparameter optimizer enough?",
-        "authors": [
-          "Huy Tu",
-          "Vivek Nair"
-        ]
-      },
-      {
-        "title": "Differentially-private software analytics for mobile apps: opportunities and challenges.",
-        "authors": [
-          "Hailong Zhang",
-          "Sufian Latif",
-          "Raef Bassily",
-          "Atanas Rountev"
-        ]
-      },
-      {
-        "title": "Towards a framework for generating program dependence graphs from source code.",
-        "authors": [
-          "Victor J. Marin",
-          "Carlos R. Rivero"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sigsoft/atest2018.html": {
-    "header": "9th A-TEST@ESEC/SIGSOFT FSE 2018: Lake Buena Vista, FL, USA",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "Improving regression testing in continuous integration development environments (keynote).",
-        "authors": [
-          "Gregg Rothermel"
-        ]
-      },
-      {
-        "title": "Reinforcement learning for Android GUI testing.",
-        "authors": [
-          "David Adamo",
-          "Md Khorrom Khan",
-          "Sreedevi Koppula",
-          "Renée C. Bryce"
-        ]
-      },
-      {
-        "title": "Extending equivalence transformation based program generator for random testing of C compilers.",
-        "authors": [
-          "Shogo Takakura",
-          "Mitsuyoshi Iwatsuji",
-          "Nagisa Ishiura"
-        ]
-      },
-      {
-        "title": "HDDr: a recursive variant of the hierarchical Delta debugging algorithm.",
-        "authors": [
-          "Ákos Kiss",
-          "Renáta Hodován",
-          "Tibor Gyimóthy"
-        ]
-      },
-      {
-        "title": "Goal-oriented mutation testing with focal methods.",
-        "authors": [
-          "Sten Vercammen",
-          "Mohammad Ghafari",
-          "Serge Demeyer",
-          "Markus Borg"
-        ]
-      },
-      {
-        "title": "A reinforcement learning based approach to automated testing of Android applications.",
-        "authors": [
-          "Thi Anh Tuyet Vuong",
-          "Shingo Takada"
-        ]
-      },
-      {
-        "title": "Random testing of compilers' performance based on mixed static and dynamic code comparison.",
-        "authors": [
-          "Kota Kitaura",
-          "Nagisa Ishiura"
-        ]
-      },
-      {
-        "title": "Grammarinator: a grammar-based open source fuzzer.",
-        "authors": [
-          "Renáta Hodován",
-          "Ákos Kiss",
-          "Tibor Gyimóthy"
-        ]
-      },
-      {
-        "title": "Abstract flow learning for web application test generation.",
-        "authors": [
-          "Dionny Santiago",
-          "Peter J. Clarke",
-          "Patrick Alt",
-          "Tariq M. King"
-        ]
-      },
-      {
-        "title": "Property-based testing for the robot operating system.",
-        "authors": [
-          "André Santos",
-          "Alcino Cunha",
-          "Nuno Macedo"
-        ]
-      },
-      {
-        "title": "Test patterns for IoT.",
-        "authors": [
-          "Pedro Martins Pontes",
-          "Bruno Lima",
-          "João Pascoal Faria"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sigsoft/ensemble2018.html": {
-    "header": "EnSEmble@ESEC/SIGSOFT FSE 2018: Lake Buena Vista, FL, USA",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "Towards an approach for developing and testing Node-RED IoT systems.",
-        "authors": [
-          "Diego Clerissi",
-          "Maurizio Leotta",
-          "Gianna Reggio",
-          "Filippo Ricca"
-        ]
-      },
-      {
-        "title": "LiquiDADE: a liquid-based distributed agile and adaptive development environment (DADE) multi-device tool.",
-        "authors": [
-          "Claudio De Meo",
-          "Nicola Siena",
-          "Luca Riccardi",
-          "Francesco Nocera",
-          "Angelo Parchitelli",
-          "Marina Mongiello",
-          "Eugenio Di Sciascio",
-          "Niko Mäkitalo"
-        ]
-      },
-      {
-        "title": "\"Smart Traffic\": an IoT traffic monitoring system based on open source technologies on the cloud.",
-        "authors": [
-          "Maria Teresa Baldassarre",
-          "Danilo Caivano",
-          "Diego Serrano",
-          "Eleni Stroulia"
-        ]
-      },
-      {
-        "title": "From big data to smart data: a data quality perspective.",
-        "authors": [
-          "Maria Teresa Baldassarre",
-          "Ismael Caballero",
-          "Danilo Caivano",
-          "Bibiano Rivas Garcia",
-          "Mario Piattini"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sigsoft/waspi2018.html": {
-    "header": "WASPI@ESEC/SIGSOFT FSE 2018: Lake Buena Vista, FL, USA",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "Towards static recovery of micro state transitions from legacy embedded code.",
-        "authors": [
-          "Ryota Yamamoto",
-          "Norihiro Yoshida",
-          "Hiroaki Takada"
-        ]
-      },
-      {
-        "title": "Contract discovery from black-box components.",
-        "authors": [
-          "Vaibhav Sharma",
-          "Taejoon Byun",
-          "Stephen McCamant",
-          "Sanjai Rayadurgam",
-          "Mats Per Erik Heimdahl"
-        ]
-      },
-      {
-        "title": "Automated generation of creative software requirements: a data-driven approach.",
-        "authors": [
-          "Anh Quoc Do",
-          "Tanmay Bhowmik"
-        ]
-      },
-      {
-        "title": "On the significance of contract-based typestate specification.",
-        "authors": [
-          "Syeda Khairunnesa Samantha",
-          "Hoan Anh Nguyen",
-          "Hridesh Rajan"
-        ]
-      },
-      {
-        "title": "Towards combining usage mining and implementation analysis to infer API preconditions.",
-        "authors": [
-          "Hoan Anh Nguyen",
-          "Tien N. Nguyen",
-          "Hridesh Rajan",
-          "Robert Dyer"
         ]
       }
     ]
@@ -12053,86 +11913,142 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/serf2017.html": {
-    "header": "SERF@ESEC/SIGSOFT FSE 2017: Paderborn, Germany",
-    "year": "2017",
+  "https://dblp.org/db/conf/sigsoft/ensemble2018.html": {
+    "header": "EnSEmble@ESEC/SIGSOFT FSE 2018: Lake Buena Vista, FL, USA",
+    "year": "2018",
     "papers": [
       {
-        "title": "Building forensics in: supporting the investigation of digital criminal activities (invited talk).",
+        "title": "Towards an approach for developing and testing Node-RED IoT systems.",
         "authors": [
-          "Laurie A. Williams"
+          "Diego Clerissi",
+          "Maurizio Leotta",
+          "Gianna Reggio",
+          "Filippo Ricca"
         ]
       },
       {
-        "title": "Use of organisational topologies for forensic investigations.",
+        "title": "LiquiDADE: a liquid-based distributed agile and adaptive development environment (DADE) multi-device tool.",
         "authors": [
-          "George Grispos",
-          "Sorren Hanvey",
-          "Bashar Nuseibeh"
+          "Claudio De Meo",
+          "Nicola Siena",
+          "Luca Riccardi",
+          "Francesco Nocera",
+          "Angelo Parchitelli",
+          "Marina Mongiello",
+          "Eugenio Di Sciascio",
+          "Niko Mäkitalo"
         ]
       },
       {
-        "title": "Sustainable automated data recovery: a research roadmap.",
+        "title": "\"Smart Traffic\": an IoT traffic monitoring system based on open source technologies on the cloud.",
         "authors": [
-          "Jeroen van den Bos"
+          "Maria Teresa Baldassarre",
+          "Danilo Caivano",
+          "Diego Serrano",
+          "Eleni Stroulia"
         ]
       },
       {
-        "title": "Snap forensics: a tradeoff between ephemeral intelligence and persistent evidence collection.",
+        "title": "From big data to smart data: a data quality perspective.",
         "authors": [
-          "Yijun Yu",
-          "Thein Than Tun"
+          "Maria Teresa Baldassarre",
+          "Ismael Caballero",
+          "Danilo Caivano",
+          "Bibiano Rivas Garcia",
+          "Mario Piattini"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/atest2017.html": {
-    "header": "8th A-TEST@ESEC/SIGSOFT FSE 2017: Paderborn, Germany",
-    "year": "2017",
+  "https://dblp.org/db/conf/sigsoft/atest2018.html": {
+    "header": "9th A-TEST@ESEC/SIGSOFT FSE 2018: Lake Buena Vista, FL, USA",
+    "year": "2018",
     "papers": [
       {
-        "title": "Dynamic mutant subsumption analysis using LittleDarwin.",
+        "title": "Improving regression testing in continuous integration development environments (keynote).",
         "authors": [
-          "Ali Parsai",
-          "Serge Demeyer"
+          "Gregg Rothermel"
         ]
       },
       {
-        "title": "Hybrid monkey testing: enhancing automated GUI tests with random test generation.",
+        "title": "Reinforcement learning for Android GUI testing.",
         "authors": [
-          "Thomas Wetzlmaier",
-          "Rudolf Ramler"
+          "David Adamo",
+          "Md Khorrom Khan",
+          "Sreedevi Koppula",
+          "Renée C. Bryce"
         ]
       },
       {
-        "title": "Collaborative economy for testing cost reduction on Android ecosystem.",
+        "title": "Extending equivalence transformation based program generator for random testing of C compilers.",
         "authors": [
-          "Kenyo Abadio Crosara Faria",
-          "Eduardo Noronha de Andrade Freitas",
-          "Auri Marcelo Rizzo Vincenzi"
+          "Shogo Takakura",
+          "Mitsuyoshi Iwatsuji",
+          "Nagisa Ishiura"
         ]
       },
       {
-        "title": "Evaluating quality of security testing of the JDK.",
+        "title": "HDDr: a recursive variant of the hierarchical Delta debugging algorithm.",
         "authors": [
-          "Padmanabhan Krishnan",
-          "Jerome Loh",
-          "Rebecca O'Donoghue",
-          "Larissa Meinicke"
+          "Ákos Kiss",
+          "Renáta Hodován",
+          "Tibor Gyimóthy"
         ]
       },
       {
-        "title": "Comparing automated visual GUI testing tools: an industrial case study.",
+        "title": "Goal-oriented mutation testing with focal methods.",
         "authors": [
-          "Vahid Garousi",
-          "Wasif Afzal",
-          "Adem Çaglar",
-          "Ihsan Berk Isik",
-          "Berker Baydan",
-          "Seçkin Çaylak",
-          "Ahmet Zeki Boyraz",
-          "Burak Yolaçan",
-          "Kadir Herkiloglu"
+          "Sten Vercammen",
+          "Mohammad Ghafari",
+          "Serge Demeyer",
+          "Markus Borg"
+        ]
+      },
+      {
+        "title": "A reinforcement learning based approach to automated testing of Android applications.",
+        "authors": [
+          "Thi Anh Tuyet Vuong",
+          "Shingo Takada"
+        ]
+      },
+      {
+        "title": "Random testing of compilers' performance based on mixed static and dynamic code comparison.",
+        "authors": [
+          "Kota Kitaura",
+          "Nagisa Ishiura"
+        ]
+      },
+      {
+        "title": "Grammarinator: a grammar-based open source fuzzer.",
+        "authors": [
+          "Renáta Hodován",
+          "Ákos Kiss",
+          "Tibor Gyimóthy"
+        ]
+      },
+      {
+        "title": "Abstract flow learning for web application test generation.",
+        "authors": [
+          "Dionny Santiago",
+          "Peter J. Clarke",
+          "Patrick Alt",
+          "Tariq M. King"
+        ]
+      },
+      {
+        "title": "Property-based testing for the robot operating system.",
+        "authors": [
+          "André Santos",
+          "Alcino Cunha",
+          "Nuno Macedo"
+        ]
+      },
+      {
+        "title": "Test patterns for IoT.",
+        "authors": [
+          "Pedro Martins Pontes",
+          "Bruno Lima",
+          "João Pascoal Faria"
         ]
       }
     ]
@@ -12180,6 +12096,87 @@
           "Frederik Simon Bäumer",
           "Markus Dollmann",
           "Michaela Geierhos"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sigsoft/swan2017.html": {
+    "header": "SWAN@ESEC/SIGSOFT FSE 2017: Paderborn, Germany",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Find, understand, and extend development screencasts on YouTube.",
+        "authors": [
+          "Mathias Ellmann",
+          "Alexander Oeser",
+          "Davide Fucci",
+          "Walid Maalej"
+        ]
+      },
+      {
+        "title": "Analyzing source code for automated design pattern recommendation.",
+        "authors": [
+          "Oliver Hummel",
+          "Stefan Burger"
+        ]
+      },
+      {
+        "title": "Metadata-based code example embedding.",
+        "authors": [
+          "Philippe Tamla",
+          "Sven Feja",
+          "Christian R. Prause"
+        ]
+      },
+      {
+        "title": "Timezone and time-of-day variance in GitHub teams: an empirical method and study.",
+        "authors": [
+          "Premkumar T. Devanbu",
+          "Pallavi Kudigrama",
+          "Cindy Rubio-González",
+          "Bogdan Vasilescu"
+        ]
+      },
+      {
+        "title": "Predicting rankings of software verification tools.",
+        "authors": [
+          "Mike Czech",
+          "Eyke Hüllermeier",
+          "Marie-Christine Jakobs",
+          "Heike Wehrheim"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sigsoft/serf2017.html": {
+    "header": "SERF@ESEC/SIGSOFT FSE 2017: Paderborn, Germany",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Building forensics in: supporting the investigation of digital criminal activities (invited talk).",
+        "authors": [
+          "Laurie A. Williams"
+        ]
+      },
+      {
+        "title": "Use of organisational topologies for forensic investigations.",
+        "authors": [
+          "George Grispos",
+          "Sorren Hanvey",
+          "Bashar Nuseibeh"
+        ]
+      },
+      {
+        "title": "Sustainable automated data recovery: a research roadmap.",
+        "authors": [
+          "Jeroen van den Bos"
+        ]
+      },
+      {
+        "title": "Snap forensics: a tradeoff between ephemeral intelligence and persistent evidence collection.",
+        "authors": [
+          "Yijun Yu",
+          "Thein Than Tun"
         ]
       }
     ]
@@ -13256,152 +13253,141 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/swan2017.html": {
-    "header": "SWAN@ESEC/SIGSOFT FSE 2017: Paderborn, Germany",
+  "https://dblp.org/db/conf/sigsoft/atest2017.html": {
+    "header": "8th A-TEST@ESEC/SIGSOFT FSE 2017: Paderborn, Germany",
     "year": "2017",
     "papers": [
       {
-        "title": "Find, understand, and extend development screencasts on YouTube.",
+        "title": "Dynamic mutant subsumption analysis using LittleDarwin.",
         "authors": [
-          "Mathias Ellmann",
-          "Alexander Oeser",
-          "Davide Fucci",
-          "Walid Maalej"
+          "Ali Parsai",
+          "Serge Demeyer"
         ]
       },
       {
-        "title": "Analyzing source code for automated design pattern recommendation.",
+        "title": "Hybrid monkey testing: enhancing automated GUI tests with random test generation.",
         "authors": [
-          "Oliver Hummel",
-          "Stefan Burger"
+          "Thomas Wetzlmaier",
+          "Rudolf Ramler"
         ]
       },
       {
-        "title": "Metadata-based code example embedding.",
+        "title": "Collaborative economy for testing cost reduction on Android ecosystem.",
         "authors": [
-          "Philippe Tamla",
-          "Sven Feja",
-          "Christian R. Prause"
+          "Kenyo Abadio Crosara Faria",
+          "Eduardo Noronha de Andrade Freitas",
+          "Auri Marcelo Rizzo Vincenzi"
         ]
       },
       {
-        "title": "Timezone and time-of-day variance in GitHub teams: an empirical method and study.",
+        "title": "Evaluating quality of security testing of the JDK.",
         "authors": [
-          "Premkumar T. Devanbu",
-          "Pallavi Kudigrama",
-          "Cindy Rubio-González",
-          "Bogdan Vasilescu"
+          "Padmanabhan Krishnan",
+          "Jerome Loh",
+          "Rebecca O'Donoghue",
+          "Larissa Meinicke"
         ]
       },
       {
-        "title": "Predicting rankings of software verification tools.",
+        "title": "Comparing automated visual GUI testing tools: an industrial case study.",
         "authors": [
-          "Mike Czech",
-          "Eyke Hüllermeier",
-          "Marie-Christine Jakobs",
-          "Heike Wehrheim"
+          "Vahid Garousi",
+          "Wasif Afzal",
+          "Adem Çaglar",
+          "Ihsan Berk Isik",
+          "Berker Baydan",
+          "Seçkin Çaylak",
+          "Ahmet Zeki Boyraz",
+          "Burak Yolaçan",
+          "Kadir Herkiloglu"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/atest2016.html": {
-    "header": "7. A-TEST@SIGSOFT FSE 2016: Seattle, WA, USA",
+  "https://dblp.org/db/conf/sigsoft/wama2016.html": {
+    "header": "WAMA@SIGSOFT FSE 2016: Seattle, WA, USA",
     "year": "2016",
     "papers": [
       {
-        "title": "Multilevel coarse-to-fine-grained prioritization for GUI and web applications.",
+        "title": "Checking app user interfaces against app descriptions.",
         "authors": [
-          "Dmitry Nurmuradov",
-          "Renée C. Bryce",
-          "Hyunsook Do"
+          "Konstantin Kuznetsov",
+          "Vitalii Avdiienko",
+          "Alessandra Gorla",
+          "Andreas Zeller"
         ]
       },
       {
-        "title": "EventFlowSlicer: goal based test generation for graphical user interfaces.",
+        "title": "Examining the relationship between security metrics and user ratings of mobile apps: a case study.",
         "authors": [
-          "Jonathan Saddler",
-          "Myra B. Cohen"
+          "Daniel E. Krutz",
+          "Nuthan Munaiah",
+          "Andrew Meneely",
+          "Samuel A. Malachowsky"
         ]
       },
       {
-        "title": "PredSym: estimating software testing budget for a bug-free release.",
+        "title": "Feature-based evaluation of competing apps.",
         "authors": [
-          "Arnamoy Bhattacharyya",
-          "Timur Malgazhdarov"
+          "Faiz Ali Shah",
+          "Yevhenii Sabanin",
+          "Dietmar Pfahl"
         ]
       },
       {
-        "title": "The complementary aspect of automatically and manually generated test case sets.",
+        "title": "CALAPPA: a toolchain for mining Android applications.",
         "authors": [
-          "Auri M. R. Vincenzi",
-          "Tiago Bachiega",
-          "Daniel G. de Oliveira",
-          "Simone do Rócio Senger de Souza",
-          "José Carlos Maldonado"
+          "Vitalii Avdiienko",
+          "Konstantin Kuznetsov",
+          "Paolo Calciati",
+          "Juan Carlos Caiza Román",
+          "Alessandra Gorla",
+          "Andreas Zeller"
         ]
       },
       {
-        "title": "Modernizing hierarchical delta debugging.",
+        "title": "Darwin: a static analysis dataset of malicious and benign Android apps.",
         "authors": [
-          "Renáta Hodován",
-          "Ákos Kiss"
+          "Nuthan Munaiah",
+          "Casey Klimkowsky",
+          "Shannon McRae",
+          "Adam Blaine",
+          "Samuel A. Malachowsky",
+          "Cesar Perez",
+          "Daniel E. Krutz"
         ]
       },
       {
-        "title": "Complete IOCO test cases: a case study.",
+        "title": "More insight from being more focused: analysis of clustered market apps.",
         "authors": [
-          "Sofia Larissa da Costa Paiva",
-          "Adenilso Simão",
-          "Mahsa Varshosaz",
-          "Mohammad Reza Mousavi"
+          "Maleknaz Nayebi",
+          "Homayoon Farrahi",
+          "Ada Lee",
+          "Henry Cho",
+          "Guenther Ruhe"
         ]
       },
       {
-        "title": "Model-based testing of stochastic systems with IOCO theory.",
+        "title": "To upgrade or not to upgrade? the release of new versions to survive in the hypercompetitive app market.",
         "authors": [
-          "Marcus Gerhold",
-          "Mariëlle Stoelinga"
+          "Stefano Comino",
+          "Fabio M. Manenti",
+          "Franco Mariuzzo"
         ]
       },
       {
-        "title": "Development and maintenance efforts testing graphical user interfaces: a comparison.",
+        "title": "The impact of cross-platform development approaches for mobile applications from the user's perspective.",
         "authors": [
-          "Antonia Kresse",
-          "Peter M. Kruse"
+          "Iván Tactuk Mercado",
+          "Nuthan Munaiah",
+          "Andrew Meneely"
         ]
       },
       {
-        "title": "MT4A: a no-programming test automation framework for Android applications.",
+        "title": "Mining and characterizing hybrid apps.",
         "authors": [
-          "Tiago Coelho",
-          "Bruno Lima",
-          "João Pascoal Faria"
-        ]
-      },
-      {
-        "title": "Mitigating (and exploiting) test reduction slippage.",
-        "authors": [
-          "Josie Holmes",
-          "Alex Groce",
-          "Mohammad Amin Alipour"
-        ]
-      },
-      {
-        "title": "Automated workflow regression testing for multi-tenant SaaS: integrated support in self-service configuration dashboard.",
-        "authors": [
-          "Majid Makki",
-          "Dimitri Van Landuyt",
-          "Wouter Joosen"
-        ]
-      },
-      {
-        "title": "Towards an MDE-based approach to test entity reconciliation applications.",
-        "authors": [
-          "José Gonzalez Enríquez",
-          "Raquel Blanco",
-          "Francisco José Domínguez Mayo",
-          "Javier Tuya",
-          "María José Escalona Cuaresma"
+          "Mohamed Ali",
+          "Ali Mesbah"
         ]
       }
     ]
@@ -13472,6 +13458,35 @@
         "authors": [
           "Tim A. D. Henderson",
           "Andy Podgurski"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sigsoft/sse2016.html": {
+    "header": "SSE@SIGSOFT FSE 2016: Seattle, WA, USA",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "Understanding Git history: a multi-sense view.",
+        "authors": [
+          "Kevin J. North",
+          "Anita Sarma",
+          "Myra B. Cohen"
+        ]
+      },
+      {
+        "title": "VDML4RS: a tool for reputation systems modeling and design.",
+        "authors": [
+          "Lorenzo Bettini",
+          "Sara Capecchi"
+        ]
+      },
+      {
+        "title": "On the impact of social network information diversity on end-user programming productivity: a foraging-theoretic study.",
+        "authors": [
+          "Xiaoyu Jin",
+          "Nan Niu",
+          "Michael Wagner"
         ]
       }
     ]
@@ -14666,119 +14681,169 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/sse2016.html": {
-    "header": "SSE@SIGSOFT FSE 2016: Seattle, WA, USA",
+  "https://dblp.org/db/conf/sigsoft/atest2016.html": {
+    "header": "7. A-TEST@SIGSOFT FSE 2016: Seattle, WA, USA",
     "year": "2016",
     "papers": [
       {
-        "title": "Understanding Git history: a multi-sense view.",
+        "title": "Multilevel coarse-to-fine-grained prioritization for GUI and web applications.",
         "authors": [
-          "Kevin J. North",
-          "Anita Sarma",
+          "Dmitry Nurmuradov",
+          "Renée C. Bryce",
+          "Hyunsook Do"
+        ]
+      },
+      {
+        "title": "EventFlowSlicer: goal based test generation for graphical user interfaces.",
+        "authors": [
+          "Jonathan Saddler",
           "Myra B. Cohen"
         ]
       },
       {
-        "title": "VDML4RS: a tool for reputation systems modeling and design.",
+        "title": "PredSym: estimating software testing budget for a bug-free release.",
         "authors": [
-          "Lorenzo Bettini",
-          "Sara Capecchi"
+          "Arnamoy Bhattacharyya",
+          "Timur Malgazhdarov"
         ]
       },
       {
-        "title": "On the impact of social network information diversity on end-user programming productivity: a foraging-theoretic study.",
+        "title": "The complementary aspect of automatically and manually generated test case sets.",
         "authors": [
-          "Xiaoyu Jin",
-          "Nan Niu",
-          "Michael Wagner"
+          "Auri M. R. Vincenzi",
+          "Tiago Bachiega",
+          "Daniel G. de Oliveira",
+          "Simone do Rócio Senger de Souza",
+          "José Carlos Maldonado"
+        ]
+      },
+      {
+        "title": "Modernizing hierarchical delta debugging.",
+        "authors": [
+          "Renáta Hodován",
+          "Ákos Kiss"
+        ]
+      },
+      {
+        "title": "Complete IOCO test cases: a case study.",
+        "authors": [
+          "Sofia Larissa da Costa Paiva",
+          "Adenilso Simão",
+          "Mahsa Varshosaz",
+          "Mohammad Reza Mousavi"
+        ]
+      },
+      {
+        "title": "Model-based testing of stochastic systems with IOCO theory.",
+        "authors": [
+          "Marcus Gerhold",
+          "Mariëlle Stoelinga"
+        ]
+      },
+      {
+        "title": "Development and maintenance efforts testing graphical user interfaces: a comparison.",
+        "authors": [
+          "Antonia Kresse",
+          "Peter M. Kruse"
+        ]
+      },
+      {
+        "title": "MT4A: a no-programming test automation framework for Android applications.",
+        "authors": [
+          "Tiago Coelho",
+          "Bruno Lima",
+          "João Pascoal Faria"
+        ]
+      },
+      {
+        "title": "Mitigating (and exploiting) test reduction slippage.",
+        "authors": [
+          "Josie Holmes",
+          "Alex Groce",
+          "Mohammad Amin Alipour"
+        ]
+      },
+      {
+        "title": "Automated workflow regression testing for multi-tenant SaaS: integrated support in self-service configuration dashboard.",
+        "authors": [
+          "Majid Makki",
+          "Dimitri Van Landuyt",
+          "Wouter Joosen"
+        ]
+      },
+      {
+        "title": "Towards an MDE-based approach to test entity reconciliation applications.",
+        "authors": [
+          "José Gonzalez Enríquez",
+          "Raquel Blanco",
+          "Francisco José Domínguez Mayo",
+          "Javier Tuya",
+          "María José Escalona Cuaresma"
         ]
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/wama2016.html": {
-    "header": "WAMA@SIGSOFT FSE 2016: Seattle, WA, USA",
-    "year": "2016",
+  "https://dblp.org/db/conf/sigsoft/sse2015.html": {
+    "header": "7th SSE@ESEC/FSE 2015: Bergamo, Italy",
+    "year": "2015",
     "papers": [
       {
-        "title": "Checking app user interfaces against app descriptions.",
+        "title": "Communicating software testing culture through visualizing testing activity.",
         "authors": [
-          "Konstantin Kuznetsov",
-          "Vitalii Avdiienko",
-          "Alessandra Gorla",
-          "Andreas Zeller"
+          "Raphael Pham",
+          "Jonas Mörschbach",
+          "Kurt Schneider"
         ]
       },
       {
-        "title": "Examining the relationship between security metrics and user ratings of mobile apps: a case study.",
+        "title": "Towards GEEZMO: hiGh-frEquEncy Zest and Mood-pOlling for proactive software development problem-solving.",
         "authors": [
-          "Daniel E. Krutz",
-          "Nuthan Munaiah",
-          "Andrew Meneely",
-          "Samuel A. Malachowsky"
+          "Elisabetta Di Nitto",
+          "Raffaela Mirandola",
+          "Santi Raffa",
+          "Damian A. Tamburri"
         ]
       },
       {
-        "title": "Feature-based evaluation of competing apps.",
+        "title": "The role of social interactions in value creation in agile software development processes.",
         "authors": [
-          "Faiz Ali Shah",
-          "Yevhenii Sabanin",
-          "Dietmar Pfahl"
+          "Hiva Alahyari"
         ]
       },
       {
-        "title": "CALAPPA: a toolchain for mining Android applications.",
+        "title": "Could social factors influence the effort software estimation?",
         "authors": [
-          "Vitalii Avdiienko",
-          "Konstantin Kuznetsov",
-          "Paolo Calciati",
-          "Juan Carlos Caiza Román",
-          "Alessandra Gorla",
-          "Andreas Zeller"
+          "Valentina Lenarduzzi"
         ]
       },
       {
-        "title": "Darwin: a static analysis dataset of malicious and benign Android apps.",
+        "title": "Understanding the affect of developers: theoretical background and guidelines for psychoempirical software engineering.",
         "authors": [
-          "Nuthan Munaiah",
-          "Casey Klimkowsky",
-          "Shannon McRae",
-          "Adam Blaine",
-          "Samuel A. Malachowsky",
-          "Cesar Perez",
-          "Daniel E. Krutz"
+          "Daniel Graziotin",
+          "Xiaofeng Wang",
+          "Pekka Abrahamsson"
         ]
       },
       {
-        "title": "More insight from being more focused: analysis of clustered market apps.",
+        "title": "The challenges of sentiment detection in the social programmer ecosystem.",
         "authors": [
-          "Maleknaz Nayebi",
-          "Homayoon Farrahi",
-          "Ada Lee",
-          "Henry Cho",
-          "Guenther Ruhe"
+          "Nicole Novielli",
+          "Fabio Calefato",
+          "Filippo Lanubile"
         ]
       },
       {
-        "title": "To upgrade or not to upgrade? the release of new versions to survive in the hypercompetitive app market.",
+        "title": "The social developer: now, then, and tomorrow.",
         "authors": [
-          "Stefano Comino",
-          "Fabio M. Manenti",
-          "Franco Mariuzzo"
+          "Terhi Kilamo",
+          "Marko Leppänen",
+          "Tommi Mikkonen"
         ]
       },
       {
-        "title": "The impact of cross-platform development approaches for mobile applications from the user's perspective.",
+        "title": "Preparing next generation of software engineers for future societal challenges and opportunities.",
         "authors": [
-          "Iván Tactuk Mercado",
-          "Nuthan Munaiah",
-          "Andrew Meneely"
-        ]
-      },
-      {
-        "title": "Mining and characterizing hybrid apps.",
-        "authors": [
-          "Mohamed Ali",
-          "Ali Mesbah"
+          "Gordana Dodig-Crnkovic"
         ]
       }
     ]
@@ -14848,153 +14913,6 @@
           "Weikun Wang",
           "Juan F. Pérez",
           "Giuliano Casale"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sigsoft/demobile2015.html": {
-    "header": "3rd DeMobile@ESEC/FSE 2015: Bergamo, Italy",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "App store mining and analysis.",
-        "authors": [
-          "Afnan A. Al-Subaihin",
-          "Anthony Finkelstein",
-          "Mark Harman",
-          "Yue Jia",
-          "William J. Martin",
-          "Federica Sarro",
-          "Yuanyuan Zhang"
-        ]
-      },
-      {
-        "title": "Walking the model: the smart mobile field engineer (keynote).",
-        "authors": [
-          "Yael Dubinsky"
-        ]
-      },
-      {
-        "title": "AGRippin: a novel search based testing technique for Android applications.",
-        "authors": [
-          "Domenico Amalfitano",
-          "Nicola Amatucci",
-          "Anna Rita Fasolino",
-          "Porfirio Tramontana"
-        ]
-      },
-      {
-        "title": "Detecting Android malware using sequences of system calls.",
-        "authors": [
-          "Gerardo Canfora",
-          "Eric Medvet",
-          "Francesco Mercaldo",
-          "Corrado Aaron Visaggio"
-        ]
-      },
-      {
-        "title": "Tailoring software architecture concepts and process for mobile application development.",
-        "authors": [
-          "Felix Javier Acero Salazar",
-          "Marco Brambilla"
-        ]
-      },
-      {
-        "title": "Optimizing energy of HTTP requests in Android applications.",
-        "authors": [
-          "Ding Li",
-          "William G. J. Halfond"
-        ]
-      },
-      {
-        "title": "Perspectives on static analysis of mobile apps (invited talk).",
-        "authors": [
-          "Marco Autili",
-          "Ivano Malavolta",
-          "Alexander Perucci",
-          "Gian Luca Scoccia"
-        ]
-      },
-      {
-        "title": "A mobile application for geographical data gathering and validation in fieldwork (invited talk).",
-        "authors": [
-          "Karine Reis Ferreira",
-          "Lúbia Vinhas",
-          "Claudio Henrique Bogossian",
-          "André F. Araújo de Carvalho"
-        ]
-      },
-      {
-        "title": "CLAPP: characterizing loops in Android applications (invited talk).",
-        "authors": [
-          "Yanick Fratantonio",
-          "Aravind Machiry",
-          "Antonio Bianchi",
-          "Christopher Kruegel",
-          "Giovanni Vigna"
-        ]
-      },
-      {
-        "title": "Optimizing display energy consumption for hybrid Android apps (invited talk).",
-        "authors": [
-          "Ding Li",
-          "Angelica Huyen Tran",
-          "William G. J. Halfond"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sigsoft/ctse2015.html": {
-    "header": "CTSE@SIGSOFT FSE 2015: Bergamo, Italy",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "SimCA vs ActivFORMS: comparing control- and architecture-based adaptation on the TAS exemplar.",
-        "authors": [
-          "Stepan Shevtsov",
-          "M. Usman Iftikhar",
-          "Danny Weyns"
-        ]
-      },
-      {
-        "title": "MORPH: a reference architecture for configuration and behaviour self-adaptation.",
-        "authors": [
-          "Víctor A. Braberman",
-          "Nicolás D'Ippolito",
-          "Jeff Kramer",
-          "Daniel Sykes",
-          "Sebastián Uchitel"
-        ]
-      },
-      {
-        "title": "Adaptive predictive control for software systems.",
-        "authors": [
-          "Konstantinos Angelopoulos",
-          "Alessandro Vittorio Papadopoulos",
-          "John Mylopoulos"
-        ]
-      },
-      {
-        "title": "Quo vadis cyber-physical systems: research areas of cyber-physical ecosystems: a position paper.",
-        "authors": [
-          "Christian Bartelt",
-          "Andreas Rausch",
-          "Karina Rehfeldt"
-        ]
-      },
-      {
-        "title": "Robust degradation and enhancement of robot mission behaviour in unpredictable environments.",
-        "authors": [
-          "Nicolás D'Ippolito",
-          "Víctor A. Braberman",
-          "Daniel Sykes",
-          "Sebastián Uchitel"
-        ]
-      },
-      {
-        "title": "Control theory meets software engineering: the holonic perspective.",
-        "authors": [
-          "Luca Pazzi"
         ]
       }
     ]
@@ -16053,6 +15971,153 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/sigsoft/demobile2015.html": {
+    "header": "3rd DeMobile@ESEC/FSE 2015: Bergamo, Italy",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "App store mining and analysis.",
+        "authors": [
+          "Afnan A. Al-Subaihin",
+          "Anthony Finkelstein",
+          "Mark Harman",
+          "Yue Jia",
+          "William J. Martin",
+          "Federica Sarro",
+          "Yuanyuan Zhang"
+        ]
+      },
+      {
+        "title": "Walking the model: the smart mobile field engineer (keynote).",
+        "authors": [
+          "Yael Dubinsky"
+        ]
+      },
+      {
+        "title": "AGRippin: a novel search based testing technique for Android applications.",
+        "authors": [
+          "Domenico Amalfitano",
+          "Nicola Amatucci",
+          "Anna Rita Fasolino",
+          "Porfirio Tramontana"
+        ]
+      },
+      {
+        "title": "Detecting Android malware using sequences of system calls.",
+        "authors": [
+          "Gerardo Canfora",
+          "Eric Medvet",
+          "Francesco Mercaldo",
+          "Corrado Aaron Visaggio"
+        ]
+      },
+      {
+        "title": "Tailoring software architecture concepts and process for mobile application development.",
+        "authors": [
+          "Felix Javier Acero Salazar",
+          "Marco Brambilla"
+        ]
+      },
+      {
+        "title": "Optimizing energy of HTTP requests in Android applications.",
+        "authors": [
+          "Ding Li",
+          "William G. J. Halfond"
+        ]
+      },
+      {
+        "title": "Perspectives on static analysis of mobile apps (invited talk).",
+        "authors": [
+          "Marco Autili",
+          "Ivano Malavolta",
+          "Alexander Perucci",
+          "Gian Luca Scoccia"
+        ]
+      },
+      {
+        "title": "A mobile application for geographical data gathering and validation in fieldwork (invited talk).",
+        "authors": [
+          "Karine Reis Ferreira",
+          "Lúbia Vinhas",
+          "Claudio Henrique Bogossian",
+          "André F. Araújo de Carvalho"
+        ]
+      },
+      {
+        "title": "CLAPP: characterizing loops in Android applications (invited talk).",
+        "authors": [
+          "Yanick Fratantonio",
+          "Aravind Machiry",
+          "Antonio Bianchi",
+          "Christopher Kruegel",
+          "Giovanni Vigna"
+        ]
+      },
+      {
+        "title": "Optimizing display energy consumption for hybrid Android apps (invited talk).",
+        "authors": [
+          "Ding Li",
+          "Angelica Huyen Tran",
+          "William G. J. Halfond"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sigsoft/ctse2015.html": {
+    "header": "CTSE@SIGSOFT FSE 2015: Bergamo, Italy",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "SimCA vs ActivFORMS: comparing control- and architecture-based adaptation on the TAS exemplar.",
+        "authors": [
+          "Stepan Shevtsov",
+          "M. Usman Iftikhar",
+          "Danny Weyns"
+        ]
+      },
+      {
+        "title": "MORPH: a reference architecture for configuration and behaviour self-adaptation.",
+        "authors": [
+          "Víctor A. Braberman",
+          "Nicolás D'Ippolito",
+          "Jeff Kramer",
+          "Daniel Sykes",
+          "Sebastián Uchitel"
+        ]
+      },
+      {
+        "title": "Adaptive predictive control for software systems.",
+        "authors": [
+          "Konstantinos Angelopoulos",
+          "Alessandro Vittorio Papadopoulos",
+          "John Mylopoulos"
+        ]
+      },
+      {
+        "title": "Quo vadis cyber-physical systems: research areas of cyber-physical ecosystems: a position paper.",
+        "authors": [
+          "Christian Bartelt",
+          "Andreas Rausch",
+          "Karina Rehfeldt"
+        ]
+      },
+      {
+        "title": "Robust degradation and enhancement of robot mission behaviour in unpredictable environments.",
+        "authors": [
+          "Nicolás D'Ippolito",
+          "Víctor A. Braberman",
+          "Daniel Sykes",
+          "Sebastián Uchitel"
+        ]
+      },
+      {
+        "title": "Control theory meets software engineering: the holonic perspective.",
+        "authors": [
+          "Luca Pazzi"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/sigsoft/atest2015.html": {
     "header": "6th A-TEST@ESEC/FSE 2015: Bergamo, Italy",
     "year": "2015",
@@ -16113,49 +16178,46 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/sse2015.html": {
-    "header": "7th SSE@ESEC/FSE 2015: Bergamo, Italy",
-    "year": "2015",
+  "https://dblp.org/db/conf/sigsoft/sse2014.html": {
+    "header": "6th SSE@SIGSOFT FSE 2014: Hong Kong, China",
+    "year": "2014",
     "papers": [
       {
-        "title": "Communicating software testing culture through visualizing testing activity.",
+        "title": "Can collaborative tagging improve user feedback? a case study.",
         "authors": [
-          "Raphael Pham",
-          "Jonas Mörschbach",
-          "Kurt Schneider"
+          "Rana Alkadhi",
+          "Dennis Pagano",
+          "Bernd Bruegge"
         ]
       },
       {
-        "title": "Towards GEEZMO: hiGh-frEquEncy Zest and Mood-pOlling for proactive software development problem-solving.",
+        "title": "Supporting collaboration of heterogeneous teams in an augmented team room.",
         "authors": [
-          "Elisabetta Di Nitto",
-          "Raffaela Mirandola",
-          "Santi Raffa",
-          "Damian A. Tamburri"
+          "Markus Kleffmann",
+          "Matthias Book",
+          "Volker Gruhn"
         ]
       },
       {
-        "title": "The role of social interactions in value creation in agile software development processes.",
+        "title": "Eliciting and visualising trust expectations using persona trust characteristics and goal models.",
         "authors": [
-          "Hiva Alahyari"
+          "Shamal Faily",
+          "Ivan Flechais"
         ]
       },
       {
-        "title": "Could social factors influence the effort software estimation?",
+        "title": "One size doesn't fit all: diversifying \"the user\" using personas and emotional scenarios.",
         "authors": [
-          "Valentina Lenarduzzi"
+          "Antonio A. Lopez-Lorca",
+          "Tim Miller",
+          "Sonja Pedell",
+          "Antonette Mendoza",
+          "Alen Keirnan",
+          "Leon Sterling"
         ]
       },
       {
-        "title": "Understanding the affect of developers: theoretical background and guidelines for psychoempirical software engineering.",
-        "authors": [
-          "Daniel Graziotin",
-          "Xiaofeng Wang",
-          "Pekka Abrahamsson"
-        ]
-      },
-      {
-        "title": "The challenges of sentiment detection in the social programmer ecosystem.",
+        "title": "Towards discovering the role of emotions in stack overflow.",
         "authors": [
           "Nicole Novielli",
           "Fabio Calefato",
@@ -16163,17 +16225,24 @@
         ]
       },
       {
-        "title": "The social developer: now, then, and tomorrow.",
+        "title": "An empirical investigation of socio-technical code review metrics and security vulnerabilities.",
         "authors": [
-          "Terhi Kilamo",
-          "Marko Leppänen",
-          "Tommi Mikkonen"
+          "Andrew Meneely",
+          "Alberto Rodriguez Tejeda",
+          "Brian Spates",
+          "Shannon Trudeau",
+          "Danielle Neuberger",
+          "Katherine Whitlock",
+          "Christopher Ketant",
+          "Kayla Davis"
         ]
       },
       {
-        "title": "Preparing next generation of software engineers for future societal challenges and opportunities.",
+        "title": "Developer involvement considered harmful?: an empirical examination of Android bug resolution times.",
         "authors": [
-          "Gordana Dodig-Crnkovic"
+          "Subhajit Datta",
+          "Proshanta Sarkar",
+          "Subhashis Majumder"
         ]
       }
     ]
@@ -17166,97 +17235,57 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/aoasia2014.html": {
-    "header": "9th AOAsia@SIGSOFT FSE 2014: Hong Kong, China",
+  "https://dblp.org/db/conf/sigsoft/demobile2014.html": {
+    "header": "2nd DeMobile@SIGSOFT FSE 2014: Hong Kong, SAR, China",
     "year": "2014",
     "papers": [
       {
-        "title": "Toward understanding how developers recognize features in source code from descriptions.",
+        "title": "Responsiveness analysis tool for Android application.",
         "authors": [
-          "Shinpei Hayashi",
-          "Takashi Ishio",
-          "Hiroshi Kazato",
-          "Tsuyoshi Oshima"
+          "Thanaporn Ongkosit",
+          "Shingo Takada"
         ]
       },
       {
-        "title": "Uncertainty-aware architectural interface.",
+        "title": "Attack surfaces for mobile devices.",
         "authors": [
-          "Naoyasu Ubayashi",
-          "Di Ai",
-          "Peiyuan Li",
-          "Yu Ning Li",
-          "Shintaro Hosoai",
-          "Yasutaka Kamei"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sigsoft/sse2014.html": {
-    "header": "6th SSE@SIGSOFT FSE 2014: Hong Kong, China",
-    "year": "2014",
-    "papers": [
-      {
-        "title": "Can collaborative tagging improve user feedback? a case study.",
-        "authors": [
-          "Rana Alkadhi",
-          "Dennis Pagano",
-          "Bernd Bruegge"
+          "Mark Sherman"
         ]
       },
       {
-        "title": "Supporting collaboration of heterogeneous teams in an augmented team room.",
+        "title": "Improving responsiveness in mobile apps via refactoring for asynchrony (invited talk).",
         "authors": [
-          "Markus Kleffmann",
-          "Matthias Book",
-          "Volker Gruhn"
+          "Danny Dig"
         ]
       },
       {
-        "title": "Eliciting and visualising trust expectations using persona trust characteristics and goal models.",
+        "title": "Perspectives on task ownership in mobile operating system development (invited talk).",
         "authors": [
-          "Shamal Faily",
-          "Ivan Flechais"
+          "Subhajit Datta"
         ]
       },
       {
-        "title": "One size doesn't fit all: diversifying \"the user\" using personas and emotional scenarios.",
+        "title": "Apposcopy: automated detection of Android malware (invited talk).",
         "authors": [
-          "Antonio A. Lopez-Lorca",
-          "Tim Miller",
-          "Sonja Pedell",
-          "Antonette Mendoza",
-          "Alen Keirnan",
-          "Leon Sterling"
+          "Yu Feng",
+          "Isil Dillig",
+          "Saswat Anand",
+          "Alex Aiken"
         ]
       },
       {
-        "title": "Towards discovering the role of emotions in stack overflow.",
+        "title": "Energy-aware design patterns for mobile application development (invited talk).",
         "authors": [
-          "Nicole Novielli",
-          "Fabio Calefato",
-          "Filippo Lanubile"
+          "Abhijeet Banerjee",
+          "Abhik Roychoudhury"
         ]
       },
       {
-        "title": "An empirical investigation of socio-technical code review metrics and security vulnerabilities.",
+        "title": "Automated detection and mitigation of inter-application security vulnerabilities in Android (invited talk).",
         "authors": [
-          "Andrew Meneely",
-          "Alberto Rodriguez Tejeda",
-          "Brian Spates",
-          "Shannon Trudeau",
-          "Danielle Neuberger",
-          "Katherine Whitlock",
-          "Christopher Ketant",
-          "Kayla Davis"
-        ]
-      },
-      {
-        "title": "Developer involvement considered harmful?: an empirical examination of Android bug resolution times.",
-        "authors": [
-          "Subhajit Datta",
-          "Proshanta Sarkar",
-          "Subhashis Majumder"
+          "Sam Malek",
+          "Hamid Bagheri",
+          "Alireza Sadeghi"
         ]
       }
     ]
@@ -17367,57 +17396,28 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/demobile2014.html": {
-    "header": "2nd DeMobile@SIGSOFT FSE 2014: Hong Kong, SAR, China",
+  "https://dblp.org/db/conf/sigsoft/aoasia2014.html": {
+    "header": "9th AOAsia@SIGSOFT FSE 2014: Hong Kong, China",
     "year": "2014",
     "papers": [
       {
-        "title": "Responsiveness analysis tool for Android application.",
+        "title": "Toward understanding how developers recognize features in source code from descriptions.",
         "authors": [
-          "Thanaporn Ongkosit",
-          "Shingo Takada"
+          "Shinpei Hayashi",
+          "Takashi Ishio",
+          "Hiroshi Kazato",
+          "Tsuyoshi Oshima"
         ]
       },
       {
-        "title": "Attack surfaces for mobile devices.",
+        "title": "Uncertainty-aware architectural interface.",
         "authors": [
-          "Mark Sherman"
-        ]
-      },
-      {
-        "title": "Improving responsiveness in mobile apps via refactoring for asynchrony (invited talk).",
-        "authors": [
-          "Danny Dig"
-        ]
-      },
-      {
-        "title": "Perspectives on task ownership in mobile operating system development (invited talk).",
-        "authors": [
-          "Subhajit Datta"
-        ]
-      },
-      {
-        "title": "Apposcopy: automated detection of Android malware (invited talk).",
-        "authors": [
-          "Yu Feng",
-          "Isil Dillig",
-          "Saswat Anand",
-          "Alex Aiken"
-        ]
-      },
-      {
-        "title": "Energy-aware design patterns for mobile application development (invited talk).",
-        "authors": [
-          "Abhijeet Banerjee",
-          "Abhik Roychoudhury"
-        ]
-      },
-      {
-        "title": "Automated detection and mitigation of inter-application security vulnerabilities in Android (invited talk).",
-        "authors": [
-          "Sam Malek",
-          "Hamid Bagheri",
-          "Alireza Sadeghi"
+          "Naoyasu Ubayashi",
+          "Di Ai",
+          "Peiyuan Li",
+          "Yu Ning Li",
+          "Shintaro Hosoai",
+          "Yasutaka Kamei"
         ]
       }
     ]
@@ -21293,133 +21293,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/esspe2007.html": {
-    "header": "ESSPE 2007: Dubrovnik, Croatia",
-    "year": "2007",
-    "papers": [
-      {
-        "title": "Resource discovery with evolving tuples.",
-        "authors": [
-          "Drew Stovall",
-          "Christine Julien"
-        ]
-      },
-      {
-        "title": "Self-healing BPEL processes with Dynamo and the JBoss rule engine.",
-        "authors": [
-          "Luciano Baresi",
-          "Sam Guinea",
-          "Liliana Pasquale"
-        ]
-      },
-      {
-        "title": "A component model for dynamic adaptive systems.",
-        "authors": [
-          "Holger Klus",
-          "Dirk Niebuhr",
-          "Andreas Rausch"
-        ]
-      },
-      {
-        "title": "A reuse-based approach to the correct and automatic composition of web-services.",
-        "authors": [
-          "Paola Inverardi",
-          "Massimo Tivoli"
-        ]
-      },
-      {
-        "title": "Divide and conquer: scalability and variability for adaptive middleware.",
-        "authors": [
-          "Ulrich Scholz",
-          "Romain Rouvoy"
-        ]
-      },
-      {
-        "title": "Mobility management in B3G networks: a middleware-based approach.",
-        "authors": [
-          "Letian Rong",
-          "Manel Fredj",
-          "Valérie Issarny",
-          "Nikolaos Georgantas"
-        ]
-      },
-      {
-        "title": "Software deployment architecture and quality-of-service in pervasive environments.",
-        "authors": [
-          "Nenad Medvidovic",
-          "Sam Malek"
-        ]
-      },
-      {
-        "title": "Using proximity relations for the adaptation of mobile field services.",
-        "authors": [
-          "Heinz-Josef Eikerling",
-          "Matthias Benesch",
-          "Frank Berger"
-        ]
-      },
-      {
-        "title": "A basis for performance property prediction of ubiquitous self-adapting systems.",
-        "authors": [
-          "Gunnar Brataas",
-          "Jacqueline Floch",
-          "Romain Rouvoy",
-          "Pyrros Bratskas",
-          "George A. Papadopoulos"
-        ]
-      },
-      {
-        "title": "Scaling up SLA monitoring in pervasive environments.",
-        "authors": [
-          "Antonia Bertolino",
-          "Guglielmo De Angelis",
-          "Antonino Sabetta",
-          "Sebastian G. Elbaum"
-        ]
-      },
-      {
-        "title": "Towards model driven design of service-based context-aware applications.",
-        "authors": [
-          "Vincenzo Grassi",
-          "Andrea Sindico"
-        ]
-      },
-      {
-        "title": "Engineering mobile field worker applications.",
-        "authors": [
-          "Pietro Mazzoleni",
-          "Stefan Tai"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/sigsoft/syanco2007.html": {
-    "header": "SYANCO 2007: Dubrovnik, Croatia",
-    "year": "2007",
-    "papers": [
-      {
-        "title": "Rethinking software connectors.",
-        "authors": [
-          "Stephen Kell"
-        ]
-      },
-      {
-        "title": "Aspect-oriented connectors for coordination.",
-        "authors": [
-          "Jennifer Pérez",
-          "Carlos E. Cuesta"
-        ]
-      },
-      {
-        "title": "A type-level approach to component prototyping.",
-        "authors": [
-          "Luís Soares Barbosa",
-          "Jácome Cunha",
-          "Joost Visser"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/soqua/soqua2007.html": {
     "header": "SOQUA 2007: Dubrovnik, Croatia",
     "year": "2007",
@@ -21556,50 +21429,214 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/dosta2007.html": {
-    "header": "DOSTA 2007: Dubrovnik, Croatia",
+  "https://dblp.org/db/conf/sigsoft/syanco2007.html": {
+    "header": "SYANCO 2007: Dubrovnik, Croatia",
     "year": "2007",
     "papers": [
       {
-        "title": "Test suite prioritization by interaction coverage.",
+        "title": "Rethinking software connectors.",
         "authors": [
-          "Renée C. Bryce",
-          "Atif M. Memon"
+          "Stephen Kell"
         ]
       },
       {
-        "title": "Automatic generation of test data generators for synchronous programs: Lutess V2.",
+        "title": "Aspect-oriented connectors for coordination.",
         "authors": [
-          "Besnik Seljimi",
-          "Ioannis Parissis"
+          "Jennifer Pérez",
+          "Carlos E. Cuesta"
         ]
       },
       {
-        "title": "Session-aware debugging features for web applications using Ruby and Python frameworks.",
+        "title": "A type-level approach to component prototyping.",
         "authors": [
-          "Norio Sato",
-          "Keisuke Kosuga"
+          "Luís Soares Barbosa",
+          "Jácome Cunha",
+          "Joost Visser"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sigsoft/soswe2007.html": {
+    "header": "IW-SOSWE@ESEC/FSE 2007: Dubrovnik, Croatia",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "A stakeholder-driven service life cycle model for SOA.",
+        "authors": [
+          "Qing Gu",
+          "Patricia Lago"
         ]
       },
       {
-        "title": "Program representations for testing wireless sensor network applications.",
+        "title": "Discovery of SOA patterns via model checking.",
         "authors": [
-          "Nguyet T. M. Nguyen",
-          "Mary Lou Soffa"
+          "Massimiliano Di Penta",
+          "Antonella Santone",
+          "Maria Luisa Villani"
         ]
       },
       {
-        "title": "An experimental evaluation of approaches to feature testing in the mobile phone applications domain.",
+        "title": "Monitoring conversational web services.",
         "authors": [
-          "Laisa H. O. do Nascimento",
-          "Patrícia D. L. Machado"
+          "Domenico Bianculli",
+          "Carlo Ghezzi"
         ]
       },
       {
-        "title": "Profiling and testing within domains to facilitate document exchangeability.",
+        "title": "Towards recovering the broken SOA triangle: a software engineering perspective.",
         "authors": [
-          "Eda Marchetti",
-          "Antonia Bertolino"
+          "Anton Michlmayr",
+          "Florian Rosenberg",
+          "Christian Platzer",
+          "Martin Treiber",
+          "Schahram Dustdar"
+        ]
+      },
+      {
+        "title": "Efficient provisioning of service level agreements for service oriented applications.",
+        "authors": [
+          "Valeria Cardellini",
+          "Emiliano Casalicchio",
+          "Vincenzo Grassi",
+          "Francesco Lo Presti"
+        ]
+      },
+      {
+        "title": "Dynamic trust assessment of software services.",
+        "authors": [
+          "George Spanoudakis"
+        ]
+      },
+      {
+        "title": "Monitoring the monitor: an approach towards trustworthiness in service oriented architecture.",
+        "authors": [
+          "Mahantesh Hosamani",
+          "Harish Narayanappa",
+          "Hridesh Rajan"
+        ]
+      },
+      {
+        "title": "A service-based infrastructure for advanced logistics.",
+        "authors": [
+          "Luciano Baresi",
+          "Daniele Braga",
+          "Marco Comuzzi",
+          "Filippo Pacifici",
+          "Pierluigi Plebani"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sigsoft/savcbs2007.html": {
+    "header": "SAVCBS@ESEC/FSE 2007: Dubrovnik, Croatia",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "Effective verification of systems with a dynamic number of components.",
+        "authors": [
+          "Pavlína Vareková",
+          "Pavel Moravec",
+          "Ivana Cerná",
+          "Barbora Zimmerová"
+        ]
+      },
+      {
+        "title": "Plan-directed architectural change for autonomous systems.",
+        "authors": [
+          "Daniel Sykes",
+          "William Heaven",
+          "Jeff Magee",
+          "Jeff Kramer"
+        ]
+      },
+      {
+        "title": "Reachability analysis for annotated code.",
+        "authors": [
+          "Mikolás Janota",
+          "Radu Grigore",
+          "Michal Moskal"
+        ]
+      },
+      {
+        "title": "Faithful mapping of model classes to mathematical structures.",
+        "authors": [
+          "Ádám Darvas",
+          "Peter Müller"
+        ]
+      },
+      {
+        "title": "Proof-transforming compilation of programs with abrupt termination.",
+        "authors": [
+          "Peter Müller",
+          "Martin Nordio"
+        ]
+      },
+      {
+        "title": "An integrated verification environment for JML: architecture and early results.",
+        "authors": [
+          "Patrice Chalin",
+          "Perry R. James",
+          "George Karabotsos"
+        ]
+      },
+      {
+        "title": "Playing with time in publish-subscribe using a domain-specific model checker.",
+        "authors": [
+          "Luciano Baresi",
+          "Giorgio Gerosa",
+          "Carlo Ghezzi",
+          "Luca Mottola"
+        ]
+      },
+      {
+        "title": "On timed components and their abstraction.",
+        "authors": [
+          "Ramzi Ben Salah",
+          "Marius Bozga",
+          "Oded Maler"
+        ]
+      },
+      {
+        "title": "Subject-observer specification with component-interaction automata.",
+        "authors": [
+          "Pavlína Vareková",
+          "Barbora Zimmerová"
+        ]
+      },
+      {
+        "title": "Game-based safety checking with Mage.",
+        "authors": [
+          "Adam Bakewell",
+          "Dan R. Ghica"
+        ]
+      },
+      {
+        "title": "Specification and verification of trustworthy component-based real-time reactive systems.",
+        "authors": [
+          "Vasu S. Alagar",
+          "Mubarak Mohammad"
+        ]
+      },
+      {
+        "title": "Components, objects, and contracts.",
+        "authors": [
+          "Olaf Owe",
+          "Gerardo Schneider",
+          "Martin Steffen"
+        ]
+      },
+      {
+        "title": "Compositional failure-based semantic equivalences for Reo specifications.",
+        "authors": [
+          "Mohammad Izadi",
+          "Ali Movaghar"
+        ]
+      },
+      {
+        "title": "A concept for dynamic wiring of components: correctness in dynamic adaptive systems.",
+        "authors": [
+          "Dirk Niebuhr",
+          "Andreas Rausch"
         ]
       }
     ]
@@ -22305,73 +22342,102 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/soswe2007.html": {
-    "header": "IW-SOSWE@ESEC/FSE 2007: Dubrovnik, Croatia",
+  "https://dblp.org/db/conf/sigsoft/esspe2007.html": {
+    "header": "ESSPE 2007: Dubrovnik, Croatia",
     "year": "2007",
     "papers": [
       {
-        "title": "A stakeholder-driven service life cycle model for SOA.",
+        "title": "Resource discovery with evolving tuples.",
         "authors": [
-          "Qing Gu",
-          "Patricia Lago"
+          "Drew Stovall",
+          "Christine Julien"
         ]
       },
       {
-        "title": "Discovery of SOA patterns via model checking.",
-        "authors": [
-          "Massimiliano Di Penta",
-          "Antonella Santone",
-          "Maria Luisa Villani"
-        ]
-      },
-      {
-        "title": "Monitoring conversational web services.",
-        "authors": [
-          "Domenico Bianculli",
-          "Carlo Ghezzi"
-        ]
-      },
-      {
-        "title": "Towards recovering the broken SOA triangle: a software engineering perspective.",
-        "authors": [
-          "Anton Michlmayr",
-          "Florian Rosenberg",
-          "Christian Platzer",
-          "Martin Treiber",
-          "Schahram Dustdar"
-        ]
-      },
-      {
-        "title": "Efficient provisioning of service level agreements for service oriented applications.",
-        "authors": [
-          "Valeria Cardellini",
-          "Emiliano Casalicchio",
-          "Vincenzo Grassi",
-          "Francesco Lo Presti"
-        ]
-      },
-      {
-        "title": "Dynamic trust assessment of software services.",
-        "authors": [
-          "George Spanoudakis"
-        ]
-      },
-      {
-        "title": "Monitoring the monitor: an approach towards trustworthiness in service oriented architecture.",
-        "authors": [
-          "Mahantesh Hosamani",
-          "Harish Narayanappa",
-          "Hridesh Rajan"
-        ]
-      },
-      {
-        "title": "A service-based infrastructure for advanced logistics.",
+        "title": "Self-healing BPEL processes with Dynamo and the JBoss rule engine.",
         "authors": [
           "Luciano Baresi",
-          "Daniele Braga",
-          "Marco Comuzzi",
-          "Filippo Pacifici",
-          "Pierluigi Plebani"
+          "Sam Guinea",
+          "Liliana Pasquale"
+        ]
+      },
+      {
+        "title": "A component model for dynamic adaptive systems.",
+        "authors": [
+          "Holger Klus",
+          "Dirk Niebuhr",
+          "Andreas Rausch"
+        ]
+      },
+      {
+        "title": "A reuse-based approach to the correct and automatic composition of web-services.",
+        "authors": [
+          "Paola Inverardi",
+          "Massimo Tivoli"
+        ]
+      },
+      {
+        "title": "Divide and conquer: scalability and variability for adaptive middleware.",
+        "authors": [
+          "Ulrich Scholz",
+          "Romain Rouvoy"
+        ]
+      },
+      {
+        "title": "Mobility management in B3G networks: a middleware-based approach.",
+        "authors": [
+          "Letian Rong",
+          "Manel Fredj",
+          "Valérie Issarny",
+          "Nikolaos Georgantas"
+        ]
+      },
+      {
+        "title": "Software deployment architecture and quality-of-service in pervasive environments.",
+        "authors": [
+          "Nenad Medvidovic",
+          "Sam Malek"
+        ]
+      },
+      {
+        "title": "Using proximity relations for the adaptation of mobile field services.",
+        "authors": [
+          "Heinz-Josef Eikerling",
+          "Matthias Benesch",
+          "Frank Berger"
+        ]
+      },
+      {
+        "title": "A basis for performance property prediction of ubiquitous self-adapting systems.",
+        "authors": [
+          "Gunnar Brataas",
+          "Jacqueline Floch",
+          "Romain Rouvoy",
+          "Pyrros Bratskas",
+          "George A. Papadopoulos"
+        ]
+      },
+      {
+        "title": "Scaling up SLA monitoring in pervasive environments.",
+        "authors": [
+          "Antonia Bertolino",
+          "Guglielmo De Angelis",
+          "Antonino Sabetta",
+          "Sebastian G. Elbaum"
+        ]
+      },
+      {
+        "title": "Towards model driven design of service-based context-aware applications.",
+        "authors": [
+          "Vincenzo Grassi",
+          "Andrea Sindico"
+        ]
+      },
+      {
+        "title": "Engineering mobile field worker applications.",
+        "authors": [
+          "Pietro Mazzoleni",
+          "Stefan Tai"
         ]
       }
     ]
@@ -22455,116 +22521,50 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/sigsoft/savcbs2007.html": {
-    "header": "SAVCBS@ESEC/FSE 2007: Dubrovnik, Croatia",
+  "https://dblp.org/db/conf/sigsoft/dosta2007.html": {
+    "header": "DOSTA 2007: Dubrovnik, Croatia",
     "year": "2007",
     "papers": [
       {
-        "title": "Effective verification of systems with a dynamic number of components.",
+        "title": "Test suite prioritization by interaction coverage.",
         "authors": [
-          "Pavlína Vareková",
-          "Pavel Moravec",
-          "Ivana Cerná",
-          "Barbora Zimmerová"
+          "Renée C. Bryce",
+          "Atif M. Memon"
         ]
       },
       {
-        "title": "Plan-directed architectural change for autonomous systems.",
+        "title": "Automatic generation of test data generators for synchronous programs: Lutess V2.",
         "authors": [
-          "Daniel Sykes",
-          "William Heaven",
-          "Jeff Magee",
-          "Jeff Kramer"
+          "Besnik Seljimi",
+          "Ioannis Parissis"
         ]
       },
       {
-        "title": "Reachability analysis for annotated code.",
+        "title": "Session-aware debugging features for web applications using Ruby and Python frameworks.",
         "authors": [
-          "Mikolás Janota",
-          "Radu Grigore",
-          "Michal Moskal"
+          "Norio Sato",
+          "Keisuke Kosuga"
         ]
       },
       {
-        "title": "Faithful mapping of model classes to mathematical structures.",
+        "title": "Program representations for testing wireless sensor network applications.",
         "authors": [
-          "Ádám Darvas",
-          "Peter Müller"
+          "Nguyet T. M. Nguyen",
+          "Mary Lou Soffa"
         ]
       },
       {
-        "title": "Proof-transforming compilation of programs with abrupt termination.",
+        "title": "An experimental evaluation of approaches to feature testing in the mobile phone applications domain.",
         "authors": [
-          "Peter Müller",
-          "Martin Nordio"
+          "Laisa H. O. do Nascimento",
+          "Patrícia D. L. Machado"
         ]
       },
       {
-        "title": "An integrated verification environment for JML: architecture and early results.",
+        "title": "Profiling and testing within domains to facilitate document exchangeability.",
         "authors": [
-          "Patrice Chalin",
-          "Perry R. James",
-          "George Karabotsos"
-        ]
-      },
-      {
-        "title": "Playing with time in publish-subscribe using a domain-specific model checker.",
-        "authors": [
-          "Luciano Baresi",
-          "Giorgio Gerosa",
-          "Carlo Ghezzi",
-          "Luca Mottola"
-        ]
-      },
-      {
-        "title": "On timed components and their abstraction.",
-        "authors": [
-          "Ramzi Ben Salah",
-          "Marius Bozga",
-          "Oded Maler"
-        ]
-      },
-      {
-        "title": "Subject-observer specification with component-interaction automata.",
-        "authors": [
-          "Pavlína Vareková",
-          "Barbora Zimmerová"
-        ]
-      },
-      {
-        "title": "Game-based safety checking with Mage.",
-        "authors": [
-          "Adam Bakewell",
-          "Dan R. Ghica"
-        ]
-      },
-      {
-        "title": "Specification and verification of trustworthy component-based real-time reactive systems.",
-        "authors": [
-          "Vasu S. Alagar",
-          "Mubarak Mohammad"
-        ]
-      },
-      {
-        "title": "Components, objects, and contracts.",
-        "authors": [
-          "Olaf Owe",
-          "Gerardo Schneider",
-          "Martin Steffen"
-        ]
-      },
-      {
-        "title": "Compositional failure-based semantic equivalences for Reo specifications.",
-        "authors": [
-          "Mohammad Izadi",
-          "Ali Movaghar"
-        ]
-      },
-      {
-        "title": "A concept for dynamic wiring of components: correctness in dynamic adaptive systems.",
-        "authors": [
-          "Dirk Niebuhr",
-          "Andreas Rausch"
+          "Eda Marchetti",
+          "Antonia Bertolino"
         ]
       }
     ]

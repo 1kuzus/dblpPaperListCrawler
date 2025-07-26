@@ -1069,11 +1069,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/popl/plmw2015.html": {
-    "header": "PLMW@POPL 2015: Mumbai, India",
-    "year": "2015",
-    "papers": []
-  },
   "https://dblp.org/db/conf/popl/popl2015.html": {
     "header": "42nd POPL 2015: Mumbai, India",
     "year": "2015",
@@ -1525,6 +1520,79 @@
           "Clément Pit-Claudel",
           "Jason Gross",
           "Adam Chlipala"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/popl/plmw2015.html": {
+    "header": "PLMW@POPL 2015: Mumbai, India",
+    "year": "2015",
+    "papers": []
+  },
+  "https://dblp.org/db/conf/popl/pprew2014.html": {
+    "header": "PPREW@POPL 2014: San Diego, CA, USA",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Recovering C++ Objects From Binaries Using Inter-Procedural Data-Flow Analysis.",
+        "authors": [
+          "Wesley Jin",
+          "Cory F. Cohen",
+          "Jeffrey Gennari",
+          "Charles Hines",
+          "Sagar Chaki",
+          "Arie Gurfinkel",
+          "Jeffrey Havrilla",
+          "Priya Narasimhan"
+        ]
+      },
+      {
+        "title": "Formal Analysis of CRT-RSA Vigilant's Countermeasure Against the BellCoRe Attack: A Pledge for Formal Methods in the Field of Implementation Security.",
+        "authors": [
+          "Pablo Rauzy",
+          "Sylvain Guilley"
+        ]
+      },
+      {
+        "title": "DroidLegacy: Automated Familial Classification of Android Malware.",
+        "authors": [
+          "Luke Deshotels",
+          "Vivek Notani",
+          "Arun Lakhotia"
+        ]
+      },
+      {
+        "title": "TDVMP: Improved Virtual Machine-Based Software Protection with Time Diversity.",
+        "authors": [
+          "Huaijun Wang",
+          "Dingyi Fang",
+          "Guanghui Li",
+          "Na An",
+          "Xiaojiang Chen",
+          "Yuanxiang Gu"
+        ]
+      },
+      {
+        "title": "Hardware-enforced Protection against Software Reverse-Engineering based on an Instruction Set Encoding.",
+        "authors": [
+          "Jean-Luc Danger",
+          "Sylvain Guilley",
+          "Florian Praden"
+        ]
+      },
+      {
+        "title": "Analyzing program dependencies for malware detection.",
+        "authors": [
+          "Mila Dalla Preda",
+          "Isabella Mastroeni",
+          "Roberto Giacobazzi"
+        ]
+      },
+      {
+        "title": "The GDSL toolkit: Generating Frontends for the Analysis of Machine Code.",
+        "authors": [
+          "Axel Simon",
+          "Julian Kranz"
         ]
       }
     ]
@@ -2001,119 +2069,46 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/popl/pprew2014.html": {
-    "header": "PPREW@POPL 2014: San Diego, CA, USA",
-    "year": "2014",
-    "papers": [
-      {
-        "title": "Recovering C++ Objects From Binaries Using Inter-Procedural Data-Flow Analysis.",
-        "authors": [
-          "Wesley Jin",
-          "Cory F. Cohen",
-          "Jeffrey Gennari",
-          "Charles Hines",
-          "Sagar Chaki",
-          "Arie Gurfinkel",
-          "Jeffrey Havrilla",
-          "Priya Narasimhan"
-        ]
-      },
-      {
-        "title": "Formal Analysis of CRT-RSA Vigilant's Countermeasure Against the BellCoRe Attack: A Pledge for Formal Methods in the Field of Implementation Security.",
-        "authors": [
-          "Pablo Rauzy",
-          "Sylvain Guilley"
-        ]
-      },
-      {
-        "title": "DroidLegacy: Automated Familial Classification of Android Malware.",
-        "authors": [
-          "Luke Deshotels",
-          "Vivek Notani",
-          "Arun Lakhotia"
-        ]
-      },
-      {
-        "title": "TDVMP: Improved Virtual Machine-Based Software Protection with Time Diversity.",
-        "authors": [
-          "Huaijun Wang",
-          "Dingyi Fang",
-          "Guanghui Li",
-          "Na An",
-          "Xiaojiang Chen",
-          "Yuanxiang Gu"
-        ]
-      },
-      {
-        "title": "Hardware-enforced Protection against Software Reverse-Engineering based on an Instruction Set Encoding.",
-        "authors": [
-          "Jean-Luc Danger",
-          "Sylvain Guilley",
-          "Florian Praden"
-        ]
-      },
-      {
-        "title": "Analyzing program dependencies for malware detection.",
-        "authors": [
-          "Mila Dalla Preda",
-          "Isabella Mastroeni",
-          "Roberto Giacobazzi"
-        ]
-      },
-      {
-        "title": "The GDSL toolkit: Generating Frontends for the Analysis of Machine Code.",
-        "authors": [
-          "Axel Simon",
-          "Julian Kranz"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/popl/ddfp2013.html": {
-    "header": "DDFP 2013: Rome, Italy",
+  "https://dblp.org/db/conf/popl/pprew2013.html": {
+    "header": "PPREW@POPL 2013: Rome, Italy",
     "year": "2013",
     "papers": [
       {
-        "title": "Themes in information-rich functional programming for internet-scale data sources.",
+        "title": "Software protection for dynamically-generated code.",
         "authors": [
-          "Don Syme",
-          "Keith Battocchi",
-          "Kenji Takeda",
-          "Donna Malayeri",
-          "Tomas Petricek"
+          "Sudeep Ghosh",
+          "Jason Hiser",
+          "Jack W. Davidson"
         ]
       },
       {
-        "title": "Algebraic data types for language-integrated queries.",
+        "title": "String oriented programming: when ASLR is not enough.",
         "authors": [
-          "George Giorgidze",
-          "Torsten Grust",
-          "Alexander Ulrich",
-          "Jeroen Weijers"
+          "Mathias Payer",
+          "Thomas R. Gross"
         ]
       },
       {
-        "title": "Incompleteness-aware programming with RDF data.",
+        "title": "Kernel mode API spectroscopy for incident response and digital forensics.",
         "authors": [
-          "Stefan Scheglmann",
-          "Gerd Gröner",
-          "Steffen Staab",
-          "Ralf Lämmel"
+          "Viviane Zwanger",
+          "Felix C. Freiling"
         ]
       },
       {
-        "title": "Streaming big data with self-adjusting computation.",
+        "title": "BinSlayer: accurate comparison of binary executables.",
         "authors": [
-          "Umut A. Acar",
-          "Yan Chen"
+          "Martial Bourquin",
+          "Andy King",
+          "Edward Robbins"
         ]
       },
       {
-        "title": "Visualizing data on the web.",
+        "title": "Fast location of similar code fragments using semantic 'juice'.",
         "authors": [
-          "Loïc Denuzière",
-          "Adam Granicz",
-          "Anton Tayanovskyy"
+          "Arun Lakhotia",
+          "Mila Dalla Preda",
+          "Roberto Giacobazzi"
         ]
       }
     ]
@@ -2503,46 +2498,51 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/popl/pprew2013.html": {
-    "header": "PPREW@POPL 2013: Rome, Italy",
+  "https://dblp.org/db/conf/popl/ddfp2013.html": {
+    "header": "DDFP 2013: Rome, Italy",
     "year": "2013",
     "papers": [
       {
-        "title": "Software protection for dynamically-generated code.",
+        "title": "Themes in information-rich functional programming for internet-scale data sources.",
         "authors": [
-          "Sudeep Ghosh",
-          "Jason Hiser",
-          "Jack W. Davidson"
+          "Don Syme",
+          "Keith Battocchi",
+          "Kenji Takeda",
+          "Donna Malayeri",
+          "Tomas Petricek"
         ]
       },
       {
-        "title": "String oriented programming: when ASLR is not enough.",
+        "title": "Algebraic data types for language-integrated queries.",
         "authors": [
-          "Mathias Payer",
-          "Thomas R. Gross"
+          "George Giorgidze",
+          "Torsten Grust",
+          "Alexander Ulrich",
+          "Jeroen Weijers"
         ]
       },
       {
-        "title": "Kernel mode API spectroscopy for incident response and digital forensics.",
+        "title": "Incompleteness-aware programming with RDF data.",
         "authors": [
-          "Viviane Zwanger",
-          "Felix C. Freiling"
+          "Stefan Scheglmann",
+          "Gerd Gröner",
+          "Steffen Staab",
+          "Ralf Lämmel"
         ]
       },
       {
-        "title": "BinSlayer: accurate comparison of binary executables.",
+        "title": "Streaming big data with self-adjusting computation.",
         "authors": [
-          "Martial Bourquin",
-          "Andy King",
-          "Edward Robbins"
+          "Umut A. Acar",
+          "Yan Chen"
         ]
       },
       {
-        "title": "Fast location of similar code fragments using semantic 'juice'.",
+        "title": "Visualizing data on the web.",
         "authors": [
-          "Arun Lakhotia",
-          "Mila Dalla Preda",
-          "Roberto Giacobazzi"
+          "Loïc Denuzière",
+          "Adam Granicz",
+          "Anton Tayanovskyy"
         ]
       }
     ]
@@ -4932,6 +4932,81 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/popl/wits2005.html": {
+    "header": "WITS@POPL 2005: Long Beach, CA, USA",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "Handling declared information leakage: extended abstract.",
+        "authors": [
+          "Rachid Echahed",
+          "Frédéric Prost"
+        ]
+      },
+      {
+        "title": "Policy framings for access control.",
+        "authors": [
+          "Massimo Bartoletti",
+          "Pierpaolo Degano",
+          "Gian-Luigi Ferrari"
+        ]
+      },
+      {
+        "title": "Specifying Kerberos 5 cross-realm authentication.",
+        "authors": [
+          "Iliano Cervesato",
+          "Aaron D. Jaggard",
+          "Andre Scedrov",
+          "Christopher Walstad"
+        ]
+      },
+      {
+        "title": "Using static analysis to validate the SAML single sign-on protocol.",
+        "authors": [
+          "Steffen M. Hansen",
+          "Jakob Skriver",
+          "Hanne Riis Nielson"
+        ]
+      },
+      {
+        "title": "Inferring authentication tags.",
+        "authors": [
+          "Riccardo Focardi",
+          "Matteo Maffei",
+          "Francesco Placella"
+        ]
+      },
+      {
+        "title": "Statically checking confidentiality via dynamic labels.",
+        "authors": [
+          "Bart Jacobs",
+          "Wolter Pieters",
+          "Martijn Warnier"
+        ]
+      },
+      {
+        "title": "Enterprise privacy promises and enforcement.",
+        "authors": [
+          "Adam Barth",
+          "John C. Mitchell"
+        ]
+      },
+      {
+        "title": "Formal prototyping in early stages of protocol design.",
+        "authors": [
+          "Alwyn Goodloe",
+          "Carl A. Gunter",
+          "Mark-Oliver Stehr"
+        ]
+      },
+      {
+        "title": "A variant of the Chaum voter-verifiable scheme.",
+        "authors": [
+          "Peter Y. A. Ryan"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/popl/popl2005.html": {
     "header": "32nd POPL 2005: Long Beach, California, USA",
     "year": "2005",
@@ -5176,81 +5251,6 @@
           "Jeremy Manson",
           "William W. Pugh",
           "Sarita V. Adve"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/popl/wits2005.html": {
-    "header": "WITS@POPL 2005: Long Beach, CA, USA",
-    "year": "2005",
-    "papers": [
-      {
-        "title": "Handling declared information leakage: extended abstract.",
-        "authors": [
-          "Rachid Echahed",
-          "Frédéric Prost"
-        ]
-      },
-      {
-        "title": "Policy framings for access control.",
-        "authors": [
-          "Massimo Bartoletti",
-          "Pierpaolo Degano",
-          "Gian-Luigi Ferrari"
-        ]
-      },
-      {
-        "title": "Specifying Kerberos 5 cross-realm authentication.",
-        "authors": [
-          "Iliano Cervesato",
-          "Aaron D. Jaggard",
-          "Andre Scedrov",
-          "Christopher Walstad"
-        ]
-      },
-      {
-        "title": "Using static analysis to validate the SAML single sign-on protocol.",
-        "authors": [
-          "Steffen M. Hansen",
-          "Jakob Skriver",
-          "Hanne Riis Nielson"
-        ]
-      },
-      {
-        "title": "Inferring authentication tags.",
-        "authors": [
-          "Riccardo Focardi",
-          "Matteo Maffei",
-          "Francesco Placella"
-        ]
-      },
-      {
-        "title": "Statically checking confidentiality via dynamic labels.",
-        "authors": [
-          "Bart Jacobs",
-          "Wolter Pieters",
-          "Martijn Warnier"
-        ]
-      },
-      {
-        "title": "Enterprise privacy promises and enforcement.",
-        "authors": [
-          "Adam Barth",
-          "John C. Mitchell"
-        ]
-      },
-      {
-        "title": "Formal prototyping in early stages of protocol design.",
-        "authors": [
-          "Alwyn Goodloe",
-          "Carl A. Gunter",
-          "Mark-Oliver Stehr"
-        ]
-      },
-      {
-        "title": "A variant of the Chaum voter-verifiable scheme.",
-        "authors": [
-          "Peter Y. A. Ryan"
         ]
       }
     ]
@@ -6725,11 +6725,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/popl/cd1997.html": {
-    "header": "POPL: The First Ten Years",
-    "year": "1997",
-    "papers": []
-  },
   "https://dblp.org/db/conf/popl/popl97.html": {
     "header": "24th POPL 1997: Paris, France",
     "year": "1997",
@@ -6982,6 +6977,11 @@
         ]
       }
     ]
+  },
+  "https://dblp.org/db/conf/popl/cd1997.html": {
+    "header": "POPL: The First Ten Years",
+    "year": "1997",
+    "papers": []
   },
   "https://dblp.org/db/conf/popl/popl96.html": {
     "header": "23rd POPL 1996: St. Petersburg Beach, Florida, USA",

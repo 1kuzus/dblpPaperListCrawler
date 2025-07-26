@@ -364,6 +364,74 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/wisec/wiseml2024.html": {
+    "header": "WiseML@WiSec 2024:\nSeoul, Korea",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "Backdoors on Manifold Learning.",
+        "authors": [
+          "Christina Kreza",
+          "Stefanos Koffas",
+          "Behrad Tajalli",
+          "Mauro Conti",
+          "Stjepan Picek"
+        ]
+      },
+      {
+        "title": "CANEDERLI: On The Impact of Adversarial Training and Transferability on CAN Intrusion Detection Systems.",
+        "authors": [
+          "Francesco Marchiori",
+          "Mauro Conti"
+        ]
+      },
+      {
+        "title": "Beyond PhantomSponges: Enhancing Sponge Attack on Object Detection Models.",
+        "authors": [
+          "Coen Schoof",
+          "Stefanos Koffas",
+          "Mauro Conti",
+          "Stjepan Picek"
+        ]
+      },
+      {
+        "title": "A Privacy Preserving Context Sensitive Kernel.",
+        "authors": [
+          "Anshul Bhaware",
+          "Gaurav Varshney",
+          "Jaswinder Kour",
+          "Tejaswi Bishnoi",
+          "Mudit Jain",
+          "Dalchandra Sharma"
+        ]
+      },
+      {
+        "title": "Wireless-Powered Multi-Channel Backscatter Communications Under Jamming: A Cooperative Reinforcement Learning Approach.",
+        "authors": [
+          "Dara Ron",
+          "Kai Zeng"
+        ]
+      },
+      {
+        "title": "Cost Minimization for Joint Server and Service Deployment in Edge Computing.",
+        "authors": [
+          "Feng Liu",
+          "Lei Shi",
+          "Juan Xu",
+          "Xu Ding",
+          "Yuqi Fan",
+          "Zhehao Li"
+        ]
+      },
+      {
+        "title": "DetecSHUN: Detection of Signals Hidden Under the Noise.",
+        "authors": [
+          "Nathaniel Rowe",
+          "Dola Saha"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/wisec/wisec2024.html": {
     "header": "17th WISEC 2024:\nSeoul, Korea",
     "year": "2024",
@@ -640,70 +708,92 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/wisec/wiseml2024.html": {
-    "header": "WiseML@WiSec 2024:\nSeoul, Korea",
-    "year": "2024",
+  "https://dblp.org/db/conf/wisec/wiseml2023.html": {
+    "header": "WiseML@WiSec 2023:\nGuildford, UK",
+    "year": "2023",
     "papers": [
       {
-        "title": "Backdoors on Manifold Learning.",
+        "title": "Fortifying Your Defenses: Techniques to Thwart Adversarial Attacks and Boost Performance of Machine Learning-Based Intrusion Detection Systems.",
         "authors": [
-          "Christina Kreza",
-          "Stefanos Koffas",
-          "Behrad Tajalli",
-          "Mauro Conti",
-          "Stjepan Picek"
+          "Wenjing Lou"
         ]
       },
       {
-        "title": "CANEDERLI: On The Impact of Adversarial Training and Transferability on CAN Intrusion Detection Systems.",
+        "title": "Increasing the Robustness of a Machine Learning-based IoT Malware Detection Method with Adversarial Training.",
         "authors": [
-          "Francesco Marchiori",
-          "Mauro Conti"
+          "József Sándor",
+          "Roland Nagy",
+          "Levente Buttyán"
         ]
       },
       {
-        "title": "Beyond PhantomSponges: Enhancing Sponge Attack on Object Detection Models.",
+        "title": "How Can the Adversary Effectively Identify Cellular IoT Devices Using LSTM Networks?",
         "authors": [
-          "Coen Schoof",
-          "Stefanos Koffas",
-          "Mauro Conti",
-          "Stjepan Picek"
+          "Zhengping Jay Luo",
+          "Will A. Pitera",
+          "Shangqing Zhao",
+          "Zhuo Lu",
+          "Yalin E. Sagduyu"
         ]
       },
       {
-        "title": "A Privacy Preserving Context Sensitive Kernel.",
+        "title": "Exploring Adversarial Attacks on Learning-based Localization.",
         "authors": [
-          "Anshul Bhaware",
-          "Gaurav Varshney",
-          "Jaswinder Kour",
-          "Tejaswi Bishnoi",
-          "Mudit Jain",
-          "Dalchandra Sharma"
+          "Frost Mitchell",
+          "Phillip Smith",
+          "Aditya Bhaskara",
+          "Sneha Kumar Kasera"
         ]
       },
       {
-        "title": "Wireless-Powered Multi-Channel Backscatter Communications Under Jamming: A Cooperative Reinforcement Learning Approach.",
+        "title": "Approximate Wireless Communication for Federated Learning.",
         "authors": [
-          "Dara Ron",
-          "Kai Zeng"
+          "Xiang Ma",
+          "Haijian Sun",
+          "Rose Qingyang Hu",
+          "Yi Qian"
         ]
       },
       {
-        "title": "Cost Minimization for Joint Server and Service Deployment in Edge Computing.",
+        "title": "A Key Generation Scheme for IoV Communication Based on Neural Network Autoencoders.",
         "authors": [
-          "Feng Liu",
-          "Lei Shi",
-          "Juan Xu",
-          "Xu Ding",
-          "Yuqi Fan",
-          "Zhehao Li"
+          "Liquan Chen",
+          "Han Wang",
+          "Tianyu Lu",
+          "Zeyu Xu"
         ]
       },
       {
-        "title": "DetecSHUN: Detection of Signals Hidden Under the Noise.",
+        "title": "Analysis of Lossy Generative Data Compression for Robust Remote Deep Inference.",
         "authors": [
-          "Nathaniel Rowe",
-          "Dola Saha"
+          "Mathew Williams",
+          "Silvija Kokalj-Filipovic",
+          "Armani Rodriguez"
+        ]
+      },
+      {
+        "title": "Machine Learning-Based Jamming Detection and Classification in Wireless Networks.",
+        "authors": [
+          "Enrico Testi",
+          "Luca Arcangeloni",
+          "Andrea Giorgetti"
+        ]
+      },
+      {
+        "title": "Machine Learning Assisted Physical Layer Secret Key Generation in the One-Time-Pad Encryption Scheme.",
+        "authors": [
+          "Liquan Chen",
+          "Yufan Song",
+          "Tianyu Lu",
+          "Peng Zhang"
+        ]
+      },
+      {
+        "title": "Hierarchical Over-the-Air Federated Learning with Differential Privacy.",
+        "authors": [
+          "Zixi Wang",
+          "Arick Grootveld",
+          "Mustafa Cenk Gursoy"
         ]
       }
     ]
@@ -1025,96 +1115,6 @@
         "authors": [
           "Naureen Hoque",
           "Hanif Rahbari"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/wisec/wiseml2023.html": {
-    "header": "WiseML@WiSec 2023:\nGuildford, UK",
-    "year": "2023",
-    "papers": [
-      {
-        "title": "Fortifying Your Defenses: Techniques to Thwart Adversarial Attacks and Boost Performance of Machine Learning-Based Intrusion Detection Systems.",
-        "authors": [
-          "Wenjing Lou"
-        ]
-      },
-      {
-        "title": "Increasing the Robustness of a Machine Learning-based IoT Malware Detection Method with Adversarial Training.",
-        "authors": [
-          "József Sándor",
-          "Roland Nagy",
-          "Levente Buttyán"
-        ]
-      },
-      {
-        "title": "How Can the Adversary Effectively Identify Cellular IoT Devices Using LSTM Networks?",
-        "authors": [
-          "Zhengping Jay Luo",
-          "Will A. Pitera",
-          "Shangqing Zhao",
-          "Zhuo Lu",
-          "Yalin E. Sagduyu"
-        ]
-      },
-      {
-        "title": "Exploring Adversarial Attacks on Learning-based Localization.",
-        "authors": [
-          "Frost Mitchell",
-          "Phillip Smith",
-          "Aditya Bhaskara",
-          "Sneha Kumar Kasera"
-        ]
-      },
-      {
-        "title": "Approximate Wireless Communication for Federated Learning.",
-        "authors": [
-          "Xiang Ma",
-          "Haijian Sun",
-          "Rose Qingyang Hu",
-          "Yi Qian"
-        ]
-      },
-      {
-        "title": "A Key Generation Scheme for IoV Communication Based on Neural Network Autoencoders.",
-        "authors": [
-          "Liquan Chen",
-          "Han Wang",
-          "Tianyu Lu",
-          "Zeyu Xu"
-        ]
-      },
-      {
-        "title": "Analysis of Lossy Generative Data Compression for Robust Remote Deep Inference.",
-        "authors": [
-          "Mathew Williams",
-          "Silvija Kokalj-Filipovic",
-          "Armani Rodriguez"
-        ]
-      },
-      {
-        "title": "Machine Learning-Based Jamming Detection and Classification in Wireless Networks.",
-        "authors": [
-          "Enrico Testi",
-          "Luca Arcangeloni",
-          "Andrea Giorgetti"
-        ]
-      },
-      {
-        "title": "Machine Learning Assisted Physical Layer Secret Key Generation in the One-Time-Pad Encryption Scheme.",
-        "authors": [
-          "Liquan Chen",
-          "Yufan Song",
-          "Tianyu Lu",
-          "Peng Zhang"
-        ]
-      },
-      {
-        "title": "Hierarchical Over-the-Air Federated Learning with Differential Privacy.",
-        "authors": [
-          "Zixi Wang",
-          "Arick Grootveld",
-          "Mustafa Cenk Gursoy"
         ]
       }
     ]
@@ -2141,6 +2141,135 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/wisec/wiseml2020.html": {
+    "header": "WiseML@WiSec 2020: Linz, Austria",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "Generative adversarial attacks against intrusion detection systems using active learning.",
+        "authors": [
+          "Dule Shu",
+          "Nandi O. Leslie",
+          "Charles A. Kamhoua",
+          "Conrad S. Tucker"
+        ]
+      },
+      {
+        "title": "Open set recognition through unsupervised and class-distance learning.",
+        "authors": [
+          "Andrew Draganov",
+          "Carter Brown",
+          "Enrico Mattei",
+          "Cass Dalton",
+          "Jaspreet Ranjit"
+        ]
+      },
+      {
+        "title": "Adversarial machine learning based partial-model attack in IoT.",
+        "authors": [
+          "Zhengping Luo",
+          "Shangqing Zhao",
+          "Zhuo Lu",
+          "Yalin E. Sagduyu",
+          "Jie Xu"
+        ]
+      },
+      {
+        "title": "Wideband spectral monitoring using deep learning.",
+        "authors": [
+          "Horacio Franco",
+          "Chris Cobo-Kroenke",
+          "Stephanie Welch",
+          "Martin Graciarena"
+        ]
+      },
+      {
+        "title": "Machine learning-driven intrusion detection for Contiki-NG-based IoT networks exposed to NSL-KDD dataset.",
+        "authors": [
+          "Jinxin Liu",
+          "Burak Kantarci",
+          "Carlisle Adams"
+        ]
+      },
+      {
+        "title": "Data augmentation with conditional GAN for automatic modulation classification.",
+        "authors": [
+          "Mansi Patel",
+          "Xuyu Wang",
+          "Shiwen Mao"
+        ]
+      },
+      {
+        "title": "Algorithm selection framework for cyber attack detection.",
+        "authors": [
+          "Marc Chalé",
+          "Nathaniel D. Bastian",
+          "Jeffery Weir"
+        ]
+      },
+      {
+        "title": "Investigating a spectral deception loss metric for training machine learning-based evasion attacks.",
+        "authors": [
+          "Matthew DelVecchio",
+          "Vanessa Arndorfer",
+          "William C. Headley"
+        ]
+      },
+      {
+        "title": "Generalized wireless adversarial deep learning.",
+        "authors": [
+          "Francesco Restuccia",
+          "Salvatore D'Oro",
+          "Amani Al-Shawabka",
+          "Bruno Costa Rendon",
+          "Kaushik R. Chowdhury",
+          "Stratis Ioannidis",
+          "Tommaso Melodia"
+        ]
+      },
+      {
+        "title": "Encrypted rich-data steganography using generative adversarial networks.",
+        "authors": [
+          "Dule Shu",
+          "Weilin Cong",
+          "Jiaming Chai",
+          "Conrad S. Tucker"
+        ]
+      },
+      {
+        "title": "Over-the-air membership inference attacks as privacy threats for deep learning-based wireless signal classifiers.",
+        "authors": [
+          "Yi Shi",
+          "Kemal Davaslioglu",
+          "Yalin E. Sagduyu"
+        ]
+      },
+      {
+        "title": "A network security classifier defense: against adversarial machine learning attacks.",
+        "authors": [
+          "Michael J. De Lucia",
+          "Chase Cotton"
+        ]
+      },
+      {
+        "title": "Deep learning based wiretap coding via mutual information estimation.",
+        "authors": [
+          "Rick Fritschek",
+          "Rafael F. Schaefer",
+          "Gerhard Wunder"
+        ]
+      },
+      {
+        "title": "Detecting acoustic backdoor transmission of inaudible messages using deep learning.",
+        "authors": [
+          "Silvija Kokalj-Filipovic",
+          "Morriel Kasher",
+          "Michael Zhao",
+          "Predrag Spasojevic"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/wisec/wisec2020.html": {
     "header": "13th WISEC 2020: Linz, Austria",
     "year": "2020",
@@ -2431,103 +2560,94 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/wisec/wiseml2020.html": {
-    "header": "WiseML@WiSec 2020: Linz, Austria",
-    "year": "2020",
+  "https://dblp.org/db/conf/wisec/wiseml2019.html": {
+    "header": "WiseML@WiSec 2019: Miami, Florida, USA",
+    "year": "2019",
     "papers": [
       {
-        "title": "Generative adversarial attacks against intrusion detection systems using active learning.",
+        "title": "Robust Signal Classification Using Siamese Networks.",
         "authors": [
-          "Dule Shu",
-          "Nandi O. Leslie",
-          "Charles A. Kamhoua",
-          "Conrad S. Tucker"
+          "Zachary L. Langford",
+          "Logan Eisenbeiser",
+          "Matthew Vondal"
         ]
       },
       {
-        "title": "Open set recognition through unsupervised and class-distance learning.",
+        "title": "Targeted Adversarial Examples Against RF Deep Classifiers.",
         "authors": [
-          "Andrew Draganov",
-          "Carter Brown",
-          "Enrico Mattei",
-          "Cass Dalton",
-          "Jaspreet Ranjit"
+          "Silvija Kokalj-Filipovic",
+          "Rob Miller",
+          "Joshua Morman"
         ]
       },
       {
-        "title": "Adversarial machine learning based partial-model attack in IoT.",
+        "title": "Generative Adversarial Radio Spectrum Networks.",
         "authors": [
-          "Zhengping Luo",
-          "Shangqing Zhao",
-          "Zhuo Lu",
-          "Yalin E. Sagduyu",
-          "Jie Xu"
+          "Tamoghna Roy",
+          "Tim O'Shea",
+          "Nathan E. West"
         ]
       },
       {
-        "title": "Wideband spectral monitoring using deep learning.",
+        "title": "Threat is in the Air: Machine Learning for Wireless Network Applications.",
         "authors": [
-          "Horacio Franco",
-          "Chris Cobo-Kroenke",
-          "Stephanie Welch",
-          "Martin Graciarena"
+          "Luca Pajola",
+          "Luca Pasa",
+          "Mauro Conti"
         ]
       },
       {
-        "title": "Machine learning-driven intrusion detection for Contiki-NG-based IoT networks exposed to NSL-KDD dataset.",
+        "title": "Towards Adversarial and Unintentional Collisions Detection Using Deep Learning.",
         "authors": [
-          "Jinxin Liu",
-          "Burak Kantarci",
-          "Carlisle Adams"
+          "Hai N. Nguyen",
+          "Tien Dang Vo-Huu",
+          "Triet Vo Huu",
+          "Guevara Noubir"
         ]
       },
       {
-        "title": "Data augmentation with conditional GAN for automatic modulation classification.",
+        "title": "On the Limitations of Targeted Adversarial Evasion Attacks Against Deep Learning Enabled Modulation Recognition.",
         "authors": [
-          "Mansi Patel",
-          "Xuyu Wang",
-          "Shiwen Mao"
-        ]
-      },
-      {
-        "title": "Algorithm selection framework for cyber attack detection.",
-        "authors": [
-          "Marc Chalé",
-          "Nathaniel D. Bastian",
-          "Jeffery Weir"
-        ]
-      },
-      {
-        "title": "Investigating a spectral deception loss metric for training machine learning-based evasion attacks.",
-        "authors": [
+          "Samuel Bair",
           "Matthew DelVecchio",
-          "Vanessa Arndorfer",
+          "Bryse Flowers",
+          "Alan J. Michaels",
           "William C. Headley"
         ]
       },
       {
-        "title": "Generalized wireless adversarial deep learning.",
+        "title": "Machine Learning-based Prevention of Battery-oriented Illegitimate Task Injection in Mobile Crowdsensing.",
         "authors": [
-          "Francesco Restuccia",
-          "Salvatore D'Oro",
-          "Amani Al-Shawabka",
-          "Bruno Costa Rendon",
-          "Kaushik R. Chowdhury",
-          "Stratis Ioannidis",
-          "Tommaso Melodia"
+          "Yueqian Zhang",
+          "Murat Simsek",
+          "Burak Kantarci"
         ]
       },
       {
-        "title": "Encrypted rich-data steganography using generative adversarial networks.",
+        "title": "Efficient Power Adaptation against Deep Learning Based Predictive Adversaries.",
         "authors": [
-          "Dule Shu",
-          "Weilin Cong",
-          "Jiaming Chai",
-          "Conrad S. Tucker"
+          "Ertugrul N. Ciftcioglu",
+          "Mike Ricos"
         ]
       },
       {
-        "title": "Over-the-air membership inference attacks as privacy threats for deep learning-based wireless signal classifiers.",
+        "title": "Jammer Detection based on Artificial Neural Networks: A Measurement Study.",
+        "authors": [
+          "Selen Gecgel",
+          "Caner Goztepe",
+          "Gunes Karabulut-Kurt"
+        ]
+      },
+      {
+        "title": "RAPID: Real-time Anomaly-based Preventive Intrusion Detection.",
+        "authors": [
+          "Keval Doshi",
+          "Mahsa Mozaffari",
+          "Yasin Yilmaz"
+        ]
+      },
+      {
+        "title": "Generative Adversarial Network for Wireless Signal Spoofing.",
         "authors": [
           "Yi Shi",
           "Kemal Davaslioglu",
@@ -2535,27 +2655,20 @@
         ]
       },
       {
-        "title": "A network security classifier defense: against adversarial machine learning attacks.",
+        "title": "Wireless Network Virtualization by Leveraging Blockchain Technology and Machine Learning.",
         "authors": [
-          "Michael J. De Lucia",
-          "Chase Cotton"
+          "Ashish Adhikari",
+          "Danda B. Rawat",
+          "Min Song"
         ]
       },
       {
-        "title": "Deep learning based wiretap coding via mutual information estimation.",
+        "title": "Detecting Drones Status via Encrypted Traffic Analysis.",
         "authors": [
-          "Rick Fritschek",
-          "Rafael F. Schaefer",
-          "Gerhard Wunder"
-        ]
-      },
-      {
-        "title": "Detecting acoustic backdoor transmission of inaudible messages using deep learning.",
-        "authors": [
-          "Silvija Kokalj-Filipovic",
-          "Morriel Kasher",
-          "Michael Zhao",
-          "Predrag Spasojevic"
+          "Savio Sciancalepore",
+          "Omar Adel Ibrahim",
+          "Gabriele Oligeri",
+          "Roberto Di Pietro"
         ]
       }
     ]
@@ -3062,119 +3175,6 @@
           "David Gabay",
           "Mumin Cebe",
           "Kemal Akkaya"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/wisec/wiseml2019.html": {
-    "header": "WiseML@WiSec 2019: Miami, Florida, USA",
-    "year": "2019",
-    "papers": [
-      {
-        "title": "Robust Signal Classification Using Siamese Networks.",
-        "authors": [
-          "Zachary L. Langford",
-          "Logan Eisenbeiser",
-          "Matthew Vondal"
-        ]
-      },
-      {
-        "title": "Targeted Adversarial Examples Against RF Deep Classifiers.",
-        "authors": [
-          "Silvija Kokalj-Filipovic",
-          "Rob Miller",
-          "Joshua Morman"
-        ]
-      },
-      {
-        "title": "Generative Adversarial Radio Spectrum Networks.",
-        "authors": [
-          "Tamoghna Roy",
-          "Tim O'Shea",
-          "Nathan E. West"
-        ]
-      },
-      {
-        "title": "Threat is in the Air: Machine Learning for Wireless Network Applications.",
-        "authors": [
-          "Luca Pajola",
-          "Luca Pasa",
-          "Mauro Conti"
-        ]
-      },
-      {
-        "title": "Towards Adversarial and Unintentional Collisions Detection Using Deep Learning.",
-        "authors": [
-          "Hai N. Nguyen",
-          "Tien Dang Vo-Huu",
-          "Triet Vo Huu",
-          "Guevara Noubir"
-        ]
-      },
-      {
-        "title": "On the Limitations of Targeted Adversarial Evasion Attacks Against Deep Learning Enabled Modulation Recognition.",
-        "authors": [
-          "Samuel Bair",
-          "Matthew DelVecchio",
-          "Bryse Flowers",
-          "Alan J. Michaels",
-          "William C. Headley"
-        ]
-      },
-      {
-        "title": "Machine Learning-based Prevention of Battery-oriented Illegitimate Task Injection in Mobile Crowdsensing.",
-        "authors": [
-          "Yueqian Zhang",
-          "Murat Simsek",
-          "Burak Kantarci"
-        ]
-      },
-      {
-        "title": "Efficient Power Adaptation against Deep Learning Based Predictive Adversaries.",
-        "authors": [
-          "Ertugrul N. Ciftcioglu",
-          "Mike Ricos"
-        ]
-      },
-      {
-        "title": "Jammer Detection based on Artificial Neural Networks: A Measurement Study.",
-        "authors": [
-          "Selen Gecgel",
-          "Caner Goztepe",
-          "Gunes Karabulut-Kurt"
-        ]
-      },
-      {
-        "title": "RAPID: Real-time Anomaly-based Preventive Intrusion Detection.",
-        "authors": [
-          "Keval Doshi",
-          "Mahsa Mozaffari",
-          "Yasin Yilmaz"
-        ]
-      },
-      {
-        "title": "Generative Adversarial Network for Wireless Signal Spoofing.",
-        "authors": [
-          "Yi Shi",
-          "Kemal Davaslioglu",
-          "Yalin E. Sagduyu"
-        ]
-      },
-      {
-        "title": "Wireless Network Virtualization by Leveraging Blockchain Technology and Machine Learning.",
-        "authors": [
-          "Ashish Adhikari",
-          "Danda B. Rawat",
-          "Min Song"
-        ]
-      },
-      {
-        "title": "Detecting Drones Status via Encrypted Traffic Analysis.",
-        "authors": [
-          "Savio Sciancalepore",
-          "Omar Adel Ibrahim",
-          "Gabriele Oligeri",
-          "Roberto Di Pietro"
         ]
       }
     ]

@@ -13298,161 +13298,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/cdb/cdb97.html": {
-    "header": "CDB 1997: Delphi, Greece",
-    "year": "1997",
-    "papers": [
-      {
-        "title": "Planar Topological Queries.",
-        "authors": [
-          "Christos H. Papadimitriou"
-        ]
-      },
-      {
-        "title": "An Informal Introduction to Constraint Database Systems.",
-        "authors": [
-          "Volker Gaede",
-          "Mark Wallace"
-        ]
-      },
-      {
-        "title": "Query Evaluation as Constraint Search; An Overview of Early Results.",
-        "authors": [
-          "Daniel P. Miranker",
-          "Roberto J. Bayardo Jr.",
-          "Vasilis Samoladas"
-        ]
-      },
-      {
-        "title": "Computing the Well-Founded Semantics for Constraint Extensions of Datalog.",
-        "authors": [
-          "David Toman"
-        ]
-      },
-      {
-        "title": "Decomposition and Lossless Join in Constraint Databases.",
-        "authors": [
-          "Yujun Wang",
-          "Baile Shi",
-          "Yunyao Qu"
-        ]
-      },
-      {
-        "title": "A Rule-Based CQL for 2-Dimensional Tables.",
-        "authors": [
-          "Mohand-Said Hacid",
-          "Patrick Marcel",
-          "Christophe Rigotti"
-        ]
-      },
-      {
-        "title": "On the Expressiveness of Query Languages with Linear Constraints; Capturing Desirable Spatial Properties.",
-        "authors": [
-          "Foto N. Afrati",
-          "Theodore Andronikos",
-          "Theodore G. Kavalieros"
-        ]
-      },
-      {
-        "title": "On Expressing Topological Connectivity in Spatial Datalog.",
-        "authors": [
-          "Bart Kuijpers",
-          "Marc Smits"
-        ]
-      },
-      {
-        "title": "The C3 Constraint Object-Oriented Database System: An Overview.",
-        "authors": [
-          "Alexander Brodsky",
-          "Victor E. Segal"
-        ]
-      },
-      {
-        "title": "Integrity Constraint Checking in Chimera.",
-        "authors": [
-          "Elisa Bertino",
-          "Barbara Catania",
-          "Stéphane Bressan"
-        ]
-      },
-      {
-        "title": "SICSDD: Techniques and Implementation.",
-        "authors": [
-          "Hamidah Ibrahim",
-          "W. A. Gray",
-          "Nick J. Fiddian"
-        ]
-      },
-      {
-        "title": "A Temporal Constraint System for Object-Oriented Databases.",
-        "authors": [
-          "Suad Alagic"
-        ]
-      },
-      {
-        "title": "Using Database Versions to Implement Temporal Integrity Constraints.",
-        "authors": [
-          "Anne Doucet",
-          "Marie-Christine Fauvet",
-          "Stéphane Gançarski",
-          "Geneviève Jomier",
-          "Sophie Monties"
-        ]
-      },
-      {
-        "title": "Genomic Database Applications in DISCO.",
-        "authors": [
-          "Peter Z. Revesz"
-        ]
-      },
-      {
-        "title": "Constraint Databases and Program Analysis Using Abstract Interpretation.",
-        "authors": [
-          "David Toman"
-        ]
-      },
-      {
-        "title": "Querying Indexed Files.",
-        "authors": [
-          "Alan P. Sexton"
-        ]
-      },
-      {
-        "title": "On the Complexity of BV-tree Updates.",
-        "authors": [
-          "Michael Freeston"
-        ]
-      },
-      {
-        "title": "Implementing Index Data Structures Using Constraint Logic Programming.",
-        "authors": [
-          "Stéphane Bressan",
-          "Alan P. Sexton",
-          "Mark Wallace"
-        ]
-      },
-      {
-        "title": "Problem Solving in the DISCO Constraint Database System.",
-        "authors": [
-          "Peter Z. Revesz"
-        ]
-      },
-      {
-        "title": "Interval Domain Library for ECLiPSe and Its Application.",
-        "authors": [
-          "Tatyana M. Yakhno",
-          "Slava Zilberfaine"
-        ]
-      },
-      {
-        "title": "A Semantic Query Optimization Algorithm for Object-Oriented Databases.",
-        "authors": [
-          "Samir Nigam",
-          "Karen C. Davis"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/cp/cp97.html": {
     "header": "3rd CP 1997: Linz, Austria",
     "year": "1997",
@@ -13759,6 +13604,161 @@
         "authors": [
           "Leszek Pacholski",
           "Andreas Podelski"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cdb/cdb97.html": {
+    "header": "CDB 1997: Delphi, Greece",
+    "year": "1997",
+    "papers": [
+      {
+        "title": "Planar Topological Queries.",
+        "authors": [
+          "Christos H. Papadimitriou"
+        ]
+      },
+      {
+        "title": "An Informal Introduction to Constraint Database Systems.",
+        "authors": [
+          "Volker Gaede",
+          "Mark Wallace"
+        ]
+      },
+      {
+        "title": "Query Evaluation as Constraint Search; An Overview of Early Results.",
+        "authors": [
+          "Daniel P. Miranker",
+          "Roberto J. Bayardo Jr.",
+          "Vasilis Samoladas"
+        ]
+      },
+      {
+        "title": "Computing the Well-Founded Semantics for Constraint Extensions of Datalog.",
+        "authors": [
+          "David Toman"
+        ]
+      },
+      {
+        "title": "Decomposition and Lossless Join in Constraint Databases.",
+        "authors": [
+          "Yujun Wang",
+          "Baile Shi",
+          "Yunyao Qu"
+        ]
+      },
+      {
+        "title": "A Rule-Based CQL for 2-Dimensional Tables.",
+        "authors": [
+          "Mohand-Said Hacid",
+          "Patrick Marcel",
+          "Christophe Rigotti"
+        ]
+      },
+      {
+        "title": "On the Expressiveness of Query Languages with Linear Constraints; Capturing Desirable Spatial Properties.",
+        "authors": [
+          "Foto N. Afrati",
+          "Theodore Andronikos",
+          "Theodore G. Kavalieros"
+        ]
+      },
+      {
+        "title": "On Expressing Topological Connectivity in Spatial Datalog.",
+        "authors": [
+          "Bart Kuijpers",
+          "Marc Smits"
+        ]
+      },
+      {
+        "title": "The C3 Constraint Object-Oriented Database System: An Overview.",
+        "authors": [
+          "Alexander Brodsky",
+          "Victor E. Segal"
+        ]
+      },
+      {
+        "title": "Integrity Constraint Checking in Chimera.",
+        "authors": [
+          "Elisa Bertino",
+          "Barbara Catania",
+          "Stéphane Bressan"
+        ]
+      },
+      {
+        "title": "SICSDD: Techniques and Implementation.",
+        "authors": [
+          "Hamidah Ibrahim",
+          "W. A. Gray",
+          "Nick J. Fiddian"
+        ]
+      },
+      {
+        "title": "A Temporal Constraint System for Object-Oriented Databases.",
+        "authors": [
+          "Suad Alagic"
+        ]
+      },
+      {
+        "title": "Using Database Versions to Implement Temporal Integrity Constraints.",
+        "authors": [
+          "Anne Doucet",
+          "Marie-Christine Fauvet",
+          "Stéphane Gançarski",
+          "Geneviève Jomier",
+          "Sophie Monties"
+        ]
+      },
+      {
+        "title": "Genomic Database Applications in DISCO.",
+        "authors": [
+          "Peter Z. Revesz"
+        ]
+      },
+      {
+        "title": "Constraint Databases and Program Analysis Using Abstract Interpretation.",
+        "authors": [
+          "David Toman"
+        ]
+      },
+      {
+        "title": "Querying Indexed Files.",
+        "authors": [
+          "Alan P. Sexton"
+        ]
+      },
+      {
+        "title": "On the Complexity of BV-tree Updates.",
+        "authors": [
+          "Michael Freeston"
+        ]
+      },
+      {
+        "title": "Implementing Index Data Structures Using Constraint Logic Programming.",
+        "authors": [
+          "Stéphane Bressan",
+          "Alan P. Sexton",
+          "Mark Wallace"
+        ]
+      },
+      {
+        "title": "Problem Solving in the DISCO Constraint Database System.",
+        "authors": [
+          "Peter Z. Revesz"
+        ]
+      },
+      {
+        "title": "Interval Domain Library for ECLiPSe and Its Application.",
+        "authors": [
+          "Tatyana M. Yakhno",
+          "Slava Zilberfaine"
+        ]
+      },
+      {
+        "title": "A Semantic Query Optimization Algorithm for Object-Oriented Databases.",
+        "authors": [
+          "Samir Nigam",
+          "Karen C. Davis"
         ]
       }
     ]

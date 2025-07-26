@@ -1,193 +1,4 @@
 {
-  "https://dblp.org/db/conf/fc/fc2024-2.html": {
-    "header": "28th Financial Cryptography and Data Security 2024: Willemstad, Curaçao - Part II",
-    "year": "2024",
-    "papers": [
-      {
-        "title": "Light Clients for Lazy Blockchains.",
-        "authors": [
-          "Ertem Nusret Tas",
-          "David Tse",
-          "Lei Yang",
-          "Dionysis Zindros"
-        ]
-      },
-      {
-        "title": "Short Paper: Naysayer Proofs.",
-        "authors": [
-          "István András Seres",
-          "Noemi Glaeser",
-          "Joseph Bonneau"
-        ]
-      },
-      {
-        "title": "GoAT: File Geolocation via Anchor Timestamping.",
-        "authors": [
-          "Deepak Maram",
-          "Mahimna Kelkar",
-          "Iddo Bentov",
-          "Ari Juels"
-        ]
-      },
-      {
-        "title": "Improved YOSO Randomness Generation with Worst-Case Corruptions.",
-        "authors": [
-          "Chen-Da Liu-Zhang",
-          "Elisaweta Masserova",
-          "João Ribeiro",
-          "Pratik Soni",
-          "Sri Aravinda Krishnan Thyagarajan"
-        ]
-      },
-      {
-        "title": "Short Paper: Breaking X-VRF, A Post-quantum Verifiable Random Function.",
-        "authors": [
-          "Omid Bodaghi",
-          "Reihaneh Safavi-Naini"
-        ]
-      },
-      {
-        "title": "Truncator: Time-Space Tradeoff of Cryptographic Primitives.",
-        "authors": [
-          "Foteini Baldimtsi",
-          "Konstantinos Chalkias",
-          "Panagiotis Chatzigiannis",
-          "Mahimna Kelkar"
-        ]
-      },
-      {
-        "title": "Foundations of Anonymous Signatures: Formal Definitions, Simplified Requirements, and a Construction Based on General Assumptions.",
-        "authors": [
-          "Jan Bobolz",
-          "Jesus Diaz",
-          "Markulf Kohlweiss"
-        ]
-      },
-      {
-        "title": "Proactive Refresh for Accountable Threshold Signatures.",
-        "authors": [
-          "Dan Boneh",
-          "Aditi Partap",
-          "Lior Rotem"
-        ]
-      },
-      {
-        "title": "SoK: Signatures with Randomizable Keys.",
-        "authors": [
-          "Sofía Celi",
-          "Scott Griffy",
-          "Lucjan Hanzlik",
-          "Octavio Perez-Kempner",
-          "Daniel Slamanig"
-        ]
-      },
-      {
-        "title": "Subset-Optimized BLS Multi-signature with Key Aggregation.",
-        "authors": [
-          "Foteini Baldimtsi",
-          "Konstantinos Kryptos Chalkias",
-          "François Garillot",
-          "Jonas Lindstrøm",
-          "Ben Riva",
-          "Arnab Roy",
-          "Mahdi Sedaghat",
-          "Alberto Sonnino",
-          "Pun Waiwitlikhit",
-          "Joy Wang"
-        ]
-      },
-      {
-        "title": "SAVER: SNARK-Compatible Verifiable Encryption.",
-        "authors": [
-          "Jiwon Lee",
-          "Jaekyoung Choi",
-          "Jihye Kim",
-          "Hyunok Oh"
-        ]
-      },
-      {
-        "title": "Owl: An Augmented Password-Authenticated Key Exchange Scheme.",
-        "authors": [
-          "Feng Hao",
-          "Samiran Bag",
-          "Liqun Chen",
-          "Paul C. van Oorschot"
-        ]
-      },
-      {
-        "title": "Anonymous Reputation Systems with Revocation, Revisited.",
-        "authors": [
-          "Ryuya Hayashi",
-          "Shuichi Katsumata",
-          "Yusuke Sakai"
-        ]
-      },
-      {
-        "title": "Towards Practical Doubly-Efficient Private Information Retrieval.",
-        "authors": [
-          "Hiroki Okada",
-          "Rachel Player",
-          "Simon Pohmann",
-          "Christian Weinert"
-        ]
-      },
-      {
-        "title": "Short Paper: Onion Messages on Leash.",
-        "authors": [
-          "Amin Bashiri",
-          "Majid Khabbazian"
-        ]
-      },
-      {
-        "title": "A Transaction-Level Model for Blockchain Privacy.",
-        "authors": [
-          "François-Xavier Wicht",
-          "Zhipeng Wang",
-          "Duc Viet Le",
-          "Christian Cachin"
-        ]
-      },
-      {
-        "title": "The Governance of Decentralized Autonomous Organizations: A Study of Contributors' Influence, Networks, and Shifts in Voting Power.",
-        "authors": [
-          "Stefan Kitzler",
-          "Stefano Balietti",
-          "Pietro Saggese",
-          "Bernhard Haslhofer",
-          "Markus Strohmaier"
-        ]
-      },
-      {
-        "title": "Privacy-Preserving Anti-money Laundering Using Secure Multi-party Computation.",
-        "authors": [
-          "Marie Beth van Egmond",
-          "Vincent Dunning",
-          "Stefan van den Berg",
-          "Thomas Rooijakkers",
-          "Alex Sangers",
-          "Ton Poppe",
-          "Jan Veldsink"
-        ]
-      },
-      {
-        "title": "Scan, Shuffle, Rescan: Two-Prover Election Audits With Untrusted Scanners.",
-        "authors": [
-          "Douglas W. Jones",
-          "Sunoo Park",
-          "Ronald L. Rivest",
-          "Adam Sealfon"
-        ]
-      },
-      {
-        "title": "DeFi Composability as MEV Non-interference.",
-        "authors": [
-          "Massimo Bartoletti",
-          "Riccardo Marchesin",
-          "Roberto Zunino"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/fc/fc2024w.html": {
     "header": "27th Financial Cryptography 2024: Willemstad, Curaçao - Workshops",
     "year": "2024",
@@ -382,6 +193,195 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/fc/fc2024-2.html": {
+    "header": "28th Financial Cryptography and Data Security 2024: Willemstad, Curaçao - Part II",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "Light Clients for Lazy Blockchains.",
+        "authors": [
+          "Ertem Nusret Tas",
+          "David Tse",
+          "Lei Yang",
+          "Dionysis Zindros"
+        ]
+      },
+      {
+        "title": "Short Paper: Naysayer Proofs.",
+        "authors": [
+          "István András Seres",
+          "Noemi Glaeser",
+          "Joseph Bonneau"
+        ]
+      },
+      {
+        "title": "GoAT: File Geolocation via Anchor Timestamping.",
+        "authors": [
+          "Deepak Maram",
+          "Mahimna Kelkar",
+          "Iddo Bentov",
+          "Ari Juels"
+        ]
+      },
+      {
+        "title": "Improved YOSO Randomness Generation with Worst-Case Corruptions.",
+        "authors": [
+          "Chen-Da Liu-Zhang",
+          "Elisaweta Masserova",
+          "João Ribeiro",
+          "Pratik Soni",
+          "Sri Aravinda Krishnan Thyagarajan"
+        ]
+      },
+      {
+        "title": "Short Paper: Breaking X-VRF, A Post-quantum Verifiable Random Function.",
+        "authors": [
+          "Omid Bodaghi",
+          "Reihaneh Safavi-Naini"
+        ]
+      },
+      {
+        "title": "Truncator: Time-Space Tradeoff of Cryptographic Primitives.",
+        "authors": [
+          "Foteini Baldimtsi",
+          "Konstantinos Chalkias",
+          "Panagiotis Chatzigiannis",
+          "Mahimna Kelkar"
+        ]
+      },
+      {
+        "title": "Foundations of Anonymous Signatures: Formal Definitions, Simplified Requirements, and a Construction Based on General Assumptions.",
+        "authors": [
+          "Jan Bobolz",
+          "Jesus Diaz",
+          "Markulf Kohlweiss"
+        ]
+      },
+      {
+        "title": "Proactive Refresh for Accountable Threshold Signatures.",
+        "authors": [
+          "Dan Boneh",
+          "Aditi Partap",
+          "Lior Rotem"
+        ]
+      },
+      {
+        "title": "SoK: Signatures with Randomizable Keys.",
+        "authors": [
+          "Sofía Celi",
+          "Scott Griffy",
+          "Lucjan Hanzlik",
+          "Octavio Perez-Kempner",
+          "Daniel Slamanig"
+        ]
+      },
+      {
+        "title": "Subset-Optimized BLS Multi-signature with Key Aggregation.",
+        "authors": [
+          "Foteini Baldimtsi",
+          "Konstantinos Kryptos Chalkias",
+          "François Garillot",
+          "Jonas Lindstrøm",
+          "Ben Riva",
+          "Arnab Roy",
+          "Mahdi Sedaghat",
+          "Alberto Sonnino",
+          "Pun Waiwitlikhit",
+          "Joy Wang"
+        ]
+      },
+      {
+        "title": "SAVER: SNARK-Compatible Verifiable Encryption.",
+        "authors": [
+          "Jiwon Lee",
+          "Jaekyoung Choi",
+          "Jihye Kim",
+          "Hyunok Oh"
+        ]
+      },
+      {
+        "title": "Owl: An Augmented Password-Authenticated Key Exchange Scheme.",
+        "authors": [
+          "Feng Hao",
+          "Samiran Bag",
+          "Liqun Chen",
+          "Paul C. van Oorschot"
+        ]
+      },
+      {
+        "title": "Anonymous Reputation Systems with Revocation, Revisited.",
+        "authors": [
+          "Ryuya Hayashi",
+          "Shuichi Katsumata",
+          "Yusuke Sakai"
+        ]
+      },
+      {
+        "title": "Towards Practical Doubly-Efficient Private Information Retrieval.",
+        "authors": [
+          "Hiroki Okada",
+          "Rachel Player",
+          "Simon Pohmann",
+          "Christian Weinert"
+        ]
+      },
+      {
+        "title": "Short Paper: Onion Messages on Leash.",
+        "authors": [
+          "Amin Bashiri",
+          "Majid Khabbazian"
+        ]
+      },
+      {
+        "title": "A Transaction-Level Model for Blockchain Privacy.",
+        "authors": [
+          "François-Xavier Wicht",
+          "Zhipeng Wang",
+          "Duc Viet Le",
+          "Christian Cachin"
+        ]
+      },
+      {
+        "title": "The Governance of Decentralized Autonomous Organizations: A Study of Contributors' Influence, Networks, and Shifts in Voting Power.",
+        "authors": [
+          "Stefan Kitzler",
+          "Stefano Balietti",
+          "Pietro Saggese",
+          "Bernhard Haslhofer",
+          "Markus Strohmaier"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Anti-money Laundering Using Secure Multi-party Computation.",
+        "authors": [
+          "Marie Beth van Egmond",
+          "Vincent Dunning",
+          "Stefan van den Berg",
+          "Thomas Rooijakkers",
+          "Alex Sangers",
+          "Ton Poppe",
+          "Jan Veldsink"
+        ]
+      },
+      {
+        "title": "Scan, Shuffle, Rescan: Two-Prover Election Audits With Untrusted Scanners.",
+        "authors": [
+          "Douglas W. Jones",
+          "Sunoo Park",
+          "Ronald L. Rivest",
+          "Adam Sealfon"
+        ]
+      },
+      {
+        "title": "DeFi Composability as MEV Non-interference.",
+        "authors": [
+          "Massimo Bartoletti",
+          "Riccardo Marchesin",
+          "Roberto Zunino"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/fc/fc2024-1.html": {
     "header": "28th Financial Cryptography and Data Security 2024: Willemstad, Curaçao - Part I",
     "year": "2024",
@@ -570,6 +570,264 @@
         "authors": [
           "Pratyush Ranjan Tiwari",
           "Matthew Green"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fc/fc2023w.html": {
+    "header": "27th Financial Cryptography 2023: Bol, Brač, Croatia - Workshops",
+    "year": "2023",
+    "papers": [
+      {
+        "title": "Belenios with Cast as Intended.",
+        "authors": [
+          "Véronique Cortier",
+          "Alexandre Debant",
+          "Pierrick Gaudry",
+          "Stéphane Glondu"
+        ]
+      },
+      {
+        "title": "On the Auditability of the Estonian IVXV System - And an Attack on Individual Verifiability.",
+        "authors": [
+          "Anggrio Sutopo",
+          "Thomas Haines",
+          "Peter B. Rønne"
+        ]
+      },
+      {
+        "title": "Coercion-Resistant Cast-as-Intended Verifiability for Computationally Limited Voters.",
+        "authors": [
+          "Tamara Finogina",
+          "Javier Herranz"
+        ]
+      },
+      {
+        "title": "Private Internet Voting on Untrusted Voting Devices.",
+        "authors": [
+          "Rolf Haenni",
+          "Reto E. Koenig",
+          "Philipp Locher"
+        ]
+      },
+      {
+        "title": "Overstatement-Net-Equivalent Risk-Limiting Audit: ONEAudit.",
+        "authors": [
+          "Philip B. Stark"
+        ]
+      },
+      {
+        "title": "Risk-Limiting Audits for Condorcet Elections.",
+        "authors": [
+          "Michelle L. Blom",
+          "Peter J. Stuckey",
+          "Vanessa Teague",
+          "Damjan Vukcevic"
+        ]
+      },
+      {
+        "title": "COBRA: Comparison-Optimal Betting for Risk-Limiting Audits.",
+        "authors": [
+          "Jacob V. Spertus"
+        ]
+      },
+      {
+        "title": "Shaping Cryptocurrency Gatekeepers with a Regulatory \"Trial and Error\".",
+        "authors": [
+          "Marilyne Ordekian",
+          "Ingolf Becker",
+          "Marie Vasek"
+        ]
+      },
+      {
+        "title": "A First Dive into OFAC in DeFi Space.",
+        "authors": [
+          "Qin Wang",
+          "Shange Fu",
+          "Shiping Chen",
+          "Jiangshan Yu"
+        ]
+      },
+      {
+        "title": "Proposal of Principles of DeFi Disclosure and Regulation.",
+        "authors": [
+          "Tomonori Yuyama",
+          "Ken Katayama",
+          "Paul Brigner"
+        ]
+      },
+      {
+        "title": "The Hidden Shortcomings of (D)AOs - An Empirical Study of On-Chain Governance.",
+        "authors": [
+          "Rainer Feichtinger",
+          "Robin Fritsch",
+          "Yann Vonlanthen",
+          "Roger Wattenhofer"
+        ]
+      },
+      {
+        "title": "An Intrinsic Mechanism Deciding Hash Rates from Bitcoin Price.",
+        "authors": [
+          "Go Yamamoto"
+        ]
+      },
+      {
+        "title": "Stablecoins: Past, Present, and Future.",
+        "authors": [
+          "Ali Nejadmalayeri",
+          "Leon Molchanovsky",
+          "Bruno Woltzenlogel Paleo",
+          "Rodney W. Prescott"
+        ]
+      },
+      {
+        "title": "FTX Collapse: A Ponzi Story.",
+        "authors": [
+          "Shange Fu",
+          "Qin Wang",
+          "Jiangshan Yu",
+          "Shiping Chen"
+        ]
+      },
+      {
+        "title": "Policy Design of Retail Central Bank Digital Currencies: Embedding AML/CFT Compliance.",
+        "authors": [
+          "Michi Kakebayashi",
+          "Gerard P. Presto",
+          "Tomonori Yuyama"
+        ]
+      },
+      {
+        "title": "Uniswap Liquidity Provision: An Online Learning Approach.",
+        "authors": [
+          "Yogev Bar-On",
+          "Yishay Mansour"
+        ]
+      },
+      {
+        "title": "Extended Abstract: The Effect of Trading Fees on Arbitrage Profits in Automated Market Makers.",
+        "authors": [
+          "Jason Milionis",
+          "Ciamac C. Moallemi",
+          "Tim Roughgarden"
+        ]
+      },
+      {
+        "title": "Concave Pro-rata Games.",
+        "authors": [
+          "Nicholas A. G. Johnson",
+          "Theo Diamandis",
+          "Alex Evans",
+          "Henry de Valence",
+          "Guillermo Angeris"
+        ]
+      },
+      {
+        "title": "Electronic Cash with Open-Source Observers.",
+        "authors": [
+          "Taishi Higuchi",
+          "Akira Otsuka"
+        ]
+      },
+      {
+        "title": "Inefficiency of CFMs: Hedging Perspective and Agent-Based Simulations.",
+        "authors": [
+          "Samuel N. Cohen",
+          "Marc Sabate Vidales",
+          "David Siska",
+          "Lukasz Szpruch"
+        ]
+      },
+      {
+        "title": "DeFi Auditing: Mechanisms, Effectiveness, and User Perceptions.",
+        "authors": [
+          "Ding Feng",
+          "Rupert Hitsch",
+          "Kaihua Qin",
+          "Arthur Gervais",
+          "Roger Wattenhofer",
+          "Yaxing Yao",
+          "Ye Wang"
+        ]
+      },
+      {
+        "title": "Short Squeeze in DeFi Lending Market: Decentralization in Jeopardy?",
+        "authors": [
+          "Lioba Heimbach",
+          "Eric Schertenleib",
+          "Roger Wattenhofer"
+        ]
+      },
+      {
+        "title": "Efficient Rollup Batch Posting Strategy on Base Layer.",
+        "authors": [
+          "Akaki Mamageishvili",
+          "Edward W. Felten"
+        ]
+      },
+      {
+        "title": "Unlinkability and Interoperability in Account-Based Universal Payment Channels.",
+        "authors": [
+          "Mohsen Minaei",
+          "Panagiotis Chatzigiannis",
+          "Shan Jin",
+          "Srinivasan Raghuraman",
+          "Ranjit Kumaresan",
+          "Mahdi Zamani",
+          "Pedro Moreno-Sanchez"
+        ]
+      },
+      {
+        "title": "Cassiopeia: Practical On-Chain Witness Encryption.",
+        "authors": [
+          "Schwinn Saereesitthipitak",
+          "Dionysis Zindros"
+        ]
+      },
+      {
+        "title": "FlexiPCN: Flexible Payment Channel Network.",
+        "authors": [
+          "Susil Kumar Mohanty",
+          "Somanath Tripathy"
+        ]
+      },
+      {
+        "title": "Publicly Verifiable Auctions with Privacy.",
+        "authors": [
+          "Paul Germouty",
+          "Enrique Larraia",
+          "Wei Zhang"
+        ]
+      },
+      {
+        "title": "Consolidation of Ground Truth Sets for Weakness Detection in Smart Contracts.",
+        "authors": [
+          "Monika Di Angelo",
+          "Gernot Salzer"
+        ]
+      },
+      {
+        "title": "The Principal-Agent Problem in Liquid Staking.",
+        "authors": [
+          "Apostolos Tzinas",
+          "Dionysis Zindros"
+        ]
+      },
+      {
+        "title": "Detecting Privileged Parties on Ethereum.",
+        "authors": [
+          "Michael Fröwis",
+          "Rainer Böhme"
+        ]
+      },
+      {
+        "title": "Breaking Blockchain Rationality with Out-of-Band Collusion.",
+        "authors": [
+          "Haoqian Zhang",
+          "Mahsa Bastankhah",
+          "Louis-Henri Merino",
+          "Vero Estrada-Galiñanes",
+          "Bryan Ford"
         ]
       }
     ]
@@ -945,50 +1203,199 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/fc/fc2023w.html": {
-    "header": "27th Financial Cryptography 2023: Bol, Brač, Croatia - Workshops",
-    "year": "2023",
+  "https://dblp.org/db/conf/fc/fc2022w.html": {
+    "header": "26th Financial Cryptography 2022: Grenada - Workshops",
+    "year": "2022",
     "papers": [
       {
-        "title": "Belenios with Cast as Intended.",
+        "title": "Stakechain: A Bitcoin-Backed Proof-of-Stake.",
         "authors": [
-          "Véronique Cortier",
-          "Alexandre Debant",
-          "Pierrick Gaudry",
-          "Stéphane Glondu"
+          "Robin Linus"
         ]
       },
       {
-        "title": "On the Auditability of the Estonian IVXV System - And an Attack on Individual Verifiability.",
+        "title": "Drivers of Bitcoin Energy Use and Emissions.",
         "authors": [
-          "Anggrio Sutopo",
-          "Thomas Haines",
-          "Peter B. Rønne"
+          "Hass McCook"
         ]
       },
       {
-        "title": "Coercion-Resistant Cast-as-Intended Verifiability for Computationally Limited Voters.",
+        "title": "Integrated Power Plant and Bitcoin Mining Economics.",
         "authors": [
-          "Tamara Finogina",
-          "Javier Herranz"
+          "Cal Abel"
         ]
       },
       {
-        "title": "Private Internet Voting on Untrusted Voting Devices.",
+        "title": "Carbon-Neutral Bitcoin for Nation States.",
         "authors": [
-          "Rolf Haenni",
-          "Reto E. Koenig",
-          "Philipp Locher"
+          "Troy Cross",
+          "Andrew M. Bailey"
         ]
       },
       {
-        "title": "Overstatement-Net-Equivalent Risk-Limiting Audit: ONEAudit.",
+        "title": "Soundness of Stablecoins.",
         "authors": [
-          "Philip B. Stark"
+          "Yusuke Ikeno",
+          "James Angel",
+          "Sabitra Sankalp Panigrahi"
         ]
       },
       {
-        "title": "Risk-Limiting Audits for Condorcet Elections.",
+        "title": "Estimating (Miner) Extractable Value is Hard, Let's Go Shopping!",
+        "authors": [
+          "Aljosha Judmayer",
+          "Nicholas Stifter",
+          "Philipp Schindler",
+          "Edgar R. Weippl"
+        ]
+      },
+      {
+        "title": "Teaching PoW Algorithm to a Classroom Environment.",
+        "authors": [
+          "Yaacov Kopeliovich"
+        ]
+      },
+      {
+        "title": "The Compatibility of CBDCs with \"DeFi\" Protocols: A Governance Rather Than a Technological Issue to Comply with Financial Crime Regulations.",
+        "authors": [
+          "Stéphane Blemus"
+        ]
+      },
+      {
+        "title": "Broken Proofs of Solvency in Blockchain Custodial Wallets and Exchanges.",
+        "authors": [
+          "Konstantinos Chalkias",
+          "Panagiotis Chatzigiannis",
+          "Yan Ji"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Post-quantum Credentials for Digital Payments.",
+        "authors": [
+          "Raza Ali Kazmi",
+          "Duc-Phong Le",
+          "Cyrus Minwalla"
+        ]
+      },
+      {
+        "title": "ZKFlow: Private Transactions in Corda with ZKP.",
+        "authors": [
+          "Matthijs van den Bos",
+          "Victor Ermolaev",
+          "Scott King",
+          "Alexey Koren",
+          "Gamze Tillem"
+        ]
+      },
+      {
+        "title": "User-Perceived Privacy in Blockchain.",
+        "authors": [
+          "Simin Ghesmati",
+          "Walid Fdhila",
+          "Edgar R. Weippl"
+        ]
+      },
+      {
+        "title": "A Short Survey on Business Models of Decentralized Finance (DeFi) Protocols.",
+        "authors": [
+          "Teng Andrea Xu",
+          "Jiahua Xu"
+        ]
+      },
+      {
+        "title": "On-Chain Auctions with Deposits.",
+        "authors": [
+          "Jan Christoph Schlegel",
+          "Akaki Mamageishvili"
+        ]
+      },
+      {
+        "title": "The Case for Variable Fees in Constant Product Markets: An Agent Based Simulation.",
+        "authors": [
+          "Marc Sabate Vidales",
+          "David Siska"
+        ]
+      },
+      {
+        "title": "An Empirical Study of Market Inefficiencies in Uniswap and SushiSwap.",
+        "authors": [
+          "Jan Arvid Berg",
+          "Robin Fritsch",
+          "Lioba Heimbach",
+          "Roger Wattenhofer"
+        ]
+      },
+      {
+        "title": "SoK: Mitigation of Front-Running in Decentralized Finance.",
+        "authors": [
+          "Carsten Baum",
+          "James Hsin-yu Chiang",
+          "Bernardo David",
+          "Tore Kasper Frederiksen",
+          "Lorenzo Gentile"
+        ]
+      },
+      {
+        "title": "A Systematic Investigation of DeFi Compositions in Ethereum.",
+        "authors": [
+          "Stefan Kitzler",
+          "Friedhelm Victor",
+          "Pietro Saggese",
+          "Bernhard Haslhofer"
+        ]
+      },
+      {
+        "title": "Short Paper: Privacy Preserving Decentralized Netting.",
+        "authors": [
+          "Amit Agarwal",
+          "Angelo De Caro",
+          "Andrew Miller"
+        ]
+      },
+      {
+        "title": "NFT Wash Trading - Quantifying Suspicious Behaviour in NFT Markets.",
+        "authors": [
+          "Victor von Wachter",
+          "Johannes Rude Jensen",
+          "Ferdinand Regner",
+          "Omri Ross"
+        ]
+      },
+      {
+        "title": "Individual Verifiability and Revoting in the Estonian Internet Voting System.",
+        "authors": [
+          "Olivier Pereira"
+        ]
+      },
+      {
+        "title": "Breaking and Fixing Vote Privacy of the Estonian E-Voting Protocol IVXV.",
+        "authors": [
+          "Johannes Müller"
+        ]
+      },
+      {
+        "title": "German Voters' Attitudes Towards Voting Online with a Verifiable System.",
+        "authors": [
+          "Oksana Kulyk",
+          "Melanie Volkamer",
+          "Niklas Fuhrberg",
+          "Benjamin Berens",
+          "Robert Krimmer"
+        ]
+      },
+      {
+        "title": "Simulations of Ballot Polling Risk-Limiting Audits.",
+        "authors": [
+          "Oliver Broadrick",
+          "Sarah Morin",
+          "Grant McClearn",
+          "Neal McBurnett",
+          "Poorvi L. Vora",
+          "Filip Zagórski"
+        ]
+      },
+      {
+        "title": "A First Approach to Risk-Limiting Audits for Single Transferable Vote Elections.",
         "authors": [
           "Michelle L. Blom",
           "Peter J. Stuckey",
@@ -997,208 +1404,110 @@
         ]
       },
       {
-        "title": "COBRA: Comparison-Optimal Betting for Risk-Limiting Audits.",
+        "title": "Short Paper: Verifiable Decryption for BGV.",
         "authors": [
-          "Jacob V. Spertus"
+          "Tjerand Silde"
         ]
       },
       {
-        "title": "Shaping Cryptocurrency Gatekeepers with a Regulatory \"Trial and Error\".",
+        "title": "RemoteVote and SAFE Vote: Towards Usable End-to-End Verification for Vote-by-Mail.",
         "authors": [
-          "Marilyne Ordekian",
-          "Ingolf Becker",
-          "Marie Vasek"
+          "Braden L. Crimmins",
+          "Marshall Rhea",
+          "J. Alex Halderman"
         ]
       },
       {
-        "title": "A First Dive into OFAC in DeFi Space.",
+        "title": "Lelantus Spark: Secure and Flexible Private Transactions.",
         "authors": [
-          "Qin Wang",
-          "Shange Fu",
-          "Shiping Chen",
-          "Jiangshan Yu"
+          "Aram Jivanyan",
+          "Aaron Feickert"
         ]
       },
       {
-        "title": "Proposal of Principles of DeFi Disclosure and Regulation.",
+        "title": "Fides: A System for Verifiable Computation Using Smart Contracts.",
         "authors": [
-          "Tomonori Yuyama",
-          "Ken Katayama",
-          "Paul Brigner"
+          "Mahmudun Nabi",
+          "Sepideh Avizheh",
+          "Reihaneh Safavi-Naini"
         ]
       },
       {
-        "title": "The Hidden Shortcomings of (D)AOs - An Empirical Study of On-Chain Governance.",
+        "title": "Towards Smart Contract-Based Verification of Anonymous Credentials.",
         "authors": [
-          "Rainer Feichtinger",
-          "Robin Fritsch",
-          "Yann Vonlanthen",
-          "Roger Wattenhofer"
+          "Robert Muth",
+          "Tarek Galal",
+          "Jonathan Heiss",
+          "Florian Tschorsch"
         ]
       },
       {
-        "title": "An Intrinsic Mechanism Deciding Hash Rates from Bitcoin Price.",
+        "title": "Dispute-Free Scalable Open Vote Network Using zk-SNARKs.",
         "authors": [
-          "Go Yamamoto"
+          "Muhammad ElSheikh",
+          "Amr M. Youssef"
         ]
       },
       {
-        "title": "Stablecoins: Past, Present, and Future.",
-        "authors": [
-          "Ali Nejadmalayeri",
-          "Leon Molchanovsky",
-          "Bruno Woltzenlogel Paleo",
-          "Rodney W. Prescott"
-        ]
-      },
-      {
-        "title": "FTX Collapse: A Ponzi Story.",
-        "authors": [
-          "Shange Fu",
-          "Qin Wang",
-          "Jiangshan Yu",
-          "Shiping Chen"
-        ]
-      },
-      {
-        "title": "Policy Design of Retail Central Bank Digital Currencies: Embedding AML/CFT Compliance.",
-        "authors": [
-          "Michi Kakebayashi",
-          "Gerard P. Presto",
-          "Tomonori Yuyama"
-        ]
-      },
-      {
-        "title": "Uniswap Liquidity Provision: An Online Learning Approach.",
-        "authors": [
-          "Yogev Bar-On",
-          "Yishay Mansour"
-        ]
-      },
-      {
-        "title": "Extended Abstract: The Effect of Trading Fees on Arbitrage Profits in Automated Market Makers.",
-        "authors": [
-          "Jason Milionis",
-          "Ciamac C. Moallemi",
-          "Tim Roughgarden"
-        ]
-      },
-      {
-        "title": "Concave Pro-rata Games.",
-        "authors": [
-          "Nicholas A. G. Johnson",
-          "Theo Diamandis",
-          "Alex Evans",
-          "Henry de Valence",
-          "Guillermo Angeris"
-        ]
-      },
-      {
-        "title": "Electronic Cash with Open-Source Observers.",
-        "authors": [
-          "Taishi Higuchi",
-          "Akira Otsuka"
-        ]
-      },
-      {
-        "title": "Inefficiency of CFMs: Hedging Perspective and Agent-Based Simulations.",
-        "authors": [
-          "Samuel N. Cohen",
-          "Marc Sabate Vidales",
-          "David Siska",
-          "Lukasz Szpruch"
-        ]
-      },
-      {
-        "title": "DeFi Auditing: Mechanisms, Effectiveness, and User Perceptions.",
-        "authors": [
-          "Ding Feng",
-          "Rupert Hitsch",
-          "Kaihua Qin",
-          "Arthur Gervais",
-          "Roger Wattenhofer",
-          "Yaxing Yao",
-          "Ye Wang"
-        ]
-      },
-      {
-        "title": "Short Squeeze in DeFi Lending Market: Decentralization in Jeopardy?",
-        "authors": [
-          "Lioba Heimbach",
-          "Eric Schertenleib",
-          "Roger Wattenhofer"
-        ]
-      },
-      {
-        "title": "Efficient Rollup Batch Posting Strategy on Base Layer.",
-        "authors": [
-          "Akaki Mamageishvili",
-          "Edward W. Felten"
-        ]
-      },
-      {
-        "title": "Unlinkability and Interoperability in Account-Based Universal Payment Channels.",
-        "authors": [
-          "Mohsen Minaei",
-          "Panagiotis Chatzigiannis",
-          "Shan Jin",
-          "Srinivasan Raghuraman",
-          "Ranjit Kumaresan",
-          "Mahdi Zamani",
-          "Pedro Moreno-Sanchez"
-        ]
-      },
-      {
-        "title": "Cassiopeia: Practical On-Chain Witness Encryption.",
-        "authors": [
-          "Schwinn Saereesitthipitak",
-          "Dionysis Zindros"
-        ]
-      },
-      {
-        "title": "FlexiPCN: Flexible Payment Channel Network.",
-        "authors": [
-          "Susil Kumar Mohanty",
-          "Somanath Tripathy"
-        ]
-      },
-      {
-        "title": "Publicly Verifiable Auctions with Privacy.",
-        "authors": [
-          "Paul Germouty",
-          "Enrique Larraia",
-          "Wei Zhang"
-        ]
-      },
-      {
-        "title": "Consolidation of Ground Truth Sets for Weakness Detection in Smart Contracts.",
-        "authors": [
-          "Monika Di Angelo",
-          "Gernot Salzer"
-        ]
-      },
-      {
-        "title": "The Principal-Agent Problem in Liquid Staking.",
-        "authors": [
-          "Apostolos Tzinas",
-          "Dionysis Zindros"
-        ]
-      },
-      {
-        "title": "Detecting Privileged Parties on Ethereum.",
+        "title": "Not All Code are Create2 Equal.",
         "authors": [
           "Michael Fröwis",
           "Rainer Böhme"
         ]
       },
       {
-        "title": "Breaking Blockchain Rationality with Out-of-Band Collusion.",
+        "title": "Not so Immutable: Upgradeability of Smart Contracts on Ethereum.",
         "authors": [
-          "Haoqian Zhang",
-          "Mahsa Bastankhah",
-          "Louis-Henri Merino",
-          "Vero Estrada-Galiñanes",
-          "Bryan Ford"
+          "Mehdi Salehi",
+          "Jeremy Clark",
+          "Mohammad Mannan"
+        ]
+      },
+      {
+        "title": "Protocol-Based Smart Contract Generation.",
+        "authors": [
+          "Afonso Falcão",
+          "Andreia Mordido",
+          "Vasco T. Vasconcelos"
+        ]
+      },
+      {
+        "title": "Distributed and Adversarial Resistant Workflow Execution on the Algorand Blockchain.",
+        "authors": [
+          "Yibin Xu",
+          "Tijs Slaats",
+          "Boris Düdder",
+          "Søren Debois",
+          "Haiqin Wu"
+        ]
+      },
+      {
+        "title": "Lissy: Experimenting with On-Chain Order Books.",
+        "authors": [
+          "Mahsa Moosavi",
+          "Jeremy Clark"
+        ]
+      },
+      {
+        "title": "Hours of Horus: Keyless Cryptocurrency Wallets.",
+        "authors": [
+          "Dionysis Zindros"
+        ]
+      },
+      {
+        "title": "A Scalable Architecture for Electronic Payments.",
+        "authors": [
+          "Geoffrey Goodell",
+          "D. R. Toliver",
+          "Hazem Danny Al-Nakib"
+        ]
+      },
+      {
+        "title": "UTS: The Universal Token Swapper.",
+        "authors": [
+          "Fadi Barbàra",
+          "Alessandro Sanino",
+          "Claudio Schifanella"
         ]
       }
     ]
@@ -1523,802 +1832,6 @@
           "Alex Mitchell",
           "Nathan Sprague",
           "Xunhua Wang"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/fc/fc2022w.html": {
-    "header": "26th Financial Cryptography 2022: Grenada - Workshops",
-    "year": "2022",
-    "papers": [
-      {
-        "title": "Stakechain: A Bitcoin-Backed Proof-of-Stake.",
-        "authors": [
-          "Robin Linus"
-        ]
-      },
-      {
-        "title": "Drivers of Bitcoin Energy Use and Emissions.",
-        "authors": [
-          "Hass McCook"
-        ]
-      },
-      {
-        "title": "Integrated Power Plant and Bitcoin Mining Economics.",
-        "authors": [
-          "Cal Abel"
-        ]
-      },
-      {
-        "title": "Carbon-Neutral Bitcoin for Nation States.",
-        "authors": [
-          "Troy Cross",
-          "Andrew M. Bailey"
-        ]
-      },
-      {
-        "title": "Soundness of Stablecoins.",
-        "authors": [
-          "Yusuke Ikeno",
-          "James Angel",
-          "Sabitra Sankalp Panigrahi"
-        ]
-      },
-      {
-        "title": "Estimating (Miner) Extractable Value is Hard, Let's Go Shopping!",
-        "authors": [
-          "Aljosha Judmayer",
-          "Nicholas Stifter",
-          "Philipp Schindler",
-          "Edgar R. Weippl"
-        ]
-      },
-      {
-        "title": "Teaching PoW Algorithm to a Classroom Environment.",
-        "authors": [
-          "Yaacov Kopeliovich"
-        ]
-      },
-      {
-        "title": "The Compatibility of CBDCs with \"DeFi\" Protocols: A Governance Rather Than a Technological Issue to Comply with Financial Crime Regulations.",
-        "authors": [
-          "Stéphane Blemus"
-        ]
-      },
-      {
-        "title": "Broken Proofs of Solvency in Blockchain Custodial Wallets and Exchanges.",
-        "authors": [
-          "Konstantinos Chalkias",
-          "Panagiotis Chatzigiannis",
-          "Yan Ji"
-        ]
-      },
-      {
-        "title": "Privacy-Preserving Post-quantum Credentials for Digital Payments.",
-        "authors": [
-          "Raza Ali Kazmi",
-          "Duc-Phong Le",
-          "Cyrus Minwalla"
-        ]
-      },
-      {
-        "title": "ZKFlow: Private Transactions in Corda with ZKP.",
-        "authors": [
-          "Matthijs van den Bos",
-          "Victor Ermolaev",
-          "Scott King",
-          "Alexey Koren",
-          "Gamze Tillem"
-        ]
-      },
-      {
-        "title": "User-Perceived Privacy in Blockchain.",
-        "authors": [
-          "Simin Ghesmati",
-          "Walid Fdhila",
-          "Edgar R. Weippl"
-        ]
-      },
-      {
-        "title": "A Short Survey on Business Models of Decentralized Finance (DeFi) Protocols.",
-        "authors": [
-          "Teng Andrea Xu",
-          "Jiahua Xu"
-        ]
-      },
-      {
-        "title": "On-Chain Auctions with Deposits.",
-        "authors": [
-          "Jan Christoph Schlegel",
-          "Akaki Mamageishvili"
-        ]
-      },
-      {
-        "title": "The Case for Variable Fees in Constant Product Markets: An Agent Based Simulation.",
-        "authors": [
-          "Marc Sabate Vidales",
-          "David Siska"
-        ]
-      },
-      {
-        "title": "An Empirical Study of Market Inefficiencies in Uniswap and SushiSwap.",
-        "authors": [
-          "Jan Arvid Berg",
-          "Robin Fritsch",
-          "Lioba Heimbach",
-          "Roger Wattenhofer"
-        ]
-      },
-      {
-        "title": "SoK: Mitigation of Front-Running in Decentralized Finance.",
-        "authors": [
-          "Carsten Baum",
-          "James Hsin-yu Chiang",
-          "Bernardo David",
-          "Tore Kasper Frederiksen",
-          "Lorenzo Gentile"
-        ]
-      },
-      {
-        "title": "A Systematic Investigation of DeFi Compositions in Ethereum.",
-        "authors": [
-          "Stefan Kitzler",
-          "Friedhelm Victor",
-          "Pietro Saggese",
-          "Bernhard Haslhofer"
-        ]
-      },
-      {
-        "title": "Short Paper: Privacy Preserving Decentralized Netting.",
-        "authors": [
-          "Amit Agarwal",
-          "Angelo De Caro",
-          "Andrew Miller"
-        ]
-      },
-      {
-        "title": "NFT Wash Trading - Quantifying Suspicious Behaviour in NFT Markets.",
-        "authors": [
-          "Victor von Wachter",
-          "Johannes Rude Jensen",
-          "Ferdinand Regner",
-          "Omri Ross"
-        ]
-      },
-      {
-        "title": "Individual Verifiability and Revoting in the Estonian Internet Voting System.",
-        "authors": [
-          "Olivier Pereira"
-        ]
-      },
-      {
-        "title": "Breaking and Fixing Vote Privacy of the Estonian E-Voting Protocol IVXV.",
-        "authors": [
-          "Johannes Müller"
-        ]
-      },
-      {
-        "title": "German Voters' Attitudes Towards Voting Online with a Verifiable System.",
-        "authors": [
-          "Oksana Kulyk",
-          "Melanie Volkamer",
-          "Niklas Fuhrberg",
-          "Benjamin Berens",
-          "Robert Krimmer"
-        ]
-      },
-      {
-        "title": "Simulations of Ballot Polling Risk-Limiting Audits.",
-        "authors": [
-          "Oliver Broadrick",
-          "Sarah Morin",
-          "Grant McClearn",
-          "Neal McBurnett",
-          "Poorvi L. Vora",
-          "Filip Zagórski"
-        ]
-      },
-      {
-        "title": "A First Approach to Risk-Limiting Audits for Single Transferable Vote Elections.",
-        "authors": [
-          "Michelle L. Blom",
-          "Peter J. Stuckey",
-          "Vanessa Teague",
-          "Damjan Vukcevic"
-        ]
-      },
-      {
-        "title": "Short Paper: Verifiable Decryption for BGV.",
-        "authors": [
-          "Tjerand Silde"
-        ]
-      },
-      {
-        "title": "RemoteVote and SAFE Vote: Towards Usable End-to-End Verification for Vote-by-Mail.",
-        "authors": [
-          "Braden L. Crimmins",
-          "Marshall Rhea",
-          "J. Alex Halderman"
-        ]
-      },
-      {
-        "title": "Lelantus Spark: Secure and Flexible Private Transactions.",
-        "authors": [
-          "Aram Jivanyan",
-          "Aaron Feickert"
-        ]
-      },
-      {
-        "title": "Fides: A System for Verifiable Computation Using Smart Contracts.",
-        "authors": [
-          "Mahmudun Nabi",
-          "Sepideh Avizheh",
-          "Reihaneh Safavi-Naini"
-        ]
-      },
-      {
-        "title": "Towards Smart Contract-Based Verification of Anonymous Credentials.",
-        "authors": [
-          "Robert Muth",
-          "Tarek Galal",
-          "Jonathan Heiss",
-          "Florian Tschorsch"
-        ]
-      },
-      {
-        "title": "Dispute-Free Scalable Open Vote Network Using zk-SNARKs.",
-        "authors": [
-          "Muhammad ElSheikh",
-          "Amr M. Youssef"
-        ]
-      },
-      {
-        "title": "Not All Code are Create2 Equal.",
-        "authors": [
-          "Michael Fröwis",
-          "Rainer Böhme"
-        ]
-      },
-      {
-        "title": "Not so Immutable: Upgradeability of Smart Contracts on Ethereum.",
-        "authors": [
-          "Mehdi Salehi",
-          "Jeremy Clark",
-          "Mohammad Mannan"
-        ]
-      },
-      {
-        "title": "Protocol-Based Smart Contract Generation.",
-        "authors": [
-          "Afonso Falcão",
-          "Andreia Mordido",
-          "Vasco T. Vasconcelos"
-        ]
-      },
-      {
-        "title": "Distributed and Adversarial Resistant Workflow Execution on the Algorand Blockchain.",
-        "authors": [
-          "Yibin Xu",
-          "Tijs Slaats",
-          "Boris Düdder",
-          "Søren Debois",
-          "Haiqin Wu"
-        ]
-      },
-      {
-        "title": "Lissy: Experimenting with On-Chain Order Books.",
-        "authors": [
-          "Mahsa Moosavi",
-          "Jeremy Clark"
-        ]
-      },
-      {
-        "title": "Hours of Horus: Keyless Cryptocurrency Wallets.",
-        "authors": [
-          "Dionysis Zindros"
-        ]
-      },
-      {
-        "title": "A Scalable Architecture for Electronic Payments.",
-        "authors": [
-          "Geoffrey Goodell",
-          "D. R. Toliver",
-          "Hazem Danny Al-Nakib"
-        ]
-      },
-      {
-        "title": "UTS: The Universal Token Swapper.",
-        "authors": [
-          "Fadi Barbàra",
-          "Alessandro Sanino",
-          "Claudio Schifanella"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/fc/fc2021-1.html": {
-    "header": "25th Financial Cryptography and Data Security 2021: Virtual Event - Part I",
-    "year": "2021",
-    "papers": [
-      {
-        "title": "Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit.",
-        "authors": [
-          "Kaihua Qin",
-          "Liyi Zhou",
-          "Benjamin Livshits",
-          "Arthur Gervais"
-        ]
-      },
-      {
-        "title": "The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts.",
-        "authors": [
-          "Christof Ferreira Torres",
-          "Antonio Ken Iannillo",
-          "Arthur Gervais",
-          "Radu State"
-        ]
-      },
-      {
-        "title": "Timelocked Bribing.",
-        "authors": [
-          "Tejaswi Nadahalli",
-          "Majid Khabbazian",
-          "Roger Wattenhofer"
-        ]
-      },
-      {
-        "title": "Shielded Computations in Smart Contracts Overcoming Forks.",
-        "authors": [
-          "Vincenzo Botta",
-          "Daniele Friolo",
-          "Daniele Venturi",
-          "Ivan Visconti"
-        ]
-      },
-      {
-        "title": "A Formal Model of Algorand Smart Contracts.",
-        "authors": [
-          "Massimo Bartoletti",
-          "Andrea Bracciali",
-          "Cristian Lepore",
-          "Alceste Scalas",
-          "Roberto Zunino"
-        ]
-      },
-      {
-        "title": "Everything You Ever Wanted to Know About Bitcoin Mixers (But Were Afraid to Ask).",
-        "authors": [
-          "Jaswant Pakki",
-          "Yan Shoshitaishvili",
-          "Ruoyu Wang",
-          "Tiffany Bao",
-          "Adam Doupé"
-        ]
-      },
-      {
-        "title": "Perimeter: A Network-Layer Attack on the Anonymity of Cryptocurrencies.",
-        "authors": [
-          "Maria Apostolaki",
-          "Cedric Maire",
-          "Laurent Vanbever"
-        ]
-      },
-      {
-        "title": "An Empirical Analysis of Privacy in the Lightning Network.",
-        "authors": [
-          "George Kappos",
-          "Haaroon Yousaf",
-          "Ania M. Piotrowska",
-          "Sanket Kanjalkar",
-          "Sergi Delgado-Segura",
-          "Andrew Miller",
-          "Sarah Meiklejohn"
-        ]
-      },
-      {
-        "title": "Cross-Layer Deanonymization Methods in the Lightning Protocol.",
-        "authors": [
-          "Matteo Romiti",
-          "Friedhelm Victor",
-          "Pedro Moreno-Sanchez",
-          "Peter Sebastian Nordholt",
-          "Bernhard Haslhofer",
-          "Matteo Maffei"
-        ]
-      },
-      {
-        "title": "The Complex Shape of Anonymity in Cryptocurrencies: Case Studies from a Systematic Approach.",
-        "authors": [
-          "Niluka Amarasinghe",
-          "Xavier Boyen",
-          "Matthew McKague"
-        ]
-      },
-      {
-        "title": "Improving the Efficiency of AES Protocols in Multi-Party Computation.",
-        "authors": [
-          "F. Betül Durak",
-          "Jorge Guajardo"
-        ]
-      },
-      {
-        "title": "Rabbit: Efficient Comparison for Secure Multi-Party Computation.",
-        "authors": [
-          "Eleftheria Makri",
-          "Dragos Rotaru",
-          "Frederik Vercauteren",
-          "Sameer Wagh"
-        ]
-      },
-      {
-        "title": "Efficient Noise Generation to Achieve Differential Privacy with Applications to Secure Multiparty Computation.",
-        "authors": [
-          "Reo Eriguchi",
-          "Atsunori Ichikawa",
-          "Noboru Kunihiro",
-          "Koji Nuida"
-        ]
-      },
-      {
-        "title": "Specfuscator: Evaluating Branch Removal as a Spectre Mitigation.",
-        "authors": [
-          "Martin Schwarzl",
-          "Claudio Canella",
-          "Daniel Gruss",
-          "Michael Schwarz"
-        ]
-      },
-      {
-        "title": "Speculative Dereferencing: Reviving Foreshadow.",
-        "authors": [
-          "Martin Schwarzl",
-          "Thomas Schuster",
-          "Michael Schwarz",
-          "Daniel Gruss"
-        ]
-      },
-      {
-        "title": "Sigforgery: Breaking and Fixing Data Authenticity in Sigfox.",
-        "authors": [
-          "Loïc Ferreira"
-        ]
-      },
-      {
-        "title": "Short Paper: Terrorist Fraud in Distance Bounding: Getting Around the Models.",
-        "authors": [
-          "David Gérault"
-        ]
-      },
-      {
-        "title": "SoK: Securing Email - A Stakeholder-Based Analysis.",
-        "authors": [
-          "Jeremy Clark",
-          "Paul C. van Oorschot",
-          "Scott Ruoti",
-          "Kent E. Seamons",
-          "Daniel Zappala"
-        ]
-      },
-      {
-        "title": "Zero-Knowledge Proofs for Set Membership: Efficient, Succinct, Modular.",
-        "authors": [
-          "Daniel Benarroch",
-          "Matteo Campanelli",
-          "Dario Fiore",
-          "Kobi Gurkan",
-          "Dimitris Kolonelos"
-        ]
-      },
-      {
-        "title": "Generic Plaintext Equality and Inequality Proofs.",
-        "authors": [
-          "Olivier Blazy",
-          "Xavier Bultel",
-          "Pascal Lafourcade",
-          "Octavio Perez-Kempner"
-        ]
-      },
-      {
-        "title": "Somewhere Statistically Binding Commitment Schemes with Applications.",
-        "authors": [
-          "Prastudy Fauzi",
-          "Helger Lipmaa",
-          "Zaira Pindado",
-          "Janno Siim"
-        ]
-      },
-      {
-        "title": "Another Look at Extraction and Randomization of Groth's zk-SNARK.",
-        "authors": [
-          "Karim Baghery",
-          "Markulf Kohlweiss",
-          "Janno Siim",
-          "Mikhail Volkhov"
-        ]
-      },
-      {
-        "title": "BooLigero: Improved Sublinear Zero Knowledge Proofs for Boolean Circuits.",
-        "authors": [
-          "Yaron Gvili",
-          "Sarah Scheffler",
-          "Mayank Varia"
-        ]
-      },
-      {
-        "title": "Mining for Privacy: How to Bootstrap a Snarky Blockchain.",
-        "authors": [
-          "Thomas Kerber",
-          "Aggelos Kiayias",
-          "Markulf Kohlweiss"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/fc/fc2021-2.html": {
-    "header": "25th Financial Cryptography and Data Security 2021: Virtual Event - Part II",
-    "year": "2021",
-    "papers": [
-      {
-        "title": "SoK: Communication Across Distributed Ledgers.",
-        "authors": [
-          "Alexei Zamyatin",
-          "Mustafa Al-Bassam",
-          "Dionysis Zindros",
-          "Eleftherios Kokoris-Kogias",
-          "Pedro Moreno-Sanchez",
-          "Aggelos Kiayias",
-          "William J. Knottenbelt"
-        ]
-      },
-      {
-        "title": "Reparo: Publicly Verifiable Layer to Repair Blockchains.",
-        "authors": [
-          "Sri Aravinda Krishnan Thyagarajan",
-          "Adithya Bhat",
-          "Bernardo Magri",
-          "Daniel Tschudi",
-          "Aniket Kate"
-        ]
-      },
-      {
-        "title": "Short Paper: Debt Representation in UTXO Blockchains.",
-        "authors": [
-          "Michael Chiu",
-          "Uros Kalabic"
-        ]
-      },
-      {
-        "title": "Instant Block Confirmation in the Sleepy Model.",
-        "authors": [
-          "Vipul Goyal",
-          "Hanjun Li",
-          "Justin Raizes"
-        ]
-      },
-      {
-        "title": "Blockchain CAP Theorem Allows User-Dependent Adaptivity and Finality.",
-        "authors": [
-          "Suryanarayana Sankagiri",
-          "Xuechao Wang",
-          "Sreeram Kannan",
-          "Pramod Viswanath"
-        ]
-      },
-      {
-        "title": "PoSAT: Proof-of-Work Availability and Unpredictability, Without the Work.",
-        "authors": [
-          "Soubhik Deb",
-          "Sreeram Kannan",
-          "David Tse"
-        ]
-      },
-      {
-        "title": "Post-Quantum Adaptor Signature for Privacy-Preserving Off-Chain Payments.",
-        "authors": [
-          "Erkan Tairi",
-          "Pedro Moreno-Sanchez",
-          "Matteo Maffei"
-        ]
-      },
-      {
-        "title": "FPPW: A Fair and Privacy Preserving Watchtower for Bitcoin.",
-        "authors": [
-          "Arash Mirzaei",
-          "Amin Sakzad",
-          "Jiangshan Yu",
-          "Ron Steinfeld"
-        ]
-      },
-      {
-        "title": "Congestion Attacks in Payment Channel Networks.",
-        "authors": [
-          "Ayelet Mizrahi",
-          "Aviv Zohar"
-        ]
-      },
-      {
-        "title": "Payment Trees: Low Collateral Payments for Payment Channel Networks.",
-        "authors": [
-          "Maxim Jourenko",
-          "Mario Larangeira",
-          "Keisuke Tanaka"
-        ]
-      },
-      {
-        "title": "Brick: Asynchronous Incentive-Compatible Payment Channels.",
-        "authors": [
-          "Zeta Avarikioti",
-          "Eleftherios Kokoris-Kogias",
-          "Roger Wattenhofer",
-          "Dionysis Zindros"
-        ]
-      },
-      {
-        "title": "Ignore the Extra Zeroes: Variance-Optimal Mining Pools.",
-        "authors": [
-          "Tim Roughgarden",
-          "Clara Shikhelman"
-        ]
-      },
-      {
-        "title": "HaPPY-Mine: Designing a Mining Reward Function.",
-        "authors": [
-          "Lucianna Kiffer",
-          "Rajmohan Rajaraman"
-        ]
-      },
-      {
-        "title": "Selfish Mining Attacks Exacerbated by Elastic Hash Supply.",
-        "authors": [
-          "Yoko Shibuya",
-          "Go Yamamoto",
-          "Fuhito Kojima",
-          "Elaine Shi",
-          "Shin'ichiro Matsuo",
-          "Aron Laszka"
-        ]
-      },
-      {
-        "title": "Fraud and Data Availability Proofs: Detecting Invalid Blocks in Light Clients.",
-        "authors": [
-          "Mustafa Al-Bassam",
-          "Alberto Sonnino",
-          "Vitalik Buterin",
-          "Ismail Khoffi"
-        ]
-      },
-      {
-        "title": "ACeD: Scalable Data Availability Oracle.",
-        "authors": [
-          "Peiyao Sheng",
-          "Bowen Xue",
-          "Sreeram Kannan",
-          "Pramod Viswanath"
-        ]
-      },
-      {
-        "title": "Efficient State Management in Distributed Ledgers.",
-        "authors": [
-          "Dimitris Karakostas",
-          "Nikos Karayannidis",
-          "Aggelos Kiayias"
-        ]
-      },
-      {
-        "title": "Fast Isomorphic State Channels.",
-        "authors": [
-          "Manuel M. T. Chakravarty",
-          "Sandro Coretti",
-          "Matthias Fitzi",
-          "Peter Gazi",
-          "Philipp Kant",
-          "Aggelos Kiayias",
-          "Alexander Russell"
-        ]
-      },
-      {
-        "title": "What's in Score for Website Users: A Data-Driven Long-Term Study on Risk-Based Authentication Characteristics.",
-        "authors": [
-          "Stephan Wiefling",
-          "Markus Dürmuth",
-          "Luigi Lo Iacono"
-        ]
-      },
-      {
-        "title": "DAHash: Distribution Aware Tuning of Password Hashing Costs.",
-        "authors": [
-          "Wenjie Bai",
-          "Jeremiah Blocki"
-        ]
-      },
-      {
-        "title": "Short Paper: Organizational Security: Implementing a Risk-Reduction-Based Incentivization Model for MFA Adoption.",
-        "authors": [
-          "Sanchari Das",
-          "Andrew Kim",
-          "L. Jean Camp"
-        ]
-      },
-      {
-        "title": "Lost in Transmission: Investigating Filtering of COVID-19 Websites.",
-        "authors": [
-          "Anjali Vyas",
-          "Ram Sundara Raman",
-          "Nick Ceccio",
-          "Philipp M. Lutscher",
-          "Roya Ensafi"
-        ]
-      },
-      {
-        "title": "Under the Hood of the Ethereum Gossip Protocol.",
-        "authors": [
-          "Lucianna Kiffer",
-          "Asad Salman",
-          "Dave Levin",
-          "Alan Mislove",
-          "Cristina Nita-Rotaru"
-        ]
-      },
-      {
-        "title": "Liquidations: DeFi on a Knife-Edge.",
-        "authors": [
-          "Daniel Perez",
-          "Sam M. Werner",
-          "Jiahua Xu",
-          "Benjamin Livshits"
-        ]
-      },
-      {
-        "title": "High-Threshold AVSS with Optimal Communication Complexity.",
-        "authors": [
-          "Nicolas Alhaddad",
-          "Mayank Varia",
-          "Haibin Zhang"
-        ]
-      },
-      {
-        "title": "Fine-Grained Forward Secrecy: Allow-List/Deny-List Encryption and Applications.",
-        "authors": [
-          "David Derler",
-          "Sebastian Ramacher",
-          "Daniel Slamanig",
-          "Christoph Striecks"
-        ]
-      },
-      {
-        "title": "Faster Homomorphic Encryption over GPGPUs via Hierarchical DGT.",
-        "authors": [
-          "Pedro Geraldo M. R. Alves",
-          "Jheyne N. Ortiz",
-          "Diego F. Aranha"
-        ]
-      },
-      {
-        "title": "Multi-instance Publicly Verifiable Time-Lock Puzzle and Its Applications.",
-        "authors": [
-          "Aydin Abadi",
-          "Aggelos Kiayias"
-        ]
-      },
-      {
-        "title": "Practical Post-quantum Few-Time Verifiable Random Function with Applications to Algorand.",
-        "authors": [
-          "Muhammed F. Esgin",
-          "Veronika Kuchta",
-          "Amin Sakzad",
-          "Ron Steinfeld",
-          "Zhenfei Zhang",
-          "Shifeng Sun",
-          "Shumo Chu"
-        ]
-      },
-      {
-        "title": "Practical Witness-Key-Agreement for Blockchain-Based Dark Pools Financial Trading.",
-        "authors": [
-          "Chan Nam Ngo",
-          "Fabio Massacci",
-          "Florian Kerschbaum",
-          "Julian Williams"
         ]
       }
     ]
@@ -2678,6 +2191,493 @@
           "Pepi Martinez",
           "William Huang",
           "Bud Mishra"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fc/fc2021-2.html": {
+    "header": "25th Financial Cryptography and Data Security 2021: Virtual Event - Part II",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "SoK: Communication Across Distributed Ledgers.",
+        "authors": [
+          "Alexei Zamyatin",
+          "Mustafa Al-Bassam",
+          "Dionysis Zindros",
+          "Eleftherios Kokoris-Kogias",
+          "Pedro Moreno-Sanchez",
+          "Aggelos Kiayias",
+          "William J. Knottenbelt"
+        ]
+      },
+      {
+        "title": "Reparo: Publicly Verifiable Layer to Repair Blockchains.",
+        "authors": [
+          "Sri Aravinda Krishnan Thyagarajan",
+          "Adithya Bhat",
+          "Bernardo Magri",
+          "Daniel Tschudi",
+          "Aniket Kate"
+        ]
+      },
+      {
+        "title": "Short Paper: Debt Representation in UTXO Blockchains.",
+        "authors": [
+          "Michael Chiu",
+          "Uros Kalabic"
+        ]
+      },
+      {
+        "title": "Instant Block Confirmation in the Sleepy Model.",
+        "authors": [
+          "Vipul Goyal",
+          "Hanjun Li",
+          "Justin Raizes"
+        ]
+      },
+      {
+        "title": "Blockchain CAP Theorem Allows User-Dependent Adaptivity and Finality.",
+        "authors": [
+          "Suryanarayana Sankagiri",
+          "Xuechao Wang",
+          "Sreeram Kannan",
+          "Pramod Viswanath"
+        ]
+      },
+      {
+        "title": "PoSAT: Proof-of-Work Availability and Unpredictability, Without the Work.",
+        "authors": [
+          "Soubhik Deb",
+          "Sreeram Kannan",
+          "David Tse"
+        ]
+      },
+      {
+        "title": "Post-Quantum Adaptor Signature for Privacy-Preserving Off-Chain Payments.",
+        "authors": [
+          "Erkan Tairi",
+          "Pedro Moreno-Sanchez",
+          "Matteo Maffei"
+        ]
+      },
+      {
+        "title": "FPPW: A Fair and Privacy Preserving Watchtower for Bitcoin.",
+        "authors": [
+          "Arash Mirzaei",
+          "Amin Sakzad",
+          "Jiangshan Yu",
+          "Ron Steinfeld"
+        ]
+      },
+      {
+        "title": "Congestion Attacks in Payment Channel Networks.",
+        "authors": [
+          "Ayelet Mizrahi",
+          "Aviv Zohar"
+        ]
+      },
+      {
+        "title": "Payment Trees: Low Collateral Payments for Payment Channel Networks.",
+        "authors": [
+          "Maxim Jourenko",
+          "Mario Larangeira",
+          "Keisuke Tanaka"
+        ]
+      },
+      {
+        "title": "Brick: Asynchronous Incentive-Compatible Payment Channels.",
+        "authors": [
+          "Zeta Avarikioti",
+          "Eleftherios Kokoris-Kogias",
+          "Roger Wattenhofer",
+          "Dionysis Zindros"
+        ]
+      },
+      {
+        "title": "Ignore the Extra Zeroes: Variance-Optimal Mining Pools.",
+        "authors": [
+          "Tim Roughgarden",
+          "Clara Shikhelman"
+        ]
+      },
+      {
+        "title": "HaPPY-Mine: Designing a Mining Reward Function.",
+        "authors": [
+          "Lucianna Kiffer",
+          "Rajmohan Rajaraman"
+        ]
+      },
+      {
+        "title": "Selfish Mining Attacks Exacerbated by Elastic Hash Supply.",
+        "authors": [
+          "Yoko Shibuya",
+          "Go Yamamoto",
+          "Fuhito Kojima",
+          "Elaine Shi",
+          "Shin'ichiro Matsuo",
+          "Aron Laszka"
+        ]
+      },
+      {
+        "title": "Fraud and Data Availability Proofs: Detecting Invalid Blocks in Light Clients.",
+        "authors": [
+          "Mustafa Al-Bassam",
+          "Alberto Sonnino",
+          "Vitalik Buterin",
+          "Ismail Khoffi"
+        ]
+      },
+      {
+        "title": "ACeD: Scalable Data Availability Oracle.",
+        "authors": [
+          "Peiyao Sheng",
+          "Bowen Xue",
+          "Sreeram Kannan",
+          "Pramod Viswanath"
+        ]
+      },
+      {
+        "title": "Efficient State Management in Distributed Ledgers.",
+        "authors": [
+          "Dimitris Karakostas",
+          "Nikos Karayannidis",
+          "Aggelos Kiayias"
+        ]
+      },
+      {
+        "title": "Fast Isomorphic State Channels.",
+        "authors": [
+          "Manuel M. T. Chakravarty",
+          "Sandro Coretti",
+          "Matthias Fitzi",
+          "Peter Gazi",
+          "Philipp Kant",
+          "Aggelos Kiayias",
+          "Alexander Russell"
+        ]
+      },
+      {
+        "title": "What's in Score for Website Users: A Data-Driven Long-Term Study on Risk-Based Authentication Characteristics.",
+        "authors": [
+          "Stephan Wiefling",
+          "Markus Dürmuth",
+          "Luigi Lo Iacono"
+        ]
+      },
+      {
+        "title": "DAHash: Distribution Aware Tuning of Password Hashing Costs.",
+        "authors": [
+          "Wenjie Bai",
+          "Jeremiah Blocki"
+        ]
+      },
+      {
+        "title": "Short Paper: Organizational Security: Implementing a Risk-Reduction-Based Incentivization Model for MFA Adoption.",
+        "authors": [
+          "Sanchari Das",
+          "Andrew Kim",
+          "L. Jean Camp"
+        ]
+      },
+      {
+        "title": "Lost in Transmission: Investigating Filtering of COVID-19 Websites.",
+        "authors": [
+          "Anjali Vyas",
+          "Ram Sundara Raman",
+          "Nick Ceccio",
+          "Philipp M. Lutscher",
+          "Roya Ensafi"
+        ]
+      },
+      {
+        "title": "Under the Hood of the Ethereum Gossip Protocol.",
+        "authors": [
+          "Lucianna Kiffer",
+          "Asad Salman",
+          "Dave Levin",
+          "Alan Mislove",
+          "Cristina Nita-Rotaru"
+        ]
+      },
+      {
+        "title": "Liquidations: DeFi on a Knife-Edge.",
+        "authors": [
+          "Daniel Perez",
+          "Sam M. Werner",
+          "Jiahua Xu",
+          "Benjamin Livshits"
+        ]
+      },
+      {
+        "title": "High-Threshold AVSS with Optimal Communication Complexity.",
+        "authors": [
+          "Nicolas Alhaddad",
+          "Mayank Varia",
+          "Haibin Zhang"
+        ]
+      },
+      {
+        "title": "Fine-Grained Forward Secrecy: Allow-List/Deny-List Encryption and Applications.",
+        "authors": [
+          "David Derler",
+          "Sebastian Ramacher",
+          "Daniel Slamanig",
+          "Christoph Striecks"
+        ]
+      },
+      {
+        "title": "Faster Homomorphic Encryption over GPGPUs via Hierarchical DGT.",
+        "authors": [
+          "Pedro Geraldo M. R. Alves",
+          "Jheyne N. Ortiz",
+          "Diego F. Aranha"
+        ]
+      },
+      {
+        "title": "Multi-instance Publicly Verifiable Time-Lock Puzzle and Its Applications.",
+        "authors": [
+          "Aydin Abadi",
+          "Aggelos Kiayias"
+        ]
+      },
+      {
+        "title": "Practical Post-quantum Few-Time Verifiable Random Function with Applications to Algorand.",
+        "authors": [
+          "Muhammed F. Esgin",
+          "Veronika Kuchta",
+          "Amin Sakzad",
+          "Ron Steinfeld",
+          "Zhenfei Zhang",
+          "Shifeng Sun",
+          "Shumo Chu"
+        ]
+      },
+      {
+        "title": "Practical Witness-Key-Agreement for Blockchain-Based Dark Pools Financial Trading.",
+        "authors": [
+          "Chan Nam Ngo",
+          "Fabio Massacci",
+          "Florian Kerschbaum",
+          "Julian Williams"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fc/fc2021-1.html": {
+    "header": "25th Financial Cryptography and Data Security 2021: Virtual Event - Part I",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit.",
+        "authors": [
+          "Kaihua Qin",
+          "Liyi Zhou",
+          "Benjamin Livshits",
+          "Arthur Gervais"
+        ]
+      },
+      {
+        "title": "The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts.",
+        "authors": [
+          "Christof Ferreira Torres",
+          "Antonio Ken Iannillo",
+          "Arthur Gervais",
+          "Radu State"
+        ]
+      },
+      {
+        "title": "Timelocked Bribing.",
+        "authors": [
+          "Tejaswi Nadahalli",
+          "Majid Khabbazian",
+          "Roger Wattenhofer"
+        ]
+      },
+      {
+        "title": "Shielded Computations in Smart Contracts Overcoming Forks.",
+        "authors": [
+          "Vincenzo Botta",
+          "Daniele Friolo",
+          "Daniele Venturi",
+          "Ivan Visconti"
+        ]
+      },
+      {
+        "title": "A Formal Model of Algorand Smart Contracts.",
+        "authors": [
+          "Massimo Bartoletti",
+          "Andrea Bracciali",
+          "Cristian Lepore",
+          "Alceste Scalas",
+          "Roberto Zunino"
+        ]
+      },
+      {
+        "title": "Everything You Ever Wanted to Know About Bitcoin Mixers (But Were Afraid to Ask).",
+        "authors": [
+          "Jaswant Pakki",
+          "Yan Shoshitaishvili",
+          "Ruoyu Wang",
+          "Tiffany Bao",
+          "Adam Doupé"
+        ]
+      },
+      {
+        "title": "Perimeter: A Network-Layer Attack on the Anonymity of Cryptocurrencies.",
+        "authors": [
+          "Maria Apostolaki",
+          "Cedric Maire",
+          "Laurent Vanbever"
+        ]
+      },
+      {
+        "title": "An Empirical Analysis of Privacy in the Lightning Network.",
+        "authors": [
+          "George Kappos",
+          "Haaroon Yousaf",
+          "Ania M. Piotrowska",
+          "Sanket Kanjalkar",
+          "Sergi Delgado-Segura",
+          "Andrew Miller",
+          "Sarah Meiklejohn"
+        ]
+      },
+      {
+        "title": "Cross-Layer Deanonymization Methods in the Lightning Protocol.",
+        "authors": [
+          "Matteo Romiti",
+          "Friedhelm Victor",
+          "Pedro Moreno-Sanchez",
+          "Peter Sebastian Nordholt",
+          "Bernhard Haslhofer",
+          "Matteo Maffei"
+        ]
+      },
+      {
+        "title": "The Complex Shape of Anonymity in Cryptocurrencies: Case Studies from a Systematic Approach.",
+        "authors": [
+          "Niluka Amarasinghe",
+          "Xavier Boyen",
+          "Matthew McKague"
+        ]
+      },
+      {
+        "title": "Improving the Efficiency of AES Protocols in Multi-Party Computation.",
+        "authors": [
+          "F. Betül Durak",
+          "Jorge Guajardo"
+        ]
+      },
+      {
+        "title": "Rabbit: Efficient Comparison for Secure Multi-Party Computation.",
+        "authors": [
+          "Eleftheria Makri",
+          "Dragos Rotaru",
+          "Frederik Vercauteren",
+          "Sameer Wagh"
+        ]
+      },
+      {
+        "title": "Efficient Noise Generation to Achieve Differential Privacy with Applications to Secure Multiparty Computation.",
+        "authors": [
+          "Reo Eriguchi",
+          "Atsunori Ichikawa",
+          "Noboru Kunihiro",
+          "Koji Nuida"
+        ]
+      },
+      {
+        "title": "Specfuscator: Evaluating Branch Removal as a Spectre Mitigation.",
+        "authors": [
+          "Martin Schwarzl",
+          "Claudio Canella",
+          "Daniel Gruss",
+          "Michael Schwarz"
+        ]
+      },
+      {
+        "title": "Speculative Dereferencing: Reviving Foreshadow.",
+        "authors": [
+          "Martin Schwarzl",
+          "Thomas Schuster",
+          "Michael Schwarz",
+          "Daniel Gruss"
+        ]
+      },
+      {
+        "title": "Sigforgery: Breaking and Fixing Data Authenticity in Sigfox.",
+        "authors": [
+          "Loïc Ferreira"
+        ]
+      },
+      {
+        "title": "Short Paper: Terrorist Fraud in Distance Bounding: Getting Around the Models.",
+        "authors": [
+          "David Gérault"
+        ]
+      },
+      {
+        "title": "SoK: Securing Email - A Stakeholder-Based Analysis.",
+        "authors": [
+          "Jeremy Clark",
+          "Paul C. van Oorschot",
+          "Scott Ruoti",
+          "Kent E. Seamons",
+          "Daniel Zappala"
+        ]
+      },
+      {
+        "title": "Zero-Knowledge Proofs for Set Membership: Efficient, Succinct, Modular.",
+        "authors": [
+          "Daniel Benarroch",
+          "Matteo Campanelli",
+          "Dario Fiore",
+          "Kobi Gurkan",
+          "Dimitris Kolonelos"
+        ]
+      },
+      {
+        "title": "Generic Plaintext Equality and Inequality Proofs.",
+        "authors": [
+          "Olivier Blazy",
+          "Xavier Bultel",
+          "Pascal Lafourcade",
+          "Octavio Perez-Kempner"
+        ]
+      },
+      {
+        "title": "Somewhere Statistically Binding Commitment Schemes with Applications.",
+        "authors": [
+          "Prastudy Fauzi",
+          "Helger Lipmaa",
+          "Zaira Pindado",
+          "Janno Siim"
+        ]
+      },
+      {
+        "title": "Another Look at Extraction and Randomization of Groth's zk-SNARK.",
+        "authors": [
+          "Karim Baghery",
+          "Markulf Kohlweiss",
+          "Janno Siim",
+          "Mikhail Volkhov"
+        ]
+      },
+      {
+        "title": "BooLigero: Improved Sublinear Zero Knowledge Proofs for Boolean Circuits.",
+        "authors": [
+          "Yaron Gvili",
+          "Sarah Scheffler",
+          "Mayank Varia"
+        ]
+      },
+      {
+        "title": "Mining for Privacy: How to Bootstrap a Snarky Blockchain.",
+        "authors": [
+          "Thomas Kerber",
+          "Aggelos Kiayias",
+          "Markulf Kohlweiss"
         ]
       }
     ]
@@ -3882,6 +3882,214 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/fc/fc2018w.html": {
+    "header": "22nd Financial Cryptography 2018: Nieuwpoort, Curaçao, The Netherlands: Workshops",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "Smart Contracts for Bribing Miners.",
+        "authors": [
+          "Patrick McCorry",
+          "Alexander Hicks",
+          "Sarah Meiklejohn"
+        ]
+      },
+      {
+        "title": "A Systematic Approach to Cryptocurrency Fees.",
+        "authors": [
+          "Alexander Chepurnoy",
+          "Vasily Kharin",
+          "Dmitry Meshkov"
+        ]
+      },
+      {
+        "title": "A Wild Velvet Fork Appears! Inclusive Blockchain Protocol Changes in Practice - (Short Paper).",
+        "authors": [
+          "Alexei Zamyatin",
+          "Nicholas Stifter",
+          "Aljosha Judmayer",
+          "Philipp Schindler",
+          "Edgar R. Weippl",
+          "William J. Knottenbelt"
+        ]
+      },
+      {
+        "title": "Confidential Assets.",
+        "authors": [
+          "Andrew Poelstra",
+          "Adam Back",
+          "Mark Friedenbach",
+          "Gregory Maxwell",
+          "Pieter Wuille"
+        ]
+      },
+      {
+        "title": "A Multi-party Protocol for Constructing the Public Parameters of the Pinocchio zk-SNARK.",
+        "authors": [
+          "Sean Bowe",
+          "Ariel Gabizon",
+          "Matthew D. Green"
+        ]
+      },
+      {
+        "title": "Analysis of the Bitcoin UTXO Set.",
+        "authors": [
+          "Sergi Delgado-Segura",
+          "Cristina Pérez-Solà",
+          "Guillermo Navarro-Arribas",
+          "Jordi Herrera-Joancomartí"
+        ]
+      },
+      {
+        "title": "Hostile Blockchain Takeovers (Short Paper).",
+        "authors": [
+          "Joseph Bonneau"
+        ]
+      },
+      {
+        "title": "Analyzing the Bitcoin Ponzi Scheme Ecosystem.",
+        "authors": [
+          "Marie Vasek",
+          "Tyler Moore"
+        ]
+      },
+      {
+        "title": "Exploiting Transaction Accumulation and Double Spends for Topology Inference in Bitcoin.",
+        "authors": [
+          "Matthias Grundmann",
+          "Till Neudecker",
+          "Hannes Hartenstein"
+        ]
+      },
+      {
+        "title": "Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance.",
+        "authors": [
+          "Sarah Azouvi",
+          "Mary Maller",
+          "Sarah Meiklejohn"
+        ]
+      },
+      {
+        "title": "Blockchain-Based Certificate Transparency and Revocation Transparency.",
+        "authors": [
+          "Ze Wang",
+          "Jingqiang Lin",
+          "Quanwei Cai",
+          "Qiongxiao Wang",
+          "Jiwu Jing",
+          "Daren Zha"
+        ]
+      },
+      {
+        "title": "A Verifiable Shuffle for the GSW Cryptosystem.",
+        "authors": [
+          "Martin Strand"
+        ]
+      },
+      {
+        "title": "Outsourcing Modular Exponentiation in Cryptographic Web Applications.",
+        "authors": [
+          "Pascal Mainini",
+          "Rolf Haenni"
+        ]
+      },
+      {
+        "title": "Voting Technologies, Recount Methods and Votes in Wisconsin and Michigan in 2016.",
+        "authors": [
+          "Walter R. Mebane Jr.",
+          "Matthew Bernhard"
+        ]
+      },
+      {
+        "title": "Towards Everlasting Privacy and Efficient Coercion Resistance in Remote Electronic Voting.",
+        "authors": [
+          "Panagiotis Grontas",
+          "Aris Pagourtzis",
+          "Alexandros Zacharakis",
+          "Bingsheng Zhang"
+        ]
+      },
+      {
+        "title": "Modeling a Bulletin Board Service Based on Broadcast Channels with Memory.",
+        "authors": [
+          "Severin Hauser",
+          "Rolf Haenni"
+        ]
+      },
+      {
+        "title": "Verifiability of Helios Mixnet.",
+        "authors": [
+          "Ben Smyth"
+        ]
+      },
+      {
+        "title": "Verifiable Sealed-Bid Auction on the Ethereum Blockchain.",
+        "authors": [
+          "Hisham S. Galal",
+          "Amr M. Youssef"
+        ]
+      },
+      {
+        "title": "The Scalability of Trustless Trust.",
+        "authors": [
+          "Dominik Harz",
+          "Magnus Boman"
+        ]
+      },
+      {
+        "title": "The Game Among Bribers in a Smart Contract System.",
+        "authors": [
+          "Lin Chen",
+          "Lei Xu",
+          "Zhimin Gao",
+          "Nolan Shah",
+          "Ton Chanh Le",
+          "Yang Lu",
+          "Weidong Shi"
+        ]
+      },
+      {
+        "title": "Lightweight Blockchain Logging for Data-Intensive Applications.",
+        "authors": [
+          "Yuzhe Richard Tang",
+          "Zihao Xing",
+          "Cheng Xu",
+          "Ju Chen",
+          "Jianliang Xu"
+        ]
+      },
+      {
+        "title": "Proof-Carrying Smart Contracts.",
+        "authors": [
+          "Thomas D. Dickerson",
+          "Paul Gazzillo",
+          "Maurice Herlihy",
+          "Vikram Saraph",
+          "Eric Koskinen"
+        ]
+      },
+      {
+        "title": "Comparative Analysis of the Legal Concept of Title Rights in Real Estate and the Technology of Tokens: How Can Titles Become Tokens?",
+        "authors": [
+          "Oleksii Konashevych"
+        ]
+      },
+      {
+        "title": "Ghazal: Toward Truly Authoritative Web Certificates Using Ethereum.",
+        "authors": [
+          "Seyedehmahsa Moosavi",
+          "Jeremy Clark"
+        ]
+      },
+      {
+        "title": "Toward Cryptocurrency Lending.",
+        "authors": [
+          "Mildred Chidinma Okoye",
+          "Jeremy Clark"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/fc/fc2018.html": {
     "header": "22nd Financial Cryptography 2018: Nieuwpoort, Curaçao, The Netherlands",
     "year": "2018",
@@ -4129,503 +4337,6 @@
           "Massimo Bartoletti",
           "Stefano Lande",
           "Roberto Zunino"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/fc/fc2018w.html": {
-    "header": "22nd Financial Cryptography 2018: Nieuwpoort, Curaçao, The Netherlands: Workshops",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "Smart Contracts for Bribing Miners.",
-        "authors": [
-          "Patrick McCorry",
-          "Alexander Hicks",
-          "Sarah Meiklejohn"
-        ]
-      },
-      {
-        "title": "A Systematic Approach to Cryptocurrency Fees.",
-        "authors": [
-          "Alexander Chepurnoy",
-          "Vasily Kharin",
-          "Dmitry Meshkov"
-        ]
-      },
-      {
-        "title": "A Wild Velvet Fork Appears! Inclusive Blockchain Protocol Changes in Practice - (Short Paper).",
-        "authors": [
-          "Alexei Zamyatin",
-          "Nicholas Stifter",
-          "Aljosha Judmayer",
-          "Philipp Schindler",
-          "Edgar R. Weippl",
-          "William J. Knottenbelt"
-        ]
-      },
-      {
-        "title": "Confidential Assets.",
-        "authors": [
-          "Andrew Poelstra",
-          "Adam Back",
-          "Mark Friedenbach",
-          "Gregory Maxwell",
-          "Pieter Wuille"
-        ]
-      },
-      {
-        "title": "A Multi-party Protocol for Constructing the Public Parameters of the Pinocchio zk-SNARK.",
-        "authors": [
-          "Sean Bowe",
-          "Ariel Gabizon",
-          "Matthew D. Green"
-        ]
-      },
-      {
-        "title": "Analysis of the Bitcoin UTXO Set.",
-        "authors": [
-          "Sergi Delgado-Segura",
-          "Cristina Pérez-Solà",
-          "Guillermo Navarro-Arribas",
-          "Jordi Herrera-Joancomartí"
-        ]
-      },
-      {
-        "title": "Hostile Blockchain Takeovers (Short Paper).",
-        "authors": [
-          "Joseph Bonneau"
-        ]
-      },
-      {
-        "title": "Analyzing the Bitcoin Ponzi Scheme Ecosystem.",
-        "authors": [
-          "Marie Vasek",
-          "Tyler Moore"
-        ]
-      },
-      {
-        "title": "Exploiting Transaction Accumulation and Double Spends for Topology Inference in Bitcoin.",
-        "authors": [
-          "Matthias Grundmann",
-          "Till Neudecker",
-          "Hannes Hartenstein"
-        ]
-      },
-      {
-        "title": "Egalitarian Society or Benevolent Dictatorship: The State of Cryptocurrency Governance.",
-        "authors": [
-          "Sarah Azouvi",
-          "Mary Maller",
-          "Sarah Meiklejohn"
-        ]
-      },
-      {
-        "title": "Blockchain-Based Certificate Transparency and Revocation Transparency.",
-        "authors": [
-          "Ze Wang",
-          "Jingqiang Lin",
-          "Quanwei Cai",
-          "Qiongxiao Wang",
-          "Jiwu Jing",
-          "Daren Zha"
-        ]
-      },
-      {
-        "title": "A Verifiable Shuffle for the GSW Cryptosystem.",
-        "authors": [
-          "Martin Strand"
-        ]
-      },
-      {
-        "title": "Outsourcing Modular Exponentiation in Cryptographic Web Applications.",
-        "authors": [
-          "Pascal Mainini",
-          "Rolf Haenni"
-        ]
-      },
-      {
-        "title": "Voting Technologies, Recount Methods and Votes in Wisconsin and Michigan in 2016.",
-        "authors": [
-          "Walter R. Mebane Jr.",
-          "Matthew Bernhard"
-        ]
-      },
-      {
-        "title": "Towards Everlasting Privacy and Efficient Coercion Resistance in Remote Electronic Voting.",
-        "authors": [
-          "Panagiotis Grontas",
-          "Aris Pagourtzis",
-          "Alexandros Zacharakis",
-          "Bingsheng Zhang"
-        ]
-      },
-      {
-        "title": "Modeling a Bulletin Board Service Based on Broadcast Channels with Memory.",
-        "authors": [
-          "Severin Hauser",
-          "Rolf Haenni"
-        ]
-      },
-      {
-        "title": "Verifiability of Helios Mixnet.",
-        "authors": [
-          "Ben Smyth"
-        ]
-      },
-      {
-        "title": "Verifiable Sealed-Bid Auction on the Ethereum Blockchain.",
-        "authors": [
-          "Hisham S. Galal",
-          "Amr M. Youssef"
-        ]
-      },
-      {
-        "title": "The Scalability of Trustless Trust.",
-        "authors": [
-          "Dominik Harz",
-          "Magnus Boman"
-        ]
-      },
-      {
-        "title": "The Game Among Bribers in a Smart Contract System.",
-        "authors": [
-          "Lin Chen",
-          "Lei Xu",
-          "Zhimin Gao",
-          "Nolan Shah",
-          "Ton Chanh Le",
-          "Yang Lu",
-          "Weidong Shi"
-        ]
-      },
-      {
-        "title": "Lightweight Blockchain Logging for Data-Intensive Applications.",
-        "authors": [
-          "Yuzhe Richard Tang",
-          "Zihao Xing",
-          "Cheng Xu",
-          "Ju Chen",
-          "Jianliang Xu"
-        ]
-      },
-      {
-        "title": "Proof-Carrying Smart Contracts.",
-        "authors": [
-          "Thomas D. Dickerson",
-          "Paul Gazzillo",
-          "Maurice Herlihy",
-          "Vikram Saraph",
-          "Eric Koskinen"
-        ]
-      },
-      {
-        "title": "Comparative Analysis of the Legal Concept of Title Rights in Real Estate and the Technology of Tokens: How Can Titles Become Tokens?",
-        "authors": [
-          "Oleksii Konashevych"
-        ]
-      },
-      {
-        "title": "Ghazal: Toward Truly Authoritative Web Certificates Using Ethereum.",
-        "authors": [
-          "Seyedehmahsa Moosavi",
-          "Jeremy Clark"
-        ]
-      },
-      {
-        "title": "Toward Cryptocurrency Lending.",
-        "authors": [
-          "Mildred Chidinma Okoye",
-          "Jeremy Clark"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/fc/fc2017.html": {
-    "header": "21st Financial Cryptography 2017: Sliema, Malta",
-    "year": "2017",
-    "papers": [
-      {
-        "title": "An Efficient Self-blindable Attribute-Based Credential Scheme.",
-        "authors": [
-          "Sietse Ringers",
-          "Eric R. Verheul",
-          "Jaap-Henk Hoepman"
-        ]
-      },
-      {
-        "title": "Real Hidden Identity-Based Signatures.",
-        "authors": [
-          "Sherman S. M. Chow",
-          "Haibin Zhang",
-          "Tao Zhang"
-        ]
-      },
-      {
-        "title": "BehavioCog: An Observation Resistant Authentication Scheme.",
-        "authors": [
-          "Jagmohan Chauhan",
-          "Benjamin Zi Hao Zhao",
-          "Hassan Jameel Asghar",
-          "Jonathan Chan",
-          "Mohamed Ali Kâafar"
-        ]
-      },
-      {
-        "title": "Updatable Tokenization: Formal Definitions and Provably Secure Constructions.",
-        "authors": [
-          "Christian Cachin",
-          "Jan Camenisch",
-          "Eduarda Freire-Stögbuchner",
-          "Anja Lehmann"
-        ]
-      },
-      {
-        "title": "SecGDB: Graph Encryption for Exact Shortest Distance Queries with Efficient Updates.",
-        "authors": [
-          "Qian Wang",
-          "Kui Ren",
-          "Minxin Du",
-          "Qi Li",
-          "Aziz Mohaisen"
-        ]
-      },
-      {
-        "title": "Outsourcing Medical Dataset Analysis: A Possible Solution.",
-        "authors": [
-          "Gabriel Kaptchuk",
-          "Matthew Green",
-          "Aviel D. Rubin"
-        ]
-      },
-      {
-        "title": "Homomorphic Proxy Re-Authenticators and Applications to Verifiable Multi-User Data Aggregation.",
-        "authors": [
-          "David Derler",
-          "Sebastian Ramacher",
-          "Daniel Slamanig"
-        ]
-      },
-      {
-        "title": "A Provably Secure PKCS#11 Configuration Without Authenticated Attributes.",
-        "authors": [
-          "Ryan Stanley-Oakes"
-        ]
-      },
-      {
-        "title": "A Post-quantum Digital Signature Scheme Based on Supersingular Isogenies.",
-        "authors": [
-          "Youngho Yoo",
-          "Reza Azarderakhsh",
-          "Amir Jalali",
-          "David Jao",
-          "Vladimir Soukharev"
-        ]
-      },
-      {
-        "title": "Optimally Sound Sigma Protocols Under DCRA.",
-        "authors": [
-          "Helger Lipmaa"
-        ]
-      },
-      {
-        "title": "Economically Optimal Variable Tag Length Message Authentication.",
-        "authors": [
-          "Reihaneh Safavi-Naini",
-          "Viliam Lisý",
-          "Yvo Desmedt"
-        ]
-      },
-      {
-        "title": "PEEP: Passively Eavesdropping Private Input via Brainwave Signals.",
-        "authors": [
-          "Ajaya Neupane",
-          "Md. Lutfor Rahman",
-          "Nitesh Saxena"
-        ]
-      },
-      {
-        "title": "Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript.",
-        "authors": [
-          "Michael Schwarz",
-          "Clémentine Maurice",
-          "Daniel Gruss",
-          "Stefan Mangard"
-        ]
-      },
-      {
-        "title": "Attacks on Secure Logging Schemes.",
-        "authors": [
-          "Gunnar Hartung"
-        ]
-      },
-      {
-        "title": "Economy Class Crypto: Exploring Weak Cipher Usage in Avionic Communications via ACARS.",
-        "authors": [
-          "Matthew Smith",
-          "Daniel Moser",
-          "Martin Strohmeier",
-          "Vincent Lenders",
-          "Ivan Martinovic"
-        ]
-      },
-      {
-        "title": "Short Paper: A Longitudinal Study of Financial Apps in the Google Play Store.",
-        "authors": [
-          "Vincent F. Taylor",
-          "Ivan Martinovic"
-        ]
-      },
-      {
-        "title": "Short Paper: Addressing Sophisticated Email Attacks.",
-        "authors": [
-          "Markus Jakobsson"
-        ]
-      },
-      {
-        "title": "Escrow Protocols for Cryptocurrencies: How to Buy Physical Goods Using Bitcoin.",
-        "authors": [
-          "Steven Goldfeder",
-          "Joseph Bonneau",
-          "Rosario Gennaro",
-          "Arvind Narayanan"
-        ]
-      },
-      {
-        "title": "Trust Is Risk: A Decentralized Financial Trust Platform.",
-        "authors": [
-          "Orfeas Stefanos Thyfronitis Litos",
-          "Dionysis Zindros"
-        ]
-      },
-      {
-        "title": "A Smart Contract for Boardroom Voting with Maximum Voter Privacy.",
-        "authors": [
-          "Patrick McCorry",
-          "Siamak F. Shahandashti",
-          "Feng Hao"
-        ]
-      },
-      {
-        "title": "Improving Authenticated Dynamic Dictionaries, with Applications to Cryptocurrencies.",
-        "authors": [
-          "Leonid Reyzin",
-          "Dmitry Meshkov",
-          "Alexander Chepurnoy",
-          "Sasha Ivanov"
-        ]
-      },
-      {
-        "title": "Short Paper: Service-Oriented Sharding for Blockchains.",
-        "authors": [
-          "Adem Efe Gencer",
-          "Robbert van Renesse",
-          "Emin Gün Sirer"
-        ]
-      },
-      {
-        "title": "The Security of NTP's Datagram Protocol.",
-        "authors": [
-          "Aanchal Malhotra",
-          "Matthew Van Gundy",
-          "Mayank Varia",
-          "Haydn Kennedy",
-          "Jonathan Gardner",
-          "Sharon Goldberg"
-        ]
-      },
-      {
-        "title": "Short Paper: On Deployment of DNS-Based Security Enhancements.",
-        "authors": [
-          "Pawel Szalachowski",
-          "Adrian Perrig"
-        ]
-      },
-      {
-        "title": "A Practical Multivariate Blind Signature Scheme.",
-        "authors": [
-          "Albrecht Petzoldt",
-          "Alan Szepieniec",
-          "Mohamed Saied Emam Mohamed"
-        ]
-      },
-      {
-        "title": "Efficient Round-Optimal Blind Signatures in the Standard Model.",
-        "authors": [
-          "Essam Ghadafi"
-        ]
-      },
-      {
-        "title": "Secure Multiparty Computation from SGX.",
-        "authors": [
-          "Raad Bahmani",
-          "Manuel Barbosa",
-          "Ferdinand Brasser",
-          "Bernardo Portela",
-          "Ahmad-Reza Sadeghi",
-          "Guillaume Scerri",
-          "Bogdan Warinschi"
-        ]
-      },
-      {
-        "title": "Efficient No-dictionary Verifiable Searchable Symmetric Encryption.",
-        "authors": [
-          "Wakaha Ogata",
-          "Kaoru Kurosawa"
-        ]
-      },
-      {
-        "title": "Faster Homomorphic Evaluation of Discrete Fourier Transforms.",
-        "authors": [
-          "Anamaria Costache",
-          "Nigel P. Smart",
-          "Srinivas Vivek"
-        ]
-      },
-      {
-        "title": "Short Paper: TLS Ecosystems in Networked Devices vs. Web Servers.",
-        "authors": [
-          "Nayanamana Samarasinghe",
-          "Mohammad Mannan"
-        ]
-      },
-      {
-        "title": "Unilaterally-Authenticated Key Exchange.",
-        "authors": [
-          "Yevgeniy Dodis",
-          "Dario Fiore"
-        ]
-      },
-      {
-        "title": "Formal Modeling and Verification for Domain Validation and ACME.",
-        "authors": [
-          "Karthikeyan Bhargavan",
-          "Antoine Delignat-Lavaud",
-          "Nadim Kobeissi"
-        ]
-      },
-      {
-        "title": "Why Banker Bob (Still) Can't Get TLS Right: A Security Analysis of TLS in Leading UK Banking Apps.",
-        "authors": [
-          "Tom Chothia",
-          "Flavio D. Garcia",
-          "Chris Heppel",
-          "Chris McMahon Stone"
-        ]
-      },
-      {
-        "title": "Lavinia: An Audit-Payment Protocol for Censorship-Resistant Storage.",
-        "authors": [
-          "Cecylia Bocovich",
-          "John A. Doucette",
-          "Ian Goldberg"
-        ]
-      },
-      {
-        "title": "A Simpler Rate-Optimal CPIR Protocol.",
-        "authors": [
-          "Helger Lipmaa",
-          "Kateryna Pavlyk"
         ]
       }
     ]
@@ -4951,6 +4662,490 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/fc/fc2017.html": {
+    "header": "21st Financial Cryptography 2017: Sliema, Malta",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "An Efficient Self-blindable Attribute-Based Credential Scheme.",
+        "authors": [
+          "Sietse Ringers",
+          "Eric R. Verheul",
+          "Jaap-Henk Hoepman"
+        ]
+      },
+      {
+        "title": "Real Hidden Identity-Based Signatures.",
+        "authors": [
+          "Sherman S. M. Chow",
+          "Haibin Zhang",
+          "Tao Zhang"
+        ]
+      },
+      {
+        "title": "BehavioCog: An Observation Resistant Authentication Scheme.",
+        "authors": [
+          "Jagmohan Chauhan",
+          "Benjamin Zi Hao Zhao",
+          "Hassan Jameel Asghar",
+          "Jonathan Chan",
+          "Mohamed Ali Kâafar"
+        ]
+      },
+      {
+        "title": "Updatable Tokenization: Formal Definitions and Provably Secure Constructions.",
+        "authors": [
+          "Christian Cachin",
+          "Jan Camenisch",
+          "Eduarda Freire-Stögbuchner",
+          "Anja Lehmann"
+        ]
+      },
+      {
+        "title": "SecGDB: Graph Encryption for Exact Shortest Distance Queries with Efficient Updates.",
+        "authors": [
+          "Qian Wang",
+          "Kui Ren",
+          "Minxin Du",
+          "Qi Li",
+          "Aziz Mohaisen"
+        ]
+      },
+      {
+        "title": "Outsourcing Medical Dataset Analysis: A Possible Solution.",
+        "authors": [
+          "Gabriel Kaptchuk",
+          "Matthew Green",
+          "Aviel D. Rubin"
+        ]
+      },
+      {
+        "title": "Homomorphic Proxy Re-Authenticators and Applications to Verifiable Multi-User Data Aggregation.",
+        "authors": [
+          "David Derler",
+          "Sebastian Ramacher",
+          "Daniel Slamanig"
+        ]
+      },
+      {
+        "title": "A Provably Secure PKCS#11 Configuration Without Authenticated Attributes.",
+        "authors": [
+          "Ryan Stanley-Oakes"
+        ]
+      },
+      {
+        "title": "A Post-quantum Digital Signature Scheme Based on Supersingular Isogenies.",
+        "authors": [
+          "Youngho Yoo",
+          "Reza Azarderakhsh",
+          "Amir Jalali",
+          "David Jao",
+          "Vladimir Soukharev"
+        ]
+      },
+      {
+        "title": "Optimally Sound Sigma Protocols Under DCRA.",
+        "authors": [
+          "Helger Lipmaa"
+        ]
+      },
+      {
+        "title": "Economically Optimal Variable Tag Length Message Authentication.",
+        "authors": [
+          "Reihaneh Safavi-Naini",
+          "Viliam Lisý",
+          "Yvo Desmedt"
+        ]
+      },
+      {
+        "title": "PEEP: Passively Eavesdropping Private Input via Brainwave Signals.",
+        "authors": [
+          "Ajaya Neupane",
+          "Md. Lutfor Rahman",
+          "Nitesh Saxena"
+        ]
+      },
+      {
+        "title": "Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript.",
+        "authors": [
+          "Michael Schwarz",
+          "Clémentine Maurice",
+          "Daniel Gruss",
+          "Stefan Mangard"
+        ]
+      },
+      {
+        "title": "Attacks on Secure Logging Schemes.",
+        "authors": [
+          "Gunnar Hartung"
+        ]
+      },
+      {
+        "title": "Economy Class Crypto: Exploring Weak Cipher Usage in Avionic Communications via ACARS.",
+        "authors": [
+          "Matthew Smith",
+          "Daniel Moser",
+          "Martin Strohmeier",
+          "Vincent Lenders",
+          "Ivan Martinovic"
+        ]
+      },
+      {
+        "title": "Short Paper: A Longitudinal Study of Financial Apps in the Google Play Store.",
+        "authors": [
+          "Vincent F. Taylor",
+          "Ivan Martinovic"
+        ]
+      },
+      {
+        "title": "Short Paper: Addressing Sophisticated Email Attacks.",
+        "authors": [
+          "Markus Jakobsson"
+        ]
+      },
+      {
+        "title": "Escrow Protocols for Cryptocurrencies: How to Buy Physical Goods Using Bitcoin.",
+        "authors": [
+          "Steven Goldfeder",
+          "Joseph Bonneau",
+          "Rosario Gennaro",
+          "Arvind Narayanan"
+        ]
+      },
+      {
+        "title": "Trust Is Risk: A Decentralized Financial Trust Platform.",
+        "authors": [
+          "Orfeas Stefanos Thyfronitis Litos",
+          "Dionysis Zindros"
+        ]
+      },
+      {
+        "title": "A Smart Contract for Boardroom Voting with Maximum Voter Privacy.",
+        "authors": [
+          "Patrick McCorry",
+          "Siamak F. Shahandashti",
+          "Feng Hao"
+        ]
+      },
+      {
+        "title": "Improving Authenticated Dynamic Dictionaries, with Applications to Cryptocurrencies.",
+        "authors": [
+          "Leonid Reyzin",
+          "Dmitry Meshkov",
+          "Alexander Chepurnoy",
+          "Sasha Ivanov"
+        ]
+      },
+      {
+        "title": "Short Paper: Service-Oriented Sharding for Blockchains.",
+        "authors": [
+          "Adem Efe Gencer",
+          "Robbert van Renesse",
+          "Emin Gün Sirer"
+        ]
+      },
+      {
+        "title": "The Security of NTP's Datagram Protocol.",
+        "authors": [
+          "Aanchal Malhotra",
+          "Matthew Van Gundy",
+          "Mayank Varia",
+          "Haydn Kennedy",
+          "Jonathan Gardner",
+          "Sharon Goldberg"
+        ]
+      },
+      {
+        "title": "Short Paper: On Deployment of DNS-Based Security Enhancements.",
+        "authors": [
+          "Pawel Szalachowski",
+          "Adrian Perrig"
+        ]
+      },
+      {
+        "title": "A Practical Multivariate Blind Signature Scheme.",
+        "authors": [
+          "Albrecht Petzoldt",
+          "Alan Szepieniec",
+          "Mohamed Saied Emam Mohamed"
+        ]
+      },
+      {
+        "title": "Efficient Round-Optimal Blind Signatures in the Standard Model.",
+        "authors": [
+          "Essam Ghadafi"
+        ]
+      },
+      {
+        "title": "Secure Multiparty Computation from SGX.",
+        "authors": [
+          "Raad Bahmani",
+          "Manuel Barbosa",
+          "Ferdinand Brasser",
+          "Bernardo Portela",
+          "Ahmad-Reza Sadeghi",
+          "Guillaume Scerri",
+          "Bogdan Warinschi"
+        ]
+      },
+      {
+        "title": "Efficient No-dictionary Verifiable Searchable Symmetric Encryption.",
+        "authors": [
+          "Wakaha Ogata",
+          "Kaoru Kurosawa"
+        ]
+      },
+      {
+        "title": "Faster Homomorphic Evaluation of Discrete Fourier Transforms.",
+        "authors": [
+          "Anamaria Costache",
+          "Nigel P. Smart",
+          "Srinivas Vivek"
+        ]
+      },
+      {
+        "title": "Short Paper: TLS Ecosystems in Networked Devices vs. Web Servers.",
+        "authors": [
+          "Nayanamana Samarasinghe",
+          "Mohammad Mannan"
+        ]
+      },
+      {
+        "title": "Unilaterally-Authenticated Key Exchange.",
+        "authors": [
+          "Yevgeniy Dodis",
+          "Dario Fiore"
+        ]
+      },
+      {
+        "title": "Formal Modeling and Verification for Domain Validation and ACME.",
+        "authors": [
+          "Karthikeyan Bhargavan",
+          "Antoine Delignat-Lavaud",
+          "Nadim Kobeissi"
+        ]
+      },
+      {
+        "title": "Why Banker Bob (Still) Can't Get TLS Right: A Security Analysis of TLS in Leading UK Banking Apps.",
+        "authors": [
+          "Tom Chothia",
+          "Flavio D. Garcia",
+          "Chris Heppel",
+          "Chris McMahon Stone"
+        ]
+      },
+      {
+        "title": "Lavinia: An Audit-Payment Protocol for Censorship-Resistant Storage.",
+        "authors": [
+          "Cecylia Bocovich",
+          "John A. Doucette",
+          "Ian Goldberg"
+        ]
+      },
+      {
+        "title": "A Simpler Rate-Optimal CPIR Protocol.",
+        "authors": [
+          "Helger Lipmaa",
+          "Kateryna Pavlyk"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fc/fc2016w.html": {
+    "header": "20th Financial Cryptography 2016: Christ Church, Barbados - Workshops",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "Stressing Out: Bitcoin \"Stress Testing\".",
+        "authors": [
+          "Khaled Baqer",
+          "Danny Yuxing Huang",
+          "Damon McCoy",
+          "Nicholas Weaver"
+        ]
+      },
+      {
+        "title": "Why Buy When You Can Rent? - Bribery Attacks on Bitcoin-Style Consensus.",
+        "authors": [
+          "Joseph Bonneau"
+        ]
+      },
+      {
+        "title": "Automated Verification of Electrum Wallet.",
+        "authors": [
+          "Mathieu Turuani",
+          "Thomas Voegtlin",
+          "Michaël Rusinowitch"
+        ]
+      },
+      {
+        "title": "Blindly Signed Contracts: Anonymous On-Blockchain and Off-Blockchain Bitcoin Transactions.",
+        "authors": [
+          "Ethan Heilman",
+          "Foteini Baldimtsi",
+          "Sharon Goldberg"
+        ]
+      },
+      {
+        "title": "Proofs of Proofs of Work with Sublinear Complexity.",
+        "authors": [
+          "Aggelos Kiayias",
+          "Nikolaos Lamprou",
+          "Aikaterini-Panagiota Stouka"
+        ]
+      },
+      {
+        "title": "Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab.",
+        "authors": [
+          "Kevin Delmolino",
+          "Mitchell Arnett",
+          "Ahmed E. Kosba",
+          "Andrew Miller",
+          "Elaine Shi"
+        ]
+      },
+      {
+        "title": "EthIKS: Using Ethereum to Audit a CONIKS Key Transparency Log.",
+        "authors": [
+          "Joseph Bonneau"
+        ]
+      },
+      {
+        "title": "On Scaling Decentralized Blockchains - (A Position Paper).",
+        "authors": [
+          "Kyle Croman",
+          "Christian Decker",
+          "Ittay Eyal",
+          "Adem Efe Gencer",
+          "Ari Juels",
+          "Ahmed E. Kosba",
+          "Andrew Miller",
+          "Prateek Saxena",
+          "Elaine Shi",
+          "Emin Gün Sirer",
+          "Dawn Song",
+          "Roger Wattenhofer"
+        ]
+      },
+      {
+        "title": "Bitcoin Covenants.",
+        "authors": [
+          "Malte Möser",
+          "Ittay Eyal",
+          "Emin Gün Sirer"
+        ]
+      },
+      {
+        "title": "Cryptocurrencies Without Proof of Work.",
+        "authors": [
+          "Iddo Bentov",
+          "Ariel Gabizon",
+          "Alex Mizrahi"
+        ]
+      },
+      {
+        "title": "Coercion-Resistant Internet Voting with Everlasting Privacy.",
+        "authors": [
+          "Philipp Locher",
+          "Rolf Haenni",
+          "Reto E. Koenig"
+        ]
+      },
+      {
+        "title": "Selene: Voting with Transparent Verifiability and Coercion-Mitigation.",
+        "authors": [
+          "Peter Y. A. Ryan",
+          "Peter B. Rønne",
+          "Vincenzo Iovino"
+        ]
+      },
+      {
+        "title": "On the Possibility of Non-interactive E-Voting in the Public-Key Setting.",
+        "authors": [
+          "Rosario Giustolisi",
+          "Vincenzo Iovino",
+          "Peter B. Rønne"
+        ]
+      },
+      {
+        "title": "Efficiency Comparison of Various Approaches in E-Voting Protocols.",
+        "authors": [
+          "Oksana Kulyk",
+          "Melanie Volkamer"
+        ]
+      },
+      {
+        "title": "Remote Electronic Voting Can Be Efficient, Verifiable and Coercion-Resistant.",
+        "authors": [
+          "Roberto Araújo",
+          "Amira Barki",
+          "Solenn Brunet",
+          "Jacques Traoré"
+        ]
+      },
+      {
+        "title": "Universal Cast-as-Intended Verifiability.",
+        "authors": [
+          "Alex Escala",
+          "Sandra Guasch",
+          "Javier Herranz",
+          "Paz Morillo"
+        ]
+      },
+      {
+        "title": "Hiding Access Patterns in Range Queries Using Private Information Retrieval and ORAM.",
+        "authors": [
+          "Gamze Tillem",
+          "Ömer Mert Candan",
+          "Erkay Savas",
+          "Kamer Kaya"
+        ]
+      },
+      {
+        "title": "Optimizing MPC for Robust and Scalable Integer and Floating-Point Arithmetic.",
+        "authors": [
+          "Liisi Kerik",
+          "Peeter Laud",
+          "Jaak Randmets"
+        ]
+      },
+      {
+        "title": "On-the-fly Homomorphic Batching/Unbatching.",
+        "authors": [
+          "Yarkin Doröz",
+          "Gizem S. Çetin",
+          "Berk Sunar"
+        ]
+      },
+      {
+        "title": "Using Intel Software Guard Extensions for Efficient Two-Party Secure Function Evaluation.",
+        "authors": [
+          "Debayan Gupta",
+          "Benjamin Mood",
+          "Joan Feigenbaum",
+          "Kevin R. B. Butler",
+          "Patrick Traynor"
+        ]
+      },
+      {
+        "title": "CallForFire: A Mission-Critical Cloud-Based Application Built Using the Nomad Framework.",
+        "authors": [
+          "Mamadou H. Diallo",
+          "Michael August",
+          "Roger Hallman",
+          "Megan Kline",
+          "Henry Au",
+          "Vic Beach"
+        ]
+      },
+      {
+        "title": "Cryptographic Solutions for Genomic Privacy.",
+        "authors": [
+          "Erman Ayday"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/fc/fc2016.html": {
     "header": "20th Financial Cryptography 2016: Christ Church, Barbados",
     "year": "2016",
@@ -5271,197 +5466,180 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/fc/fc2016w.html": {
-    "header": "20th Financial Cryptography 2016: Christ Church, Barbados - Workshops",
-    "year": "2016",
+  "https://dblp.org/db/conf/fc/fc2015w.html": {
+    "header": "19th Financial Cryptography 2015: San Juan, Puerto Rico - Workshops",
+    "year": "2015",
     "papers": [
       {
-        "title": "Stressing Out: Bitcoin \"Stress Testing\".",
+        "title": "On the Malleability of Bitcoin Transactions.",
         "authors": [
-          "Khaled Baqer",
-          "Danny Yuxing Huang",
-          "Damon McCoy",
-          "Nicholas Weaver"
+          "Marcin Andrychowicz",
+          "Stefan Dziembowski",
+          "Daniel Malinowski",
+          "Lukasz Mazurek"
         ]
       },
       {
-        "title": "Why Buy When You Can Rent? - Bribery Attacks on Bitcoin-Style Consensus.",
-        "authors": [
-          "Joseph Bonneau"
-        ]
-      },
-      {
-        "title": "Automated Verification of Electrum Wallet.",
-        "authors": [
-          "Mathieu Turuani",
-          "Thomas Voegtlin",
-          "Michaël Rusinowitch"
-        ]
-      },
-      {
-        "title": "Blindly Signed Contracts: Anonymous On-Blockchain and Off-Blockchain Bitcoin Transactions.",
-        "authors": [
-          "Ethan Heilman",
-          "Foteini Baldimtsi",
-          "Sharon Goldberg"
-        ]
-      },
-      {
-        "title": "Proofs of Proofs of Work with Sublinear Complexity.",
-        "authors": [
-          "Aggelos Kiayias",
-          "Nikolaos Lamprou",
-          "Aikaterini-Panagiota Stouka"
-        ]
-      },
-      {
-        "title": "Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab.",
-        "authors": [
-          "Kevin Delmolino",
-          "Mitchell Arnett",
-          "Ahmed E. Kosba",
-          "Andrew Miller",
-          "Elaine Shi"
-        ]
-      },
-      {
-        "title": "EthIKS: Using Ethereum to Audit a CONIKS Key Transparency Log.",
-        "authors": [
-          "Joseph Bonneau"
-        ]
-      },
-      {
-        "title": "On Scaling Decentralized Blockchains - (A Position Paper).",
-        "authors": [
-          "Kyle Croman",
-          "Christian Decker",
-          "Ittay Eyal",
-          "Adem Efe Gencer",
-          "Ari Juels",
-          "Ahmed E. Kosba",
-          "Andrew Miller",
-          "Prateek Saxena",
-          "Elaine Shi",
-          "Emin Gün Sirer",
-          "Dawn Song",
-          "Roger Wattenhofer"
-        ]
-      },
-      {
-        "title": "Bitcoin Covenants.",
+        "title": "Trends, Tips, Tolls: A Longitudinal Study of Bitcoin Transaction Fees.",
         "authors": [
           "Malte Möser",
-          "Ittay Eyal",
-          "Emin Gün Sirer"
+          "Rainer Böhme"
         ]
       },
       {
-        "title": "Cryptocurrencies Without Proof of Work.",
+        "title": "ZombieCoin: Powering Next-Generation Botnets with Bitcoin.",
         "authors": [
-          "Iddo Bentov",
-          "Ariel Gabizon",
-          "Alex Mizrahi"
+          "Syed Taha Ali",
+          "Patrick McCorry",
+          "Peter Hyun-Jeen Lee",
+          "Feng Hao"
         ]
       },
       {
-        "title": "Coercion-Resistant Internet Voting with Everlasting Privacy.",
+        "title": "Cuckoo Cycle: A Memory Bound Graph-Theoretic Proof-of-Work.",
         "authors": [
-          "Philipp Locher",
-          "Rolf Haenni",
-          "Reto E. Koenig"
+          "John Tromp"
         ]
       },
       {
-        "title": "Selene: Voting with Transparent Verifiability and Coercion-Mitigation.",
+        "title": "When Bitcoin Mining Pools Run Dry - A Game-Theoretic Analysis of the Long-Term Impact of Attacks Between Mining Pools.",
         "authors": [
-          "Peter Y. A. Ryan",
-          "Peter B. Rønne",
-          "Vincenzo Iovino"
+          "Aron Laszka",
+          "Benjamin Johnson",
+          "Jens Grossklags"
         ]
       },
       {
-        "title": "On the Possibility of Non-interactive E-Voting in the Public-Key Setting.",
+        "title": "Issues in Designing a Bitcoin-like Community Currency.",
         "authors": [
-          "Rosario Giustolisi",
-          "Vincenzo Iovino",
-          "Peter B. Rønne"
+          "David Vandervort",
+          "Dale E. Gaucas",
+          "Robert St. Jacques"
         ]
       },
       {
-        "title": "Efficiency Comparison of Various Approaches in E-Voting Protocols.",
+        "title": "The Bitcoin Market Potential Index.",
         "authors": [
-          "Oksana Kulyk",
-          "Melanie Volkamer"
+          "Garrick Hileman"
         ]
       },
       {
-        "title": "Remote Electronic Voting Can Be Efficient, Verifiable and Coercion-Resistant.",
+        "title": "Cryptographic Currencies from a Tech-Policy Perspective: Policy Issues and Technical Directions.",
         "authors": [
-          "Roberto Araújo",
-          "Amira Barki",
-          "Solenn Brunet",
-          "Jacques Traoré"
+          "Emily McReynolds",
+          "Adam Lerner",
+          "Will Scott",
+          "Franziska Roesner",
+          "Tadayoshi Kohno"
         ]
       },
       {
-        "title": "Universal Cast-as-Intended Verifiability.",
+        "title": "Blindcoin: Blinded, Accountable Mixes for Bitcoin.",
         "authors": [
-          "Alex Escala",
-          "Sandra Guasch",
-          "Javier Herranz",
-          "Paz Morillo"
+          "Luke Valenta",
+          "Brendan Rowan"
         ]
       },
       {
-        "title": "Hiding Access Patterns in Range Queries Using Private Information Retrieval and ORAM.",
+        "title": "Privacy-Enhancing Overlays in Bitcoin.",
         "authors": [
-          "Gamze Tillem",
-          "Ömer Mert Candan",
-          "Erkay Savas",
-          "Kamer Kaya"
+          "Sarah Meiklejohn",
+          "Claudio Orlandi"
         ]
       },
       {
-        "title": "Optimizing MPC for Robust and Scalable Integer and Floating-Point Arithmetic.",
+        "title": "Search-and-Compute on Encrypted Data.",
         "authors": [
-          "Liisi Kerik",
-          "Peeter Laud",
-          "Jaak Randmets"
+          "Jung Hee Cheon",
+          "Miran Kim",
+          "Myungsun Kim"
         ]
       },
       {
-        "title": "On-the-fly Homomorphic Batching/Unbatching.",
+        "title": "Accelerating SWHE Based PIRs Using GPUs.",
         "authors": [
+          "Wei Dai",
           "Yarkin Doröz",
-          "Gizem S. Çetin",
           "Berk Sunar"
         ]
       },
       {
-        "title": "Using Intel Software Guard Extensions for Efficient Two-Party Secure Function Evaluation.",
+        "title": "Combining Secret Sharing and Garbled Circuits for Efficient Private IEEE 754 Floating-Point Computations.",
         "authors": [
-          "Debayan Gupta",
-          "Benjamin Mood",
-          "Joan Feigenbaum",
-          "Kevin R. B. Butler",
-          "Patrick Traynor"
+          "Pille Pullonen",
+          "Sander Siim"
         ]
       },
       {
-        "title": "CallForFire: A Mission-Critical Cloud-Based Application Built Using the Nomad Framework.",
+        "title": "Cryptanalysis of a (Somewhat) Additively Homomorphic Encryption Scheme Used in PIR.",
         "authors": [
-          "Mamadou H. Diallo",
-          "Michael August",
-          "Roger Hallman",
-          "Megan Kline",
-          "Henry Au",
-          "Vic Beach"
+          "Tancrède Lepoint",
+          "Mehdi Tibouchi"
         ]
       },
       {
-        "title": "Cryptographic Solutions for Genomic Privacy.",
+        "title": "Homomorphic Computation of Edit Distance.",
         "authors": [
-          "Erman Ayday"
+          "Jung Hee Cheon",
+          "Miran Kim",
+          "Kristin E. Lauter"
+        ]
+      },
+      {
+        "title": "HEtest: A Homomorphic Encryption Testing Framework.",
+        "authors": [
+          "Mayank Varia",
+          "Sophia Yakoubov",
+          "Yang Yang"
+        ]
+      },
+      {
+        "title": "Users' Privacy Concerns About Wearables - Impact of Form Factor, Sensors and Type of Data Collected.",
+        "authors": [
+          "Vivian Genaro Motti",
+          "Kelly Caine"
+        ]
+      },
+      {
+        "title": "On Vulnerabilities of the Security Association in the IEEE 802.15.6 Standard.",
+        "authors": [
+          "Mohsen Toorani"
+        ]
+      },
+      {
+        "title": "Visual Cryptography and Obfuscation: A Use-Case for Decrypting and Deobfuscating Information Using Augmented Reality.",
+        "authors": [
+          "Patrik Lantz",
+          "Björn Johansson",
+          "Martin Hell",
+          "Ben J. M. Smeets"
+        ]
+      },
+      {
+        "title": "Ok Glass, Leave Me Alone: Towards a Systematization of Privacy Enhancing Technologies for Wearable Computing.",
+        "authors": [
+          "Katharina Krombholz",
+          "Adrian Dabrowski",
+          "Matthew Smith",
+          "Edgar R. Weippl"
+        ]
+      },
+      {
+        "title": "Design and Analysis of Shoulder Surfing Resistant PIN Based Authentication Mechanisms on Google Glass.",
+        "authors": [
+          "Dhruv Kumar Yadav",
+          "Beatrice Ionascu",
+          "Sai Vamsi Krishna Ongole",
+          "Aditi Roy",
+          "Nasir D. Memon"
+        ]
+      },
+      {
+        "title": "Glass OTP: Secure and Convenient User Authentication on Google Glass.",
+        "authors": [
+          "Pan Chan",
+          "Tzipora Halevi",
+          "Nasir D. Memon"
         ]
       }
     ]
@@ -5745,12 +5923,66 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/fc/fc2015w.html": {
-    "header": "19th Financial Cryptography 2015: San Juan, Puerto Rico - Workshops",
-    "year": "2015",
+  "https://dblp.org/db/conf/fc/fc2014w.html": {
+    "header": "18th Financial Cryptography 2014: Christ Church, Barbados - Workshops",
+    "year": "2014",
     "papers": [
       {
-        "title": "On the Malleability of Bitcoin Transactions.",
+        "title": "How Did Dread Pirate Roberts Acquire and Protect his Bitcoin Wealth?",
+        "authors": [
+          "Dorit Ron",
+          "Adi Shamir"
+        ]
+      },
+      {
+        "title": "Towards Risk Scoring of Bitcoin Transactions.",
+        "authors": [
+          "Malte Möser",
+          "Rainer Böhme",
+          "Dominic Breuker"
+        ]
+      },
+      {
+        "title": "Challenges and Opportunities Associated with a Bitcoin-Based Transaction Rating System.",
+        "authors": [
+          "David Vandervort"
+        ]
+      },
+      {
+        "title": "Bitcoin: A First Legal Analysis - With Reference to German and US-American Law.",
+        "authors": [
+          "Franziska Boehm",
+          "Paulina Pesch"
+        ]
+      },
+      {
+        "title": "Empirical Analysis of Denial-of-Service Attacks in the Bitcoin Ecosystem.",
+        "authors": [
+          "Marie Vasek",
+          "Micah Thornton",
+          "Tyler Moore"
+        ]
+      },
+      {
+        "title": "Game-Theoretic Analysis of DDoS Attacks Against Bitcoin Mining Pools.",
+        "authors": [
+          "Benjamin Johnson",
+          "Aron Laszka",
+          "Jens Grossklags",
+          "Marie Vasek",
+          "Tyler Moore"
+        ]
+      },
+      {
+        "title": "The Bitcoin P2P Network.",
+        "authors": [
+          "Joan Antoni Donet Donet",
+          "Cristina Pérez-Solà",
+          "Jordi Herrera-Joancomartí"
+        ]
+      },
+      {
+        "title": "Fair Two-Party Computations via Bitcoin Deposits.",
         "authors": [
           "Marcin Andrychowicz",
           "Stefan Dziembowski",
@@ -5759,166 +5991,92 @@
         ]
       },
       {
-        "title": "Trends, Tips, Tolls: A Longitudinal Study of Bitcoin Transaction Fees.",
+        "title": "Increasing Anonymity in Bitcoin.",
         "authors": [
-          "Malte Möser",
-          "Rainer Böhme"
+          "Amitabh Saxena",
+          "Janardan Misra",
+          "Aritra Dhar"
         ]
       },
       {
-        "title": "ZombieCoin: Powering Next-Generation Botnets with Bitcoin.",
+        "title": "Rational Zero: Economic Security for Zerocoin with Everlasting Anonymity.",
         "authors": [
-          "Syed Taha Ali",
-          "Patrick McCorry",
-          "Peter Hyun-Jeen Lee",
-          "Feng Hao"
+          "Christina Garman",
+          "Matthew Green",
+          "Ian Miers",
+          "Aviel D. Rubin"
         ]
       },
       {
-        "title": "Cuckoo Cycle: A Memory Bound Graph-Theoretic Proof-of-Work.",
+        "title": "On Offline Payments with Bitcoin (Poster Abstract).",
         "authors": [
-          "John Tromp"
+          "Alexandra Dmitrienko",
+          "David Noack",
+          "Ahmad-Reza Sadeghi",
+          "Moti Yung"
         ]
       },
       {
-        "title": "When Bitcoin Mining Pools Run Dry - A Game-Theoretic Analysis of the Long-Term Impact of Attacks Between Mining Pools.",
+        "title": "One Weird Trick to Stop Selfish Miners: Fresh Bitcoins, A Solution for the Honest Miner (Poster Abstract).",
         "authors": [
-          "Aron Laszka",
-          "Benjamin Johnson",
-          "Jens Grossklags"
+          "Ethan Heilman"
         ]
       },
       {
-        "title": "Issues in Designing a Bitcoin-like Community Currency.",
-        "authors": [
-          "David Vandervort",
-          "Dale E. Gaucas",
-          "Robert St. Jacques"
-        ]
-      },
-      {
-        "title": "The Bitcoin Market Potential Index.",
+        "title": "From Bitcoin to the Brixton Pound: History and Prospects for Alternative Currencies (Poster Abstract).",
         "authors": [
           "Garrick Hileman"
         ]
       },
       {
-        "title": "Cryptographic Currencies from a Tech-Policy Perspective: Policy Issues and Technical Directions.",
+        "title": "High-Speed Fully Homomorphic Encryption Over the Integers.",
         "authors": [
-          "Emily McReynolds",
-          "Adam Lerner",
-          "Will Scott",
-          "Franziska Roesner",
-          "Tadayoshi Kohno"
+          "Xiaolin Cao",
+          "Ciara Moore",
+          "Máire O'Neill",
+          "Neil Hanley",
+          "Elizabeth O'Sullivan"
         ]
       },
       {
-        "title": "Blindcoin: Blinded, Accountable Mixes for Bitcoin.",
+        "title": "Practical and Privacy-Preserving Policy Compliance for Outsourced Data.",
         "authors": [
-          "Luke Valenta",
-          "Brendan Rowan"
+          "Giovanni Di Crescenzo",
+          "Joan Feigenbaum",
+          "Debayan Gupta",
+          "Euthimios Panagos",
+          "Jason Perry",
+          "Rebecca N. Wright"
         ]
       },
       {
-        "title": "Privacy-Enhancing Overlays in Bitcoin.",
+        "title": "Bandwidth Efficient PIR from NTRU.",
         "authors": [
-          "Sarah Meiklejohn",
-          "Claudio Orlandi"
-        ]
-      },
-      {
-        "title": "Search-and-Compute on Encrypted Data.",
-        "authors": [
-          "Jung Hee Cheon",
-          "Miran Kim",
-          "Myungsun Kim"
-        ]
-      },
-      {
-        "title": "Accelerating SWHE Based PIRs Using GPUs.",
-        "authors": [
-          "Wei Dai",
           "Yarkin Doröz",
+          "Berk Sunar",
+          "Ghaith Hammouri"
+        ]
+      },
+      {
+        "title": "Toward Practical Homomorphic Evaluation of Block Ciphers Using Prince.",
+        "authors": [
+          "Yarkin Doröz",
+          "Aria Shahverdi",
+          "Thomas Eisenbarth",
           "Berk Sunar"
         ]
       },
       {
-        "title": "Combining Secret Sharing and Garbled Circuits for Efficient Private IEEE 754 Floating-Point Computations.",
+        "title": "A Scalable Implementation of Fully Homomorphic Encryption Built on NTRU.",
         "authors": [
-          "Pille Pullonen",
-          "Sander Siim"
+          "Kurt Rohloff",
+          "David Bruce Cousins"
         ]
       },
       {
-        "title": "Cryptanalysis of a (Somewhat) Additively Homomorphic Encryption Scheme Used in PIR.",
+        "title": "Restructuring the NSA Metadata Program.",
         "authors": [
-          "Tancrède Lepoint",
-          "Mehdi Tibouchi"
-        ]
-      },
-      {
-        "title": "Homomorphic Computation of Edit Distance.",
-        "authors": [
-          "Jung Hee Cheon",
-          "Miran Kim",
-          "Kristin E. Lauter"
-        ]
-      },
-      {
-        "title": "HEtest: A Homomorphic Encryption Testing Framework.",
-        "authors": [
-          "Mayank Varia",
-          "Sophia Yakoubov",
-          "Yang Yang"
-        ]
-      },
-      {
-        "title": "Users' Privacy Concerns About Wearables - Impact of Form Factor, Sensors and Type of Data Collected.",
-        "authors": [
-          "Vivian Genaro Motti",
-          "Kelly Caine"
-        ]
-      },
-      {
-        "title": "On Vulnerabilities of the Security Association in the IEEE 802.15.6 Standard.",
-        "authors": [
-          "Mohsen Toorani"
-        ]
-      },
-      {
-        "title": "Visual Cryptography and Obfuscation: A Use-Case for Decrypting and Deobfuscating Information Using Augmented Reality.",
-        "authors": [
-          "Patrik Lantz",
-          "Björn Johansson",
-          "Martin Hell",
-          "Ben J. M. Smeets"
-        ]
-      },
-      {
-        "title": "Ok Glass, Leave Me Alone: Towards a Systematization of Privacy Enhancing Technologies for Wearable Computing.",
-        "authors": [
-          "Katharina Krombholz",
-          "Adrian Dabrowski",
-          "Matthew Smith",
-          "Edgar R. Weippl"
-        ]
-      },
-      {
-        "title": "Design and Analysis of Shoulder Surfing Resistant PIN Based Authentication Mechanisms on Google Glass.",
-        "authors": [
-          "Dhruv Kumar Yadav",
-          "Beatrice Ionascu",
-          "Sai Vamsi Krishna Ongole",
-          "Aditi Roy",
-          "Nasir D. Memon"
-        ]
-      },
-      {
-        "title": "Glass OTP: Secure and Convenient User Authentication on Google Glass.",
-        "authors": [
-          "Pan Chan",
-          "Tzipora Halevi",
-          "Nasir D. Memon"
+          "Seny Kamara"
         ]
       }
     ]
@@ -6179,164 +6337,6 @@
           "Jeremy Clark",
           "Joshua A. Kroll",
           "Edward W. Felten"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/fc/fc2014w.html": {
-    "header": "18th Financial Cryptography 2014: Christ Church, Barbados - Workshops",
-    "year": "2014",
-    "papers": [
-      {
-        "title": "How Did Dread Pirate Roberts Acquire and Protect his Bitcoin Wealth?",
-        "authors": [
-          "Dorit Ron",
-          "Adi Shamir"
-        ]
-      },
-      {
-        "title": "Towards Risk Scoring of Bitcoin Transactions.",
-        "authors": [
-          "Malte Möser",
-          "Rainer Böhme",
-          "Dominic Breuker"
-        ]
-      },
-      {
-        "title": "Challenges and Opportunities Associated with a Bitcoin-Based Transaction Rating System.",
-        "authors": [
-          "David Vandervort"
-        ]
-      },
-      {
-        "title": "Bitcoin: A First Legal Analysis - With Reference to German and US-American Law.",
-        "authors": [
-          "Franziska Boehm",
-          "Paulina Pesch"
-        ]
-      },
-      {
-        "title": "Empirical Analysis of Denial-of-Service Attacks in the Bitcoin Ecosystem.",
-        "authors": [
-          "Marie Vasek",
-          "Micah Thornton",
-          "Tyler Moore"
-        ]
-      },
-      {
-        "title": "Game-Theoretic Analysis of DDoS Attacks Against Bitcoin Mining Pools.",
-        "authors": [
-          "Benjamin Johnson",
-          "Aron Laszka",
-          "Jens Grossklags",
-          "Marie Vasek",
-          "Tyler Moore"
-        ]
-      },
-      {
-        "title": "The Bitcoin P2P Network.",
-        "authors": [
-          "Joan Antoni Donet Donet",
-          "Cristina Pérez-Solà",
-          "Jordi Herrera-Joancomartí"
-        ]
-      },
-      {
-        "title": "Fair Two-Party Computations via Bitcoin Deposits.",
-        "authors": [
-          "Marcin Andrychowicz",
-          "Stefan Dziembowski",
-          "Daniel Malinowski",
-          "Lukasz Mazurek"
-        ]
-      },
-      {
-        "title": "Increasing Anonymity in Bitcoin.",
-        "authors": [
-          "Amitabh Saxena",
-          "Janardan Misra",
-          "Aritra Dhar"
-        ]
-      },
-      {
-        "title": "Rational Zero: Economic Security for Zerocoin with Everlasting Anonymity.",
-        "authors": [
-          "Christina Garman",
-          "Matthew Green",
-          "Ian Miers",
-          "Aviel D. Rubin"
-        ]
-      },
-      {
-        "title": "On Offline Payments with Bitcoin (Poster Abstract).",
-        "authors": [
-          "Alexandra Dmitrienko",
-          "David Noack",
-          "Ahmad-Reza Sadeghi",
-          "Moti Yung"
-        ]
-      },
-      {
-        "title": "One Weird Trick to Stop Selfish Miners: Fresh Bitcoins, A Solution for the Honest Miner (Poster Abstract).",
-        "authors": [
-          "Ethan Heilman"
-        ]
-      },
-      {
-        "title": "From Bitcoin to the Brixton Pound: History and Prospects for Alternative Currencies (Poster Abstract).",
-        "authors": [
-          "Garrick Hileman"
-        ]
-      },
-      {
-        "title": "High-Speed Fully Homomorphic Encryption Over the Integers.",
-        "authors": [
-          "Xiaolin Cao",
-          "Ciara Moore",
-          "Máire O'Neill",
-          "Neil Hanley",
-          "Elizabeth O'Sullivan"
-        ]
-      },
-      {
-        "title": "Practical and Privacy-Preserving Policy Compliance for Outsourced Data.",
-        "authors": [
-          "Giovanni Di Crescenzo",
-          "Joan Feigenbaum",
-          "Debayan Gupta",
-          "Euthimios Panagos",
-          "Jason Perry",
-          "Rebecca N. Wright"
-        ]
-      },
-      {
-        "title": "Bandwidth Efficient PIR from NTRU.",
-        "authors": [
-          "Yarkin Doröz",
-          "Berk Sunar",
-          "Ghaith Hammouri"
-        ]
-      },
-      {
-        "title": "Toward Practical Homomorphic Evaluation of Block Ciphers Using Prince.",
-        "authors": [
-          "Yarkin Doröz",
-          "Aria Shahverdi",
-          "Thomas Eisenbarth",
-          "Berk Sunar"
-        ]
-      },
-      {
-        "title": "A Scalable Implementation of Fully Homomorphic Encryption Built on NTRU.",
-        "authors": [
-          "Kurt Rohloff",
-          "David Bruce Cousins"
-        ]
-      },
-      {
-        "title": "Restructuring the NSA Metadata Program.",
-        "authors": [
-          "Seny Kamara"
         ]
       }
     ]

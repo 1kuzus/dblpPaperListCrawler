@@ -1447,6 +1447,97 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/srds/srds2019w.html": {
+    "header": "38th SRDS 2019: Lyon, France - Workshops",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "On the Impact of log Compaction on Incrementally Checkpointing Stateful Stream-Processing Operators.",
+        "authors": [
+          "Aris Chronarakis",
+          "Antonis Papaioannou",
+          "Kostas Magoutis"
+        ]
+      },
+      {
+        "title": "A Case for Dynamically Programmable Storage Background Tasks.",
+        "authors": [
+          "Ricardo Macedo",
+          "Alberto Faria",
+          "João Paulo",
+          "José Pereira"
+        ]
+      },
+      {
+        "title": "A Comprehensive Rearranging Priority Based Method To Accelerate the Reconstruction of RAID Arrays.",
+        "authors": [
+          "Xin Xie",
+          "Chentao Wu",
+          "Chao Li",
+          "Jie Li",
+          "Minyi Guo",
+          "Fang Xu"
+        ]
+      },
+      {
+        "title": "Enabling the Efficient, Dependable Cloud-Based Storage of Human Genomes.",
+        "authors": [
+          "Vinicius Vielmo Cogo",
+          "Alysson Bessani"
+        ]
+      },
+      {
+        "title": "TrustFS: An SGX-Enabled Stackable File System Framework.",
+        "authors": [
+          "Tânia Esteves",
+          "Ricardo Macedo",
+          "Alberto Faria",
+          "Bernardo Portela",
+          "João Paulo",
+          "José Pereira",
+          "Danny Harnik"
+        ]
+      },
+      {
+        "title": "A Cost-Effective Cloud Event Archival for SIEMs.",
+        "authors": [
+          "Adriano Serckumecka",
+          "Ibéria Medeiros",
+          "Bernardo Ferreira"
+        ]
+      },
+      {
+        "title": "Evaluation and Ranking of Replica Deployments in Geographic State Machine Replication.",
+        "authors": [
+          "Shota Numakura",
+          "Junya Nakamura",
+          "Ren Ohmura"
+        ]
+      },
+      {
+        "title": "Pooled Mining is Driving Blockchains Toward Centralized Systems.",
+        "authors": [
+          "Liuyang Ren",
+          "Paul A. S. Ward"
+        ]
+      },
+      {
+        "title": "Forkmon: Monitoring the Networks Supporting Bitcoin Hard Forks.",
+        "authors": [
+          "Thiago Luiz Gontijo de Almeida",
+          "Pierre François",
+          "Stéphane Frénot"
+        ]
+      },
+      {
+        "title": "Towards A Unified Programming Model for Blockchain Smart Contract dApp Systems.",
+        "authors": [
+          "Joshua Ellul",
+          "Gordon J. Pace"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/srds/srds2019.html": {
     "header": "38th SRDS 2019: Lyon, France",
     "year": "2019",
@@ -1872,97 +1963,6 @@
         "title": "Making Federated Networks More Distributed.",
         "authors": [
           "Alex Auvolat"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/srds/srds2019w.html": {
-    "header": "38th SRDS 2019: Lyon, France - Workshops",
-    "year": "2019",
-    "papers": [
-      {
-        "title": "On the Impact of log Compaction on Incrementally Checkpointing Stateful Stream-Processing Operators.",
-        "authors": [
-          "Aris Chronarakis",
-          "Antonis Papaioannou",
-          "Kostas Magoutis"
-        ]
-      },
-      {
-        "title": "A Case for Dynamically Programmable Storage Background Tasks.",
-        "authors": [
-          "Ricardo Macedo",
-          "Alberto Faria",
-          "João Paulo",
-          "José Pereira"
-        ]
-      },
-      {
-        "title": "A Comprehensive Rearranging Priority Based Method To Accelerate the Reconstruction of RAID Arrays.",
-        "authors": [
-          "Xin Xie",
-          "Chentao Wu",
-          "Chao Li",
-          "Jie Li",
-          "Minyi Guo",
-          "Fang Xu"
-        ]
-      },
-      {
-        "title": "Enabling the Efficient, Dependable Cloud-Based Storage of Human Genomes.",
-        "authors": [
-          "Vinicius Vielmo Cogo",
-          "Alysson Bessani"
-        ]
-      },
-      {
-        "title": "TrustFS: An SGX-Enabled Stackable File System Framework.",
-        "authors": [
-          "Tânia Esteves",
-          "Ricardo Macedo",
-          "Alberto Faria",
-          "Bernardo Portela",
-          "João Paulo",
-          "José Pereira",
-          "Danny Harnik"
-        ]
-      },
-      {
-        "title": "A Cost-Effective Cloud Event Archival for SIEMs.",
-        "authors": [
-          "Adriano Serckumecka",
-          "Ibéria Medeiros",
-          "Bernardo Ferreira"
-        ]
-      },
-      {
-        "title": "Evaluation and Ranking of Replica Deployments in Geographic State Machine Replication.",
-        "authors": [
-          "Shota Numakura",
-          "Junya Nakamura",
-          "Ren Ohmura"
-        ]
-      },
-      {
-        "title": "Pooled Mining is Driving Blockchains Toward Centralized Systems.",
-        "authors": [
-          "Liuyang Ren",
-          "Paul A. S. Ward"
-        ]
-      },
-      {
-        "title": "Forkmon: Monitoring the Networks Supporting Bitcoin Hard Forks.",
-        "authors": [
-          "Thiago Luiz Gontijo de Almeida",
-          "Pierre François",
-          "Stéphane Frénot"
-        ]
-      },
-      {
-        "title": "Towards A Unified Programming Model for Blockchain Smart Contract dApp Systems.",
-        "authors": [
-          "Joshua Ellul",
-          "Gordon J. Pace"
         ]
       }
     ]
@@ -2565,6 +2565,116 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/srds/srds2016w.html": {
+    "header": "35. SRDS 2016: Budapest, Hungary - Workshops",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "sKnock: Port-Knocking for Masses.",
+        "authors": [
+          "Daniel Sel",
+          "Sree Harsha Totakura",
+          "Georg Carle"
+        ]
+      },
+      {
+        "title": "Toward Access Control Model for Context-Aware Services Offloaded to Cloud Computing.",
+        "authors": [
+          "Ichiro Satoh"
+        ]
+      },
+      {
+        "title": "Comfort and Security Perception of Biometrics in Mobile Phones with Widespread Sensors.",
+        "authors": [
+          "Javier Guerra Casanova",
+          "Belén Ríos-Sánchez",
+          "Miguel Viana-Matesanz",
+          "Gonzalo Bailador",
+          "Carmen Sanchez-Avila",
+          "Maria Jose Melcon De Giles"
+        ]
+      },
+      {
+        "title": "A Configurable Multibiometric System for Authentication at Different Security Levels Using Mobile Devices.",
+        "authors": [
+          "Belén Ríos-Sánchez",
+          "Miguel Viana-Matesanz",
+          "Carmen Sanchez-Avila",
+          "Maria Jose Melcon De Giles"
+        ]
+      },
+      {
+        "title": "BioALeg - Enabling Biometric Authentication in Legacy Web Sites.",
+        "authors": [
+          "Sharareh Monfared",
+          "Daniel Andrade",
+          "Luís E. T. Rodrigues",
+          "João Nuno Silva"
+        ]
+      },
+      {
+        "title": "SafeRegions: Performance Evaluation of Multi-party Protocols on HBase.",
+        "authors": [
+          "Rogerio Pontes",
+          "Francisco Maia",
+          "João Paulo",
+          "Ricardo Manuel Pereira Vilaça"
+        ]
+      },
+      {
+        "title": "ARM TrustZone for Secure Image Processing on the Cloud.",
+        "authors": [
+          "Tiago Brito",
+          "Nuno O. Duarte",
+          "Nuno Santos"
+        ]
+      },
+      {
+        "title": "Thwarting Data Exfiltration by Repackaged Applications.",
+        "authors": [
+          "Daniel Andrade",
+          "Thor Kristoffersen",
+          "Ivar Rummelhoff",
+          "Alex Gerdov",
+          "João Nuno Silva"
+        ]
+      },
+      {
+        "title": "Emusphere: Evaluating Planetary-Scale Distributed Systems in Automated Emulation Environments.",
+        "authors": [
+          "Johannes Köstler",
+          "Jan Seidemann",
+          "Hans P. Reiser"
+        ]
+      },
+      {
+        "title": "Have a Seat on the ErasureBench: Easy Evaluation of Erasure Coding Libraries for Distributed Storage Systems.",
+        "authors": [
+          "Sébastien Vaucher",
+          "Hugues Mercier",
+          "Valerio Schiavoni"
+        ]
+      },
+      {
+        "title": "Adaptive IP Mutation: A Proactive Approach for Defending against Worm Propagation.",
+        "authors": [
+          "Chang-Ting Lin",
+          "Chunming Wu",
+          "Min Huang",
+          "Zhenyu Wen",
+          "Qiumei Cheng"
+        ]
+      },
+      {
+        "title": "The Convoy Effect in Atomic Multicast.",
+        "authors": [
+          "Tarek Ahmed-Nacer",
+          "Pierre Sutra",
+          "Denis Conan"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/srds/srds2016.html": {
     "header": "35. SRDS 2016: Budapest, Hungary",
     "year": "2016",
@@ -2918,116 +3028,6 @@
           "Kurt Schwenk",
           "Daniel Lüdtke",
           "Andreas Gerndt"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/srds/srds2016w.html": {
-    "header": "35. SRDS 2016: Budapest, Hungary - Workshops",
-    "year": "2016",
-    "papers": [
-      {
-        "title": "sKnock: Port-Knocking for Masses.",
-        "authors": [
-          "Daniel Sel",
-          "Sree Harsha Totakura",
-          "Georg Carle"
-        ]
-      },
-      {
-        "title": "Toward Access Control Model for Context-Aware Services Offloaded to Cloud Computing.",
-        "authors": [
-          "Ichiro Satoh"
-        ]
-      },
-      {
-        "title": "Comfort and Security Perception of Biometrics in Mobile Phones with Widespread Sensors.",
-        "authors": [
-          "Javier Guerra Casanova",
-          "Belén Ríos-Sánchez",
-          "Miguel Viana-Matesanz",
-          "Gonzalo Bailador",
-          "Carmen Sanchez-Avila",
-          "Maria Jose Melcon De Giles"
-        ]
-      },
-      {
-        "title": "A Configurable Multibiometric System for Authentication at Different Security Levels Using Mobile Devices.",
-        "authors": [
-          "Belén Ríos-Sánchez",
-          "Miguel Viana-Matesanz",
-          "Carmen Sanchez-Avila",
-          "Maria Jose Melcon De Giles"
-        ]
-      },
-      {
-        "title": "BioALeg - Enabling Biometric Authentication in Legacy Web Sites.",
-        "authors": [
-          "Sharareh Monfared",
-          "Daniel Andrade",
-          "Luís E. T. Rodrigues",
-          "João Nuno Silva"
-        ]
-      },
-      {
-        "title": "SafeRegions: Performance Evaluation of Multi-party Protocols on HBase.",
-        "authors": [
-          "Rogerio Pontes",
-          "Francisco Maia",
-          "João Paulo",
-          "Ricardo Manuel Pereira Vilaça"
-        ]
-      },
-      {
-        "title": "ARM TrustZone for Secure Image Processing on the Cloud.",
-        "authors": [
-          "Tiago Brito",
-          "Nuno O. Duarte",
-          "Nuno Santos"
-        ]
-      },
-      {
-        "title": "Thwarting Data Exfiltration by Repackaged Applications.",
-        "authors": [
-          "Daniel Andrade",
-          "Thor Kristoffersen",
-          "Ivar Rummelhoff",
-          "Alex Gerdov",
-          "João Nuno Silva"
-        ]
-      },
-      {
-        "title": "Emusphere: Evaluating Planetary-Scale Distributed Systems in Automated Emulation Environments.",
-        "authors": [
-          "Johannes Köstler",
-          "Jan Seidemann",
-          "Hans P. Reiser"
-        ]
-      },
-      {
-        "title": "Have a Seat on the ErasureBench: Easy Evaluation of Erasure Coding Libraries for Distributed Storage Systems.",
-        "authors": [
-          "Sébastien Vaucher",
-          "Hugues Mercier",
-          "Valerio Schiavoni"
-        ]
-      },
-      {
-        "title": "Adaptive IP Mutation: A Proactive Approach for Defending against Worm Propagation.",
-        "authors": [
-          "Chang-Ting Lin",
-          "Chunming Wu",
-          "Min Huang",
-          "Zhenyu Wen",
-          "Qiumei Cheng"
-        ]
-      },
-      {
-        "title": "The Convoy Effect in Atomic Multicast.",
-        "authors": [
-          "Tarek Ahmed-Nacer",
-          "Pierre Sutra",
-          "Denis Conan"
         ]
       }
     ]

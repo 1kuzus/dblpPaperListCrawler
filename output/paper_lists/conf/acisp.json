@@ -1,4 +1,268 @@
 {
+  "https://dblp.org/db/conf/acisp/acisp2025-3.html": {
+    "header": "30th ACISP 2025: Wollongong, NSW, Australia - Part III",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Comparing and Improving Frequency Estimation Perturbation Mechanisms Under Local Differential Privacy.",
+        "authors": [
+          "She Sun",
+          "Jiafei Wu",
+          "Jian Yang",
+          "Li Zhou",
+          "Huiwen Wu"
+        ]
+      },
+      {
+        "title": "Strong Federated Authentication With Password-Based Credential Against Identity Server Corruption.",
+        "authors": [
+          "Changsong Jiang",
+          "Chunxiang Xu",
+          "Guomin Yang",
+          "Li Duan",
+          "Jing Wang"
+        ]
+      },
+      {
+        "title": "Anonymous Credentials with Credential Redaction and Its Application to SSI-Based Plug&Charge for Shared Vehicles.",
+        "authors": [
+          "Kyosuke Hatsugai",
+          "Kyoichi Asano",
+          "Yuki Sawai",
+          "Yohei Watanabe",
+          "Mitsugu Iwamoto"
+        ]
+      },
+      {
+        "title": "Direction-Oriented Smooth Sensitivity and Its Application to Genomic Statistical Analysis.",
+        "authors": [
+          "Akito Yamamoto",
+          "Tetsuo Shibuya"
+        ]
+      },
+      {
+        "title": "Sentence Embedding Generation Method for Differential Privacy Protection.",
+        "authors": [
+          "Yangyang Liu",
+          "Wanqi Wang",
+          "Jingyu Hua"
+        ]
+      },
+      {
+        "title": "KD-IBMRKE-PPFL: A Privacy-Preserving Federated Learning Framework Integrating Knowledge Distillation and Identity-Based Multi-receiver Key Encapsulation.",
+        "authors": [
+          "Yuan Li",
+          "Changji Wang",
+          "Shiwen Hu"
+        ]
+      },
+      {
+        "title": "Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning.",
+        "authors": [
+          "Sheldon C. Ebron Jr.",
+          "Meiying Zhang",
+          "Kan Yang"
+        ]
+      },
+      {
+        "title": "RAGLeak: Membership Inference Attacks on RAG-Based Large Language Models.",
+        "authors": [
+          "Kaiyue Feng",
+          "Guangsheng Zhang",
+          "Huan Tian",
+          "Heng Xu",
+          "Yanjun Zhang",
+          "Tianqing Zhu",
+          "Ming Ding",
+          "Bo Liu"
+        ]
+      },
+      {
+        "title": "DeGain: Detecting GAN-Based Data Inversion in Collaborative Deep Learning.",
+        "authors": [
+          "Zhenzhu Chen",
+          "Yansong Gao",
+          "Anmin Fu",
+          "Fanjian Zeng",
+          "Boyu Kuang",
+          "Robert H. Deng"
+        ]
+      },
+      {
+        "title": "FRFL: Fair and Robust Federated Learning Incentive Model Based on Game Theory.",
+        "authors": [
+          "Haocheng Ye",
+          "Lu Zhou",
+          "Hao Wang",
+          "Chunpeng Ge"
+        ]
+      },
+      {
+        "title": "DPFedSub: A Differentially Private Federated Learning with Randomized Subspace Descend.",
+        "authors": [
+          "Huiwen Wu",
+          "Chuan Ma",
+          "Xueran Li",
+          "Deyi Zhang",
+          "Xiaohan Li",
+          "She Sun"
+        ]
+      },
+      {
+        "title": "MG-Det: Deepfake Detection with Multi-granularity.",
+        "authors": [
+          "Ahmed Asiri",
+          "Luoyu Chen",
+          "Zhiyi Tian",
+          "Xiaoyu Ding",
+          "Shui Yu"
+        ]
+      },
+      {
+        "title": "LPIA: Label Preference Inference Attack Against Federated Graph Learning.",
+        "authors": [
+          "Jiaxue Bai",
+          "Lu Shi",
+          "Yang Liu",
+          "Weizhe Zhang"
+        ]
+      },
+      {
+        "title": "DARA: Enhancing Vulnerability Alignment via Adaptive Reconstruction and Dual-Level Attention.",
+        "authors": [
+          "Lihua Wang",
+          "Jiaojiao Jiang",
+          "Salil S. Kanhere",
+          "Jiamou Sun",
+          "Sanjay K. Jha",
+          "Zhenchang Xing"
+        ]
+      },
+      {
+        "title": "Zeroth-Order Federated Private Tuning for Pretrained Large Language Models.",
+        "authors": [
+          "Xiaoyu Zhang",
+          "Yong Lin",
+          "Meixia Miao",
+          "Jian Lou",
+          "Jin Li",
+          "Xiaofeng Chen"
+        ]
+      },
+      {
+        "title": "Understanding the Robustness of Machine-Unlearning Models.",
+        "authors": [
+          "Guanqin Zhang",
+          "Feng Xu",
+          "H. M. N. Dilum Bandara",
+          "Shiping Chen",
+          "Yulei Sui"
+        ]
+      },
+      {
+        "title": "Mitigating the Unprivileged User Namespaces Based Privilege Escalation Attacks with Linux Capabilities.",
+        "authors": [
+          "Jingzi Meng",
+          "Yuewu Wang",
+          "Lingguang Lei",
+          "Chunjing Kou",
+          "Peng Wang",
+          "Huawei Lu"
+        ]
+      },
+      {
+        "title": "SoK: From Systematization to Best Practices in Fuzz Driver Generation.",
+        "authors": [
+          "Qian Yan",
+          "Minhuan Huang",
+          "Huayang Cao",
+          "Shuaibing Lu"
+        ]
+      },
+      {
+        "title": "Facial Authentication Security Evaluation Against Deepfake Attacks in Mobile Apps.",
+        "authors": [
+          "Chuer Yu",
+          "Siyi Xia",
+          "Haoyu Wang",
+          "Xia Liu",
+          "Zonghui Wang",
+          "Lirong Fu",
+          "Zhiyuan Wan",
+          "Yandong Gao",
+          "Yang Xiang",
+          "Wenzhi Chen"
+        ]
+      },
+      {
+        "title": "EAPIR: Efficient and Authenticated Private Information Retrieval with Fast Server Processing.",
+        "authors": [
+          "Hua Shen",
+          "Xinjie Li",
+          "Zhen Fan",
+          "Ge Wu",
+          "Mingwu Zhang"
+        ]
+      },
+      {
+        "title": "Ransomware Encryption Detection: Adaptive File System Analysis Against Evasive Encryption Tactics.",
+        "authors": [
+          "Arash Mahboubi",
+          "Hamed Aboutorab",
+          "Seyit Camtepe",
+          "Hang Thanh Bui",
+          "Khanh Luong",
+          "Keyvan Ansari",
+          "Shenlu Wang",
+          "Bazara I. A. Barry"
+        ]
+      },
+      {
+        "title": "Receiver-Initiated Updatable Public Key Encryption: Construction, Security and Application.",
+        "authors": [
+          "Jiahao Xuan"
+        ]
+      },
+      {
+        "title": "Robust and Privacy-Preserving Dynamic Average Consensus with Individual Weight.",
+        "authors": [
+          "Yuanyuan Zhang",
+          "Yu Liu",
+          "Yahui Wang",
+          "Tianqing Zhu",
+          "Mingwu Zhang"
+        ]
+      },
+      {
+        "title": "Improving RSA Cryptanalysis: Combining Continued Fractions and Coppersmith's Techniques.",
+        "authors": [
+          "Mengce Zheng",
+          "Yansong Feng",
+          "Abderrahmane Nitaj",
+          "Yanbin Pan"
+        ]
+      },
+      {
+        "title": "Shortest Printable Shellcode Encoding Algorithm Based on Dynamic Bitwidth Selection.",
+        "authors": [
+          "Guoan Liu",
+          "Jian Lin",
+          "Weiyu Dong",
+          "Jiaan Liu",
+          "Tieming Liu"
+        ]
+      },
+      {
+        "title": "Bridging Clone Detection and Industrial Compliance: A Practical Pipeline for Enterprise Codebases.",
+        "authors": [
+          "Xiaowei Zhang",
+          "Shigang Liu",
+          "Jun Zhang",
+          "Yang Xiang"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/acisp/acisp2025-2.html": {
     "header": "30th ACISP 2025: Wollongong, NSW, Australia - Part II",
     "year": "2025",
@@ -317,270 +581,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/acisp/acisp2025-3.html": {
-    "header": "30th ACISP 2025: Wollongong, NSW, Australia - Part III",
-    "year": "2025",
-    "papers": [
-      {
-        "title": "Comparing and Improving Frequency Estimation Perturbation Mechanisms Under Local Differential Privacy.",
-        "authors": [
-          "She Sun",
-          "Jiafei Wu",
-          "Jian Yang",
-          "Li Zhou",
-          "Huiwen Wu"
-        ]
-      },
-      {
-        "title": "Strong Federated Authentication With Password-Based Credential Against Identity Server Corruption.",
-        "authors": [
-          "Changsong Jiang",
-          "Chunxiang Xu",
-          "Guomin Yang",
-          "Li Duan",
-          "Jing Wang"
-        ]
-      },
-      {
-        "title": "Anonymous Credentials with Credential Redaction and Its Application to SSI-Based Plug&Charge for Shared Vehicles.",
-        "authors": [
-          "Kyosuke Hatsugai",
-          "Kyoichi Asano",
-          "Yuki Sawai",
-          "Yohei Watanabe",
-          "Mitsugu Iwamoto"
-        ]
-      },
-      {
-        "title": "Direction-Oriented Smooth Sensitivity and Its Application to Genomic Statistical Analysis.",
-        "authors": [
-          "Akito Yamamoto",
-          "Tetsuo Shibuya"
-        ]
-      },
-      {
-        "title": "Sentence Embedding Generation Method for Differential Privacy Protection.",
-        "authors": [
-          "Yangyang Liu",
-          "Wanqi Wang",
-          "Jingyu Hua"
-        ]
-      },
-      {
-        "title": "KD-IBMRKE-PPFL: A Privacy-Preserving Federated Learning Framework Integrating Knowledge Distillation and Identity-Based Multi-receiver Key Encapsulation.",
-        "authors": [
-          "Yuan Li",
-          "Changji Wang",
-          "Shiwen Hu"
-        ]
-      },
-      {
-        "title": "Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning.",
-        "authors": [
-          "Sheldon C. Ebron Jr.",
-          "Meiying Zhang",
-          "Kan Yang"
-        ]
-      },
-      {
-        "title": "RAGLeak: Membership Inference Attacks on RAG-Based Large Language Models.",
-        "authors": [
-          "Kaiyue Feng",
-          "Guangsheng Zhang",
-          "Huan Tian",
-          "Heng Xu",
-          "Yanjun Zhang",
-          "Tianqing Zhu",
-          "Ming Ding",
-          "Bo Liu"
-        ]
-      },
-      {
-        "title": "DeGain: Detecting GAN-Based Data Inversion in Collaborative Deep Learning.",
-        "authors": [
-          "Zhenzhu Chen",
-          "Yansong Gao",
-          "Anmin Fu",
-          "Fanjian Zeng",
-          "Boyu Kuang",
-          "Robert H. Deng"
-        ]
-      },
-      {
-        "title": "FRFL: Fair and Robust Federated Learning Incentive Model Based on Game Theory.",
-        "authors": [
-          "Haocheng Ye",
-          "Lu Zhou",
-          "Hao Wang",
-          "Chunpeng Ge"
-        ]
-      },
-      {
-        "title": "DPFedSub: A Differentially Private Federated Learning with Randomized Subspace Descend.",
-        "authors": [
-          "Huiwen Wu",
-          "Chuan Ma",
-          "Xueran Li",
-          "Deyi Zhang",
-          "Xiaohan Li",
-          "She Sun"
-        ]
-      },
-      {
-        "title": "MG-Det: Deepfake Detection with Multi-granularity.",
-        "authors": [
-          "Ahmed Asiri",
-          "Luoyu Chen",
-          "Zhiyi Tian",
-          "Xiaoyu Ding",
-          "Shui Yu"
-        ]
-      },
-      {
-        "title": "LPIA: Label Preference Inference Attack Against Federated Graph Learning.",
-        "authors": [
-          "Jiaxue Bai",
-          "Lu Shi",
-          "Yang Liu",
-          "Weizhe Zhang"
-        ]
-      },
-      {
-        "title": "DARA: Enhancing Vulnerability Alignment via Adaptive Reconstruction and Dual-Level Attention.",
-        "authors": [
-          "Lihua Wang",
-          "Jiaojiao Jiang",
-          "Salil S. Kanhere",
-          "Jiamou Sun",
-          "Sanjay K. Jha",
-          "Zhenchang Xing"
-        ]
-      },
-      {
-        "title": "Zeroth-Order Federated Private Tuning for Pretrained Large Language Models.",
-        "authors": [
-          "Xiaoyu Zhang",
-          "Yong Lin",
-          "Meixia Miao",
-          "Jian Lou",
-          "Jin Li",
-          "Xiaofeng Chen"
-        ]
-      },
-      {
-        "title": "Understanding the Robustness of Machine-Unlearning Models.",
-        "authors": [
-          "Guanqin Zhang",
-          "Feng Xu",
-          "H. M. N. Dilum Bandara",
-          "Shiping Chen",
-          "Yulei Sui"
-        ]
-      },
-      {
-        "title": "Mitigating the Unprivileged User Namespaces Based Privilege Escalation Attacks with Linux Capabilities.",
-        "authors": [
-          "Jingzi Meng",
-          "Yuewu Wang",
-          "Lingguang Lei",
-          "Chunjing Kou",
-          "Peng Wang",
-          "Huawei Lu"
-        ]
-      },
-      {
-        "title": "SoK: From Systematization to Best Practices in Fuzz Driver Generation.",
-        "authors": [
-          "Qian Yan",
-          "Minhuan Huang",
-          "Huayang Cao",
-          "Shuaibing Lu"
-        ]
-      },
-      {
-        "title": "Facial Authentication Security Evaluation Against Deepfake Attacks in Mobile Apps.",
-        "authors": [
-          "Chuer Yu",
-          "Siyi Xia",
-          "Haoyu Wang",
-          "Xia Liu",
-          "Zonghui Wang",
-          "Lirong Fu",
-          "Zhiyuan Wan",
-          "Yandong Gao",
-          "Yang Xiang",
-          "Wenzhi Chen"
-        ]
-      },
-      {
-        "title": "EAPIR: Efficient and Authenticated Private Information Retrieval with Fast Server Processing.",
-        "authors": [
-          "Hua Shen",
-          "Xinjie Li",
-          "Zhen Fan",
-          "Ge Wu",
-          "Mingwu Zhang"
-        ]
-      },
-      {
-        "title": "Ransomware Encryption Detection: Adaptive File System Analysis Against Evasive Encryption Tactics.",
-        "authors": [
-          "Arash Mahboubi",
-          "Hamed Aboutorab",
-          "Seyit Camtepe",
-          "Hang Thanh Bui",
-          "Khanh Luong",
-          "Keyvan Ansari",
-          "Shenlu Wang",
-          "Bazara I. A. Barry"
-        ]
-      },
-      {
-        "title": "Receiver-Initiated Updatable Public Key Encryption: Construction, Security and Application.",
-        "authors": [
-          "Jiahao Xuan"
-        ]
-      },
-      {
-        "title": "Robust and Privacy-Preserving Dynamic Average Consensus with Individual Weight.",
-        "authors": [
-          "Yuanyuan Zhang",
-          "Yu Liu",
-          "Yahui Wang",
-          "Tianqing Zhu",
-          "Mingwu Zhang"
-        ]
-      },
-      {
-        "title": "Improving RSA Cryptanalysis: Combining Continued Fractions and Coppersmith's Techniques.",
-        "authors": [
-          "Mengce Zheng",
-          "Yansong Feng",
-          "Abderrahmane Nitaj",
-          "Yanbin Pan"
-        ]
-      },
-      {
-        "title": "Shortest Printable Shellcode Encoding Algorithm Based on Dynamic Bitwidth Selection.",
-        "authors": [
-          "Guoan Liu",
-          "Jian Lin",
-          "Weiyu Dong",
-          "Jiaan Liu",
-          "Tieming Liu"
-        ]
-      },
-      {
-        "title": "Bridging Clone Detection and Industrial Compliance: A Practical Pipeline for Enterprise Codebases.",
-        "authors": [
-          "Xiaowei Zhang",
-          "Shigang Liu",
-          "Jun Zhang",
-          "Yang Xiang"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/acisp/acisp2024-3.html": {
     "header": "29th ACISP 2024: Sydney, NSW, Australia - Part III",
     "year": "2024",
@@ -816,6 +816,206 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/acisp/acisp2024-2.html": {
+    "header": "29th ACISP 2024: Sydney, NSW, Australia - Part II",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "Improved Multimodal Private Signatures from Lattices.",
+        "authors": [
+          "Nam Tran",
+          "Khoa Nguyen",
+          "Dongxi Liu",
+          "Josef Pieprzyk",
+          "Willy Susilo"
+        ]
+      },
+      {
+        "title": "Automatic Quantum Multi-collision Distinguishers and Rebound Attacks with Triangulation Algorithm.",
+        "authors": [
+          "Zhenzhen Bao",
+          "Jian Guo",
+          "Shun Li",
+          "Phuong Pham"
+        ]
+      },
+      {
+        "title": "Lattice-Based, More General Anti-leakage Model and Its Application in Decentralization.",
+        "authors": [
+          "Xiaokang Dai",
+          "Jingwei Chen",
+          "Wenyuan Wu",
+          "Yong Feng"
+        ]
+      },
+      {
+        "title": "An Efficient Hardware Implementation of Crystal-Dilithium on FPGA.",
+        "authors": [
+          "Zixuan Wu",
+          "Rongmao Chen",
+          "Yi Wang",
+          "Qiong Wang",
+          "Wei Peng"
+        ]
+      },
+      {
+        "title": "Pushing the Limit of Vectorized Polynomial Multiplications for NTRU Prime.",
+        "authors": [
+          "Vincent Hwang"
+        ]
+      },
+      {
+        "title": "Jumping for Bernstein-Yang Inversion.",
+        "authors": [
+          "Li-Jie Jian",
+          "Ting-Yuan Wang",
+          "Bo-Yin Yang",
+          "Ming-Shing Chen"
+        ]
+      },
+      {
+        "title": "DualRing-PRF: Post-quantum (Linkable) Ring Signatures from Legendre and Power Residue PRFs.",
+        "authors": [
+          "Xinyu Zhang",
+          "Ron Steinfeld",
+          "Joseph K. Liu",
+          "Muhammed F. Esgin",
+          "Dongxi Liu",
+          "Sushmita Ruj"
+        ]
+      },
+      {
+        "title": "Faster Verifications and Smaller Signatures: Trade-Offs for ALTEQ Using Rejections.",
+        "authors": [
+          "Arnaud Sipasseuth"
+        ]
+      },
+      {
+        "title": "Revisiting the Security of Fiat-Shamir Signature Schemes Under Superposition Attacks.",
+        "authors": [
+          "Quan Yuan",
+          "Chao Sun",
+          "Tsuyoshi Takagi"
+        ]
+      },
+      {
+        "title": "Improved Lattice-Based Attack on Mersenne Low Hamming Ratio Search Problem.",
+        "authors": [
+          "Mengce Zheng",
+          "Wei Yan"
+        ]
+      },
+      {
+        "title": "New Strategy for Evaluating Differential Clustering Effect of uBlock.",
+        "authors": [
+          "Chen Wang",
+          "Jinliang Wang",
+          "Muzhou Li",
+          "Meiqin Wang"
+        ]
+      },
+      {
+        "title": "Algebraic Cryptanalysis of the HADES Design Strategy: Application to Poseidon and Poseidon2.",
+        "authors": [
+          "Tomer Ashur",
+          "Thomas Buschman",
+          "Mohammad Mahzoun"
+        ]
+      },
+      {
+        "title": "Revisiting Impossible Differential Cryptanalysis and Expanding the Application of MILP in Impossible Differential Attack.",
+        "authors": [
+          "Weiwei Cao"
+        ]
+      },
+      {
+        "title": "A Fault-Tolerant Content Moderation Mechanism for Secure Messaging Systems.",
+        "authors": [
+          "Tuong Ngoc Nguyen",
+          "Willy Susilo",
+          "Dung Hoang Duong",
+          "Fuchun Guo",
+          "Kazuhide Fukushima",
+          "Shinsaku Kiyomoto"
+        ]
+      },
+      {
+        "title": "Formal Verification of Challenge Flow in EMV 3-D Secure.",
+        "authors": [
+          "Kakeru Watanabe",
+          "Kazuki Yoneyama"
+        ]
+      },
+      {
+        "title": "Size-Hiding Computation in the Honest-But-Curious Model.",
+        "authors": [
+          "Kazumasa Shinagawa"
+        ]
+      },
+      {
+        "title": "Hidden $\\varDelta $-Fairness: A Novel Notion for Fair Secure Two-Party Computation.",
+        "authors": [
+          "Saskia Bayreuther",
+          "Robin Berger",
+          "Felix Dörre",
+          "Jeremias Mechler",
+          "Jörn Müller-Quade"
+        ]
+      },
+      {
+        "title": "ProfistMAC: A Protocol Finite State Machine Classifier via Graph Representation.",
+        "authors": [
+          "Yali Yuan",
+          "Yichao Wang",
+          "Guang Cheng"
+        ]
+      },
+      {
+        "title": "Subverting Cryptographic Protocols from a Fine-Grained Perspective- A Case Study on 2-Party ECDSA.",
+        "authors": [
+          "Jialiu Cheng",
+          "Yi Wang",
+          "Rongmao Chen",
+          "Xinyi Huang"
+        ]
+      },
+      {
+        "title": "Deep Dive on Relationship Between Personality and Password Creation.",
+        "authors": [
+          "Madeline Moran",
+          "Arrianna Szymczak",
+          "Anna Hart",
+          "Shelia Kennison",
+          "Eric Chan-Tin"
+        ]
+      },
+      {
+        "title": "Unveiling the Unseen: Video Recognition Attacks on Social Software.",
+        "authors": [
+          "Hangyu Zhao",
+          "Hua Wu",
+          "Xuqiong Bian",
+          "Songtao Liu",
+          "Guang Cheng",
+          "Xiaoyan Hu",
+          "Zhiyi Tian"
+        ]
+      },
+      {
+        "title": "An Account Matching Method Based on Hyper Graph.",
+        "authors": [
+          "Zhiwei Tang",
+          "Xuemeng Zhai",
+          "Gaolei Fei",
+          "Junyi Gao",
+          "Jianwei Ding",
+          "Keren Wang",
+          "Qiang Li",
+          "Guangmin Hu"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/acisp/acisp2024-1.html": {
     "header": "29th ACISP 2024: Sydney, NSW, Australia - Part I",
     "year": "2024",
@@ -1030,206 +1230,6 @@
           "Jie Xie",
           "Yuncong Hu",
           "Yu Yu"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/acisp/acisp2024-2.html": {
-    "header": "29th ACISP 2024: Sydney, NSW, Australia - Part II",
-    "year": "2024",
-    "papers": [
-      {
-        "title": "Improved Multimodal Private Signatures from Lattices.",
-        "authors": [
-          "Nam Tran",
-          "Khoa Nguyen",
-          "Dongxi Liu",
-          "Josef Pieprzyk",
-          "Willy Susilo"
-        ]
-      },
-      {
-        "title": "Automatic Quantum Multi-collision Distinguishers and Rebound Attacks with Triangulation Algorithm.",
-        "authors": [
-          "Zhenzhen Bao",
-          "Jian Guo",
-          "Shun Li",
-          "Phuong Pham"
-        ]
-      },
-      {
-        "title": "Lattice-Based, More General Anti-leakage Model and Its Application in Decentralization.",
-        "authors": [
-          "Xiaokang Dai",
-          "Jingwei Chen",
-          "Wenyuan Wu",
-          "Yong Feng"
-        ]
-      },
-      {
-        "title": "An Efficient Hardware Implementation of Crystal-Dilithium on FPGA.",
-        "authors": [
-          "Zixuan Wu",
-          "Rongmao Chen",
-          "Yi Wang",
-          "Qiong Wang",
-          "Wei Peng"
-        ]
-      },
-      {
-        "title": "Pushing the Limit of Vectorized Polynomial Multiplications for NTRU Prime.",
-        "authors": [
-          "Vincent Hwang"
-        ]
-      },
-      {
-        "title": "Jumping for Bernstein-Yang Inversion.",
-        "authors": [
-          "Li-Jie Jian",
-          "Ting-Yuan Wang",
-          "Bo-Yin Yang",
-          "Ming-Shing Chen"
-        ]
-      },
-      {
-        "title": "DualRing-PRF: Post-quantum (Linkable) Ring Signatures from Legendre and Power Residue PRFs.",
-        "authors": [
-          "Xinyu Zhang",
-          "Ron Steinfeld",
-          "Joseph K. Liu",
-          "Muhammed F. Esgin",
-          "Dongxi Liu",
-          "Sushmita Ruj"
-        ]
-      },
-      {
-        "title": "Faster Verifications and Smaller Signatures: Trade-Offs for ALTEQ Using Rejections.",
-        "authors": [
-          "Arnaud Sipasseuth"
-        ]
-      },
-      {
-        "title": "Revisiting the Security of Fiat-Shamir Signature Schemes Under Superposition Attacks.",
-        "authors": [
-          "Quan Yuan",
-          "Chao Sun",
-          "Tsuyoshi Takagi"
-        ]
-      },
-      {
-        "title": "Improved Lattice-Based Attack on Mersenne Low Hamming Ratio Search Problem.",
-        "authors": [
-          "Mengce Zheng",
-          "Wei Yan"
-        ]
-      },
-      {
-        "title": "New Strategy for Evaluating Differential Clustering Effect of uBlock.",
-        "authors": [
-          "Chen Wang",
-          "Jinliang Wang",
-          "Muzhou Li",
-          "Meiqin Wang"
-        ]
-      },
-      {
-        "title": "Algebraic Cryptanalysis of the HADES Design Strategy: Application to Poseidon and Poseidon2.",
-        "authors": [
-          "Tomer Ashur",
-          "Thomas Buschman",
-          "Mohammad Mahzoun"
-        ]
-      },
-      {
-        "title": "Revisiting Impossible Differential Cryptanalysis and Expanding the Application of MILP in Impossible Differential Attack.",
-        "authors": [
-          "Weiwei Cao"
-        ]
-      },
-      {
-        "title": "A Fault-Tolerant Content Moderation Mechanism for Secure Messaging Systems.",
-        "authors": [
-          "Tuong Ngoc Nguyen",
-          "Willy Susilo",
-          "Dung Hoang Duong",
-          "Fuchun Guo",
-          "Kazuhide Fukushima",
-          "Shinsaku Kiyomoto"
-        ]
-      },
-      {
-        "title": "Formal Verification of Challenge Flow in EMV 3-D Secure.",
-        "authors": [
-          "Kakeru Watanabe",
-          "Kazuki Yoneyama"
-        ]
-      },
-      {
-        "title": "Size-Hiding Computation in the Honest-But-Curious Model.",
-        "authors": [
-          "Kazumasa Shinagawa"
-        ]
-      },
-      {
-        "title": "Hidden $\\varDelta $-Fairness: A Novel Notion for Fair Secure Two-Party Computation.",
-        "authors": [
-          "Saskia Bayreuther",
-          "Robin Berger",
-          "Felix Dörre",
-          "Jeremias Mechler",
-          "Jörn Müller-Quade"
-        ]
-      },
-      {
-        "title": "ProfistMAC: A Protocol Finite State Machine Classifier via Graph Representation.",
-        "authors": [
-          "Yali Yuan",
-          "Yichao Wang",
-          "Guang Cheng"
-        ]
-      },
-      {
-        "title": "Subverting Cryptographic Protocols from a Fine-Grained Perspective- A Case Study on 2-Party ECDSA.",
-        "authors": [
-          "Jialiu Cheng",
-          "Yi Wang",
-          "Rongmao Chen",
-          "Xinyi Huang"
-        ]
-      },
-      {
-        "title": "Deep Dive on Relationship Between Personality and Password Creation.",
-        "authors": [
-          "Madeline Moran",
-          "Arrianna Szymczak",
-          "Anna Hart",
-          "Shelia Kennison",
-          "Eric Chan-Tin"
-        ]
-      },
-      {
-        "title": "Unveiling the Unseen: Video Recognition Attacks on Social Software.",
-        "authors": [
-          "Hangyu Zhao",
-          "Hua Wu",
-          "Xuqiong Bian",
-          "Songtao Liu",
-          "Guang Cheng",
-          "Xiaoyan Hu",
-          "Zhiyi Tian"
-        ]
-      },
-      {
-        "title": "An Account Matching Method Based on Hyper Graph.",
-        "authors": [
-          "Zhiwei Tang",
-          "Xuemeng Zhai",
-          "Gaolei Fei",
-          "Junyi Gao",
-          "Jianwei Ding",
-          "Keren Wang",
-          "Qiang Li",
-          "Guangmin Hu"
         ]
       }
     ]
@@ -3142,221 +3142,6 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/acisp/acisp2017-1.html": {
-    "header": "22. ACISP 2017: Auckland, New Zealand",
-    "year": "2017",
-    "papers": [
-      {
-        "title": "Tightly-Secure Encryption in the Multi-user, Multi-challenge Setting with Improved Efficiency.",
-        "authors": [
-          "Puwen Wei",
-          "Wei Wang",
-          "Bingxin Zhu",
-          "Siu-Ming Yiu"
-        ]
-      },
-      {
-        "title": "Hierarchical Functional Encryption for Linear Transformations.",
-        "authors": [
-          "Shiwei Zhang",
-          "Yi Mu",
-          "Guomin Yang",
-          "Xiaofen Wang"
-        ]
-      },
-      {
-        "title": "KDM-Secure Public-Key Encryption from Constant-Noise LPN.",
-        "authors": [
-          "Shuai Han",
-          "Shengli Liu"
-        ]
-      },
-      {
-        "title": "Long-Term Secure Commitments via Extractable-Binding Commitments.",
-        "authors": [
-          "Ahto Buldas",
-          "Matthias Geihs",
-          "Johannes Buchmann"
-        ]
-      },
-      {
-        "title": "New Proof Techniques for DLIN-Based Adaptively Secure Attribute-Based Encryption.",
-        "authors": [
-          "Katsuyuki Takashima"
-        ]
-      },
-      {
-        "title": "Attribute-Based Encryption with Expressive and Authorized Keyword Search.",
-        "authors": [
-          "Hui Cui",
-          "Robert H. Deng",
-          "Joseph K. Liu",
-          "Yingjiu Li"
-        ]
-      },
-      {
-        "title": "Towards Revocable Fine-Grained Encryption of Cloud Data: Reducing Trust upon Cloud.",
-        "authors": [
-          "Yanjiang Yang",
-          "Joseph K. Liu",
-          "Zhuo Wei",
-          "Xinyi Huang"
-        ]
-      },
-      {
-        "title": "Mergeable and Revocable Identity-Based Encryption.",
-        "authors": [
-          "Shengmin Xu",
-          "Guomin Yang",
-          "Yi Mu",
-          "Willy Susilo"
-        ]
-      },
-      {
-        "title": "ID-Based Encryption with Equality Test Against Insider Attack.",
-        "authors": [
-          "Tong Wu",
-          "Sha Ma",
-          "Yi Mu",
-          "Shengke Zeng"
-        ]
-      },
-      {
-        "title": "Lattice-Based Revocable Identity-Based Encryption with Bounded Decryption Key Exposure Resistance.",
-        "authors": [
-          "Atsushi Takayasu",
-          "Yohei Watanabe"
-        ]
-      },
-      {
-        "title": "Dynamic Searchable Symmetric Encryption with Physical Deletion and Small Leakage.",
-        "authors": [
-          "Peng Xu",
-          "Shuai Liang",
-          "Wei Wang",
-          "Willy Susilo",
-          "Qianhong Wu",
-          "Hai Jin"
-        ]
-      },
-      {
-        "title": "Multi-user Cloud-Based Secure Keyword Search.",
-        "authors": [
-          "Shabnam Kasra Kermanshahi",
-          "Joseph K. Liu",
-          "Ron Steinfeld"
-        ]
-      },
-      {
-        "title": "Fuzzy Keyword Search and Access Control over Ciphertexts in Cloud Computing.",
-        "authors": [
-          "Hong Zhu",
-          "Zhuolin Mei",
-          "Bing Wu",
-          "Hongbo Li",
-          "Zongmin Cui"
-        ]
-      },
-      {
-        "title": "Secure and Practical Searchable Encryption: A Position Paper.",
-        "authors": [
-          "Shujie Cui",
-          "Muhammad Rizwan Asghar",
-          "Steven D. Galbraith",
-          "Giovanni Russello"
-        ]
-      },
-      {
-        "title": "Fault Attacks on XEX Mode with Application to Certain Authenticated Encryption Modes.",
-        "authors": [
-          "Hassan Qahur Al Mahri",
-          "Leonie Simpson",
-          "Harry Bartlett",
-          "Ed Dawson",
-          "Kenneth Koon-Ho Wong"
-        ]
-      },
-      {
-        "title": "How to Handle Rainbow Tables with External Memory.",
-        "authors": [
-          "Gildas Avoine",
-          "Xavier Carpent",
-          "Barbara Kordy",
-          "Florent Tardif"
-        ]
-      },
-      {
-        "title": "Improved Factoring Attacks on Multi-prime RSA with Small Prime Difference.",
-        "authors": [
-          "Mengce Zheng",
-          "Noboru Kunihiro",
-          "Honggang Hu"
-        ]
-      },
-      {
-        "title": "Efficient Compilers for After-the-Fact Leakage: From CPA to CCA-2 Secure PKE to AKE.",
-        "authors": [
-          "Suvradip Chakraborty",
-          "Goutam Paul",
-          "C. Pandu Rangan"
-        ]
-      },
-      {
-        "title": "Improved Integral Attack on HIGHT.",
-        "authors": [
-          "Yuki Funabiki",
-          "Yosuke Todo",
-          "Takanori Isobe",
-          "Masakatu Morii"
-        ]
-      },
-      {
-        "title": "Cryptanalysis of Simpira v2.",
-        "authors": [
-          "Ivan Tjuawinata",
-          "Tao Huang",
-          "Hongjun Wu"
-        ]
-      },
-      {
-        "title": "Statistical Integral Distinguisher with Multi-structure and Its Application on AES.",
-        "authors": [
-          "Tingting Cui",
-          "Ling Sun",
-          "Huaifeng Chen",
-          "Meiqin Wang"
-        ]
-      },
-      {
-        "title": "Conditional Differential Cryptanalysis for Kreyvium.",
-        "authors": [
-          "Yuhei Watanabe",
-          "Takanori Isobe",
-          "Masakatu Morii"
-        ]
-      },
-      {
-        "title": "Practical Strongly Invisible and Strongly Accountable Sanitizable Signatures.",
-        "authors": [
-          "Michael Till Beck",
-          "Jan Camenisch",
-          "David Derler",
-          "Stephan Krenn",
-          "Henrich C. Pöhls",
-          "Kai Samelin",
-          "Daniel Slamanig"
-        ]
-      },
-      {
-        "title": "Tightly-Secure Signatures from the Decisional Composite Residuosity Assumption.",
-        "authors": [
-          "Xiao Zhang",
-          "Shengli Liu",
-          "Dawu Gu"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/acisp/acisp2017-2.html": {
     "header": "22. ACISP 2017: Auckland, New Zealand",
     "year": "2017",
@@ -3627,6 +3412,520 @@
         "authors": [
           "Jason H. M. Ying",
           "Noboru Kunihiro"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/acisp/acisp2017-1.html": {
+    "header": "22. ACISP 2017: Auckland, New Zealand",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Tightly-Secure Encryption in the Multi-user, Multi-challenge Setting with Improved Efficiency.",
+        "authors": [
+          "Puwen Wei",
+          "Wei Wang",
+          "Bingxin Zhu",
+          "Siu-Ming Yiu"
+        ]
+      },
+      {
+        "title": "Hierarchical Functional Encryption for Linear Transformations.",
+        "authors": [
+          "Shiwei Zhang",
+          "Yi Mu",
+          "Guomin Yang",
+          "Xiaofen Wang"
+        ]
+      },
+      {
+        "title": "KDM-Secure Public-Key Encryption from Constant-Noise LPN.",
+        "authors": [
+          "Shuai Han",
+          "Shengli Liu"
+        ]
+      },
+      {
+        "title": "Long-Term Secure Commitments via Extractable-Binding Commitments.",
+        "authors": [
+          "Ahto Buldas",
+          "Matthias Geihs",
+          "Johannes Buchmann"
+        ]
+      },
+      {
+        "title": "New Proof Techniques for DLIN-Based Adaptively Secure Attribute-Based Encryption.",
+        "authors": [
+          "Katsuyuki Takashima"
+        ]
+      },
+      {
+        "title": "Attribute-Based Encryption with Expressive and Authorized Keyword Search.",
+        "authors": [
+          "Hui Cui",
+          "Robert H. Deng",
+          "Joseph K. Liu",
+          "Yingjiu Li"
+        ]
+      },
+      {
+        "title": "Towards Revocable Fine-Grained Encryption of Cloud Data: Reducing Trust upon Cloud.",
+        "authors": [
+          "Yanjiang Yang",
+          "Joseph K. Liu",
+          "Zhuo Wei",
+          "Xinyi Huang"
+        ]
+      },
+      {
+        "title": "Mergeable and Revocable Identity-Based Encryption.",
+        "authors": [
+          "Shengmin Xu",
+          "Guomin Yang",
+          "Yi Mu",
+          "Willy Susilo"
+        ]
+      },
+      {
+        "title": "ID-Based Encryption with Equality Test Against Insider Attack.",
+        "authors": [
+          "Tong Wu",
+          "Sha Ma",
+          "Yi Mu",
+          "Shengke Zeng"
+        ]
+      },
+      {
+        "title": "Lattice-Based Revocable Identity-Based Encryption with Bounded Decryption Key Exposure Resistance.",
+        "authors": [
+          "Atsushi Takayasu",
+          "Yohei Watanabe"
+        ]
+      },
+      {
+        "title": "Dynamic Searchable Symmetric Encryption with Physical Deletion and Small Leakage.",
+        "authors": [
+          "Peng Xu",
+          "Shuai Liang",
+          "Wei Wang",
+          "Willy Susilo",
+          "Qianhong Wu",
+          "Hai Jin"
+        ]
+      },
+      {
+        "title": "Multi-user Cloud-Based Secure Keyword Search.",
+        "authors": [
+          "Shabnam Kasra Kermanshahi",
+          "Joseph K. Liu",
+          "Ron Steinfeld"
+        ]
+      },
+      {
+        "title": "Fuzzy Keyword Search and Access Control over Ciphertexts in Cloud Computing.",
+        "authors": [
+          "Hong Zhu",
+          "Zhuolin Mei",
+          "Bing Wu",
+          "Hongbo Li",
+          "Zongmin Cui"
+        ]
+      },
+      {
+        "title": "Secure and Practical Searchable Encryption: A Position Paper.",
+        "authors": [
+          "Shujie Cui",
+          "Muhammad Rizwan Asghar",
+          "Steven D. Galbraith",
+          "Giovanni Russello"
+        ]
+      },
+      {
+        "title": "Fault Attacks on XEX Mode with Application to Certain Authenticated Encryption Modes.",
+        "authors": [
+          "Hassan Qahur Al Mahri",
+          "Leonie Simpson",
+          "Harry Bartlett",
+          "Ed Dawson",
+          "Kenneth Koon-Ho Wong"
+        ]
+      },
+      {
+        "title": "How to Handle Rainbow Tables with External Memory.",
+        "authors": [
+          "Gildas Avoine",
+          "Xavier Carpent",
+          "Barbara Kordy",
+          "Florent Tardif"
+        ]
+      },
+      {
+        "title": "Improved Factoring Attacks on Multi-prime RSA with Small Prime Difference.",
+        "authors": [
+          "Mengce Zheng",
+          "Noboru Kunihiro",
+          "Honggang Hu"
+        ]
+      },
+      {
+        "title": "Efficient Compilers for After-the-Fact Leakage: From CPA to CCA-2 Secure PKE to AKE.",
+        "authors": [
+          "Suvradip Chakraborty",
+          "Goutam Paul",
+          "C. Pandu Rangan"
+        ]
+      },
+      {
+        "title": "Improved Integral Attack on HIGHT.",
+        "authors": [
+          "Yuki Funabiki",
+          "Yosuke Todo",
+          "Takanori Isobe",
+          "Masakatu Morii"
+        ]
+      },
+      {
+        "title": "Cryptanalysis of Simpira v2.",
+        "authors": [
+          "Ivan Tjuawinata",
+          "Tao Huang",
+          "Hongjun Wu"
+        ]
+      },
+      {
+        "title": "Statistical Integral Distinguisher with Multi-structure and Its Application on AES.",
+        "authors": [
+          "Tingting Cui",
+          "Ling Sun",
+          "Huaifeng Chen",
+          "Meiqin Wang"
+        ]
+      },
+      {
+        "title": "Conditional Differential Cryptanalysis for Kreyvium.",
+        "authors": [
+          "Yuhei Watanabe",
+          "Takanori Isobe",
+          "Masakatu Morii"
+        ]
+      },
+      {
+        "title": "Practical Strongly Invisible and Strongly Accountable Sanitizable Signatures.",
+        "authors": [
+          "Michael Till Beck",
+          "Jan Camenisch",
+          "David Derler",
+          "Stephan Krenn",
+          "Henrich C. Pöhls",
+          "Kai Samelin",
+          "Daniel Slamanig"
+        ]
+      },
+      {
+        "title": "Tightly-Secure Signatures from the Decisional Composite Residuosity Assumption.",
+        "authors": [
+          "Xiao Zhang",
+          "Shengli Liu",
+          "Dawu Gu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/acisp/acisp2016-2.html": {
+    "header": "21. ACISP 2016: Melbourne, VIC, Australia",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "One-Round Strong Oblivious Signature-Based Envelope.",
+        "authors": [
+          "Rongmao Chen",
+          "Yi Mu",
+          "Willy Susilo",
+          "Guomin Yang",
+          "Fuchun Guo",
+          "Mingwu Zhang"
+        ]
+      },
+      {
+        "title": "Proxy Signature with Revocation.",
+        "authors": [
+          "Shengmin Xu",
+          "Guomin Yang",
+          "Yi Mu",
+          "Sha Ma"
+        ]
+      },
+      {
+        "title": "On the Relations Between Security Notions in Hierarchical Key Assignment Schemes for Dynamic Structures.",
+        "authors": [
+          "Arcangelo Castiglione",
+          "Alfredo De Santis",
+          "Barbara Masucci",
+          "Francesco Palmieri",
+          "Aniello Castiglione"
+        ]
+      },
+      {
+        "title": "Content-Based Encryption.",
+        "authors": [
+          "Xiaofen Wang",
+          "Yi Mu"
+        ]
+      },
+      {
+        "title": "Provably Secure Threshold Paillier Encryption Based on Hyperplane Geometry.",
+        "authors": [
+          "Zhe Xia",
+          "Xiaoyun Yang",
+          "Min Xiao",
+          "Debiao He"
+        ]
+      },
+      {
+        "title": "Identity-Based Group Encryption.",
+        "authors": [
+          "Xiling Luo",
+          "Yili Ren",
+          "Jingwen Liu",
+          "Jiankun Hu",
+          "Weiran Liu",
+          "Zhen Wang",
+          "Wei Xu",
+          "Qianhong Wu"
+        ]
+      },
+      {
+        "title": "Edit Distance Based Encryption and Its Application.",
+        "authors": [
+          "Tran Viet Xuan Phuong",
+          "Guomin Yang",
+          "Willy Susilo",
+          "Kaitai Liang"
+        ]
+      },
+      {
+        "title": "Proxy Re-encryption with Delegatable Verifiability.",
+        "authors": [
+          "Xiaodong Lin",
+          "Rongxing Lu"
+        ]
+      },
+      {
+        "title": "Efficient Completely Non-Malleable and RKA Secure Public Key Encryptions.",
+        "authors": [
+          "Shifeng Sun",
+          "Udaya Parampalli",
+          "Tsz Hon Yuen",
+          "Yu Yu",
+          "Dawu Gu"
+        ]
+      },
+      {
+        "title": "Verifiable Searchable Encryption with Aggregate Keys for Data Sharing in Outsourcing Storage.",
+        "authors": [
+          "Tong Li",
+          "Zheli Liu",
+          "Ping Li",
+          "Chunfu Jia",
+          "Zoe Lin Jiang",
+          "Jin Li"
+        ]
+      },
+      {
+        "title": "Public Key Encryption with Authorized Keyword Search.",
+        "authors": [
+          "Peng Jiang",
+          "Yi Mu",
+          "Fuchun Guo",
+          "Qiaoyan Wen"
+        ]
+      },
+      {
+        "title": "Linear Encryption with Keyword Search.",
+        "authors": [
+          "Shiwei Zhang",
+          "Guomin Yang",
+          "Yi Mu"
+        ]
+      },
+      {
+        "title": "Generic Anonymous Identity-Based Broadcast Encryption with Chosen-Ciphertext Security.",
+        "authors": [
+          "Kai He",
+          "Jian Weng",
+          "Man Ho Au",
+          "Yijun Mao",
+          "Robert H. Deng"
+        ]
+      },
+      {
+        "title": "Anonymous Identity-Based Broadcast Encryption with Revocation for File Sharing.",
+        "authors": [
+          "Jianchang Lai",
+          "Yi Mu",
+          "Fuchun Guo",
+          "Willy Susilo",
+          "Rongmao Chen"
+        ]
+      },
+      {
+        "title": "Partial Key Exposure Attacks on RSA with Multiple Exponent Pairs.",
+        "authors": [
+          "Atsushi Takayasu",
+          "Noboru Kunihiro"
+        ]
+      },
+      {
+        "title": "A New Attack on Three Variants of the RSA Cryptosystem.",
+        "authors": [
+          "Martin W. Bunder",
+          "Abderrahmane Nitaj",
+          "Willy Susilo",
+          "Joseph Tonien"
+        ]
+      },
+      {
+        "title": "Generalized Hardness Assumption for Self-bilinear Map with Auxiliary Information.",
+        "authors": [
+          "Takashi Yamakawa",
+          "Goichiro Hanaoka",
+          "Noboru Kunihiro"
+        ]
+      },
+      {
+        "title": "Deterministic Encoding into Twisted Edwards Curves.",
+        "authors": [
+          "Wei Yu",
+          "Kunpeng Wang",
+          "Bao Li",
+          "Xiaoyang He",
+          "Song Tian"
+        ]
+      },
+      {
+        "title": "Improved Rebound Attacks on AESQ: Core Permutation of CAESAR Candidate PAEQ.",
+        "authors": [
+          "Nasour Bagheri",
+          "Florian Mendel",
+          "Yu Sasaki"
+        ]
+      },
+      {
+        "title": "Efficient Beyond-Birthday-Bound-Secure Deterministic Authenticated Encryption with Minimal Stretch.",
+        "authors": [
+          "Christian Forler",
+          "Eik List",
+          "Stefan Lucks",
+          "Jakob Wenzel"
+        ]
+      },
+      {
+        "title": "Improved (related-key) Attacks on Round-Reduced KATAN-32/48/64 Based on the Extended Boomerang Framework.",
+        "authors": [
+          "Jiageng Chen",
+          "Jesen Teh",
+          "Chunhua Su",
+          "Azman Samsudin",
+          "Junbin Fang"
+        ]
+      },
+      {
+        "title": "Authenticated Encryption with Small Stretch (or, How to Accelerate AERO).",
+        "authors": [
+          "Kazuhiko Minematsu"
+        ]
+      },
+      {
+        "title": "Impossible Differential Cryptanalysis of 14-Round Camellia-192.",
+        "authors": [
+          "Keting Jia",
+          "Ning Wang"
+        ]
+      },
+      {
+        "title": "Automatic Differential Analysis of ARX Block Ciphers with Application to SPECK and LEA.",
+        "authors": [
+          "Ling Song",
+          "Zhangjie Huang",
+          "Qianqian Yang"
+        ]
+      },
+      {
+        "title": "On the Security of the LAC Authenticated Encryption Algorithm.",
+        "authors": [
+          "Jiqiang Lu"
+        ]
+      },
+      {
+        "title": "Linear Hull Attack on Round-Reduced Simeck with Dynamic Key-Guessing Techniques.",
+        "authors": [
+          "Lingyue Qin",
+          "Huaifeng Chen",
+          "Xiaoyun Wang"
+        ]
+      },
+      {
+        "title": "Reducing the Key Size of the SRP Encryption Scheme.",
+        "authors": [
+          "Dung Hoang Duong",
+          "Albrecht Petzoldt",
+          "Tsuyoshi Takagi"
+        ]
+      },
+      {
+        "title": "Biometric Access Control with High Dimensional Facial Features.",
+        "authors": [
+          "Ying-Han Pang",
+          "Khor Ean Yee",
+          "Shih Yin Ooi"
+        ]
+      },
+      {
+        "title": "Security Analysis on Privacy-Preserving Cloud Aided Biometric Identification Schemes.",
+        "authors": [
+          "Shiran Pan",
+          "Shen Yan",
+          "Wen Tao Zhu"
+        ]
+      },
+      {
+        "title": "Interest Profiling for Security Monitoring and Forensic Investigation.",
+        "authors": [
+          "Min Yang",
+          "Fei Xu",
+          "Kam-Pui Chow"
+        ]
+      },
+      {
+        "title": "Pseudonymous Signature on eIDAS Token - Implementation Based Privacy Threats.",
+        "authors": [
+          "Miroslaw Kutylowski",
+          "Lucjan Hanzlik",
+          "Kamil Kluczniak"
+        ]
+      },
+      {
+        "title": "A Feasible No-Root Approach on Android.",
+        "authors": [
+          "Yao Cheng",
+          "Yingjiu Li",
+          "Robert H. Deng"
+        ]
+      },
+      {
+        "title": "Improved Classification of Known and Unknown Network Traffic Flows Using Semi-supervised Machine Learning.",
+        "authors": [
+          "Timothy Glennan",
+          "Christopher Leckie",
+          "Sarah M. Erfani"
+        ]
+      },
+      {
+        "title": "A Noiseless Key-Homomorphic PRF: Application on Distributed Storage Systems.",
+        "authors": [
+          "Jhordany Rodriguez Parra",
+          "Terence Chan",
+          "Siu-Wai Ho"
         ]
       }
     ]
@@ -3935,305 +4234,6 @@
           "Kaitai Liang",
           "Shulan Wang",
           "Ting Wang"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/acisp/acisp2016-2.html": {
-    "header": "21. ACISP 2016: Melbourne, VIC, Australia",
-    "year": "2016",
-    "papers": [
-      {
-        "title": "One-Round Strong Oblivious Signature-Based Envelope.",
-        "authors": [
-          "Rongmao Chen",
-          "Yi Mu",
-          "Willy Susilo",
-          "Guomin Yang",
-          "Fuchun Guo",
-          "Mingwu Zhang"
-        ]
-      },
-      {
-        "title": "Proxy Signature with Revocation.",
-        "authors": [
-          "Shengmin Xu",
-          "Guomin Yang",
-          "Yi Mu",
-          "Sha Ma"
-        ]
-      },
-      {
-        "title": "On the Relations Between Security Notions in Hierarchical Key Assignment Schemes for Dynamic Structures.",
-        "authors": [
-          "Arcangelo Castiglione",
-          "Alfredo De Santis",
-          "Barbara Masucci",
-          "Francesco Palmieri",
-          "Aniello Castiglione"
-        ]
-      },
-      {
-        "title": "Content-Based Encryption.",
-        "authors": [
-          "Xiaofen Wang",
-          "Yi Mu"
-        ]
-      },
-      {
-        "title": "Provably Secure Threshold Paillier Encryption Based on Hyperplane Geometry.",
-        "authors": [
-          "Zhe Xia",
-          "Xiaoyun Yang",
-          "Min Xiao",
-          "Debiao He"
-        ]
-      },
-      {
-        "title": "Identity-Based Group Encryption.",
-        "authors": [
-          "Xiling Luo",
-          "Yili Ren",
-          "Jingwen Liu",
-          "Jiankun Hu",
-          "Weiran Liu",
-          "Zhen Wang",
-          "Wei Xu",
-          "Qianhong Wu"
-        ]
-      },
-      {
-        "title": "Edit Distance Based Encryption and Its Application.",
-        "authors": [
-          "Tran Viet Xuan Phuong",
-          "Guomin Yang",
-          "Willy Susilo",
-          "Kaitai Liang"
-        ]
-      },
-      {
-        "title": "Proxy Re-encryption with Delegatable Verifiability.",
-        "authors": [
-          "Xiaodong Lin",
-          "Rongxing Lu"
-        ]
-      },
-      {
-        "title": "Efficient Completely Non-Malleable and RKA Secure Public Key Encryptions.",
-        "authors": [
-          "Shifeng Sun",
-          "Udaya Parampalli",
-          "Tsz Hon Yuen",
-          "Yu Yu",
-          "Dawu Gu"
-        ]
-      },
-      {
-        "title": "Verifiable Searchable Encryption with Aggregate Keys for Data Sharing in Outsourcing Storage.",
-        "authors": [
-          "Tong Li",
-          "Zheli Liu",
-          "Ping Li",
-          "Chunfu Jia",
-          "Zoe Lin Jiang",
-          "Jin Li"
-        ]
-      },
-      {
-        "title": "Public Key Encryption with Authorized Keyword Search.",
-        "authors": [
-          "Peng Jiang",
-          "Yi Mu",
-          "Fuchun Guo",
-          "Qiaoyan Wen"
-        ]
-      },
-      {
-        "title": "Linear Encryption with Keyword Search.",
-        "authors": [
-          "Shiwei Zhang",
-          "Guomin Yang",
-          "Yi Mu"
-        ]
-      },
-      {
-        "title": "Generic Anonymous Identity-Based Broadcast Encryption with Chosen-Ciphertext Security.",
-        "authors": [
-          "Kai He",
-          "Jian Weng",
-          "Man Ho Au",
-          "Yijun Mao",
-          "Robert H. Deng"
-        ]
-      },
-      {
-        "title": "Anonymous Identity-Based Broadcast Encryption with Revocation for File Sharing.",
-        "authors": [
-          "Jianchang Lai",
-          "Yi Mu",
-          "Fuchun Guo",
-          "Willy Susilo",
-          "Rongmao Chen"
-        ]
-      },
-      {
-        "title": "Partial Key Exposure Attacks on RSA with Multiple Exponent Pairs.",
-        "authors": [
-          "Atsushi Takayasu",
-          "Noboru Kunihiro"
-        ]
-      },
-      {
-        "title": "A New Attack on Three Variants of the RSA Cryptosystem.",
-        "authors": [
-          "Martin W. Bunder",
-          "Abderrahmane Nitaj",
-          "Willy Susilo",
-          "Joseph Tonien"
-        ]
-      },
-      {
-        "title": "Generalized Hardness Assumption for Self-bilinear Map with Auxiliary Information.",
-        "authors": [
-          "Takashi Yamakawa",
-          "Goichiro Hanaoka",
-          "Noboru Kunihiro"
-        ]
-      },
-      {
-        "title": "Deterministic Encoding into Twisted Edwards Curves.",
-        "authors": [
-          "Wei Yu",
-          "Kunpeng Wang",
-          "Bao Li",
-          "Xiaoyang He",
-          "Song Tian"
-        ]
-      },
-      {
-        "title": "Improved Rebound Attacks on AESQ: Core Permutation of CAESAR Candidate PAEQ.",
-        "authors": [
-          "Nasour Bagheri",
-          "Florian Mendel",
-          "Yu Sasaki"
-        ]
-      },
-      {
-        "title": "Efficient Beyond-Birthday-Bound-Secure Deterministic Authenticated Encryption with Minimal Stretch.",
-        "authors": [
-          "Christian Forler",
-          "Eik List",
-          "Stefan Lucks",
-          "Jakob Wenzel"
-        ]
-      },
-      {
-        "title": "Improved (related-key) Attacks on Round-Reduced KATAN-32/48/64 Based on the Extended Boomerang Framework.",
-        "authors": [
-          "Jiageng Chen",
-          "Jesen Teh",
-          "Chunhua Su",
-          "Azman Samsudin",
-          "Junbin Fang"
-        ]
-      },
-      {
-        "title": "Authenticated Encryption with Small Stretch (or, How to Accelerate AERO).",
-        "authors": [
-          "Kazuhiko Minematsu"
-        ]
-      },
-      {
-        "title": "Impossible Differential Cryptanalysis of 14-Round Camellia-192.",
-        "authors": [
-          "Keting Jia",
-          "Ning Wang"
-        ]
-      },
-      {
-        "title": "Automatic Differential Analysis of ARX Block Ciphers with Application to SPECK and LEA.",
-        "authors": [
-          "Ling Song",
-          "Zhangjie Huang",
-          "Qianqian Yang"
-        ]
-      },
-      {
-        "title": "On the Security of the LAC Authenticated Encryption Algorithm.",
-        "authors": [
-          "Jiqiang Lu"
-        ]
-      },
-      {
-        "title": "Linear Hull Attack on Round-Reduced Simeck with Dynamic Key-Guessing Techniques.",
-        "authors": [
-          "Lingyue Qin",
-          "Huaifeng Chen",
-          "Xiaoyun Wang"
-        ]
-      },
-      {
-        "title": "Reducing the Key Size of the SRP Encryption Scheme.",
-        "authors": [
-          "Dung Hoang Duong",
-          "Albrecht Petzoldt",
-          "Tsuyoshi Takagi"
-        ]
-      },
-      {
-        "title": "Biometric Access Control with High Dimensional Facial Features.",
-        "authors": [
-          "Ying-Han Pang",
-          "Khor Ean Yee",
-          "Shih Yin Ooi"
-        ]
-      },
-      {
-        "title": "Security Analysis on Privacy-Preserving Cloud Aided Biometric Identification Schemes.",
-        "authors": [
-          "Shiran Pan",
-          "Shen Yan",
-          "Wen Tao Zhu"
-        ]
-      },
-      {
-        "title": "Interest Profiling for Security Monitoring and Forensic Investigation.",
-        "authors": [
-          "Min Yang",
-          "Fei Xu",
-          "Kam-Pui Chow"
-        ]
-      },
-      {
-        "title": "Pseudonymous Signature on eIDAS Token - Implementation Based Privacy Threats.",
-        "authors": [
-          "Miroslaw Kutylowski",
-          "Lucjan Hanzlik",
-          "Kamil Kluczniak"
-        ]
-      },
-      {
-        "title": "A Feasible No-Root Approach on Android.",
-        "authors": [
-          "Yao Cheng",
-          "Yingjiu Li",
-          "Robert H. Deng"
-        ]
-      },
-      {
-        "title": "Improved Classification of Known and Unknown Network Traffic Flows Using Semi-supervised Machine Learning.",
-        "authors": [
-          "Timothy Glennan",
-          "Christopher Leckie",
-          "Sarah M. Erfani"
-        ]
-      },
-      {
-        "title": "A Noiseless Key-Homomorphic PRF: Application on Distributed Storage Systems.",
-        "authors": [
-          "Jhordany Rodriguez Parra",
-          "Terence Chan",
-          "Siu-Wai Ho"
         ]
       }
     ]

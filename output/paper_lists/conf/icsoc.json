@@ -1,261 +1,4 @@
 {
-  "https://dblp.org/db/conf/icsoc/icsoc2024-1.html": {
-    "header": "22nd ICSOC 2024: Tunis, Tunisia - Part I",
-    "year": "2024",
-    "papers": [
-      {
-        "title": "Efficient and Dependency-Aware Placement of Serverless Functions on Edge Infrastructures.",
-        "authors": [
-          "Luciano Baresi",
-          "Giovanni Quattrocchi",
-          "Inacio Gaspar Ticongolo"
-        ]
-      },
-      {
-        "title": "POSEIDON: Efficient Function Placement at the Edge Using Deep Reinforcement Learning.",
-        "authors": [
-          "Prakhar Jain",
-          "Prakhar Singhal",
-          "Divyansh Pandey",
-          "Giovanni Quatrocchi",
-          "Karthik Vaidhyanathan"
-        ]
-      },
-      {
-        "title": "ABBA-VSM: Time Series Classification Using Symbolic Representation on the Edge.",
-        "authors": [
-          "Meerzhan Kanatbekova",
-          "Shashikant Ilager",
-          "Ivona Brandic"
-        ]
-      },
-      {
-        "title": "An Energy-Efficient Partition and Offloading Method for Multi-DNN Applications in Edge-End Collaboration Environments.",
-        "authors": [
-          "Zhiqing Yang",
-          "Xiang He",
-          "Teng Wang",
-          "Zhongjie Wang"
-        ]
-      },
-      {
-        "title": "Crowdsourcing Task Assignment with Category and Mobile Combined Preference Learning.",
-        "authors": [
-          "Yue Ma",
-          "Xiaofeng Gao",
-          "Guihai Chen"
-        ]
-      },
-      {
-        "title": "Federated Learning as a Service for Hierarchical Edge Networks with Heterogeneous Models.",
-        "authors": [
-          "Wentao Gao",
-          "Omid Tavallaie",
-          "Shuaijun Chen",
-          "Albert Y. Zomaya"
-        ]
-      },
-      {
-        "title": "Optimizing Traffic Allocation for Multi-replica Microservice Deployments in Edge Cloud.",
-        "authors": [
-          "Hokun Park",
-          "Hyungjun Kim",
-          "Donggyun Kim",
-          "Gyujeong Lim",
-          "Heonchang Yu"
-        ]
-      },
-      {
-        "title": "An Event-B Based Approach for Horizontally Scalable IoT Applications.",
-        "authors": [
-          "Yassmine Gara Hellal",
-          "Lazhar Hamel",
-          "Mohamed Graiet"
-        ]
-      },
-      {
-        "title": "Efficient Provisioning of IoT Energy Services.",
-        "authors": [
-          "Amani Abusafia",
-          "Athman Bouguettaya",
-          "Abdallah Lakhdari"
-        ]
-      },
-      {
-        "title": "Attention-Driven Conflict Management in Smart IoT-Based Systems.",
-        "authors": [
-          "Christson Awanyo",
-          "Nawal Guermouche"
-        ]
-      },
-      {
-        "title": "Benchmarking Deep Learning Models for Object Detection on Edge Computing Devices.",
-        "authors": [
-          "Daghash K. Alqahtani",
-          "Muhammad Aamir Cheema",
-          "Adel Nadjaran Toosi"
-        ]
-      },
-      {
-        "title": "LLM Enhanced Representation for Cold Start Service Recommendation.",
-        "authors": [
-          "Dunlei Rong",
-          "Lina Yao",
-          "Yinting Zheng",
-          "Shuang Yu",
-          "Xiaofei Xu",
-          "Mingyi Liu",
-          "Zhongjie Wang"
-        ]
-      },
-      {
-        "title": "Combining Generative AI and PPTalk Service Specification for Dynamic and Adaptive Task-Oriented Chatbots.",
-        "authors": [
-          "María Jesús Rodríguez-Sánchez",
-          "Zoraida Callejas",
-          "Ángel Ruiz-Zafra",
-          "Kawtar Benghazi"
-        ]
-      },
-      {
-        "title": "Automated Generation of BPMN Processes from Textual Requirements.",
-        "authors": [
-          "Quentin Nivon",
-          "Gwen Salaün"
-        ]
-      },
-      {
-        "title": "Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data.",
-        "authors": [
-          "Can Wang",
-          "Dianbo Sui",
-          "Hongliang Sun",
-          "Hao Ding",
-          "Bolin Zhang",
-          "Zhiying Tu"
-        ]
-      },
-      {
-        "title": "UELLM: A Unified and Efficient Approach for Large Language Model Inference Serving.",
-        "authors": [
-          "Yiyuan He",
-          "Minxian Xu",
-          "Jingfeng Wu",
-          "Wanyi Zheng",
-          "Kejiang Ye",
-          "Cheng-Zhong Xu"
-        ]
-      },
-      {
-        "title": "Service-Oriented Requirements Elicitation Through Systematic Questionnaire Design: A Problem-Driven GenAI Approach.",
-        "authors": [
-          "Julie R. Rauer",
-          "To Kim Bao Pham",
-          "Sam Supakkul",
-          "Tom Hill",
-          "Lawrence Chung"
-        ]
-      },
-      {
-        "title": "Assessing Large Language Models Effectiveness in Outdated Method Renaming.",
-        "authors": [
-          "Ali Ben Mrad",
-          "Abdoul Majid O. Thiombiano",
-          "Mohamed Wiem Mkaouer",
-          "Brahim Hnich"
-        ]
-      },
-      {
-        "title": "DynaEDI: Decentralized Integrity Verification for Dynamic Edge Data.",
-        "authors": [
-          "Qiang He",
-          "Jiyu Yang",
-          "Feifei Chen",
-          "Cong Tian",
-          "Yanhui Li",
-          "Yun Yang"
-        ]
-      },
-      {
-        "title": "Heterogeneous Multi Relation Trust for SIoT Service Recommendation.",
-        "authors": [
-          "Geming Xia",
-          "Chaodong Yu",
-          "Linxuan Song",
-          "Wei Peng",
-          "Yuze Zhang",
-          "Hongfeng Li"
-        ]
-      },
-      {
-        "title": "A Context-Aware Service Framework for Detecting Fake Images.",
-        "authors": [
-          "Muhammad Umair",
-          "Paramvir Singh",
-          "Athman Bouguettaya"
-        ]
-      },
-      {
-        "title": "Bias Exposed: The BiaXposer Framework for NLP Fairness.",
-        "authors": [
-          "Yacine Gaci",
-          "Boualem Benatallah",
-          "Fabio Casati",
-          "Khalid Benabdeslem"
-        ]
-      },
-      {
-        "title": "FlowShredder: A Protocol-Independent in-Network Security Service in the Cloud.",
-        "authors": [
-          "Bin Song",
-          "Bin Sun",
-          "Qiang Fu",
-          "Hao Li"
-        ]
-      },
-      {
-        "title": "HiGPP: A History-Informed Graph-Based Process Predictor for Next Activity.",
-        "authors": [
-          "Jiaxing Wang",
-          "Chengliang Lu",
-          "Yifeng Yu",
-          "Bin Cao",
-          "Kai Fang",
-          "Jing Fan"
-        ]
-      },
-      {
-        "title": "From Visual Choreographies to Flexible Information Protocols.",
-        "authors": [
-          "Tom Lichtenstein",
-          "Amit K. Chopra",
-          "Munindar P. Singh",
-          "Mathias Weske"
-        ]
-      },
-      {
-        "title": "Architectural Elements of Decentralized Process Management Systems.",
-        "authors": [
-          "Kai Grunert",
-          "Janis Joderi Shoferi",
-          "Lucas Gold",
-          "Wolf Rieder",
-          "Axel Küpper"
-        ]
-      },
-      {
-        "title": "LLM-Based Business Process Documentation Generation.",
-        "authors": [
-          "Rui Zhu",
-          "Quanzhou Hu",
-          "Lijie Wen",
-          "Leilei Lin",
-          "Honghao Xiao",
-          "Chaogang Wang"
-        ]
-      }
-    ]
-  },
   "https://dblp.org/db/conf/icsoc/icsoc2024-2.html": {
     "header": "22nd ICSOC 2024: Tunis, Tunisia - Part II",
     "year": "2024",
@@ -537,6 +280,263 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/icsoc/icsoc2024-1.html": {
+    "header": "22nd ICSOC 2024: Tunis, Tunisia - Part I",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "Efficient and Dependency-Aware Placement of Serverless Functions on Edge Infrastructures.",
+        "authors": [
+          "Luciano Baresi",
+          "Giovanni Quattrocchi",
+          "Inacio Gaspar Ticongolo"
+        ]
+      },
+      {
+        "title": "POSEIDON: Efficient Function Placement at the Edge Using Deep Reinforcement Learning.",
+        "authors": [
+          "Prakhar Jain",
+          "Prakhar Singhal",
+          "Divyansh Pandey",
+          "Giovanni Quatrocchi",
+          "Karthik Vaidhyanathan"
+        ]
+      },
+      {
+        "title": "ABBA-VSM: Time Series Classification Using Symbolic Representation on the Edge.",
+        "authors": [
+          "Meerzhan Kanatbekova",
+          "Shashikant Ilager",
+          "Ivona Brandic"
+        ]
+      },
+      {
+        "title": "An Energy-Efficient Partition and Offloading Method for Multi-DNN Applications in Edge-End Collaboration Environments.",
+        "authors": [
+          "Zhiqing Yang",
+          "Xiang He",
+          "Teng Wang",
+          "Zhongjie Wang"
+        ]
+      },
+      {
+        "title": "Crowdsourcing Task Assignment with Category and Mobile Combined Preference Learning.",
+        "authors": [
+          "Yue Ma",
+          "Xiaofeng Gao",
+          "Guihai Chen"
+        ]
+      },
+      {
+        "title": "Federated Learning as a Service for Hierarchical Edge Networks with Heterogeneous Models.",
+        "authors": [
+          "Wentao Gao",
+          "Omid Tavallaie",
+          "Shuaijun Chen",
+          "Albert Y. Zomaya"
+        ]
+      },
+      {
+        "title": "Optimizing Traffic Allocation for Multi-replica Microservice Deployments in Edge Cloud.",
+        "authors": [
+          "Hokun Park",
+          "Hyungjun Kim",
+          "Donggyun Kim",
+          "Gyujeong Lim",
+          "Heonchang Yu"
+        ]
+      },
+      {
+        "title": "An Event-B Based Approach for Horizontally Scalable IoT Applications.",
+        "authors": [
+          "Yassmine Gara Hellal",
+          "Lazhar Hamel",
+          "Mohamed Graiet"
+        ]
+      },
+      {
+        "title": "Efficient Provisioning of IoT Energy Services.",
+        "authors": [
+          "Amani Abusafia",
+          "Athman Bouguettaya",
+          "Abdallah Lakhdari"
+        ]
+      },
+      {
+        "title": "Attention-Driven Conflict Management in Smart IoT-Based Systems.",
+        "authors": [
+          "Christson Awanyo",
+          "Nawal Guermouche"
+        ]
+      },
+      {
+        "title": "Benchmarking Deep Learning Models for Object Detection on Edge Computing Devices.",
+        "authors": [
+          "Daghash K. Alqahtani",
+          "Muhammad Aamir Cheema",
+          "Adel Nadjaran Toosi"
+        ]
+      },
+      {
+        "title": "LLM Enhanced Representation for Cold Start Service Recommendation.",
+        "authors": [
+          "Dunlei Rong",
+          "Lina Yao",
+          "Yinting Zheng",
+          "Shuang Yu",
+          "Xiaofei Xu",
+          "Mingyi Liu",
+          "Zhongjie Wang"
+        ]
+      },
+      {
+        "title": "Combining Generative AI and PPTalk Service Specification for Dynamic and Adaptive Task-Oriented Chatbots.",
+        "authors": [
+          "María Jesús Rodríguez-Sánchez",
+          "Zoraida Callejas",
+          "Ángel Ruiz-Zafra",
+          "Kawtar Benghazi"
+        ]
+      },
+      {
+        "title": "Automated Generation of BPMN Processes from Textual Requirements.",
+        "authors": [
+          "Quentin Nivon",
+          "Gwen Salaün"
+        ]
+      },
+      {
+        "title": "Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data.",
+        "authors": [
+          "Can Wang",
+          "Dianbo Sui",
+          "Hongliang Sun",
+          "Hao Ding",
+          "Bolin Zhang",
+          "Zhiying Tu"
+        ]
+      },
+      {
+        "title": "UELLM: A Unified and Efficient Approach for Large Language Model Inference Serving.",
+        "authors": [
+          "Yiyuan He",
+          "Minxian Xu",
+          "Jingfeng Wu",
+          "Wanyi Zheng",
+          "Kejiang Ye",
+          "Cheng-Zhong Xu"
+        ]
+      },
+      {
+        "title": "Service-Oriented Requirements Elicitation Through Systematic Questionnaire Design: A Problem-Driven GenAI Approach.",
+        "authors": [
+          "Julie R. Rauer",
+          "To Kim Bao Pham",
+          "Sam Supakkul",
+          "Tom Hill",
+          "Lawrence Chung"
+        ]
+      },
+      {
+        "title": "Assessing Large Language Models Effectiveness in Outdated Method Renaming.",
+        "authors": [
+          "Ali Ben Mrad",
+          "Abdoul Majid O. Thiombiano",
+          "Mohamed Wiem Mkaouer",
+          "Brahim Hnich"
+        ]
+      },
+      {
+        "title": "DynaEDI: Decentralized Integrity Verification for Dynamic Edge Data.",
+        "authors": [
+          "Qiang He",
+          "Jiyu Yang",
+          "Feifei Chen",
+          "Cong Tian",
+          "Yanhui Li",
+          "Yun Yang"
+        ]
+      },
+      {
+        "title": "Heterogeneous Multi Relation Trust for SIoT Service Recommendation.",
+        "authors": [
+          "Geming Xia",
+          "Chaodong Yu",
+          "Linxuan Song",
+          "Wei Peng",
+          "Yuze Zhang",
+          "Hongfeng Li"
+        ]
+      },
+      {
+        "title": "A Context-Aware Service Framework for Detecting Fake Images.",
+        "authors": [
+          "Muhammad Umair",
+          "Paramvir Singh",
+          "Athman Bouguettaya"
+        ]
+      },
+      {
+        "title": "Bias Exposed: The BiaXposer Framework for NLP Fairness.",
+        "authors": [
+          "Yacine Gaci",
+          "Boualem Benatallah",
+          "Fabio Casati",
+          "Khalid Benabdeslem"
+        ]
+      },
+      {
+        "title": "FlowShredder: A Protocol-Independent in-Network Security Service in the Cloud.",
+        "authors": [
+          "Bin Song",
+          "Bin Sun",
+          "Qiang Fu",
+          "Hao Li"
+        ]
+      },
+      {
+        "title": "HiGPP: A History-Informed Graph-Based Process Predictor for Next Activity.",
+        "authors": [
+          "Jiaxing Wang",
+          "Chengliang Lu",
+          "Yifeng Yu",
+          "Bin Cao",
+          "Kai Fang",
+          "Jing Fan"
+        ]
+      },
+      {
+        "title": "From Visual Choreographies to Flexible Information Protocols.",
+        "authors": [
+          "Tom Lichtenstein",
+          "Amit K. Chopra",
+          "Munindar P. Singh",
+          "Mathias Weske"
+        ]
+      },
+      {
+        "title": "Architectural Elements of Decentralized Process Management Systems.",
+        "authors": [
+          "Kai Grunert",
+          "Janis Joderi Shoferi",
+          "Lucas Gold",
+          "Wolf Rieder",
+          "Axel Küpper"
+        ]
+      },
+      {
+        "title": "LLM-Based Business Process Documentation Generation.",
+        "authors": [
+          "Rui Zhu",
+          "Quanzhou Hu",
+          "Lijie Wen",
+          "Leilei Lin",
+          "Honghao Xiao",
+          "Chaogang Wang"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/icsoc/icsoc2023w.html": {
     "header": "21st ICSOC Workshops 2023: Rome, Italy - Workshops",
     "year": "2023",
@@ -802,6 +802,205 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/icsoc/icsoc2023-2.html": {
+    "header": "21st ICSOC 2023: Rome, Italy - Part II",
+    "year": "2023",
+    "papers": [
+      {
+        "title": "Artifact-Driven Process Monitoring at Scale.",
+        "authors": [
+          "Giovanni Meroni",
+          "Szabolcs Garda"
+        ]
+      },
+      {
+        "title": "LoVizQL: A Query Language for Visualizing and Analyzing Business Processes from Event Logs.",
+        "authors": [
+          "María Salas-Urbano",
+          "Carlos Capitán-Agudo",
+          "Cristina Cabanillas",
+          "Manuel Resinas"
+        ]
+      },
+      {
+        "title": "On the Nature of Data in RPA Bots.",
+        "authors": [
+          "Maximilian Völker",
+          "Mathias Weske"
+        ]
+      },
+      {
+        "title": "Remaining Time Prediction for Collaborative Business Processes with Privacy Preservation.",
+        "authors": [
+          "Jian Cao",
+          "Chi Wang",
+          "Wei Guan",
+          "Shiyou Qian",
+          "Haiyan Zhao"
+        ]
+      },
+      {
+        "title": "SWARM: A Scientific Workflow Fragments Recommendation Approach via Contrastive Learning and Semantic Matching.",
+        "authors": [
+          "Yang Gu",
+          "Jian Cao",
+          "Jinghua Tang",
+          "Shiyou Qian",
+          "Wei Guan"
+        ]
+      },
+      {
+        "title": "TCTV: Trace Clustering Considering Intra- and Inter-cluster Similarity Based on Trace Variants.",
+        "authors": [
+          "Leilei Lin",
+          "Ying Di",
+          "Wenlong Chen",
+          "Yunuo Cao",
+          "Rui Zhu",
+          "Yuan Zhang"
+        ]
+      },
+      {
+        "title": "Influence-Guided Data Augmentation in Graph Contrastive Learning for Recommendation.",
+        "authors": [
+          "Qi Zhang",
+          "Heran Xi",
+          "Jinghua Zhu"
+        ]
+      },
+      {
+        "title": "Observation Is Reality? A Graph Diffusion-Based Approach for Service Tags Recommendation.",
+        "authors": [
+          "Shuang Yu",
+          "Qingfeng Li",
+          "Mingyi Liu",
+          "Zhongjie Wang"
+        ]
+      },
+      {
+        "title": "Uncovering Implicit Bundling Constraints: Empowering Cloud Network Service Discovery.",
+        "authors": [
+          "Hayet Brabra",
+          "Imen Jerbi",
+          "Mohamed Sellami",
+          "Walid Gaaloul",
+          "Djamal Zeghlache"
+        ]
+      },
+      {
+        "title": "A Deep Reinforcement Learning Approach to Online Microservice Deployment in Mobile Edge Computing.",
+        "authors": [
+          "Yuqi Zhao",
+          "Jian Wang",
+          "Bing Li"
+        ]
+      },
+      {
+        "title": "CET-AoTM: Cloud-Edge-Terminal Collaborative Trust Evaluation Scheme for AIoT Networks.",
+        "authors": [
+          "Chaodong Yu",
+          "Geming Xia",
+          "Linxuan Song",
+          "Wei Peng",
+          "Jian Chen",
+          "Danlei Zhang",
+          "Hongfeng Li"
+        ]
+      },
+      {
+        "title": "Context-Aware Service Delegation for Opportunistic Pervasive Computing.",
+        "authors": [
+          "Juan Luis Herrera",
+          "Hsiao-Yuan Chen",
+          "Javier Berrocal",
+          "Juan Manuel Murillo",
+          "Christine Julien"
+        ]
+      },
+      {
+        "title": "Context-Aware Trustworthy IoT Energy Services Provisioning.",
+        "authors": [
+          "Amani Abusafia",
+          "Athman Bouguettaya",
+          "Abdallah Lakhdari",
+          "Sami Yangui"
+        ]
+      },
+      {
+        "title": "Data-Driven Generation of Services for IoT-Based Online Activity Detection.",
+        "authors": [
+          "Ronny Seiger",
+          "Marco Franceschetti",
+          "Barbara Weber"
+        ]
+      },
+      {
+        "title": "Detecting Changes in Crowdsourced Social Media Images.",
+        "authors": [
+          "Muhammad Umair",
+          "Athman Bouguettaya",
+          "Abdallah Lakhdari"
+        ]
+      },
+      {
+        "title": "Fast Configuring and Training for Providing Context-Aware Personalized Intelligent Driver Assistance Services.",
+        "authors": [
+          "Jun Na",
+          "Handuo Zhang",
+          "Ouwen Zhu",
+          "Weiye Xie",
+          "Bin Zhang",
+          "Changsheng Zhang"
+        ]
+      },
+      {
+        "title": "Fused User Preference Learning for Task Assignment in Mobile Crowdsourcing.",
+        "authors": [
+          "Yue Ma",
+          "Li Ma",
+          "Xiaofeng Gao",
+          "Guihai Chen"
+        ]
+      },
+      {
+        "title": "Octopus: SLO-Aware Progressive Inference Serving via Deep Reinforcement Learning in Multi-tenant Edge Cluster.",
+        "authors": [
+          "Ziyang Zhang",
+          "Yang Zhao",
+          "Jie Liu"
+        ]
+      },
+      {
+        "title": "Anonymization-as-a-Service: The Service Center Transcripts Industrial Case.",
+        "authors": [
+          "Nemania Borovits",
+          "Gianluigi Bardelloni",
+          "Damian Andrew Tamburri",
+          "Willem-Jan van den Heuvel"
+        ]
+      },
+      {
+        "title": "Attribute Authorization - A Novel Enhancement to API Gateways.",
+        "authors": [
+          "Archana Sulebele",
+          "Sai Krishna Munnangi"
+        ]
+      },
+      {
+        "title": "Unveiling Bottlenecks in Logistics: A Case Study on Process Mining for Root Cause Identification and Diagnostics in an Air Cargo Terminal.",
+        "authors": [
+          "Chiao-Yun Li",
+          "Tejaswini Shinde",
+          "Wanyi He",
+          "Sean Shing Fung Lau",
+          "Morgan Xian Biao Hiew",
+          "Nicholas T. L. Tam",
+          "Aparna Joshi",
+          "Wil M. P. van der Aalst"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/icsoc/icsoc2023-1.html": {
     "header": "21st ICSOC 2023: Rome, Italy - Part I",
     "year": "2023",
@@ -1057,205 +1256,6 @@
           "Junyuan Liang",
           "Qilin Sun",
           "Fan Zhou"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/icsoc/icsoc2023-2.html": {
-    "header": "21st ICSOC 2023: Rome, Italy - Part II",
-    "year": "2023",
-    "papers": [
-      {
-        "title": "Artifact-Driven Process Monitoring at Scale.",
-        "authors": [
-          "Giovanni Meroni",
-          "Szabolcs Garda"
-        ]
-      },
-      {
-        "title": "LoVizQL: A Query Language for Visualizing and Analyzing Business Processes from Event Logs.",
-        "authors": [
-          "María Salas-Urbano",
-          "Carlos Capitán-Agudo",
-          "Cristina Cabanillas",
-          "Manuel Resinas"
-        ]
-      },
-      {
-        "title": "On the Nature of Data in RPA Bots.",
-        "authors": [
-          "Maximilian Völker",
-          "Mathias Weske"
-        ]
-      },
-      {
-        "title": "Remaining Time Prediction for Collaborative Business Processes with Privacy Preservation.",
-        "authors": [
-          "Jian Cao",
-          "Chi Wang",
-          "Wei Guan",
-          "Shiyou Qian",
-          "Haiyan Zhao"
-        ]
-      },
-      {
-        "title": "SWARM: A Scientific Workflow Fragments Recommendation Approach via Contrastive Learning and Semantic Matching.",
-        "authors": [
-          "Yang Gu",
-          "Jian Cao",
-          "Jinghua Tang",
-          "Shiyou Qian",
-          "Wei Guan"
-        ]
-      },
-      {
-        "title": "TCTV: Trace Clustering Considering Intra- and Inter-cluster Similarity Based on Trace Variants.",
-        "authors": [
-          "Leilei Lin",
-          "Ying Di",
-          "Wenlong Chen",
-          "Yunuo Cao",
-          "Rui Zhu",
-          "Yuan Zhang"
-        ]
-      },
-      {
-        "title": "Influence-Guided Data Augmentation in Graph Contrastive Learning for Recommendation.",
-        "authors": [
-          "Qi Zhang",
-          "Heran Xi",
-          "Jinghua Zhu"
-        ]
-      },
-      {
-        "title": "Observation Is Reality? A Graph Diffusion-Based Approach for Service Tags Recommendation.",
-        "authors": [
-          "Shuang Yu",
-          "Qingfeng Li",
-          "Mingyi Liu",
-          "Zhongjie Wang"
-        ]
-      },
-      {
-        "title": "Uncovering Implicit Bundling Constraints: Empowering Cloud Network Service Discovery.",
-        "authors": [
-          "Hayet Brabra",
-          "Imen Jerbi",
-          "Mohamed Sellami",
-          "Walid Gaaloul",
-          "Djamal Zeghlache"
-        ]
-      },
-      {
-        "title": "A Deep Reinforcement Learning Approach to Online Microservice Deployment in Mobile Edge Computing.",
-        "authors": [
-          "Yuqi Zhao",
-          "Jian Wang",
-          "Bing Li"
-        ]
-      },
-      {
-        "title": "CET-AoTM: Cloud-Edge-Terminal Collaborative Trust Evaluation Scheme for AIoT Networks.",
-        "authors": [
-          "Chaodong Yu",
-          "Geming Xia",
-          "Linxuan Song",
-          "Wei Peng",
-          "Jian Chen",
-          "Danlei Zhang",
-          "Hongfeng Li"
-        ]
-      },
-      {
-        "title": "Context-Aware Service Delegation for Opportunistic Pervasive Computing.",
-        "authors": [
-          "Juan Luis Herrera",
-          "Hsiao-Yuan Chen",
-          "Javier Berrocal",
-          "Juan Manuel Murillo",
-          "Christine Julien"
-        ]
-      },
-      {
-        "title": "Context-Aware Trustworthy IoT Energy Services Provisioning.",
-        "authors": [
-          "Amani Abusafia",
-          "Athman Bouguettaya",
-          "Abdallah Lakhdari",
-          "Sami Yangui"
-        ]
-      },
-      {
-        "title": "Data-Driven Generation of Services for IoT-Based Online Activity Detection.",
-        "authors": [
-          "Ronny Seiger",
-          "Marco Franceschetti",
-          "Barbara Weber"
-        ]
-      },
-      {
-        "title": "Detecting Changes in Crowdsourced Social Media Images.",
-        "authors": [
-          "Muhammad Umair",
-          "Athman Bouguettaya",
-          "Abdallah Lakhdari"
-        ]
-      },
-      {
-        "title": "Fast Configuring and Training for Providing Context-Aware Personalized Intelligent Driver Assistance Services.",
-        "authors": [
-          "Jun Na",
-          "Handuo Zhang",
-          "Ouwen Zhu",
-          "Weiye Xie",
-          "Bin Zhang",
-          "Changsheng Zhang"
-        ]
-      },
-      {
-        "title": "Fused User Preference Learning for Task Assignment in Mobile Crowdsourcing.",
-        "authors": [
-          "Yue Ma",
-          "Li Ma",
-          "Xiaofeng Gao",
-          "Guihai Chen"
-        ]
-      },
-      {
-        "title": "Octopus: SLO-Aware Progressive Inference Serving via Deep Reinforcement Learning in Multi-tenant Edge Cluster.",
-        "authors": [
-          "Ziyang Zhang",
-          "Yang Zhao",
-          "Jie Liu"
-        ]
-      },
-      {
-        "title": "Anonymization-as-a-Service: The Service Center Transcripts Industrial Case.",
-        "authors": [
-          "Nemania Borovits",
-          "Gianluigi Bardelloni",
-          "Damian Andrew Tamburri",
-          "Willem-Jan van den Heuvel"
-        ]
-      },
-      {
-        "title": "Attribute Authorization - A Novel Enhancement to API Gateways.",
-        "authors": [
-          "Archana Sulebele",
-          "Sai Krishna Munnangi"
-        ]
-      },
-      {
-        "title": "Unveiling Bottlenecks in Logistics: A Case Study on Process Mining for Root Cause Identification and Diagnostics in an Air Cargo Terminal.",
-        "authors": [
-          "Chiao-Yun Li",
-          "Tejaswini Shinde",
-          "Wanyi He",
-          "Sean Shing Fung Lau",
-          "Morgan Xian Biao Hiew",
-          "Nicholas T. L. Tam",
-          "Aparna Joshi",
-          "Wil M. P. van der Aalst"
         ]
       }
     ]
@@ -2072,6 +2072,290 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/icsoc/icsoc2021w.html": {
+    "header": "19th ICSOC Workshops 2021: Dubai, United Arab Emirates",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "A Study of Artificial Intelligence Frameworks and Their Capability to Diagnose Major Depressive Disorder.",
+        "authors": [
+          "Oluwafeyisayo Oyeniyi",
+          "Shreyansh Sandip Dhandhukia",
+          "Amartya Sen",
+          "Kenneth K. Fletcher"
+        ]
+      },
+      {
+        "title": "Say No2Ads: Automatic Advertisement and Music Filtering from Broadcast News Content.",
+        "authors": [
+          "Shayan Zamanirad",
+          "Koen Douterloigne"
+        ]
+      },
+      {
+        "title": "Hybrid Recommendation of Movies Based on Deep Content Features.",
+        "authors": [
+          "Tord Kvifte",
+          "Mehdi Elahi",
+          "Christoph Trattner"
+        ]
+      },
+      {
+        "title": "Automatic Image Annotation Using Quantization Reweighting Function and Graph Neural Networks.",
+        "authors": [
+          "Fariba Lotfi",
+          "Mansour Jamzad",
+          "Hamid Beigy"
+        ]
+      },
+      {
+        "title": "Interactive Process Improvement Using Simulation of Enriched Process Trees.",
+        "authors": [
+          "Mahsa Pourbafrani",
+          "Wil M. P. van der Aalst"
+        ]
+      },
+      {
+        "title": "A Reproducible Approach for Mining Business Activities from Emails for Process Analytics.",
+        "authors": [
+          "Raphaël Azorin",
+          "Daniela Grigori",
+          "Khalid Belhajjame"
+        ]
+      },
+      {
+        "title": "Human-in-the-Loop Optimization for Artificial Intelligence Algorithms.",
+        "authors": [
+          "Helia Farhood",
+          "Morteza Saberi",
+          "Mohammad Najafi"
+        ]
+      },
+      {
+        "title": "A Recommender System and Risk Mitigation Strategy for Supply Chain Management Using the Counterfactual Explanation Algorithm.",
+        "authors": [
+          "Amir Hossein Ordibazar",
+          "Omar Hussain",
+          "Morteza Saberi"
+        ]
+      },
+      {
+        "title": "Improving Multi-label Text Classification Models with Knowledge Graphs.",
+        "authors": [
+          "Divya Prabhu",
+          "Enayat Rajabi",
+          "Mohan Kumar Ganta",
+          "Tressy Thomas"
+        ]
+      },
+      {
+        "title": "An Iterative Model for Quality Assessment in Collaborative Content Generation Systems.",
+        "authors": [
+          "Fariba Abedinzadeh",
+          "Haleh Amintoosi",
+          "Mohammad Allahbakhsh"
+        ]
+      },
+      {
+        "title": "Log Attention - Assessing Software Releases with Attention-Based Log Anomaly Detection.",
+        "authors": [
+          "Sohail Munir",
+          "Hamid Ali",
+          "Jahangeer Qureshi"
+        ]
+      },
+      {
+        "title": "A Taxonomy of Anomalies in Log Data.",
+        "authors": [
+          "Thorsten Wittkopp",
+          "Philipp Wiesner",
+          "Dominik Scheinert",
+          "Odej Kao"
+        ]
+      },
+      {
+        "title": "Little Help Makes a Big Difference: Leveraging Active Learning to Improve Unsupervised Time Series Anomaly Detection.",
+        "authors": [
+          "Hamza Bodor",
+          "Thai V. Hoang",
+          "Zonghua Zhang"
+        ]
+      },
+      {
+        "title": "MMRCA: MultiModal Root Cause Analysis.",
+        "authors": [
+          "Gary White",
+          "Jaroslaw Diuwe",
+          "Erika Fonseca",
+          "Owen O'Brien"
+        ]
+      },
+      {
+        "title": "IAD: Indirect Anomalous VMMs Detection in the Cloud-Based Environment.",
+        "authors": [
+          "Anshul Jindal",
+          "Ilya Shakhat",
+          "Jorge Cardoso",
+          "Michael Gerndt",
+          "Vladimir Podolskiy"
+        ]
+      },
+      {
+        "title": "Comparing Graph Data Science Libraries for Querying and Analysing Datasets: Towards Data Science Queries on Graphs.",
+        "authors": [
+          "Genoveva Vargas-Solar",
+          "Pierre Marrec",
+          "Mirian Halfeld Ferrari Alves"
+        ]
+      },
+      {
+        "title": "Gamification for Healthier Lifestyle - User Retention.",
+        "authors": [
+          "Shabih Fatima",
+          "Juan Carlos Augusto",
+          "Ralph Moseley",
+          "Povilas Urbonas"
+        ]
+      },
+      {
+        "title": "Streaming and Visualising Neuronal Signals for Understanding Pain.",
+        "authors": [
+          "Javier-Alfonso Espinosa-Oviedo"
+        ]
+      },
+      {
+        "title": "Graph Analytics Workflows Enactment on Just in Time Data Centres Position Paper.",
+        "authors": [
+          "Ali Akoglu",
+          "José-Luis Zechinelli-Martini",
+          "Hamamache Kheddouci",
+          "Genoveva Vargas-Solar"
+        ]
+      },
+      {
+        "title": "Data Centred Intelligent Geosciences: Research Agenda and Opportunities Position Paper.",
+        "authors": [
+          "Aderson Farias do Nascimento",
+          "Martin A. Musicante",
+          "Umberto Souza da Costa",
+          "Bruno M. Carvalho",
+          "Marcus Alexandre Nunes",
+          "Genoveva Vargas-Solar"
+        ]
+      },
+      {
+        "title": "Design Patterns in an ERP Environment.",
+        "authors": [
+          "Aiman Zahid",
+          "Sidra Akhtar",
+          "Wafa Basit"
+        ]
+      },
+      {
+        "title": "Towards a Semantics-Based Search Engine for Smart Contract Information.",
+        "authors": [
+          "Chaochen Shi",
+          "Yong Xiang",
+          "Jiangshan Yu",
+          "Longxiang Gao"
+        ]
+      },
+      {
+        "title": "A Blockchain-Based Autonomous System for Primary Financial Market.",
+        "authors": [
+          "Ji Liu",
+          "Shiping Chen"
+        ]
+      },
+      {
+        "title": "Multi-agent Reinforcement Learning for Task Allocation in Cooperative Edge Cloud Computing.",
+        "authors": [
+          "Shiyao Ding"
+        ]
+      },
+      {
+        "title": "Occupancy Estimation from Thermal Images.",
+        "authors": [
+          "Zishan Qin",
+          "Dipankar Chaki",
+          "Abdallah Lakhdari",
+          "Amani Abusafia",
+          "Athman Bouguettaya"
+        ]
+      },
+      {
+        "title": "Constraint-Aware Trajectory for Drone Delivery Services.",
+        "authors": [
+          "Jermaine Janszen",
+          "Babar Shahzaad",
+          "Balsam Alkouz",
+          "Athman Bouguettaya"
+        ]
+      },
+      {
+        "title": "Seamless Synchronization for Collaborative Web Services.",
+        "authors": [
+          "Kristof Jannes",
+          "Bert Lagaisse",
+          "Wouter Joosen"
+        ]
+      },
+      {
+        "title": "Crowd4ME: A Crowdsourcing-Based Micro-expression Collection Platform.",
+        "authors": [
+          "Xun Wang",
+          "Liping Lv",
+          "Yili Fang",
+          "Xinyi Ding",
+          "Tao Han"
+        ]
+      },
+      {
+        "title": "AI-Enabled Processes: The Age of Artificial Intelligence and Big Data.",
+        "authors": [
+          "Amin Beheshti",
+          "Boualem Benatallah",
+          "Quan Z. Sheng",
+          "Fabio Casati",
+          "Hamid Reza Motahari-Nezhad",
+          "Jian Yang",
+          "Aditya Ghose"
+        ]
+      },
+      {
+        "title": "Continuously Testing Distributed IoT Systems: An Overview of the State of the Art.",
+        "authors": [
+          "Jossekin Beilharz",
+          "Philipp Wiesner",
+          "Arne Boockmeyer",
+          "Lukas Pirl",
+          "Dirk Friedenberger",
+          "Florian Brokhausen",
+          "Ilja Behnke",
+          "Andreas Polze",
+          "Lauritz Thamsen"
+        ]
+      },
+      {
+        "title": "Towards Scalable Blockchains Using Service-Oriented Architectures.",
+        "authors": [
+          "Ali Dorri",
+          "Raja Jurdak",
+          "Amin Beheshti",
+          "Alistair Barros"
+        ]
+      },
+      {
+        "title": "Snapshot of Research Issues in Service Robots.",
+        "authors": [
+          "Patrick C. K. Hung",
+          "Farkhund Iqbal",
+          "Saiqa Aleem",
+          "Laura Rafferty"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/icsoc/icsoc2021.html": {
     "header": "19th ICSOC 2021: Virtual Event",
     "year": "2021",
@@ -2678,290 +2962,6 @@
         "authors": [
           "Xinyi Zhou",
           "Xiaofeng Gao"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/icsoc/icsoc2021w.html": {
-    "header": "19th ICSOC Workshops 2021: Dubai, United Arab Emirates",
-    "year": "2021",
-    "papers": [
-      {
-        "title": "A Study of Artificial Intelligence Frameworks and Their Capability to Diagnose Major Depressive Disorder.",
-        "authors": [
-          "Oluwafeyisayo Oyeniyi",
-          "Shreyansh Sandip Dhandhukia",
-          "Amartya Sen",
-          "Kenneth K. Fletcher"
-        ]
-      },
-      {
-        "title": "Say No2Ads: Automatic Advertisement and Music Filtering from Broadcast News Content.",
-        "authors": [
-          "Shayan Zamanirad",
-          "Koen Douterloigne"
-        ]
-      },
-      {
-        "title": "Hybrid Recommendation of Movies Based on Deep Content Features.",
-        "authors": [
-          "Tord Kvifte",
-          "Mehdi Elahi",
-          "Christoph Trattner"
-        ]
-      },
-      {
-        "title": "Automatic Image Annotation Using Quantization Reweighting Function and Graph Neural Networks.",
-        "authors": [
-          "Fariba Lotfi",
-          "Mansour Jamzad",
-          "Hamid Beigy"
-        ]
-      },
-      {
-        "title": "Interactive Process Improvement Using Simulation of Enriched Process Trees.",
-        "authors": [
-          "Mahsa Pourbafrani",
-          "Wil M. P. van der Aalst"
-        ]
-      },
-      {
-        "title": "A Reproducible Approach for Mining Business Activities from Emails for Process Analytics.",
-        "authors": [
-          "Raphaël Azorin",
-          "Daniela Grigori",
-          "Khalid Belhajjame"
-        ]
-      },
-      {
-        "title": "Human-in-the-Loop Optimization for Artificial Intelligence Algorithms.",
-        "authors": [
-          "Helia Farhood",
-          "Morteza Saberi",
-          "Mohammad Najafi"
-        ]
-      },
-      {
-        "title": "A Recommender System and Risk Mitigation Strategy for Supply Chain Management Using the Counterfactual Explanation Algorithm.",
-        "authors": [
-          "Amir Hossein Ordibazar",
-          "Omar Hussain",
-          "Morteza Saberi"
-        ]
-      },
-      {
-        "title": "Improving Multi-label Text Classification Models with Knowledge Graphs.",
-        "authors": [
-          "Divya Prabhu",
-          "Enayat Rajabi",
-          "Mohan Kumar Ganta",
-          "Tressy Thomas"
-        ]
-      },
-      {
-        "title": "An Iterative Model for Quality Assessment in Collaborative Content Generation Systems.",
-        "authors": [
-          "Fariba Abedinzadeh",
-          "Haleh Amintoosi",
-          "Mohammad Allahbakhsh"
-        ]
-      },
-      {
-        "title": "Log Attention - Assessing Software Releases with Attention-Based Log Anomaly Detection.",
-        "authors": [
-          "Sohail Munir",
-          "Hamid Ali",
-          "Jahangeer Qureshi"
-        ]
-      },
-      {
-        "title": "A Taxonomy of Anomalies in Log Data.",
-        "authors": [
-          "Thorsten Wittkopp",
-          "Philipp Wiesner",
-          "Dominik Scheinert",
-          "Odej Kao"
-        ]
-      },
-      {
-        "title": "Little Help Makes a Big Difference: Leveraging Active Learning to Improve Unsupervised Time Series Anomaly Detection.",
-        "authors": [
-          "Hamza Bodor",
-          "Thai V. Hoang",
-          "Zonghua Zhang"
-        ]
-      },
-      {
-        "title": "MMRCA: MultiModal Root Cause Analysis.",
-        "authors": [
-          "Gary White",
-          "Jaroslaw Diuwe",
-          "Erika Fonseca",
-          "Owen O'Brien"
-        ]
-      },
-      {
-        "title": "IAD: Indirect Anomalous VMMs Detection in the Cloud-Based Environment.",
-        "authors": [
-          "Anshul Jindal",
-          "Ilya Shakhat",
-          "Jorge Cardoso",
-          "Michael Gerndt",
-          "Vladimir Podolskiy"
-        ]
-      },
-      {
-        "title": "Comparing Graph Data Science Libraries for Querying and Analysing Datasets: Towards Data Science Queries on Graphs.",
-        "authors": [
-          "Genoveva Vargas-Solar",
-          "Pierre Marrec",
-          "Mirian Halfeld Ferrari Alves"
-        ]
-      },
-      {
-        "title": "Gamification for Healthier Lifestyle - User Retention.",
-        "authors": [
-          "Shabih Fatima",
-          "Juan Carlos Augusto",
-          "Ralph Moseley",
-          "Povilas Urbonas"
-        ]
-      },
-      {
-        "title": "Streaming and Visualising Neuronal Signals for Understanding Pain.",
-        "authors": [
-          "Javier-Alfonso Espinosa-Oviedo"
-        ]
-      },
-      {
-        "title": "Graph Analytics Workflows Enactment on Just in Time Data Centres Position Paper.",
-        "authors": [
-          "Ali Akoglu",
-          "José-Luis Zechinelli-Martini",
-          "Hamamache Kheddouci",
-          "Genoveva Vargas-Solar"
-        ]
-      },
-      {
-        "title": "Data Centred Intelligent Geosciences: Research Agenda and Opportunities Position Paper.",
-        "authors": [
-          "Aderson Farias do Nascimento",
-          "Martin A. Musicante",
-          "Umberto Souza da Costa",
-          "Bruno M. Carvalho",
-          "Marcus Alexandre Nunes",
-          "Genoveva Vargas-Solar"
-        ]
-      },
-      {
-        "title": "Design Patterns in an ERP Environment.",
-        "authors": [
-          "Aiman Zahid",
-          "Sidra Akhtar",
-          "Wafa Basit"
-        ]
-      },
-      {
-        "title": "Towards a Semantics-Based Search Engine for Smart Contract Information.",
-        "authors": [
-          "Chaochen Shi",
-          "Yong Xiang",
-          "Jiangshan Yu",
-          "Longxiang Gao"
-        ]
-      },
-      {
-        "title": "A Blockchain-Based Autonomous System for Primary Financial Market.",
-        "authors": [
-          "Ji Liu",
-          "Shiping Chen"
-        ]
-      },
-      {
-        "title": "Multi-agent Reinforcement Learning for Task Allocation in Cooperative Edge Cloud Computing.",
-        "authors": [
-          "Shiyao Ding"
-        ]
-      },
-      {
-        "title": "Occupancy Estimation from Thermal Images.",
-        "authors": [
-          "Zishan Qin",
-          "Dipankar Chaki",
-          "Abdallah Lakhdari",
-          "Amani Abusafia",
-          "Athman Bouguettaya"
-        ]
-      },
-      {
-        "title": "Constraint-Aware Trajectory for Drone Delivery Services.",
-        "authors": [
-          "Jermaine Janszen",
-          "Babar Shahzaad",
-          "Balsam Alkouz",
-          "Athman Bouguettaya"
-        ]
-      },
-      {
-        "title": "Seamless Synchronization for Collaborative Web Services.",
-        "authors": [
-          "Kristof Jannes",
-          "Bert Lagaisse",
-          "Wouter Joosen"
-        ]
-      },
-      {
-        "title": "Crowd4ME: A Crowdsourcing-Based Micro-expression Collection Platform.",
-        "authors": [
-          "Xun Wang",
-          "Liping Lv",
-          "Yili Fang",
-          "Xinyi Ding",
-          "Tao Han"
-        ]
-      },
-      {
-        "title": "AI-Enabled Processes: The Age of Artificial Intelligence and Big Data.",
-        "authors": [
-          "Amin Beheshti",
-          "Boualem Benatallah",
-          "Quan Z. Sheng",
-          "Fabio Casati",
-          "Hamid Reza Motahari-Nezhad",
-          "Jian Yang",
-          "Aditya Ghose"
-        ]
-      },
-      {
-        "title": "Continuously Testing Distributed IoT Systems: An Overview of the State of the Art.",
-        "authors": [
-          "Jossekin Beilharz",
-          "Philipp Wiesner",
-          "Arne Boockmeyer",
-          "Lukas Pirl",
-          "Dirk Friedenberger",
-          "Florian Brokhausen",
-          "Ilja Behnke",
-          "Andreas Polze",
-          "Lauritz Thamsen"
-        ]
-      },
-      {
-        "title": "Towards Scalable Blockchains Using Service-Oriented Architectures.",
-        "authors": [
-          "Ali Dorri",
-          "Raja Jurdak",
-          "Amin Beheshti",
-          "Alistair Barros"
-        ]
-      },
-      {
-        "title": "Snapshot of Research Issues in Service Robots.",
-        "authors": [
-          "Patrick C. K. Hung",
-          "Farkhund Iqbal",
-          "Saiqa Aleem",
-          "Laura Rafferty"
         ]
       }
     ]
@@ -3817,6 +3817,251 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/icsoc/icsoc2019w.html": {
+    "header": "17th ICSOC Workshops 2019: Toulouse, France",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "Service-Oriented Pervasive Platform Supporting Machine Learning Applications in Smart Buildings.",
+        "authors": [
+          "Philippe Lalanda",
+          "Dan Wang",
+          "Germán Vega",
+          "Humberto Cervantes",
+          "Moustapha A. Khalid"
+        ]
+      },
+      {
+        "title": "Freshening the Air in Microservices: Resolving Architectural Smells via Refactoring.",
+        "authors": [
+          "Antonio Brogi",
+          "Davide Neri",
+          "Jacopo Soldani"
+        ]
+      },
+      {
+        "title": "Specifying Web Interfaces for Command-Line Applications Based on OpenAPI.",
+        "authors": [
+          "Dennis Wolters",
+          "Jonas Kirchhoff",
+          "Gregor Engels"
+        ]
+      },
+      {
+        "title": "Towards Understanding Adaptation Latency in Self-adaptive Systems.",
+        "authors": [
+          "Claas Keller",
+          "Zoltán Ádám Mann"
+        ]
+      },
+      {
+        "title": "Representing Multicloud Security and Privacy Policies and Detecting Potential Problems.",
+        "authors": [
+          "Anthony Opara",
+          "Youngsang Song",
+          "Seong-je Cho",
+          "Lawrence Chung"
+        ]
+      },
+      {
+        "title": "Survey and Evaluation of Blue-Green Deployment Techniques in Cloud Native Environments.",
+        "authors": [
+          "Bo Yang",
+          "Anca Sailer",
+          "Ajay Mohindra"
+        ]
+      },
+      {
+        "title": "AutoCADep: An Approach for Automatic Cloud Application Deployment.",
+        "authors": [
+          "Saddam Hocine Hiba",
+          "Meriem Belguidoum"
+        ]
+      },
+      {
+        "title": "Microservices Management on Cloud/Edge Environments.",
+        "authors": [
+          "André Carrusca",
+          "Maria Cecília Gomes",
+          "João Leitão"
+        ]
+      },
+      {
+        "title": "Towards Geo-Context Aware IoT Data Distribution.",
+        "authors": [
+          "Jonathan Hasenburg",
+          "David Bermbach"
+        ]
+      },
+      {
+        "title": "A Blockchain Based Solution for Securing Data of IoT Devices.",
+        "authors": [
+          "Jaspreet Kaur",
+          "Vinayak Singla",
+          "Sumit Kalra"
+        ]
+      },
+      {
+        "title": "Toward GDPR Compliance in IoT Systems.",
+        "authors": [
+          "Sahar Allegue",
+          "Mouna Rhahla",
+          "Takoua Abdellatif"
+        ]
+      },
+      {
+        "title": "A Reconfigurable Microservice-Based Migration Technique for IoT Systems.",
+        "authors": [
+          "Chang-Ai Sun",
+          "Jing Wang",
+          "Jing Guo",
+          "Zhen Wang",
+          "Li Duan"
+        ]
+      },
+      {
+        "title": "Towards the Creation of Be In/Be Out Model for Smart City with the Use of Internet of Things Concepts.",
+        "authors": [
+          "Bartosz Wieczorek",
+          "Aneta Poniszewska-Maranda"
+        ]
+      },
+      {
+        "title": "Ontology for Smart Viticulture: Integrating Inference Rules Based on Sensor Data.",
+        "authors": [
+          "Amira Mouakher",
+          "Aurélie Bertaux",
+          "Ouassila Labbani",
+          "Clémentine Hugol-Gential",
+          "Christophe Nicolle"
+        ]
+      },
+      {
+        "title": "Model-Driven Engineering for Multi-party Interactions on a Blockchain - An Example.",
+        "authors": [
+          "Gero Dittmann",
+          "Alessandro Sorniotti",
+          "Hagen Völzer"
+        ]
+      },
+      {
+        "title": "Smart Contract Locator (SCL) and Smart Contract Description Language (SCDL).",
+        "authors": [
+          "Andrea Lamparelli",
+          "Ghareeb Falazi",
+          "Uwe Breitenbücher",
+          "Florian Daniel",
+          "Frank Leymann"
+        ]
+      },
+      {
+        "title": "Measuring the Quality of Life in \"La Condesa\" - Activating Mexico City Neighbourhood Economy While Maximising Well-Being.",
+        "authors": [
+          "Ana-Sagrario Castillo-Camporro",
+          "José-Luis Zechinelli-Martini",
+          "Javier-Alfonso Espinosa-Oviedo"
+        ]
+      },
+      {
+        "title": "Adaptive Agent-Based Architecture for Health Data Integration.",
+        "authors": [
+          "Ibtihel Selmi",
+          "Nadia Kabachi",
+          "Sana Ben Abdallah Ben Lamine",
+          "Hajer Baazaoui Zghal"
+        ]
+      },
+      {
+        "title": "Constructing a Secured, Reactive and Scalable Data Platform for a Better Exploitation of Rich Data Assets in the Tourism Industry.",
+        "authors": [
+          "Fanjuan Shi"
+        ]
+      },
+      {
+        "title": "Towards Multi-level Trust-Driven Data Integration in Multi-cloud Environments.",
+        "authors": [
+          "Senda Romdhani"
+        ]
+      },
+      {
+        "title": "User-Oriented Description of Emerging Services in Ambient Systems.",
+        "authors": [
+          "Maroun Koussaifi"
+        ]
+      },
+      {
+        "title": "A Web-Component-Based Cross-Platform Mobile Application Development Environment for Ordinary Users.",
+        "authors": [
+          "Zhaoning Wang"
+        ]
+      },
+      {
+        "title": "OSPAci: Online Sentiment-Preference Analysis of User Reviews for Continues App Improvement.",
+        "authors": [
+          "Jianmao Xiao"
+        ]
+      },
+      {
+        "title": "ADS4all: Democratizing Authenticated Data Structures.",
+        "authors": [
+          "Nasser Alzahrani",
+          "Ibrahim Khalil",
+          "Xun Yi"
+        ]
+      },
+      {
+        "title": "ProMoEE - A Lightweight Web Editor Supporting Study Research on Process Models.",
+        "authors": [
+          "Michael Winter",
+          "Rüdiger Pryss",
+          "Manfred Reichert"
+        ]
+      },
+      {
+        "title": "The EDMM Modeling and Transformation System.",
+        "authors": [
+          "Michael Wurster",
+          "Uwe Breitenbücher",
+          "Antonio Brogi",
+          "Ghareeb Falazi",
+          "Lukas Harzenetter",
+          "Frank Leymann",
+          "Jacopo Soldani",
+          "Vladimir Yussupov"
+        ]
+      },
+      {
+        "title": "BlockMeds: A Blockchain-Based Online Prescription System with Privacy Protection.",
+        "authors": [
+          "Minhua He",
+          "Xu Han",
+          "Frank Jiang",
+          "Rongbai Zhang",
+          "Xingzi Liu",
+          "Xiao Liu"
+        ]
+      },
+      {
+        "title": "Janus: A Tool to Modernize Legacy Applications to Containers.",
+        "authors": [
+          "Hoang Ho",
+          "Daniel Gordon",
+          "Anup K. Kalia",
+          "Jin Xiao",
+          "Maja Vukovic"
+        ]
+      },
+      {
+        "title": "A Programming Framework for People as a Service.",
+        "authors": [
+          "David Bandera",
+          "Alejandro Pérez-Vereda",
+          "Carlos Canal",
+          "Ernesto Pimentel"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/icsoc/icsoc2019.html": {
     "header": "17th ICSOC 2019: Toulouse, France",
     "year": "2019",
@@ -4229,247 +4474,430 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/icsoc/icsoc2019w.html": {
-    "header": "17th ICSOC Workshops 2019: Toulouse, France",
-    "year": "2019",
+  "https://dblp.org/db/conf/icsoc/icsoc2018w.html": {
+    "header": "16th ICSOC Workshops 2018: Hangzhou, China",
+    "year": "2018",
     "papers": [
       {
-        "title": "Service-Oriented Pervasive Platform Supporting Machine Learning Applications in Smart Buildings.",
+        "title": "A Data-Driven Optimization Method for Reallocating the Free-Floating Bikes.",
         "authors": [
-          "Philippe Lalanda",
-          "Dan Wang",
-          "Germán Vega",
-          "Humberto Cervantes",
-          "Moustapha A. Khalid"
+          "Ming Liu",
+          "Xifen Xu"
         ]
       },
       {
-        "title": "Freshening the Air in Microservices: Resolving Architectural Smells via Refactoring.",
+        "title": "Study on Airport De-icing Schedule Problem Balancing Fairness and Efficiency.",
         "authors": [
-          "Antonio Brogi",
-          "Davide Neri",
-          "Jacopo Soldani"
+          "Qing Guo",
+          "Bing Li",
+          "Xuan Luo"
         ]
       },
       {
-        "title": "Specifying Web Interfaces for Command-Line Applications Based on OpenAPI.",
+        "title": "Co-design of Business and IT Services - A Tool-Supported Approach.",
         "authors": [
-          "Dennis Wolters",
-          "Jonas Kirchhoff",
-          "Gregor Engels"
+          "Blagovesta Pirelli",
+          "Natalia Nessler",
+          "Alain Wegmann"
         ]
       },
       {
-        "title": "Towards Understanding Adaptation Latency in Self-adaptive Systems.",
+        "title": "Energy-Aware and Location-Constrained Virtual Network Embedding in Enterprise Network.",
         "authors": [
-          "Claas Keller",
-          "Zoltán Ádám Mann"
+          "Xin Cong",
+          "Lingling Zi",
+          "Kai Shuang"
         ]
       },
       {
-        "title": "Representing Multicloud Security and Privacy Policies and Detecting Potential Problems.",
+        "title": "WeChat Red Envelops: Literature Review and Future Research Directions.",
         "authors": [
-          "Anthony Opara",
-          "Youngsang Song",
-          "Seong-je Cho",
-          "Lawrence Chung"
+          "Zerun Chen",
+          "Rui Gu"
         ]
       },
       {
-        "title": "Survey and Evaluation of Blue-Green Deployment Techniques in Cloud Native Environments.",
+        "title": "Research and Design of CMOS Fully Differential Telescopic Operational Amplifier with Common Mode Feedback.",
         "authors": [
-          "Bo Yang",
-          "Anca Sailer",
-          "Ajay Mohindra"
+          "Zhongqiu Pang",
+          "Pinqun Jiang",
+          "Shuxiang Song",
+          "Mingcan Cen"
         ]
       },
       {
-        "title": "AutoCADep: An Approach for Automatic Cloud Application Deployment.",
+        "title": "Parallel Concatenated Network with Cross-layer Connections for Image Recognition.",
         "authors": [
-          "Saddam Hocine Hiba",
-          "Meriem Belguidoum"
+          "Peng Li",
+          "Pinqun Jiang",
+          "Shangyou Zeng",
+          "Rui Fan"
         ]
       },
       {
-        "title": "Microservices Management on Cloud/Edge Environments.",
+        "title": "Application of System Calls in Abnormal User Behavioral Detection in Social Networks.",
         "authors": [
-          "André Carrusca",
-          "Maria Cecília Gomes",
-          "João Leitão"
-        ]
-      },
-      {
-        "title": "Towards Geo-Context Aware IoT Data Distribution.",
-        "authors": [
-          "Jonathan Hasenburg",
-          "David Bermbach"
-        ]
-      },
-      {
-        "title": "A Blockchain Based Solution for Securing Data of IoT Devices.",
-        "authors": [
-          "Jaspreet Kaur",
-          "Vinayak Singla",
-          "Sumit Kalra"
-        ]
-      },
-      {
-        "title": "Toward GDPR Compliance in IoT Systems.",
-        "authors": [
-          "Sahar Allegue",
-          "Mouna Rhahla",
-          "Takoua Abdellatif"
-        ]
-      },
-      {
-        "title": "A Reconfigurable Microservice-Based Migration Technique for IoT Systems.",
-        "authors": [
-          "Chang-Ai Sun",
-          "Jing Wang",
-          "Jing Guo",
-          "Zhen Wang",
-          "Li Duan"
-        ]
-      },
-      {
-        "title": "Towards the Creation of Be In/Be Out Model for Smart City with the Use of Internet of Things Concepts.",
-        "authors": [
-          "Bartosz Wieczorek",
-          "Aneta Poniszewska-Maranda"
-        ]
-      },
-      {
-        "title": "Ontology for Smart Viticulture: Integrating Inference Rules Based on Sensor Data.",
-        "authors": [
-          "Amira Mouakher",
-          "Aurélie Bertaux",
-          "Ouassila Labbani",
-          "Clémentine Hugol-Gential",
-          "Christophe Nicolle"
-        ]
-      },
-      {
-        "title": "Model-Driven Engineering for Multi-party Interactions on a Blockchain - An Example.",
-        "authors": [
-          "Gero Dittmann",
-          "Alessandro Sorniotti",
-          "Hagen Völzer"
-        ]
-      },
-      {
-        "title": "Smart Contract Locator (SCL) and Smart Contract Description Language (SCDL).",
-        "authors": [
-          "Andrea Lamparelli",
-          "Ghareeb Falazi",
-          "Uwe Breitenbücher",
-          "Florian Daniel",
-          "Frank Leymann"
-        ]
-      },
-      {
-        "title": "Measuring the Quality of Life in \"La Condesa\" - Activating Mexico City Neighbourhood Economy While Maximising Well-Being.",
-        "authors": [
-          "Ana-Sagrario Castillo-Camporro",
-          "José-Luis Zechinelli-Martini",
-          "Javier-Alfonso Espinosa-Oviedo"
-        ]
-      },
-      {
-        "title": "Adaptive Agent-Based Architecture for Health Data Integration.",
-        "authors": [
-          "Ibtihel Selmi",
-          "Nadia Kabachi",
-          "Sana Ben Abdallah Ben Lamine",
-          "Hajer Baazaoui Zghal"
-        ]
-      },
-      {
-        "title": "Constructing a Secured, Reactive and Scalable Data Platform for a Better Exploitation of Rich Data Assets in the Tourism Industry.",
-        "authors": [
-          "Fanjuan Shi"
-        ]
-      },
-      {
-        "title": "Towards Multi-level Trust-Driven Data Integration in Multi-cloud Environments.",
-        "authors": [
-          "Senda Romdhani"
-        ]
-      },
-      {
-        "title": "User-Oriented Description of Emerging Services in Ambient Systems.",
-        "authors": [
-          "Maroun Koussaifi"
-        ]
-      },
-      {
-        "title": "A Web-Component-Based Cross-Platform Mobile Application Development Environment for Ordinary Users.",
-        "authors": [
-          "Zhaoning Wang"
-        ]
-      },
-      {
-        "title": "OSPAci: Online Sentiment-Preference Analysis of User Reviews for Continues App Improvement.",
-        "authors": [
-          "Jianmao Xiao"
-        ]
-      },
-      {
-        "title": "ADS4all: Democratizing Authenticated Data Structures.",
-        "authors": [
-          "Nasser Alzahrani",
-          "Ibrahim Khalil",
-          "Xun Yi"
-        ]
-      },
-      {
-        "title": "ProMoEE - A Lightweight Web Editor Supporting Study Research on Process Models.",
-        "authors": [
-          "Michael Winter",
-          "Rüdiger Pryss",
-          "Manfred Reichert"
-        ]
-      },
-      {
-        "title": "The EDMM Modeling and Transformation System.",
-        "authors": [
-          "Michael Wurster",
-          "Uwe Breitenbücher",
-          "Antonio Brogi",
-          "Ghareeb Falazi",
-          "Lukas Harzenetter",
-          "Frank Leymann",
-          "Jacopo Soldani",
-          "Vladimir Yussupov"
-        ]
-      },
-      {
-        "title": "BlockMeds: A Blockchain-Based Online Prescription System with Privacy Protection.",
-        "authors": [
-          "Minhua He",
-          "Xu Han",
+          "Shizhen Zhang",
           "Frank Jiang",
-          "Rongbai Zhang",
-          "Xingzi Liu",
-          "Xiao Liu"
+          "Min Qin"
         ]
       },
       {
-        "title": "Janus: A Tool to Modernize Legacy Applications to Containers.",
+        "title": "Multi-branch Aggregate Convolutional Neural Network for Image Classification.",
         "authors": [
-          "Hoang Ho",
-          "Daniel Gordon",
-          "Anup K. Kalia",
-          "Jin Xiao",
+          "Rui Fan",
+          "Pinqun Jiang",
+          "Shangyou Zeng",
+          "Peng Li"
+        ]
+      },
+      {
+        "title": "Remote Sensing Image Deblurring Algorithm Based on WGAN.",
+        "authors": [
+          "Haiying Xia",
+          "Chenxu Liu"
+        ]
+      },
+      {
+        "title": "Text Classification Research Based on Improved Word2vec and CNN.",
+        "authors": [
+          "Mengyuan Gao",
+          "Tinghui Li",
+          "Peifang Huang"
+        ]
+      },
+      {
+        "title": "Retinal Image Registration Based on Bifurcation Point and SURF.",
+        "authors": [
+          "Haiying Xia",
+          "Danhua Chen"
+        ]
+      },
+      {
+        "title": "Augmented Reality in IoT.",
+        "authors": [
+          "Gary White",
+          "Christian Cabrera",
+          "Andrei Palade",
+          "Siobhán Clarke"
+        ]
+      },
+      {
+        "title": "The Tentative Research of Hydrological IoT Data Processing System Based on Apache Flink.",
+        "authors": [
+          "Feng Ye",
+          "Peng Zhang",
+          "Cheng Hu",
+          "Songjie Zhu",
+          "Ling Li"
+        ]
+      },
+      {
+        "title": "Runtime Service Composition Modification Supporting Situational Sensor Data Correlation.",
+        "authors": [
+          "Chen Liu",
+          "Zhongmei Zhang",
+          "Shouli Zhang",
+          "Yanbo Han"
+        ]
+      },
+      {
+        "title": "A Dynamic Service Adaptation Algorithm for Seamless Integration of Cloud Infrastructure and Edge Devices.",
+        "authors": [
+          "Liu Yang",
+          "Yi Li"
+        ]
+      },
+      {
+        "title": "A Cost-Effective Time-Constrained Multi-workflow Scheduling Strategy in Fog Computing.",
+        "authors": [
+          "Ruimiao Ding",
+          "Xuejun Li",
+          "Xiao Liu",
+          "Jia Xu"
+        ]
+      },
+      {
+        "title": "A Brief Survey on IoT Privacy: Taxonomy, Issues and Future Trends.",
+        "authors": [
+          "Kinza Sarwar",
+          "Sira Yongchareon",
+          "Jian Yu"
+        ]
+      },
+      {
+        "title": "Real-Time Estimation of Road Traffic Speeds from Cell-Based Vehicle Trajectories.",
+        "authors": [
+          "Xiaoxiao Sun",
+          "Dongjin Yu",
+          "Sai Liao",
+          "Wanqing Li",
+          "Chengbiao Zhou"
+        ]
+      },
+      {
+        "title": "A Data Cleaning Service on Massive Spatio-Temporal Data in Highway Domain.",
+        "authors": [
+          "Yanqing Xia",
+          "Xuefei Wang",
+          "Weilong Ding"
+        ]
+      },
+      {
+        "title": "Tracking a Person's Behaviour in a Smart House.",
+        "authors": [
+          "Gavin Chand",
+          "Mustafa Ali",
+          "Bashar Barmada",
+          "Veronica Liesaputra",
+          "Guillermo Ramírez-Prado"
+        ]
+      },
+      {
+        "title": "An Efficient In-Memory R-Tree Construction Scheme for Spatio-Temporal Data Stream.",
+        "authors": [
+          "Ting Zhang",
+          "Liang Huai Yang",
+          "Donghai Shen",
+          "Yulei Fan"
+        ]
+      },
+      {
+        "title": "Dynamic Task Allocation for Data-Intensive Workflows in Cloud Environment.",
+        "authors": [
+          "Xiping Liu",
+          "Liyang Zheng",
+          "Junyu Chen",
+          "Lei Shang"
+        ]
+      },
+      {
+        "title": "A Data Dependency and Access Threshold Based Replication Strategy for Multi-cloud Workflow Applications.",
+        "authors": [
+          "Fei Xie",
+          "Jun Yan",
+          "Jun Shen"
+        ]
+      },
+      {
+        "title": "Support Context-Adaptation in the Constrained Application Protocol (CoAP).",
+        "authors": [
+          "Yuji Dong",
+          "Kaiyu Wan",
+          "Yong Yue",
+          "Xin Huang"
+        ]
+      },
+      {
+        "title": "Fast Nearest-Neighbor Classification Using RNN in Domains with Large Number of Classes.",
+        "authors": [
+          "Gautam Singh",
+          "Gargi Dasgupta",
+          "Yu Deng"
+        ]
+      },
+      {
+        "title": "TaxiC: A Taxi Route Recommendation Method Based on Urban Traffic Charge Heat Map.",
+        "authors": [
+          "Yijing Cheng",
+          "Qifeng Zhou",
+          "Yongxuan Lai"
+        ]
+      },
+      {
+        "title": "Event Log Reconstruction Using Autoencoders.",
+        "authors": [
+          "Hoang Thi Cam Nguyen",
+          "Marco Comuzzi"
+        ]
+      },
+      {
+        "title": "MLE: A General Multi-Layer Ensemble Framework for Group Recommendation.",
+        "authors": [
+          "Xiaopeng Li",
+          "Jia Xu",
+          "Bin Xia",
+          "Jian Xu"
+        ]
+      },
+      {
+        "title": "Does Your Accurate Process Predictive Monitoring Model Give Reliable Predictions?",
+        "authors": [
+          "Marco Comuzzi",
+          "Alfonso E. Márquez Chamorro",
+          "Manuel Resinas"
+        ]
+      },
+      {
+        "title": "Service Negotiation in a Dynamic IoT Environment.",
+        "authors": [
+          "Fan Li"
+        ]
+      },
+      {
+        "title": "Towards Energy and Time Efficient Resource Allocation in IoT-Fog-Cloud Environment.",
+        "authors": [
+          "Huaiying Sun",
+          "Huiqun Yu",
+          "Guisheng Fan"
+        ]
+      },
+      {
+        "title": "AppNet: A Large-Scale Multi-layer Heterogeneous Complex App Network for Intelligent Program Search.",
+        "authors": [
+          "Jianmao Xiao",
+          "Shizhan Chen",
+          "Zhiyong Feng",
+          "Jian Yang"
+        ]
+      },
+      {
+        "title": "A Goal-Driven Context-Aware Architecture for Distributing Cognitive Service Group.",
+        "authors": [
+          "Siyuan Lu"
+        ]
+      },
+      {
+        "title": "Crossover Service Phenomenon Analysis Based on Event Evolutionary Graph.",
+        "authors": [
+          "Mingyi Liu",
+          "Zhongjie Wang",
+          "Zhiying Tu"
+        ]
+      },
+      {
+        "title": "Improved Architectures/Deployments with Elmo.",
+        "authors": [
+          "Arjan Lamers",
+          "Marko C. J. D. van Eekelen",
+          "Sung-Shik Jongmans"
+        ]
+      },
+      {
+        "title": "CEA: A Service for Cognitive Event Automation.",
+        "authors": [
+          "Larisa Shwartz",
+          "Jinho Hwang",
+          "Hagen Völzer",
+          "Michael Nidd",
+          "Murilo Goncalves Aguiar",
+          "Marcos Vinicius Landivar Paraiso",
+          "Letusa Valero"
+        ]
+      },
+      {
+        "title": "BluePlan: A Service for Automated Migration Plan Construction Using AI.",
+        "authors": [
+          "Malik Jackson",
+          "John J. Rofrano",
+          "Jinho Hwang",
           "Maja Vukovic"
         ]
       },
       {
-        "title": "A Programming Framework for People as a Service.",
+        "title": "ELeCTRA: Induced Usage Limitations Calculation in RESTful APIs.",
         "authors": [
-          "David Bandera",
-          "Alejandro Pérez-Vereda",
-          "Carlos Canal",
-          "Ernesto Pimentel"
+          "Antonio Gamez-Diaz",
+          "Pablo Fernandez",
+          "Cesare Pautasso",
+          "Ana Ivanchikj",
+          "Antonio Ruiz-Cortés"
+        ]
+      },
+      {
+        "title": "Offering Artificial Intelligence Development Situation Analysis Service for Users.",
+        "authors": [
+          "Xiujuan Xu",
+          "Tingting Jiang",
+          "Shimin Shan",
+          "Jun Ni",
+          "Kai Wang",
+          "Zhenlong Xu",
+          "Yu Liu"
+        ]
+      },
+      {
+        "title": "TReAT: A Tool for Analyzing Relations Between Tasks in a Process.",
+        "authors": [
+          "Pengbo Xiu",
+          "Jian Yang",
+          "Weiliang Zhao"
+        ]
+      },
+      {
+        "title": "iCOP: IoT-Enabled Policing Processes.",
+        "authors": [
+          "Francesco Schiliro",
+          "Amin Beheshti",
+          "Samira Ghodratnama",
+          "Farhad Amouzgar",
+          "Boualem Benatallah",
+          "Jian Yang",
+          "Quan Z. Sheng",
+          "Fabio Casati",
+          "Hamid Reza Motahari-Nezhad"
+        ]
+      },
+      {
+        "title": "iSheets: A Spreadsheet-Based Machine Learning Development Platform for Data-Driven Process Analytics.",
+        "authors": [
+          "Farhad Amouzgar",
+          "Amin Beheshti",
+          "Samira Ghodratnama",
+          "Boualem Benatallah",
+          "Jian Yang",
+          "Quan Z. Sheng"
+        ]
+      },
+      {
+        "title": "SORCER: A Decentralised Continuous Integration Platform for Service-Oriented Software Systems.",
+        "authors": [
+          "Jameel Almalki",
+          "Haifeng Shen"
+        ]
+      },
+      {
+        "title": "On Anomaly Detection and Root Cause Analysis of Microservice Systems.",
+        "authors": [
+          "Zijie Guan",
+          "JinJin Lin",
+          "Pengfei Chen"
+        ]
+      },
+      {
+        "title": "RESTalk Miner: Mining RESTful Conversations, Pattern Discovery and Matching.",
+        "authors": [
+          "Ana Ivanchikj",
+          "Ilija Gjorgjiev",
+          "Cesare Pautasso"
+        ]
+      },
+      {
+        "title": "Cross-Client SLA Management with the ysla Language and Engine.",
+        "authors": [
+          "Shashank Rajamoni",
+          "Robert Engel",
+          "Bryant Chen",
+          "Heiko Ludwig",
+          "Alexander Keller"
+        ]
+      },
+      {
+        "title": "Paving the Way for Autonomous Cars in the City of Tomorrow: A Prototype for Mobile Devices Support at the Edges of 5G Network.",
+        "authors": [
+          "Fatma Raissi",
+          "Clovis Anicet Ouedraogo",
+          "Sami Yangui",
+          "Frédéric Camps",
+          "Nejib Ben Hadj-Alouane"
+        ]
+      },
+      {
+        "title": "Juno: An Intelligent Chat Service for IT Service Automation.",
+        "authors": [
+          "Jin Xiao",
+          "Anup K. Kalia",
+          "Maja Vukovic"
         ]
       }
     ]
@@ -5080,434 +5508,6 @@
           "Long Wang",
           "Jing Gu",
           "Ying Li"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/icsoc/icsoc2018w.html": {
-    "header": "16th ICSOC Workshops 2018: Hangzhou, China",
-    "year": "2018",
-    "papers": [
-      {
-        "title": "A Data-Driven Optimization Method for Reallocating the Free-Floating Bikes.",
-        "authors": [
-          "Ming Liu",
-          "Xifen Xu"
-        ]
-      },
-      {
-        "title": "Study on Airport De-icing Schedule Problem Balancing Fairness and Efficiency.",
-        "authors": [
-          "Qing Guo",
-          "Bing Li",
-          "Xuan Luo"
-        ]
-      },
-      {
-        "title": "Co-design of Business and IT Services - A Tool-Supported Approach.",
-        "authors": [
-          "Blagovesta Pirelli",
-          "Natalia Nessler",
-          "Alain Wegmann"
-        ]
-      },
-      {
-        "title": "Energy-Aware and Location-Constrained Virtual Network Embedding in Enterprise Network.",
-        "authors": [
-          "Xin Cong",
-          "Lingling Zi",
-          "Kai Shuang"
-        ]
-      },
-      {
-        "title": "WeChat Red Envelops: Literature Review and Future Research Directions.",
-        "authors": [
-          "Zerun Chen",
-          "Rui Gu"
-        ]
-      },
-      {
-        "title": "Research and Design of CMOS Fully Differential Telescopic Operational Amplifier with Common Mode Feedback.",
-        "authors": [
-          "Zhongqiu Pang",
-          "Pinqun Jiang",
-          "Shuxiang Song",
-          "Mingcan Cen"
-        ]
-      },
-      {
-        "title": "Parallel Concatenated Network with Cross-layer Connections for Image Recognition.",
-        "authors": [
-          "Peng Li",
-          "Pinqun Jiang",
-          "Shangyou Zeng",
-          "Rui Fan"
-        ]
-      },
-      {
-        "title": "Application of System Calls in Abnormal User Behavioral Detection in Social Networks.",
-        "authors": [
-          "Shizhen Zhang",
-          "Frank Jiang",
-          "Min Qin"
-        ]
-      },
-      {
-        "title": "Multi-branch Aggregate Convolutional Neural Network for Image Classification.",
-        "authors": [
-          "Rui Fan",
-          "Pinqun Jiang",
-          "Shangyou Zeng",
-          "Peng Li"
-        ]
-      },
-      {
-        "title": "Remote Sensing Image Deblurring Algorithm Based on WGAN.",
-        "authors": [
-          "Haiying Xia",
-          "Chenxu Liu"
-        ]
-      },
-      {
-        "title": "Text Classification Research Based on Improved Word2vec and CNN.",
-        "authors": [
-          "Mengyuan Gao",
-          "Tinghui Li",
-          "Peifang Huang"
-        ]
-      },
-      {
-        "title": "Retinal Image Registration Based on Bifurcation Point and SURF.",
-        "authors": [
-          "Haiying Xia",
-          "Danhua Chen"
-        ]
-      },
-      {
-        "title": "Augmented Reality in IoT.",
-        "authors": [
-          "Gary White",
-          "Christian Cabrera",
-          "Andrei Palade",
-          "Siobhán Clarke"
-        ]
-      },
-      {
-        "title": "The Tentative Research of Hydrological IoT Data Processing System Based on Apache Flink.",
-        "authors": [
-          "Feng Ye",
-          "Peng Zhang",
-          "Cheng Hu",
-          "Songjie Zhu",
-          "Ling Li"
-        ]
-      },
-      {
-        "title": "Runtime Service Composition Modification Supporting Situational Sensor Data Correlation.",
-        "authors": [
-          "Chen Liu",
-          "Zhongmei Zhang",
-          "Shouli Zhang",
-          "Yanbo Han"
-        ]
-      },
-      {
-        "title": "A Dynamic Service Adaptation Algorithm for Seamless Integration of Cloud Infrastructure and Edge Devices.",
-        "authors": [
-          "Liu Yang",
-          "Yi Li"
-        ]
-      },
-      {
-        "title": "A Cost-Effective Time-Constrained Multi-workflow Scheduling Strategy in Fog Computing.",
-        "authors": [
-          "Ruimiao Ding",
-          "Xuejun Li",
-          "Xiao Liu",
-          "Jia Xu"
-        ]
-      },
-      {
-        "title": "A Brief Survey on IoT Privacy: Taxonomy, Issues and Future Trends.",
-        "authors": [
-          "Kinza Sarwar",
-          "Sira Yongchareon",
-          "Jian Yu"
-        ]
-      },
-      {
-        "title": "Real-Time Estimation of Road Traffic Speeds from Cell-Based Vehicle Trajectories.",
-        "authors": [
-          "Xiaoxiao Sun",
-          "Dongjin Yu",
-          "Sai Liao",
-          "Wanqing Li",
-          "Chengbiao Zhou"
-        ]
-      },
-      {
-        "title": "A Data Cleaning Service on Massive Spatio-Temporal Data in Highway Domain.",
-        "authors": [
-          "Yanqing Xia",
-          "Xuefei Wang",
-          "Weilong Ding"
-        ]
-      },
-      {
-        "title": "Tracking a Person's Behaviour in a Smart House.",
-        "authors": [
-          "Gavin Chand",
-          "Mustafa Ali",
-          "Bashar Barmada",
-          "Veronica Liesaputra",
-          "Guillermo Ramírez-Prado"
-        ]
-      },
-      {
-        "title": "An Efficient In-Memory R-Tree Construction Scheme for Spatio-Temporal Data Stream.",
-        "authors": [
-          "Ting Zhang",
-          "Liang Huai Yang",
-          "Donghai Shen",
-          "Yulei Fan"
-        ]
-      },
-      {
-        "title": "Dynamic Task Allocation for Data-Intensive Workflows in Cloud Environment.",
-        "authors": [
-          "Xiping Liu",
-          "Liyang Zheng",
-          "Junyu Chen",
-          "Lei Shang"
-        ]
-      },
-      {
-        "title": "A Data Dependency and Access Threshold Based Replication Strategy for Multi-cloud Workflow Applications.",
-        "authors": [
-          "Fei Xie",
-          "Jun Yan",
-          "Jun Shen"
-        ]
-      },
-      {
-        "title": "Support Context-Adaptation in the Constrained Application Protocol (CoAP).",
-        "authors": [
-          "Yuji Dong",
-          "Kaiyu Wan",
-          "Yong Yue",
-          "Xin Huang"
-        ]
-      },
-      {
-        "title": "Fast Nearest-Neighbor Classification Using RNN in Domains with Large Number of Classes.",
-        "authors": [
-          "Gautam Singh",
-          "Gargi Dasgupta",
-          "Yu Deng"
-        ]
-      },
-      {
-        "title": "TaxiC: A Taxi Route Recommendation Method Based on Urban Traffic Charge Heat Map.",
-        "authors": [
-          "Yijing Cheng",
-          "Qifeng Zhou",
-          "Yongxuan Lai"
-        ]
-      },
-      {
-        "title": "Event Log Reconstruction Using Autoencoders.",
-        "authors": [
-          "Hoang Thi Cam Nguyen",
-          "Marco Comuzzi"
-        ]
-      },
-      {
-        "title": "MLE: A General Multi-Layer Ensemble Framework for Group Recommendation.",
-        "authors": [
-          "Xiaopeng Li",
-          "Jia Xu",
-          "Bin Xia",
-          "Jian Xu"
-        ]
-      },
-      {
-        "title": "Does Your Accurate Process Predictive Monitoring Model Give Reliable Predictions?",
-        "authors": [
-          "Marco Comuzzi",
-          "Alfonso E. Márquez Chamorro",
-          "Manuel Resinas"
-        ]
-      },
-      {
-        "title": "Service Negotiation in a Dynamic IoT Environment.",
-        "authors": [
-          "Fan Li"
-        ]
-      },
-      {
-        "title": "Towards Energy and Time Efficient Resource Allocation in IoT-Fog-Cloud Environment.",
-        "authors": [
-          "Huaiying Sun",
-          "Huiqun Yu",
-          "Guisheng Fan"
-        ]
-      },
-      {
-        "title": "AppNet: A Large-Scale Multi-layer Heterogeneous Complex App Network for Intelligent Program Search.",
-        "authors": [
-          "Jianmao Xiao",
-          "Shizhan Chen",
-          "Zhiyong Feng",
-          "Jian Yang"
-        ]
-      },
-      {
-        "title": "A Goal-Driven Context-Aware Architecture for Distributing Cognitive Service Group.",
-        "authors": [
-          "Siyuan Lu"
-        ]
-      },
-      {
-        "title": "Crossover Service Phenomenon Analysis Based on Event Evolutionary Graph.",
-        "authors": [
-          "Mingyi Liu",
-          "Zhongjie Wang",
-          "Zhiying Tu"
-        ]
-      },
-      {
-        "title": "Improved Architectures/Deployments with Elmo.",
-        "authors": [
-          "Arjan Lamers",
-          "Marko C. J. D. van Eekelen",
-          "Sung-Shik Jongmans"
-        ]
-      },
-      {
-        "title": "CEA: A Service for Cognitive Event Automation.",
-        "authors": [
-          "Larisa Shwartz",
-          "Jinho Hwang",
-          "Hagen Völzer",
-          "Michael Nidd",
-          "Murilo Goncalves Aguiar",
-          "Marcos Vinicius Landivar Paraiso",
-          "Letusa Valero"
-        ]
-      },
-      {
-        "title": "BluePlan: A Service for Automated Migration Plan Construction Using AI.",
-        "authors": [
-          "Malik Jackson",
-          "John J. Rofrano",
-          "Jinho Hwang",
-          "Maja Vukovic"
-        ]
-      },
-      {
-        "title": "ELeCTRA: Induced Usage Limitations Calculation in RESTful APIs.",
-        "authors": [
-          "Antonio Gamez-Diaz",
-          "Pablo Fernandez",
-          "Cesare Pautasso",
-          "Ana Ivanchikj",
-          "Antonio Ruiz-Cortés"
-        ]
-      },
-      {
-        "title": "Offering Artificial Intelligence Development Situation Analysis Service for Users.",
-        "authors": [
-          "Xiujuan Xu",
-          "Tingting Jiang",
-          "Shimin Shan",
-          "Jun Ni",
-          "Kai Wang",
-          "Zhenlong Xu",
-          "Yu Liu"
-        ]
-      },
-      {
-        "title": "TReAT: A Tool for Analyzing Relations Between Tasks in a Process.",
-        "authors": [
-          "Pengbo Xiu",
-          "Jian Yang",
-          "Weiliang Zhao"
-        ]
-      },
-      {
-        "title": "iCOP: IoT-Enabled Policing Processes.",
-        "authors": [
-          "Francesco Schiliro",
-          "Amin Beheshti",
-          "Samira Ghodratnama",
-          "Farhad Amouzgar",
-          "Boualem Benatallah",
-          "Jian Yang",
-          "Quan Z. Sheng",
-          "Fabio Casati",
-          "Hamid Reza Motahari-Nezhad"
-        ]
-      },
-      {
-        "title": "iSheets: A Spreadsheet-Based Machine Learning Development Platform for Data-Driven Process Analytics.",
-        "authors": [
-          "Farhad Amouzgar",
-          "Amin Beheshti",
-          "Samira Ghodratnama",
-          "Boualem Benatallah",
-          "Jian Yang",
-          "Quan Z. Sheng"
-        ]
-      },
-      {
-        "title": "SORCER: A Decentralised Continuous Integration Platform for Service-Oriented Software Systems.",
-        "authors": [
-          "Jameel Almalki",
-          "Haifeng Shen"
-        ]
-      },
-      {
-        "title": "On Anomaly Detection and Root Cause Analysis of Microservice Systems.",
-        "authors": [
-          "Zijie Guan",
-          "JinJin Lin",
-          "Pengfei Chen"
-        ]
-      },
-      {
-        "title": "RESTalk Miner: Mining RESTful Conversations, Pattern Discovery and Matching.",
-        "authors": [
-          "Ana Ivanchikj",
-          "Ilija Gjorgjiev",
-          "Cesare Pautasso"
-        ]
-      },
-      {
-        "title": "Cross-Client SLA Management with the ysla Language and Engine.",
-        "authors": [
-          "Shashank Rajamoni",
-          "Robert Engel",
-          "Bryant Chen",
-          "Heiko Ludwig",
-          "Alexander Keller"
-        ]
-      },
-      {
-        "title": "Paving the Way for Autonomous Cars in the City of Tomorrow: A Prototype for Mobile Devices Support at the Edges of 5G Network.",
-        "authors": [
-          "Fatma Raissi",
-          "Clovis Anicet Ouedraogo",
-          "Sami Yangui",
-          "Frédéric Camps",
-          "Nejib Ben Hadj-Alouane"
-        ]
-      },
-      {
-        "title": "Juno: An Intelligent Chat Service for IT Service Automation.",
-        "authors": [
-          "Jin Xiao",
-          "Anup K. Kalia",
-          "Maja Vukovic"
         ]
       }
     ]
@@ -6343,6 +6343,261 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/icsoc/icsoc2016w.html": {
+    "header": "14th ICSOC Workshops 2016: Banff, AB, Canada",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "Decentralized Dynamic Adaptation for Service-Based Collective Adaptive Systems.",
+        "authors": [
+          "Antonio Bucchiarone",
+          "Martina De Sanctis",
+          "Annapaola Marconi"
+        ]
+      },
+      {
+        "title": "A Generic Framework for Quality-Based Autonomic Adaptation Within Sensor-Based Systems.",
+        "authors": [
+          "Antoine Auger",
+          "Ernesto Exposito",
+          "Emmanuel Lochin"
+        ]
+      },
+      {
+        "title": "Using Formal Model for Evaluation of Business Processes Elasticity in the Cloud.",
+        "authors": [
+          "Lydia Yataghene",
+          "Malika Ioualalen",
+          "Mourad Amziani",
+          "Samir Tata"
+        ]
+      },
+      {
+        "title": "A Brokerage Architecture: Cloud Service Selection.",
+        "authors": [
+          "Hela Malouche",
+          "Youssef Ben Halima",
+          "Henda Ben Ghézala"
+        ]
+      },
+      {
+        "title": "Service Virtualization for Self-adaptation in Mobile Cyber-Physical Systems.",
+        "authors": [
+          "Amir Taherkordi",
+          "Peter Herrmann",
+          "Jan Olaf Blech",
+          "Álvaro Fernández"
+        ]
+      },
+      {
+        "title": "EQL: Event Query Language for the Sharing of Internet-of-Things Infrastructure and Collaborative Applications Development.",
+        "authors": [
+          "Kutalmis Akpinar",
+          "Kien A. Hua"
+        ]
+      },
+      {
+        "title": "Trust-Based IoT Participatory Sensing for Hazard Detection and Response.",
+        "authors": [
+          "Jia Guo",
+          "Ing-Ray Chen",
+          "Jeffrey J. P. Tsai",
+          "Hamid Al-Hamadi"
+        ]
+      },
+      {
+        "title": "Data Provenance Model for Internet of Things (IoT) Systems.",
+        "authors": [
+          "Habeeb Olufowobi",
+          "Robert Engel",
+          "Nathalie Baracaldo",
+          "Luis Angel D. Bathen",
+          "Samir Tata",
+          "Heiko Ludwig"
+        ]
+      },
+      {
+        "title": "Securing Data Provenance in Internet of Things (IoT) Systems.",
+        "authors": [
+          "Nathalie Baracaldo",
+          "Luis Angel D. Bathen",
+          "Roqeeb O. Ozugha",
+          "Robert Engel",
+          "Samir Tata",
+          "Heiko Ludwig"
+        ]
+      },
+      {
+        "title": "Enhancing UML Class Diagram Abstraction with Page Rank Algorithm and Relationship Abstraction Rules.",
+        "authors": [
+          "Liang Huang",
+          "Yucong Duan",
+          "Zhangbing Zhou",
+          "Lixu Shao",
+          "Xiaobing Sun",
+          "Patrick C. K. Hung"
+        ]
+      },
+      {
+        "title": "Energy-Aware Composition for Service-Oriented Wireless Sensor Networks.",
+        "authors": [
+          "Deng Zhao",
+          "Zhangbing Zhou",
+          "Yucong Duan",
+          "Patrick C. K. Hung"
+        ]
+      },
+      {
+        "title": "Searching the Web of Things: Resolving a Real Library of Babel.",
+        "authors": [
+          "Nguyen Khoi Tran"
+        ]
+      },
+      {
+        "title": "A Migration Approach for Cloud Service Composition.",
+        "authors": [
+          "Jing Li"
+        ]
+      },
+      {
+        "title": "Towards Quality Guided Data Integration on Multi-cloud Settings.",
+        "authors": [
+          "Daniel A. S. Carvalho"
+        ]
+      },
+      {
+        "title": "Revenue-Driven Service Provision for Mobile Hosts.",
+        "authors": [
+          "Hongyue Wu",
+          "ShuiGuang Deng",
+          "Jianwei Yin"
+        ]
+      },
+      {
+        "title": "Context-Aware Automated Workflow Composition for Interactive Data Exploration.",
+        "authors": [
+          "Diego Serrano"
+        ]
+      },
+      {
+        "title": "Towards Rules-Based Mapping Framework for RESTful Web Services.",
+        "authors": [
+          "Khanh Duc Hoang Le"
+        ]
+      },
+      {
+        "title": "Demand-Driven SOA Simulation Platform Based on GIPSY for Context-Based Brokerage.",
+        "authors": [
+          "Touraj Laleh",
+          "Esteban Garro",
+          "Jashanjot Singh",
+          "Gurpreet Raju",
+          "Muhammad Usman",
+          "Serguei A. Mokhov",
+          "Joey Paquet"
+        ]
+      },
+      {
+        "title": "DeMOCAS: Domain Objects for Service-Based Collective Adaptive Systems.",
+        "authors": [
+          "Antonio Bucchiarone",
+          "Martina De Sanctis",
+          "Annapaola Marconi",
+          "Alberto Martinelli"
+        ]
+      },
+      {
+        "title": "Anuvaad Pranaali: A RESTful API for Machine Translation.",
+        "authors": [
+          "Nehal J. Wani",
+          "Sharada Prasanna Mohanty",
+          "Suresh Purini",
+          "Dipti Misra Sharma"
+        ]
+      },
+      {
+        "title": "Integration of Heterogeneous Services and Things into Choreographies.",
+        "authors": [
+          "Georgios Bouloukakis",
+          "Nikolaos Georgantas",
+          "Siddhartha Dutta",
+          "Valérie Issarny"
+        ]
+      },
+      {
+        "title": "Testing Processes with Service Invocation: Advanced Logging in CPEE.",
+        "authors": [
+          "Florian Stertz",
+          "Stefanie Rinderle-Ma",
+          "Tobias Hildebrandt",
+          "Juergen Mangler"
+        ]
+      },
+      {
+        "title": "COOL: A Model-Driven and Automated System for Guided and Verifiable Cloud Solution Design.",
+        "authors": [
+          "Hamid R. Motahari Nezhad",
+          "Karen Yorav",
+          "Peifeng Yin",
+          "Taiga Nakamura",
+          "Scott Trent",
+          "Gil Shurek",
+          "Takayuki Kushida",
+          "Uma Subramanian"
+        ]
+      },
+      {
+        "title": "A Service-Based System for Sentiment Analysis and Visualization of Twitter Data in Realtime.",
+        "authors": [
+          "Yehia Taher",
+          "Rafiqul Haque",
+          "Mohammed AlShaer",
+          "Willem-Jan van den Heuvel",
+          "Karine Zeitouni",
+          "Renata Mendes de Araujo",
+          "Mohand-Saïd Hacid",
+          "Mohamed Dbouk"
+        ]
+      },
+      {
+        "title": "XDAI-A: Framework for Enabling Cross-Device Integration of Android Apps.",
+        "authors": [
+          "Dennis Wolters",
+          "Jonas Kirchhoff",
+          "Christian Gerth",
+          "Gregor Engels"
+        ]
+      },
+      {
+        "title": "Desire: Deep Semantic Understanding and Retrieval for Technical Support Services.",
+        "authors": [
+          "Abhirut Gupta",
+          "Arjun R. Akula",
+          "Gargi Dasgupta",
+          "Pooja Aggarwal",
+          "Prateeti Mohapatra"
+        ]
+      },
+      {
+        "title": "BlueSight: Automated Discovery Service for Cloud Migration of Enterprises.",
+        "authors": [
+          "Dannver Wu",
+          "Jinho Hwang",
+          "Maja Vukovic",
+          "Nikos Anerousis"
+        ]
+      },
+      {
+        "title": "A Configurator Component for End-User Defined Mobile Data Collection Processes.",
+        "authors": [
+          "Johannes Schobel",
+          "Rüdiger Pryss",
+          "Marc Schickler",
+          "Manfred Reichert"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/icsoc/icsoc2016.html": {
     "header": "14th ICSOC 2016: Banff, AB, Canada",
     "year": "2016",
@@ -6874,257 +7129,167 @@
       }
     ]
   },
-  "https://dblp.org/db/conf/icsoc/icsoc2016w.html": {
-    "header": "14th ICSOC Workshops 2016: Banff, AB, Canada",
-    "year": "2016",
+  "https://dblp.org/db/conf/icsoc/icsoc2015w.html": {
+    "header": "13th ICSOC Workshops 2015: Goa, India",
+    "year": "2015",
     "papers": [
       {
-        "title": "Decentralized Dynamic Adaptation for Service-Based Collective Adaptive Systems.",
+        "title": "From Choreography Diagrams to RESTful Interactions.",
         "authors": [
-          "Antonio Bucchiarone",
+          "Adriatik Nikaj",
+          "Sankalita Mandal",
+          "Cesare Pautasso",
+          "Mathias Weske"
+        ]
+      },
+      {
+        "title": "Estimating the Complexity of Software Services Using an Entropy Based Metric.",
+        "authors": [
+          "George Feuerlicht",
+          "David Hartman"
+        ]
+      },
+      {
+        "title": "Establishing Distributed Governance Infrastructures for Enacting Cross-Organization Collaborations.",
+        "authors": [
+          "Alex Norta"
+        ]
+      },
+      {
+        "title": "All the Services Large and Micro: Revisiting Industrial Practice in Services Computing.",
+        "authors": [
+          "Gerald Schermann",
+          "Jürgen Cito",
+          "Philipp Leitner"
+        ]
+      },
+      {
+        "title": "Distributed Service Co-evolution Based on Domain Objects.",
+        "authors": [
           "Martina De Sanctis",
-          "Annapaola Marconi"
-        ]
-      },
-      {
-        "title": "A Generic Framework for Quality-Based Autonomic Adaptation Within Sensor-Based Systems.",
-        "authors": [
-          "Antoine Auger",
-          "Ernesto Exposito",
-          "Emmanuel Lochin"
-        ]
-      },
-      {
-        "title": "Using Formal Model for Evaluation of Business Processes Elasticity in the Cloud.",
-        "authors": [
-          "Lydia Yataghene",
-          "Malika Ioualalen",
-          "Mourad Amziani",
-          "Samir Tata"
-        ]
-      },
-      {
-        "title": "A Brokerage Architecture: Cloud Service Selection.",
-        "authors": [
-          "Hela Malouche",
-          "Youssef Ben Halima",
-          "Henda Ben Ghézala"
-        ]
-      },
-      {
-        "title": "Service Virtualization for Self-adaptation in Mobile Cyber-Physical Systems.",
-        "authors": [
-          "Amir Taherkordi",
-          "Peter Herrmann",
-          "Jan Olaf Blech",
-          "Álvaro Fernández"
-        ]
-      },
-      {
-        "title": "EQL: Event Query Language for the Sharing of Internet-of-Things Infrastructure and Collaborative Applications Development.",
-        "authors": [
-          "Kutalmis Akpinar",
-          "Kien A. Hua"
-        ]
-      },
-      {
-        "title": "Trust-Based IoT Participatory Sensing for Hazard Detection and Response.",
-        "authors": [
-          "Jia Guo",
-          "Ing-Ray Chen",
-          "Jeffrey J. P. Tsai",
-          "Hamid Al-Hamadi"
-        ]
-      },
-      {
-        "title": "Data Provenance Model for Internet of Things (IoT) Systems.",
-        "authors": [
-          "Habeeb Olufowobi",
-          "Robert Engel",
-          "Nathalie Baracaldo",
-          "Luis Angel D. Bathen",
-          "Samir Tata",
-          "Heiko Ludwig"
-        ]
-      },
-      {
-        "title": "Securing Data Provenance in Internet of Things (IoT) Systems.",
-        "authors": [
-          "Nathalie Baracaldo",
-          "Luis Angel D. Bathen",
-          "Roqeeb O. Ozugha",
-          "Robert Engel",
-          "Samir Tata",
-          "Heiko Ludwig"
-        ]
-      },
-      {
-        "title": "Enhancing UML Class Diagram Abstraction with Page Rank Algorithm and Relationship Abstraction Rules.",
-        "authors": [
-          "Liang Huang",
-          "Yucong Duan",
-          "Zhangbing Zhou",
-          "Lixu Shao",
-          "Xiaobing Sun",
-          "Patrick C. K. Hung"
-        ]
-      },
-      {
-        "title": "Energy-Aware Composition for Service-Oriented Wireless Sensor Networks.",
-        "authors": [
-          "Deng Zhao",
-          "Zhangbing Zhou",
-          "Yucong Duan",
-          "Patrick C. K. Hung"
-        ]
-      },
-      {
-        "title": "Searching the Web of Things: Resolving a Real Library of Babel.",
-        "authors": [
-          "Nguyen Khoi Tran"
-        ]
-      },
-      {
-        "title": "A Migration Approach for Cloud Service Composition.",
-        "authors": [
-          "Jing Li"
-        ]
-      },
-      {
-        "title": "Towards Quality Guided Data Integration on Multi-cloud Settings.",
-        "authors": [
-          "Daniel A. S. Carvalho"
-        ]
-      },
-      {
-        "title": "Revenue-Driven Service Provision for Mobile Hosts.",
-        "authors": [
-          "Hongyue Wu",
-          "ShuiGuang Deng",
-          "Jianwei Yin"
-        ]
-      },
-      {
-        "title": "Context-Aware Automated Workflow Composition for Interactive Data Exploration.",
-        "authors": [
-          "Diego Serrano"
-        ]
-      },
-      {
-        "title": "Towards Rules-Based Mapping Framework for RESTful Web Services.",
-        "authors": [
-          "Khanh Duc Hoang Le"
-        ]
-      },
-      {
-        "title": "Demand-Driven SOA Simulation Platform Based on GIPSY for Context-Based Brokerage.",
-        "authors": [
-          "Touraj Laleh",
-          "Esteban Garro",
-          "Jashanjot Singh",
-          "Gurpreet Raju",
-          "Muhammad Usman",
-          "Serguei A. Mokhov",
-          "Joey Paquet"
-        ]
-      },
-      {
-        "title": "DeMOCAS: Domain Objects for Service-Based Collective Adaptive Systems.",
-        "authors": [
+          "Kurt Geihs",
           "Antonio Bucchiarone",
-          "Martina De Sanctis",
+          "Giuseppe Valetto",
           "Annapaola Marconi",
-          "Alberto Martinelli"
+          "Marco Pistore"
         ]
       },
       {
-        "title": "Anuvaad Pranaali: A RESTful API for Machine Translation.",
+        "title": "A Web Services Infrastructure for the Management of Mashup Interfaces.",
         "authors": [
-          "Nehal J. Wani",
-          "Sharada Prasanna Mohanty",
-          "Suresh Purini",
-          "Dipti Misra Sharma"
+          "Jesús Vallecillos",
+          "Javier Criado",
+          "Antonio Jesús Fernández-García",
+          "Nicolás Padilla",
+          "Luis Iribarne"
         ]
       },
       {
-        "title": "Integration of Heterogeneous Services and Things into Choreographies.",
+        "title": "S-PDH: A CPS Service Contract Framework for Composition.",
         "authors": [
-          "Georgios Bouloukakis",
-          "Nikolaos Georgantas",
-          "Siddhartha Dutta",
-          "Valérie Issarny"
+          "Lin Ye",
+          "Kaiyu Qian",
+          "Liang Zhang"
         ]
       },
       {
-        "title": "Testing Processes with Service Invocation: Advanced Logging in CPEE.",
+        "title": "Towards RAM-Based Variant Generation of Business Process Models.",
         "authors": [
-          "Florian Stertz",
-          "Stefanie Rinderle-Ma",
-          "Tobias Hildebrandt",
-          "Juergen Mangler"
+          "Ahmed Tealeb",
+          "Ahmed Awad",
+          "Galal H. Galal-Edeen"
         ]
       },
       {
-        "title": "COOL: A Model-Driven and Automated System for Guided and Verifiable Cloud Solution Design.",
+        "title": "Extending Generic BPM with Computer Vision Capabilities.",
         "authors": [
-          "Hamid R. Motahari Nezhad",
-          "Karen Yorav",
-          "Peifeng Yin",
-          "Taiga Nakamura",
-          "Scott Trent",
-          "Gil Shurek",
-          "Takayuki Kushida",
-          "Uma Subramanian"
+          "Adrian Mos",
+          "Adrien Gaidon",
+          "Eleonora Vig"
         ]
       },
       {
-        "title": "A Service-Based System for Sentiment Analysis and Visualization of Twitter Data in Realtime.",
+        "title": "Extraction of Topic Map Ontology for Web Service-Oriented Enterprises.",
         "authors": [
-          "Yehia Taher",
-          "Rafiqul Haque",
-          "Mohammed AlShaer",
-          "Willem-Jan van den Heuvel",
-          "Karine Zeitouni",
-          "Renata Mendes de Araujo",
-          "Mohand-Saïd Hacid",
-          "Mohamed Dbouk"
+          "Suman Roy",
+          "Kiran Prakash Sawant",
+          "Aditya Kale",
+          "Olivier Maurice Charvin"
         ]
       },
       {
-        "title": "XDAI-A: Framework for Enabling Cross-Device Integration of Android Apps.",
+        "title": "Case Study Method and Research Design for the Dynamic Multilevel Component Selection Problem.",
         "authors": [
-          "Dennis Wolters",
-          "Jonas Kirchhoff",
-          "Christian Gerth",
-          "Gregor Engels"
+          "Andreea Vescan"
         ]
       },
       {
-        "title": "Desire: Deep Semantic Understanding and Retrieval for Technical Support Services.",
+        "title": "Expressive Equivalence and Succinctness of Parametrized Automata with Respect to Finite Memory Automata.",
         "authors": [
-          "Abhirut Gupta",
-          "Arjun R. Akula",
-          "Gargi Dasgupta",
-          "Pooja Aggarwal",
-          "Prateeti Mohapatra"
+          "Tushant Jha",
+          "Walid Belkhir",
+          "Yannick Chevalier",
+          "Michaël Rusinowitch"
         ]
       },
       {
-        "title": "BlueSight: Automated Discovery Service for Cloud Migration of Enterprises.",
+        "title": "Toward the Formalization of BPEL.",
         "authors": [
-          "Dannver Wu",
-          "Jinho Hwang",
-          "Maja Vukovic",
-          "Nikos Anerousis"
+          "Laila Boumlik",
+          "Mohamed Mejri"
         ]
       },
       {
-        "title": "A Configurator Component for End-User Defined Mobile Data Collection Processes.",
+        "title": "Context-Aware Personalization for Smart Mobile Cloud Services.",
         "authors": [
-          "Johannes Schobel",
-          "Rüdiger Pryss",
-          "Marc Schickler",
-          "Manfred Reichert"
+          "Waldemar Hummer",
+          "Stefan Schulte"
+        ]
+      },
+      {
+        "title": "Information Governance Requirements for Architectural Solutions Supporting Dynamic Business Networking.",
+        "authors": [
+          "Mohammad R. Rasouli",
+          "Rik Eshuis",
+          "Jos J. M. Trienekens",
+          "Paul W. P. J. Grefen"
+        ]
+      },
+      {
+        "title": "An Evolutionary Multiobjective Approach for the Dynamic Multilevel Component Selection Problem.",
+        "authors": [
+          "Andreea Vescan"
+        ]
+      },
+      {
+        "title": "A Reusable Architecture for Dependability and Performance Benchmarking of Cloud Services.",
+        "authors": [
+          "Amit Sangroya",
+          "Sara Bouchenak"
+        ]
+      },
+      {
+        "title": "Safe Configurations of Replica Voting Processes in Fault-Resilient Data Collection Services.",
+        "authors": [
+          "Kaliappa Ravindran",
+          "Arun Adiththan"
+        ]
+      },
+      {
+        "title": "On Composition of Checkpoint and Recovery Protocols for Distributed Systems.",
+        "authors": [
+          "Soumi Chattopadhyay",
+          "Ansuman Banerjee",
+          "Himadri Sekhar Paul"
+        ]
+      },
+      {
+        "title": "A Proactive Solution to Manage Web Service Unavailability in Service Oriented Software Systems.",
+        "authors": [
+          "Navinderjit Kaur Kahlon",
+          "Salil Vishnu Kapur",
+          "Kuljit Kaur Chahal",
+          "Sukhleen Bindra Narang"
         ]
       }
     ]
@@ -7479,171 +7644,6 @@
           "Pathathai Na-Lumpoon",
           "Ahmed Lbath",
           "Lorraine Goeuriot"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/icsoc/icsoc2015w.html": {
-    "header": "13th ICSOC Workshops 2015: Goa, India",
-    "year": "2015",
-    "papers": [
-      {
-        "title": "From Choreography Diagrams to RESTful Interactions.",
-        "authors": [
-          "Adriatik Nikaj",
-          "Sankalita Mandal",
-          "Cesare Pautasso",
-          "Mathias Weske"
-        ]
-      },
-      {
-        "title": "Estimating the Complexity of Software Services Using an Entropy Based Metric.",
-        "authors": [
-          "George Feuerlicht",
-          "David Hartman"
-        ]
-      },
-      {
-        "title": "Establishing Distributed Governance Infrastructures for Enacting Cross-Organization Collaborations.",
-        "authors": [
-          "Alex Norta"
-        ]
-      },
-      {
-        "title": "All the Services Large and Micro: Revisiting Industrial Practice in Services Computing.",
-        "authors": [
-          "Gerald Schermann",
-          "Jürgen Cito",
-          "Philipp Leitner"
-        ]
-      },
-      {
-        "title": "Distributed Service Co-evolution Based on Domain Objects.",
-        "authors": [
-          "Martina De Sanctis",
-          "Kurt Geihs",
-          "Antonio Bucchiarone",
-          "Giuseppe Valetto",
-          "Annapaola Marconi",
-          "Marco Pistore"
-        ]
-      },
-      {
-        "title": "A Web Services Infrastructure for the Management of Mashup Interfaces.",
-        "authors": [
-          "Jesús Vallecillos",
-          "Javier Criado",
-          "Antonio Jesús Fernández-García",
-          "Nicolás Padilla",
-          "Luis Iribarne"
-        ]
-      },
-      {
-        "title": "S-PDH: A CPS Service Contract Framework for Composition.",
-        "authors": [
-          "Lin Ye",
-          "Kaiyu Qian",
-          "Liang Zhang"
-        ]
-      },
-      {
-        "title": "Towards RAM-Based Variant Generation of Business Process Models.",
-        "authors": [
-          "Ahmed Tealeb",
-          "Ahmed Awad",
-          "Galal H. Galal-Edeen"
-        ]
-      },
-      {
-        "title": "Extending Generic BPM with Computer Vision Capabilities.",
-        "authors": [
-          "Adrian Mos",
-          "Adrien Gaidon",
-          "Eleonora Vig"
-        ]
-      },
-      {
-        "title": "Extraction of Topic Map Ontology for Web Service-Oriented Enterprises.",
-        "authors": [
-          "Suman Roy",
-          "Kiran Prakash Sawant",
-          "Aditya Kale",
-          "Olivier Maurice Charvin"
-        ]
-      },
-      {
-        "title": "Case Study Method and Research Design for the Dynamic Multilevel Component Selection Problem.",
-        "authors": [
-          "Andreea Vescan"
-        ]
-      },
-      {
-        "title": "Expressive Equivalence and Succinctness of Parametrized Automata with Respect to Finite Memory Automata.",
-        "authors": [
-          "Tushant Jha",
-          "Walid Belkhir",
-          "Yannick Chevalier",
-          "Michaël Rusinowitch"
-        ]
-      },
-      {
-        "title": "Toward the Formalization of BPEL.",
-        "authors": [
-          "Laila Boumlik",
-          "Mohamed Mejri"
-        ]
-      },
-      {
-        "title": "Context-Aware Personalization for Smart Mobile Cloud Services.",
-        "authors": [
-          "Waldemar Hummer",
-          "Stefan Schulte"
-        ]
-      },
-      {
-        "title": "Information Governance Requirements for Architectural Solutions Supporting Dynamic Business Networking.",
-        "authors": [
-          "Mohammad R. Rasouli",
-          "Rik Eshuis",
-          "Jos J. M. Trienekens",
-          "Paul W. P. J. Grefen"
-        ]
-      },
-      {
-        "title": "An Evolutionary Multiobjective Approach for the Dynamic Multilevel Component Selection Problem.",
-        "authors": [
-          "Andreea Vescan"
-        ]
-      },
-      {
-        "title": "A Reusable Architecture for Dependability and Performance Benchmarking of Cloud Services.",
-        "authors": [
-          "Amit Sangroya",
-          "Sara Bouchenak"
-        ]
-      },
-      {
-        "title": "Safe Configurations of Replica Voting Processes in Fault-Resilient Data Collection Services.",
-        "authors": [
-          "Kaliappa Ravindran",
-          "Arun Adiththan"
-        ]
-      },
-      {
-        "title": "On Composition of Checkpoint and Recovery Protocols for Distributed Systems.",
-        "authors": [
-          "Soumi Chattopadhyay",
-          "Ansuman Banerjee",
-          "Himadri Sekhar Paul"
-        ]
-      },
-      {
-        "title": "A Proactive Solution to Manage Web Service Unavailability in Service Oriented Software Systems.",
-        "authors": [
-          "Navinderjit Kaur Kahlon",
-          "Salil Vishnu Kapur",
-          "Kuljit Kaur Chahal",
-          "Sukhleen Bindra Narang"
         ]
       }
     ]
@@ -8425,6 +8425,472 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/icsoc/icsoc2013w.html": {
+    "header": "11th ICSOC Workshops 2013: Berlin, Germany",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Introduction to the 9th International Workshop on Engineering Service-Oriented Applications (WESOA'13).",
+        "authors": [
+          "George Feuerlicht",
+          "Winfried Lamersdorf",
+          "Guadalupe Ortiz",
+          "Christian Zirpins"
+        ]
+      },
+      {
+        "title": "From Process Models to Business Process Architectures: Connecting the Layers.",
+        "authors": [
+          "Rami-Habib Eid-Sabbagh",
+          "Mathias Weske"
+        ]
+      },
+      {
+        "title": "Goal-Driven Composition of Business Process Models.",
+        "authors": [
+          "Benjamin Nagel",
+          "Christian Gerth",
+          "Gregor Engels"
+        ]
+      },
+      {
+        "title": "Integrating Service Release Management with Service Solution Design.",
+        "authors": [
+          "Heiko Ludwig",
+          "Juan M. Cappi",
+          "Valeria Becker",
+          "Bairbre Stewart",
+          "Susan Meade"
+        ]
+      },
+      {
+        "title": "Practical Compiler-Based User Support during the Development of Business Processes.",
+        "authors": [
+          "Thomas M. Prinz",
+          "Wolfram Amme"
+        ]
+      },
+      {
+        "title": "Model Checking GSM-Based Multi-Agent Systems.",
+        "authors": [
+          "Pavel Gonzalez",
+          "Andreas Griesmayer",
+          "Alessio Lomuscio"
+        ]
+      },
+      {
+        "title": "Towards Modeling and Execution of Collective Adaptive Systems.",
+        "authors": [
+          "Vasilios Andrikopoulos",
+          "Antonio Bucchiarone",
+          "Santiago Gomez Saez",
+          "Dimka Karastoyanova",
+          "Claudio Antares Mezzina"
+        ]
+      },
+      {
+        "title": "A Requirements-Based Model for Effort Estimation in Service-Oriented Systems.",
+        "authors": [
+          "Bertrand Verlaine",
+          "Ivan Jureta",
+          "Stéphane Faulkner"
+        ]
+      },
+      {
+        "title": "Augmenting Complex Problem Solving with Hybrid Compute Units.",
+        "authors": [
+          "Hong Linh Truong",
+          "Hoa Khanh Dam",
+          "Aditya Ghose",
+          "Schahram Dustdar"
+        ]
+      },
+      {
+        "title": "Towards Automating the Detection of Event Sources.",
+        "authors": [
+          "Nico Herzberg",
+          "Oleh Khovalko",
+          "Anne Baumgrass",
+          "Mathias Weske"
+        ]
+      },
+      {
+        "title": "Discovering Pattern-Based Mediator Services from Communication Logs.",
+        "authors": [
+          "Christian Gierds",
+          "Dirk Fahland"
+        ]
+      },
+      {
+        "title": "Cloud Service Brokerage - 2013: Methods and Mechanisms.",
+        "authors": [
+          "Gregoris Mentzas",
+          "Anthony J. H. Simons",
+          "Iraklis Paraskakis"
+        ]
+      },
+      {
+        "title": "A Comparison Framework and Review of Service Brokerage Solutions for Cloud Architectures.",
+        "authors": [
+          "Frank Fowley",
+          "Claus Pahl",
+          "Li Zhang"
+        ]
+      },
+      {
+        "title": "Brokerage for Quality Assurance and Optimisation of Cloud Services: An Analysis of Key Requirements.",
+        "authors": [
+          "Dimitrios Kourtesis",
+          "Konstantinos Bratanis",
+          "Andreas Friesen",
+          "Yiannis Verginadis",
+          "Anthony J. H. Simons",
+          "Alessandro Rossini",
+          "Antonia Schwichtenberg",
+          "Panagiotis Gouvas"
+        ]
+      },
+      {
+        "title": "Towards Value-Driven Business Modelling Based on Service Brokerage.",
+        "authors": [
+          "Yucong Duan",
+          "Keman Huang",
+          "Ajay Kattepur",
+          "Wencai Du"
+        ]
+      },
+      {
+        "title": "Introducing Policy-Driven Governance and Service Level Failure Mitigation in Cloud Service Brokers: Challenges Ahead.",
+        "authors": [
+          "Konstantinos Bratanis",
+          "Dimitrios Kourtesis"
+        ]
+      },
+      {
+        "title": "Model-Based Testing in Cloud Brokerage Scenarios.",
+        "authors": [
+          "Mariam Kiran",
+          "Andreas Friesen",
+          "Anthony J. H. Simons",
+          "Wolfgang K. R. Schwach"
+        ]
+      },
+      {
+        "title": "Value-Added Modelling and Analysis in Service Value Brokerage.",
+        "authors": [
+          "Yucong Duan",
+          "Yongzhi Wang",
+          "Jinpeng Wei",
+          "Ajay Kattepur",
+          "Wencai Du"
+        ]
+      },
+      {
+        "title": "Introduction to the Proceedings of the 9th International Workshop on Semantic Web Enabled Software Engineering (SWESE) 2013.",
+        "authors": [
+          "Gerd Gröner",
+          "Jeff Z. Pan",
+          "Yuting Zhao",
+          "Elisa F. Kendall",
+          "Ljiljana Stojanovic"
+        ]
+      },
+      {
+        "title": "Management of Variability in Modular Ontology Development.",
+        "authors": [
+          "Melanie Langermeier",
+          "Peter Rosina",
+          "Heiner Oberkampf",
+          "Thomas Driessen",
+          "Bernhard Bauer"
+        ]
+      },
+      {
+        "title": "Towards Automated Service Matchmaking and Planning for Multi-Agent Systems with OWL-S - Approach and Challenges.",
+        "authors": [
+          "Johannes Fähndrich",
+          "Nils Masuch",
+          "Hilmi Yildirim",
+          "Sahin Albayrak"
+        ]
+      },
+      {
+        "title": "Re-engineering the ISO 15926 Data Model: A Multi-level Metamodel Perspective.",
+        "authors": [
+          "Andreas Jordan",
+          "Matt Selway",
+          "Georg Grossmann",
+          "Wolfgang Mayer",
+          "Markus Stumptner"
+        ]
+      },
+      {
+        "title": "Fluent Calculus-Based Semantic Web Service Composition and Verification Using WSSL.",
+        "authors": [
+          "George Baryannis",
+          "Dimitris Plexousakis"
+        ]
+      },
+      {
+        "title": "Template-Based Ontology Population for Smart Environments Configuration.",
+        "authors": [
+          "Sebastián Aced López",
+          "Dario Bonino",
+          "Fulvio Corno"
+        ]
+      },
+      {
+        "title": "Introduction to the 3rd International Workshop on Cloud Computing and Scientific Applications (CCSA'13).",
+        "authors": [
+          "Suraj Pandey",
+          "Surya Nepal"
+        ]
+      },
+      {
+        "title": "SLA-Aware Load Balancing in a Web-Based Cloud System over OpenStack.",
+        "authors": [
+          "Jordi Vilaplana",
+          "Francesc Solsona",
+          "Jordi Mateo",
+          "Ivan Teixido"
+        ]
+      },
+      {
+        "title": "Are Public Clouds Elastic Enough for Scientific Computing?",
+        "authors": [
+          "Guilherme Galante",
+          "Luis Carlos Erpen De Bona",
+          "Antonio Roberto Mury",
+          "Bruno Schulze"
+        ]
+      },
+      {
+        "title": "A Light-Weight Framework for Bridge-Building from Desktop to Cloud.",
+        "authors": [
+          "Kewei Duan",
+          "Julian A. Padget",
+          "Hyunsun Alicia Kim"
+        ]
+      },
+      {
+        "title": "Planning and Scheduling Data Processing Workflows in the Cloud with Quality-of-Data Constraints.",
+        "authors": [
+          "Sérgio Esteves",
+          "Luís Veiga"
+        ]
+      },
+      {
+        "title": "Galaxy + Hadoop: Toward a Collaborative and Scalable Image Processing Toolbox in Cloud.",
+        "authors": [
+          "Shiping Chen",
+          "Tomasz Bednarz",
+          "Piotr Szul",
+          "Dadong Wang",
+          "Yulia Arzhaeva",
+          "Neil Burdett",
+          "Alex Khassapov",
+          "John Zic",
+          "Surya Nepal",
+          "Tim Gurevey",
+          "John A. Taylor"
+        ]
+      },
+      {
+        "title": "SciLightning: A Cloud Provenance-Based Event Notification for Parallel Workflows.",
+        "authors": [
+          "Julliano Trindade Pintas",
+          "Daniel de Oliveira",
+          "Kary A. C. S. Ocaña",
+          "Eduardo S. Ogasawara",
+          "Marta Mattoso"
+        ]
+      },
+      {
+        "title": "Energy Savings on a Cloud-Based Opportunistic Infrastructure.",
+        "authors": [
+          "Johnatan E. Pecero",
+          "Cesar O. Diaz",
+          "Harold E. Castro",
+          "Mario Villamizar",
+          "German Sotelo",
+          "Pascal Bouvry"
+        ]
+      },
+      {
+        "title": "Introduction to the Proceedings of the Workshop on Pervasive Analytical Service Clouds for the Enterprise and Beyond (PASCEB) 2013.",
+        "authors": [
+          "Alex Norta",
+          "Weishan Zhang",
+          "Claudia-Melania Chituc",
+          "Roman Vaculín"
+        ]
+      },
+      {
+        "title": "Towards a Formal Model for Cloud Computing.",
+        "authors": [
+          "Zakaria Benzadri",
+          "Faiza Belala",
+          "Chafia Bouanaka"
+        ]
+      },
+      {
+        "title": "An Optimized Strategy for Data Service Response with Template-Based Caching and Compression.",
+        "authors": [
+          "Peng Zhang",
+          "Kefu Xu",
+          "Yan Li",
+          "Li Guo"
+        ]
+      },
+      {
+        "title": "Model-Driven Event Query Generation for Business Process Monitoring.",
+        "authors": [
+          "Michael Backmann",
+          "Anne Baumgrass",
+          "Nico Herzberg",
+          "Andreas Meyer",
+          "Mathias Weske"
+        ]
+      },
+      {
+        "title": "Enabling Semantic Complex Event Processing in the Domain of Logistics.",
+        "authors": [
+          "Tobias Metzke",
+          "Andreas Rogge-Solti",
+          "Anne Baumgrass",
+          "Jan Mendling",
+          "Mathias Weske"
+        ]
+      },
+      {
+        "title": "Towards Self-adaptation Planning for Complex Service-Based Systems.",
+        "authors": [
+          "Azlan B. Ismail",
+          "Valeria Cardellini"
+        ]
+      },
+      {
+        "title": "Towards an Integration Platform for Bioinformatics Services.",
+        "authors": [
+          "Guzmán Llambías",
+          "Laura González",
+          "Raúl Ruggia"
+        ]
+      },
+      {
+        "title": "Requirements to Pervasive System Continuous Deployment.",
+        "authors": [
+          "Clément Escoffier",
+          "Ozan Necati Günalp",
+          "Philippe Lalanda"
+        ]
+      },
+      {
+        "title": "Towards Structure-Based Quality Awareness in Software Ecosystem Use.",
+        "authors": [
+          "Klaus Marius Hansen",
+          "Weishan Zhang"
+        ]
+      },
+      {
+        "title": "An Adaptive Enterprise Service Bus Infrastructure for Service Based Systems.",
+        "authors": [
+          "Laura González",
+          "Jorge Luis Laborde",
+          "Matías Galnares",
+          "Mauricio Fenoglio",
+          "Raúl Ruggia"
+        ]
+      },
+      {
+        "title": "Dynamic Adaptation of Business Process Based on Context Changes: A Rule-Oriented Approach.",
+        "authors": [
+          "Guangchang Hu",
+          "Budan Wu",
+          "Junliang Chen"
+        ]
+      },
+      {
+        "title": "Flexible Component Migration in an OSGi Based Pervasive Cloud Infrastructure.",
+        "authors": [
+          "Weishan Zhang",
+          "Licheng Chen",
+          "Qinghua Lu",
+          "Peiying Zhang",
+          "Su Yang"
+        ]
+      },
+      {
+        "title": "Hybrid Emotion Recognition Using Semantic Similarity.",
+        "authors": [
+          "Zhanshan Zhang",
+          "Xin Meng",
+          "Peiying Zhang",
+          "Weishan Zhang",
+          "Qinghua Lu"
+        ]
+      },
+      {
+        "title": "ICSOC PhD Symposium 2013.",
+        "authors": [
+          "Fabio Patrizi",
+          "Boualem Benatallah",
+          "Ivona Brandic"
+        ]
+      },
+      {
+        "title": "Towards the Automated Synthesis of Data Dependent Service Controllers.",
+        "authors": [
+          "Franziska Bathelt-Tok",
+          "Sabine Glesner"
+        ]
+      },
+      {
+        "title": "Multi-agent Approach for Managing Workflows in an Inter-Cloud Environment.",
+        "authors": [
+          "Sofiane Bendoukha"
+        ]
+      },
+      {
+        "title": "An Information-Centric System for Building the Web of Things.",
+        "authors": [
+          "Stefano Turchi"
+        ]
+      },
+      {
+        "title": "Testing of Distributed Service-Oriented Systems.",
+        "authors": [
+          "Faris Nizamic"
+        ]
+      },
+      {
+        "title": "Automation of the SLA Life Cycle in Cloud Computing ⋆.",
+        "authors": [
+          "Waheed Aslam Ghumman"
+        ]
+      },
+      {
+        "title": "Towards a Dynamic Declarative Service Workflow Reference Model.",
+        "authors": [
+          "Damian Clarke"
+        ]
+      },
+      {
+        "title": "A Context-Aware Access Control Framework for Software Services.",
+        "authors": [
+          "A. S. M. Kayes",
+          "Jun Han",
+          "Alan Colman"
+        ]
+      },
+      {
+        "title": "Description and Composition of Services towards the Web-Telecom Convergence.",
+        "authors": [
+          "Terence Ambra"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/icsoc/icsoc2013.html": {
     "header": "11th ICSOC 2013: Berlin, Germany",
     "year": "2013",
@@ -9003,472 +9469,6 @@
           "Yutian Sun",
           "Richard Hull",
           "Lior Limonad"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/icsoc/icsoc2013w.html": {
-    "header": "11th ICSOC Workshops 2013: Berlin, Germany",
-    "year": "2013",
-    "papers": [
-      {
-        "title": "Introduction to the 9th International Workshop on Engineering Service-Oriented Applications (WESOA'13).",
-        "authors": [
-          "George Feuerlicht",
-          "Winfried Lamersdorf",
-          "Guadalupe Ortiz",
-          "Christian Zirpins"
-        ]
-      },
-      {
-        "title": "From Process Models to Business Process Architectures: Connecting the Layers.",
-        "authors": [
-          "Rami-Habib Eid-Sabbagh",
-          "Mathias Weske"
-        ]
-      },
-      {
-        "title": "Goal-Driven Composition of Business Process Models.",
-        "authors": [
-          "Benjamin Nagel",
-          "Christian Gerth",
-          "Gregor Engels"
-        ]
-      },
-      {
-        "title": "Integrating Service Release Management with Service Solution Design.",
-        "authors": [
-          "Heiko Ludwig",
-          "Juan M. Cappi",
-          "Valeria Becker",
-          "Bairbre Stewart",
-          "Susan Meade"
-        ]
-      },
-      {
-        "title": "Practical Compiler-Based User Support during the Development of Business Processes.",
-        "authors": [
-          "Thomas M. Prinz",
-          "Wolfram Amme"
-        ]
-      },
-      {
-        "title": "Model Checking GSM-Based Multi-Agent Systems.",
-        "authors": [
-          "Pavel Gonzalez",
-          "Andreas Griesmayer",
-          "Alessio Lomuscio"
-        ]
-      },
-      {
-        "title": "Towards Modeling and Execution of Collective Adaptive Systems.",
-        "authors": [
-          "Vasilios Andrikopoulos",
-          "Antonio Bucchiarone",
-          "Santiago Gomez Saez",
-          "Dimka Karastoyanova",
-          "Claudio Antares Mezzina"
-        ]
-      },
-      {
-        "title": "A Requirements-Based Model for Effort Estimation in Service-Oriented Systems.",
-        "authors": [
-          "Bertrand Verlaine",
-          "Ivan Jureta",
-          "Stéphane Faulkner"
-        ]
-      },
-      {
-        "title": "Augmenting Complex Problem Solving with Hybrid Compute Units.",
-        "authors": [
-          "Hong Linh Truong",
-          "Hoa Khanh Dam",
-          "Aditya Ghose",
-          "Schahram Dustdar"
-        ]
-      },
-      {
-        "title": "Towards Automating the Detection of Event Sources.",
-        "authors": [
-          "Nico Herzberg",
-          "Oleh Khovalko",
-          "Anne Baumgrass",
-          "Mathias Weske"
-        ]
-      },
-      {
-        "title": "Discovering Pattern-Based Mediator Services from Communication Logs.",
-        "authors": [
-          "Christian Gierds",
-          "Dirk Fahland"
-        ]
-      },
-      {
-        "title": "Cloud Service Brokerage - 2013: Methods and Mechanisms.",
-        "authors": [
-          "Gregoris Mentzas",
-          "Anthony J. H. Simons",
-          "Iraklis Paraskakis"
-        ]
-      },
-      {
-        "title": "A Comparison Framework and Review of Service Brokerage Solutions for Cloud Architectures.",
-        "authors": [
-          "Frank Fowley",
-          "Claus Pahl",
-          "Li Zhang"
-        ]
-      },
-      {
-        "title": "Brokerage for Quality Assurance and Optimisation of Cloud Services: An Analysis of Key Requirements.",
-        "authors": [
-          "Dimitrios Kourtesis",
-          "Konstantinos Bratanis",
-          "Andreas Friesen",
-          "Yiannis Verginadis",
-          "Anthony J. H. Simons",
-          "Alessandro Rossini",
-          "Antonia Schwichtenberg",
-          "Panagiotis Gouvas"
-        ]
-      },
-      {
-        "title": "Towards Value-Driven Business Modelling Based on Service Brokerage.",
-        "authors": [
-          "Yucong Duan",
-          "Keman Huang",
-          "Ajay Kattepur",
-          "Wencai Du"
-        ]
-      },
-      {
-        "title": "Introducing Policy-Driven Governance and Service Level Failure Mitigation in Cloud Service Brokers: Challenges Ahead.",
-        "authors": [
-          "Konstantinos Bratanis",
-          "Dimitrios Kourtesis"
-        ]
-      },
-      {
-        "title": "Model-Based Testing in Cloud Brokerage Scenarios.",
-        "authors": [
-          "Mariam Kiran",
-          "Andreas Friesen",
-          "Anthony J. H. Simons",
-          "Wolfgang K. R. Schwach"
-        ]
-      },
-      {
-        "title": "Value-Added Modelling and Analysis in Service Value Brokerage.",
-        "authors": [
-          "Yucong Duan",
-          "Yongzhi Wang",
-          "Jinpeng Wei",
-          "Ajay Kattepur",
-          "Wencai Du"
-        ]
-      },
-      {
-        "title": "Introduction to the Proceedings of the 9th International Workshop on Semantic Web Enabled Software Engineering (SWESE) 2013.",
-        "authors": [
-          "Gerd Gröner",
-          "Jeff Z. Pan",
-          "Yuting Zhao",
-          "Elisa F. Kendall",
-          "Ljiljana Stojanovic"
-        ]
-      },
-      {
-        "title": "Management of Variability in Modular Ontology Development.",
-        "authors": [
-          "Melanie Langermeier",
-          "Peter Rosina",
-          "Heiner Oberkampf",
-          "Thomas Driessen",
-          "Bernhard Bauer"
-        ]
-      },
-      {
-        "title": "Towards Automated Service Matchmaking and Planning for Multi-Agent Systems with OWL-S - Approach and Challenges.",
-        "authors": [
-          "Johannes Fähndrich",
-          "Nils Masuch",
-          "Hilmi Yildirim",
-          "Sahin Albayrak"
-        ]
-      },
-      {
-        "title": "Re-engineering the ISO 15926 Data Model: A Multi-level Metamodel Perspective.",
-        "authors": [
-          "Andreas Jordan",
-          "Matt Selway",
-          "Georg Grossmann",
-          "Wolfgang Mayer",
-          "Markus Stumptner"
-        ]
-      },
-      {
-        "title": "Fluent Calculus-Based Semantic Web Service Composition and Verification Using WSSL.",
-        "authors": [
-          "George Baryannis",
-          "Dimitris Plexousakis"
-        ]
-      },
-      {
-        "title": "Template-Based Ontology Population for Smart Environments Configuration.",
-        "authors": [
-          "Sebastián Aced López",
-          "Dario Bonino",
-          "Fulvio Corno"
-        ]
-      },
-      {
-        "title": "Introduction to the 3rd International Workshop on Cloud Computing and Scientific Applications (CCSA'13).",
-        "authors": [
-          "Suraj Pandey",
-          "Surya Nepal"
-        ]
-      },
-      {
-        "title": "SLA-Aware Load Balancing in a Web-Based Cloud System over OpenStack.",
-        "authors": [
-          "Jordi Vilaplana",
-          "Francesc Solsona",
-          "Jordi Mateo",
-          "Ivan Teixido"
-        ]
-      },
-      {
-        "title": "Are Public Clouds Elastic Enough for Scientific Computing?",
-        "authors": [
-          "Guilherme Galante",
-          "Luis Carlos Erpen De Bona",
-          "Antonio Roberto Mury",
-          "Bruno Schulze"
-        ]
-      },
-      {
-        "title": "A Light-Weight Framework for Bridge-Building from Desktop to Cloud.",
-        "authors": [
-          "Kewei Duan",
-          "Julian A. Padget",
-          "Hyunsun Alicia Kim"
-        ]
-      },
-      {
-        "title": "Planning and Scheduling Data Processing Workflows in the Cloud with Quality-of-Data Constraints.",
-        "authors": [
-          "Sérgio Esteves",
-          "Luís Veiga"
-        ]
-      },
-      {
-        "title": "Galaxy + Hadoop: Toward a Collaborative and Scalable Image Processing Toolbox in Cloud.",
-        "authors": [
-          "Shiping Chen",
-          "Tomasz Bednarz",
-          "Piotr Szul",
-          "Dadong Wang",
-          "Yulia Arzhaeva",
-          "Neil Burdett",
-          "Alex Khassapov",
-          "John Zic",
-          "Surya Nepal",
-          "Tim Gurevey",
-          "John A. Taylor"
-        ]
-      },
-      {
-        "title": "SciLightning: A Cloud Provenance-Based Event Notification for Parallel Workflows.",
-        "authors": [
-          "Julliano Trindade Pintas",
-          "Daniel de Oliveira",
-          "Kary A. C. S. Ocaña",
-          "Eduardo S. Ogasawara",
-          "Marta Mattoso"
-        ]
-      },
-      {
-        "title": "Energy Savings on a Cloud-Based Opportunistic Infrastructure.",
-        "authors": [
-          "Johnatan E. Pecero",
-          "Cesar O. Diaz",
-          "Harold E. Castro",
-          "Mario Villamizar",
-          "German Sotelo",
-          "Pascal Bouvry"
-        ]
-      },
-      {
-        "title": "Introduction to the Proceedings of the Workshop on Pervasive Analytical Service Clouds for the Enterprise and Beyond (PASCEB) 2013.",
-        "authors": [
-          "Alex Norta",
-          "Weishan Zhang",
-          "Claudia-Melania Chituc",
-          "Roman Vaculín"
-        ]
-      },
-      {
-        "title": "Towards a Formal Model for Cloud Computing.",
-        "authors": [
-          "Zakaria Benzadri",
-          "Faiza Belala",
-          "Chafia Bouanaka"
-        ]
-      },
-      {
-        "title": "An Optimized Strategy for Data Service Response with Template-Based Caching and Compression.",
-        "authors": [
-          "Peng Zhang",
-          "Kefu Xu",
-          "Yan Li",
-          "Li Guo"
-        ]
-      },
-      {
-        "title": "Model-Driven Event Query Generation for Business Process Monitoring.",
-        "authors": [
-          "Michael Backmann",
-          "Anne Baumgrass",
-          "Nico Herzberg",
-          "Andreas Meyer",
-          "Mathias Weske"
-        ]
-      },
-      {
-        "title": "Enabling Semantic Complex Event Processing in the Domain of Logistics.",
-        "authors": [
-          "Tobias Metzke",
-          "Andreas Rogge-Solti",
-          "Anne Baumgrass",
-          "Jan Mendling",
-          "Mathias Weske"
-        ]
-      },
-      {
-        "title": "Towards Self-adaptation Planning for Complex Service-Based Systems.",
-        "authors": [
-          "Azlan B. Ismail",
-          "Valeria Cardellini"
-        ]
-      },
-      {
-        "title": "Towards an Integration Platform for Bioinformatics Services.",
-        "authors": [
-          "Guzmán Llambías",
-          "Laura González",
-          "Raúl Ruggia"
-        ]
-      },
-      {
-        "title": "Requirements to Pervasive System Continuous Deployment.",
-        "authors": [
-          "Clément Escoffier",
-          "Ozan Necati Günalp",
-          "Philippe Lalanda"
-        ]
-      },
-      {
-        "title": "Towards Structure-Based Quality Awareness in Software Ecosystem Use.",
-        "authors": [
-          "Klaus Marius Hansen",
-          "Weishan Zhang"
-        ]
-      },
-      {
-        "title": "An Adaptive Enterprise Service Bus Infrastructure for Service Based Systems.",
-        "authors": [
-          "Laura González",
-          "Jorge Luis Laborde",
-          "Matías Galnares",
-          "Mauricio Fenoglio",
-          "Raúl Ruggia"
-        ]
-      },
-      {
-        "title": "Dynamic Adaptation of Business Process Based on Context Changes: A Rule-Oriented Approach.",
-        "authors": [
-          "Guangchang Hu",
-          "Budan Wu",
-          "Junliang Chen"
-        ]
-      },
-      {
-        "title": "Flexible Component Migration in an OSGi Based Pervasive Cloud Infrastructure.",
-        "authors": [
-          "Weishan Zhang",
-          "Licheng Chen",
-          "Qinghua Lu",
-          "Peiying Zhang",
-          "Su Yang"
-        ]
-      },
-      {
-        "title": "Hybrid Emotion Recognition Using Semantic Similarity.",
-        "authors": [
-          "Zhanshan Zhang",
-          "Xin Meng",
-          "Peiying Zhang",
-          "Weishan Zhang",
-          "Qinghua Lu"
-        ]
-      },
-      {
-        "title": "ICSOC PhD Symposium 2013.",
-        "authors": [
-          "Fabio Patrizi",
-          "Boualem Benatallah",
-          "Ivona Brandic"
-        ]
-      },
-      {
-        "title": "Towards the Automated Synthesis of Data Dependent Service Controllers.",
-        "authors": [
-          "Franziska Bathelt-Tok",
-          "Sabine Glesner"
-        ]
-      },
-      {
-        "title": "Multi-agent Approach for Managing Workflows in an Inter-Cloud Environment.",
-        "authors": [
-          "Sofiane Bendoukha"
-        ]
-      },
-      {
-        "title": "An Information-Centric System for Building the Web of Things.",
-        "authors": [
-          "Stefano Turchi"
-        ]
-      },
-      {
-        "title": "Testing of Distributed Service-Oriented Systems.",
-        "authors": [
-          "Faris Nizamic"
-        ]
-      },
-      {
-        "title": "Automation of the SLA Life Cycle in Cloud Computing ⋆.",
-        "authors": [
-          "Waheed Aslam Ghumman"
-        ]
-      },
-      {
-        "title": "Towards a Dynamic Declarative Service Workflow Reference Model.",
-        "authors": [
-          "Damian Clarke"
-        ]
-      },
-      {
-        "title": "A Context-Aware Access Control Framework for Software Services.",
-        "authors": [
-          "A. S. M. Kayes",
-          "Jun Han",
-          "Alan Colman"
-        ]
-      },
-      {
-        "title": "Description and Composition of Services towards the Web-Telecom Convergence.",
-        "authors": [
-          "Terence Ambra"
         ]
       }
     ]
@@ -11211,6 +11211,242 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/icsoc/icsoc2010w.html": {
+    "header": "8th ICSOC Workshops 2011: San Francisco, CA, USA",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Introduction to the First International Workshop on Performance Assessment and Auditing in Service Computing (PAASC 2010).",
+        "authors": [
+          "Claudia-Melania Chituc"
+        ]
+      },
+      {
+        "title": "A Case Study on Optimizing Web Service Monitoring Configurations.",
+        "authors": [
+          "Garth Heward",
+          "Jun Han",
+          "Ingo Müller",
+          "Jean-Guy Schneider",
+          "Steven Versteeg"
+        ]
+      },
+      {
+        "title": "Configuration Decision Making Using Simulation-Generated Data.",
+        "authors": [
+          "Michael Smit",
+          "Eleni Stroulia"
+        ]
+      },
+      {
+        "title": "On the Formal Specification of Regulatory Compliance: A Comparative Analysis.",
+        "authors": [
+          "Amal Elgammal",
+          "Oktay Türetken",
+          "Willem-Jan van den Heuvel",
+          "Mike P. Papazoglou"
+        ]
+      },
+      {
+        "title": "Performance and Cost Assessment of Cloud Services.",
+        "authors": [
+          "Paul Brebner",
+          "Anna Liu"
+        ]
+      },
+      {
+        "title": "Towards Assessing Performance in Service Computing.",
+        "authors": [
+          "Claudia-Melania Chituc"
+        ]
+      },
+      {
+        "title": "Engineering Service-Oriented Applications 6th International Workshop WESOA 2010.",
+        "authors": [
+          "Christian Zirpins",
+          "George Feuerlicht",
+          "Winfried Lamersdorf",
+          "Guadalupe Ortiz"
+        ]
+      },
+      {
+        "title": "Adaptation of Web Services Based on QoS Satisfaction.",
+        "authors": [
+          "Barbara Pernici",
+          "Seyed Hossein Siadat"
+        ]
+      },
+      {
+        "title": "CAGE: Customizable Large-Scale SOA Testbeds in the Cloud.",
+        "authors": [
+          "Lukasz Juszczyk",
+          "Daniel Schall",
+          "Ralph Mietzner",
+          "Schahram Dustdar",
+          "Frank Leymann"
+        ]
+      },
+      {
+        "title": "Engineering High Performance Service-Oriented Pipeline Applications with MeDICi.",
+        "authors": [
+          "Ian Gorton",
+          "Adam Wynne",
+          "Yan Liu"
+        ]
+      },
+      {
+        "title": "Facilitating Enterprise Service Discovery for Non-technical Business Users.",
+        "authors": [
+          "Marcus Roy",
+          "Basem Suleiman",
+          "Ingo Weber"
+        ]
+      },
+      {
+        "title": "Hypermedia-Driven RESTful Service Composition.",
+        "authors": [
+          "Rosa Alarcón",
+          "Erik Wilde",
+          "Jesus Bellido"
+        ]
+      },
+      {
+        "title": "Process Restructuring in the Presence of Message-Dependent Variables.",
+        "authors": [
+          "Thomas S. Heinze",
+          "Wolfram Amme",
+          "Simon Moser"
+        ]
+      },
+      {
+        "title": "Simple Metric for Assessing Quality of Service Design.",
+        "authors": [
+          "George Feuerlicht"
+        ]
+      },
+      {
+        "title": "Wisdom-Aware Computing: On the Interactive Recommendation of Composition Knowledge.",
+        "authors": [
+          "Soudip Roy Chowdhury",
+          "Carlos Rodríguez",
+          "Florian Daniel",
+          "Fabio Casati"
+        ]
+      },
+      {
+        "title": "Introduction to the First International Workshop on Services, Energy, and Ecosystem (SEE 2010).",
+        "authors": [
+          "Barbara Pernici",
+          "Schahram Dustdar",
+          "G. R. Gangadharan",
+          "Patricia Lago",
+          "San Murugesan"
+        ]
+      },
+      {
+        "title": "A Dynamic Power Management Controller for Optimizing Servers' Energy Consumption in Service Centers.",
+        "authors": [
+          "Tudor Cioara",
+          "Ioan Salomie",
+          "Ionut Anghel",
+          "Iulian Chira",
+          "Alexandru Cocian",
+          "Ealan Henis",
+          "Ronen I. Kat"
+        ]
+      },
+      {
+        "title": "An Energy Aware Context Model for Green IT Service Centers.",
+        "authors": [
+          "Ioan Salomie",
+          "Tudor Cioara",
+          "Ionut Anghel",
+          "Daniel Moldovan",
+          "Georgiana Copil",
+          "Pierluigi Plebani"
+        ]
+      },
+      {
+        "title": "Creating Environmental Awareness in Service Oriented Software Engineering.",
+        "authors": [
+          "Patricia Lago",
+          "Toon Jansen"
+        ]
+      },
+      {
+        "title": "Towards Green Business Process Reengineering.",
+        "authors": [
+          "Alexander Nowak",
+          "Frank Leymann",
+          "Ralph Mietzner"
+        ]
+      },
+      {
+        "title": "Business Process Improvement in Abnoba.",
+        "authors": [
+          "Konstantin Hoesch-Klohe",
+          "Aditya Ghose"
+        ]
+      },
+      {
+        "title": "Towards a Service-Oriented Energy Market: Current State and Trend.",
+        "authors": [
+          "Giuliano Andrea Pagani",
+          "Marco Aiello"
+        ]
+      },
+      {
+        "title": "Introduction to the Second International Workshop on Service Oriented Computing in Logistics (SOC-LOG 2010).",
+        "authors": [
+          "Jörg Leukel",
+          "André Ludwig",
+          "Alex Norta"
+        ]
+      },
+      {
+        "title": "Coordinating Distributed Operations.",
+        "authors": [
+          "Daniel V. Oppenheim",
+          "Saeed Bagheri",
+          "Krishna Ratakonda",
+          "Yi-Min Chee"
+        ]
+      },
+      {
+        "title": "Early Model-Analysis of Logistics Systems.",
+        "authors": [
+          "Freeha Azmat",
+          "Laura Bocchi",
+          "José Luiz Fiadeiro"
+        ]
+      },
+      {
+        "title": "Event-Driven Services: Integrating Production, Logistics and Transportation.",
+        "authors": [
+          "Alejandro P. Buchmann",
+          "Hans-Christian Pfohl",
+          "Stefan Appel",
+          "Tobias Freudenreich",
+          "Sebastian Frischbier",
+          "Ilia Petrov",
+          "Christian Zuber"
+        ]
+      },
+      {
+        "title": "Preselection of Electronic Services by Given Business Services Based on Semantic Concept Correspondence Applied for the Logistics Domain.",
+        "authors": [
+          "Rolf Kluge"
+        ]
+      },
+      {
+        "title": "Realizing Process Modifications in Container Terminals with SOA - A Prototype.",
+        "authors": [
+          "Thomas Will",
+          "Thorsten Blecker"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/icsoc/icsoc2010.html": {
     "header": "8th ICSOC 2010: San Francisco, CA, USA",
     "year": "2010",
@@ -11901,242 +12137,6 @@
         "authors": [
           "Maja Vukovic",
           "Claudio Bartolini"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/icsoc/icsoc2010w.html": {
-    "header": "8th ICSOC Workshops 2011: San Francisco, CA, USA",
-    "year": "2010",
-    "papers": [
-      {
-        "title": "Introduction to the First International Workshop on Performance Assessment and Auditing in Service Computing (PAASC 2010).",
-        "authors": [
-          "Claudia-Melania Chituc"
-        ]
-      },
-      {
-        "title": "A Case Study on Optimizing Web Service Monitoring Configurations.",
-        "authors": [
-          "Garth Heward",
-          "Jun Han",
-          "Ingo Müller",
-          "Jean-Guy Schneider",
-          "Steven Versteeg"
-        ]
-      },
-      {
-        "title": "Configuration Decision Making Using Simulation-Generated Data.",
-        "authors": [
-          "Michael Smit",
-          "Eleni Stroulia"
-        ]
-      },
-      {
-        "title": "On the Formal Specification of Regulatory Compliance: A Comparative Analysis.",
-        "authors": [
-          "Amal Elgammal",
-          "Oktay Türetken",
-          "Willem-Jan van den Heuvel",
-          "Mike P. Papazoglou"
-        ]
-      },
-      {
-        "title": "Performance and Cost Assessment of Cloud Services.",
-        "authors": [
-          "Paul Brebner",
-          "Anna Liu"
-        ]
-      },
-      {
-        "title": "Towards Assessing Performance in Service Computing.",
-        "authors": [
-          "Claudia-Melania Chituc"
-        ]
-      },
-      {
-        "title": "Engineering Service-Oriented Applications 6th International Workshop WESOA 2010.",
-        "authors": [
-          "Christian Zirpins",
-          "George Feuerlicht",
-          "Winfried Lamersdorf",
-          "Guadalupe Ortiz"
-        ]
-      },
-      {
-        "title": "Adaptation of Web Services Based on QoS Satisfaction.",
-        "authors": [
-          "Barbara Pernici",
-          "Seyed Hossein Siadat"
-        ]
-      },
-      {
-        "title": "CAGE: Customizable Large-Scale SOA Testbeds in the Cloud.",
-        "authors": [
-          "Lukasz Juszczyk",
-          "Daniel Schall",
-          "Ralph Mietzner",
-          "Schahram Dustdar",
-          "Frank Leymann"
-        ]
-      },
-      {
-        "title": "Engineering High Performance Service-Oriented Pipeline Applications with MeDICi.",
-        "authors": [
-          "Ian Gorton",
-          "Adam Wynne",
-          "Yan Liu"
-        ]
-      },
-      {
-        "title": "Facilitating Enterprise Service Discovery for Non-technical Business Users.",
-        "authors": [
-          "Marcus Roy",
-          "Basem Suleiman",
-          "Ingo Weber"
-        ]
-      },
-      {
-        "title": "Hypermedia-Driven RESTful Service Composition.",
-        "authors": [
-          "Rosa Alarcón",
-          "Erik Wilde",
-          "Jesus Bellido"
-        ]
-      },
-      {
-        "title": "Process Restructuring in the Presence of Message-Dependent Variables.",
-        "authors": [
-          "Thomas S. Heinze",
-          "Wolfram Amme",
-          "Simon Moser"
-        ]
-      },
-      {
-        "title": "Simple Metric for Assessing Quality of Service Design.",
-        "authors": [
-          "George Feuerlicht"
-        ]
-      },
-      {
-        "title": "Wisdom-Aware Computing: On the Interactive Recommendation of Composition Knowledge.",
-        "authors": [
-          "Soudip Roy Chowdhury",
-          "Carlos Rodríguez",
-          "Florian Daniel",
-          "Fabio Casati"
-        ]
-      },
-      {
-        "title": "Introduction to the First International Workshop on Services, Energy, and Ecosystem (SEE 2010).",
-        "authors": [
-          "Barbara Pernici",
-          "Schahram Dustdar",
-          "G. R. Gangadharan",
-          "Patricia Lago",
-          "San Murugesan"
-        ]
-      },
-      {
-        "title": "A Dynamic Power Management Controller for Optimizing Servers' Energy Consumption in Service Centers.",
-        "authors": [
-          "Tudor Cioara",
-          "Ioan Salomie",
-          "Ionut Anghel",
-          "Iulian Chira",
-          "Alexandru Cocian",
-          "Ealan Henis",
-          "Ronen I. Kat"
-        ]
-      },
-      {
-        "title": "An Energy Aware Context Model for Green IT Service Centers.",
-        "authors": [
-          "Ioan Salomie",
-          "Tudor Cioara",
-          "Ionut Anghel",
-          "Daniel Moldovan",
-          "Georgiana Copil",
-          "Pierluigi Plebani"
-        ]
-      },
-      {
-        "title": "Creating Environmental Awareness in Service Oriented Software Engineering.",
-        "authors": [
-          "Patricia Lago",
-          "Toon Jansen"
-        ]
-      },
-      {
-        "title": "Towards Green Business Process Reengineering.",
-        "authors": [
-          "Alexander Nowak",
-          "Frank Leymann",
-          "Ralph Mietzner"
-        ]
-      },
-      {
-        "title": "Business Process Improvement in Abnoba.",
-        "authors": [
-          "Konstantin Hoesch-Klohe",
-          "Aditya Ghose"
-        ]
-      },
-      {
-        "title": "Towards a Service-Oriented Energy Market: Current State and Trend.",
-        "authors": [
-          "Giuliano Andrea Pagani",
-          "Marco Aiello"
-        ]
-      },
-      {
-        "title": "Introduction to the Second International Workshop on Service Oriented Computing in Logistics (SOC-LOG 2010).",
-        "authors": [
-          "Jörg Leukel",
-          "André Ludwig",
-          "Alex Norta"
-        ]
-      },
-      {
-        "title": "Coordinating Distributed Operations.",
-        "authors": [
-          "Daniel V. Oppenheim",
-          "Saeed Bagheri",
-          "Krishna Ratakonda",
-          "Yi-Min Chee"
-        ]
-      },
-      {
-        "title": "Early Model-Analysis of Logistics Systems.",
-        "authors": [
-          "Freeha Azmat",
-          "Laura Bocchi",
-          "José Luiz Fiadeiro"
-        ]
-      },
-      {
-        "title": "Event-Driven Services: Integrating Production, Logistics and Transportation.",
-        "authors": [
-          "Alejandro P. Buchmann",
-          "Hans-Christian Pfohl",
-          "Stefan Appel",
-          "Tobias Freudenreich",
-          "Sebastian Frischbier",
-          "Ilia Petrov",
-          "Christian Zuber"
-        ]
-      },
-      {
-        "title": "Preselection of Electronic Services by Given Business Services Based on Semantic Concept Correspondence Applied for the Logistics Domain.",
-        "authors": [
-          "Rolf Kluge"
-        ]
-      },
-      {
-        "title": "Realizing Process Modifications in Container Terminals with SOA - A Prototype.",
-        "authors": [
-          "Thomas Will",
-          "Thorsten Blecker"
         ]
       }
     ]
@@ -13124,6 +13124,90 @@
       }
     ]
   },
+  "https://dblp.org/db/conf/icsoc/phd2008.html": {
+    "header": "6th ICSOC PhD Symposium 2008: Sydney, Australia",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Advice to Service-Oriented Computing Research Students.",
+        "authors": [
+          "Marlon Dumas"
+        ]
+      },
+      {
+        "title": "Distributed and Scalable QoS Optimization for Dynamic Web Service Composition.",
+        "authors": [
+          "Mohammad Alrifai"
+        ]
+      },
+      {
+        "title": "Quality-driven Design and Management of Service-oriented Software Systems.",
+        "authors": [
+          "Tan Phan"
+        ]
+      },
+      {
+        "title": "Supporting Documentation and Evolution of Crosscutting Concerns in Business Processes.",
+        "authors": [
+          "Chiara Di Francescomarino"
+        ]
+      },
+      {
+        "title": "Pervasive Services Engineering for SOAs.",
+        "authors": [
+          "Dhaminda B. Abeywickrama"
+        ]
+      },
+      {
+        "title": "Towards Adaptive Service Development.",
+        "authors": [
+          "Aries Tao Tao"
+        ]
+      },
+      {
+        "title": "An Architecture Approach to Dependable Trust-based Service Systems.",
+        "authors": [
+          "Suronapee Phoomvuthisarn"
+        ]
+      },
+      {
+        "title": "Authorization Control in Business Collaboration.",
+        "authors": [
+          "Daisy Daiqin He"
+        ]
+      },
+      {
+        "title": "TPIM: Transparent Privacy-Enhanced Identity Management of Web Services.",
+        "authors": [
+          "Yong Yang"
+        ]
+      },
+      {
+        "title": "Measuring Similarity of Service Interfaces.",
+        "authors": [
+          "Ali Aït-Bachir"
+        ]
+      },
+      {
+        "title": "Realizing the Internet of Things in Service-Centric Environments.",
+        "authors": [
+          "Yanbo Wu"
+        ]
+      },
+      {
+        "title": "External Behavior Modeling Enrichment of Web Services by Transactional Constraints.",
+        "authors": [
+          "Ali Khebizi"
+        ]
+      },
+      {
+        "title": "A Graph b-coloring Based Scheme for Composition-Oriented Web Services Abstraction: COWSA.",
+        "authors": [
+          "Lyes Dekar"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/icsoc/icsoc2008w.html": {
     "header": "6th ICSOC Workshops 2008: Sydney, Australia",
     "year": "2008",
@@ -13438,90 +13522,6 @@
         "title": "Towards a Common Terminology in the Discipline of Enterprise Architecture.",
         "authors": [
           "Marten Schönherr"
-        ]
-      }
-    ]
-  },
-  "https://dblp.org/db/conf/icsoc/phd2008.html": {
-    "header": "6th ICSOC PhD Symposium 2008: Sydney, Australia",
-    "year": "2008",
-    "papers": [
-      {
-        "title": "Advice to Service-Oriented Computing Research Students.",
-        "authors": [
-          "Marlon Dumas"
-        ]
-      },
-      {
-        "title": "Distributed and Scalable QoS Optimization for Dynamic Web Service Composition.",
-        "authors": [
-          "Mohammad Alrifai"
-        ]
-      },
-      {
-        "title": "Quality-driven Design and Management of Service-oriented Software Systems.",
-        "authors": [
-          "Tan Phan"
-        ]
-      },
-      {
-        "title": "Supporting Documentation and Evolution of Crosscutting Concerns in Business Processes.",
-        "authors": [
-          "Chiara Di Francescomarino"
-        ]
-      },
-      {
-        "title": "Pervasive Services Engineering for SOAs.",
-        "authors": [
-          "Dhaminda B. Abeywickrama"
-        ]
-      },
-      {
-        "title": "Towards Adaptive Service Development.",
-        "authors": [
-          "Aries Tao Tao"
-        ]
-      },
-      {
-        "title": "An Architecture Approach to Dependable Trust-based Service Systems.",
-        "authors": [
-          "Suronapee Phoomvuthisarn"
-        ]
-      },
-      {
-        "title": "Authorization Control in Business Collaboration.",
-        "authors": [
-          "Daisy Daiqin He"
-        ]
-      },
-      {
-        "title": "TPIM: Transparent Privacy-Enhanced Identity Management of Web Services.",
-        "authors": [
-          "Yong Yang"
-        ]
-      },
-      {
-        "title": "Measuring Similarity of Service Interfaces.",
-        "authors": [
-          "Ali Aït-Bachir"
-        ]
-      },
-      {
-        "title": "Realizing the Internet of Things in Service-Centric Environments.",
-        "authors": [
-          "Yanbo Wu"
-        ]
-      },
-      {
-        "title": "External Behavior Modeling Enrichment of Web Services by Transactional Constraints.",
-        "authors": [
-          "Ali Khebizi"
-        ]
-      },
-      {
-        "title": "A Graph b-coloring Based Scheme for Composition-Oriented Web Services Abstraction: COWSA.",
-        "authors": [
-          "Lyes Dekar"
         ]
       }
     ]
