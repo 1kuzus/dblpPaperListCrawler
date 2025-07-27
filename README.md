@@ -1,4 +1,4 @@
-z# dblpPaperListCrawler
+# dblpPaperListCrawler
 
 `A web crawler for collecting paper lists from dblp.org`
 
