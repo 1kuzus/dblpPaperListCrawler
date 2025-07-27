@@ -1,5 +1,5 @@
 from concurrent.futures import ThreadPoolExecutor
-from utils import save_json, load_json, retry
+from utils import deduplicate, load_json, save_json, retry
 from lxml import etree
 import requests
 import time
@@ -44,7 +44,7 @@ def run_get_indexing_page(typ, index):
     header = tree.xpath("//header[@id='headline']/h1")[0].xpath("string(.)")
     return {
         "header": header,
-        "links": hrefs
+        "links": deduplicate(hrefs)
     }
 
 
@@ -85,7 +85,7 @@ def run_get_paper_list(url, throttle_delay=15):
     if len(matches) == 0:
         h2_texts = tree.xpath("//div[@id='main']/header/h2/text()")
         matches = re.findall(pattern, ";".join(h2_texts))
-    matches = list(set(matches))
+    matches = deduplicate(matches)
     # 4.如果以上都没有匹配，从页面中提取出现次数最多的年份
     if len(matches) == 0:
         matches = re.findall(pattern, resp.text)
@@ -115,7 +115,7 @@ def update_indexing_pages(typ, index, indexing_page, output_dir=None):
 
     indexing_pages = load_json(path_indexing_pages)
     links_old = indexing_pages[key]["links"] if key in indexing_pages else []
-    links_diff = list(set(links_new) - set(links_old))
+    links_diff = [link for link in links_new if link not in links_old]
 
     if len(links_diff) != 0:
         print(f"[*] New indexing link found for {key}:")
@@ -164,11 +164,11 @@ def validate_and_fix_corrupted(output_dir):
         path_paper_list = os.path.join(output_dir, "paper_lists", typ, f"{index}.json")
         paper_list = load_json(path_paper_list)
         links = indexing_pages[key]["links"]
-        s1, s2 = set(links), set(paper_list.keys())
-        if len(s1 - s2) > 0:
+        links_missing = [link for link in links if link not in paper_list]
+        if len(links_missing) > 0:
             has_corrupted = True
             print(f"[!] The following links in {path_indexing_pages} are missing in {path_paper_list}:")
-            for link in s1 - s2:
+            for link in links_missing:
                 print(" " * 4, link)
                 indexing_pages[key]["links"].remove(link)
     if not has_corrupted:
