@@ -1,4 +1,670 @@
 {
+  "https://dblp.org/db/journals/jss/jss232.html": {
+    "header": "Journal of Systems and Software, Volume 232",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "Rethinking data selection strategies for more accurate software effort prediction using the ISBSG dataset.",
+        "authors": [
+          "Lukasz Radlinski",
+          "Jakub Swacha"
+        ]
+      },
+      {
+        "title": "Software product families from a phylogenetics perspective for video game content generation.",
+        "authors": [
+          "Samuel Navarro",
+          "Jorge Chueca",
+          "Daniel Blasco",
+          "Carlos Cetina",
+          "Jaime Font"
+        ]
+      },
+      {
+        "title": "Can generative AI detect and fix real-world cryptographic misuses?",
+        "authors": [
+          "Ehsan Firouzi",
+          "Mohammad Ghafari"
+        ]
+      },
+      {
+        "title": "AgentArcEval: An architecture evaluation method for foundation model based agents.",
+        "authors": [
+          "Qinghua Lu",
+          "Dehai Zhao",
+          "Yue Liu",
+          "Hao Zhang",
+          "Liming Zhu",
+          "Xiwei Xu",
+          "Angela Shi",
+          "Tristan Tan",
+          "Rick Kazman"
+        ]
+      },
+      {
+        "title": "Proactive self-adaptation and assurance of explainable Human-Machine Teaming.",
+        "authors": [
+          "Livia Lestingi",
+          "Marcello M. Bersani",
+          "Matteo Camilli",
+          "Raffaela Mirandola",
+          "Matteo G. Rossi",
+          "Patrizia Scandurra"
+        ]
+      },
+      {
+        "title": "PreMulBVD: A pretraining-based multi-modal binary vulnerability detection framework.",
+        "authors": [
+          "Chenliang Xing",
+          "Xiaoyuan Xie",
+          "Qi Xin",
+          "Gong Chen"
+        ]
+      },
+      {
+        "title": "Automatic assertion generation with LLM for ICS program verification.",
+        "authors": [
+          "Kai Yang",
+          "Fugao Li",
+          "Ting Li",
+          "Yingjun Zhang",
+          "Limin Sun"
+        ]
+      },
+      {
+        "title": "Elevating Cyber Threat Intelligence against disinformation campaigns with LLM-based concept extraction and the FakeCTI dataset.",
+        "authors": [
+          "Domenico Cotroneo",
+          "Roberto Natella",
+          "Vittorio Orbinato"
+        ]
+      },
+      {
+        "title": "Towards structured semantic representation via hierarchical transformer network for software defect prediction.",
+        "authors": [
+          "Hongdou He",
+          "Huazhi Xu",
+          "Guyu Zhao",
+          "Guoyan Huang",
+          "Bowen Zhao"
+        ]
+      },
+      {
+        "title": "An overview of the use of alternative funding and contracting approaches relevant for agile software development: A systematic review of real-life experiences.",
+        "authors": [
+          "Bertha Ngereja",
+          "Magne Jørgensen"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/jss/jss231.html": {
+    "header": "Journal of Systems and Software, Volume 231",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "Testing reinforcement learning systems: A comprehensive review.",
+        "authors": [
+          "Amal Sunba",
+          "Jameleddine Hassine",
+          "Moataz A. Ahmed"
+        ]
+      },
+      {
+        "title": "A large-scale study on developer engagement and expertise in Configurable Software System projects.",
+        "authors": [
+          "Karolina Milano",
+          "Wesley K. G. Assunção",
+          "Bruno B. P. Cafeo"
+        ]
+      },
+      {
+        "title": "Experiences and challenges from a software ecosystem for cyber-physical systems development: An empirical study on industry-academia collaboration.",
+        "authors": [
+          "Vittoriano Muttillo",
+          "Romina Eramo",
+          "Johan Cederbladh",
+          "Per Erik Strandberg",
+          "Adnan Ashraf"
+        ]
+      },
+      {
+        "title": "Context-aware code summary generation.",
+        "authors": [
+          "Chia-Yi Su",
+          "Aakash Bansal",
+          "Yu Huang",
+          "Toby Jia-Jun Li",
+          "Collin McMillan"
+        ]
+      },
+      {
+        "title": "An actionable framework to investigate and foster women inclusion in software development teams in proprietary software ecosystems.",
+        "authors": [
+          "Juliana Carvalho Silva do Outão",
+          "Luiz Alexandre Costa",
+          "Eleni Constantinou",
+          "Rodrigo Pereira dos Santos",
+          "Alexander Serebrenik"
+        ]
+      },
+      {
+        "title": "Security discussions in quantum software projects on GitHub.",
+        "authors": [
+          "Gastón Márquez",
+          "Muhammad Waseem",
+          "Tommi Mikkonen"
+        ]
+      },
+      {
+        "title": "Why do women pursue a Ph.D. in Computer Science?",
+        "authors": [
+          "Erika Ábrahám",
+          "Miguel Goulão",
+          "Milena Vujosevic-Janicic",
+          "Sarah Jane Delany",
+          "Amal Mersni",
+          "Oleksandra Yeremenko",
+          "Ozge Buyukdagli",
+          "Karima Boudaoud",
+          "Caroline Oehlhorn",
+          "Ute Schmid",
+          "Christina Büsing",
+          "Helen Bolke-Hermanns",
+          "Kaja Köhnle",
+          "Matilde Pato",
+          "Deniz Sunar Cerci",
+          "Larissa Schmid"
+        ]
+      },
+      {
+        "title": "Do-or-die software projects in Norway during the COVID-19 pandemic.",
+        "authors": [
+          "Leif Z. Knutsen",
+          "Ingrid Langbråten Flaatten",
+          "Jo Erskine Hannay"
+        ]
+      },
+      {
+        "title": "Hierarchical multi-label classification for concrete defects: An industrial case study at Vermeg.",
+        "authors": [
+          "Montassar Ben Messaoud",
+          "Ahmed Nour",
+          "Ilyes Ben Khalifa",
+          "Mohamed Tounsi",
+          "Mohamed Wiem Mkaouer"
+        ]
+      },
+      {
+        "title": "SAA: A framework for improving the software development process via visualization-based software analytics.",
+        "authors": [
+          "Lara Merdol",
+          "Eray Tüzün",
+          "Ugur Dogrusoz"
+        ]
+      },
+      {
+        "title": "The icing on the cake: Enhancing Code Pre-trained models-based program repair with multi-source inputs and fix templates.",
+        "authors": [
+          "Shanggui Zhan",
+          "Xingqi Wang",
+          "Dan Wei",
+          "Xinjian Cao",
+          "Bin Chen"
+        ]
+      },
+      {
+        "title": "An alternative software benchmarking dataset: effort estimation with machine learning.",
+        "authors": [
+          "Ozan Rasit Yürüm",
+          "Hüseyin Ünlü",
+          "Onur Demirörs"
+        ]
+      },
+      {
+        "title": "PyroBuildS: Speeding up the exploration of large configuration spaces with incremental build.",
+        "authors": [
+          "Georges Aaron Randrianaina",
+          "Djamel Eddine Khelladi",
+          "Olivier Zendra",
+          "Mathieu Acher"
+        ]
+      },
+      {
+        "title": "Examining the effectiveness of transformer-based smart contract vulnerability scan.",
+        "authors": [
+          "Emre Balci",
+          "Timucin Aydede",
+          "Gorkem Yilmaz",
+          "Ece Gelal Soyak"
+        ]
+      },
+      {
+        "title": "Hybrid approach for multilevel multi-class requirement classification: Impact of stop-word removal and data augmentation.",
+        "authors": [
+          "Jasleen Kaur",
+          "Chanchal Roy"
+        ]
+      },
+      {
+        "title": "VulDIAC: Vulnerability detection and interpretation based on augmented CFG and causal attention learning.",
+        "authors": [
+          "Shuailin Yang",
+          "Jiadong Ren",
+          "Jiazheng Li",
+          "Dekai Zhang"
+        ]
+      },
+      {
+        "title": "Code Less to Code More.",
+        "authors": [
+          "Federico Bruzzone",
+          "Walter Cazzola",
+          "Luca Favalli"
+        ]
+      },
+      {
+        "title": "A large scale survey of motivation in software development.",
+        "authors": [
+          "Idan Amit",
+          "Dror G. Feitelson"
+        ]
+      },
+      {
+        "title": "Preparing an R package for open-source contributions: An experience report on the World Wildlife Fund's Forest Foresight.",
+        "authors": [
+          "Amin Bakhshi",
+          "Hasrul Maruf",
+          "Maas van Apeldoorn",
+          "Zillah Calle",
+          "Jonas van Duijvenbode",
+          "Ismay Wolff",
+          "Yanja Dajsuren",
+          "Jacob Krüger"
+        ]
+      },
+      {
+        "title": "User experience with adaptive user interfaces: Comparing performance and preferences.",
+        "authors": [
+          "Daniel Gaspar-Figueiredo",
+          "Jean Vanderdonckt",
+          "Silvia Abrahão",
+          "Emilio Insfrán"
+        ]
+      },
+      {
+        "title": "The Evolution of Technical Debt from DevOps to Generative AI: A multivocal literature review.",
+        "authors": [
+          "Sergio Moreschini",
+          "Elvira-Maria Arvanitou",
+          "Elisavet-Persefoni Kanidou",
+          "Nikolaos Nikolaidis",
+          "Ruoyu Su",
+          "Apostolos Ampatzoglou",
+          "Alexander Chatzigeorgiou",
+          "Valentina Lenarduzzi"
+        ]
+      },
+      {
+        "title": "A model-based solution for automated (Re-)engineering of task-oriented chatbots.",
+        "authors": [
+          "Sara Pérez-Soler",
+          "Esther Guerra",
+          "Juan de Lara"
+        ]
+      },
+      {
+        "title": "An empirical study of CGO usage in Go projects - Distribution, purposes, patterns and critical issues.",
+        "authors": [
+          "Jinbao Chen",
+          "Boyao Ding",
+          "Yu Zhang",
+          "Qingwei Li",
+          "Fugen Tang"
+        ]
+      },
+      {
+        "title": "FIN: Boosting binary code embedding by normalizing function inlinings.",
+        "authors": [
+          "Mohammadhossein Amouei",
+          "Benjamin C. M. Fung",
+          "Philippe Charland"
+        ]
+      },
+      {
+        "title": "Syntactic multilingual probing of pre-trained language models of code.",
+        "authors": [
+          "José Antonio Hernández López",
+          "Martin Weyssow",
+          "Jesús Sánchez Cuadrado",
+          "Houari A. Sahraoui"
+        ]
+      },
+      {
+        "title": "A methodology for Electrics/Electronics platform release management in the automotive domain.",
+        "authors": [
+          "Lennart Holsten",
+          "Jacob Krüger",
+          "Thomas Leich"
+        ]
+      },
+      {
+        "title": "Establishing technical debt management - A five-step workshop approach and an action research study.",
+        "authors": [
+          "Marion Wiese",
+          "Kamila Serwa",
+          "Anastasia Besier",
+          "Ariane S. Marion-Jetten",
+          "Eva A. C. Bittner"
+        ]
+      },
+      {
+        "title": "Generative AI for software architecture. Applications, challenges, and future directions.",
+        "authors": [
+          "Matteo Esposito",
+          "Xiaozhou Li",
+          "Sergio Moreschini",
+          "Noman Ahmad",
+          "Tomás Cerný",
+          "Karthik Vaidhyanathan",
+          "Valentina Lenarduzzi",
+          "Davide Taibi"
+        ]
+      },
+      {
+        "title": "An empirical study on the impact of change granularity in refactoring detection.",
+        "authors": [
+          "Lei Chen",
+          "Shinpei Hayashi"
+        ]
+      },
+      {
+        "title": "Defect prediction guided greybox fuzz testing.",
+        "authors": [
+          "Haochen Jin",
+          "Zhanqi Cui",
+          "Ruichen Zhang",
+          "Xiang Chen",
+          "Rongcun Wang",
+          "Xiulei Liu"
+        ]
+      },
+      {
+        "title": "Model-based dependability and performance analysis for satellite systems with collaborative maintenance maneuvers via stochastic games.",
+        "authors": [
+          "Abdelhakim Baouya",
+          "Brahim Hamid",
+          "Otmane Aït Mohamed",
+          "Saddek Bensalem"
+        ]
+      },
+      {
+        "title": "HarmonyCAS: A model-driven framework for facilitating interoperability in context-aware systems.",
+        "authors": [
+          "Hamed Barangi",
+          "Shekoufeh Kolahdouz Rahimi",
+          "Bahman Zamani",
+          "Hossein Moradi"
+        ]
+      },
+      {
+        "title": "A checklist of quality concerns for architecting ML-intensive systems.",
+        "authors": [
+          "Alessio Bucaioni",
+          "Rick Kazman",
+          "Patrizio Pelliccione"
+        ]
+      },
+      {
+        "title": "TwinArch: A digital twin reference architecture.",
+        "authors": [
+          "Alessandra Somma",
+          "Domenico Amalfitano",
+          "Alessandra De Benedictis",
+          "Patrizio Pelliccione"
+        ]
+      },
+      {
+        "title": "Enhancing reliability in LLM-integrated robotic systems: A unified approach to security and safety.",
+        "authors": [
+          "Wenxiao Zhang",
+          "Xiangrui Kong",
+          "Conan Dewitt",
+          "Thomas Bräunl",
+          "Jin B. Hong"
+        ]
+      },
+      {
+        "title": "From attack descriptions to vulnerabilities: A sentence transformer-based approach.",
+        "authors": [
+          "Refat Tahseen Othman",
+          "Diaeddin Rimawi",
+          "Bruno Rossi",
+          "Barbara Russo"
+        ]
+      },
+      {
+        "title": "Managing security issues in software containers: From practitioners' perspective.",
+        "authors": [
+          "Maha Sroor",
+          "Rahul Mohanani",
+          "Ricardo Colomo-Palacios",
+          "Sandun Dasanayake",
+          "Tommi Mikkonen"
+        ]
+      },
+      {
+        "title": "Studying SATD in drone systems with Human-AI collaboration.",
+        "authors": [
+          "Leevi Rantala",
+          "Lwin Khin Shar",
+          "Mika V. Mäntylä",
+          "Wei Minn",
+          "Yan Naing Tun"
+        ]
+      },
+      {
+        "title": "Multivariate anomaly detection and root cause analysis of energy issues in microservice-based systems.",
+        "authors": [
+          "Berta Rodriguez Sanchez",
+          "Luca Giamattei",
+          "Antonio Guerriero",
+          "Roberto Pietrantuono",
+          "Ivano Malavolta"
+        ]
+      },
+      {
+        "title": "MC-LRNN: A logic-based neural network for multi-class software vulnerability prediction.",
+        "authors": [
+          "Yuxiang Shang",
+          "Shaoying Liu"
+        ]
+      },
+      {
+        "title": "Identification and classification of free, open source software licenses: A systematic literature review.",
+        "authors": [
+          "Sergio Raúl Montes León",
+          "Gregorio Robles",
+          "Jesús M. González-Barahona"
+        ]
+      },
+      {
+        "title": "Leveraging multi-task learning to fine-tune RoBERTa for self-admitted technical debt identification and classification.",
+        "authors": [
+          "Yihang Xu",
+          "Dongjin Yu",
+          "Xin Chen",
+          "Quanxin Yang",
+          "Sixuan Wang",
+          "Wangliang Yan"
+        ]
+      },
+      {
+        "title": "GLA-SDP: A novel attention-based semantic and static feature fusion method using GCN and LSTM for software defect prediction.",
+        "authors": [
+          "Haining Meng",
+          "Han Wu",
+          "Xiaoqing Li",
+          "Xinhong Hei"
+        ]
+      },
+      {
+        "title": "Do comments and expertise still matter? An experiment on programmers' adoption of AI-generated JavaScript code.",
+        "authors": [
+          "Changwen Li",
+          "Christoph Treude",
+          "Ofir Turel"
+        ]
+      },
+      {
+        "title": "CodeSpeak: Improving smart contract vulnerability detection via LLM-assisted code analysis.",
+        "authors": [
+          "Shuyu Chang",
+          "Chen Geng",
+          "Haiping Huang",
+          "Rui Wang",
+          "Qi Li",
+          "Yang Zhang"
+        ]
+      },
+      {
+        "title": "Access Granted - Carefully: Securing model information in collaborative modeling.",
+        "authors": [
+          "Malvina Latifaj",
+          "Federico Ciccozzi",
+          "Antonio Cicchetti"
+        ]
+      },
+      {
+        "title": "Leveraging LLM-based data augmentation for automatic classification of recurring tasks in software development projects.",
+        "authors": [
+          "Wlodzimierz Wysocki",
+          "Miroslaw Ochodek"
+        ]
+      },
+      {
+        "title": "The fire tries gold: Evaluating pre-trained language models for multi-label vulnerability detection in ethereum smart contracts.",
+        "authors": [
+          "Kien Luu Trung",
+          "Doan Minh Trung",
+          "Tuan-Dung Tran",
+          "Phan The Duy",
+          "Van-Hau Pham"
+        ]
+      },
+      {
+        "title": "From description to prescription: Unraveling log severity adjustments in open-source software.",
+        "authors": [
+          "Eduardo Mendes",
+          "Marcelo Vasconcellos",
+          "Fábio Petrillo",
+          "Sylvain Hallé"
+        ]
+      },
+      {
+        "title": "The life of software features: An exploratory case study of 189 feature requests in Marlin.",
+        "authors": [
+          "Aron van der Hofstad",
+          "Loek Cleophas",
+          "Clemens Dubslaff",
+          "Jacob Krüger"
+        ]
+      },
+      {
+        "title": "Tailoring binary decision diagram compilation for feature models.",
+        "authors": [
+          "Clemens Dubslaff",
+          "Nils Husung",
+          "Nikolai Käfer"
+        ]
+      },
+      {
+        "title": "BugMentor: Generating answers to follow-up questions from software bug reports using structured information retrieval and neural text generation.",
+        "authors": [
+          "Usmi Mukherjee",
+          "Mohammad Masudur Rahman"
+        ]
+      },
+      {
+        "title": "Modeling the composition of analysis components and automatic constraint checking for semantic soundness.",
+        "authors": [
+          "Bahareh Taghavi",
+          "Sebastian Weber",
+          "Adrian Marin",
+          "Bernhard Rumpe",
+          "Sebastian Stüber",
+          "Jörg Henß",
+          "Thomas Weber",
+          "Robert Heinrich"
+        ]
+      },
+      {
+        "title": "Automating software size measurement with language models: Insights from industrial case studies.",
+        "authors": [
+          "Hüseyin Ünlü",
+          "Samet Tenekeci",
+          "Dhia Eddine Kennouche",
+          "Onur Demirörs"
+        ]
+      },
+      {
+        "title": "Identification of hybrid systems with dynamics-based modeling through symbolic regression.",
+        "authors": [
+          "Swantje Plambeck",
+          "Maximilian Schmidt",
+          "Audine Subias",
+          "Louise Travé-Massuyès",
+          "Görschwin Fey"
+        ]
+      },
+      {
+        "title": "A case study of gender and online team communication in Software Engineering Education.",
+        "authors": [
+          "Rita Garcia",
+          "Christoph Treude"
+        ]
+      },
+      {
+        "title": "My feature model has changed... What should I do with my tests?",
+        "authors": [
+          "Andrea Bombarda",
+          "Silvia Bonfanti",
+          "Angelo Gargantini"
+        ]
+      },
+      {
+        "title": "\"Digital Camouflage\": The LLVM challenge in LLM-based malware detection.",
+        "authors": [
+          "Ekin Böke",
+          "Simon Torka"
+        ]
+      },
+      {
+        "title": "Enhancing emotion detection in software engineering using a residual multi-embedding fusion network.",
+        "authors": [
+          "Rim Mahouachi"
+        ]
+      },
+      {
+        "title": "Experimental investigation of memory-related software aging in LLM systems.",
+        "authors": [
+          "César Santos",
+          "Fumio Machida",
+          "Ermeson C. Andrade"
+        ]
+      },
+      {
+        "title": "Novel framework for automated testing of ill-defined human-robot interaction environments.",
+        "authors": [
+          "Aitor Aguirre Ortuzar",
+          "Íñigo Elguea-Aguinaco",
+          "Nestor Arana-Arexolaleiba",
+          "Leire Etxeberria Elorza",
+          "Joseba A. Agirre-Bastegieta"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/jss/jss230.html": {
     "header": "Journal of Systems and Software, Volume 230",
     "year": "2025",

@@ -1,4 +1,621 @@
 {
+  "https://dblp.org/db/conf/re/re2025.html": {
+    "header": "33rd RE 2025: Valencia, Spain",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Keynote : REConnect: How Being a Requirements Engineer Made Me a Better, Yet Humble, Software Engineer.",
+        "authors": [
+          "Daniela E. Damian"
+        ]
+      },
+      {
+        "title": "Keynote : Value-Driven Requirements Engineering for the 21st Century.",
+        "authors": [
+          "Roel J. Wieringa"
+        ]
+      },
+      {
+        "title": "Keynote : Towards a Fairer World - Uncovering and Addressing Human and Algorithmic Biases.",
+        "authors": [
+          "Nuria Oliver"
+        ]
+      },
+      {
+        "title": "What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile App Reviews.",
+        "authors": [
+          "Quim Motger",
+          "Marc Oriol",
+          "Max Tiessler",
+          "Xavier Franch",
+          "Jordi Marco"
+        ]
+      },
+      {
+        "title": "LLMREI: Automating Requirements Elicitation Interviews with LLMs.",
+        "authors": [
+          "Alexander Korn",
+          "Samuel Gorsch",
+          "Andreas Vogelsang"
+        ]
+      },
+      {
+        "title": "Identifying Explanation Needs: Towards a Catalog of User-based Indicators.",
+        "authors": [
+          "Hannah Deters",
+          "Laura Reinhardt",
+          "Jakob Droste",
+          "Martin Obaidi",
+          "Kurt Schneider"
+        ]
+      },
+      {
+        "title": "Specifying Operational Design Domain in Autonomous Driving for Comprehensive Data Evaluation.",
+        "authors": [
+          "Hamed Barzamini",
+          "Ramesh S.",
+          "Arun Adiththan",
+          "Prakash Mohan Peranandam",
+          "Mona Rahimi"
+        ]
+      },
+      {
+        "title": "Design Thinking in Requirements Engineering: Understanding the Role of Internal and External Empathy.",
+        "authors": [
+          "Ezequiel Kahan",
+          "Marcela Genero",
+          "Beatriz Bernárdez",
+          "Alejandro Oliveros"
+        ]
+      },
+      {
+        "title": "The Impact of Requirements Artifacts on Efficiency in Agile Development: A Case Study.",
+        "authors": [
+          "Sabine Molenaar",
+          "Fabiano Dalpiaz"
+        ]
+      },
+      {
+        "title": "QUESTRL: A Q&A Framework for Designing Trustworthy Reinforcement Learning Systems.",
+        "authors": [
+          "Katherine R. Dearstyne",
+          "Pedro Alarcon Granadeno",
+          "Theodore Chambers",
+          "Jane Cleland-Huang"
+        ]
+      },
+      {
+        "title": "Generative Goal Modeling.",
+        "authors": [
+          "Ateeq Sharfuddin",
+          "Travis D. Breaux"
+        ]
+      },
+      {
+        "title": "Demystifying Feature Requests: Leveraging LLMs to Refine Feature Requests in Open-Source Software.",
+        "authors": [
+          "Pragyan K. C",
+          "Rambod Ghandiparsi",
+          "Thomas Herron",
+          "John Heaps",
+          "Mitra Bokaei Hosseini"
+        ]
+      },
+      {
+        "title": "Requirements Elicitation Follow-Up Question Generation.",
+        "authors": [
+          "Yuchen Shen",
+          "Anmol Singhal",
+          "Travis D. Breaux"
+        ]
+      },
+      {
+        "title": "Students' Perceptions of the Use of LLMs in Requirements Engineering Education: A Cross-University Empirical Study.",
+        "authors": [
+          "Sharon Guardado",
+          "Risha Parveen",
+          "Zheying Zhang",
+          "Maruf Rayhan",
+          "Nirnaya Tripathi"
+        ]
+      },
+      {
+        "title": "LLM-assisted Extraction of Regulatory Requirements: A Case Study on the GDPR.",
+        "authors": [
+          "Sallam Abualhaija",
+          "Marcello Ceci",
+          "Nicolas Sannier",
+          "Domenico Bianculli",
+          "Salomé Lannier",
+          "Martina Siclari",
+          "Olivier Voordeckers",
+          "Stanislaw Tosza"
+        ]
+      },
+      {
+        "title": "Where Do Users Draw the Line? Ethical Concerns about Software.",
+        "authors": [
+          "Daan Kieft",
+          "Laura Duits",
+          "Emitzá Guzmán"
+        ]
+      },
+      {
+        "title": "How to Elicit Explainability Requirements? A Comparison of Interviews, Focus Groups, and Surveys.",
+        "authors": [
+          "Martin Obaidi",
+          "Jakob Droste",
+          "Hannah Deters",
+          "Marc Herrmann",
+          "Raymond Ochsner",
+          "Kurt Schneider",
+          "Jil Klünder"
+        ]
+      },
+      {
+        "title": "Adopting Use Case Descriptions for Requirements Specification: an Industrial Case Study.",
+        "authors": [
+          "Julian Frattini",
+          "Anja Frattini"
+        ]
+      },
+      {
+        "title": "What does a Public Discourse state about Requirements Process Debt Causes?",
+        "authors": [
+          "Sávio Freire",
+          "Manoel G. Mendonça",
+          "Julio César Sampaio do Prado Leite"
+        ]
+      },
+      {
+        "title": "Legal Requirements Translation from Law.",
+        "authors": [
+          "Anmol Singhal",
+          "Travis D. Breaux"
+        ]
+      },
+      {
+        "title": "Augmenting, Not Replacing: The Role of LLMs in Human-Centric Formal RE.",
+        "authors": [
+          "Sonora Halili",
+          "Paola Spoletini",
+          "Alicia M. Grubb"
+        ]
+      },
+      {
+        "title": "LLM-based Satisfiability Checking of String Requirements by Consistent Data and Checker Generation.",
+        "authors": [
+          "Boqi Chen",
+          "Aren A. Babikian",
+          "Shuzhao Feng",
+          "Dániel Varró",
+          "Gunter Mussbacher"
+        ]
+      },
+      {
+        "title": "The Good, the Bad, and the Uncanny: Investigating Diversity Aspects of LLM-Generated Personas for Requirements Engineering.",
+        "authors": [
+          "Christopher Lazik",
+          "Charlotte Kauter",
+          "Inês Nunes",
+          "Aaron Ziglowski",
+          "Alina Pryma",
+          "Christopher Katins",
+          "Lars Grunske",
+          "Thomas Kosch"
+        ]
+      },
+      {
+        "title": "From Requirements to Code: Understanding Developer Practices in LLM-Assisted Software Engineering.",
+        "authors": [
+          "Jonathan Ullrich",
+          "Matthias Koch",
+          "Andreas Vogelsang"
+        ]
+      },
+      {
+        "title": "LSRM: A Hybrid LLM-SBERT Approach for Mapping User Requirements to Product Functionalities in Complex Products.",
+        "authors": [
+          "Zhiwei Zhang",
+          "Bin Liang",
+          "Kam-Fai Wong"
+        ]
+      },
+      {
+        "title": "Model Cards Revisited: Bridging the Gap Between Theory and Practice for Ethical AI Requirements.",
+        "authors": [
+          "Tim Puhlfürß",
+          "Julia Butzke",
+          "Walid Maalej"
+        ]
+      },
+      {
+        "title": "Requirements for Inclusive AI-Driven Recruitment: Lessons Learned from an Industry Workshop.",
+        "authors": [
+          "Muneera Bano",
+          "Didar Zowghi",
+          "Fernando Mourão",
+          "Sarah Kaur",
+          "Tao Zhang"
+        ]
+      },
+      {
+        "title": "From Domain Documents to Requirements: Retrieval-Augmented Generation in the Space Industry.",
+        "authors": [
+          "Chetan Arora",
+          "Fanyu Wang",
+          "Chakkrit Tantithamthavorn",
+          "Aldeida Aleti",
+          "Shaun Kenyon"
+        ]
+      },
+      {
+        "title": "Navigating through Work Items in Issue Tracking Systems via Natural Language Queries.",
+        "authors": [
+          "Delina Ly",
+          "Sruthi Radhakrishnan",
+          "Fatma Basak Aydemir",
+          "Fabiano Dalpiaz"
+        ]
+      },
+      {
+        "title": "GDPR Compliance in Privacy Policies of Mobile Apps: An Overview of the State-of-Practice.",
+        "authors": [
+          "Orlando Amaral Cejas",
+          "Sallam Abualhaija",
+          "Nicolas Sannier",
+          "Marcello Ceci",
+          "Domenico Bianculli"
+        ]
+      },
+      {
+        "title": "Taxonomy-Guided Reasoning for Requirements Classification: A Study in Aerospace Industry.",
+        "authors": [
+          "Yixing Luo",
+          "Yang Liu",
+          "Xiaofeng Li",
+          "Xiaogang Dong",
+          "Bin Gu",
+          "Zhi Jin",
+          "Mengfei Yang"
+        ]
+      },
+      {
+        "title": "ContCRIA: NLP and MDE-based Contextual Change Request Impact Analysis.",
+        "authors": [
+          "Asha Rajbhoj",
+          "Ajim Pathan",
+          "Padmalata Nistala",
+          "Vinay Kulkarni"
+        ]
+      },
+      {
+        "title": "RFPAnaFit: Automated Request For Proposal Fitment Analysis and Response Generation.",
+        "authors": [
+          "Asha Rajbhoj",
+          "Ajim Pathan",
+          "Purvesh Doud",
+          "Piyush Kulkarni",
+          "Vinay Kulkarni"
+        ]
+      },
+      {
+        "title": "Leveraging Large Language Models for Reusable Requirements Management in Aerospace Software.",
+        "authors": [
+          "Yixing Luo",
+          "Yiping Wang",
+          "Xiaofeng Li",
+          "Bin Gu",
+          "Zhi Jin"
+        ]
+      },
+      {
+        "title": "LLM-Assisted Requirements Engineering in Agile MDD: Industry Insights and Validation.",
+        "authors": [
+          "Tjerk Spijkman",
+          "Bente Molenkamp",
+          "Steffen Beudeker",
+          "Sietse Overbeek",
+          "Fabiano Dalpiaz"
+        ]
+      },
+      {
+        "title": "Experiences with requirements in an accredited laboratory for software and data quality evaluation.",
+        "authors": [
+          "Javier Verdugo",
+          "Jesús Ramon Oviedo",
+          "Moisés Rodríguez",
+          "Mario Piattini"
+        ]
+      },
+      {
+        "title": "Exploring the Use of LLMs for Requirements Specification in an IT Consulting Company.",
+        "authors": [
+          "Liliana Pasquale",
+          "Azzurra Ragone",
+          "Emanuele Piemontese",
+          "Armin Amiri Darban"
+        ]
+      },
+      {
+        "title": "Requirements Dependency Driven Test Case Generation: An Automotive Industry Practice.",
+        "authors": [
+          "Tong Xu",
+          "Zheng Zhou",
+          "Xiaohong Chen",
+          "Zhiyi Xue",
+          "Yi Zhao",
+          "Min Zhang",
+          "Zhi Jin"
+        ]
+      },
+      {
+        "title": "Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management.",
+        "authors": [
+          "Dongming Jin",
+          "Zhi Jin",
+          "Nianyu Li",
+          "Kai Yang",
+          "Linyu Li",
+          "Suijing Guan"
+        ]
+      },
+      {
+        "title": "Towards Extracting Software Requirements from App Reviews using Seq2seq Framework.",
+        "authors": [
+          "Aakash Sorathiya",
+          "Gouri Ginde"
+        ]
+      },
+      {
+        "title": "Supporting Software Formal Verification with Large Language Models: An Experimental Study.",
+        "authors": [
+          "Weiqi Wang",
+          "Marie Farrell",
+          "Lucas C. Cordeiro",
+          "Liping Zhao"
+        ]
+      },
+      {
+        "title": "Generating Privacy Stories From Software Documentation.",
+        "authors": [
+          "Wilder Baldwin",
+          "Shashank Chintakuntla",
+          "Shreyah Parajuli",
+          "Ali Pourghasemi",
+          "Ryan Shanz",
+          "Sepideh Ghanavati"
+        ]
+      },
+      {
+        "title": "Sharing a Yield: RE for Regenerative Agriculture Research Vision.",
+        "authors": [
+          "Birgit Penzenstadler"
+        ]
+      },
+      {
+        "title": "ReqInOne: A Large Language Model-Based Agent for Software Requirements Specification Generation.",
+        "authors": [
+          "Taohong Zhu",
+          "Lucas C. Cordeiro",
+          "Youcheng Sun"
+        ]
+      },
+      {
+        "title": "Leveraging LLMs for Requirements Engineering Education: How to Approach?",
+        "authors": [
+          "Saurabh Tiwari",
+          "Santosh Singh Rathore"
+        ]
+      },
+      {
+        "title": "Towards the Automatic Restructuring of Software Requirements Specifications to Conform to Standards Using Large Language Models.",
+        "authors": [
+          "Ryu Okamoto",
+          "Shinji Kusumoto"
+        ]
+      },
+      {
+        "title": "Satisfying Complex Data Security Requirements in Digital Business Ecosystems.",
+        "authors": [
+          "Yulu Wang",
+          "Charlotte van de Velde",
+          "Sabine Oechsner",
+          "Jaap Gordijn"
+        ]
+      },
+      {
+        "title": "Envisioning a Requirements Elicitation Method for Neurodivergent-Inclusive Software.",
+        "authors": [
+          "Inês Rocha",
+          "Ana Moreira",
+          "João Araújo",
+          "Grischa Liebel"
+        ]
+      },
+      {
+        "title": "How Good is Good Enough? Non-Inferiority Trials for Requirements Trade-Offs in Self-Adaptive Systems.",
+        "authors": [
+          "Huma Samin",
+          "Nelly Bencomo",
+          "Anikó Ekárt"
+        ]
+      },
+      {
+        "title": "Technology Designed for Older Adults: You Can't Spell Stakeholder without Older!",
+        "authors": [
+          "Alicia M. Grubb",
+          "Valentina Nino",
+          "Israel Sanchez-Cardona",
+          "Paola Spoletini",
+          "Maria Valero"
+        ]
+      },
+      {
+        "title": "Rethinking RE Topic Mapping: Toward an Extensible Framework for Curriculum-Industry Comparison.",
+        "authors": [
+          "Anthea Moravánszky",
+          "Ingo Barkow"
+        ]
+      },
+      {
+        "title": "Combining Established and Emerging Techniques to Detect Inconsistencies in Requirements.",
+        "authors": [
+          "Alessandro Fantechi",
+          "Stefania Gnesi",
+          "Laura Semini"
+        ]
+      },
+      {
+        "title": "Multi-Agent Debate Strategies to Enhance Requirements Engineering with Large Language Models.",
+        "authors": [
+          "Marc Oriol",
+          "Quim Motger",
+          "Jordi Marco",
+          "Xavier Franch"
+        ]
+      },
+      {
+        "title": "Intelligent Agents for Requirements Engineering: Use, Feasibility and Evaluation.",
+        "authors": [
+          "Jacek Dabrowski",
+          "Wanling Cai",
+          "Amel Bennaceur",
+          "Bashar Nuseibeh",
+          "Faeq Alrimawi"
+        ]
+      },
+      {
+        "title": "Explainability Across the Spectrum: Modeling Stakeholder Goals Based on AI Complexity Levels.",
+        "authors": [
+          "Antoni Mestre",
+          "Manoli Albert",
+          "Miriam Gil",
+          "Vicente Pelechano"
+        ]
+      },
+      {
+        "title": "Recommending Security Requirements through Asset Identification and Threat Mapping.",
+        "authors": [
+          "Sugandha Malviya",
+          "André Fonteles",
+          "Angeles Marin Batana",
+          "Alec Burch-DeWitt"
+        ]
+      },
+      {
+        "title": "Continuous Data-driven Personas Generation: An LLM-based Knowledge Graph Approach.",
+        "authors": [
+          "Ryota Sugiyama",
+          "Hironori Washizaki",
+          "Naoyasu Ubayashi",
+          "Ryoko Tanahashi",
+          "Mai Hirabayashi",
+          "Satoshi Okuda",
+          "Ken Toriumi"
+        ]
+      },
+      {
+        "title": "Growing Deeper Roots: Nature as a Stakeholder in Software-intensive Systems.",
+        "authors": [
+          "Birgit Penzenstadler"
+        ]
+      },
+      {
+        "title": "Data Annotation: A Requirements Engineering for Machine Learning Systems Perspective.",
+        "authors": [
+          "Yi Peng",
+          "Hina Saeeda",
+          "Hans-Martin Heyn",
+          "Jennifer Horkoff"
+        ]
+      },
+      {
+        "title": "Tool for Supporting Debugging and Understanding of Normative Requirements Using LLMs.",
+        "authors": [
+          "Alex Kleijwegt",
+          "Sinem Getir Yaman",
+          "Radu Calinescu"
+        ]
+      },
+      {
+        "title": "Production Line Augmented Reality Application.",
+        "authors": [
+          "Shlomi Fridman",
+          "Shahar Berenson",
+          "Naomi Unkelos-Shpigel"
+        ]
+      },
+      {
+        "title": "Cognitive Biases in Requirements Engineering: Towards Understanding Their Relevance from a Communication Perspective.",
+        "authors": [
+          "Nayat Astaiza Soriano",
+          "Eric Knauss"
+        ]
+      },
+      {
+        "title": "Explainable Augmented Reality for Assembly Tasks: A Multi-Stakeholder Requirements Engineering Approach.",
+        "authors": [
+          "Mohammad Jaber",
+          "Amal Kandeel",
+          "Naomi Unkelos-Shpigel"
+        ]
+      },
+      {
+        "title": "Read, Extract, Classify: A Tool for Smarter Requirements Engineering.",
+        "authors": [
+          "Paheli Bhattacharya",
+          "Manojit Chakraborty",
+          "Santhosh Kumar Arumugam",
+          "Rishabh Gupta"
+        ]
+      },
+      {
+        "title": "Cultural Impact on Requirements Engineering Activities: Bangladeshi Practitioners' View.",
+        "authors": [
+          "Chowdhury Shahriar Muzammel",
+          "Maria Spichkova",
+          "James Harland"
+        ]
+      },
+      {
+        "title": "Human-Machine Collaboration and Ethical Considerations in Adaptive Cyber-Physical Systems.",
+        "authors": [
+          "Zoe Pfister"
+        ]
+      },
+      {
+        "title": "Smells Like Trouble: Investigating the Impact of Requirements Quality on LLM-Supported Software Engineering.",
+        "authors": [
+          "Alexander Korn"
+        ]
+      },
+      {
+        "title": "Intelligent Traceability to Support Software Maintainability and Accountability.",
+        "authors": [
+          "Katherine R. Dearstyne"
+        ]
+      },
+      {
+        "title": "Building Software Functional Requirements Lists Using RAG with Distinct LLMs in Multiple Interactions.",
+        "authors": [
+          "Hayala Nepomuceno Curto"
+        ]
+      },
+      {
+        "title": "Model-Driven Requirements Engineering to Support IA-Enabled Digital Twins of IoT-Enhanced Business Processes.",
+        "authors": [
+          "Asmaa Bouich"
+        ]
+      },
+      {
+        "title": "From Artifacts to Answers: Designing Tools to Support Information Needs in Software Teams.",
+        "authors": [
+          "Delina Ly"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/re/re2024w.html": {
     "header": "32nd RE 2024: Reykjavik, Iceland - Workshops",
     "year": "2024",

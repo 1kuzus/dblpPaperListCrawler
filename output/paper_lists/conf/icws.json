@@ -1,4 +1,1284 @@
 {
+  "https://dblp.org/db/conf/icws/icws2025.html": {
+    "header": "ICWS 2025: Helsinki, Finland",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Message from the Congress Program Chairs.",
+        "authors": [
+          "Claudio A. Ardagna",
+          "Qiang He",
+          "Tevfik Kosar"
+        ]
+      },
+      {
+        "title": "FedMLU: Mitigating Source Inference Attacks in Federated Learning Without Losing Utility for Secure IoT Services.",
+        "authors": [
+          "Mengmeng Cui",
+          "Hao Cheng",
+          "Xuanru Guo",
+          "Haolong Xiang",
+          "Kun Yi",
+          "Xiaoyong Li",
+          "Xiaolong Xu"
+        ]
+      },
+      {
+        "title": "Graph Neural Networks for Incremental Service Recommendation with Dynamic Interest Alignment.",
+        "authors": [
+          "Yaocheng He",
+          "Zhiyong Feng",
+          "Hongqi Chen",
+          "Jingyu Li",
+          "Qinghang Gao",
+          "Houwen Yi",
+          "Haoran Zhang"
+        ]
+      },
+      {
+        "title": "MGG-AD: Multi-Granularity Graph-Based Anomaly Detection in IoT Systems.",
+        "authors": [
+          "Yi Li",
+          "Zhangbing Zhou",
+          "Boris Sedlak",
+          "Schahram Dustdar"
+        ]
+      },
+      {
+        "title": "Layer-Wise Decoupling for Personalized Federated Learning in Web-Sourced Non-Iid Data.",
+        "authors": [
+          "Yong Cheng",
+          "Fengyu Dong",
+          "Ruoshui Wang",
+          "Haolong Xiang",
+          "Guoqiang Liu",
+          "Xiaoyong Li",
+          "Xiaolong Xu"
+        ]
+      },
+      {
+        "title": "Deep Reinforcement Learning-Empowered Task Offloading for Efficient DNN Partition in Vehicular Edge Computing.",
+        "authors": [
+          "Huaming Wu",
+          "Fengyu Li",
+          "Huijun Tang"
+        ]
+      },
+      {
+        "title": "Minimizing the Number of Mobile Chargers in Wireless Rechargeable Sensor Networks.",
+        "authors": [
+          "Ting Li",
+          "Quanlong Niu",
+          "Riheng Jia",
+          "Zhonglong Zheng",
+          "Minglu Li"
+        ]
+      },
+      {
+        "title": "LLM-CoSR: Noise-Resistant Service Recommendation via LLM-Augmented Graph Contrastive Learning.",
+        "authors": [
+          "Yeqi Zhu",
+          "Zeyu Lin",
+          "Jingyu Fan",
+          "Mingyi Liu",
+          "Zhongjie Wang"
+        ]
+      },
+      {
+        "title": "Hashmvt: Accelerating Parallel Networking Services With Hardware Offloaded Hash-Based Match-Value Tables.",
+        "authors": [
+          "Wendi Feng",
+          "Wei Zhang"
+        ]
+      },
+      {
+        "title": "Autocompletion Service for Temporal Web Knowledge Bases via Multisource Semantic Feature Learning.",
+        "authors": [
+          "Chan Li",
+          "Rui Li",
+          "Linfang Wang",
+          "Chen Zhi",
+          "Lei Hei",
+          "Junfeng Xing",
+          "Yueshen Xu",
+          "Sirui Yang"
+        ]
+      },
+      {
+        "title": "SeFA: A Seed-Filter Adaptation Method for Robust Vision Services in IoT Devices.",
+        "authors": [
+          "Chuntao Ding",
+          "Longquan Zhang",
+          "Junna Zhang",
+          "Zonghui Li",
+          "Li Zhang"
+        ]
+      },
+      {
+        "title": "EdgeIM: An Efficient Edge-Based Process Model Discovery Technique.",
+        "authors": [
+          "Xuan Su",
+          "Cong Liu",
+          "Faming Lu",
+          "Long Cheng",
+          "Qingtian Zeng",
+          "Shouli Zhang"
+        ]
+      },
+      {
+        "title": "Generative AI-Based Adaptation in Microservices Architectures: A Systematic Mapping Study.",
+        "authors": [
+          "Brell Sanwouo",
+          "Paul Temple",
+          "Clément Quinton"
+        ]
+      },
+      {
+        "title": "TDIC: Time-Aware Disentanglement of Interest and Conformity in Mobile App Recommendations.",
+        "authors": [
+          "Qibo Li",
+          "Yuqi Zhao",
+          "Yutao Ma"
+        ]
+      },
+      {
+        "title": "FedDSSL: Decentralized Federated Semi-Supervised Learning for Limitedly Annotated Data.",
+        "authors": [
+          "Yue Huang",
+          "Baochen Zhang",
+          "Lanju Kong",
+          "Qingzhong Li",
+          "Lizhen Cui"
+        ]
+      },
+      {
+        "title": "Recognition Service for Named Entities via Multilayer Feature Learning for Large Web Knowledge Bases.",
+        "authors": [
+          "Chan Li",
+          "Rui Li",
+          "Yinru Ma",
+          "Xinkui Zhao",
+          "Lei Hei",
+          "Yuyu Yin",
+          "Yueshen Xu",
+          "Yi Yang"
+        ]
+      },
+      {
+        "title": "LLMGCL: Graph Contrastive Learning with Large Language Models for Recommendation.",
+        "authors": [
+          "Shiqi Ge",
+          "Shunmei Meng",
+          "Jielong Zhou",
+          "Lianyong Qi",
+          "Xiaolong Xu",
+          "Xuyun Zhang"
+        ]
+      },
+      {
+        "title": "Adaptive Composition of Machine Learning as a Service (MLaaS) for IoT Environments.",
+        "authors": [
+          "Deepak Kanneganti",
+          "Sajib Mistry",
+          "Sheik Mohammad Mostakim Fattah",
+          "Aneesh Krishna",
+          "Monowar Bhuyan"
+        ]
+      },
+      {
+        "title": "ServerlessLSM: Fast RDMA-Codesigned Disaggregated Compaction for Elastic Serverless LSM-Tree Key-Value Store.",
+        "authors": [
+          "Mingxuan Liu",
+          "Jianhua Gu",
+          "Tianhai Zhao"
+        ]
+      },
+      {
+        "title": "Robust Evaluation of LLM-Generated GraphQL Queries for Web Services.",
+        "authors": [
+          "Vansika Sonthalia",
+          "Manish Kesarwani",
+          "Sameep Mehta"
+        ]
+      },
+      {
+        "title": "Consensus-Based Decentralized Federated Learning for Model Training Services in IoV.",
+        "authors": [
+          "Xiaoyan Liu",
+          "Zhiwei Xu",
+          "Jiwei Huang"
+        ]
+      },
+      {
+        "title": "GIWiD: Gait-Based User Identification Services with WiFi Device-Free Sensing.",
+        "authors": [
+          "Binglei Yue",
+          "Junwei Lei",
+          "Heng Liu",
+          "Chun Yang",
+          "Aili Jiang",
+          "Yin Zhang"
+        ]
+      },
+      {
+        "title": "ACCESS-FL: Agile Communication and Computation for Efficient Secure Aggregation in Stable Networks for FLaaS.",
+        "authors": [
+          "Niousha Nazemi",
+          "Omid Tavallaie",
+          "Shuaijun Chen",
+          "Anna Maria Mandalari",
+          "Kanchana Thilakarathna",
+          "Ralph Holz",
+          "Hamed Haddadi",
+          "Albert Y. Zomaya"
+        ]
+      },
+      {
+        "title": "Program Verification to Defend Chain-of-Thought Attacks for LLM Services.",
+        "authors": [
+          "Shuo He",
+          "Jiawei Jiang",
+          "Hongbao Liu",
+          "Tao Tang"
+        ]
+      },
+      {
+        "title": "Backoff Reveals Priority: A Distributed Status-Aware Response Method for Device-Assisted Task Offloading.",
+        "authors": [
+          "Tianchun Gan",
+          "Shan Zhang",
+          "Wenbin Xu",
+          "Xiang Li",
+          "Zhiyuan Wang",
+          "Hongbin Luo"
+        ]
+      },
+      {
+        "title": "A Novel Self-Attention-Enhanced Multi-Neighborhood PPO Scheduling Approach for Satellite Edge Computing.",
+        "authors": [
+          "Xifeng Xu",
+          "Yunni Xia",
+          "Qinglan Peng",
+          "Xingli Zhong",
+          "Song Zhou",
+          "Kai Peng",
+          "Mengdi Wang",
+          "Jiale Zhao"
+        ]
+      },
+      {
+        "title": "Personalized Product Customization Service Based on Fine-Grained and Precise Perception of Supply and Demand.",
+        "authors": [
+          "Kai Zhang",
+          "Yuchen Li",
+          "Bohai Zhao",
+          "Yongchao Xing",
+          "Hongliang Sun",
+          "Zhiying Tu",
+          "Dianhui Chu"
+        ]
+      },
+      {
+        "title": "Accurate Mobile App Recommendation via Hypergraph Contrastive Collaborative Filtering.",
+        "authors": [
+          "Mingdong Tang",
+          "Yinglin Huang",
+          "Fenfang Xie"
+        ]
+      },
+      {
+        "title": "A Weighted Preference Optimization Service Recommendation Method Based on Knowledge Graph and Large Language Model.",
+        "authors": [
+          "Hongliang Sun",
+          "Feiyang Wang",
+          "Zhiying Tu",
+          "Dianbo Sui",
+          "Yongchao Xing",
+          "Kai Zhang",
+          "Bohai Zhao",
+          "Xiaofei Xu"
+        ]
+      },
+      {
+        "title": "Relation-Aware Contrastive Learning for Knowledge-Based Recommendation.",
+        "authors": [
+          "Yu Zhang",
+          "Shunmei Meng",
+          "Jielong Zhou",
+          "Shanming Wu"
+        ]
+      },
+      {
+        "title": "Efficient Federated Learning With Encrypted Data Sharing for Data-Heterogeneous Edge Devices.",
+        "authors": [
+          "Hangyu Li",
+          "Hongyue Wu",
+          "Guodong Fan",
+          "Zhen Zhang",
+          "Shizhan Chen",
+          "Zhiyong Feng"
+        ]
+      },
+      {
+        "title": "Quality of Service Prediction via Large Language Models.",
+        "authors": [
+          "Huiying Liu",
+          "Zekun Zhang",
+          "Lei Sang",
+          "Qilin Wu",
+          "Yiwen Zhang"
+        ]
+      },
+      {
+        "title": "PUKF: Enhanced Vehicle Localization Services Through Tightly-Coupled GNSS/INS Integration.",
+        "authors": [
+          "Yipeng Li",
+          "Binglei Yue",
+          "Jiawei Song",
+          "Yin Zhang"
+        ]
+      },
+      {
+        "title": "Robust and Lightweight Root Cause Analysis for Microservice Metrics.",
+        "authors": [
+          "Nobukazu Fukuda",
+          "Haruhisa Nozue",
+          "Haruo Oishi",
+          "Kenichi Tayama"
+        ]
+      },
+      {
+        "title": "ReconRCA: Root Cause Analysis in Microservices with Incomplete Metrics.",
+        "authors": [
+          "Zekun Zhang",
+          "Jian Wang",
+          "Bing Li",
+          "Liuxiaoxiao Zhang"
+        ]
+      },
+      {
+        "title": "Are GNNs Actually Effective for Multimodal Fault Diagnosis in Microservice Systems?",
+        "authors": [
+          "Fei Gao",
+          "Ruyue Xin",
+          "Xiaocui Li",
+          "Yaqiang Zhang"
+        ]
+      },
+      {
+        "title": "UIFV: Data Reconstruction Attack in Vertical Federated Learning.",
+        "authors": [
+          "Jirui Yang",
+          "Peng Chen",
+          "Zhihui Lu",
+          "Qiang Duan",
+          "Yubing Bao"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving and Efficient Offloading for Cooperative Vehicle Infrastructure Systems.",
+        "authors": [
+          "Jie Zhang",
+          "Huiying Jin",
+          "Jingyi Zhao",
+          "Hai Dong",
+          "Pengcheng Zhang"
+        ]
+      },
+      {
+        "title": "Ensuring Trust Information Availability for Ubiquitous Trustworthy loT Services.",
+        "authors": [
+          "Thilina Lokuruge",
+          "Athman Bouguettaya"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Authentication Using Blockchain and Implicit Certificates for Internet of Vehicles.",
+        "authors": [
+          "Donghang Li",
+          "Li Duan",
+          "Wen Zhang",
+          "Yanan Wang",
+          "Chao Li",
+          "Wei Ni"
+        ]
+      },
+      {
+        "title": "TS-GNN: A Temporal-Spatial Graph Neural Network for Anomaly Detection in Multiplex Industrial Information Services.",
+        "authors": [
+          "Pan Li",
+          "Tienyu Zuo",
+          "Yuanshuang Jiang",
+          "Fulin Chen",
+          "Kai Di",
+          "Yichuan Jiang"
+        ]
+      },
+      {
+        "title": "Towards Adaptive Privacy-Preserving Information Diffusion in Online Social Networks.",
+        "authors": [
+          "Yuzi Yi",
+          "Yehong Luo",
+          "Jingsha He",
+          "Zhongqi Lu",
+          "Jiwei Huang"
+        ]
+      },
+      {
+        "title": "Follow Your Hidden Traces: Underground Forum-Based Darknet Market Sybil Detection.",
+        "authors": [
+          "Minjae Kim",
+          "Yerim Kim",
+          "Junbeom Hur"
+        ]
+      },
+      {
+        "title": "Dynamic Model and Node Selection for Collaborative Inference of Large/Small Models in Vehicular Networks.",
+        "authors": [
+          "Mengke Zheng",
+          "Zhihui Lu",
+          "Qiang Duan",
+          "Baoqi Huang",
+          "Shijing Hu"
+        ]
+      },
+      {
+        "title": "Servitizing Image Provenance for Fake Image Detection.",
+        "authors": [
+          "Ethan Katte",
+          "Muhammad Umair",
+          "Athman Bouguettaya"
+        ]
+      },
+      {
+        "title": "RepuFL: Reputation-Aware Client Selection in Federated Learning for Mobile Networks.",
+        "authors": [
+          "Subhash Sagar",
+          "Adnan Mahmood"
+        ]
+      },
+      {
+        "title": "A Framework for Data Quality and Protection Management in Service-Based Data Pipelines.",
+        "authors": [
+          "Antongiacomo Polimeno",
+          "Marco Luzzara",
+          "Marco Anisetti",
+          "Claudio A. Ardagna",
+          "Chirine Ghedira Guegan"
+        ]
+      },
+      {
+        "title": "Service-Based Interference Resolution in Multi-Drone Skyway Networks.",
+        "authors": [
+          "Syeda Amna Rizvi",
+          "Athman Bouguettaya"
+        ]
+      },
+      {
+        "title": "Foe for Fraud: Transferable Adversarial Attacks in Credit Card Fraud Detection.",
+        "authors": [
+          "Jan Lum Fok",
+          "Qingwen Zeng",
+          "Shiping Chen",
+          "Oscar Fawkes",
+          "Huaming Chen"
+        ]
+      },
+      {
+        "title": "LLM4Load: An LLM Prompt-Driven Framework for Multi-Scale Workload Prediction.",
+        "authors": [
+          "Zeyuan Ding",
+          "Dian Ding",
+          "Han Zhang",
+          "Jiannong Cao",
+          "Guangtao Xue"
+        ]
+      },
+      {
+        "title": "ServerlessPD: Fast RDMA-Codesigned Disaggregated Prefill-Decoding for Serverless Inference of Large Language Models.",
+        "authors": [
+          "Mingxuan Liu",
+          "Jianhua Gu",
+          "Tianhai Zhao"
+        ]
+      },
+      {
+        "title": "CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration.",
+        "authors": [
+          "Hongpeng Jin",
+          "Yanzhao Wu"
+        ]
+      },
+      {
+        "title": "Privacy-Aware IoT Fall Detection Services for Aging in Place.",
+        "authors": [
+          "Abdallah Lakhdari",
+          "Jiajie Li",
+          "Amani Abusafia",
+          "Athman Bouguettaya"
+        ]
+      },
+      {
+        "title": "Service-Oriented Kinesthetic Interaction: A Grid Optimization Investigation for Eyes-Free 3D Interfaces.",
+        "authors": [
+          "DaoJun Gong",
+          "Yiran Peng",
+          "Xuewen Wang"
+        ]
+      },
+      {
+        "title": "GCA-YOLO: An Edge-Optimized Traffic Sign Detection Model.",
+        "authors": [
+          "Peiyan Yuan",
+          "Yifan Pei",
+          "Chenyang Wang",
+          "Xiaoyan Zhao",
+          "Zhou Liu",
+          "Xiaoqiang Zhu",
+          "Tarik Taleb"
+        ]
+      },
+      {
+        "title": "ReIDFaaS: An Energy-Efficient Serverless Person Re-Identification System Across the Edge-Cloud Continuum.",
+        "authors": [
+          "Jianping Pei",
+          "Yanjun Shu",
+          "Zhuangyu Ma",
+          "Decheng Zuo",
+          "Zhan Zhang"
+        ]
+      },
+      {
+        "title": "Dynamic Community Interest-Aware Caching in Vehicular Edge Computing: A Spatio-Temporal Topic Modeling and Potential Game-Based Approach.",
+        "authors": [
+          "Han Zhao",
+          "Yong Ma",
+          "Kunyin Guo",
+          "Yunni Xia",
+          "Yuyin Ma",
+          "Peng Chen",
+          "Yunye Wan"
+        ]
+      },
+      {
+        "title": "Causal Reasoning on Temporal Knowledge Graph with Fuzzy Logic and Graph Attention Network.",
+        "authors": [
+          "Shixiang Cai",
+          "Zhirui Kuai",
+          "Li Kuang",
+          "Zhifang Liao"
+        ]
+      },
+      {
+        "title": "USFCF: Unified State-Space Feedback Control Framework for Robust Privacy-Conscious Federated Learning in Vehicular Service Networks.",
+        "authors": [
+          "Chen Li",
+          "Xuelei Qi",
+          "Xin Yuan",
+          "Kai Wu",
+          "Yang Zhang",
+          "Wei Ni",
+          "Ren Ping Liu",
+          "Quan Z. Sheng"
+        ]
+      },
+      {
+        "title": "Enhancing Freshness and Energy Efficiency in Asynchronous Federated Learning: An AoI-Aware Online Approach.",
+        "authors": [
+          "Jiebei Shi",
+          "Jie Chen",
+          "Ying Chen",
+          "Jiwei Huang"
+        ]
+      },
+      {
+        "title": "Resource-Aware CNN Framework for Visual Services on IoT Devices.",
+        "authors": [
+          "Jinhui Yu",
+          "Chuntao Ding",
+          "Yidong Li"
+        ]
+      },
+      {
+        "title": "Heterogeneous Resources Adaptive Co-Optimization in Edge Networks.",
+        "authors": [
+          "Yihong Yang",
+          "Zhangbing Zhou",
+          "Lin Meng"
+        ]
+      },
+      {
+        "title": "Enhancing Manufacturing Process Discovery Through Sub-Process Optimization.",
+        "authors": [
+          "Jiaxin Yan",
+          "Cong Liu",
+          "Long Cheng",
+          "Jiujun Cheng",
+          "Weijian Ni",
+          "Qingtian Zeng"
+        ]
+      },
+      {
+        "title": "A Framework for Object-Centric Predictive Process Monitoring Using Graph-Based Process Executions.",
+        "authors": [
+          "Wissam Gherissi",
+          "Joyce El Haddad",
+          "Daniela Grigori"
+        ]
+      },
+      {
+        "title": "D ${ }^{3}$: Delayed Default-Intention Based Default Prediction in Financial Loan Service.",
+        "authors": [
+          "Mengying Zhu",
+          "Mengyuan Yang",
+          "Guanjie Cheng",
+          "Guofang Ma"
+        ]
+      },
+      {
+        "title": "BSTL: Bayesian Signal Temporal Logic for Predictive Edge Service Monitoring.",
+        "authors": [
+          "Deng Zhao",
+          "Zhangbing Zhou",
+          "Shuiguang Deng",
+          "Xiao Xue",
+          "Ruixi Pan",
+          "Jiangwei Li",
+          "Sami Yangui"
+        ]
+      },
+      {
+        "title": "Service-Oriented Computation for Insider Trading Detection in Multiplex Networked Industrial Chains.",
+        "authors": [
+          "Fulin Chen",
+          "Tienyu Zuo",
+          "Kai Di",
+          "Yuanshuang Jiang",
+          "Pan Li",
+          "Yichuan Jiang"
+        ]
+      },
+      {
+        "title": "DAG- FGL: An Enhanced Approach for Accurate Workflow Task Execution Time Prediction with Complex Dependencies.",
+        "authors": [
+          "Changhong Tai",
+          "Huiying Jin",
+          "Qi Wang",
+          "Hai Dong",
+          "Pengcheng Zhang"
+        ]
+      },
+      {
+        "title": "Enhancing Healthcare Process Model Discovery Through Duplicate Task Identification.",
+        "authors": [
+          "Xuan Su",
+          "Cong Liu",
+          "Faming Lu",
+          "Long Cheng",
+          "Qingtian Zeng",
+          "Jiehan Zhou"
+        ]
+      },
+      {
+        "title": "A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-Based Agent Intention Mining.",
+        "authors": [
+          "Yifan Shen",
+          "Zihan Zhao",
+          "Xiao Xue",
+          "Yuwei Guo",
+          "Qun Ma",
+          "Deyu Zhou",
+          "Ming Zhang"
+        ]
+      },
+      {
+        "title": "Supervised Pretraining for in-Context Decision in Conversational Service Recommendation.",
+        "authors": [
+          "Tienyu Zuo",
+          "Kai Di",
+          "Yuanshuang Jiang",
+          "Fulin Chen",
+          "Pan Li",
+          "Yichuan Jiang"
+        ]
+      },
+      {
+        "title": "Unlocking Hidden Capabilities: A Self-Improving Workflow for Chatbots to Utilize Unintegrated Services.",
+        "authors": [
+          "Can Wang",
+          "Hao Ding",
+          "Yongchao Xing",
+          "Bohai Zhao",
+          "Dianbo Sui",
+          "Zhiying Tu"
+        ]
+      },
+      {
+        "title": "A Dynamic Inference Method for Autoregressive Transformer Models.",
+        "authors": [
+          "Hao Tian",
+          "Sheng Lu",
+          "Hua Deng",
+          "Zheng Li",
+          "Wanchun Dou"
+        ]
+      },
+      {
+        "title": "A Verifiable and Low-Latency Cross-Chain IoT Service Query Scheme with Collaborative Indexing.",
+        "authors": [
+          "Jiamei Liu",
+          "Chang-Ai Sun",
+          "Tong Wu",
+          "Marco Aiello"
+        ]
+      },
+      {
+        "title": "An Explainable Emotion Alignment Framework for LLM-Empowered Agent in Metaverse Service Ecosystem.",
+        "authors": [
+          "Qun Ma",
+          "Xiao Xue",
+          "Ming Zhang",
+          "Yifan Shen",
+          "Zihan Zhao"
+        ]
+      },
+      {
+        "title": "UAV-Mesh: A Graph-Based Decentralized Service Mesh Framework for UAV Swarms.",
+        "authors": [
+          "Chenghang Liu",
+          "Han Yu",
+          "Nuo Chen",
+          "Bingqing Shen",
+          "Hongming Cai"
+        ]
+      },
+      {
+        "title": "AeroDaaS: Towards an Application Programming Framework for Drones-as-a-Service.",
+        "authors": [
+          "Suman Raj",
+          "Rajdeep Singh",
+          "Kautuk Astu",
+          "Yogesh Simmhan"
+        ]
+      },
+      {
+        "title": "Scenario Generator Design Method for Service Ecosystem Governance Driven by LLM-Empowered Agents Simulation.",
+        "authors": [
+          "Deyu Zhou",
+          "Yugi Hou",
+          "Xiao Xue",
+          "Xudong Lu",
+          "Qingzhong Li",
+          "Lizhen Cui"
+        ]
+      },
+      {
+        "title": "CPP: Compensated Post-Training Pruning Approach for On-Device Large Language Model Services.",
+        "authors": [
+          "Junna Zhang",
+          "Yifei Hu",
+          "Chuntao Ding",
+          "Xiaoyan Zhao",
+          "Peiyan Yuan",
+          "Shangguang Wang"
+        ]
+      },
+      {
+        "title": "IntentContinuum: Using LLMs to Support Intent-Based Computing Across the Compute Continuum.",
+        "authors": [
+          "Negin Akbari",
+          "John C. Grundy",
+          "Muhammad Aamir Cheema",
+          "Adel Nadjaran Toosi"
+        ]
+      },
+      {
+        "title": "Revisiting Lemos' Taxonomy for Service Compositions with Large Language Models.",
+        "authors": [
+          "Robin D. Pesl",
+          "Marco Aiello"
+        ]
+      },
+      {
+        "title": "SAGELY - Context-Aware Holistic Service Policy Enforcement Across Swarm-Edge Continuum.",
+        "authors": [
+          "Hong-Tri Nguyen",
+          "Liang Yuan",
+          "Anh-Dung Nguyen",
+          "M. Ali Babar",
+          "Hong Linh Truong"
+        ]
+      },
+      {
+        "title": "Data Service Composition in Cyber-Physical Systems Adopting LLMs.",
+        "authors": [
+          "Adriano Izzi",
+          "Jerin George Mathew",
+          "Flavia Monti",
+          "Donatella Firmani",
+          "Francesco Leotta",
+          "Federica Mandreoli",
+          "Massimo Mecella"
+        ]
+      },
+      {
+        "title": "Cross-Chain Iot Service Composition: an Adaptive QoS Constraint-Based Approach.",
+        "authors": [
+          "Jiamei Liu",
+          "Chang-Ai Sun",
+          "Tong Wu",
+          "Marco Aiello"
+        ]
+      },
+      {
+        "title": "WebCoder: Multimodal Approach for Automated Web Service UI Code Generation.",
+        "authors": [
+          "Huafeng Su",
+          "Lei Yu",
+          "Conghui Yang"
+        ]
+      },
+      {
+        "title": "Enhancing Conditional Diffusion Model Robustness in Inference with Optimal Combination Factor.",
+        "authors": [
+          "Weifeng Xu",
+          "Xiang Zhu",
+          "Xiaoyong Li"
+        ]
+      },
+      {
+        "title": "SABER: A MAPE-K-based Self-Adaptive Framework for Microservice Bad Smell Refactoring.",
+        "authors": [
+          "Yongchao Xing",
+          "Yiming Lv",
+          "Xianglin Zeng",
+          "Bohai Zhao",
+          "Kai Zhang",
+          "Hongliang Sun",
+          "Weipan Yang",
+          "Zhiying Tu"
+        ]
+      },
+      {
+        "title": "FedSKC: Federated Learning with Non-IID Data via Structural Knowledge Collaboration.",
+        "authors": [
+          "Huan Wang",
+          "Haoran Li",
+          "Huaming Chen",
+          "Jun Yan",
+          "Lijuan Wang",
+          "Jiahua Shi",
+          "Shiping Chen",
+          "Jun Shen"
+        ]
+      },
+      {
+        "title": "HAPFL: Heterogeneity-Aware Personalized Federated Learning via Hierarchical RL and Model Distillation.",
+        "authors": [
+          "Xi Chen",
+          "Ting Wang",
+          "Qin Li",
+          "Haibin Cai"
+        ]
+      },
+      {
+        "title": "POI-Based Edge Service Deployment With Topology -Aware Optimization.",
+        "authors": [
+          "Guobing Zou",
+          "Mengjia Yang",
+          "Song Yang",
+          "Shengye Pang",
+          "Sen Niu",
+          "Yanglan Gan",
+          "Bofeng Zhang"
+        ]
+      },
+      {
+        "title": "EdgePro: Adaptive Edge Service Provision via Safe Deep Reinforcement Learning.",
+        "authors": [
+          "Lu Zhao",
+          "Zhuang Wu",
+          "Jian Zhou",
+          "Hui Cai",
+          "Bo Li",
+          "Fu Xiao"
+        ]
+      },
+      {
+        "title": "PreFabric: Eliminating Conflicts for High-Throughput Permissioned Blockchains.",
+        "authors": [
+          "Junxiong Lin",
+          "Zhihui Lu",
+          "Yiguang Zhang",
+          "Ruijun Deng",
+          "Qiang Duan",
+          "Hengqi Guo",
+          "Xu Guo",
+          "Baoqi Huang"
+        ]
+      },
+      {
+        "title": "Learning-based Automated Generation of Critical Workload Configurations for Microservices Performance Testing.",
+        "authors": [
+          "Cristian Mascia",
+          "Luca Giamattei",
+          "Antonio Guerriero",
+          "Roberto Pietrantuono",
+          "Stefano Russo"
+        ]
+      },
+      {
+        "title": "In3Edge: Interest-Driven Service Incentive Mechanism Based on Stackelberg Game in Edge-Empowered IIoT.",
+        "authors": [
+          "Bohai Zhao",
+          "Zhiying Tu",
+          "Kai Peng",
+          "Yongchao Xing",
+          "Kai Zhang",
+          "Hongliang Sun",
+          "Dianhui Chu"
+        ]
+      },
+      {
+        "title": "Reliability-Aware Resource Allocation for Vehicular Services in Mobile Edge Computing.",
+        "authors": [
+          "Lipei Yang",
+          "Sisi Li",
+          "Ao Zhou",
+          "Xiao Ma",
+          "Yiran Zhang",
+          "Shangguang Wang"
+        ]
+      },
+      {
+        "title": "A Two-Stage Predictive Process Monitoring Approach With Enabled State Filtering for Variable Suffix Scenarios.",
+        "authors": [
+          "Chao Zheng",
+          "Jian Wang",
+          "Chong Wang",
+          "Bing Li"
+        ]
+      },
+      {
+        "title": "AMSES: A Novel Autonomic Model Construction Framework for System Fault Diagnosis of Microservice Architecture.",
+        "authors": [
+          "Yujia Song",
+          "Peng Chen",
+          "Yunni Xia",
+          "Hui Liu",
+          "Yong Ma",
+          "Xiqiao Lin"
+        ]
+      },
+      {
+        "title": "DistriAD: Distributed Anomaly Detection for Large-Scale Microservice Systems.",
+        "authors": [
+          "Yaxiao Li",
+          "Qingshan Li",
+          "Chenxi Zhang",
+          "Lu Wang",
+          "Chenyi Wang",
+          "Zhongliang Bai",
+          "Haixing Luo",
+          "Tianyuan Gao",
+          "Kun Ma",
+          "Lingfeng Pan"
+        ]
+      },
+      {
+        "title": "Log-Driven Testing of Microservice Systems with Transformers.",
+        "authors": [
+          "Raffaele Della Corte",
+          "Roberto Pietrantuono",
+          "Stefano Russo"
+        ]
+      },
+      {
+        "title": "liBERTa: Local Intelligence via Browser Extensions for Real-Time Applications.",
+        "authors": [
+          "Francesco De Feudis",
+          "Ivano Bilenchi",
+          "Corrado Fasciano",
+          "Filippo Gramegna",
+          "Floriano Scioscia",
+          "Michele Ruta"
+        ]
+      },
+      {
+        "title": "APICoder: A Multi-Role Large Language Model Framework for API Service Call Code Generation.",
+        "authors": [
+          "Conghui Yang",
+          "Lei Yu",
+          "Huafeng Su",
+          "Xiang Zhou"
+        ]
+      },
+      {
+        "title": "ServerlessIE: A Reusable Information Extraction System with Serverless Function.",
+        "authors": [
+          "Jingru Yang",
+          "Lingran Bu",
+          "Di Wu",
+          "Jinfeng Wen",
+          "Yi Liu"
+        ]
+      },
+      {
+        "title": "KubeGuard: A Systematic Permission-Oriented Risk Detection Approach for Kubernetes Applications.",
+        "authors": [
+          "Chang-Ai Sun",
+          "Xiaoyang Han",
+          "Yufei Gong"
+        ]
+      },
+      {
+        "title": "SAGA: A Lightweight Authentication and Key Agreement Protocol for Resource-Asymmetric Smart Environments with Safe Service.",
+        "authors": [
+          "Junfeng Tian",
+          "Jian Geng",
+          "Siyi Zhang"
+        ]
+      },
+      {
+        "title": "Revisiting NFT Transactions in Web 3.0 Service Through the Lenses of Higher-Order Network.",
+        "authors": [
+          "Hao Ding",
+          "Can Wang",
+          "Jiasi Li",
+          "Hongmei Ren",
+          "Xuefeng Piao",
+          "Huihui Song",
+          "Zhenzhou Ji"
+        ]
+      },
+      {
+        "title": "Enhancing Service Observability Through Bytecode-Level Variable Monitoring.",
+        "authors": [
+          "Taizheng Wang",
+          "Chunyang Ye",
+          "Hui Zhou",
+          "Wei Chang",
+          "Chaoyi Li"
+        ]
+      },
+      {
+        "title": "STGNN-Based Microservice Autoscaling and Placement for Fast QoS Recovery at the Edge.",
+        "authors": [
+          "Yue Wu",
+          "Haitao Zhang",
+          "Yepeng Zhang"
+        ]
+      },
+      {
+        "title": "Scheduling Strategy for Deep Learning Training Jobs Based on Multi-Resource Interleaving.",
+        "authors": [
+          "Yuheng Zheng",
+          "Jienan Lin",
+          "Xing Chen",
+          "Bin Lin",
+          "Yun Ma"
+        ]
+      },
+      {
+        "title": "Cross-Chain Options: A Bridgeless, Universal, and Efficient Approach.",
+        "authors": [
+          "Zifan Peng",
+          "Yingjie Xue",
+          "Jingyu Liu"
+        ]
+      },
+      {
+        "title": "DecoupleChain: A Two-Layer Blockchain Sharding System Enabling Frequent Shard Reconfiguration.",
+        "authors": [
+          "Huawei Huang",
+          "Miaoyong Xu",
+          "Chenlin Wu",
+          "Xiaofei Luo",
+          "Jian Zheng",
+          "Jianru Lin",
+          "Zibin Zheng"
+        ]
+      },
+      {
+        "title": "Scalable Policy-as-Code Decision Points for Data Products.",
+        "authors": [
+          "Matteo Brambilla",
+          "Pierluigi Plebani"
+        ]
+      },
+      {
+        "title": "Hypergraph-Based De-Conjecture Knowledge Tracing for Intelligent Educational Services.",
+        "authors": [
+          "Chenyu Hou",
+          "Aochen You",
+          "Bin Cao",
+          "Dongjing Wang",
+          "Jing Fan"
+        ]
+      },
+      {
+        "title": "Hgae: Heterogeneous Graph Autoencoder-Based Service Bundle Recommendations for Efficient Mashup Development.",
+        "authors": [
+          "Kaipu Sun",
+          "Xuanye Wang",
+          "Meng Xi",
+          "Yangyang Wu",
+          "Xiaohua Pan",
+          "Jinshan Zhang",
+          "Ying Li",
+          "Kun Ma",
+          "Jianwei Yin"
+        ]
+      },
+      {
+        "title": "EvoAPR: Enhancing Large Language Models for Automatic Program Repair with Genetic Algorithm and Dynamic LoRA.",
+        "authors": [
+          "Huan Zhang",
+          "Qingyang Yan",
+          "Weihuan Min",
+          "Chenyuan Zhang",
+          "Li Kuang",
+          "Yingjie Xia"
+        ]
+      },
+      {
+        "title": "ChainAttack: Black-Box Adversarial Attacks on Generative AI Services via Chain-of-Thought.",
+        "authors": [
+          "Xixi Zheng",
+          "Zihao Xu",
+          "Xuhao Ren",
+          "Chuan Zhang",
+          "Liehuang Zhu"
+        ]
+      },
+      {
+        "title": "A Hybrid Approach Combining LLMs and Web-Based Information for Automated Fact-Checking.",
+        "authors": [
+          "Kenji Oki",
+          "Kazuhiro Yamashita",
+          "Shinya Kitajima"
+        ]
+      },
+      {
+        "title": "AI-Assisted Data Governance with Data Mesh Manager.",
+        "authors": [
+          "Arif Wider",
+          "Simon Harrer",
+          "Linus W. Dietz"
+        ]
+      },
+      {
+        "title": "A Word is Worth 4-Bit: Efficient Log Parsing with Binary Coded Decimal Recognition.",
+        "authors": [
+          "Prerak Srivastava",
+          "Giulio Corallo",
+          "Sergey Rybalko"
+        ]
+      },
+      {
+        "title": "Managing Hybrid Dynamics in Multiplex Service Networks: A Group-based Task Migration Approach.",
+        "authors": [
+          "Kai Di",
+          "Tienyu Zuo",
+          "Pan Li",
+          "Yuanshuang Jiang",
+          "Fulin Chen",
+          "Yichuan Jiang"
+        ]
+      },
+      {
+        "title": "GGRME: A GGNN-based Graph Reconstruction Method for Microservice Extraction.",
+        "authors": [
+          "Ying Xu",
+          "Ying Li",
+          "Suxiang Wu",
+          "Linghao Li",
+          "Xinzhou Zhu",
+          "Meng Xi",
+          "Jianwei Yin"
+        ]
+      },
+      {
+        "title": "Availability Guaranteed and Resource Efficient VNF Placement in SDN/NFV-Enabled Network through Traffic Forecasting.",
+        "authors": [
+          "Yi Yue",
+          "Bo Cheng",
+          "Shiding Sun",
+          "Wencong Yang",
+          "Xiongyan Tang"
+        ]
+      },
+      {
+        "title": "Knowledge-Augmented Contrastive Learning and Multi-Modal Fusion for Fake News Detection Service in Social Network.",
+        "authors": [
+          "Zhen Xia",
+          "Shuai Zhao",
+          "Jiale Han",
+          "Junliang Chen"
+        ]
+      },
+      {
+        "title": "StealthHub: Utxo-Based Stealth Address Protocol.",
+        "authors": [
+          "Hanze Guo",
+          "Yebo Feng",
+          "Cong Wu",
+          "Zengpeng Li",
+          "Jiahua Xu"
+        ]
+      },
+      {
+        "title": "Latent Graph Structure Learning for Service-Oriented Complex Network: Task Definition, Data Simulation, and Applications in Service Ecosystem.",
+        "authors": [
+          "Tianyu Jiang",
+          "Zhongjie Wang",
+          "Mingyi Liu"
+        ]
+      },
+      {
+        "title": "Graph-Based Intelligent Wrapping Framework for Industrial Control Program Snippets Based on Service Computing and Llms.",
+        "authors": [
+          "Huifeng Wu",
+          "Yingzhe Bao",
+          "Junjie Hu",
+          "Liutao Xiang",
+          "Danfeng Sun",
+          "Baiping Chen",
+          "Zhiguo Shi"
+        ]
+      },
+      {
+        "title": "Graph-Structured Small Molecule Drug Discovery Through Deep Learning: Progress, Challenges, and Opportunities.",
+        "authors": [
+          "Kun Li",
+          "Yida Xiong",
+          "Hongzhi Zhang",
+          "Xiantao Cai",
+          "Jia Wu",
+          "Bo Du",
+          "Wenbin Hu"
+        ]
+      },
+      {
+        "title": "GWise: A Graph-Structured Multi-Agent Framework for Service-Oriented and Generative-AI-Enabled Financial Trading Analytics.",
+        "authors": [
+          "Hirad Baradaran Rezaei",
+          "Fethi Rabhi",
+          "Amin Beheshti"
+        ]
+      },
+      {
+        "title": "From Dispersed Records to Structured Knowledge: A Graph-based Knowledge Modeling Framework for Archival Resources.",
+        "authors": [
+          "Zhaoyang Zhang",
+          "Yang Zhang",
+          "Quan Z. Sheng",
+          "Jia Wu",
+          "Yaolin Zhou"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/icws/icws2024.html": {
     "header": "ICWS 2024:\nShenzhen, China",
     "year": "2024",

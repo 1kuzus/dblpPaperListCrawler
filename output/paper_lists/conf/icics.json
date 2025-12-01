@@ -1,4 +1,887 @@
 {
+  "https://dblp.org/db/conf/icics/icics2025-3.html": {
+    "header": "27th ICICS 2025: Nanjing, China - Part III",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Domain Adaptation for Cross-Device Profiled ML Side-Channel Attacks.",
+        "authors": [
+          "Ian Y. Garrett",
+          "Ryan M. Gerdes"
+        ]
+      },
+      {
+        "title": "Find the Clasp of the Chain: Efficiently Locating Cryptographic Procedures in SoC Secure Boot by Semi-automated Side-Channel Analysis.",
+        "authors": [
+          "Shipei Qu",
+          "Yuxuan Wang",
+          "Jintong Yu",
+          "Cheng Hong",
+          "Chi Zhang",
+          "Dawu Gu"
+        ]
+      },
+      {
+        "title": "Full-Phase Distributed Quantum Impossible Differential Cryptanalysis.",
+        "authors": [
+          "Kun Zhang",
+          "Tao Shang",
+          "Yuanjing Zhang",
+          "Jianwei Liu"
+        ]
+      },
+      {
+        "title": "ProverNG: Efficient Verification of Compositional Masking for Cryptosystem's Side-Channel Security.",
+        "authors": [
+          "Yiming Yang",
+          "Feng Zhou",
+          "Yuanyuan Wang",
+          "Hua Chen",
+          "Limin Fan",
+          "An Wang"
+        ]
+      },
+      {
+        "title": "PowerPoly: Analyzing Multilingual Programs with the Aid of WebAssembly.",
+        "authors": [
+          "Zhuochen Jiang",
+          "Baojian Hua"
+        ]
+      },
+      {
+        "title": "Not only Spatial, but Also Spectral: Unnoticeable Backdoor Attack on 3D Point Clouds.",
+        "authors": [
+          "Yongzhen Jiang",
+          "Haoran Li",
+          "Hongjia Liu",
+          "Jiageng Pan",
+          "Jian Xu"
+        ]
+      },
+      {
+        "title": "Permutation-Based Cryptanalysis of the SCARF Block Cipher and Its Randomness Evaluation.",
+        "authors": [
+          "Qi Li",
+          "Wenying Zhang",
+          "Xiaomeng Sun"
+        ]
+      },
+      {
+        "title": "Secure and Scalable TLB Partitioning Against Timing Side-Channel Attacks.",
+        "authors": [
+          "Tianyi Huang",
+          "Xiaolin Zhang",
+          "Kailun Qin",
+          "Boshi Yuan",
+          "Chenghao Chen",
+          "Yipeng Shi",
+          "Chi Zhang",
+          "Dawu Gu"
+        ]
+      },
+      {
+        "title": "Security Vulnerabilities in AI-Generated Code: A Large-Scale Analysis of Public GitHub Repositories.",
+        "authors": [
+          "Maximilian Schreiber",
+          "Pascal Tippe"
+        ]
+      },
+      {
+        "title": "Towards Efficient C/C++ Vulnerability Impact Assessment in Package Management Systems.",
+        "authors": [
+          "Zibo Wang",
+          "Xiangkun Jia",
+          "Jia Yan",
+          "Yi Yang",
+          "Huafeng Huang",
+          "Purui Su"
+        ]
+      },
+      {
+        "title": "AugGP-VD: A Smart Contract Vulnerability Detection Approach Based on Augmented Graph Convolutional Networks and Pooling.",
+        "authors": [
+          "Nianlu Liu",
+          "Linlin Zhang",
+          "Wenbo Fang",
+          "Kai Zhao"
+        ]
+      },
+      {
+        "title": "VULDA: Source Code Vulnerability Detection via Local Dependency Context Aggregation on Vulnerability-Aware Code Mapping Graph.",
+        "authors": [
+          "Tao Peng",
+          "Ling Gui",
+          "Lijun Cai",
+          "Junwei Tang",
+          "Aoshuang Ye",
+          "Fei Zhu"
+        ]
+      },
+      {
+        "title": "KVT-Payload: Knowledge Graph-Enhanced Hierarchical Vulnerability Traffic Payload Generation.",
+        "authors": [
+          "Faqi Zhao",
+          "Rong Shi",
+          "Guoqiao Zhou",
+          "Wen Wang",
+          "Feng Liu"
+        ]
+      },
+      {
+        "title": "Construction and Application of Vulnerability Intelligence Ontology Under Vulnerability Management Perspective.",
+        "authors": [
+          "Guangxiang Dai",
+          "Peng Wang",
+          "Duohe Ma"
+        ]
+      },
+      {
+        "title": "Speaker Inference Detection Using Only Text.",
+        "authors": [
+          "Ruoxi Cheng",
+          "Yizhong Ding",
+          "Shaowei Yuan",
+          "Zhiqiang Wang"
+        ]
+      },
+      {
+        "title": "DTGAN: Diverse-Task Generative Adversarial Networks for Intrusion Detection Systems Against Adversarial Examples.",
+        "authors": [
+          "Yiyang Wang",
+          "Xiabai Wu",
+          "Kun Chen"
+        ]
+      },
+      {
+        "title": "ConComFND: Leveraging Content and Comment Information for Enhanced Fake News Detection.",
+        "authors": [
+          "Huan Zhang",
+          "Chanying Huang",
+          "Kedong Yan",
+          "Shan Xiao"
+        ]
+      },
+      {
+        "title": "Transferable Adversarial Attacks in Object Detection: Leveraging Ensemble Features and Gradient Variance Minimization.",
+        "authors": [
+          "Zhitong Lu",
+          "Zhen Xu",
+          "Qian Yang",
+          "Kai Chen"
+        ]
+      },
+      {
+        "title": "VAE-BiLSTM: A Hybrid Model for DeFi Anomaly Detection Combining VAE and BiLSTM.",
+        "authors": [
+          "Shujiang Xu",
+          "Xiaomin Luo",
+          "Lianhai Wang",
+          "Miodrag J. Mihaljevié",
+          "Shuhui Zhang",
+          "Wei Shao",
+          "Qizheng Wang"
+        ]
+      },
+      {
+        "title": "FluxSketch: A Sketch-Based Solution for Long-Term Fluctuating Key Flow Detection.",
+        "authors": [
+          "Jun Xu",
+          "Guoju Gao",
+          "Yu-E Sun",
+          "He Huang",
+          "Yang Du"
+        ]
+      },
+      {
+        "title": "RustGuard: Detecting Rust Data Leak Issues with Context-Sensitive Static Taint Analysis.",
+        "authors": [
+          "Shanlin Deng",
+          "Mingliang Liu",
+          "Si Wu",
+          "Baojian Hua"
+        ]
+      },
+      {
+        "title": "Secure Guard: A Semantic-Based Jailbreak Prompt Detection Framework for Protecting Large Language Models.",
+        "authors": [
+          "Sixin Fang",
+          "Ke Cheng",
+          "Jixin Zhang",
+          "Zheng Qin",
+          "Mingwu Zhang"
+        ]
+      },
+      {
+        "title": "FCAL: An Asynchronous Federated Contrastive Semi-supervised Learning Approach for Network Traffic Classification.",
+        "authors": [
+          "Yu Yan",
+          "Qingjun Yuan",
+          "Weina Niu",
+          "Xiangyu Wang",
+          "Yanbei Zhu",
+          "Yongjuan Wang"
+        ]
+      },
+      {
+        "title": "TetheGAN: A GAN-Based Synthetic Mobile Tethering Traffic Generating Framework.",
+        "authors": [
+          "Xuman Zhang",
+          "Guang Cheng",
+          "Li Deng"
+        ]
+      },
+      {
+        "title": "SPTC: Signature-Based Cross-Protocol Encrypted Proxy Traffic Classification Approach.",
+        "authors": [
+          "Huajie Jia",
+          "Yige Chen",
+          "Zhengzhou Tang"
+        ]
+      },
+      {
+        "title": "Multi-modal Datagram Representation with Spatial-Temporal State Space Models and Inter-flow Contrastive Learning for Encrypted Traffic Classification.",
+        "authors": [
+          "Xianwen Deng",
+          "Ruijie Zhao",
+          "Mingwei Zhan",
+          "Shaoqian Wu",
+          "Yijun Wang",
+          "Zhi Xue"
+        ]
+      },
+      {
+        "title": "FlowGraphNet: Efficient Malicious Traffic Detection via Graph Construction.",
+        "authors": [
+          "Changsong Yang",
+          "Han Wang",
+          "Yueling Liu",
+          "Yong Ding",
+          "Hai Liang",
+          "Zhenyu Li"
+        ]
+      },
+      {
+        "title": "CascadeGen: A Hybrid GAN-Diffusion Framework for Controllable and Protocol-Compliant Synthetic Network Traffic Generation.",
+        "authors": [
+          "Qingyuan Yu",
+          "Chuping Yan",
+          "Xiaoying Liu"
+        ]
+      },
+      {
+        "title": "Towards High-Capacity Provably Secure Steganography via Cascade Sampling.",
+        "authors": [
+          "Meiyang Lv",
+          "Haocheng Fu",
+          "Xiaowei Yi",
+          "Hongxian Huang",
+          "Yun Cao",
+          "Changjun Liu"
+        ]
+      },
+      {
+        "title": "When There Is No Decoder: Removing Watermarks from Stable Diffusion Models in a No-Box Setting.",
+        "authors": [
+          "Xiaodong Wu",
+          "Tianyi Tang",
+          "Xiangman Li",
+          "Jianbing Ni",
+          "Yong Yu"
+        ]
+      },
+      {
+        "title": "Robust Reversible Watermarking for 3D Models Based on Auto Diffusion Function.",
+        "authors": [
+          "Zixing Lin",
+          "Yaolong Song",
+          "Li Rui"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icics/icics2025-2.html": {
+    "header": "27th ICICS 2025: Nanjing, China - Part II",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "EquinoxBFT: BFT Consensus for Blockchain Emergency Governance.",
+        "authors": [
+          "Jialiang Fan",
+          "Qianhong Wu",
+          "Minghang Li",
+          "Decun Luo",
+          "Qin Wang",
+          "Bo Qin"
+        ]
+      },
+      {
+        "title": "fFuzz: A State-Aware Function-Level Fuzzing Framework for Smart Contract Vulnerabilities Detection.",
+        "authors": [
+          "Chang Li",
+          "Binqin Lu",
+          "Wenyang Zhang",
+          "Kaixuan Yang",
+          "Huijuan Zhu"
+        ]
+      },
+      {
+        "title": "TraceBFT: Backtracking-Based Pipelined Asynchronous BFT Consensus for High-Throughput Distributed Systems.",
+        "authors": [
+          "Chaofeng Zhuang",
+          "Junqing Gong",
+          "Zhili Chen",
+          "Haifeng Qian"
+        ]
+      },
+      {
+        "title": "RADIAL: Robust Adversarial Discrepancy-Aware Framework for Early Detection of Illicit Cryptocurrency Accounts.",
+        "authors": [
+          "Kombou Victor",
+          "Qi Xia",
+          "Jianbin Gao",
+          "Hu Xia",
+          "Kuiche Sop Brinda Leaticia",
+          "Anto Leoba Jonathan"
+        ]
+      },
+      {
+        "title": "Enhancing Private Signing Key Protection in Digital Currency Transactions Using Obfuscation.",
+        "authors": [
+          "Yang Shi",
+          "Jintao Xie",
+          "Minyu Teng",
+          "Guanxu Liu",
+          "Linhai Guo",
+          "Jiangfeng Li"
+        ]
+      },
+      {
+        "title": "AnsBridge: Towards Secure Cross-Chain Interoperability via Anonymous and Verifiable Validators.",
+        "authors": [
+          "Mingming Huang",
+          "Xiaodan Zhang",
+          "Wei Mi",
+          "Huimei Liao",
+          "Yi Sun"
+        ]
+      },
+      {
+        "title": "TrustBlink: A zkSNARK-Powered On-Demand Relay for PoW Cross-Chain Verification With Low Costs.",
+        "authors": [
+          "Bohang Wei",
+          "Yang Yang",
+          "Shihong Xiong",
+          "Minghang Li",
+          "Qianhong Wu",
+          "Bo Qin"
+        ]
+      },
+      {
+        "title": "R1-MFSol: a Smart Contract Vulnerability Detection Model Based on LLM and Multi-modal Feature Fusion.",
+        "authors": [
+          "Huibo Yang",
+          "Zhize Hao",
+          "Tao Liu"
+        ]
+      },
+      {
+        "title": "No Place to Hide: An Efficient and Accurate Backdoor Detection Tool for Ethereum ERC-20 Smart Contracts.",
+        "authors": [
+          "Shouchen Zhou",
+          "Lu Zhou",
+          "Yu Tao"
+        ]
+      },
+      {
+        "title": "Batch-Oriented Element-Wise Approximate Activation for Privacy-Preserving Neural Networks.",
+        "authors": [
+          "Peng Zhang",
+          "Ao Duan",
+          "Xianglu Zou",
+          "Dongyan Qiu"
+        ]
+      },
+      {
+        "title": "Social-Aware and Quality-Driven Incentives for Mobile Crowd-Sensing with Two-Stage Game.",
+        "authors": [
+          "Jun Tao",
+          "Hao Zou"
+        ]
+      },
+      {
+        "title": "A Distributed Privacy Protection Method for Crowd Sensing Based on Trust Evaluation.",
+        "authors": [
+          "Hai Liu",
+          "Maoze Tian",
+          "Yadong Peng",
+          "Hongye Peng"
+        ]
+      },
+      {
+        "title": "DBG-LB: A Trustworthy and Efficient Framework for Data Sharing in the Internet of Vehicles.",
+        "authors": [
+          "Chaoyue Li",
+          "Yongming Zhang",
+          "Xiaolong Xu"
+        ]
+      },
+      {
+        "title": "Actions Speak Louder Than Words: Evidence-Based Trust Level Evaluation in Multi-agent Systems.",
+        "authors": [
+          "Nikolaos Fotos",
+          "Koffi Ismael Ouattara",
+          "Dimitrios S. Karas",
+          "Ioannis Krontiris",
+          "Weizhi Meng",
+          "Thanassis Giannetsos"
+        ]
+      },
+      {
+        "title": "Bridging the Interoperability Gaps Among Trusted Architectures in MCUs.",
+        "authors": [
+          "Sandro Pinto",
+          "Luís Cunha",
+          "Daniel Oliveira",
+          "Michele Grisafi",
+          "Emanuele Beozzo",
+          "Bruno Crispo"
+        ]
+      },
+      {
+        "title": "A Dropout-Resilient and Privacy-Preserving Framework for Federated Learning via Lightweight Masking.",
+        "authors": [
+          "Yufeng Jiang",
+          "Jianghua Liu",
+          "Chenhao Xu",
+          "Cong Zuo",
+          "Lei Xu",
+          "Jian Lei"
+        ]
+      },
+      {
+        "title": "AFedGAN: Adaptive Federated Learning with Generative Adversarial Networks for Non-IID Data.",
+        "authors": [
+          "Xuyang Zhang",
+          "Hua Jin",
+          "Peiyuan Guo"
+        ]
+      },
+      {
+        "title": "OTTER: Optimized Training with Trustworthy Enhanced Replication via Diffusion and Federated VMUNet for Privacy-Aware Medical Segmentation.",
+        "authors": [
+          "Haocheng Kan",
+          "Yuesheng Zhu",
+          "Guibo Luo",
+          "Hanwen Zhang"
+        ]
+      },
+      {
+        "title": "EAGLE: Ensemble Adaptive Graph Learning for Enhanced Ethereum Fraud Detection.",
+        "authors": [
+          "Befoum Stephane Richard",
+          "Jianbin Gao",
+          "Qi Xia",
+          "Kombou Victor",
+          "Eyezo'o Benjamin Fabien",
+          "Mulenga Mukupa Rossini"
+        ]
+      },
+      {
+        "title": "BR-CPPFL: A Blockchain-Based Robust Clustered Privacy-Preserving Federated Learning System.",
+        "authors": [
+          "Yuantong Li",
+          "Xiaofen Wang",
+          "Ke Zhang",
+          "Bo Zhang",
+          "Lei Zheng",
+          "Xiaosong Ding",
+          "Qing Xu"
+        ]
+      },
+      {
+        "title": "Efficient Semi-asynchronous Federated Learning with Guided Selective Participation and Adaptive Aggregation.",
+        "authors": [
+          "Chaoyun Wang",
+          "Kedong Yan",
+          "Chanying Huang"
+        ]
+      },
+      {
+        "title": "Improving Byzantine-Resilience in Federated Learning via Diverse Aggregation and Adaptive Variance Reduction.",
+        "authors": [
+          "Xiuhua Wang",
+          "Shikang Li",
+          "Fengrui Fan",
+          "Shuai Wang",
+          "Yiwei Li",
+          "Yu Zheng"
+        ]
+      },
+      {
+        "title": "Hierarchical Recovery of Convolutional Neural Networks via Self-embedding Watermarking.",
+        "authors": [
+          "Yawen Huang",
+          "Huaicong Zhang"
+        ]
+      },
+      {
+        "title": "Personalized Federated Learning Algorithm Based on User Grouping and Group Signatures.",
+        "authors": [
+          "Hao Lin",
+          "Xiaoming Hu",
+          "Shuangjie Bai",
+          "Yan Liu"
+        ]
+      },
+      {
+        "title": "SPCD: A Shot-Based Partial Copy Detection Method.",
+        "authors": [
+          "Yuhan Tao",
+          "Danwei Chen"
+        ]
+      },
+      {
+        "title": "Bayesian-Adaptive Graph Neural Network for Anomaly Detection (BAGNN).",
+        "authors": [
+          "Yong Ding",
+          "Chi Zhang",
+          "Shijie Tang",
+          "Changsong Yang",
+          "Hai Liang"
+        ]
+      },
+      {
+        "title": "UzPhishNet Model for Phishing Detection.",
+        "authors": [
+          "Bektemir Saydiev",
+          "Xiaohui Cui",
+          "Umer Zukaib"
+        ]
+      },
+      {
+        "title": "CyberNER-LLM: Cyber Threat Intelligence Named Entity Recognition With Large Language Model.",
+        "authors": [
+          "Xinzheng Liu",
+          "Wangqun Lin",
+          "Zhaoyun Ding"
+        ]
+      },
+      {
+        "title": "Provenance-Based Intrusion Detection via Multi-scale Graph Representation Learning.",
+        "authors": [
+          "Xuebo Qiu",
+          "Mingqi Lv",
+          "Tieming Chen",
+          "Tiantian Zhu",
+          "Qijie Song"
+        ]
+      },
+      {
+        "title": "SADGA: A Self Attention GAN-Based Adversarial DGA with High Anti-detection Ability.",
+        "authors": [
+          "Jiang Luo",
+          "ShaoHua Qin",
+          "Zhe Wang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icics/icics2025-1.html": {
+    "header": "27th ICICS 2025: Nanjing, China - Part I",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Multi-signer Locally Verifiable Aggregate Signature from (Leveled) Multilinear Maps.",
+        "authors": [
+          "Yuchen Yang",
+          "Jie Chen",
+          "Qiaohan Chu",
+          "Qiuyan Du",
+          "Luping Wang"
+        ]
+      },
+      {
+        "title": "Conditional Attribute-Based Encryption with Keyword Search for Pay-Per-Query Commercial Model.",
+        "authors": [
+          "Zerui Guo",
+          "Sha Ma",
+          "Qiong Huang"
+        ]
+      },
+      {
+        "title": "Lightweight Transparent Zero-Knowledge Proofs for Cross-Domain Statements.",
+        "authors": [
+          "Zhengzhou Tu",
+          "Min Xie",
+          "Junbin Fang",
+          "Yong Yu",
+          "Zoe L. Jiang"
+        ]
+      },
+      {
+        "title": "Public Verifiable Server-Aided Revocable Attribute-Based Encryption.",
+        "authors": [
+          "Luqi Huang",
+          "Fuchun Guo",
+          "Willy Susilo",
+          "Yumei Li"
+        ]
+      },
+      {
+        "title": "New First-Order Secure AES Implementation Without Online Fresh Randomness Records.",
+        "authors": [
+          "Botao Liu",
+          "Ming Tang"
+        ]
+      },
+      {
+        "title": "SM2-VBKE: Achieving Cryptographic Binding Between Verification Integrity and Key Generation.",
+        "authors": [
+          "Runze Zhao",
+          "Siqi Lu",
+          "Yongjuan Wang",
+          "Liujia Cai",
+          "Wenyi Chen",
+          "Fenghua Jiang"
+        ]
+      },
+      {
+        "title": "Certificate-Based Quasi-linearly Homomorphic Signatures: Definition, Construction, and Application to Data Integrity Auditing.",
+        "authors": [
+          "Jintao Cai",
+          "Futai Zhang",
+          "Wenjie Yang",
+          "Shao-Jun Yang",
+          "Yichi Huang",
+          "Rongmao Chen",
+          "Willy Susilo"
+        ]
+      },
+      {
+        "title": "Zero-Knowledge Protocols with PVC Security: Striking the Balance Between Security and Efficiency.",
+        "authors": [
+          "Yi Liu",
+          "Yipeng Song",
+          "Anjia Yang",
+          "Junzuo Lai"
+        ]
+      },
+      {
+        "title": "Attribute-Based Adaptor Signature and Application in Control-Based Atomic Swap.",
+        "authors": [
+          "Tianyuan Fan",
+          "Gang Shen",
+          "Yuzhu Wang",
+          "Yuntao Wang",
+          "Mingwu Zhang"
+        ]
+      },
+      {
+        "title": "A Versatile Decentralized Attribute Based Signature Scheme for IoT.",
+        "authors": [
+          "Dazhi Xu",
+          "Yuejun Liu",
+          "Jiabei Wang",
+          "Yiwen Gao",
+          "Yongbin Zhou"
+        ]
+      },
+      {
+        "title": "Cross-Domain Lattice-Based DAA Scheme with Shared Private-Key for Internet of Things System.",
+        "authors": [
+          "Minzhi Liang",
+          "Liquan Chen",
+          "Yinghua Jiang",
+          "Xuyan Min",
+          "Jin Qian",
+          "Jun Luo"
+        ]
+      },
+      {
+        "title": "Compact Adaptively Secure Identity-Based Encryption from Middle-Product Learning with Errors.",
+        "authors": [
+          "Jingjing Fan",
+          "Xingye Lu",
+          "Man Ho Au",
+          "Siu Ming Yiu"
+        ]
+      },
+      {
+        "title": "MDKG: Module-Lattice-Based Distributed Key Generation.",
+        "authors": [
+          "Ye Bai",
+          "Debiao He",
+          "Zhichao Yang",
+          "Min Luo",
+          "Cong Peng"
+        ]
+      },
+      {
+        "title": "Turtle Wins Rabbit Again: Faster Modulus Reduction for RNS-CKKS.",
+        "authors": [
+          "Lianglin Yan",
+          "Pengfei Zeng",
+          "Mingsheng Wang"
+        ]
+      },
+      {
+        "title": "A BGV-Subroutined CKKS Bootstrapping Algorithm Without Sine Approximation.",
+        "authors": [
+          "Jingjing Fan",
+          "Chi Zhang",
+          "Zejiu Tan",
+          "Zoe Lin Jiang",
+          "Man Ho Au",
+          "Siu Ming Yiu"
+        ]
+      },
+      {
+        "title": "PolarKyber: Polished Kyber with Smaller Ciphertexts, Greater Security Redundancy, and Lower Decryption Failure Rate.",
+        "authors": [
+          "Chen An",
+          "Ziyao Liu",
+          "Xianhui Lu",
+          "Jingnan He"
+        ]
+      },
+      {
+        "title": "Lion: A New Ring Signature Construction from Lattice Gadget.",
+        "authors": [
+          "Yanting Li",
+          "Pingbin Luo",
+          "Xinjian Chen",
+          "Qiong Huang"
+        ]
+      },
+      {
+        "title": "MagWatch: Exposing Privacy Risks in Smartwatches Through Electromagnetic Signals.",
+        "authors": [
+          "Haowen Xu",
+          "Tianya Zhao",
+          "Xuyu Wang",
+          "Jun Dai",
+          "Xiaoyan Sun"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving, Secure and Certificate-Based Integrity Auditing for Cloud Storage.",
+        "authors": [
+          "Wenhao Wang",
+          "Yu Li",
+          "Yinxia Sun",
+          "Yuan Zhang",
+          "Sheng Zhong"
+        ]
+      },
+      {
+        "title": "Unbalanced Private Computation on Set Intersection with Reduced Computation and Communication.",
+        "authors": [
+          "Zelin Tang",
+          "Hua Guo",
+          "Yewei Guan",
+          "Kaijie Yang"
+        ]
+      },
+      {
+        "title": "Artemis: Decentralized, Secure, and Efficient Safety Monitoring with Dynamic Trajectories.",
+        "authors": [
+          "Meng Li",
+          "Zhuangwei Li",
+          "Yifei Chen",
+          "Yan Qiao",
+          "Mauro Conti"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Framework for k-Modes Clustering Based on Personalized Local Differential Privacy.",
+        "authors": [
+          "Yuling Luo",
+          "Zhangrui Wang",
+          "Xue Ouyang",
+          "Siyuan Zu",
+          "Qiang Fu",
+          "Sheng Qin",
+          "Junxiu Liu"
+        ]
+      },
+      {
+        "title": "AnoST: An Anonymous Optimistic Verification System Based on Off-Chain State Transition.",
+        "authors": [
+          "Qiyuan Gao",
+          "Qianhong Wu",
+          "Junxiang Nong",
+          "Qi Liu"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving K-Hop Shortest Path Query on Encrypted Graphs Based on Graph Pruning.",
+        "authors": [
+          "Ya Gao",
+          "Chao Mu",
+          "Ming Yang",
+          "Xiaoming Wu"
+        ]
+      },
+      {
+        "title": "TA-PDC: Provable Data Contribution with Traceable Anonymous for Group Transactions.",
+        "authors": [
+          "Xiaocong Lin",
+          "Weijing You",
+          "Chenchen Wu",
+          "Wenmao Liu",
+          "Qi Gu"
+        ]
+      },
+      {
+        "title": "Fine-Filter: An Effective Defense Against Poisoning Attacks on Frequency Estimation Under LDP.",
+        "authors": [
+          "Yuxia Zhou",
+          "Qiao Xue",
+          "Youwen Zhu"
+        ]
+      },
+      {
+        "title": "BioVite: Efficient and Compact Privacy-Preserving Biometric Verification via Fully Homomorphic Encryption.",
+        "authors": [
+          "Pengfei Zeng",
+          "Han Xia",
+          "Mingsheng Wang"
+        ]
+      },
+      {
+        "title": "Circulation Control Model and Administration for Geospatial Data.",
+        "authors": [
+          "Heng Li",
+          "Fenghua Li",
+          "Yunchuan Guo",
+          "Lingcui Zhang",
+          "Xiao Wang",
+          "Ziyan Zhou"
+        ]
+      },
+      {
+        "title": "Identifying Unusual Personal Data in Mobile Apps for Better Privacy Compliance Check.",
+        "authors": [
+          "Jiatao Cheng",
+          "Yuhong Nan",
+          "Xueqiang Wang",
+          "Zhefan Chen",
+          "Yuliang Zhang"
+        ]
+      },
+      {
+        "title": "Why Biting the Bait? Understanding Bait and Switch UI Dark Patterns in Mobile Apps.",
+        "authors": [
+          "Yixi Lin",
+          "Yue Xu",
+          "Zitong Yao",
+          "Yuhong Nan",
+          "Queping Kong",
+          "Xueqiang Wang"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/icics/icics2024-2.html": {
     "header": "26th ICICS 2024: Mytilene, Greece - Part II",
     "year": "2024",

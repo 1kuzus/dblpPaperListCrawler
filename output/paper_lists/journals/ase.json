@@ -1,4 +1,249 @@
 {
+  "https://dblp.org/db/journals/ase/ase33.html": {
+    "header": "Automated Software Engineering, Volume 33",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "Enhancing the ability of LLMs for spaceborne equipment code generation via retrieval-augmented generation and contrastive learning.",
+        "authors": [
+          "Rui He",
+          "Liang Zhang",
+          "Liangqing Lyu",
+          "Changbin Xue"
+        ]
+      },
+      {
+        "title": "Enhanced neighborhood metric for spreadsheet fault prediction.",
+        "authors": [
+          "Haitao Sun",
+          "Ying Wang",
+          "Hai Yu",
+          "Zhiliang Zhu"
+        ]
+      },
+      {
+        "title": "GPTVD: vulnerability detection and analysis method based on LLM's chain of thoughts.",
+        "authors": [
+          "Yinan Chen",
+          "Yuan Huang",
+          "Xiangping Chen",
+          "Pengfei Shen",
+          "Lei Yun"
+        ]
+      },
+      {
+        "title": "Automatic Code Generation Techniques: A Systematic Literature Review.",
+        "authors": [
+          "Maha Alharbi",
+          "Mohammad R. Alshayeb"
+        ]
+      },
+      {
+        "title": "HMF: Enhancing reentrancy vulnerability detection and repair with a hybrid model framework.",
+        "authors": [
+          "Mengliang Li",
+          "Qiang Shen",
+          "Xiaoxue Ren",
+          "Han Fu",
+          "Zhuo Li",
+          "Jianling Sun"
+        ]
+      },
+      {
+        "title": "Intelligent test case generation method for fuzzing IoT protocols based on LLM.",
+        "authors": [
+          "Ming Zhong",
+          "Zisheng Zeng",
+          "Yijia Guo",
+          "Dandan Zhao",
+          "Bo Zhang",
+          "Shenghong Li",
+          "Hao Peng",
+          "Zhiguo Ding"
+        ]
+      },
+      {
+        "title": "Harnessing large language models for virtual reality exploration testing: a case study.",
+        "authors": [
+          "Zhenyu Qi",
+          "Haotang Li",
+          "Hao Qin",
+          "Kebin Peng",
+          "Sen He",
+          "Xue Qin"
+        ]
+      },
+      {
+        "title": "Causes and effects of fitness landscapes in system test generation: a replication study.",
+        "authors": [
+          "Omur Sahin",
+          "Man Zhang",
+          "Andrea Arcuri"
+        ]
+      },
+      {
+        "title": "Investigating the bugs in reinforcement learning programs: Insights from Stack Overflow and GitHub.",
+        "authors": [
+          "Jiayin Song",
+          "Yike Li",
+          "Yunzhe Tian",
+          "Haoxuan Ma",
+          "Honglei Li",
+          "Jie Zuo",
+          "Jiqiang Liu",
+          "Wenjia Niu"
+        ]
+      },
+      {
+        "title": "BRMDS: an LLM-based multi-dimensional summary generation approach for bug reports.",
+        "authors": [
+          "Yayun Zhang",
+          "Yuying Li",
+          "Minying Fang",
+          "Xing Yuan",
+          "Junwei Du"
+        ]
+      },
+      {
+        "title": "PIONEER: improving the robustness of student models when compressing pre-trained models of code.",
+        "authors": [
+          "Xiangyue Liu",
+          "Xinwei Liu",
+          "Lili Bo",
+          "Xiaoxue Wu",
+          "Yun Yang",
+          "Xiaobing Sun",
+          "Feng Zhou"
+        ]
+      },
+      {
+        "title": "Improving anomaly detection in software logs through hybrid language modeling and reduced reliance on parser.",
+        "authors": [
+          "Yicheng Sun",
+          "Jacky Keung",
+          "Zhen Yang",
+          "Shuo Liu",
+          "Hi Kuen Yu"
+        ]
+      },
+      {
+        "title": "Graph based transfer learning with orthogonal tunning for functionality size insights.",
+        "authors": [
+          "Nevena Rankovic",
+          "Dragica Rankovic",
+          "Gonzalo Nápoles",
+          "Federico Zamberlan"
+        ]
+      },
+      {
+        "title": "Toward efficient testing of graph neural networks via test input prioritization.",
+        "authors": [
+          "Lichen Yang",
+          "Qiang Wang",
+          "Zhonghao Yang",
+          "Daojing He",
+          "Yu Li"
+        ]
+      },
+      {
+        "title": "A sign language to SQL query translation system for enhancing database accessibility.",
+        "authors": [
+          "Guocang Yang",
+          "Dawei Yuan",
+          "Tao Zhang",
+          "Zhenghan Chen"
+        ]
+      },
+      {
+        "title": "Decomposition then watermarking: Enhancing code traceability with dual-channel code watermarking.",
+        "authors": [
+          "Haibo Lin",
+          "Zhong Li",
+          "Ruihua Ji",
+          "Minxue Pan",
+          "Tian Zhang",
+          "Nan Wu",
+          "Xuandong Li"
+        ]
+      },
+      {
+        "title": "Graph neural networks for precise bug localization through structural program analysis.",
+        "authors": [
+          "Leila Yousofvand",
+          "Seyfollah Soleimani",
+          "Vahid Rafe",
+          "Amin Nikanjam"
+        ]
+      },
+      {
+        "title": "On the role of search budgets in model-based software refactoring optimization.",
+        "authors": [
+          "J. Andres Diaz-Pace",
+          "Daniele Di Pompeo",
+          "Michele Tucci"
+        ]
+      },
+      {
+        "title": "Automating software size measurement from python code using language models.",
+        "authors": [
+          "Samet Tenekeci",
+          "Hüseyin Ünlü",
+          "Bedir Arda Gül",
+          "Damla Keles",
+          "Murat Küük",
+          "Onur Demirörs"
+        ]
+      },
+      {
+        "title": "Towards integrated dashboards for better management of human-centric issues in software development.",
+        "authors": [
+          "Liam Todd",
+          "Kashumi Madampe",
+          "Hourieh Khalajzadeh",
+          "Mojtaba Shahin",
+          "John Grundy"
+        ]
+      },
+      {
+        "title": "A systematic exploration of C-to-rust code translation based on large language models: prompt strategies and automated repair.",
+        "authors": [
+          "Ruxin Zhang",
+          "Shanxin Zhang",
+          "Linbo Xie"
+        ]
+      },
+      {
+        "title": "JDExtractor: an automated approach for efficient extraction of defect-related methods in Java projects.",
+        "authors": [
+          "Tianyang Liu",
+          "Jiawei Ye",
+          "Weixing Ji"
+        ]
+      },
+      {
+        "title": "Augmenting software quality assurance with AI and automation using PyTest-BDD.",
+        "authors": [
+          "Xiaofei Zhao",
+          "Hua Wang",
+          "Jieqiong Ding",
+          "Zhiming Hu",
+          "Qingqing Tian",
+          "Ying Wang"
+        ]
+      },
+      {
+        "title": "ByteEye: A smart contract vulnerability detection framework at bytecode level with graph neural networks.",
+        "authors": [
+          "Jinni Yang",
+          "Shuang Liu",
+          "Surong Dai",
+          "Yaozheng Fang",
+          "Kunpeng Xie",
+          "Ye Lu"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/ase/ase32.html": {
     "header": "Automated Software Engineering, Volume 32",
     "year": "2025",

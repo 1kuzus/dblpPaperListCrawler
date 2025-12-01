@@ -1,4 +1,552 @@
 {
+  "https://dblp.org/db/conf/seke/seke2025.html": {
+    "header": "37th SEKE 2025:\nKSIR Virtual Conference Center, USA",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "AI Literacy Development for Software Engineering Education: Mapping AI from the SWEBOK to the SAIL Framework.",
+        "authors": [
+          "David Parsons"
+        ]
+      },
+      {
+        "title": "Large Language Models in the Travel Domain: An Industrial Experience.",
+        "authors": [
+          "Sergio Di Meglio",
+          "Aniello Somma",
+          "Luigi Libero Lucio Starace",
+          "Fabio Scippacercola",
+          "Giancarlo Sperlì",
+          "Sergio Di Martino"
+        ]
+      },
+      {
+        "title": "GitHub Issue Mining to enhance Developer Profiling: A pipeline based on NLP tasks (S).",
+        "authors": [
+          "Loredana Caruccio",
+          "Grazia Margarella",
+          "Giuseppe Polese"
+        ]
+      },
+      {
+        "title": "AePPollo: Automated Exploit Generation for Prototype Pollution Vulnerabilities in Node.js Application.",
+        "authors": [
+          "Wenya Wang",
+          "Wang Gao",
+          "Zhenghe Wang",
+          "Sicong Cao",
+          "Xingwei Lin",
+          "Dawu Gu"
+        ]
+      },
+      {
+        "title": "A Framework for Explanations in Weighted Networks: The Community Detection Case.",
+        "authors": [
+          "Christos Konstantopoulos",
+          "Kostas Tsichlas"
+        ]
+      },
+      {
+        "title": "How to enhance requirements-to-code traceability? From the perspective of project artifacts.",
+        "authors": [
+          "Huan Jin",
+          "Yingkai Yuan",
+          "Peng Ye",
+          "Hongyan Wan",
+          "Zhiyuan Zou",
+          "Bangchao Wang"
+        ]
+      },
+      {
+        "title": "Project Pulse: Enhancing Peer Evaluation and Team Accountability in Senior Design Projects.",
+        "authors": [
+          "Bingyang Wei",
+          "Robin Chataut",
+          "Lin Deng"
+        ]
+      },
+      {
+        "title": "Beyond Architectures: Evaluating the Role of Contextual Embeddings in Detecting Bipolar Disorder on Social Media.",
+        "authors": [
+          "Khalid Hasan",
+          "Jamil Saquer"
+        ]
+      },
+      {
+        "title": "Substructure Mining Based on Fact Reflection.",
+        "authors": [
+          "Xinzhi Wang",
+          "Zhennan Li",
+          "Yiming Zhang",
+          "Jiayan Qian",
+          "Yinghua Ma"
+        ]
+      },
+      {
+        "title": "StepRAG: Step-by-Step Evidence Retrieval and Aggregation for Complex QA.",
+        "authors": [
+          "Niannian Zhao",
+          "Xiao Wei"
+        ]
+      },
+      {
+        "title": "Patent Concept Standardization Prediction Model.",
+        "authors": [
+          "Minglong Zhang",
+          "Weidong Liu",
+          "Kai Wang"
+        ]
+      },
+      {
+        "title": "MDC-GCN: Multi-Directional Contextual Graph Convolution Network for Aspect Sentiment Triplet Extraction.",
+        "authors": [
+          "Yicun Liu",
+          "Xinyu Zheng",
+          "Xianguo Zhang"
+        ]
+      },
+      {
+        "title": "Detecting Machine-Generated Text in the Wild via a Hybrid Semantic-Statistical Model.",
+        "authors": [
+          "Pengfei Liang",
+          "Lirong Chen",
+          "Dongsong Zhang"
+        ]
+      },
+      {
+        "title": "ABSTRE: A Multi-Feature Fusion Approach for Mobile App Review Classification.",
+        "authors": [
+          "Tianqi Fu",
+          "Lirong Chen",
+          "Qiang Li",
+          "Yao Wang"
+        ]
+      },
+      {
+        "title": "An efficient heuristic algorithm to compute minimal and stable weighted feedback arc sets (S).",
+        "authors": [
+          "Claudia Cavallaro",
+          "Vincenzo Cutello"
+        ]
+      },
+      {
+        "title": "Individual Fairness in K-means Clustering: A Density-Aware Similarity Approach (S).",
+        "authors": [
+          "Tao Wu",
+          "Yi Yang",
+          "Chunming Yang"
+        ]
+      },
+      {
+        "title": "From Structure to Suspicion: Cross-Network Detection of Fraudulent Behavior in Real-World Signed Graphs (S).",
+        "authors": [
+          "Claudia Cavallaro"
+        ]
+      },
+      {
+        "title": "Sustainable Memory Footprint in Federated AI of SensorThings (S).",
+        "authors": [
+          "Dionysis Athanasopoulos"
+        ]
+      },
+      {
+        "title": "Enhancing Automated Test Efficiency: A Hybrid Machine Learning Approach for Test Suite Reduction in Gray-Box Web Application Testing (S).",
+        "authors": [
+          "Elsa Paulson",
+          "Renée C. Bryce"
+        ]
+      },
+      {
+        "title": "A Survey on Visual GUI Testing for Automatic Test Case Generation: Tools, AI Techniques, and Emerging Trends (S).",
+        "authors": [
+          "Asrar Qassem",
+          "Renée C. Bryce",
+          "Khalid Alkhaldi"
+        ]
+      },
+      {
+        "title": "Bridging Static and Dynamic Analysis using IBCs (S).",
+        "authors": [
+          "Imran Pinjari",
+          "Vaishnavi Kattula",
+          "Michael Shin"
+        ]
+      },
+      {
+        "title": "SGTest: A Semantics-Guided Framework for LLM-Driven Unit Test Generation.",
+        "authors": [
+          "Chendong Lin",
+          "Leyi Cheng",
+          "Jiayi Wu",
+          "Xiaofang Zhang"
+        ]
+      },
+      {
+        "title": "Beyond Test Cases: Multi-Agent Collaboration for Detecting Errors in Full-Score Code Implementations.",
+        "authors": [
+          "Yiwei Li",
+          "Jiaxin Liu",
+          "Yanfeng Hu",
+          "Chen Liu",
+          "Yating Zhang",
+          "Liangze Yin",
+          "Wei Dong"
+        ]
+      },
+      {
+        "title": "Automated Statistical Testing and Certification of a Reliable Model-Coupling Server for Scientific Computing.",
+        "authors": [
+          "Seth Wolfgang",
+          "Lan Lin",
+          "Fengguang Song"
+        ]
+      },
+      {
+        "title": "Improving Local Search for Maximum Satisfiability by the Feasible Solution Constraint (S).",
+        "authors": [
+          "Xunhao Wang",
+          "Wen Bai"
+        ]
+      },
+      {
+        "title": "Formal Specification and Model Checking of the BB84 Protocol in Maude (S).",
+        "authors": [
+          "Canh Minh Do",
+          "Kazuhiro Ogata"
+        ]
+      },
+      {
+        "title": "Formal Modeling and Verification of AMQP Protocol Using Multiparty Session Types (S).",
+        "authors": [
+          "Huiying Liu",
+          "Huibiao Zhu",
+          "Sini Chen"
+        ]
+      },
+      {
+        "title": "Formalization and Verification of XMPP Communication Mechanism Using CSP (S).",
+        "authors": [
+          "Di Wu",
+          "Wenting Dong",
+          "Huibiao Zhu"
+        ]
+      },
+      {
+        "title": "Formal Specification and Analysis of Post-quantum OpenPGP Protocol in CafeOBJ.",
+        "authors": [
+          "Trong Binh Hoang",
+          "Duong Dinh Tran",
+          "Canh Minh Do",
+          "Kazuhiro Ogata"
+        ]
+      },
+      {
+        "title": "Verifying the Communication and Security Mechanisms of WAMP.",
+        "authors": [
+          "Han Bao",
+          "Chenhui Wang",
+          "Huibiao Zhu"
+        ]
+      },
+      {
+        "title": "DualATLog: Dual-mode Anomaly Transformer-based Log Anomaly Detection Framework for Securing Software Systems (S).",
+        "authors": [
+          "Qinxuan Shi",
+          "Zhanglong Yang",
+          "Sicong Shao"
+        ]
+      },
+      {
+        "title": "GUARD: Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation.",
+        "authors": [
+          "Naizhu Jin",
+          "Zhong Li",
+          "Tian Zhang",
+          "Qingkai Zeng"
+        ]
+      },
+      {
+        "title": "Detecting Pure Functions in JavaScript Using Machine Learning.",
+        "authors": [
+          "Yike Liu",
+          "Jinfeng Liu"
+        ]
+      },
+      {
+        "title": "Predicting Defective Code Clones in Autonomous Driving Software.",
+        "authors": [
+          "Chenyi Zhou",
+          "Ran Mo",
+          "Weijun Hu"
+        ]
+      },
+      {
+        "title": "Energy-efficient Anomaly Detection for Securing Water Treatment and Distribution Systems.",
+        "authors": [
+          "Zhanglong Yang",
+          "Qinxuan Shi",
+          "Sicong Shao"
+        ]
+      },
+      {
+        "title": "Decoding Serverless Security: Exploring Developer Challenges and Solutions from Stack Overflow.",
+        "authors": [
+          "Changrong Xie",
+          "Yang Zhang",
+          "Xinjun Mao",
+          "Huiping Zhou"
+        ]
+      },
+      {
+        "title": "LLM-based Adaptive Requirements Elicitation for Innovative Systems (S).",
+        "authors": [
+          "Hiroyuki Nakagawa",
+          "Shinichi Honiden"
+        ]
+      },
+      {
+        "title": "LLM-Augmented KBQA: Robust Reasoning over Error-Prone Programs (S).",
+        "authors": [
+          "Tong Li",
+          "Xinyu Hu",
+          "Gang Xiao"
+        ]
+      },
+      {
+        "title": "Generating Synthetic Nonfunctional Requirements using Large Language Models for Training Machine Learning Classifiers (S).",
+        "authors": [
+          "To Kim Bao Pham",
+          "Ahmad AlShomar",
+          "Sam Supakkul",
+          "Tom Hill",
+          "Lawrence Chung"
+        ]
+      },
+      {
+        "title": "ConflictLens: an LLM-Based Method for Detecting Semantic Merge Conflicts.",
+        "authors": [
+          "Longfei Sun",
+          "Yao Lu",
+          "Xinjun Mao",
+          "Tanghaoran Zhang",
+          "Zhang Zhang",
+          "Huiping Zhou"
+        ]
+      },
+      {
+        "title": "EXE-Reviewer: Towards EXplainable and Effective Review Comments Generation.",
+        "authors": [
+          "Yifei Liu",
+          "Junyi Lu",
+          "Li Yang",
+          "Yang Wang",
+          "Zheng Zhang",
+          "Xiaoxiao Ma",
+          "Jiajia Ma",
+          "Fengjun Zhang",
+          "Chun Zuo"
+        ]
+      },
+      {
+        "title": "GraphFusion: A Hybrid Semantic-Symbolic Retrieval Approach to NL2Cypher Translation for Domain-Specific KGQA using LLM.",
+        "authors": [
+          "Aneesa Bashir",
+          "Rong Peng"
+        ]
+      },
+      {
+        "title": "Towards the Impact of Code Readability on Vulnerability Detection: An Empirical Stud.",
+        "authors": [
+          "Leyi Cheng",
+          "Jiayi Wu",
+          "Hao Zhu",
+          "Xiaofang Zhang"
+        ]
+      },
+      {
+        "title": "A Privacy Preserving Cross-Domain Label Propagation Algorithm.",
+        "authors": [
+          "Shuo He",
+          "Hongbao Liu",
+          "Tao Tang",
+          "Jiawei Jiang"
+        ]
+      },
+      {
+        "title": "Navigating the SIMD Optimization Maze: A Reinforcement Learning Approach to Library and Compiler Co-Optimization.",
+        "authors": [
+          "Haolin Pan",
+          "Yin Zhang",
+          "Mingjie Xing",
+          "Yanjun Wu"
+        ]
+      },
+      {
+        "title": "MLProf: A Multi-Level Runtime Performance Profiling Framework for MLIR Operations.",
+        "authors": [
+          "Yang Liu",
+          "Shihao Gao",
+          "Hanghang Cao",
+          "Hongbin Zhang",
+          "Mingjie Xing",
+          "Yanjun Wu"
+        ]
+      },
+      {
+        "title": "Kencode: A Novel Methodology for Voice-Based Programming.",
+        "authors": [
+          "Khalid Alkhaldi",
+          "Asrar A. Qassem",
+          "Stephanie Ludi"
+        ]
+      },
+      {
+        "title": "MuseCNN: Embedding-Guided Polyphonic Music Accompaniment Generation.",
+        "authors": [
+          "Yuyang Wang",
+          "Yutong Ye",
+          "Yingbo Zhou",
+          "Qi Wen",
+          "Xiang Lian",
+          "Xian Wei",
+          "Mingsong Chen"
+        ]
+      },
+      {
+        "title": "MFAE: Multi-Feature-Aware Expert Modeling for Web Service QoS Prediction (S).",
+        "authors": [
+          "Yunpeng Han",
+          "Yugen Du",
+          "Xia Chen",
+          "Yingwei Luo",
+          "Guoxing Tang",
+          "Benchi Ma",
+          "Jingjing Huang"
+        ]
+      },
+      {
+        "title": "Dynamic Uncertainty-Aware Fusion for Few-Shot Multimodal Learning (S).",
+        "authors": [
+          "Zhiqianru Xu",
+          "Cheng Zeng",
+          "Aoyu Wang",
+          "Chao Zeng"
+        ]
+      },
+      {
+        "title": "FedDMC: Dual-Model Dynamic Interaction with Multi-Stage Correction for Noisy Federated Learning.",
+        "authors": [
+          "Jiyun Li",
+          "Teng Li",
+          "Chen Qian",
+          "Jiabao Zhao"
+        ]
+      },
+      {
+        "title": "Diffusion Model-based Intent Contrastive Learning for Sequential Recommendation.",
+        "authors": [
+          "Zhongqin Bi",
+          "Meiyun Xiang",
+          "Weina Zhang"
+        ]
+      },
+      {
+        "title": "Contrastive Learning for Entity Matching with Similar Sample Pairs.",
+        "authors": [
+          "Hao Yang",
+          "Meijuan Yin"
+        ]
+      },
+      {
+        "title": "Parameter-Efficient Hate Speech Detection: A Comprehensive Evaluation of LoRA-Adapted LLMs Across 18 Architectures.",
+        "authors": [
+          "Mahmoud Abusaqer",
+          "Jamil Saquer"
+        ]
+      },
+      {
+        "title": "Evaluating Large Language Models for Extracting Usability Issues from User Bug Reports.",
+        "authors": [
+          "Turki Albalawi",
+          "Renée C. Bryce"
+        ]
+      },
+      {
+        "title": "When LLMs Meet Multi-Category Complex Classification: A Comparative Stud.",
+        "authors": [
+          "Haoying Jin",
+          "Song Yang"
+        ]
+      },
+      {
+        "title": "CLARA: AContext-Aware Drug Recommendation Framework Using Multi-Level Integration of Large Language Models and Graph Neural Networks.",
+        "authors": [
+          "Sarra Laaouar",
+          "Nacim Yanes"
+        ]
+      },
+      {
+        "title": "Multi-Level Software Requirements Classification: Assessing BERT Variants and their Hybrid Models.",
+        "authors": [
+          "Aryan K. C.",
+          "Unnati Shah"
+        ]
+      },
+      {
+        "title": "Learning Behavior Trees for Automated Guided Vehicles via Genetic and Reinforcement Methods.",
+        "authors": [
+          "Wenzheng Yang",
+          "Yongxin Zhao",
+          "Qiang Wang",
+          "Yongjian Li",
+          "Yudan Tian"
+        ]
+      },
+      {
+        "title": "Component Composition in MedTiny: Multi-Level Constructs and Operational Semantics.",
+        "authors": [
+          "Xiangyu Li",
+          "Yihao Zhang",
+          "Meng Sun"
+        ]
+      },
+      {
+        "title": "Insights from an Industry Survey on Software Design Errors.",
+        "authors": [
+          "Tushar Agrawal",
+          "Gursimran S. Walia",
+          "Vaibhav K. Anu"
+        ]
+      },
+      {
+        "title": "A Framework for Explanations in Weighted Networks: The Community Detection Case.",
+        "authors": [
+          "Christos Konstantopoulos",
+          "Kostas Tsichlas"
+        ]
+      },
+      {
+        "title": "Enhancing Knowledge Tracing with Inspiration of Psychological Learning Theories.",
+        "authors": [
+          "Liu Mao",
+          "Ning Li",
+          "Zechen Meng",
+          "Xia Xie",
+          "Mei Yu",
+          "Ruiguo Yu",
+          "Mankun Zhao"
+        ]
+      },
+      {
+        "title": "Stochastic Zélus: Stochastic Hybrid Modeling and Verification for Nuclear I&C System.",
+        "authors": [
+          "Jiang Xiong",
+          "Jing Liu",
+          "Mingxing Liu"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/seke/seke2024.html": {
     "header": "36th SEKE 2024:\nKSIR Virtual Conference Center, USA",
     "year": "2024",

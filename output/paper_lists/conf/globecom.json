@@ -1,4 +1,3608 @@
 {
+  "https://dblp.org/db/conf/globecom/globecom2024w.html": {
+    "header": "GLOBECOM 2024: Cape Town, South Africa - Workshops",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "CSI Acquisition in Cell-Free Massive MIMO Surveillance Systems.",
+        "authors": [
+          "Isabella W. G. da Silva",
+          "Zahra Mobini",
+          "Hien Quoc Ngo",
+          "Michail Matthaiou"
+        ]
+      },
+      {
+        "title": "Joint Trajectory Planning and Channel Selection of Multi-UAV for Fresh IoT Data Collection.",
+        "authors": [
+          "Zhuo Lu",
+          "Ziye Jia",
+          "Qihui Wu",
+          "Fuhui Zhou",
+          "Chao Dong"
+        ]
+      },
+      {
+        "title": "Adaptive Keyframe-Based Video Super-Resolution At Low Bitrates.",
+        "authors": [
+          "Wenwen Zhou",
+          "Yiping Duan",
+          "Liting Wang",
+          "Xiaoming Tao",
+          "Qiyuan Du"
+        ]
+      },
+      {
+        "title": "A Simple PHY-Aware Outer Coding (SPOC) Scheme for Reliable, Low-Latency Communication.",
+        "authors": [
+          "Srivathsa Acharya",
+          "Shobhit Bhatnagar",
+          "Gayathri R",
+          "Ankita Mahato",
+          "M. Saadat Fardeen",
+          "D. Gayathri Reddy",
+          "Arijit Dey",
+          "Suddapu Krishna",
+          "P. P. V. Narasimha",
+          "P. Vijay Kumar"
+        ]
+      },
+      {
+        "title": "Performance Analysis of Model Selection for Wireless Digital Twin Networks.",
+        "authors": [
+          "Qiyao Zhang",
+          "Runze Li",
+          "Shishi Fu",
+          "Zhongyuan Zhao",
+          "Howard H. Yang"
+        ]
+      },
+      {
+        "title": "220 GHz Urban Microcell Channel Measurement and Characterization on a University Campus.",
+        "authors": [
+          "Yuanbo Li",
+          "Yiqin Wang",
+          "Yejian Lyu",
+          "Ziming Yu",
+          "Chong Han"
+        ]
+      },
+      {
+        "title": "Cost-Minimized Heterogeneous Computing Resource Allocation in Emergency Networks.",
+        "authors": [
+          "Yanbing Yang",
+          "Jing Jiang",
+          "Wenyu Yang",
+          "Xuewei Zhang",
+          "Jianbo Du"
+        ]
+      },
+      {
+        "title": "LLM Agents as 6G Orchestrator: A Paradigm for Task-Oriented Physical-Layer Automation.",
+        "authors": [
+          "Zhuoran Xiao",
+          "Chenhui Ye",
+          "Yunbo Hu",
+          "Honggang Yuan",
+          "Yihang Huang",
+          "Liyu Cai",
+          "Jiang Chang",
+          "Yijia Feng"
+        ]
+      },
+      {
+        "title": "Optical Intelligent Reflecting Surface Enhanced Secure Communications in NOMA-based VLC.",
+        "authors": [
+          "Zehao Liu",
+          "Fang Yang",
+          "Shiyuan Sun",
+          "Jian Song",
+          "Zhu Han"
+        ]
+      },
+      {
+        "title": "AI-Driven Compression and Redundancy Removal Techniques for Real-Time Communication in Healthcare Networks.",
+        "authors": [
+          "Anand Singh Rajawat",
+          "S. B. Goyal",
+          "Mohd Nurul Hafiz Ibrahim"
+        ]
+      },
+      {
+        "title": "Explainable AI (XAI) and Machine Learning Based Alert System for Lung Cancer Detection in Healthcare 4.0.",
+        "authors": [
+          "Akshat Gaurav",
+          "Brij B. Gupta",
+          "Jinsong Wu",
+          "Varsha Arya",
+          "Kwok Tai Chui"
+        ]
+      },
+      {
+        "title": "The Statistical Resolution Limit of Joint Sensing and Communication Systems.",
+        "authors": [
+          "Haiyu Ding",
+          "Rongyan Xi",
+          "Jing Jin",
+          "Jing Dong",
+          "Mengting Lou",
+          "Dingyou Ma",
+          "Xiaozhou Zhang",
+          "Chih-Lin I"
+        ]
+      },
+      {
+        "title": "FL-DECO-BC: A Privacy and Provenance Preserving, Provably Secure FL Framework for VANETs.",
+        "authors": [
+          "Sathwik Narkedimilli",
+          "Rayachoti Arun Kumar",
+          "N. V. Saran Kumar",
+          "Ramapatruni Praneeth Reddy",
+          "Pavan Kumar C"
+        ]
+      },
+      {
+        "title": "Asynchronous mmWave Cell-free Massive MIMO-OFDM with Per-Beam Timing Advance.",
+        "authors": [
+          "Pengzhe Xin",
+          "Yang Cao",
+          "Yu Liu",
+          "Hailong Wang",
+          "Yue Wu",
+          "Xinjiang Xia",
+          "Dongming Wang"
+        ]
+      },
+      {
+        "title": "Frequency-Robust Cooperative Jamming Cancellation for Physical Layer Security in 6G Wireless Networks.",
+        "authors": [
+          "Rong Wen",
+          "Yimin He",
+          "Hongzhi Zhao",
+          "Youxi Tang"
+        ]
+      },
+      {
+        "title": "A Low Complexity Downlink Precoding Algorithm Based on Reduced-WMMSE.",
+        "authors": [
+          "Mingjun Sun",
+          "Shaochuan Wu",
+          "Ruofei Ma",
+          "Haojie Wang",
+          "Litong Jiang"
+        ]
+      },
+      {
+        "title": "Analysis of Efficient Scheduling in Layered Decoding of LDPC Codes.",
+        "authors": [
+          "Dongxu Chang",
+          "Guanghui Wang",
+          "Guiying Yan",
+          "Zhiming Ma"
+        ]
+      },
+      {
+        "title": "Deployment Design for Hybrid Active/Passive IRS-Aided Communications.",
+        "authors": [
+          "Qiaoyan Peng",
+          "Qingqing Wu",
+          "Wen Chen",
+          "Shaodan Ma",
+          "Mengnan Jian",
+          "Yijian Chen",
+          "Jun Yang"
+        ]
+      },
+      {
+        "title": "Harnessing Sparsity: Adaptive Channel Estimation in RIS-Assisted mmWave Massive MIMO Systems.",
+        "authors": [
+          "Shuying Shao",
+          "Tiejun Lv"
+        ]
+      },
+      {
+        "title": "An Ensemble ML Model Design to Classify LOS/NLOS in 5G-NR InF Propagation Environment.",
+        "authors": [
+          "Hamed Talebian",
+          "Aamir Mahmood",
+          "Jakub Nikonowicz",
+          "Kyi Thar",
+          "Mikael Gidlund"
+        ]
+      },
+      {
+        "title": "Fuse Before Transmit: A Multimodal Semantic Communication Method.",
+        "authors": [
+          "Leiyu Wang",
+          "Xiaodong Xu",
+          "Hao Chen",
+          "Yaping Sun",
+          "Nan Ma",
+          "Ping Zhang"
+        ]
+      },
+      {
+        "title": "OBSDNN: Optimal Beam Selection employing Deep Neural Networks in 6G Environment.",
+        "authors": [
+          "Gunasekaran Raja",
+          "Madhan Raj Kanagarathinam",
+          "Deepak Suresh Rajendran",
+          "Sree Vinay Ravuru",
+          "Sidhaarthan Mamalaivasan",
+          "Sukhdeep Singh"
+        ]
+      },
+      {
+        "title": "Cramér-Rao Bound Based Waveform Optimization for MIMO Radar: An Efficient Linear-Proximal Method.",
+        "authors": [
+          "Xiaohua Zhou",
+          "Xu Du",
+          "Yijie Mao"
+        ]
+      },
+      {
+        "title": "Secrecy Analysis of Context-Aware Short Packet Transmission.",
+        "authors": [
+          "Nihan Ari",
+          "Leila Musavian",
+          "Nikolaos Thomos"
+        ]
+      },
+      {
+        "title": "AI-based CSI Prediction for 5G-Advance and 6G Networks.",
+        "authors": [
+          "Xingguang Wei",
+          "Huahua Xiao",
+          "Lun Li",
+          "Xianming Chen",
+          "Yong Li",
+          "Yujie Li",
+          "Jun Gu"
+        ]
+      },
+      {
+        "title": "A Technology-Agnostic Framework for Trustworthy Crowdsourcing Services in Green 6G IoT.",
+        "authors": [
+          "Marco Martalò",
+          "Virginia Pilloni"
+        ]
+      },
+      {
+        "title": "Smart PRACH Jamming: A Serious Threat for 5G Campus Networks.",
+        "authors": [
+          "Julius Raphael Stegmann",
+          "Michael Gundall",
+          "Hans D. Schotten"
+        ]
+      },
+      {
+        "title": "Hypersphere-shaped Signaling Achieves Optimal Anti-detectability under Payload Power Constraints.",
+        "authors": [
+          "Bichen Kang",
+          "Neng Ye",
+          "Bin Qi",
+          "Jianguo Li"
+        ]
+      },
+      {
+        "title": "Opportunistic Sensing with Satellite Communications using a Conditional Ensemble Neural Network.",
+        "authors": [
+          "Giovanni Scognamiglio",
+          "Giacomo Bacci",
+          "Andrea Rucci",
+          "Attilio Vaccaro",
+          "Fabiola Sapienza",
+          "Filippo Giannetti"
+        ]
+      },
+      {
+        "title": "Analytical Modeling of Bessel Beam Propagation through Obstacles in 6G sub-THz Systems.",
+        "authors": [
+          "Hossein Amininasab",
+          "Dmitri Moltchanov",
+          "Evgeny Kucheryavy"
+        ]
+      },
+      {
+        "title": "An SCMA Receiver for 6G NTN based on Multi-Task Learning.",
+        "authors": [
+          "Bruno De Filippo",
+          "Carla Amatetti",
+          "Riccardo Campana",
+          "Alessandro Guidotti",
+          "Alessandro Vanelli-Coralli"
+        ]
+      },
+      {
+        "title": "Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards.",
+        "authors": [
+          "Omar Erak",
+          "Nouf Alabbasi",
+          "Omar Alhussein",
+          "Ismail Lotfi",
+          "Amr Hussein",
+          "Sami Muhaidat",
+          "Mérouane Debbah"
+        ]
+      },
+      {
+        "title": "Performance Analysis of Threat Models for Illegal Control of RIS.",
+        "authors": [
+          "Xinwu Chen",
+          "Shuai Han"
+        ]
+      },
+      {
+        "title": "Semantic-Aware Power Allocation for Generative Semantic Communications with Foundation Models.",
+        "authors": [
+          "Chunmei Xu",
+          "Mahdi Boloursaz Mashhadi",
+          "Yi Ma",
+          "Rahim Tafazolli"
+        ]
+      },
+      {
+        "title": "Exploring Reflecting Phases in RIS-Assisted Indexed Multiplexing for 6G IoT Applications.",
+        "authors": [
+          "Rohit Singh",
+          "Aryan Kaushik",
+          "Amit Dolas",
+          "Roshan M. Bodile",
+          "Wonjae Shin"
+        ]
+      },
+      {
+        "title": "Movable-Antenna Aided Secure Transmission for Integrated Sensing and Communication Systems.",
+        "authors": [
+          "Yaodong Ma",
+          "Kai Liu",
+          "Yanming Liu"
+        ]
+      },
+      {
+        "title": "Small-scale fading parameter estimation of different channel models in indoor industrial scenarios.",
+        "authors": [
+          "Frank von Schoettler",
+          "Kjell Wagner",
+          "Eike Lyczkowski",
+          "Peter M. Rost"
+        ]
+      },
+      {
+        "title": "Green AutoML: Energy-Efficient AI Deployment Across the Edge-Fog-Cloud Continuum.",
+        "authors": [
+          "Amit Dua",
+          "Gagangeet Singh Aujla",
+          "Anish Jindal",
+          "Hongjian Sun"
+        ]
+      },
+      {
+        "title": "Digital Twins in Near-Field ISAC Systems: A Deep Learning-based Sensing Approach.",
+        "authors": [
+          "Hongjia Huang",
+          "Weijie Yuan",
+          "Yuanhao Cui",
+          "Shiyao Zhang",
+          "Jun Wu"
+        ]
+      },
+      {
+        "title": "Framework for Practical Characterization of Spatial Non-stationary ELAA Propagation Channels.",
+        "authors": [
+          "Guangzheng Jing",
+          "Jingxiang Hong",
+          "José Rodríguez-Piñeiro",
+          "Xuefeng Yin",
+          "Yuning Yu",
+          "Ziming Yu"
+        ]
+      },
+      {
+        "title": "Combining Matrix Pencil Algorithm with Random Sampling for Partial CSI Estimation.",
+        "authors": [
+          "Sen Meng",
+          "Shuai Han",
+          "Cheng Li"
+        ]
+      },
+      {
+        "title": "A Re-Forwarding Based Mobility Management Scheme for LEO Mega Constellation Network.",
+        "authors": [
+          "Feng Tian",
+          "Wenqian Wang",
+          "Haiying Hu",
+          "Youlong Wu",
+          "Xingqiu He",
+          "Yue Gao"
+        ]
+      },
+      {
+        "title": "SoftShield: Softwarized Tactical Network for Mission Critical Military Applications.",
+        "authors": [
+          "Deborsi Basu",
+          "Harsha Patil",
+          "Uttam Ghosh",
+          "Raja Datta"
+        ]
+      },
+      {
+        "title": "Cooperative OAM Communications in Hotspot Scenarios.",
+        "authors": [
+          "Ruirui Chen",
+          "Shengliang Duan",
+          "Liping Liang",
+          "Yanguo Zhou",
+          "Zhuohui Yao"
+        ]
+      },
+      {
+        "title": "Scaling 6G Subscribers with Fewer BS Antennas using Multi-carrier NOMA in Fixed Wireless Access.",
+        "authors": [
+          "Kamyar Rajabalifardi",
+          "Sagnik Bhattacharya",
+          "Mehrnaz Afshang",
+          "Mohammad Mozaffari",
+          "John M. Cioffi"
+        ]
+      },
+      {
+        "title": "An Innovative Interference Cancellation Algorithm for Multi-light Source Diffuse Signal.",
+        "authors": [
+          "Deyue Zou",
+          "Yangzhen Zhao",
+          "Yang Qiu"
+        ]
+      },
+      {
+        "title": "Multi-User Continuous-Aperture Array Communications: How to Learn Current Distribution?",
+        "authors": [
+          "Jia Guo",
+          "Yuanwei Liu",
+          "Arumugam Nallanathan"
+        ]
+      },
+      {
+        "title": "Federated Learning-Driven Intrusion Detection for Cybersecurity in Smart Distribution system.",
+        "authors": [
+          "Peenal Gupta",
+          "Banhirup Sengupta",
+          "Susham Nandi"
+        ]
+      },
+      {
+        "title": "Receiver Design for Asynchronous Unsourced Random Access in Cell-Free Systems.",
+        "authors": [
+          "Mengyao Cao",
+          "Gangle Sun",
+          "Wenjin Wang",
+          "Wei Xu"
+        ]
+      },
+      {
+        "title": "Unified Channel Estimation for XL-RIS Assisted mmWave MU-MIMO Systems.",
+        "authors": [
+          "Jeongjae Lee",
+          "Yunseong Cho",
+          "Songnam Hong"
+        ]
+      },
+      {
+        "title": "Secure Ranging with HRP UWB in Emergency Communications.",
+        "authors": [
+          "Wei Luo",
+          "Qinghe Du"
+        ]
+      },
+      {
+        "title": "A Dual-Stage Cascaded Predistorter for the PA with Strong Nonlinear Distortion in 6G Communications.",
+        "authors": [
+          "Xiaozheng Wei",
+          "Ying Liu",
+          "Mengyao Zhang",
+          "Yang Li",
+          "Yuyang Xiong",
+          "Qirui Ma",
+          "Wensheng Pan",
+          "Wanzhi Ma",
+          "Qiang Xu",
+          "Shihai Shao"
+        ]
+      },
+      {
+        "title": "A Just-in-Time Medium-Transparent MAC Protocol for Multi-Service 5G X-haul Transport Networks.",
+        "authors": [
+          "Marios Gatzianas",
+          "Georgios Kalfas",
+          "Dimitrios Palianopoulos",
+          "Agapi Mesodiakaki",
+          "Christos Vagionas",
+          "Ronis T. Maximidis",
+          "Amalia N. Miliou",
+          "Nikolaos Pleros"
+        ]
+      },
+      {
+        "title": "Multi-Tag Screening Strategy for Emergency Communication Localization.",
+        "authors": [
+          "Zening Wang",
+          "Yanzhao Hou",
+          "Fan Shen",
+          "Chen Chen",
+          "Gaoze Mu"
+        ]
+      },
+      {
+        "title": "Trajectory Design for Throughput Maximization with Fairness Assurance in UAV-RIS Communications.",
+        "authors": [
+          "Sihui Shang",
+          "Tiantian Zhang",
+          "Dongyang Xu",
+          "Anwer Al-Dulaimi",
+          "Shahid Mumtaz"
+        ]
+      },
+      {
+        "title": "Multi-task Learning-based Joint CSI Prediction and Predictive Transmitter Selection for Security.",
+        "authors": [
+          "Shashi Bhushan Kotwal",
+          "Chinmoy Kundu",
+          "Sudhakar Modem",
+          "Holger Claussen",
+          "Lester T. W. Ho"
+        ]
+      },
+      {
+        "title": "On Performance of Non-diagonal STAR RIS with Integrated Sensing and Communications.",
+        "authors": [
+          "Abhinav Singh Parihar",
+          "Keshav Singh",
+          "Chih-Peng Li",
+          "Vimal Bhatia",
+          "Trung Q. Duong"
+        ]
+      },
+      {
+        "title": "Joint Client Selection & Bandwidth Allocation in Federated Learning Based on Long-Term Data-Quality.",
+        "authors": [
+          "Jinghong Tan",
+          "Zhian Liu",
+          "Zhichen Zhang",
+          "Mingxiong Zhao"
+        ]
+      },
+      {
+        "title": "Fluid Antenna Wireless Systems for Enhanced Spectrum Sensing.",
+        "authors": [
+          "Leila Tlebaldiyeva",
+          "Sultangali Arzykulov",
+          "Alexandros-Apostolos A. Boulogeorgos",
+          "Theodoros A. Tsiftsis",
+          "Galymzhan Nauryzbayev"
+        ]
+      },
+      {
+        "title": "LPUF-AuthNet: A Lightweight PUF-Based IoT Authentication via Tandem Neural Networks and Split Learning.",
+        "authors": [
+          "Brahim Mefgouda",
+          "Raviha Khan",
+          "Omar Alhussein",
+          "Hani H. Saleh",
+          "Hossien B. Eldeeb",
+          "Anshul Pandey",
+          "Sami Muhaidat"
+        ]
+      },
+      {
+        "title": "Standardisation Assessment of a Digital Twin-Based Multi-Domain Deterministic Communications System.",
+        "authors": [
+          "Sebastian Robitzsch",
+          "Antonio de la Oliva",
+          "Carla-Fabiana Chiasserini",
+          "Claudio Ettore Casetti",
+          "Fernando Agraz",
+          "Giada Landi",
+          "Luis M. Contreras",
+          "Péter Szilágyi",
+          "Pietro G. Giardina",
+          "Rafael Rosales",
+          "Salvatore Spadaro",
+          "Valerio Frascolla"
+        ]
+      },
+      {
+        "title": "Line of Sight Blockage Prediction via Spatio-Temporal Graph Neural Networks.",
+        "authors": [
+          "Marco Skocaj",
+          "Tommaso Zugno",
+          "Jiri Blumenstein",
+          "Mate Boban"
+        ]
+      },
+      {
+        "title": "Age-of-information minimization for IoT systems with multiple energy harvesting sources.",
+        "authors": [
+          "Akanksha Jaiswal",
+          "Arpan Chattopadhyay"
+        ]
+      },
+      {
+        "title": "Wireless Video Transmission with Joint Semantic-Channel Coding.",
+        "authors": [
+          "Yinhuan Huang",
+          "Zhijin Qin"
+        ]
+      },
+      {
+        "title": "Resource Optimization and Hyperparameter Tuning in Decentralized Federated Learning via MPC.",
+        "authors": [
+          "Farzan Karami",
+          "Babak Hossein Khalaj"
+        ]
+      },
+      {
+        "title": "Block-HAR: Trusted Human Activity Recognition Framework for 5G-assisted Smart Healthcare.",
+        "authors": [
+          "Pronaya Bhattacharya",
+          "Sudip Chatterjee",
+          "Pushan Kumar Dutta",
+          "Subrata Tikadar",
+          "Thippa Reddy Gadekallu"
+        ]
+      },
+      {
+        "title": "Specializing Language Models for 3GPP Standards: Enhancements for Technical Document Queries.",
+        "authors": [
+          "Gary C. F. Lee",
+          "Derek Khu",
+          "Feri Guretno",
+          "Ernest Kurniawan"
+        ]
+      },
+      {
+        "title": "Optimizing Spatial Acquisition in Inter-Satellite FSO Links Under Beam jitter.",
+        "authors": [
+          "Hossein Safi",
+          "Asim Ihsan",
+          "Iman Tavakkolnia",
+          "Harald Haas"
+        ]
+      },
+      {
+        "title": "Global Scale Self-Supervised Channel Charting with Sensor Fusion.",
+        "authors": [
+          "Omid Esrafilian",
+          "Mohsen Ahadi",
+          "Florian Kaltenberger",
+          "David Gesbert"
+        ]
+      },
+      {
+        "title": "Channel Decontamination Based Pilot Contamination Attack Resistance for GF-mMTC Emergency Networks.",
+        "authors": [
+          "Yixin Wang",
+          "Yichen Wang",
+          "Tao Wang",
+          "Julian Cheng"
+        ]
+      },
+      {
+        "title": "Polarization-Adjusted Convolutional (PAC) Lattices: Construction and Gaussian Shaping.",
+        "authors": [
+          "Junjiang Yu",
+          "Ling Liu",
+          "Baoming Bai"
+        ]
+      },
+      {
+        "title": "Leveraging O-RAN SC AI/ML Framework & Non-RT RIC for AI-Driven Network Slice QoS Optimization.",
+        "authors": [
+          "Md. Habibur Rahman",
+          "Ashish Jain",
+          "Aloizio Da Silva",
+          "Sukhdeep Singh",
+          "Mayukh Roy Chowdhury",
+          "Harpreet S. Dhillon",
+          "Moonki Hong"
+        ]
+      },
+      {
+        "title": "Reinforcement Learning Framework for Power Optimization in 5G RAN Systems with Blockchain-Enhanced Security.",
+        "authors": [
+          "Swaraj Kumar",
+          "Sukhdeep Singh",
+          "Peter Moonki Hong",
+          "Taewan Kim"
+        ]
+      },
+      {
+        "title": "Towards Low-Cost WiFi over Free-Space Optics.",
+        "authors": [
+          "Mikaeel Dindar",
+          "Philip M. Ginster",
+          "Fortune K. Iga",
+          "Mitchell A. Cox"
+        ]
+      },
+      {
+        "title": "Location Optimization for Fluid Antenna-Assisted Near-Field System.",
+        "authors": [
+          "Jingxuan Zhou",
+          "Yinchao Yang",
+          "Zhaohui Yang",
+          "Wei Xu",
+          "Mohammad Shikh-Bahaei"
+        ]
+      },
+      {
+        "title": "TSpec-LLM: An Open-source Dataset for LLM Understanding of 3GPP Specifications.",
+        "authors": [
+          "Rasoul Nikbakht",
+          "Mohamed Benzaghta",
+          "Giovanni Geraci"
+        ]
+      },
+      {
+        "title": "NOMA Transmission for Active STAR-RIS Aided Near-Field Communications.",
+        "authors": [
+          "Sutanu Ghosh",
+          "Keshav Singh",
+          "Cunhua Pan",
+          "Chih-Peng Li",
+          "Zhiguo Ding"
+        ]
+      },
+      {
+        "title": "Optical ISAC: Fundamental Performance Limits and Transceiver Design.",
+        "authors": [
+          "Alireza Ghazavi Khorasgani",
+          "Mahtab Mirmohseni",
+          "Ahmed Elzanaty"
+        ]
+      },
+      {
+        "title": "ISAC-STAP: Space-time Adaptive Processing for ISAC Systems.",
+        "authors": [
+          "Nakyung Lee",
+          "Hyunwoo Park",
+          "Hanvit Kim",
+          "Kyung-Young Jung",
+          "Sunwoo Kim"
+        ]
+      },
+      {
+        "title": "A 6G Vision for Intelligent Emergency Communication: Unified 3D Networking and Ambient IoT.",
+        "authors": [
+          "Dejan Vukobratovic",
+          "Mona Ghassemian",
+          "Xueli An",
+          "Ahmet Faruk Coskun",
+          "Emre Arslan",
+          "Mehmet Basaran",
+          "Nikolaos G. Bartzoudis",
+          "Eulàlia Parés",
+          "João Fernandes",
+          "Luís Cordeiro",
+          "Luís Rosa",
+          "Shubham Gupta",
+          "Sergio Aguilar",
+          "Stylianos Papaharalabos",
+          "Peter Karlsson",
+          "Jani Käppi",
+          "Alejandro Blanco Pizarro",
+          "Maite Aparicio",
+          "Andres Meseguer Valenzuela"
+        ]
+      },
+      {
+        "title": "Signal Detection in Non-Gaussian Barrage-Jammed Multiple Antenna Systems Via Decision Fusion.",
+        "authors": [
+          "Khalid A. Almahorg",
+          "Ramy H. Gohary",
+          "Roshdy H. M. Hafez"
+        ]
+      },
+      {
+        "title": "User-Centred Design Of A Tele-Mentoring System For Laparoscopic Surgery In Austere Environments.",
+        "authors": [
+          "Prosper Magara",
+          "Lamees Ras",
+          "Ahmed Biyabani",
+          "Bessie Malila"
+        ]
+      },
+      {
+        "title": "Traffic Control and Energy Harvesting in High Altitude Platforms: A Semi-Markov Process Approach.",
+        "authors": [
+          "Raina Raj",
+          "Selvamuthu Dharmaraja",
+          "Deepak Mishra"
+        ]
+      },
+      {
+        "title": "Frequency-Position-Fluid Antenna Array for Ultra-Dense Connectivity in Terahertz Beamforming Systems.",
+        "authors": [
+          "Heyin Shen",
+          "Chong Han",
+          "Hao Liu",
+          "Tao Yang"
+        ]
+      },
+      {
+        "title": "An Online Adaptive Approach to Detecting Zero-day Attacks in IoT and IIoT Systems.",
+        "authors": [
+          "Promise Ricardo Agbedanu",
+          "Shanchieh Jay Yang",
+          "Richard Musabe",
+          "Ignace Gatare",
+          "James Rwigema"
+        ]
+      },
+      {
+        "title": "Adaptive Semantic Token Selection for AI-native Goal-oriented Communications.",
+        "authors": [
+          "Alessio Devoto",
+          "Jary Pomponi",
+          "Simone Petruzzi",
+          "Paolo Di Lorenzo",
+          "Simone Scardapane"
+        ]
+      },
+      {
+        "title": "Enhancing Vehicle Lifecycle Management Through Blockchain-Driven Predictive Maintenance and Federated Learning.",
+        "authors": [
+          "Mritunjay Shall Peelam",
+          "Kunjan Shah",
+          "Vinay Chamola",
+          "Biplab Sikdar"
+        ]
+      },
+      {
+        "title": "SRS Periodicity Determination Aided by Time-Domain Channel Property.",
+        "authors": [
+          "Guangyu Jiang",
+          "Bo Gao",
+          "Meng Mei",
+          "Minqiang Zou",
+          "Xiaolong Guo",
+          "Yu-Ngok Ruyue Li"
+        ]
+      },
+      {
+        "title": "Beamforming in Secure Integrated Sensing and Communication Systems with Antenna Allocation.",
+        "authors": [
+          "Yunxiang Shi",
+          "Lixin Li",
+          "Wensheng Lin",
+          "Wei Liang",
+          "Zhu Han"
+        ]
+      },
+      {
+        "title": "Hierarchical Secure Federated Learning Based on Secret Sharing for Emergency Situations in IoV.",
+        "authors": [
+          "Chao Guo",
+          "Buxin Guo",
+          "Lingcui Zhang",
+          "Haitao Xu",
+          "Cheng Gong",
+          "Zhu Han"
+        ]
+      },
+      {
+        "title": "Techno-economic Analysis of Sustainable Terrestrial, Aerial and Space 6G Networks.",
+        "authors": [
+          "C. Bratsoudis",
+          "Agapi Mesodiakaki",
+          "P. Konstantinou",
+          "Marios Gatzianas",
+          "Georgios Kalfas",
+          "Nikolaos Pleros",
+          "Amalia N. Miliou"
+        ]
+      },
+      {
+        "title": "Security-Enhanced AFDM Transmissions Using Integrated Sensing and Communication.",
+        "authors": [
+          "Zhuangzhuang Tie",
+          "Quantao Leng",
+          "Jia Shi",
+          "Tong-Xing Zheng",
+          "Zan Li",
+          "Pei Xiao",
+          "Rahim Tafazolli"
+        ]
+      },
+      {
+        "title": "A Multi-Scale Spatial-Temporal Network for Wireless Video Transmission.",
+        "authors": [
+          "Xinyi Zhou",
+          "Danlan Huang",
+          "Zhixin Qi",
+          "Liang Zhang",
+          "Ting Jiang"
+        ]
+      },
+      {
+        "title": "Adaptive Quantization Resolution and Power Control for Federated Learning over Cell-free Networks.",
+        "authors": [
+          "Afsaneh Mahmoudi",
+          "Emil Björnson"
+        ]
+      },
+      {
+        "title": "MIMO Beamforming with Reduced Pilots and Radio Map for Emergency Wireless Communications.",
+        "authors": [
+          "Bin Yang",
+          "Hong Hao Zhang"
+        ]
+      },
+      {
+        "title": "Cascaded channel modeling and experimental validation for RIS assisted communication system.",
+        "authors": [
+          "Jiwei Zhang",
+          "Yuxiang Zhang",
+          "Tao Jiang",
+          "Huiwen Gong",
+          "Hongbo Xing",
+          "Lei Tian"
+        ]
+      },
+      {
+        "title": "Linear Phase Beampattern Design with Set-theoretic Methods.",
+        "authors": [
+          "Jochen Fink",
+          "Renato L. G. Cavalcante",
+          "Slawomir Stanczak"
+        ]
+      },
+      {
+        "title": "Resource Allocation Based on Optimal Transport Theory in ISAC-Enabled Multi-UAV Networks.",
+        "authors": [
+          "Yufeng Zheng",
+          "Lixin Li",
+          "Wensheng Lin",
+          "Wei Liang",
+          "Qinghe Du",
+          "Zhu Han"
+        ]
+      },
+      {
+        "title": "Enhancing VLC Vehicle Networks in Channel Estimation, Coding, and Multiple Access.",
+        "authors": [
+          "Yuan Xinjie",
+          "Jiaojiao Wang",
+          "Rui Chan",
+          "Zhenyu Liu",
+          "Jian Song",
+          "Shao-Lun Huang",
+          "Xun Guan"
+        ]
+      },
+      {
+        "title": "Optimal Power Allocation and Time Sharing in Low Rank Multi-Carrier Wi-Fi Channels.",
+        "authors": [
+          "Sagnik Bhattacharya",
+          "Kamyar Rajabalifardi",
+          "Muhammad Ahmed Mohsin",
+          "Rohan Pote",
+          "John M. Cioffi"
+        ]
+      },
+      {
+        "title": "Generative AI-enabled Digital Twins for 6G-enhanced Smart Cities.",
+        "authors": [
+          "Kübra Duran",
+          "Lal Verda Çakir",
+          "Mehmet Özdem",
+          "Kerem Gursu",
+          "Berk Canberk"
+        ]
+      },
+      {
+        "title": "Self-supervised Precoding Policies for MIMO Rate Splitting Multiple Access.",
+        "authors": [
+          "Dheeraj Raja Kumar",
+          "Carles Antón-Haro",
+          "Xavier Mestre"
+        ]
+      },
+      {
+        "title": "Collaborative Localization with Multiple Intelligent Reflecting Surfaces: Framework and Algorithm.",
+        "authors": [
+          "Ziheng Zhang",
+          "Qingqing Wu",
+          "Wen Chen",
+          "Zhendong Li",
+          "Xusheng Zhu",
+          "Jingfeng Chen",
+          "Nan Cheng"
+        ]
+      },
+      {
+        "title": "6G RIS-aided Single-LEO Localization with Slow and Fast Doppler Effects.",
+        "authors": [
+          "Sharief Saleh",
+          "Musa Furkan Keskin",
+          "Basuki Priyanto",
+          "Martin Beale",
+          "Pinjun Zheng",
+          "Tareq Y. Al-Naffouri",
+          "Gonzalo Seco-Granados",
+          "Henk Wymeersch"
+        ]
+      },
+      {
+        "title": "Deep Reinforcement Learning for Delay Minimization in MEC-THz Networks with Finite Blocklength codes.",
+        "authors": [
+          "Arian Ahmadi",
+          "Anders Høst-Madsen",
+          "Zixiang Xiong"
+        ]
+      },
+      {
+        "title": "Real-Time Predictive Scheduling for Networked Robot Control Using Digital Twins and OpenRAN.",
+        "authors": [
+          "Niklas A. Wagner",
+          "Julian Eßer",
+          "Irfan Fachrudin Priyanta",
+          "Fabian Kurtz",
+          "Moritz Roidl",
+          "Christian Wietfeld"
+        ]
+      },
+      {
+        "title": "SAFE: Semantic Adaptive Feature Extraction with Rate Control for 6G Wireless Communications.",
+        "authors": [
+          "Yuna Yan",
+          "Lixin Li",
+          "Xin Zhang",
+          "Wensheng Lin",
+          "Wenchi Cheng",
+          "Zhu Han"
+        ]
+      },
+      {
+        "title": "Block-Sparse Channel Estimation in Multi-Frame RIS-OTFS Systems with Fractional Doppler.",
+        "authors": [
+          "Mudasir Ahmad Sheikh",
+          "Rohit Budhiraja"
+        ]
+      },
+      {
+        "title": "Analysis and Optimization for Passive Detection in Multi-static Integrated Sensing and Communication.",
+        "authors": [
+          "Renjie He",
+          "Meixia Tao",
+          "Shu Sun"
+        ]
+      },
+      {
+        "title": "Security Enhancement of Quantum Communication in Space-Air-Ground Integrated Networks.",
+        "authors": [
+          "Yixiao Zhang",
+          "Wei Liang",
+          "Lixin Li",
+          "Wensheng Lin"
+        ]
+      },
+      {
+        "title": "SplitLLM: Hierarchical Split Learning for Large Language Model over Wireless Network.",
+        "authors": [
+          "Songge Zhang",
+          "Guoliang Cheng",
+          "Zuguang Li",
+          "Wen Wu"
+        ]
+      },
+      {
+        "title": "Lightweight Cloud-Based Phishing Email Detection using BERT and Deep Learning.",
+        "authors": [
+          "Akshat Gaurav",
+          "Brij B. Gupta",
+          "Jinsong Wu",
+          "Varsha Arya",
+          "Kwok Tai Chui"
+        ]
+      },
+      {
+        "title": "Secure and Resilient Multi-Access Edge Computing Through Coded Distributed Computing Techniques.",
+        "authors": [
+          "Weiquan Ni",
+          "Shaoliang Zhu",
+          "Alia Asheralieva",
+          "Carsten Maple",
+          "Xuetao Wei"
+        ]
+      },
+      {
+        "title": "A Matrix Completion-Based Cooperative Localization Scheme for 3D Indoor Environments.",
+        "authors": [
+          "Yuhang Wang",
+          "Tiejun Lv"
+        ]
+      },
+      {
+        "title": "XAI-based Robust Train Communication Framework to Analyze Vehicle Path Loss for Public Safety.",
+        "authors": [
+          "Dhruv Sarju Thakkar",
+          "Kavya Alpit Patel",
+          "Rajesh Gupta",
+          "Sudeep Tanwar",
+          "Ankur Gupta",
+          "Isaac Woungang"
+        ]
+      },
+      {
+        "title": "Meta Distribution of Passive Electromagnetic Field Exposure in Cellular Networks.",
+        "authors": [
+          "Quentin Gontier",
+          "Charles Wiame",
+          "François Horlin",
+          "Christo Tsigros",
+          "Claude Oestges",
+          "Philippe De Doncker"
+        ]
+      },
+      {
+        "title": "Towards Greener Networks: Evaluating Power Consumption in Popular Open RAN Environments.",
+        "authors": [
+          "Rozeena Ebrahim",
+          "Mla Vilakazi",
+          "Chris R. Burger",
+          "Albert A. Lysko"
+        ]
+      },
+      {
+        "title": "Group-Signature Authentication to Secure Task Offloading in Vehicular Edge Twin Networks.",
+        "authors": [
+          "Sarah Al-Shareeda",
+          "Füsun Özgüner",
+          "Berk Canberk"
+        ]
+      },
+      {
+        "title": "Leveraging SDN and Blockchain for Robust Spear Phishing Detection using TinyBEART.",
+        "authors": [
+          "Brij B. Gupta",
+          "Akshat Gaurav",
+          "Jinsong Wu",
+          "Sachin Sharma",
+          "Konstantinos E. Psannis",
+          "Kwok Tai Chui"
+        ]
+      },
+      {
+        "title": "Experimental Analysis and Modeling of Penetration Loss for Building Materials in FR1 and FR3 bands.",
+        "authors": [
+          "Enrui Liu",
+          "Pan Tang",
+          "Tao Jiang",
+          "Jianhua Zhang"
+        ]
+      },
+      {
+        "title": "Smart Contract Design for Adaptive SLA Management in Autonomous Service Chains.",
+        "authors": [
+          "Benedikt Veith",
+          "Christoph Fischer",
+          "Florian Herrmann",
+          "Hans D. Schotten"
+        ]
+      },
+      {
+        "title": "Partial Aggregation for Federated Learning with Differentiated Latency in LEO Satellite Networks.",
+        "authors": [
+          "Pengxiang Qin",
+          "Dongyang Xu",
+          "Osama Alfarraj",
+          "Anwer Al-Dulaimi",
+          "Keping Yu",
+          "Shahid Mumtaz"
+        ]
+      },
+      {
+        "title": "Deep RL-based Resource Allocation for User Fairness in STAR-RIS-assisted NOMA-enabled B5G Networks.",
+        "authors": [
+          "Muhammad Usman",
+          "Mahnoor Anjum",
+          "Muhammad Abdullah Khan",
+          "Syed Ali Hassan",
+          "Haejoon Jung"
+        ]
+      },
+      {
+        "title": "Energy-Based Optimization of Physical-Layer Challenge-Response Authentication with Drones.",
+        "authors": [
+          "Francesco Ardizzon",
+          "Damiano Salvaterra",
+          "Mattia Piana",
+          "Stefano Tomasin"
+        ]
+      },
+      {
+        "title": "Sensing Coupled QoS Driven Emergency ISAC Framework.",
+        "authors": [
+          "Hao Chen",
+          "Zhuohui Yao",
+          "Wenchi Cheng",
+          "Liping Liang",
+          "Tao Zhang"
+        ]
+      },
+      {
+        "title": "Simultaneous Localization and Communications under Imperfect Timing-frequency Synchronization.",
+        "authors": [
+          "Liheng Zhou",
+          "Zijun Gong",
+          "Ying Cui"
+        ]
+      },
+      {
+        "title": "Optimizing Resource Planning for Next-Generation Satellite Communication Systems.",
+        "authors": [
+          "Tedros Salih Abdu",
+          "Vu Nguyen Ha",
+          "Eva Lagunas",
+          "Symeon Chatzinotas"
+        ]
+      },
+      {
+        "title": "Weighted-Sum Computation Rate Maximization for Multi-Cluster AirComp Networks.",
+        "authors": [
+          "Huirong Xiao",
+          "Xiao Tang",
+          "Wei Liang",
+          "Bin Li",
+          "Dusit Niyato"
+        ]
+      },
+      {
+        "title": "Practical Decoding for Deep Polar Codes.",
+        "authors": [
+          "Donghwa Han",
+          "Min Jang",
+          "Donghun Lee",
+          "Seho Mlyung",
+          "Namyoon Lee"
+        ]
+      },
+      {
+        "title": "Deep Learning Empowered DDoS Attack Detection in Software Defined Network.",
+        "authors": [
+          "Hira Akhtar Butt",
+          "Kai Fang",
+          "Mumtaz Ali Shah",
+          "Mujeeb Ur Rehman",
+          "Rutvij H. Jhaveri",
+          "Hailin Feng",
+          "Jehad Ali"
+        ]
+      },
+      {
+        "title": "Hierarchical DRL-Based Resource Allocation for Cell-Free Enabled MEC Networks.",
+        "authors": [
+          "Mengmeng Ren",
+          "Jian Chen",
+          "Long Yang",
+          "Pei Xiao",
+          "Chong Huang",
+          "Lu Lv",
+          "Yuchen Zhou",
+          "Rahim Tafazolli"
+        ]
+      },
+      {
+        "title": "A Packing Coloring Based Pilot Allocation Algorithm for the Cell-Free mMIMO System.",
+        "authors": [
+          "Yuting Zhang",
+          "Jie Zeng",
+          "Biru Zhang",
+          "Zhipeng Lin",
+          "Xin Su",
+          "Tiejun Lv",
+          "Xiangyuan Bu"
+        ]
+      },
+      {
+        "title": "Task Offloading and Resource Allocation for MEC-Assisted Satellite-Terrestrial IoT Networks.",
+        "authors": [
+          "Fangfang Yin",
+          "Jingyi Guan",
+          "Danpu Liu",
+          "Libiao Jin",
+          "Yu Zhang"
+        ]
+      },
+      {
+        "title": "Deciphering the Performance of Satellite UPF: Measurement and Enhancement.",
+        "authors": [
+          "Yupeng Fu",
+          "Jianing Si",
+          "Xiao Ma",
+          "Yuanzhe Li",
+          "Yiran Zhang"
+        ]
+      },
+      {
+        "title": "Federated Learning for Privacy-Preserving Health Data Analysis: Enhancing Security and Personalization in Healthcare 4.0.",
+        "authors": [
+          "S. B. Goyal",
+          "Anand Singh Rajawat",
+          "Hayyan Nassar Waked"
+        ]
+      },
+      {
+        "title": "Joint Subband Full Duplex Operation for BS and UE in 6G system.",
+        "authors": [
+          "Nan Hu",
+          "Tuo Yang",
+          "Yan Li",
+          "Ting Ke",
+          "Xiaodong Xu"
+        ]
+      },
+      {
+        "title": "Optimizing Heart Attack Detection with Brown-Bear Optimization Algorithm and CNN in Healthcare 4.0.",
+        "authors": [
+          "Akshat Gaurav",
+          "Brij B. Gupta",
+          "Jinsong Wu",
+          "Varsha Arya",
+          "Priyanka Chaurasia",
+          "Kwok Tai Chui"
+        ]
+      },
+      {
+        "title": "Tree-Ensembled Learning for Imbalanced Network Traffic Classification for SDN Environment.",
+        "authors": [
+          "Gurpinder Singh",
+          "Rohit Bajaj",
+          "Amritpal Singh"
+        ]
+      },
+      {
+        "title": "Architectural Challenges of Nomadic Networks in 6G.",
+        "authors": [
+          "Daniel Lindenschmitt",
+          "Benedikt Veith",
+          "Khurshid Alam",
+          "Ainur Daurembekova",
+          "Michael Gundall",
+          "Mohammad Asif Habibi",
+          "Bin Han",
+          "Dennis Krummacker",
+          "Philipp Rosemann",
+          "Hans D. Schotten"
+        ]
+      },
+      {
+        "title": "Blockchain-Enabled Secure Data Interactions for Responsive Cyber-Physical Spaces.",
+        "authors": [
+          "Kun Huang",
+          "Yuwei Le",
+          "Yiheng Jiang",
+          "Jiaheng Wang",
+          "Xintong Ling"
+        ]
+      },
+      {
+        "title": "On the Resilience of Distributed Massive MIMO Against Node Failures.",
+        "authors": [
+          "Hsuan-Jung Su",
+          "Sivarama Venkatesan",
+          "Jinfeng Du"
+        ]
+      },
+      {
+        "title": "DRL-Based Task Offloading and Service Migration for Satellite-Terrestrial Edge Networks.",
+        "authors": [
+          "Tianhao Lin",
+          "Zhiyong Luo"
+        ]
+      },
+      {
+        "title": "Measurement and Modeling of sub-THz Channels in the Presence of Emulated RIS.",
+        "authors": [
+          "Mathis Schmieder",
+          "Alper Schultze",
+          "Niclas Kullig",
+          "Michael Peter",
+          "Ramez Askar",
+          "Wilhelm Keusgen"
+        ]
+      },
+      {
+        "title": "Automorphism Ensemble Decoding With Reduced Delay.",
+        "authors": [
+          "Anna Fominykh",
+          "Kirill Shabunov"
+        ]
+      },
+      {
+        "title": "Information-Centric Intrusion Detection in Internet of Vehicles.",
+        "authors": [
+          "Abinash Borah",
+          "Anirudh Paranjothi",
+          "Mohammad S. Khan",
+          "Albena Mihovska"
+        ]
+      },
+      {
+        "title": "An Adaptive Power Allocation Scheme for Wildfire Emergency Communication Networks.",
+        "authors": [
+          "Chen Kong",
+          "Hao Liang"
+        ]
+      },
+      {
+        "title": "Exploiting Computation Dimension for Communication Improvement in Semantic Communication Networks.",
+        "authors": [
+          "Guangyuan Zheng",
+          "Miaowen Wen",
+          "Xue-Qin Jiang",
+          "Zhiguo Ding"
+        ]
+      },
+      {
+        "title": "Extra-Large Scale Reconfigurable Refracting Surfaces for High-Speed Railway Networks.",
+        "authors": [
+          "Anwen Liao",
+          "Yikun Mei",
+          "Hongbing Qiu",
+          "Hua Wang",
+          "Hao Yin"
+        ]
+      },
+      {
+        "title": "Significance of Task Information Optimization for UAV-based Real-Time Target Tracking.",
+        "authors": [
+          "Junlan Cheng",
+          "Siqi Meng",
+          "Jinghang He",
+          "Shaohua Wu"
+        ]
+      },
+      {
+        "title": "Semi-Supervised Federated Learning Based Non-IID Jamming Recognition Against Poisoning Attacks.",
+        "authors": [
+          "Hongcheng Tan",
+          "Wentao Wang",
+          "Sa Xiao",
+          "Peng Wei",
+          "Jianquan Wang",
+          "Wanbin Tang"
+        ]
+      },
+      {
+        "title": "Efficiency Analysis of Decentralized Autonomous Organization (DAO) Voting Mechanisms.",
+        "authors": [
+          "Yixuan Fan",
+          "Ziyi Zhou",
+          "Zhixiang Qiao",
+          "Yao Sun",
+          "Lei Zhang"
+        ]
+      },
+      {
+        "title": "Optimizing CNN for IoT Anomaly Detection in 6G using Ant Lion Optimizer and Slime Mould Algorithm.",
+        "authors": [
+          "Akshat Gaurav",
+          "Brij B. Gupta",
+          "Kwok Tai Chui"
+        ]
+      },
+      {
+        "title": "Reinforcement Learning Based Dynamic Adaptive Frequency Scaling for O-RAN Energy Saving.",
+        "authors": [
+          "Yixuan Huang",
+          "Qi Sun",
+          "Yiwei Yan",
+          "Ting Li",
+          "Xiaohua Zhang",
+          "Nan Li",
+          "Jun Qiao",
+          "Chih-Lin I"
+        ]
+      },
+      {
+        "title": "Resource Allocation for ISAC Networks with Application to Target Tracking.",
+        "authors": [
+          "Lu Wang",
+          "Luis F. Abanto-Leon"
+        ]
+      },
+      {
+        "title": "An Adaptive LoRa-Based Edge Architecture for Data Sensing and Collection in Natural Parks.",
+        "authors": [
+          "Benjamín Arratia",
+          "Erika Rosas",
+          "Angel Martín Furones",
+          "Ángel Perles-Ivars",
+          "Juan-Luis Posadas-Yagüe",
+          "José M. Cecilia",
+          "Pietro Manzoni"
+        ]
+      },
+      {
+        "title": "Optimal Beamforming for Bistatic MIMO Sensing.",
+        "authors": [
+          "Tobias Laas",
+          "Ronald Boehnke",
+          "Wen Xu"
+        ]
+      },
+      {
+        "title": "Few-shot Semantic Encoding and Decoding for Video Surveillance.",
+        "authors": [
+          "Baoping Cheng",
+          "Yukun Zhang",
+          "Liming Wang",
+          "Xiaoyan Xie",
+          "Tao Fu",
+          "Dongkun Wang",
+          "Xiaoming Tao"
+        ]
+      },
+      {
+        "title": "Demand-Driven LEO Satellite Constellation for Dynamic Satellite Internet of Things.",
+        "authors": [
+          "Jiaxuan Zhang",
+          "Fei Shen",
+          "Feng Yan",
+          "Lianfeng Shen",
+          "Zhiyong Bu"
+        ]
+      },
+      {
+        "title": "Channel-Adaptive Wireless Image Semantic Transmission with Learnable Prompts.",
+        "authors": [
+          "Liang Zhang",
+          "Danlan Huang",
+          "Xinyi Zhou",
+          "Feng Ding",
+          "Sheng Wu",
+          "Zhiqing Wei"
+        ]
+      },
+      {
+        "title": "Low-Complexity Layered Decoding for LDPC Codes.",
+        "authors": [
+          "Heping Wan",
+          "Joonyoung Cho",
+          "Min Jang",
+          "Charlie Jianzhong Zhang"
+        ]
+      },
+      {
+        "title": "Deployment of Optically-Powered Hybrid OWC/RF Systems Towards 6G.",
+        "authors": [
+          "Letícia Carneiro de Souza",
+          "Felipe Batista Faro Pinto",
+          "Sofia Balerini de Vasconcellos",
+          "R. A. M. Sánchez",
+          "Luis Da Silva",
+          "Francisco M. Portelinha",
+          "Evandro Lee Anderson",
+          "Luiz Augusto Melo Pereira",
+          "Arismar Cerqueira Sodré"
+        ]
+      },
+      {
+        "title": "A Bagging-based Consensus Protocol for Distributed Learning.",
+        "authors": [
+          "Zixiang Cui",
+          "Xintong Ling",
+          "Xingyu Zhou",
+          "Jiaheng Wang"
+        ]
+      },
+      {
+        "title": "UAV-Assisted Integrated Communication and AirComp with Interference Awareness.",
+        "authors": [
+          "Xunqiang Lan",
+          "Xiao Tang",
+          "Ruonan Zhang",
+          "Bin Li",
+          "Qinghe Du",
+          "Zhu Han"
+        ]
+      },
+      {
+        "title": "Adaptive Network Slicing Using Multi-Agent Deep Reinforcement Learning.",
+        "authors": [
+          "Andreas Andreou",
+          "Constandinos X. Mavromoustakis",
+          "Jordi Mongay Batalla"
+        ]
+      },
+      {
+        "title": "Latent Space Encryption with PWLCM for Enhanced Secure Deep Joint Source Channel Coding.",
+        "authors": [
+          "Yuyang Fu",
+          "Katsuya Suto"
+        ]
+      },
+      {
+        "title": "Next-Gen Healthcare: Explainable AI for Precise Gestational Diabetes Risk Assessment.",
+        "authors": [
+          "Kavya Patel",
+          "Khushi Patel",
+          "Ayushi Rathod",
+          "Anuja Nair",
+          "Tarjni Vyas",
+          "Shivani Desai"
+        ]
+      },
+      {
+        "title": "Design and Implementation of Angular Diversity Receiver for VLC IoT Sensor Networks.",
+        "authors": [
+          "Ryo Harada",
+          "Wasiu O. Popoola"
+        ]
+      },
+      {
+        "title": "An Over-the-Air Multi-user Tailbiting Code for URLLC.",
+        "authors": [
+          "Rafael Santos",
+          "Daniel Castanheira",
+          "Adão Silva",
+          "Atílio Gameiro"
+        ]
+      },
+      {
+        "title": "Enhancing Latency-Accuracy Tradeoff in Dynamic Split Inference via Vector Quantized Bottleneck.",
+        "authors": [
+          "Yen-Hsiu Chen",
+          "Yoichi Hirose",
+          "Shoma Shimizu",
+          "Shota Saito",
+          "Kento Uchida",
+          "Shinichi Shirakawa",
+          "Takayuki Nishio"
+        ]
+      },
+      {
+        "title": "Location and Map-Assisted Wideband Phase and Time Calibration Between Distributed Antennas.",
+        "authors": [
+          "Yibo Wu",
+          "Musa Furkan Keskin",
+          "Ulf Gustavsson",
+          "Gonzalo Seco-Granados",
+          "Erik G. Larsson",
+          "Henk Wymeersch"
+        ]
+      },
+      {
+        "title": "Sniffing out the Path: Olfactory Localization based Low-Cost SLAM for Disaster Scenarios.",
+        "authors": [
+          "Nico Vom Hofe",
+          "Pit Hofmann",
+          "Frederic Benken",
+          "Johannes Hofer",
+          "Pengjie Zhou",
+          "Ruifeng Zheng",
+          "Juan A. Cabrera",
+          "Frank H. P. Fitzek"
+        ]
+      },
+      {
+        "title": "On the Effects of Modeling on the Sim-to-Real Transfer Gap in Twinning the POWDER Platform.",
+        "authors": [
+          "Maxwell McManus",
+          "Yuqing Cui",
+          "Josh Zhaoxi Zhang",
+          "Elizabeth Serena Bentley",
+          "Michael J. Medley",
+          "Nicholas Mastronarde",
+          "Zhangyu Guan"
+        ]
+      },
+      {
+        "title": "SC-Telco RAG: Enhancing RAG through Structured Contexts in Telecommunications.",
+        "authors": [
+          "Junjie Du",
+          "Jianbing Ding",
+          "Jingyi Li",
+          "Xidong Wang",
+          "Xiaozhou Ye",
+          "Ye Ouyang"
+        ]
+      },
+      {
+        "title": "Compressive Sampling Enabled UWB AoA Estimation for IoT Applications.",
+        "authors": [
+          "David Märzinger",
+          "Bernhard Etzlinger",
+          "Philipp Peterseil",
+          "Andreas Springer"
+        ]
+      },
+      {
+        "title": "Diffusion of Connected, Communicative and Automated Mobility systems: an Agent-based Model.",
+        "authors": [
+          "Giacomo Masali",
+          "Guido Perboli"
+        ]
+      },
+      {
+        "title": "Bidirectional LSTM-GRU GAN Model for Enhancing IoT Network Security.",
+        "authors": [
+          "Hafiz Yasir Noor",
+          "Isaac Woungang",
+          "Glaucio H. S. Carvalho",
+          "Alagan Anpalagan"
+        ]
+      },
+      {
+        "title": "Fronthaul-Constrained Distributed Radar Sensing.",
+        "authors": [
+          "Christian Eckrich",
+          "Abdelhak M. Zoubir",
+          "Vahid Jamali"
+        ]
+      },
+      {
+        "title": "REMIBRANDT: Imputing Radio Environmental Maps for Safety-Critical Applications with Machine Learning.",
+        "authors": [
+          "Nils Altenburg",
+          "Hendrik Schippers",
+          "Melina Geis",
+          "Christian Wietfeld"
+        ]
+      },
+      {
+        "title": "High-Reliability Wireless Communications for Virtual Power Plant with Efficient Network Redundancy.",
+        "authors": [
+          "Jiajia Huang",
+          "Gary C. F. Lee",
+          "Ernest Kurniawan",
+          "Amnart Boonkajay",
+          "Sumei Sun"
+        ]
+      },
+      {
+        "title": "LMS-Based Digital Nonlinear Self-Interference Cancellation Algorithm for SBFD Systems.",
+        "authors": [
+          "Xinyan Yu",
+          "Congxi Liu",
+          "Hang Long"
+        ]
+      },
+      {
+        "title": "AI-Powered Drone Network for Disaster Response: Enhancing Damage Detection and Communication Beyond 5G.",
+        "authors": [
+          "Dipti Shah",
+          "Tanisha Patel",
+          "Anuja Nair",
+          "Tarjni Vyas",
+          "Shivani Desai",
+          "Sudeep Tanwar"
+        ]
+      },
+      {
+        "title": "ColBERT Retrieval and Ensemble Response Scoring for Language Model Question Answering.",
+        "authors": [
+          "Alex Gichamba",
+          "Tewodros Kederalah Idris",
+          "Brian Ebiyau",
+          "Eric Nyberg",
+          "Teruko Mitamura"
+        ]
+      },
+      {
+        "title": "Energy and Spectral Efficiency Optimization for IRS-SWIPT 5G Wireless Communication System.",
+        "authors": [
+          "Rajeev Kumar",
+          "Yatindra Nath Singh",
+          "Dush Nalin Jayakody"
+        ]
+      },
+      {
+        "title": "Empirical Evaluation of Bit Rate and Latency in a Private 5G Cell for Slow-Speed Vehicles in an Urban Environment.",
+        "authors": [
+          "Mohammad Razzaghpour",
+          "Carsten Bockelmann",
+          "Armin Dekorsy",
+          "Jan Hensel",
+          "Wilhelm Jochim",
+          "Mehmet Kus"
+        ]
+      },
+      {
+        "title": "Joint Pilot and Data Resource Allocation for Short-Packet MU-MIMO Transmission.",
+        "authors": [
+          "Yutong Hua",
+          "Qian Peng",
+          "Jiaheng Wang",
+          "Pengcheng Zhu"
+        ]
+      },
+      {
+        "title": "Integrated Sensing and Energy-Efficient Communication with Near-Field Beamfocusing.",
+        "authors": [
+          "Wenhao Hu",
+          "Zhenyao He",
+          "Wei Xu",
+          "Jianfeng Wang",
+          "Derrick Wing Kwan Ng"
+        ]
+      },
+      {
+        "title": "Dual-Beam Transmit SIC for Array-Level Full-Duplex in Wireless Emergency Communications.",
+        "authors": [
+          "Rong Wen",
+          "Zhaoxi Lin",
+          "Hongzhi Zhao"
+        ]
+      },
+      {
+        "title": "Kolmogorov-Arnold Networks (KANs) for Time Series Analysis.",
+        "authors": [
+          "Cristian J. Vaca-Rubio",
+          "Luis Blanco",
+          "Roberto Pereira",
+          "Màrius Caus"
+        ]
+      },
+      {
+        "title": "Monostatic and Bistatic Scattering Pattern Measurements and Modeling for Vehicles.",
+        "authors": [
+          "Wenfei Yang",
+          "Zhi Yu",
+          "Saúl Fenollosa",
+          "Narcís Cardona",
+          "Jian Li"
+        ]
+      },
+      {
+        "title": "Enhancing Large Language Models for Telecom Networks Using Retrieval-Augmented Generation.",
+        "authors": [
+          "Nasik Sami Khan",
+          "Md Mahibul Hasan",
+          "Md. Shamim Towhid",
+          "Saroj Basnet",
+          "Nashid Shahriar"
+        ]
+      },
+      {
+        "title": "QMOS: Enhancing LLMs for Telecommunication with Question Masked loss and Option Shuffling.",
+        "authors": [
+          "Blessed Guda",
+          "Gabrial Zencha Ashungafac",
+          "Lawrence Francis",
+          "Carlee Joe-Wong"
+        ]
+      },
+      {
+        "title": "Adaptive FM-OFDM for 6G Non-Terrestrial Networks.",
+        "authors": [
+          "Lianet Méndez-Monsanto",
+          "Màrius Caus",
+          "Musbah Shaat",
+          "Ana I. Pérez-Neira",
+          "Ana García Armada"
+        ]
+      },
+      {
+        "title": "SC-CDM: Enhancing Quality of Image Semantic Communication with a Compact Diffusion Model.",
+        "authors": [
+          "Kexin Zhang",
+          "Lixin Li",
+          "Wensheng Lin",
+          "Yuna Yan",
+          "Wenchi Cheng",
+          "Zhu Han"
+        ]
+      },
+      {
+        "title": "The industrial 6G network of networks.",
+        "authors": [
+          "Konstantin Schneider",
+          "Eike Lyczkowski",
+          "Daniel Rittershofer",
+          "Wolfgang Kiess",
+          "Sebastian Treib",
+          "Maximilian Dietrich",
+          "Stefan Hoeltken"
+        ]
+      },
+      {
+        "title": "DNN-Based Precoding in RIS-Aided mmWave MIMO Systems With Practical Phase Shift.",
+        "authors": [
+          "Po-Heng Chou",
+          "Ching-Wen Chen",
+          "Wan-Jen Huang",
+          "Walid Saad",
+          "Yu Tsao",
+          "Ronald Y. Chang"
+        ]
+      },
+      {
+        "title": "Toward 6G technology: Intent-Driven Autonomous Intelligent Wireless Communication Network.",
+        "authors": [
+          "Jiajun Chen",
+          "Yin Gao",
+          "Yansheng Liu",
+          "Dapeng Li",
+          "Wei Xingguang",
+          "Zhuang Liu"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Outsourced Decision Tree Inference for Reliable Emergency Communications.",
+        "authors": [
+          "Liyuan Guo",
+          "Qianqian Su",
+          "Hansong Xu",
+          "Wenhao Lou",
+          "Kun Hua"
+        ]
+      },
+      {
+        "title": "Secrecy Rate Analysis of RSMA-Aided Cell-Free Massive MIMO with Non-Ideal Hardware.",
+        "authors": [
+          "Yao Zhang",
+          "Yongxu Zhu",
+          "Wenchao Xia",
+          "Haitao Zhao",
+          "Hien Quoc Ngo",
+          "Bo Tan"
+        ]
+      },
+      {
+        "title": "Deep SIMO Auto-Encoder and Radio Frequency Hardware Impairments Modeling for Physical Layer Security.",
+        "authors": [
+          "Abdullahi Mohammad",
+          "Mahmoud T. Kabir",
+          "Mikko Valkama",
+          "Bo Tan"
+        ]
+      },
+      {
+        "title": "INA-Infra: An Open and Extensible Infrastructure for Intent-driven Network Automation Research.",
+        "authors": [
+          "Nguyen-Bao-Long Tran",
+          "Tuan V. Ngo",
+          "Mao V. Ngo",
+          "Binbin Chen",
+          "Jihong Park",
+          "Tony Q. S. Quek"
+        ]
+      },
+      {
+        "title": "NOMA for TD-STARS Assisted THz Wideband Multi-user Communications.",
+        "authors": [
+          "Jiayi Lei",
+          "Xidong Mu",
+          "Tiankui Zhang",
+          "Yuanwei Liu"
+        ]
+      },
+      {
+        "title": "Optimized Transmit Beamformers for Dual-Function RadCom System.",
+        "authors": [
+          "Junhui Qian",
+          "Zhuoran Sun",
+          "Jie Wang",
+          "Le Zheng",
+          "Difan Zou",
+          "Xianxiang Yu",
+          "Jing Yang"
+        ]
+      },
+      {
+        "title": "Wireless Resource Efficient Distributed Learning with Deep Joint Source-Channel Coding.",
+        "authors": [
+          "Issa Matsumura",
+          "Katsuya Suto"
+        ]
+      },
+      {
+        "title": "Energy-Efficient Resource Allocation in NOMA-Enabled Cache-Assisted MEC Networks.",
+        "authors": [
+          "Siyavash Ghasemi",
+          "Mehdi Rasti",
+          "Masoud Sabaei",
+          "Shiva Kazemi Taskooh"
+        ]
+      },
+      {
+        "title": "Dual-Side STAR-RIS Assisted NOMA Networks.",
+        "authors": [
+          "Jie Li",
+          "Zhengyu Song",
+          "Tianwei Hou",
+          "Chongwen Huang",
+          "Anna Li",
+          "Gui Zhou",
+          "Yuanwei Liu"
+        ]
+      },
+      {
+        "title": "Joint Channel Bandwidth Assignment and Relay Positioning for Predictive Flying Networks.",
+        "authors": [
+          "Rúben Queirós",
+          "Megumi Kaneko",
+          "Helder Fontes",
+          "Rui Campos"
+        ]
+      },
+      {
+        "title": "Visible Light Communication System-on-Chip for Smart Hospitals.",
+        "authors": [
+          "Zijin Pan",
+          "Tian Lang",
+          "Gang Chen",
+          "Albert Z. Wang"
+        ]
+      },
+      {
+        "title": "A Dual Decoupled Q-Learning Based Multi-Dimensional Optimization Random Access Scheme for 6G umMTC Networks.",
+        "authors": [
+          "Jingrui Su",
+          "Meng Fu",
+          "Li Zhen",
+          "Zheng Chu",
+          "Pei Xiao"
+        ]
+      },
+      {
+        "title": "Robust Resource Allocation for Over-The-Air Computation Networks with Fluid Antenna Array.",
+        "authors": [
+          "Saeid Pakravan",
+          "Mohsen Ahmadzadeh",
+          "Ming Zeng",
+          "Ghosheh Abed Hodtani",
+          "Jean-Yves Chouinard",
+          "Leslie A. Rusch"
+        ]
+      },
+      {
+        "title": "6G Near-Field Communication: Novel Channel Characteristics and High-Rank Codebook Design.",
+        "authors": [
+          "Mengnan Jian",
+          "Yijian Chen",
+          "Nan Zhang",
+          "Yajun Zhao"
+        ]
+      },
+      {
+        "title": "Layer Selection for Secure Federated Learning in Wireless Large AI Model (WLAM).",
+        "authors": [
+          "Yahao Ding",
+          "Zhaohui Yang",
+          "Mohammad Shikh-Bahaei"
+        ]
+      },
+      {
+        "title": "User Activity and Timing Detection for Multi-antenna Asynchronous Grant-Free Uplink Communications.",
+        "authors": [
+          "Chu-Tung Liu",
+          "Sheng-Chen Wu",
+          "Hsuan-Jung Su"
+        ]
+      },
+      {
+        "title": "Relative Representations of Latent Spaces enable Efficient Semantic Channel Equalization.",
+        "authors": [
+          "Tomás Hüttebräucker",
+          "Simone Fiorellino",
+          "Mohamed Sana",
+          "Paolo Di Lorenzo",
+          "Emilio Calvanese Strinati"
+        ]
+      },
+      {
+        "title": "Block-Level Interference Exploitation Precoding: An Accelerated Projected Gradient Approach.",
+        "authors": [
+          "Junwen Yang",
+          "Ang Li",
+          "Xuewen Liao",
+          "Christos Masouros",
+          "A. Lee Swindlehurst"
+        ]
+      },
+      {
+        "title": "Mobility-aware DRL strategy for Throughput Optimization in QoS-driven Opportunistic NOMA IoT Networks.",
+        "authors": [
+          "Neha Mazhar",
+          "Syed Asad Ullah",
+          "Haejoon Jung",
+          "Qurrat-Ul-Ain Nadeem",
+          "Syed Ali Hassan"
+        ]
+      },
+      {
+        "title": "Designing 5G PHY Layer Compliant Cell-Free Massive MIMO Simulator using Sounding Signal.",
+        "authors": [
+          "Santosh K. Singh",
+          "Lokesh Patidar",
+          "Abhay K. Sah",
+          "Shekar Nethi",
+          "Himanshu Sindhwal",
+          "Vamsi K. Kadiyala"
+        ]
+      },
+      {
+        "title": "Joint Activity Detection and Channel Estimation for 6G GFRA: A Memory-Enhanced DL Network Framework.",
+        "authors": [
+          "Li Zhen",
+          "Yuanbo Fan",
+          "Luyao Cheng",
+          "Mingyang Li",
+          "Shuchang Li",
+          "Guangyue Lu",
+          "Mohsen Guizani"
+        ]
+      },
+      {
+        "title": "A Novel Closed-Form Algorithm for TDOA-Based Localization with a Linear Base Stations Array.",
+        "authors": [
+          "Zhuoting Chen",
+          "Zhiqiang Yao",
+          "Peinan Liao",
+          "Sheng Liu",
+          "Xing Xiao"
+        ]
+      },
+      {
+        "title": "Latency and Energy-Aware Routing for Multi-Split Computing in Satellite Networks.",
+        "authors": [
+          "Dongkyun Ryoo",
+          "Hongrok Choi",
+          "Daeyoung Jung",
+          "Heewon Kim",
+          "Sangheon Pack"
+        ]
+      },
+      {
+        "title": "End-to-End Latency Reduction for Mobile Edge Generation (MEG).",
+        "authors": [
+          "Xiaoxia Xu",
+          "Yuanwei Liu",
+          "Xidong Mu",
+          "Arumugam Nallanathan"
+        ]
+      },
+      {
+        "title": "Hybrid Digital-Analog Joint Semantic-Channel Coding for Image Transmission.",
+        "authors": [
+          "Huiqiang Xie",
+          "Zhijin Qin",
+          "Zhu Han",
+          "Khaled B. Letaief"
+        ]
+      },
+      {
+        "title": "Optimizing RIS Impairments through Semantic Communication.",
+        "authors": [
+          "Nour Hello",
+          "Mattia Merluzzi",
+          "Emilio Calvanese Strinati",
+          "Luca Sanguinetti"
+        ]
+      },
+      {
+        "title": "Performance Analysis of NOMA-aided Satellite Communication Networks Based on Stochastic Geometry.",
+        "authors": [
+          "Kecheng Li",
+          "Jun Wang",
+          "Tianwei Hou",
+          "Anna Li",
+          "Xinwei Yue",
+          "Yuanwei Liu",
+          "Wei Chen"
+        ]
+      },
+      {
+        "title": "Safe-Uav: An Explainable AI-assisted Framework for Securing UAV Communication Networks.",
+        "authors": [
+          "Dev Mehta",
+          "Kathan Patel",
+          "Janam Patel",
+          "Rajesh Gupta",
+          "Sudeep Tanwar",
+          "Ankur Gupta",
+          "Isaac Woungang"
+        ]
+      },
+      {
+        "title": "Blockchain for Securing Device-to-Device Communication in Software Defined Networks.",
+        "authors": [
+          "Thippa Reddy Gadekallu",
+          "Kai Fang",
+          "Hailin Feng",
+          "Sharnil Pandya",
+          "Ramalingam Murugan",
+          "Praveen Kumar Reddy Maddikunta",
+          "Sweta Bhattacharya",
+          "Gokul Yenduri"
+        ]
+      },
+      {
+        "title": "Relay-Assisted Physical Layer Security with Generalized Weighted Fractional Fourier Transform.",
+        "authors": [
+          "Xueqi Yin",
+          "Xiaojie Fang",
+          "Ge Song",
+          "Xuejun Sha"
+        ]
+      },
+      {
+        "title": "Movable Antenna Array Aided Ultra Reliable Covert Communications.",
+        "authors": [
+          "Yida Wang",
+          "Guojie Hu",
+          "Xiaoling Hu",
+          "Xingbo Lu",
+          "Yuzhen Huang"
+        ]
+      },
+      {
+        "title": "Transmit Power Minimization for Secure RIS-Aided Full-Duplex NOMA Communications With HWI.",
+        "authors": [
+          "Jibril Abdi Mead",
+          "Keshav Singh",
+          "Raviteja Allu",
+          "Mayur Katwe",
+          "Cunhua Pan"
+        ]
+      },
+      {
+        "title": "Practical Wiretap Code Design via Integration of Information Theory and Deep Learning.",
+        "authors": [
+          "Xiangnan Zhou",
+          "Chao Wang",
+          "Haibin Zhang",
+          "Yao Sun",
+          "Chonghua Wang",
+          "Derrick Wing Kwan Ng"
+        ]
+      },
+      {
+        "title": "Spatial Sensor Layout Optimization for Radio Environment Map Construction.",
+        "authors": [
+          "Qianhao Gao",
+          "Qiuming Zhu",
+          "Zhipeng Lin",
+          "Yi Zhao",
+          "Jie Wang",
+          "Weizhi Zhong",
+          "Yang Huang",
+          "Qihui Wu"
+        ]
+      },
+      {
+        "title": "Optimized Pilot Pattern for Sparse Channel Estimation: A Low-Complexity Solution for Future Networks.",
+        "authors": [
+          "Fayad Haddad",
+          "Carsten Bockelmann",
+          "Armin Dekorsy"
+        ]
+      },
+      {
+        "title": "Slinky Web3AI : A Decentralized Token Economy for Enhanced User Engagement and Stability through Blockchain and AI Integration.",
+        "authors": [
+          "Shenoy Phalgun",
+          "Monica Durga",
+          "Amit Dua",
+          "Gagangeet Singh Aujla",
+          "Anish Jindal"
+        ]
+      },
+      {
+        "title": "A Framing of Eavesdropper Policy Manipulation Attacks on RL-enabled Wireless Systems.",
+        "authors": [
+          "Alyse M. Jones",
+          "Harpreet S. Dhillon",
+          "William C. Headley"
+        ]
+      },
+      {
+        "title": "Mitigating Stragglers in Distributed Learning: A Novel Framework with Gradient Coding.",
+        "authors": [
+          "Jiale Wang",
+          "Jiahong Ning",
+          "Zechen He",
+          "Jian Zhao",
+          "Tingting Yang"
+        ]
+      },
+      {
+        "title": "Sensing-assisted Near-field Energy Beam Focusing with ELAA Over Non-stationary Channels.",
+        "authors": [
+          "Li Zhang",
+          "Zixiang Ren",
+          "Yuan Fang",
+          "Ling Qiu",
+          "Jie Xu"
+        ]
+      },
+      {
+        "title": "S-Health: LLM-driven and Lightweight Blockchain-based Secure Framework for Healthcare 5.0.",
+        "authors": [
+          "Aparna Kumari",
+          "Megh H. Shah",
+          "Parth V. Sheth"
+        ]
+      },
+      {
+        "title": "Trusted SDN-enabled Resource Allocation Scheme in Edge-Cloud Interplay for 6G-assisted Smart Cities.",
+        "authors": [
+          "Pronaya Bhattacharya",
+          "Sushil Kumar Singh",
+          "Haipeng Liu",
+          "Thippa Reddy Gadekallu"
+        ]
+      },
+      {
+        "title": "Multi-Armed Bandits for Low-Complexity Beam Management in High-Speed mmWave IoT.",
+        "authors": [
+          "Iuliia Tropkina",
+          "Olga Galinina",
+          "Sergey Andreev",
+          "Robert W. Heath Jr."
+        ]
+      },
+      {
+        "title": "MIMO Precoding Exploiting Extra Degrees of Freedom (DoF) in the Wavenumber Domain.",
+        "authors": [
+          "Yuanbin Chen",
+          "Xufeng Guo",
+          "Tianqi Mao",
+          "Qingqing Wu",
+          "Zhaocheng Wang",
+          "Chau Yuen"
+        ]
+      },
+      {
+        "title": "QoS-Aware Cross Layer Optimization for 5G NR.",
+        "authors": [
+          "Changxin Lu",
+          "Chaowei Wang",
+          "Wenyuan Wang",
+          "Jiabin Chen",
+          "Yinghui Ye",
+          "Weidong Wang",
+          "Peng Yu",
+          "Fan Jiang",
+          "Lexi Xu"
+        ]
+      },
+      {
+        "title": "AMP-based Joint Activity Detection and Channel Estimation for OFDM-based Grant-Free Access.",
+        "authors": [
+          "Zhiyan Li",
+          "Ying Cui",
+          "Danny H. K. Tsang"
+        ]
+      },
+      {
+        "title": "Co-site Interference Suppression of Airborne Joint Communication and Sensing Platform Based on NYFR.",
+        "authors": [
+          "Lizhi Qin",
+          "Hongzhi Zhao",
+          "Yuxi Zhou",
+          "Shihai Shao"
+        ]
+      },
+      {
+        "title": "Parallel Network Structure-aided Neural Shuffled Offset Min-Sum Decoder.",
+        "authors": [
+          "Liang Lv",
+          "Yurong Wang",
+          "Yi Fang",
+          "Pingping Chen"
+        ]
+      },
+      {
+        "title": "Movable Antenna Enhanced AF Relaying: Two-Stage Antenna Position Optimization.",
+        "authors": [
+          "Nianzu Li",
+          "Weidong Mei",
+          "Boyu Ning",
+          "Peiran Wu"
+        ]
+      },
+      {
+        "title": "Heterogeneity-Aware Client Scheduling for Split Federated Learning in Resource-Scarce Networks.",
+        "authors": [
+          "Chunfeng Xie",
+          "Zhixiong Chen",
+          "Wenqiang Yi",
+          "Hyundong Shin",
+          "Arumugam Nallanathan"
+        ]
+      },
+      {
+        "title": "Enhancing Cloud Marketplace Operations with Infrastructure as Code: DOME - A Case Study.",
+        "authors": [
+          "Karol Bialas",
+          "Souvik Sengupta",
+          "Michal Orzecliowski",
+          "Jesus Ruiz",
+          "Manfredi Parasporo",
+          "Gabriele Gerbino"
+        ]
+      },
+      {
+        "title": "AdaJSCC: Instance-Adaptive Joint Source-Channel Coding for Wireless Image Transmission.",
+        "authors": [
+          "Tianjian Dang",
+          "Shengshi Yao",
+          "Siye Wang",
+          "Kai Niu",
+          "Zhenyu Liu",
+          "Jincheng Dai"
+        ]
+      },
+      {
+        "title": "AI-enabled Link Selection Framework for LTE Data Communication Towards Collision-Managed Traffic.",
+        "authors": [
+          "Bhimani Yatra Amitbhai",
+          "Bhayani Sahi",
+          "Keertan Amit Parikh",
+          "Rajesh Gupta",
+          "Sudeep Tanwar"
+        ]
+      },
+      {
+        "title": "A Semi-Supervised Learning Method for Multi-Modal Data Vehicle Positioning.",
+        "authors": [
+          "Ouwen Huan",
+          "Mingzhe Chen",
+          "Yang Yang",
+          "Tao Luo"
+        ]
+      },
+      {
+        "title": "Low Complexity High Throughput Coding Scheme for 6G Immersive Communication.",
+        "authors": [
+          "Xia An",
+          "Chao Zhang",
+          "Kewu Peng",
+          "Zhitong He",
+          "Jian Song"
+        ]
+      },
+      {
+        "title": "6G Sustainable Privacy Preserving Framework Enabling Federated Learning for Health Data.",
+        "authors": [
+          "Konstantinos Koutsopoulos",
+          "Pooja Mohnani",
+          "Anastasius Gavras",
+          "Orazio Toscano",
+          "Benjamin Ertl",
+          "Giannis Ledakis"
+        ]
+      },
+      {
+        "title": "Beam Squint Effect: a Friend or a Foe in Physical Layer Authentication for RIS-assisted Systems?",
+        "authors": [
+          "Amira Bendaimi",
+          "Asmaa Abdallah",
+          "Abdulkadir Celik",
+          "Ahmed M. Eltawil",
+          "Hüseyin Arslan"
+        ]
+      },
+      {
+        "title": "6G NTN in C and Q/V-Bands: Link Budget Analysis and Waveforms Performance.",
+        "authors": [
+          "Carla Amatetti",
+          "Juan Bucheli",
+          "Dorin Panaitopol",
+          "Sorya Tong",
+          "Xavier Leturc",
+          "Màrius Caus",
+          "Musbah Shaat",
+          "Estefania Recayte",
+          "Mehmet Gurelli",
+          "Miguel Ángel Vázquez",
+          "Nathan Borios",
+          "Alessandro Vanelli-Coralli"
+        ]
+      },
+      {
+        "title": "Cooperative UAVs with Asynchronous Multi-agent Learning for Remote Data Collection.",
+        "authors": [
+          "Cuong Le",
+          "Thang X. Vu",
+          "Symeon Chatzinotas"
+        ]
+      },
+      {
+        "title": "A Joint Optimization in Power Harvesting Multiuser Communication System Coexistence with Radar.",
+        "authors": [
+          "Junhui Qian",
+          "Jiheng Liu",
+          "Jingjing Wang",
+          "Jinru Zhang",
+          "Ke Deng",
+          "Yezong Liang",
+          "Ting Wang"
+        ]
+      },
+      {
+        "title": "O-RAN RIC-based Handover Optimization for enhanced QoS Assurance.",
+        "authors": [
+          "Bahare Karimkhani",
+          "Florian Schreiner",
+          "Varun Gowtham",
+          "Marius Corici",
+          "Thomas Magedanz"
+        ]
+      },
+      {
+        "title": "Blockchain and Explainable ML-based Secure Network Attack Classification in Smart Homes.",
+        "authors": [
+          "Dev Mehta",
+          "Akshat Jingar",
+          "Janam Patel",
+          "Rajesh Gupta",
+          "Pronaya Bhattacharya",
+          "Sudeep Tanwar",
+          "Chinmay Trivedi",
+          "Manik Lal Das"
+        ]
+      },
+      {
+        "title": "A Scalable Blockchain Framework for Secure Data and Computational Resource Management in SDN.",
+        "authors": [
+          "Debashis Das",
+          "La Chiara Landrum",
+          "Pushpita Chatterjee",
+          "Uttam Ghosh"
+        ]
+      },
+      {
+        "title": "Distributed Beamforming for Cooperative Multi-cell ISAC: A Federated Learning Approach.",
+        "authors": [
+          "Lai Jiang",
+          "Kaitao Meng",
+          "Murat Temiz",
+          "Jiaming Hu",
+          "Christos Masouros"
+        ]
+      },
+      {
+        "title": "Towards Ultra-Reliable 6G Communication: A Novel Architecture for End-to-End Redundancy.",
+        "authors": [
+          "Malla Reddy Sama",
+          "Sushmit Bhattacharjee",
+          "Riccardo Guerzoni",
+          "Wolfgang Kiess",
+          "Jan Jürjens"
+        ]
+      },
+      {
+        "title": "Transmit Beamforming Self-Interference Cancellation Design and Experiment for STAR Phased Array.",
+        "authors": [
+          "Chengzhe Shi",
+          "Wensheng Pan",
+          "Ying Shen",
+          "Shihai Shao"
+        ]
+      },
+      {
+        "title": "A Direct Sequence Spread Spectrum-AFDM Wireless Communications System for High-Mobility Scenarios.",
+        "authors": [
+          "Peng Yuan",
+          "Tao Luo",
+          "Zulin Wang",
+          "Qin Huang",
+          "Yuanhan Ni"
+        ]
+      },
+      {
+        "title": "ML-Based Intelligent O-RAN Control in 6G Integrated Terrestrial and Non-Terrestrial Networks.",
+        "authors": [
+          "Swapnil Sadashiv Shinde",
+          "David Naseh",
+          "Daniele Tarchi"
+        ]
+      },
+      {
+        "title": "Resource Allocation for Sounding Reference Signal in 5G Massive MIMO Under Channel Aging.",
+        "authors": [
+          "Prakash Chaki",
+          "Jun Shikida",
+          "Kazushi Muraoka"
+        ]
+      },
+      {
+        "title": "MIMO Channel Capacity Measurements in an Indoor-Office Environment at 6 and 37 GHz.",
+        "authors": [
+          "Ruoyu Sun",
+          "Wilhelm Keusgen",
+          "Dorin Viorel"
+        ]
+      },
+      {
+        "title": "Microsite Placement Analysis in 6G Multistatic Collaborative Sensing Systems.",
+        "authors": [
+          "Zixiang Han",
+          "Lincong Han",
+          "Chih-Lin I",
+          "Yahui Xue",
+          "Jing Jin",
+          "Yafeng Wang",
+          "Qixing Wang",
+          "Guangyi Liu"
+        ]
+      },
+      {
+        "title": "Anti-Malicious ISAC Using Proactive Monitoring.",
+        "authors": [
+          "Zonghan Wang",
+          "Zahra Mobini",
+          "Hien Quoc Ngo",
+          "Michail Matthaiou"
+        ]
+      },
+      {
+        "title": "Autonomous Node Selection for Improved Accuracy in Multi-Model Federated Learning.",
+        "authors": [
+          "Georgios Mystriotis",
+          "Md Sadman Siraj",
+          "Maria Diamanti",
+          "Eirini Eleni Tsiropoulou",
+          "Symeon Papavassiliou"
+        ]
+      },
+      {
+        "title": "Rethinking Data: Towards Better Performing Domain-Specific Small Language Models.",
+        "authors": [
+          "Boris Nazarov",
+          "Darya Frolova",
+          "Yackov Lubarsky",
+          "Alexei Gaissinski",
+          "Pavel Kisilev"
+        ]
+      },
+      {
+        "title": "Lossy Cooperative UAV Relaying Networks: Outage Probability Analysis and Location Optimization.",
+        "authors": [
+          "Ya Lian",
+          "Wensheng Lin",
+          "Lixin Li",
+          "Fucheng Yang",
+          "Zhu Han",
+          "Tad Matsumoto"
+        ]
+      },
+      {
+        "title": "Optimizing Feature Selection to Improve Classification in Intrusion Detection System.",
+        "authors": [
+          "Amir Anees",
+          "Ouns Bouachir",
+          "Safa Otoum"
+        ]
+      },
+      {
+        "title": "Enhancing Path Selections with Interference Graphs in Multihop Relay Wireless Networks.",
+        "authors": [
+          "Cao Vien Phung",
+          "André C. Drummond",
+          "Admela Jukan"
+        ]
+      },
+      {
+        "title": "Exploiting CoRSMA-ISAC in Multi-UAV System for Emergency Response.",
+        "authors": [
+          "Binghan Yao",
+          "Ruoguang Li",
+          "Li Wang",
+          "Aiguo Fei"
+        ]
+      },
+      {
+        "title": "Polar Coding for Parallel Dirty Paper Channels.",
+        "authors": [
+          "M. Yusuf Sener",
+          "Ronald Boehnke",
+          "Wen Xu"
+        ]
+      },
+      {
+        "title": "Bi-GRU and XAI-Driven War Zone Detection Using Satellite Images for Next-Gen Emergency Communication.",
+        "authors": [
+          "Kavya Alpit Patel",
+          "Dhruv Sarju Thakkar",
+          "Anuja Nair",
+          "Tarjni Vyas",
+          "Shivani Desai",
+          "Sudeep Tanwar"
+        ]
+      },
+      {
+        "title": "CR-Enabled NOMA Integrated Non-Terrestrial IoT Networks with Transmissive RIS.",
+        "authors": [
+          "Wali Ullah Khan",
+          "Zain Ali",
+          "Asad Mahmood",
+          "Eva Lagunas",
+          "Syed Tariq Shah",
+          "Symeon Chatzinotas"
+        ]
+      },
+      {
+        "title": "Energy-Aware Federated Learning in Satellite Constellations.",
+        "authors": [
+          "Nasrin Razmi",
+          "Bho Matthiesen",
+          "Armin Dekorsy",
+          "Petar Popovski"
+        ]
+      },
+      {
+        "title": "Flexible Joint Source-Channel Coding for Image Semantic Communication.",
+        "authors": [
+          "Wenyuan Wang",
+          "Chaowei Wang",
+          "Jisong Xu",
+          "Lexi Xu",
+          "Mingliang Pang",
+          "Changxin Lu",
+          "Ziyi Huang",
+          "Weidong Wang",
+          "Peng Yu",
+          "Fan Jiang",
+          "Yinghui Ye"
+        ]
+      },
+      {
+        "title": "BACSA: A Bias-Aware Client Selection Algorithm for Privacy-Preserving Federated Learning in Wireless Healthcare Networks.",
+        "authors": [
+          "Sushilkumar Yadav",
+          "Irem Bor-Yaliniz"
+        ]
+      },
+      {
+        "title": "CONVERGE: A Multi-Agent Vision-Radio Architecture for xApps.",
+        "authors": [
+          "Filipe B. Teixeira",
+          "Carolina Simões",
+          "Paulo Fidalgo",
+          "Wagner Pedrosa",
+          "André Coelho",
+          "Manuel Ricardo",
+          "Luís M. Pessoa"
+        ]
+      },
+      {
+        "title": "Control-oriented Transmission Scheduling for Time-Sensitive Networked Control Systems.",
+        "authors": [
+          "Ying Wang",
+          "Yi Yang",
+          "Shaohua Wu"
+        ]
+      },
+      {
+        "title": "Robust Semantic-Aware Neural Video Compression.",
+        "authors": [
+          "Hao Cao",
+          "Jiangkai Ying",
+          "Zhijin Qin"
+        ]
+      },
+      {
+        "title": "Exploiting Beamforming for Enforcing Semantic Secrecy in 5G NR mmWave Communications.",
+        "authors": [
+          "Luis Torres-Figueroa",
+          "Johannes Voichtleitner",
+          "Ullrich J. Mönich",
+          "Taro Eichler",
+          "Moritz Wiese",
+          "Holger Boche"
+        ]
+      },
+      {
+        "title": "Visual Knowledge-Aided Learning Framework for Cross-Task WiFi-Based Sensing.",
+        "authors": [
+          "Jinggan Zhou",
+          "Xuewen Liao",
+          "Anye Zhang",
+          "Ang Li"
+        ]
+      },
+      {
+        "title": "The Hybrid Decoder of Belief Propagation and Ordered Statistics Decoding for LDPC Codes.",
+        "authors": [
+          "Xuanyu Li",
+          "Kai Niu",
+          "Yuxin Han"
+        ]
+      },
+      {
+        "title": "On the Capacity of an Asynchronous MIMO System with Oversampling Reception.",
+        "authors": [
+          "Sen Wang",
+          "Shulun Zhao",
+          "Xin Su",
+          "Mengting Lou",
+          "Qixing Wang",
+          "Guangyi Liu",
+          "Chih-Lin I",
+          "Jiangzhou Wang"
+        ]
+      },
+      {
+        "title": "Channel Modeling and Characteristics of Human Motion Using Dynamic Ray Tracing and MoCap.",
+        "authors": [
+          "Yuan Liu",
+          "Johann Fuchs",
+          "M. R. Bhavani Shankar"
+        ]
+      },
+      {
+        "title": "Unicast-Multicast Cell-Free Massive MIMO: Gradient-Based Resource Allocation.",
+        "authors": [
+          "Mustafa S. Abbas",
+          "Zahra Mobini",
+          "Hien Quoc Ngo",
+          "Michail Matthaiou"
+        ]
+      },
+      {
+        "title": "Ultra UE Power Saving with Dual Receivers.",
+        "authors": [
+          "Seunghoon Choi",
+          "Hyewon Yang",
+          "Jaewon Lee",
+          "Hyoungju Ji",
+          "Younsun Kim",
+          "Hyunseok Ryu"
+        ]
+      },
+      {
+        "title": "Beampattern Synthesis with a Computationally Efficient Matrix Nearness Approach.",
+        "authors": [
+          "Berkan Kiliç",
+          "Kenan Turbic",
+          "Martin Kasparick",
+          "Slawomir Stanczak"
+        ]
+      },
+      {
+        "title": "A Multi-Path Approach to Deterministic Backhaul for Geographically Distributed 5G Campus Networks.",
+        "authors": [
+          "Nicolas Zunker",
+          "Marius Corici",
+          "Hauke Buhr",
+          "Thomas Magedanz"
+        ]
+      },
+      {
+        "title": "Optimal Frequency Reuse of Multi-Cell IoT Networks over Unlicensed Spectrum.",
+        "authors": [
+          "Yu Zhang",
+          "Yiqing Zhai",
+          "Ying Cui",
+          "Wenkun Wen",
+          "Tierui Min"
+        ]
+      },
+      {
+        "title": "Beyond the Haze: Leveraging SDVNs for Safe Navigation in Fog-Intensive Environment.",
+        "authors": [
+          "Fatima Sohail",
+          "Huma Ghafoor"
+        ]
+      },
+      {
+        "title": "Joint Load Balancing of Bandwidth and Security Resources in Optical Satellite Networks.",
+        "authors": [
+          "Yurou Hao",
+          "Wei Wang",
+          "Tianhe Liu",
+          "Yiyang Li",
+          "Yajie Li",
+          "Yongli Zhao",
+          "Shanguo Huang",
+          "Kun Xu",
+          "Jie Zhang"
+        ]
+      },
+      {
+        "title": "U-Plane-based Two-level Anomaly Detection Scheme for Large Scale 5G-IIoT: An Open-source approach for Aether Onramp.",
+        "authors": [
+          "Yuxuan Shi",
+          "Qianqian Pan",
+          "Akihiro Nakao"
+        ]
+      },
+      {
+        "title": "Analyzing 6G Satellite IoT Architecture Using Stochastic Geometry: A Meta Distribution Approach.",
+        "authors": [
+          "Baly Naganjani",
+          "Ayush Kumar Dwivedi",
+          "Sachin Chaudhari",
+          "Taneli Riihonen"
+        ]
+      },
+      {
+        "title": "Millimeter-Wave Scattering Model Based on RCS Distribution: A Simulation and Verification Study.",
+        "authors": [
+          "Javad Ebrahimizadeh",
+          "Xuesong Cai",
+          "Juan Sanchez",
+          "Evgenii Vinogradov",
+          "Fredrik Tufvesson",
+          "Guy A. E. Vandenbosch"
+        ]
+      },
+      {
+        "title": "BE-RAN: Blockchain-enabled Open RAN for 6G with DID and Privacy-Preserving Communication.",
+        "authors": [
+          "Hao Xu",
+          "Zihan Zhou",
+          "Lei Zhang",
+          "Yunqing Sun",
+          "Chih-Lin I"
+        ]
+      },
+      {
+        "title": "Cooperative Terahertz and Sub-6 GHz Integrated Sensing and Communication for Beam Management.",
+        "authors": [
+          "Wenrong Chen",
+          "Lingxiang Li",
+          "Zhi Chen",
+          "Tony Q. S. Quek"
+        ]
+      },
+      {
+        "title": "Fully Convolutional Residual Autoencoder-Aided Spectrum Map Completion for Data Limited Conditions.",
+        "authors": [
+          "Yuanye Yang",
+          "Zhipeng Lin",
+          "Qiuming Zhu",
+          "Hongyu Li",
+          "Jie Zeng",
+          "Qihui Wu",
+          "Hui Ding"
+        ]
+      },
+      {
+        "title": "An attention LSTM framework for detection of micro-deformation.",
+        "authors": [
+          "Junchen Liu",
+          "Chuangxin Jiang",
+          "Dawei Chen",
+          "Kangjie Zhang",
+          "Ruyue Li"
+        ]
+      },
+      {
+        "title": "Optimizing CNN Model for Anomaly Detection in IoT through Software-Defined Wireless Sensor Networks (SD-WSN).",
+        "authors": [
+          "Akshat Gaurav",
+          "Brij B. Gupta",
+          "Jinsong Wu",
+          "Varsha Arya",
+          "Kwok Tai Chui"
+        ]
+      },
+      {
+        "title": "Spatio-Temporal Traffic Prediction Using Crossover Attention for Communications and Networking.",
+        "authors": [
+          "Ke He",
+          "Thang X. Vu",
+          "Symeon Chatzinotas",
+          "Björn E. Ottersten"
+        ]
+      },
+      {
+        "title": "AI-driven Throughput Prediction for Prioritization of Video Calling Traffic.",
+        "authors": [
+          "Jayendra Reddy Kovvuri",
+          "Madhan Raj Kanagarathinam",
+          "Krishna M. Sivalingam",
+          "Arun Padmanabh Bhagavath"
+        ]
+      },
+      {
+        "title": "Secure Communications Against Full-Duplex Active Eavesdropper With Double Cooperative RISs.",
+        "authors": [
+          "Alemayehu Kebede A",
+          "Yi Zhou",
+          "Zheng Ma"
+        ]
+      },
+      {
+        "title": "Detection of Abrupt Change in AOA/AOD within Massive MIMO Systems.",
+        "authors": [
+          "Cixiao Zhang",
+          "Yin Xu",
+          "Runnan Liu",
+          "Xiaowu Ou",
+          "Dazhi He",
+          "Wenjun Zhang"
+        ]
+      },
+      {
+        "title": "A DTN-based Security Deduction Method Using Attack-Driven Network State Transition.",
+        "authors": [
+          "Li Su",
+          "Ke Wang",
+          "Ru Yan",
+          "Xiaojun Zhuang",
+          "Yuwei Ma",
+          "Haitao Du",
+          "Chang Liu"
+        ]
+      },
+      {
+        "title": "Misalignments in Orbital Angular Momentum-based Optical Wireless Communication Systems.",
+        "authors": [
+          "Rizwana Ahmad",
+          "Humeyra Caglayan",
+          "Harald Haas"
+        ]
+      },
+      {
+        "title": "A Novel Network Architecture Enabled Resource Circulation towards 6G: Consociation Network (Co-Net).",
+        "authors": [
+          "Feng Xie",
+          "Kangjie Zhang",
+          "Fenghe Huang"
+        ]
+      },
+      {
+        "title": "Generative Semantic Communication for Text-to-Speech Synthesis.",
+        "authors": [
+          "Jiahao Zheng",
+          "Jinke Ren",
+          "Peng Xu",
+          "Zhihao Yuan",
+          "Jie Xu",
+          "Fangxin Wang",
+          "Gui Gui",
+          "Shuguang Cui"
+        ]
+      },
+      {
+        "title": "Wireless-Powered zeRIS based Reliable and Secure Communications.",
+        "authors": [
+          "Jingyu Chen",
+          "Kunrui Cao",
+          "Lu Lv",
+          "Beixiong Zheng",
+          "Haolian Chi",
+          "Xinhao Zhou",
+          "Chenhao Yang"
+        ]
+      },
+      {
+        "title": "Towards Quantum Semantic Communications: A Framework for Integrating Quantum and Semantic Technologies.",
+        "authors": [
+          "Nikhitha Nunavath",
+          "Nour Hello",
+          "Emilio Calvanese Strinati",
+          "Riccardo Bassoli",
+          "Frank H. P. Fitzek"
+        ]
+      },
+      {
+        "title": "Energy Efficiency Comparison of THz and VCSEL-Based OWC for 6G.",
+        "authors": [
+          "Mingqing Liu",
+          "Hossein Kazemi",
+          "Majid Safari",
+          "Iman Tavakkolnia",
+          "Harald Haas"
+        ]
+      },
+      {
+        "title": "Outage Probability Analysis for OTFS in Lossy Communications.",
+        "authors": [
+          "Xin Zhang",
+          "Wensheng Lin",
+          "Lixin Li",
+          "Fucheng Yang",
+          "Zhu Han",
+          "Tad Matsumoto"
+        ]
+      },
+      {
+        "title": "Energy-Efficient Wireless Power Transfer to IoT devices in IRS-aided Underlaying Solar Powered UAV.",
+        "authors": [
+          "Neeraj Joshi",
+          "Ishan Budhiraja",
+          "Abhay Bansal"
+        ]
+      },
+      {
+        "title": "Relay-Assisted Over-the-Air Personalized Federated Fine-Tuning for Large Language Model.",
+        "authors": [
+          "Haofeng Sun",
+          "Hui Tian",
+          "Jingheng Zheng",
+          "Wanli Ni"
+        ]
+      },
+      {
+        "title": "Hardware Limitations of Dynamic Metasurface Antennas in the Uplink: A Comparative Study.",
+        "authors": [
+          "Maryam Rezvani",
+          "Raviraj Adve",
+          "Amr El-Keyi",
+          "Akram Bin Sediq"
+        ]
+      },
+      {
+        "title": "Autoencoder-Based Deep Learning Approach for 3D Spectrum Completion and Prediction.",
+        "authors": [
+          "Xiqiao Zheng",
+          "Xingjian Zhang",
+          "Yuan Ma",
+          "Shaohua Wu",
+          "Ye Wang",
+          "Jiayin Xue",
+          "Qinyu Zhang"
+        ]
+      },
+      {
+        "title": "Rate-Compatible Root-Protograph-based LDPC Codes for IR-HARQ Systems.",
+        "authors": [
+          "Zhaojie Yang",
+          "Xiaoxi Yu",
+          "Yi Fang",
+          "Yong Liang Guan"
+        ]
+      },
+      {
+        "title": "Assessing Handover Frequency Effects on mMTC and eMBB Services in 5G Non-Terrestrial Networks.",
+        "authors": [
+          "Guillem Boquet",
+          "Jan Ciriquian",
+          "Ferran Adelantado",
+          "Xavier Vilajosana"
+        ]
+      },
+      {
+        "title": "Reduced Overhead Channel Estimation for OTFS With Split Pilot.",
+        "authors": [
+          "Danilo Lelin Li",
+          "Sanoopkumar P. S.",
+          "Arman Farhang"
+        ]
+      },
+      {
+        "title": "Machine Learning-aided Sensing in Private mmWave Networks for Industrial Applications.",
+        "authors": [
+          "Marcus Haferkamp",
+          "Simon Häger",
+          "Stefan Böcker",
+          "Christian Wietfeld"
+        ]
+      },
+      {
+        "title": "Overcoming Maritime Connectivity Challenges with Hybrid RF/FSO Links.",
+        "authors": [
+          "Fahad S. Alqurashi",
+          "Salah Abdeljabar",
+          "Abderrahmen Trichili",
+          "Mohamed-Slim Alouini"
+        ]
+      },
+      {
+        "title": "DR-LSTM Detection Scheme for B5G DoS Traffic.",
+        "authors": [
+          "Tianbin Dang",
+          "Qian Sun",
+          "Lulu Dai",
+          "Lin Tian",
+          "Jie Zeng"
+        ]
+      },
+      {
+        "title": "Swarm Intelligence aided PTS-Based Framework for PAPR Reduction in Satellite Communication System.",
+        "authors": [
+          "Carla E. Garcia",
+          "Francisco J. Martín-Vega",
+          "Mario R. Camana",
+          "Geoffrey Eappen",
+          "Marcele O. K. Mendonça",
+          "Abuzar Babikir",
+          "Beatriz Soret",
+          "Jorge Querol",
+          "Symeon Chatzinotas"
+        ]
+      },
+      {
+        "title": "Bridge to Real Environment with Hardware-in-the-loop for Wireless Artificial Intelligence Paradigms.",
+        "authors": [
+          "Jeffrey Redondo",
+          "Nauman Aslam",
+          "Juan Zhang",
+          "Zhenhui Yuan",
+          "David Jimenez"
+        ]
+      },
+      {
+        "title": "Secure Social Network Applications via Private Blockchain and End-To-End Encryption.",
+        "authors": [
+          "Marc Jayson Baucas",
+          "Petros Spachos"
+        ]
+      },
+      {
+        "title": "Cluster-Aware Causal Discovery Framework for Root Cause Analysis of Base Station Alarms.",
+        "authors": [
+          "Ke Zhang",
+          "Xu Zhu",
+          "Jiale Zheng",
+          "Jie Cao",
+          "Keli Zhang",
+          "Lujia Pan"
+        ]
+      },
+      {
+        "title": "A Novel Communication Architecture for Site-Decoupling of Downlink and Uplink for Distributed MIMO.",
+        "authors": [
+          "Xiaolong Guo",
+          "Bo Gao",
+          "Guangyu Jiang",
+          "Ruyue Li",
+          "Yang Zhang",
+          "Meng Mei"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Collaborative Deep Learning for Cyber Threat Identification in 5G Healthcare 4.0.",
+        "authors": [
+          "Arun Kumar Dey",
+          "Govind P. Gupta",
+          "Satya Prakash Sahu"
+        ]
+      },
+      {
+        "title": "From Black Box to Transparency: Consistency and Cost within XAI.",
+        "authors": [
+          "Julio Corona",
+          "Pedro Rodrigues",
+          "Leonardo Almeida",
+          "Rafael Teixeira",
+          "Mário Antunes",
+          "Rui L. Aguiar"
+        ]
+      },
+      {
+        "title": "Energy Minimization for UAV-Aided ISAC in a Cluttered Environment.",
+        "authors": [
+          "Mustafa Burak Yilmaz",
+          "Anja Klein",
+          "Lin Xiang"
+        ]
+      },
+      {
+        "title": "LumiPane: Intelligent Interaction through Gesture Sensing and Ambient Light Communication.",
+        "authors": [
+          "Liguang Ruan",
+          "Chenxin Liang",
+          "Jiaqi Yin",
+          "Jiarong Li",
+          "Xiaojun Liang",
+          "Wenbo Ding"
+        ]
+      },
+      {
+        "title": "UAV-Enabled Relaying IRS: Joint Deployment, Time Allocation, and Beamforming Optimization.",
+        "authors": [
+          "Zi Zhang",
+          "Weidong Mei",
+          "Beixiong Zheng",
+          "Zhi Chen"
+        ]
+      },
+      {
+        "title": "Near-Field Multipath MIMO Channel Model for Imperfect Surface Reflection.",
+        "authors": [
+          "Mohamadreza Delbari",
+          "George C. Alexandropoulos",
+          "Robert Schober",
+          "H. Vincent Poor",
+          "Vahid Jamali"
+        ]
+      },
+      {
+        "title": "Multi-Satellite Beam Hopping Based on Deep Reinforcement Learning for LEO Satellite Systems.",
+        "authors": [
+          "Yifan Xu",
+          "Ruili Zhao",
+          "Yongyi Ran",
+          "Jiangtao Luo"
+        ]
+      },
+      {
+        "title": "RIS Optimization for Covert Communications by Using Multiport Network Theory.",
+        "authors": [
+          "Andrea Abrardo",
+          "Giulio Bartoli"
+        ]
+      },
+      {
+        "title": "Fully Decentralized Task Offloading in Multi-Access Edge Computing Systems.",
+        "authors": [
+          "Shubham Aggarwal",
+          "Muhammad Aneeq uz Zaman",
+          "Melih Bastopcu",
+          "Sennur Ulukus",
+          "Tamer Basar"
+        ]
+      },
+      {
+        "title": "Movable Antenna System with Movement Delay Consideration: When to Move and Where to Move?",
+        "authors": [
+          "Honghao Wang",
+          "Qingqing Wu",
+          "Ying Gao",
+          "Wen Chen",
+          "Guojie Hu"
+        ]
+      },
+      {
+        "title": "An Image Semantic Communication System Based on Swin Transformer and Generative Adversarial Networks.",
+        "authors": [
+          "Wenyin Liang",
+          "Nan Ma",
+          "Linzi Shen",
+          "Mengshu Song",
+          "Xiaoxuan Qi",
+          "Yiming Liu"
+        ]
+      },
+      {
+        "title": "Frequency-Responsive RCS characteristics and scaling implications for ISAC development.",
+        "authors": [
+          "Saúl Fenollosa",
+          "Monika Drozdowska",
+          "Wenfei Yang",
+          "Sergio Micó-Rosa",
+          "Alejandro Castilla",
+          "Alejandro Lopez-Escudero",
+          "Jian Li",
+          "Narcís Cardona"
+        ]
+      },
+      {
+        "title": "Joint Source-Channel Coding for Wireless Image Transmission with Regulated Autoencoder.",
+        "authors": [
+          "Shuchen Han",
+          "Li Lan",
+          "Zhiping Shi",
+          "Qi He",
+          "Zhi Chen"
+        ]
+      },
+      {
+        "title": "MSMCC: Multi-Small Model Coordination Center for Accelerating Network Intelligence.",
+        "authors": [
+          "Yuhong Huang",
+          "Liexiang Yue",
+          "Min Zhang",
+          "Qingbi Zheng",
+          "Na Li",
+          "Guangyi Liu",
+          "Qixing Wang"
+        ]
+      },
+      {
+        "title": "Minimizing Energy Consumption for Mobile Edge Generation.",
+        "authors": [
+          "Meng Zhang",
+          "Ruikang Zhong",
+          "Xidong Mu",
+          "Yuanwei Liu"
+        ]
+      },
+      {
+        "title": "6G Near-Field Communication: Propagation Analysis and EDoF Evaluation.",
+        "authors": [
+          "Mengnan Jian",
+          "Yijian Chen",
+          "Nan Zhang",
+          "Yajun Zhao"
+        ]
+      },
+      {
+        "title": "Serially Concatenated PPM for Deep Space Optical Communications over Poisson Channel.",
+        "authors": [
+          "Xiaowei Wu",
+          "Peng Kang",
+          "Qiang Wang",
+          "Lei Yang",
+          "Yang Sun",
+          "Yixi Lu"
+        ]
+      },
+      {
+        "title": "Minimizing Movement Delay for Movable Antennas via Trajectory Optimization.",
+        "authors": [
+          "Qingliang Li",
+          "Weidong Mei",
+          "Boyu Ning",
+          "Rui Zhang"
+        ]
+      },
+      {
+        "title": "Enabling LEO Satellite Mobile Direct NB-IoT Communication With Existing Unmodified UEs.",
+        "authors": [
+          "Akihiro Nakao"
+        ]
+      },
+      {
+        "title": "Secure Optical Coded GSSK System with Dimming.",
+        "authors": [
+          "Sümeyra Hassan",
+          "Erdal Panayirci",
+          "Tor Helleseth",
+          "H. Vincent Poor"
+        ]
+      },
+      {
+        "title": "Security-Aware Dynamic Service Selection in Satellite Mobile Edge Computing Networks.",
+        "authors": [
+          "Hui Liang",
+          "Zhihui Wu",
+          "Yanfeng Zhang",
+          "Wei Zhang"
+        ]
+      },
+      {
+        "title": "TRIC: Triage Compressed Data at the Edge for Efficient Data Transmission in Anomaly Detection.",
+        "authors": [
+          "Francesco Taurone",
+          "Jonas Dorsch",
+          "Qi Zhang",
+          "Daniel E. Lucani"
+        ]
+      },
+      {
+        "title": "Semantic Feature Compression and Adaption for Latency-Sensitive Semantic Communication.",
+        "authors": [
+          "Huanyu Zhang",
+          "Yulin Hu",
+          "Xiaopeng Yuan",
+          "Anke Schmeink"
+        ]
+      },
+      {
+        "title": "Uplink Spectral Efficiency Performance of Cell-Free RAN System Under Imperfect CSI.",
+        "authors": [
+          "Xinjiang Xia",
+          "Hongtao Hu",
+          "Xiao Han",
+          "Shuning Yang",
+          "Dongming Wang",
+          "Xiaohu You"
+        ]
+      },
+      {
+        "title": "Joint Service Deployment and Mobile Edge Computing in Space-Air-Ground Integrated Network.",
+        "authors": [
+          "Jingchao He",
+          "Nan Cheng",
+          "Zhisheng Yin",
+          "Conghao Zhou",
+          "Wei Quan",
+          "Haibo Zhou"
+        ]
+      },
+      {
+        "title": "Convolutional Neural Network Approach to Histopathological Image Analysis for Enhancing Ovarian Cancer Diagnosis.",
+        "authors": [
+          "Jagendra Singh",
+          "Kuan Tak Tan",
+          "Ishan Budhiraja",
+          "Neeraj Kumar",
+          "Sachin Sharma"
+        ]
+      },
+      {
+        "title": "ISL-based Multi-Satellite Collaborative Computation Offloading and Resource Allocation in ISTN.",
+        "authors": [
+          "Yujie Zhang",
+          "Jingchao He",
+          "Nan Cheng",
+          "Ruijin Sun",
+          "Qihao Li",
+          "Wei Quan"
+        ]
+      },
+      {
+        "title": "Part-of-speech-Enhanced Text Semantic Communication Framework: A GCN-Based Gate Mechanism.",
+        "authors": [
+          "Jiayi Tan",
+          "Mengying Sun",
+          "Jingxuan Zhang",
+          "Xiaodong Xu",
+          "Baoling Liu"
+        ]
+      },
+      {
+        "title": "UAV-mounted Multi-Functional IRSs for Covert Wireless Communications.",
+        "authors": [
+          "Xiaoyu Ren",
+          "Ang Gao",
+          "Tunan Xu",
+          "Jiankang Zhang"
+        ]
+      },
+      {
+        "title": "Surveillance Video Representations for Bandwidth-limited Semantic Communications.",
+        "authors": [
+          "Mohamed Karaa",
+          "Raed Bahria",
+          "Hakim Ghazzai",
+          "Gianluca Setti",
+          "Lokman Sboui"
+        ]
+      },
+      {
+        "title": "Sparse Autoencoder-Driven Key Generation for Enhanced IoT Security.",
+        "authors": [
+          "Anas Alashqar",
+          "Raed Mesleh",
+          "Ehsan Olyaei Torshizi",
+          "Werner Henkel"
+        ]
+      },
+      {
+        "title": "Mobility-Aware Federated Learning: Multi-Armed Bandit Based Selection in Vehicular Network.",
+        "authors": [
+          "Haoyu Tu",
+          "Lin Chen",
+          "Zuguang Li",
+          "Xiaopei Chen",
+          "Wen Wu"
+        ]
+      },
+      {
+        "title": "Integrated Sensing, Computing and Secure Semantic Communication for Smart Healthcare Systems.",
+        "authors": [
+          "Yinchao Yang",
+          "Zhaohui Yang",
+          "Weijie Yuan",
+          "Fan Liu",
+          "Xiaowen Cao",
+          "Chongwen Huang",
+          "Zhaoyang Zhang",
+          "Mohammad Shikh-Bahaei"
+        ]
+      },
+      {
+        "title": "Bisecting K-Means in RAG for Enhancing Question-Answering Tasks Performance in Telecommunications.",
+        "authors": [
+          "Pedro Sousa",
+          "Cláudio Klautau Mello",
+          "Frank B. Morte",
+          "Luis F. Solis Navarro"
+        ]
+      },
+      {
+        "title": "Measuring Coarse Propagation Delays from Periodic Signals over a LEO Satellite Channel.",
+        "authors": [
+          "Rainer Bachl",
+          "Xiaoyu An",
+          "Zhibin Yu",
+          "Xiaofeng Wu"
+        ]
+      },
+      {
+        "title": "6D Movable Antenna-Aided Hybrid Beamforming for Multi-User Communications.",
+        "authors": [
+          "Yichi Zhang",
+          "Yuchen Zhang",
+          "Sa Xiao",
+          "Wanbin Tang",
+          "Yonina C. Eldar"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/globecom/globecom2024.html": {
     "header": "GLOBECOM 2024:\nCape Town, South Africa",
     "year": "2024",

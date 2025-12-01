@@ -1,4 +1,245 @@
 {
+  "https://dblp.org/db/conf/rv/rv2025.html": {
+    "header": "RV 2025: Graz, Austria",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Algorithmic Fairness: A Runtime Perspective.",
+        "authors": [
+          "Filip Cano",
+          "Thomas A. Henzinger",
+          "Konstantin Kueffner"
+        ]
+      },
+      {
+        "title": "DSLs for Runtime Verification.",
+        "authors": [
+          "Klaus Havelund",
+          "Moran Omer",
+          "Doron Peled"
+        ]
+      },
+      {
+        "title": "Execution and Monitoring of HOA Automata with HOAX.",
+        "authors": [
+          "Luca Di Stefano"
+        ]
+      },
+      {
+        "title": "Formal Verification of Neural Certificates Done Dynamically.",
+        "authors": [
+          "Thomas A. Henzinger",
+          "Konstantin Kueffner",
+          "Emily Yu"
+        ]
+      },
+      {
+        "title": "Runtime Monitoring and Enforcement of Conditional Fairness in Generative AIs.",
+        "authors": [
+          "Chih-Hong Cheng",
+          "Changshun Wu",
+          "Xingyu Zhao",
+          "Saddek Bensalem",
+          "Harald Ruess"
+        ]
+      },
+      {
+        "title": "A ROS Adapter for RTLola.",
+        "authors": [
+          "Jan Baumeister",
+          "Bernd Finkbeiner",
+          "Franz Jünger",
+          "Florian Kohn",
+          "Sebastian Schirmer",
+          "Christoph Torens"
+        ]
+      },
+      {
+        "title": "DynSRV: Dynamically Updated Properties for Stream Runtime Verification.",
+        "authors": [
+          "Morten Haahr Kristensen",
+          "Thomas Wright",
+          "Cláudio Gomes",
+          "Lukas Esterle",
+          "Peter Gorm Larsen"
+        ]
+      },
+      {
+        "title": "Modular and Online Monitoring of Temporal Logic Specification with Integral and Filter.",
+        "authors": [
+          "Simone Silvetti",
+          "Michele Loreti",
+          "Laura Nenzi"
+        ]
+      },
+      {
+        "title": "Alignment Monitoring.",
+        "authors": [
+          "Thomas A. Henzinger",
+          "Konstantin Kueffner",
+          "Vasu Singh",
+          "I Sun"
+        ]
+      },
+      {
+        "title": "Instrumenting Runtime Enforcement.",
+        "authors": [
+          "François Hublet",
+          "David A. Basin",
+          "Linda Hu",
+          "Srdan Krstic",
+          "Lennard Reese"
+        ]
+      },
+      {
+        "title": "Active Monitoring with RTLola: A Specification-Guided Scheduling Approach.",
+        "authors": [
+          "Jan Baumeister",
+          "Bernd Finkbeiner",
+          "Frederik Scheerer"
+        ]
+      },
+      {
+        "title": "The Power of Reframing: Using LLMs in Synthesizing RV Monitors.",
+        "authors": [
+          "Itay Cohen",
+          "Klaus Havelund",
+          "Doron Peled",
+          "Yoav Goldberg"
+        ]
+      },
+      {
+        "title": "Conformal Safety Shielding for Imperfect-Perception Agents.",
+        "authors": [
+          "William Scarbro",
+          "Calum Imrie",
+          "Sinem Getir Yaman",
+          "Kavan Fatehi",
+          "Corina S. Pasareanu",
+          "Radu Calinescu",
+          "Ravi Mangal"
+        ]
+      },
+      {
+        "title": "Extended Timed Regular Expressions.",
+        "authors": [
+          "Marco Muñiz",
+          "Marius Mikucionis",
+          "Kim G. Larsen"
+        ]
+      },
+      {
+        "title": "Monitoring Distributed Systems Based on Partial Order Executions with Global States.",
+        "authors": [
+          "Moran Omer",
+          "Doron Peled",
+          "Ely Porat",
+          "Vijay K. Garg"
+        ]
+      },
+      {
+        "title": "Hidden-Layer Monitoring for Out-of-Distribution Localization in Image Segmentation.",
+        "authors": [
+          "Jan Kretínský",
+          "Sabine Rieder",
+          "Gesina Schwalbe",
+          "Youssef Shoeb"
+        ]
+      },
+      {
+        "title": "CoCAI: Copula-Based Conformal Anomaly Identification for Multivariate Time-Series.",
+        "authors": [
+          "Nicholas A. Pearson",
+          "Francesca Zanello",
+          "Davide Russo",
+          "Luca Bortolussi",
+          "Francesca Cairoli"
+        ]
+      },
+      {
+        "title": "Monitoring Progress and Failure in Autonomous Robot Navigation: A Case Study.",
+        "authors": [
+          "Vladislav Nenchev",
+          "Prodromos Sotiriadis"
+        ]
+      },
+      {
+        "title": "Conformal Predictive Monitoring for Multi-modal Scenarios.",
+        "authors": [
+          "Francesca Cairoli",
+          "Luca Bortolussi",
+          "Jyotirmoy V. Deshmukh",
+          "Lars Lindemann",
+          "Nicola Paoletti"
+        ]
+      },
+      {
+        "title": "Runtime Verification for LTL in Stochastic Systems.",
+        "authors": [
+          "Javier Esparza",
+          "Vincent Fischer"
+        ]
+      },
+      {
+        "title": "A Practical Approach to Runtime Verification.",
+        "authors": [
+          "Raik Hipler",
+          "Hannes Kallwies",
+          "Martin Leucker",
+          "Kevin Gillian van Dommele",
+          "Jannis Wien"
+        ]
+      },
+      {
+        "title": "Hyper Pattern Matching.",
+        "authors": [
+          "Masaki Waga",
+          "Étienne André"
+        ]
+      },
+      {
+        "title": "Monitoring Hypernode Logic Over Infinite Domains.",
+        "authors": [
+          "Marek Chalupa",
+          "Thomas A. Henzinger",
+          "Ana Oliveira da Costa"
+        ]
+      },
+      {
+        "title": "A Compositional Approach to Diagnosing Faults in Cyber-Physical Systems.",
+        "authors": [
+          "Josefine B. Graebener",
+          "Inigo Incer",
+          "Richard M. Murray"
+        ]
+      },
+      {
+        "title": "Statistical Runtime Verification for LLMs via Robustness Estimation.",
+        "authors": [
+          "Natan Levy",
+          "Adiel Ashrov",
+          "Guy Katz"
+        ]
+      },
+      {
+        "title": "ISL: Monitoring Image Segmentation Logic in Medical Imaging Analysis.",
+        "authors": [
+          "Ziyan An",
+          "Daniel Moyer",
+          "Ipek Oguz",
+          "Taylor T. Johnson",
+          "Meiyi Ma"
+        ]
+      },
+      {
+        "title": "Runtime Consultants.",
+        "authors": [
+          "Dana Fisman",
+          "Elina Sudit"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/rv/rv2024.html": {
     "header": "RV 2024: Istanbul, Turkey",
     "year": "2024",

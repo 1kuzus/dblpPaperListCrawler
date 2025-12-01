@@ -1,4 +1,650 @@
 {
+  "https://dblp.org/db/journals/compsec/compsec160.html": {
+    "header": "Computers & Security, Volume 160",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "Cyber-attacks: Securing ship navigation systems using multi-layer cross-validation defense.",
+        "authors": [
+          "Danish Vasan",
+          "Mohammad Hammoudeh",
+          "Adel Fadhl Ahmed",
+          "Hamad Naeem"
+        ]
+      },
+      {
+        "title": "Mapping the metaverse minefield: A TIPS framework for security-conscious business adoption.",
+        "authors": [
+          "Srinidhi Vasudevan",
+          "Anna Piazza",
+          "Lavanya Rajendran",
+          "Samuel Duraivel"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/compsec/compsec159.html": {
+    "header": "Computers & Security, Volume 159",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "How informative are cybersecurity risk disclosures? Empirical analysis of firms targeted by ransomware.",
+        "authors": [
+          "Matthew Adams",
+          "Tyler Moore"
+        ]
+      },
+      {
+        "title": "FTOA-RP: A 'group'-based flow entry replacement policy probing and flow table overflow attack method.",
+        "authors": [
+          "Jinlong Wang",
+          "Yunhe Cui",
+          "Rongfei He",
+          "Yi Chen",
+          "Chun Guo",
+          "Guowei Shen"
+        ]
+      },
+      {
+        "title": "A survey on Android dynamic evasive malware: Taxonomy, countermeasures and open challenges.",
+        "authors": [
+          "Dongni Zhang",
+          "Xiuzhang Yang",
+          "Side Liu",
+          "Yilin Zhou",
+          "Jianming Fu",
+          "Guojun Peng"
+        ]
+      },
+      {
+        "title": "dK-DGDP: A differential privacy approach on directed social network graphs.",
+        "authors": [
+          "Fengrui Hao",
+          "Shiyi Zhao",
+          "Tianlong Gu",
+          "Yan Ma"
+        ]
+      },
+      {
+        "title": "Towards a sustainable cybersecurity framework for Agriculture 4.0 based on a systematic analysis of proposals.",
+        "authors": [
+          "Diegof Bustamantev",
+          "Luis Enrique Sánchez",
+          "David Garcia Rosado",
+          "Antonio Santos-Olmo",
+          "Eduardo Fernández-Medina"
+        ]
+      },
+      {
+        "title": "Advances in network flow watermarking: A survey.",
+        "authors": [
+          "Sibo Qiao",
+          "Qiang Guo",
+          "Min Wang",
+          "Haohao Zhu",
+          "Joel J. P. C. Rodrigues",
+          "Zhihan Lyu"
+        ]
+      },
+      {
+        "title": "Physical semantic inference method for industrial control proprietary protocol data fields.",
+        "authors": [
+          "Yahui Yang",
+          "Yangyang Geng",
+          "Qiang Wei",
+          "Man Zhou",
+          "Xin Che"
+        ]
+      },
+      {
+        "title": "MVX-based mitigation of position-independent code reuse.",
+        "authors": [
+          "Bert Abrath",
+          "Bart Coppens",
+          "Bjorn De Sutter"
+        ]
+      },
+      {
+        "title": "DroidReach++: Exploring the reachability of native code in android applications.",
+        "authors": [
+          "Luca Borzacchiello",
+          "Matteo Cornacchia",
+          "Davide Maiorca",
+          "Giorgio Giacinto",
+          "Emilio Coppa"
+        ]
+      },
+      {
+        "title": "Fuzzing JavaScript JIT compilers with a high-quality differential test oracle.",
+        "authors": [
+          "Jizhe Li",
+          "Haoran Xu",
+          "Yongjun Wang",
+          "Zhiyuan Jiang",
+          "Huang Chun",
+          "Peidai Xie",
+          "Yongxin Chen",
+          "Tian Xia"
+        ]
+      },
+      {
+        "title": "Fuzzy to clear: Elucidating the threat hunter cognitive process and cognitive support needs.",
+        "authors": [
+          "Alessandra Maciel Paz Milani",
+          "Arty Starr",
+          "Samantha Hill",
+          "Callum Curtis",
+          "Norman Anderson",
+          "David Moreno-Lumbreras",
+          "Margaret-Anne D. Storey"
+        ]
+      },
+      {
+        "title": "An anomaly detection based approach for continuous authentication with smartwatch inertial sensors.",
+        "authors": [
+          "Arash Gholami",
+          "Furkan Alaca",
+          "Mohammad Zulkernine"
+        ]
+      },
+      {
+        "title": "PRIVIUM: A differentiated privacy-privilege model for user security and safety in the metaverse.",
+        "authors": [
+          "Saurabh Sharma",
+          "Jaiteg Singh",
+          "Ankur Gupta",
+          "Farman Ali",
+          "Sukhjit Singh Sehra"
+        ]
+      },
+      {
+        "title": "Real-time privacy vulnerability detection techniques in software development: A Systematic Literature Review.",
+        "authors": [
+          "Nadisha Madhushanie",
+          "Sugandima Vidanagamachchi",
+          "Nalin A. G. Arachchilage"
+        ]
+      },
+      {
+        "title": "VDExplainer: Sequential decision-making and probability sampling guided statement-level explanation for vulnerability detection.",
+        "authors": [
+          "Weining Zheng",
+          "Xiaohong Su",
+          "Yuan Jiang",
+          "Hongwei Wei",
+          "Wenxin Tao"
+        ]
+      },
+      {
+        "title": "Integrity verification scheme for distributed dynamic data in service ecosystems.",
+        "authors": [
+          "Fang Li",
+          "Gang Wang",
+          "Guangjun Liu",
+          "Xiao Xue",
+          "Deyu Zhou"
+        ]
+      },
+      {
+        "title": "The hidden complexities of Android TPL detection: An empirical analysis of techniques, challenges, and effectiveness.",
+        "authors": [
+          "Lige Zhan",
+          "Jiang Ming",
+          "Jianming Fu",
+          "Guojun Peng",
+          "Letian Sha",
+          "Lili Lan"
+        ]
+      },
+      {
+        "title": "Cracks in the chain: A technical analysis of real-life supply chain security incidents.",
+        "authors": [
+          "Vyron Kampourakis",
+          "Georgios Kavallieratos",
+          "Vasileios Gkioulos",
+          "Sokratis K. Katsikas"
+        ]
+      },
+      {
+        "title": "Identifying key factors of cybersecurity readiness in organizations: Insights from Malaysian critical infrastructure.",
+        "authors": [
+          "Ahmad Fairuz Mohamed Noor",
+          "Sedigheh Moghavvemi",
+          "Farzana Parveen Tajudeen"
+        ]
+      },
+      {
+        "title": "A new era of advanced privacy solutions with a novel IoT framework on IFTTT.",
+        "authors": [
+          "Wasim Ahmad",
+          "Aitizaz Ali"
+        ]
+      },
+      {
+        "title": "TRIDENT: Tri-modal Real-time Intrusion Detection Engine for New Targets.",
+        "authors": [
+          "Ildi Alla",
+          "Selma Yahia",
+          "Valeria Loscrì"
+        ]
+      },
+      {
+        "title": "Security-aware data provenance for multi-domain software-defined networks.",
+        "authors": [
+          "Visal Dam",
+          "Fariha Tasmin Jaigirdar",
+          "Kallol Krishna Karmakar",
+          "Adnan Anwar"
+        ]
+      },
+      {
+        "title": "A review of major ICT failures and recovery strategies: Strengthening digital resilience.",
+        "authors": [
+          "Amr Adel",
+          "Noor H. S. Alani",
+          "Tony Jan",
+          "Mukesh Prasad"
+        ]
+      },
+      {
+        "title": "NPFTaint: Detecting highly exploitable vulnerabilities in Linux-based IoT firmware with network parsing functions.",
+        "authors": [
+          "Shudan Yue",
+          "Qingbao Li",
+          "Guimin Zhang",
+          "Xiaonan Li",
+          "Bocheng Xu",
+          "Song Tian"
+        ]
+      },
+      {
+        "title": "WEDoHTool: Word embedding based early identification of DoH tunnel tool traffic in dynamic network environments.",
+        "authors": [
+          "Yang Miao",
+          "Xiaoyan Hu",
+          "Guang Cheng",
+          "Ruidong Li",
+          "Hua Wu",
+          "Yang Meng"
+        ]
+      },
+      {
+        "title": "Semi-supervised traceability analysis of investigative scanners of darknet traffic.",
+        "authors": [
+          "Kayumov Abduaziz",
+          "Chansu Han",
+          "Ji Sun Shin"
+        ]
+      },
+      {
+        "title": "Survey of network protocol fuzzers: Taxonomy, techniques, and directions.",
+        "authors": [
+          "Chaoyang Zheng",
+          "Yunchao Wang",
+          "Huihui Huang",
+          "Yunfeng Wang",
+          "Haowen Chen",
+          "Qiang Wei"
+        ]
+      },
+      {
+        "title": "RPFUZZ: Efficient network service fuzzing via pruning redundant mutation.",
+        "authors": [
+          "Wenfeng Lin",
+          "Fangliang Xu",
+          "Zhiyuan Jiang",
+          "Gang Yang",
+          "Zhiwei Li",
+          "Chaojing Tang"
+        ]
+      },
+      {
+        "title": "A quantitative framework for physical cybersecurity in public EVSE systems.",
+        "authors": [
+          "Ahmet Kilic"
+        ]
+      },
+      {
+        "title": "Robust continuous authentication via multi-channel photoplethysmography signals: A wearable wristband solution for uncontrolled environments.",
+        "authors": [
+          "Weiguang Wang",
+          "Xiao Zhang",
+          "Jinlian Du",
+          "Wenbing Zhao"
+        ]
+      },
+      {
+        "title": "Towards software for tailoring information security policies to organisations' different target groups.",
+        "authors": [
+          "Elham Rostami",
+          "Fredrik Karlsson",
+          "Ella Kolkowska",
+          "Shang Gao"
+        ]
+      },
+      {
+        "title": "Robust set partitioning strategy for malicious information detection in large-scale Internet of Things.",
+        "authors": [
+          "Yuhan Suo",
+          "Runqi Chai",
+          "Kaiyuan Chen",
+          "Senchun Chai",
+          "Wannian Liang",
+          "Yuanqing Xia"
+        ]
+      },
+      {
+        "title": "From cyber security incident management to cyber security crisis management in the European Union.",
+        "authors": [
+          "Jukka Ruohonen",
+          "Kalle Rindell",
+          "Simone Busetti"
+        ]
+      },
+      {
+        "title": "Intra-section code cave injection for adversarial evasion attacks on windows PE malware file.",
+        "authors": [
+          "Kshitiz Aryal",
+          "Maanak Gupta",
+          "Mahmoud Abdelsalam",
+          "Moustafa Saleh"
+        ]
+      },
+      {
+        "title": "DynamicFuzz: Confidence-based directed greybox fuzzing for programs with unreliable call graphs.",
+        "authors": [
+          "Hao Jiang",
+          "Kang Wang",
+          "Yujie Yang",
+          "Shan Zhong",
+          "Shuai Zhang",
+          "Chengjie Liu",
+          "Xiarun Chen",
+          "Weiping Wen"
+        ]
+      },
+      {
+        "title": "GJALLARHORN: A framework for vulnerability detection via electromagnetic side-channel analysis in embedded systems.",
+        "authors": [
+          "Jorge Barredo",
+          "Maialen Eceiza",
+          "Jose Luis Flores",
+          "Mikel Iturbe"
+        ]
+      },
+      {
+        "title": "Characterizing Internet Background Traffic from a Spain-Based Network Telescope.",
+        "authors": [
+          "Rodolfo García-Peñas",
+          "Rafael A. Rodríguez-Gómez",
+          "Gabriel Maciá-Fernández"
+        ]
+      },
+      {
+        "title": "Design of a high-stability QPUF and QRNG circuit based on CCNOT gate.",
+        "authors": [
+          "Yuanfeng Xie",
+          "Hanqing Luo",
+          "Aoxue Ding"
+        ]
+      },
+      {
+        "title": "μGAN: A mutation-based cost optimal adversarial malware generation approach against evolving Android malware variants.",
+        "authors": [
+          "Xiaojian Liu",
+          "Zilin Qin",
+          "Kehong Liu"
+        ]
+      },
+      {
+        "title": "Operationalizing cybersecurity knowledge: Design, implementation & evaluation of a knowledge management system for CACAO playbooks.",
+        "authors": [
+          "Orestis Tsirakis",
+          "Konstantinos Fysarakis",
+          "Vasileios Mavroeidis",
+          "Ioannis Papaefstathiou"
+        ]
+      },
+      {
+        "title": "TDSF: Trajectory-preserving method of dual-strategy fusion with differential privacy in LBS.",
+        "authors": [
+          "Xianliang He",
+          "Junyi Li",
+          "Yaping Lin",
+          "Qiao Hu",
+          "Xiehua Li"
+        ]
+      },
+      {
+        "title": "Privacy preserving unique robust and revocable passcode generation from fingerprint data.",
+        "authors": [
+          "Priyabrata Dash",
+          "Debasis Samanta",
+          "Monalisa Sarma",
+          "Ashok Kumar Das",
+          "Athanasios V. Vasilakos"
+        ]
+      },
+      {
+        "title": "Integrated maritime protection: Innovation for the safeguarding of maritime systems based on MARISMA.",
+        "authors": [
+          "Ferney Martínez",
+          "Luis Enrique Sánchez",
+          "Antonio Santos-Olmo",
+          "David Garcia Rosado",
+          "Eduardo Fernández-Medina"
+        ]
+      },
+      {
+        "title": "LARM: Linux Anti Ransomware Monitor.",
+        "authors": [
+          "P. Mohan Anand",
+          "P. V. Sai Charan",
+          "Hrushikesh Chunduri",
+          "Sandeep Kumar Shukla"
+        ]
+      },
+      {
+        "title": "Faster secure and efficient collaborative private data cleaning based on PSI.",
+        "authors": [
+          "Zhaowang Hu",
+          "Jun Ye",
+          "Zhengqi Zhang"
+        ]
+      },
+      {
+        "title": "Proactive threat detection in enterprise systems using Wazuh: A MITRE ATT&CK Evaluation.",
+        "authors": [
+          "Aidan M. Winkler",
+          "Prinkle Sharma"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/compsec/compsec158.html": {
+    "header": "Computers & Security, Volume 158",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Otupy: A flexible, portable, and extensible framework for remote control of security functions.",
+        "authors": [
+          "Matteo Repetto"
+        ]
+      },
+      {
+        "title": "A login page transparency and visual similarity-based zero-day phishing defense protocol.",
+        "authors": [
+          "Gaurav Varshney",
+          "Akanksha Raj",
+          "Divya Sangwan",
+          "Sharif Abuadbba",
+          "Rina Mishra",
+          "Yansong Gao"
+        ]
+      },
+      {
+        "title": "Integrating system calls and position-specific scoring for enhanced anomaly detection in Internet of Things environments.",
+        "authors": [
+          "Nouman Shamim",
+          "Muhammad Asim",
+          "Thar Baker",
+          "Zeeshan Pervez",
+          "Ali Ismail Awad",
+          "Albert Y. Zomaya"
+        ]
+      },
+      {
+        "title": "Methodological reliability evaluation of trust and reputation management systems.",
+        "authors": [
+          "Marek Janiszewski",
+          "Krzysztof Szczypiorski"
+        ]
+      },
+      {
+        "title": "MSNFuzz: Multi-criteria state-sensitive network protocol fuzzing.",
+        "authors": [
+          "Yuqi Zhai",
+          "Rui Ma",
+          "Zheng Zhang",
+          "Siqi Zhao",
+          "Yuche Yang"
+        ]
+      },
+      {
+        "title": "Points of the local optimal privacy utility tradeoff.",
+        "authors": [
+          "Zhenyu Chen",
+          "Lin Yao",
+          "Haibo Hu",
+          "Guowei Wu"
+        ]
+      },
+      {
+        "title": "OPMonitor: Continuously monitoring residual over-granted permissions in verified access control policies.",
+        "authors": [
+          "Xiao Wang",
+          "Yunchuan Guo",
+          "Zhe Sun",
+          "Mingjie Yu",
+          "Fenghua Li",
+          "Liang Fang"
+        ]
+      },
+      {
+        "title": "Tool or Toy: Are SCA tools ready for challenging scenarios?",
+        "authors": [
+          "Congyan Shu",
+          "Wentao Chen",
+          "Guisheng Fan",
+          "Huiqun Yu",
+          "Zijie Huang",
+          "Yuguo Liang"
+        ]
+      },
+      {
+        "title": "Distance-based feature selection using Benford's law for malware detection.",
+        "authors": [
+          "Pedro Fernandes",
+          "Séamus Ó Ciardhuáin",
+          "Mário Antunes"
+        ]
+      },
+      {
+        "title": "AI algorithms under scrutiny: GDPR, DSA, AI Act and CRA as pillars for algorithmic security and privacy in the European Union.",
+        "authors": [
+          "Marta Beltrán"
+        ]
+      },
+      {
+        "title": "Business email compromise: A systematic review of understanding, detection, and challenges.",
+        "authors": [
+          "Amirah Almutairi",
+          "Boojoong Kang",
+          "Nawfal Al Hashimy"
+        ]
+      },
+      {
+        "title": "A fine-grained message clustering method based on message representation and identifier fingerprints.",
+        "authors": [
+          "Degang Li",
+          "Xi Chen",
+          "Mingliang Zhu",
+          "Qingjun Yuan",
+          "Chunxiang Gu"
+        ]
+      },
+      {
+        "title": "VERTFuzz: Version transformer-driven fuzzing for complex file parsers.",
+        "authors": [
+          "Zhaoyu Wen",
+          "Zhiqiang Wang",
+          "Biao Liu"
+        ]
+      },
+      {
+        "title": "FELACS: Federated learning with adaptive client selection for IoT DDoS attack detection.",
+        "authors": [
+          "Mulualem Bitew Anley",
+          "Pasquale Coscia",
+          "Angelo Genovese",
+          "Vincenzo Piuri"
+        ]
+      },
+      {
+        "title": "Attack smarter: Attention-driven fine-grained webpage fingerprinting attacks.",
+        "authors": [
+          "Yali Yuan",
+          "Weiyi Zou",
+          "Guang Cheng"
+        ]
+      },
+      {
+        "title": "Cordon: Enhancing security through kernel-level control in containerized computing environments.",
+        "authors": [
+          "Qiqing Deng",
+          "Zhen Xu",
+          "Qihui Zhou",
+          "Yan Zhang"
+        ]
+      },
+      {
+        "title": "A flexible ISO 27701-based framework for assessing cybersecurity maturity: a proposition and a case application.",
+        "authors": [
+          "Fábio Dias Carneiro",
+          "Izabela Simon Rampasso",
+          "Sidney Luiz de Matos Mello",
+          "Tiago F. A. C. Sigahi",
+          "Hernán Lespay",
+          "Rosley Anholon"
+        ]
+      },
+      {
+        "title": "In-vehicle device data tampering detection: Accurate identification based on correlation calculation and data relationship.",
+        "authors": [
+          "Zigang Chen",
+          "Hongwei Zhang",
+          "Qinyu Mu",
+          "Danlong Li",
+          "Haihua Zhu"
+        ]
+      },
+      {
+        "title": "EnhanceCTI: Enhanced semantic filtering and feature extraction framework for industry-specific cyber threat intelligence.",
+        "authors": [
+          "Shengshan Chen",
+          "Tun-Wen Pai",
+          "Chin-Yu Sun"
+        ]
+      },
+      {
+        "title": "Understanding smartphone security behavior through the core constructs of protection motivation theory: A comparative study of iOS and android users.",
+        "authors": [
+          "Tugçe Karayel",
+          "Metin Saygili"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/compsec/compsec157.html": {
     "header": "Computers & Security, Volume 157",
     "year": "2025",

@@ -1,4 +1,1407 @@
 {
+  "https://dblp.org/db/conf/crypto/crypto2025-8.html": {
+    "header": "45th CRYPTO 2025, Santa Barbara, CA, USA - Part VIII",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "On Deniable Authentication Against Malicious Verifiers.",
+        "authors": [
+          "Rune Fiedler",
+          "Roman Langrehr"
+        ]
+      },
+      {
+        "title": "Guarding the Signal: Secure Messaging with Reverse Firewalls.",
+        "authors": [
+          "Yevgeniy Dodis",
+          "Bernardo Magri",
+          "Noah Stephens-Davidowitz",
+          "Yiannis Tselekounis"
+        ]
+      },
+      {
+        "title": "GURKE: Group Unidirectional Ratcheted Key Exchange.",
+        "authors": [
+          "Daniel Collins",
+          "Paul Rösler"
+        ]
+      },
+      {
+        "title": "sfXHMQV: Better Efficiency and Stronger Security for Signal's Initial Handshake based on HMQV.",
+        "authors": [
+          "Rune Fiedler",
+          "Felix Günther",
+          "Jiaxin Pan",
+          "Runzhi Zeng"
+        ]
+      },
+      {
+        "title": "Continuous Group-Key Agreement: Concurrent Updates Without Pruning.",
+        "authors": [
+          "Benedikt Auerbach",
+          "Miguel Cueto Noval",
+          "Boran Erol",
+          "Krzysztof Pietrzak"
+        ]
+      },
+      {
+        "title": "Malicious Security for PIR (Almost) for Free.",
+        "authors": [
+          "Brett Falk",
+          "Pratyush Mishra",
+          "Matan Shtepel"
+        ]
+      },
+      {
+        "title": "That's AmorE: Amortized Efficiency for Pairing Delegation.",
+        "authors": [
+          "Adrian Perez Keilty",
+          "Diego F. Aranha",
+          "Elena Pagnin",
+          "Francisco Rodríguez-Henríquez"
+        ]
+      },
+      {
+        "title": "PicoGRAM: Practical Garbled RAM from Decisional Diffie-Hellman.",
+        "authors": [
+          "Tianyao Gu",
+          "Afonso Tinoco",
+          "Sri Harish G. Rajan",
+          "Elaine Shi"
+        ]
+      },
+      {
+        "title": "Willow: Secure Aggregation with One-Shot Clients.",
+        "authors": [
+          "James Bell-Clark",
+          "Adrià Gascón",
+          "Baiyu Li",
+          "Mariana Raykova",
+          "Phillipp Schoppmann"
+        ]
+      },
+      {
+        "title": "sfOPA: One-Shot Private Aggregation with Single Client Interaction and Its Applications to Federated Learning.",
+        "authors": [
+          "Harish Karthikeyan",
+          "Antigoni Polychroniadou"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/crypto/crypto2025-7.html": {
+    "header": "45th CRYPTO 2025, Santa Barbara, CA, USA - Part VII",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Lattice-Based Post-quantum iO from Circular Security with Random Opening Assumption.",
+        "authors": [
+          "Yao-Ching Hsieh",
+          "Aayush Jain",
+          "Huijia Lin"
+        ]
+      },
+      {
+        "title": "Lattice-Based Obfuscation from NTRU and Equivocal LWE.",
+        "authors": [
+          "Valerio Cini",
+          "Russell W. F. Lai",
+          "Ivy K. Y. Woo"
+        ]
+      },
+      {
+        "title": "Simple and General Counterexamples for Private-Coin Evasive LWE.",
+        "authors": [
+          "Nico Döttling",
+          "Abhishek Jain",
+          "Giulio Malavolta",
+          "Surya Mathialagan",
+          "Vinod Vaikuntanathan"
+        ]
+      },
+      {
+        "title": "Straight-Line Knowledge Extraction for Multi-Round Protocols.",
+        "authors": [
+          "Lior Rotem",
+          "Stefano Tessaro"
+        ]
+      },
+      {
+        "title": "Arc: Accumulation for Reed-Solomon Codes.",
+        "authors": [
+          "Benedikt Bünz",
+          "Pratyush Mishra",
+          "Wilson Nguyen",
+          "William Wang"
+        ]
+      },
+      {
+        "title": "Breaking Verifiable Delay Functions in the Random Oracle Model.",
+        "authors": [
+          "Ziyi Guan",
+          "Artur Riazanov",
+          "Weiqiang Yuan"
+        ]
+      },
+      {
+        "title": "Designated-Verifier SNARGs with One Group Element.",
+        "authors": [
+          "Gal Arnon",
+          "Jesko Dujmovic",
+          "Yuval Ishai"
+        ]
+      },
+      {
+        "title": "Universally Composable SNARKs with Transparent Setup without Programmable Random Oracle.",
+        "authors": [
+          "Christian Badertscher",
+          "Matteo Campanelli",
+          "Michele Ciampi",
+          "Luigi Russo",
+          "Luisa Siniscalchi"
+        ]
+      },
+      {
+        "title": "sfZinc: Succinct Arguments with Small Arithmetization Overheads from IOPs of Proximity to the Integers.",
+        "authors": [
+          "Albert Garreta",
+          "Hendrik Waldner",
+          "Ilia Vlasov",
+          "Katerina Hristova",
+          "Luca Dall'Ava",
+          "Marko Cupic",
+          "Matthew Klein"
+        ]
+      },
+      {
+        "title": "A Pure Indistinguishability Obfuscation Approach to Adaptively-Sound SNARGs for sfNP.",
+        "authors": [
+          "Brent Waters",
+          "David J. Wu"
+        ]
+      },
+      {
+        "title": "LatticeFold+: Faster, Simpler, Shorter Lattice-Based Folding for Succinct Proof Systems.",
+        "authors": [
+          "Dan Boneh",
+          "Binyi Chen"
+        ]
+      },
+      {
+        "title": "On Knowledge-Soundness of Plonk in ROM from Falsifiable Assumptions.",
+        "authors": [
+          "Helger Lipmaa",
+          "Roberto Parisella",
+          "Janno Siim"
+        ]
+      },
+      {
+        "title": "Malicious Security in Collaborative zk-SNARKs: More than Meets the Eye.",
+        "authors": [
+          "Sanjam Garg",
+          "Aarushi Goel",
+          "Abhishek Jain",
+          "Bhaskar Roberts",
+          "Sruthi Sekar"
+        ]
+      },
+      {
+        "title": "On Witness Encryption and Laconic Zero-Knowledge Arguments.",
+        "authors": [
+          "Yanyi Liu",
+          "Noam Mazor",
+          "Rafael Pass"
+        ]
+      },
+      {
+        "title": "NIZK Amplification via Leakage-Resilient Secure Computation.",
+        "authors": [
+          "Benny Applebaum",
+          "Eliran Kachlon"
+        ]
+      },
+      {
+        "title": "How to Share an NP Statement or Combiners for Zero-Knowledge Proofs.",
+        "authors": [
+          "Benny Applebaum",
+          "Eliran Kachlon"
+        ]
+      },
+      {
+        "title": "Rate-1 Statistical Non-interactive Zero-Knowledge.",
+        "authors": [
+          "Pedro Branco",
+          "Nico Döttling",
+          "Akshayaram Srinivasan"
+        ]
+      },
+      {
+        "title": "Zero-Knowledge in Streaming Interactive Proofs.",
+        "authors": [
+          "Tomer Gewirtzman",
+          "Ron Rothblum"
+        ]
+      },
+      {
+        "title": "On Weak NIZKs, One-Way Functions and Amplification.",
+        "authors": [
+          "Suvradip Chakraborty",
+          "James Hulett",
+          "Dakshita Khurana"
+        ]
+      },
+      {
+        "title": "Incrementally Verifiable Computation for NP from Standard Assumptions.",
+        "authors": [
+          "Pratish Datta",
+          "Abhishek Jain",
+          "Zhengzhong Jin",
+          "Alexis Korb",
+          "Surya Mathialagan",
+          "Amit Sahai"
+        ]
+      },
+      {
+        "title": "Verifiable Computation for Approximate Homomorphic Encryption Schemes.",
+        "authors": [
+          "Ignacio Cascudo",
+          "Anamaria Costache",
+          "Daniele Cozzo",
+          "Dario Fiore",
+          "Antonio Guimarães",
+          "Eduardo Soria-Vazquez"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/crypto/crypto2025-6.html": {
+    "header": "45th CRYPTO 2025, Santa Barbara, CA, USA - Part VI",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "How to Prove False Statements: Practical Attacks on Fiat-Shamir.",
+        "authors": [
+          "Dmitry Khovratovich",
+          "Ron D. Rothblum",
+          "Lev Soukhanov"
+        ]
+      },
+      {
+        "title": "Towards a White-Box Secure Fiat-Shamir Transformation.",
+        "authors": [
+          "Gal Arnon",
+          "Eylon Yogev"
+        ]
+      },
+      {
+        "title": "Exclusive Ownership of Fiat-Shamir Signatures: ML-DSA, SQIsign, LESS, and More.",
+        "authors": [
+          "Michael Meyer",
+          "Patrick Struck",
+          "Maximiliane Weishäupl"
+        ]
+      },
+      {
+        "title": "At the Top of the Hypercube - Better Size-Time Tradeoffs for Hash-Based Signatures.",
+        "authors": [
+          "Dmitry Khovratovich",
+          "Mikhail A. Kudinov",
+          "Benedikt Wagner"
+        ]
+      },
+      {
+        "title": "Shorter, Tighter, FAESTer: Optimizations and Improved (QROM) Analysis for VOLE-in-the-Head Signatures.",
+        "authors": [
+          "Carsten Baum",
+          "Ward Beullens",
+          "Lennart Braun",
+          "Cyprien Delpech de Saint Guilhem",
+          "Michael Klooß",
+          "Christian Majenz",
+          "Shibam Mukherjee",
+          "Emmanuela Orsini",
+          "Sebastian Ramacher",
+          "Christian Rechberger",
+          "Lawrence Roy",
+          "Peter Scholl"
+        ]
+      },
+      {
+        "title": "Blind Signatures from Proofs of Inequality.",
+        "authors": [
+          "Michael Klooß",
+          "Michael Reichle"
+        ]
+      },
+      {
+        "title": "A Complete Security Proof of SQIsign.",
+        "authors": [
+          "Marius A. Aardal",
+          "Andrea Basso",
+          "Luca De Feo",
+          "Sikhar Patranabis",
+          "Benjamin Wesolowski"
+        ]
+      },
+      {
+        "title": "Schnorr Signatures are Tightly Secure in the ROM Under a Non-interactive Assumption.",
+        "authors": [
+          "Gavin Cho",
+          "Georg Fuchsbauer",
+          "Adam O'Neill",
+          "Marek Sefranek"
+        ]
+      },
+      {
+        "title": "T-Spoon: Tightly Secure Two-Round Multi-signatures with Key Aggregation.",
+        "authors": [
+          "Renas Bacho",
+          "Benedikt Wagner"
+        ]
+      },
+      {
+        "title": "Server-Aided Anonymous Credentials.",
+        "authors": [
+          "Rutchathon Chairattana-Apirom",
+          "Franklin Harding",
+          "Anna Lysyanskaya",
+          "Stefano Tessaro"
+        ]
+      },
+      {
+        "title": "Multi-Holder Anonymous Credentials from BBS Signatures.",
+        "authors": [
+          "Andrea Flamini",
+          "Eysa Lee",
+          "Anna Lysyanskaya"
+        ]
+      },
+      {
+        "title": "Improved Attacks for SNOVA by Exploiting Stability Under a Group Action.",
+        "authors": [
+          "Daniel Cabarcas",
+          "Peigen Li",
+          "Javier A. Verbel",
+          "Ricardo Villanueva-Polanco"
+        ]
+      },
+      {
+        "title": "Adaptively Secure Three-Round Threshold Schnorr Signatures from DDH.",
+        "authors": [
+          "Renas Bacho",
+          "Sourav Das",
+          "Julian Loss",
+          "Ling Ren"
+        ]
+      },
+      {
+        "title": "Unmasking TRaccoon: A Lattice-Based Threshold Signature with An Efficient Identifiable Abort Protocol.",
+        "authors": [
+          "Rafaël Del Pino",
+          "Shuichi Katsumata",
+          "Guilhem Niot",
+          "Michael Reichle",
+          "Kaoru Takemure"
+        ]
+      },
+      {
+        "title": "A Plausible Attack on the Adaptive Security of Threshold Schnorr Signatures.",
+        "authors": [
+          "Elizabeth C. Crites",
+          "Alistair Stewart"
+        ]
+      },
+      {
+        "title": "On the Adaptive Security of FROST.",
+        "authors": [
+          "Elizabeth C. Crites",
+          "Jonathan Katz",
+          "Chelsea Komlo",
+          "Stefano Tessaro",
+          "Chenzhi Zhu"
+        ]
+      },
+      {
+        "title": "Polynomial Commitments for Galois Rings and Applications to SNARKs Over $\\mathbb {Z}_{2^k}$.",
+        "authors": [
+          "Yuhao Jia",
+          "Songsong Li",
+          "Chaoping Xing",
+          "Yizhou Yao",
+          "Chen Yuan"
+        ]
+      },
+      {
+        "title": "DewTwo: A Transparent PCS with Quasi-Linear Prover, Logarithmic Verifier and 4.5KB Proofs from Falsifiable Assumptions.",
+        "authors": [
+          "Benedikt Bünz",
+          "Tushar Mopuri",
+          "Alireza Shirzad",
+          "Sriram Sridhar"
+        ]
+      },
+      {
+        "title": "On Extractability of the KZG Family of Polynomial Commitment Schemes.",
+        "authors": [
+          "Juraj Belohorec",
+          "Pavel Dvorák",
+          "Charlotte Hoffmann",
+          "Pavel Hubácek",
+          "Kristýna Masková",
+          "Martin Pastyrík"
+        ]
+      },
+      {
+        "title": "Functional Commitments and SNARGs for P/poly from SIS.",
+        "authors": [
+          "Hoeteck Wee"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/crypto/crypto2025-5.html": {
+    "header": "45th CRYPTO 2025, Santa Barbara, CA, USA - Part V",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Finding and Protecting the Weakest Link - On Side-Channel Attacks on y\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\textbf{y}$$\\end{document} in Masked ML-DSA.",
+        "authors": [
+          "Julius Hermelink",
+          "Kai-Chun Ning",
+          "Richard Petri"
+        ]
+      },
+      {
+        "title": "Leakage-Resilient Circuits Against sfNC1, Revisited.",
+        "authors": [
+          "Yuyu Wang"
+        ]
+      },
+      {
+        "title": "Key Recovery from Side-Channel Power Analysis Attacks on Non-SIMD HQC Decryption.",
+        "authors": [
+          "Nathan Maillet",
+          "Cyrius Nugier",
+          "Vincent Migliore",
+          "Jean-Christophe Deneuville"
+        ]
+      },
+      {
+        "title": "Crowhammer: Full Key Recovery Attack on Falcon with a Single Rowhammer Bit Flip.",
+        "authors": [
+          "Calvin Abou Haidar",
+          "Quentin Payet",
+          "Mehdi Tibouchi"
+        ]
+      },
+      {
+        "title": "Guess-and-Determine Rebound: Applications to Key Collisions on AES.",
+        "authors": [
+          "Lingyue Qin",
+          "Wenquan Bi",
+          "Xiaoyang Dong"
+        ]
+      },
+      {
+        "title": "Breaking the IEEE Encryption Standard XCB-AES in Two Queries.",
+        "authors": [
+          "Amit Singh Bhati",
+          "Elena Andreeva"
+        ]
+      },
+      {
+        "title": "New Collision Attacks on Round-Reduced SHA-512.",
+        "authors": [
+          "Yingxin Li",
+          "Fukang Liu",
+          "Gaoli Wang",
+          "Haifeng Qian",
+          "Keting Jia",
+          "Xiangyu Kong"
+        ]
+      },
+      {
+        "title": "How to Recover the Full Plaintext of XCB.",
+        "authors": [
+          "Peng Wang",
+          "Shuping Mao",
+          "Ruozhou Xu",
+          "Jiwu Jing",
+          "Yuewu Wang"
+        ]
+      },
+      {
+        "title": "Triangulating Meet-in-the-Middle Attack.",
+        "authors": [
+          "Boxin Zhao",
+          "Qingliang Hou",
+          "Lingyue Qin",
+          "Xiaoyang Dong"
+        ]
+      },
+      {
+        "title": "Unlocking Mix-Basis Potential: Geometric Approach for Combined Attacks.",
+        "authors": [
+          "Kai Hu",
+          "Chi Zhang",
+          "Chengcheng Chang",
+          "Jiashu Zhang",
+          "Meiqin Wang",
+          "Thomas Peyrin"
+        ]
+      },
+      {
+        "title": "Improved Resultant Attack Against Arithmetization-Oriented Primitives.",
+        "authors": [
+          "Augustin Bariant",
+          "Aurélien Boeuf",
+          "Pierre Briaud",
+          "Maël Hostettler",
+          "Morten Øygarden",
+          "Håvard Raddum"
+        ]
+      },
+      {
+        "title": "Cryptographic Treatment of Key Control Security - In Light of NIST SP 800-108.",
+        "authors": [
+          "Ritam Bhaumik",
+          "Avijit Dutta",
+          "Akiko Inoue",
+          "Tetsu Iwata",
+          "Ashwin Jha",
+          "Kazuhiko Minematsu",
+          "Mridul Nandi",
+          "Yu Sasaki",
+          "Meltem Sönmez Turan",
+          "Stefano Tessaro"
+        ]
+      },
+      {
+        "title": "The Exact Multi-User Security of Key-Alternating Feistel Ciphers with a Single Permutation.",
+        "authors": [
+          "Yusuke Naito",
+          "Yu Sasaki",
+          "Takeshi Sugawara"
+        ]
+      },
+      {
+        "title": "Tweakable Permutation-Based Luby-Rackoff Constructions.",
+        "authors": [
+          "Bishwajit Chakraborty",
+          "Abishanka Saha"
+        ]
+      },
+      {
+        "title": "Enhancing Provable Security and Efficiency of Permutation-Based DRBGs.",
+        "authors": [
+          "Woohyuk Chung",
+          "Seongha Hwang",
+          "Hwigyeom Kim",
+          "Jooyoung Lee"
+        ]
+      },
+      {
+        "title": "Integral Resistance of Block Ciphers with Key Whitening by Modular Addition.",
+        "authors": [
+          "Christof Beierle",
+          "Phil Hebborn",
+          "Gregor Leander",
+          "Yevhen Perehuda"
+        ]
+      },
+      {
+        "title": "Transistor: a TFHE-Friendly Stream Cipher.",
+        "authors": [
+          "Jules Baudrin",
+          "Sonia Belaïd",
+          "Nicolas Bon",
+          "Christina Boura",
+          "Anne Canteaut",
+          "Gaëtan Leurent",
+          "Pascal Paillier",
+          "Léo Perrin",
+          "Matthieu Rivain",
+          "Yann Rotella",
+          "Samuel Tap"
+        ]
+      },
+      {
+        "title": "A Fully-Adaptive Threshold Partially-Oblivious PRF.",
+        "authors": [
+          "Ruben Baecker",
+          "Paul Gerhart",
+          "Daniel Rausch",
+          "Dominique Schröder"
+        ]
+      },
+      {
+        "title": "Adaptive Security for Constrained PRFs.",
+        "authors": [
+          "Kaishuo Cheng",
+          "Joseph Jaeger"
+        ]
+      },
+      {
+        "title": "Succinct PPRFs via Memory-Tight Reductions.",
+        "authors": [
+          "Joël Alwen",
+          "Chris Brzuska",
+          "Jérôme Govinden",
+          "Patrick Harasser",
+          "Stefano Tessaro"
+        ]
+      },
+      {
+        "title": "Pseudorandom Obfuscation and Applications.",
+        "authors": [
+          "Pedro Branco",
+          "Nico Döttling",
+          "Abhishek Jain",
+          "Giulio Malavolta",
+          "Surya Mathialagan",
+          "Spencer Peters",
+          "Vinod Vaikuntanathan"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/crypto/crypto2025-4.html": {
+    "header": "45th CRYPTO 2025, Santa Barbara, CA, USA - Part IV",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "The Round Complexity of Black-Box Post-quantum Secure Computation.",
+        "authors": [
+          "Rohit Chatterjee",
+          "Xiao Liang",
+          "Omkant Pandey",
+          "Takashi Yamakawa"
+        ]
+      },
+      {
+        "title": "Constant-Round Asynchronous MPC with Optimal Resilience and Linear Communication.",
+        "authors": [
+          "Junru Li",
+          "Yifan Song"
+        ]
+      },
+      {
+        "title": "Towards Building Scalable Constant-Round MPC from Minimal Assumptions via Round Collapsing.",
+        "authors": [
+          "Vipul Goyal",
+          "Junru Li",
+          "Rafail Ostrovsky",
+          "Yifan Song"
+        ]
+      },
+      {
+        "title": "Actively Secure MPC in the Dishonest Majority Setting: Achieving Constant Complexity in Online Communication, Computation Per Gate, Rounds, and Private Input Size.",
+        "authors": [
+          "Seunghwan Lee",
+          "Jaesang Noh",
+          "Taejeong Kim",
+          "Dohyuk Kim",
+          "Dong-Joon Shin"
+        ]
+      },
+      {
+        "title": "Multiparty Distributed Point Functions.",
+        "authors": [
+          "Aarushi Goel",
+          "Mingyuan Wang",
+          "Zhiheng Wang"
+        ]
+      },
+      {
+        "title": "Computationally Differentially Private Inner-Product Protocols Imply Oblivious Transfer.",
+        "authors": [
+          "Iftach Haitner",
+          "Noam Mazor",
+          "Jad Silbak",
+          "Eliad Tsfadia",
+          "Chao Yan"
+        ]
+      },
+      {
+        "title": "Efficient Pseudorandom Correlation Generators over $\\mathbb {Z}/p^k\\mathbb {Z}$.",
+        "authors": [
+          "Zhe Li",
+          "Chaoping Xing",
+          "Yizhou Yao",
+          "Chen Yuan"
+        ]
+      },
+      {
+        "title": "Additive Randomized Encodings from Public Key Encryption.",
+        "authors": [
+          "Nir Bitansky",
+          "Saroja Erabelli",
+          "Rachit Garg"
+        ]
+      },
+      {
+        "title": "Computationally Efficient Asynchronous MPC with Linear Communication and Low Additive Overhead.",
+        "authors": [
+          "Akhil Bandarupalli",
+          "Xiaoyu Ji",
+          "Aniket Kate",
+          "Chen-Da Liu-Zhang",
+          "Yifan Song"
+        ]
+      },
+      {
+        "title": "Strong Secret Sharing with Snitching.",
+        "authors": [
+          "Jan Bormet",
+          "Stefan Dziembowski",
+          "Sebastian Faust",
+          "Tomasz Lizurej",
+          "Marcin Mielniczuk"
+        ]
+      },
+      {
+        "title": "How to Make Any Computational Secret Sharing Scheme Adaptively Secure.",
+        "authors": [
+          "George Lu",
+          "Brent Waters"
+        ]
+      },
+      {
+        "title": "Fully Anonymous Secret Sharing.",
+        "authors": [
+          "Allison Bishop",
+          "Matthew Green",
+          "Yuval Ishai",
+          "Abhishek Jain",
+          "Paul Lou"
+        ]
+      },
+      {
+        "title": "A Unified Framework for Succinct Garbling from Homomorphic Secret Sharing.",
+        "authors": [
+          "Yuval Ishai",
+          "Hanjun Li",
+          "Huijia Lin"
+        ]
+      },
+      {
+        "title": "Silent Circuit Relinearisation: Sublinear-Size (Boolean and Arithmetic) Garbled Circuits from DCR.",
+        "authors": [
+          "Pierre Meyer",
+          "Claudio Orlandi",
+          "Lawrence Roy",
+          "Peter Scholl"
+        ]
+      },
+      {
+        "title": "Bitwise Garbling Schemes - A Model with 32λ\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\frac{3}{2}\\lambda $$\\end{document}-Bit Lower Bound of Ciphertexts.",
+        "authors": [
+          "Fei Xu",
+          "Honggang Hu",
+          "Changhong Xu"
+        ]
+      },
+      {
+        "title": "ømega (1/λ )-Rate Boolean Garbling Scheme from Generic Groups.",
+        "authors": [
+          "Geoffroy Couteau",
+          "Carmit Hazay",
+          "Aditya Hegde",
+          "Naman Kumar"
+        ]
+      },
+      {
+        "title": "Row Reduction Techniques for n-Party Garbling.",
+        "authors": [
+          "Kelong Cong",
+          "Emmanuela Orsini",
+          "Erik Pohle",
+          "Oliver Zajonc"
+        ]
+      },
+      {
+        "title": "Multiparty Garbling from OT with Linear Scaling and RAM Support.",
+        "authors": [
+          "David Heath",
+          "Vladimir Kolesnikov",
+          "Varun Narayanan",
+          "Rafail Ostrovsky",
+          "Akash Shah"
+        ]
+      },
+      {
+        "title": "Lower Bounds for Garbled Circuits from Shannon-Type Information Inequalities.",
+        "authors": [
+          "Jake Januzelli",
+          "Mike Rosulek",
+          "Lawrence Roy"
+        ]
+      },
+      {
+        "title": "Rerandomizable Garbling, Revisited.",
+        "authors": [
+          "Raphael Heitjohann",
+          "Jonas von der Heyden",
+          "Tibor Jager"
+        ]
+      },
+      {
+        "title": "Authenticated BitGC for Actively Secure Rate-One 2PC.",
+        "authors": [
+          "Hanlin Liu",
+          "Xiao Wang",
+          "Kang Yang",
+          "Yu Yu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/crypto/crypto2025-3.html": {
+    "header": "45th CRYPTO 2025, Santa Barbara, CA, USA - Part III",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Registered ABE and Adaptively-Secure Broadcast Encryption from Succinct LWE.",
+        "authors": [
+          "Jeffrey Champion",
+          "Yao-Ching Hsieh",
+          "David J. Wu"
+        ]
+      },
+      {
+        "title": "PKE and ABE with Collusion-Resistant Secure Key Leasing.",
+        "authors": [
+          "Fuyuki Kitagawa",
+          "Ryo Nishimaki",
+          "Nikhil Pappu"
+        ]
+      },
+      {
+        "title": "Efficiently-Thresholdizable Batched Identity Based Encryption, with Applications.",
+        "authors": [
+          "Amit Agarwal",
+          "Rex Fernando",
+          "Benny Pinkas"
+        ]
+      },
+      {
+        "title": "A Note on Adaptive Security in Hierarchical Identity-Based Encryption.",
+        "authors": [
+          "Rishab Goyal",
+          "Venkata Koppula",
+          "Mahesh Sreekumar Rajasree"
+        ]
+      },
+      {
+        "title": "Dynamic Bounded-Collusion Streaming Functional Encryption from Minimal Assumptions.",
+        "authors": [
+          "Kaartik Bhushan",
+          "Alexis Korb",
+          "Amit Sahai"
+        ]
+      },
+      {
+        "title": "Tightly Secure Inner-Product Functional Encryption Revisited: Compact, Lattice-Based, and More.",
+        "authors": [
+          "Shuai Han",
+          "Hongxu Yi",
+          "Shengli Liu",
+          "Dawu Gu"
+        ]
+      },
+      {
+        "title": "Unbounded Distributed Broadcast Encryption and Registered ABE from Succinct LWE.",
+        "authors": [
+          "Hoeteck Wee",
+          "David J. Wu"
+        ]
+      },
+      {
+        "title": "Key-Homomorphic Computations for RAM: Fully Succinct Randomised Encodings and More.",
+        "authors": [
+          "Damiano Abram",
+          "Giulio Malavolta",
+          "Lawrence Roy"
+        ]
+      },
+      {
+        "title": "Resolving the Efficiency-Utility Dilemma of Threshold Linearly Homomorphic Encryption via Message-Space Adapter.",
+        "authors": [
+          "Yijia Chang",
+          "Rongmao Chen",
+          "Chao Lin",
+          "Songze Li",
+          "Xinyi Huang"
+        ]
+      },
+      {
+        "title": "General Functional Bootstrapping Using CKKS.",
+        "authors": [
+          "Andreea Alexandru",
+          "Andrey Kim",
+          "Yuriy Polyakov"
+        ]
+      },
+      {
+        "title": "Homomorphic Encryption for Large Integers from Nested Residue Number Systems.",
+        "authors": [
+          "Dan Boneh",
+          "Jaehyung Kim"
+        ]
+      },
+      {
+        "title": "Fully Homomorphic Encryption with Chosen-Ciphertext Security from LWE.",
+        "authors": [
+          "Rupeng Yang",
+          "Zuoxia Yu",
+          "Willy Susilo"
+        ]
+      },
+      {
+        "title": "Sometimes-Decryptable Homomorphic Encryption from Sub-exponential DDH.",
+        "authors": [
+          "Abhishek Jain",
+          "Zhengzhong Jin"
+        ]
+      },
+      {
+        "title": "Anamorphic-Resistant Encryption; Or Why the Encryption Debate is Still Alive.",
+        "authors": [
+          "Yevgeniy Dodis",
+          "Eli Goldin"
+        ]
+      },
+      {
+        "title": "Anamorphic Resistant Encryption: the Good, the Bad and the Ugly.",
+        "authors": [
+          "Davide Carnemolla",
+          "Dario Catalano",
+          "Emanuele Giunta",
+          "Francesco Migliaro"
+        ]
+      },
+      {
+        "title": "A Framework for Witness Encryption from Linearly Verifiable SNARKs and Applications.",
+        "authors": [
+          "Sanjam Garg",
+          "Mohammad Hajiabadi",
+          "Dimitris Kolonelos",
+          "Abhiram Kothapalli",
+          "Guru-Vamsi Policharla"
+        ]
+      },
+      {
+        "title": "Verifiable Decapsulation: Recognizing Faulty Implementations of Post-quantum KEMs.",
+        "authors": [
+          "Lewis Glabush",
+          "Felix Günther",
+          "Kathrin Hövelmanns",
+          "Douglas Stebila"
+        ]
+      },
+      {
+        "title": "Hybrid Obfuscated Key Exchange and KEMs.",
+        "authors": [
+          "Felix Günther",
+          "Michael Rosenberg",
+          "Douglas Stebila",
+          "Shannon Veitch"
+        ]
+      },
+      {
+        "title": "How to Tolerate Typos in Strong Asymmetric PAKE.",
+        "authors": [
+          "Ian McQuoid",
+          "Mike Rosulek",
+          "Jiayu Xu"
+        ]
+      },
+      {
+        "title": "Asymptotically Optimal Adaptive Asynchronous Common Coin and DKG with Silent Setup.",
+        "authors": [
+          "Hanwen Feng",
+          "Qiang Tang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/crypto/crypto2025-2.html": {
+    "header": "45th CRYPTO 2025, Santa Barbara, CA, USA - Part II",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "State Machine Replication Among Strangers, Fast and Self-sufficient.",
+        "authors": [
+          "Juan A. Garay",
+          "Aggelos Kiayias",
+          "Yu Shen"
+        ]
+      },
+      {
+        "title": "Leader Election with Poly-Logarithmic Communication Per Party.",
+        "authors": [
+          "Amey Bhangale",
+          "Chen-Da Liu-Zhang",
+          "Julian Loss",
+          "Kartik Nayak",
+          "Sravya Yandamuri"
+        ]
+      },
+      {
+        "title": "High-Throughput Permissionless Blockchain Consensus Under Realistic Network Assumptions.",
+        "authors": [
+          "Sandro Coretti",
+          "Matthias Fitzi",
+          "Aggelos Kiayias",
+          "Giorgos Panagiotakos",
+          "Alexander Russell"
+        ]
+      },
+      {
+        "title": "Nearly Optimal Parallel Broadcast in the Plain Public Key Model.",
+        "authors": [
+          "Ran Gelles",
+          "Christoph Lenzen",
+          "Julian Loss",
+          "Sravya Yandamuri"
+        ]
+      },
+      {
+        "title": "Foundations of Platform-Assisted Auctions.",
+        "authors": [
+          "Hao Chung",
+          "Ke Wu",
+          "Elaine Shi"
+        ]
+      },
+      {
+        "title": "Merkle Mountain Ranges are Optimal: On Witness Update Frequency for Cryptographic Accumulators.",
+        "authors": [
+          "Joseph Bonneau",
+          "Jessica Chen",
+          "Miranda Christ",
+          "Ioanna Karantaidou"
+        ]
+      },
+      {
+        "title": "Traceable Verifiable Random Functions.",
+        "authors": [
+          "Dan Boneh",
+          "Aditi Partap",
+          "Lior Rotem"
+        ]
+      },
+      {
+        "title": "How to Model Unitary Oracles.",
+        "authors": [
+          "Mark Zhandry"
+        ]
+      },
+      {
+        "title": "Translating Between the Common Haar Random State Model and the Unitary Model.",
+        "authors": [
+          "Eli Goldin",
+          "Mark Zhandry"
+        ]
+      },
+      {
+        "title": "Pseudorandom Unitaries in the Haar Random Oracle Model.",
+        "authors": [
+          "Prabhanjan Ananth",
+          "John Bostanci",
+          "Aditya Gulati",
+          "Yao-Ting Lin"
+        ]
+      },
+      {
+        "title": "Quantum One-Time Protection of Any Randomized Algorithm.",
+        "authors": [
+          "Sam Gunn",
+          "Ramis Movassagh"
+        ]
+      },
+      {
+        "title": "On One-Shot Signatures, Quantum vs. Classical Binding, and Obfuscating Permutations.",
+        "authors": [
+          "Omri Shmueli",
+          "Mark Zhandry"
+        ]
+      },
+      {
+        "title": "Reducing the Number of Qubits in Quantum Factoring.",
+        "authors": [
+          "Clémence Chevignard",
+          "Pierre-Alain Fouque",
+          "André Schrottenloher"
+        ]
+      },
+      {
+        "title": "A Quasi-polynomial Time Algorithm for the Extrapolated Dihedral Coset Problem over Power-of-Two Moduli.",
+        "authors": [
+          "Shi Bai",
+          "Hansraj Jangir",
+          "Elena Kirshanova",
+          "Tran Ngo",
+          "William Youmans"
+        ]
+      },
+      {
+        "title": "Quantum State Group Actions.",
+        "authors": [
+          "Saachi Mutreja",
+          "Mark Zhandry"
+        ]
+      },
+      {
+        "title": "Quantum Lifting for Invertible Permutations and Ideal Ciphers.",
+        "authors": [
+          "Alexandru Cojocaru",
+          "Minki Hhan",
+          "Qipeng Liu",
+          "Takashi Yamakawa",
+          "Aaram Yun"
+        ]
+      },
+      {
+        "title": "LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling.",
+        "authors": [
+          "Yilei Chen",
+          "Zihan Hu",
+          "Qipeng Liu",
+          "Han Luo",
+          "Yaxin Tu"
+        ]
+      },
+      {
+        "title": "Quantum Cryptography and Meta-Complexity.",
+        "authors": [
+          "Taiga Hiroka",
+          "Tomoyuki Morimae"
+        ]
+      },
+      {
+        "title": "On the Power of Oblivious State Preparation.",
+        "authors": [
+          "James Bartusek",
+          "Dakshita Khurana"
+        ]
+      },
+      {
+        "title": "Succinct Arguments for sfBatchsfQMA and Friends Under 8 Rounds.",
+        "authors": [
+          "Rishab Goyal",
+          "Aditya Jain",
+          "Shashwatha Mitra G. B"
+        ]
+      },
+      {
+        "title": "Compiled Nonlocal Games from any Trapdoor Claw-Free Function.",
+        "authors": [
+          "Kaniuar Bacho",
+          "Alexander Kulpe",
+          "Giulio Malavolta",
+          "Simon Schmidt",
+          "Michael Walter"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/crypto/crypto2025-1.html": {
+    "header": "45th CRYPTO 2025, Santa Barbara, CA, USA - Part I",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Computing Asymptotic Bounds for Small Roots in Coppersmith's Method via Sumset Theory.",
+        "authors": [
+          "Yansong Feng",
+          "Hengyi Luo",
+          "Qiyuan Chen",
+          "Abderrahmane Nitaj",
+          "Yanbin Pan"
+        ]
+      },
+      {
+        "title": "New Results on the φ-Hiding Assumption and Factoring Related RSA Moduli.",
+        "authors": [
+          "Jun Xu",
+          "Jun Song",
+          "Lei Hu"
+        ]
+      },
+      {
+        "title": "PEGASIS: Practical Effective Class Group Action using 4-Dimensional Isogenies.",
+        "authors": [
+          "Pierrick Dartois",
+          "Jonathan Komada Eriksen",
+          "Tako Boris Fouotsa",
+          "Arthur Herlédan Le Merdy",
+          "Riccardo Invernizzi",
+          "Damien Robert",
+          "Ryan Rueger",
+          "Frederik Vercauteren",
+          "Benjamin Wesolowski"
+        ]
+      },
+      {
+        "title": "Deterministic Algorithms for Class Group Actions.",
+        "authors": [
+          "Marc Houben"
+        ]
+      },
+      {
+        "title": "More Efficient Isogeny Proofs of Knowledge via Canonical Modular Polynomials.",
+        "authors": [
+          "Thomas den Hollander",
+          "Sören Kleine",
+          "Marzio Mula",
+          "Daniel Slamanig",
+          "Sebastian A. Spindler"
+        ]
+      },
+      {
+        "title": "KLPT2: Algebraic Pathfinding in Dimension Two and Applications.",
+        "authors": [
+          "Wouter Castryck",
+          "Thomas Decru",
+          "Péter Kutas",
+          "Abel Laval",
+          "Christophe Petit",
+          "Yan Bo Ti"
+        ]
+      },
+      {
+        "title": "Sample Efficient Search to Decision for kLIN.",
+        "authors": [
+          "Andrej Bogdanov",
+          "Alon Rosen",
+          "Kel Zin Tan"
+        ]
+      },
+      {
+        "title": "Error Floor Prediction with Markov Models for QC-MDPC Codes.",
+        "authors": [
+          "Sarah Arpin",
+          "Jun Bo Lau",
+          "Antoine Mesnard",
+          "Ray A. Perlner",
+          "Angela Robinson",
+          "Jean-Pierre Tillich",
+          "Valentin Vasseur"
+        ]
+      },
+      {
+        "title": "Highway to Hull: An Algorithm for Solving the General Matrix Code Equivalence Problem.",
+        "authors": [
+          "Alain Couvreur",
+          "Christophe Levrat"
+        ]
+      },
+      {
+        "title": "Stationary Syndrome Decoding for Improved PCGs.",
+        "authors": [
+          "Vladimir Kolesnikov",
+          "Stanislav Peceny",
+          "Srinivasan Raghuraman",
+          "Peter Rindal"
+        ]
+      },
+      {
+        "title": "On Gaussian Sampling for q-ary Lattices and Linear Codes with Lee Weight.",
+        "authors": [
+          "Maiara F. Bollauf",
+          "Maja Lie",
+          "Cong Ling"
+        ]
+      },
+      {
+        "title": "Wagner's Algorithm Provably Runs in Subexponential Time for rmSIS∞.",
+        "authors": [
+          "Léo Ducas",
+          "Lynn Engelberts",
+          "Johanna Loyer"
+        ]
+      },
+      {
+        "title": "Refined Attack on LWE with Hints: Constructing Lattice via Gaussian Elimination.",
+        "authors": [
+          "Jinzheng Cao",
+          "Haodong Jiang",
+          "Qingfeng Cheng"
+        ]
+      },
+      {
+        "title": "Uncompressing Dilithium's Public Key.",
+        "authors": [
+          "Paco Azevedo Oliveira",
+          "Andersson Calle Viera",
+          "Benoît Cogliati",
+          "Louis Goubin"
+        ]
+      },
+      {
+        "title": "Assessing the Impact of a Variant of MATZOV's Dual Attack on Kyber.",
+        "authors": [
+          "Kévin Carrier",
+          "Charles Meyer-Hilfiger",
+          "Yixin Shen",
+          "Jean-Pierre Tillich"
+        ]
+      },
+      {
+        "title": "Improved Lattice Blind Signatures from Recycled Entropy.",
+        "authors": [
+          "Corentin Jeudy",
+          "Olivier Sanders"
+        ]
+      },
+      {
+        "title": "Compact Lattice Signatures via Iterative Rejection Sampling.",
+        "authors": [
+          "Joel Gärtner"
+        ]
+      },
+      {
+        "title": "The Algebraic One-More MISIS Problem and Applications to Threshold Signatures.",
+        "authors": [
+          "Chenzhi Zhu",
+          "Stefano Tessaro"
+        ]
+      },
+      {
+        "title": "Uniform Black-Box Separations via Non-malleable Extractors.",
+        "authors": [
+          "Marshall Ball",
+          "Dana Dachman-Soled"
+        ]
+      },
+      {
+        "title": "Hardness Along the Boundary: Towards One-Way Functions from the Worst-Case Hardness of Time-Bounded Kolmogorov Complexity.",
+        "authors": [
+          "Yanyi Liu",
+          "Rafael Pass"
+        ]
+      },
+      {
+        "title": "Pseudorandomness Properties of Random Reversible Circuits.",
+        "authors": [
+          "William Gay",
+          "William He",
+          "Nicholas Kocurek",
+          "Ryan O'Donnell"
+        ]
+      },
+      {
+        "title": "Efficient Randomized Strong 2-Source Non-malleable Extractor for Any Linear Min-Entropy.",
+        "authors": [
+          "Divesh Aggarwal",
+          "Pranjal Dutta",
+          "Saswata Mukherjee",
+          "Satyajeet Nagargoje",
+          "Maciej Obremski"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/crypto/crypto2024-9.html": {
     "header": "44th CRYPTO 2024, Santa Barbara, CA, USA - Part IX",
     "year": "2024",

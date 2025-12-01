@@ -1,4 +1,258 @@
 {
+  "https://dblp.org/db/conf/isw/isc2025.html": {
+    "header": "28th ISC 2025: Seoul, South Korea",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Improving the Differential-Linear Attack with Applications to GIFT-COFB, GIFT-64 and HyENA.",
+        "authors": [
+          "Zhongxin Zhang",
+          "Yincen Chen",
+          "Ling Song",
+          "Yin Lv"
+        ]
+      },
+      {
+        "title": "Keyless Physical-Layer Cryptography.",
+        "authors": [
+          "Senlin Liu",
+          "Dongshu Cai",
+          "Dongchi Han",
+          "Hongbo Liu",
+          "Xianhui Lu"
+        ]
+      },
+      {
+        "title": "The Multi-user Security of GCM-SST and Further Enhancements.",
+        "authors": [
+          "Yusuke Naito",
+          "Yu Sasaki",
+          "Takeshi Sugawara"
+        ]
+      },
+      {
+        "title": "SimSeq: A Robust TLS Traffic Classification Method.",
+        "authors": [
+          "Jinghui Cheng",
+          "Fanping Zeng"
+        ]
+      },
+      {
+        "title": "EvoFuzz: Enhancing State Space Exploration and Seed Prioritization in Stateful Protocol Fuzzing Using Evolutionary Game Theory.",
+        "authors": [
+          "Chengdong Wang",
+          "Bo Yu",
+          "Lin Yang"
+        ]
+      },
+      {
+        "title": "A Lot of Data and Added Complexity. How Does PQC Affect the Performance of My TLS Connection?",
+        "authors": [
+          "Johanna Henrich",
+          "Nicolai Schmitt",
+          "Nouri Alnahawi",
+          "Andreas Heinemann"
+        ]
+      },
+      {
+        "title": "Conditional Attribute-Based PRE: Definition and Construction from LWE.",
+        "authors": [
+          "Lisha Yao",
+          "Jian Weng",
+          "Pengfei Wu",
+          "Guofeng Tang",
+          "Guomin Yang",
+          "Haiyang Xue",
+          "Robert H. Deng"
+        ]
+      },
+      {
+        "title": "LastRings: Lattice-Based Scalable Threshold Ring Signatures.",
+        "authors": [
+          "Sohyun Jeon",
+          "Calvin Abou Haidar",
+          "Mehdi Tibouchi"
+        ]
+      },
+      {
+        "title": "Simulation-Based Software Leakage Evaluation for the RISC-V Platform.",
+        "authors": [
+          "Nicolai Schmitt",
+          "Jannik Zeitschner",
+          "Andreas Heinemann"
+        ]
+      },
+      {
+        "title": "GIR-Cache: Mitigating Conflict-Based Cache Side-Channel Attacks via Global Indirect Replacement.",
+        "authors": [
+          "Hao Ma",
+          "Zhidong Wang",
+          "Da Xie",
+          "Ciyan Ouyang",
+          "Wei Song"
+        ]
+      },
+      {
+        "title": "Inference Attacks on Encrypted Online Voting via Traffic Analysis.",
+        "authors": [
+          "Anastasiia Belousova",
+          "Francesco Marchiori",
+          "Mauro Conti"
+        ]
+      },
+      {
+        "title": "MSPP-Net: Fine-Grained Image Privacy Identification via Multi-stage Semantic Perception.",
+        "authors": [
+          "Yinglong Li",
+          "Bingyuan Chen",
+          "Qingyan Jiang",
+          "Tieming Chen"
+        ]
+      },
+      {
+        "title": "Exploring Backdoor Attacks in Federated Learning Under Parameter-Efficient Fine-Tuning.",
+        "authors": [
+          "Xiaofei Huang",
+          "Xiaojie Zhu",
+          "Chi Chen"
+        ]
+      },
+      {
+        "title": "Spoofing Camera Source Attribution via PRNU Transfer Attacks on Physical and AI Generated Images.",
+        "authors": [
+          "Shahriar Rahman Khan",
+          "Tariqul Islam",
+          "Raiful Hasan"
+        ]
+      },
+      {
+        "title": "Comparative Evaluation of Lattices for Fuzzy Extractors and Fuzzy Signatures.",
+        "authors": [
+          "Wataru Nakamura",
+          "Yusei Suzuki",
+          "Masakazu Fujio",
+          "Kenta Takahashi"
+        ]
+      },
+      {
+        "title": "A New Code-Based Formulation of the Fuzzy Vault Scheme.",
+        "authors": [
+          "Sara Majbour",
+          "Morgan Barbier",
+          "Jean-Marie Le Bars"
+        ]
+      },
+      {
+        "title": "HoneySentry: A High-Fidelity Interactive IoT Honeypot for Advanced Threat Detection.",
+        "authors": [
+          "Yanbing Shen",
+          "Hao Sun",
+          "Jiacheng Wang",
+          "Haitao Xu",
+          "Gang Liu",
+          "Fan Zhang"
+        ]
+      },
+      {
+        "title": "Towards Architecture-Independent Function Call Analysis for IoT Malware.",
+        "authors": [
+          "Kensei Ma",
+          "Chansu Han",
+          "Akira Tanaka",
+          "Takeshi Takahashi",
+          "Jun'ichi Takeuchi"
+        ]
+      },
+      {
+        "title": "HGANN-Mal: A Hypergraph Attention Neural Network Approach for Android Malware Detection.",
+        "authors": [
+          "Mohammad Reza Norouzian",
+          "Claudia M. Eckert"
+        ]
+      },
+      {
+        "title": "A Graph-Based Approach to Alert Contextualisation in Security Operations Centres.",
+        "authors": [
+          "Magnus Wiik Eckhoff",
+          "Peter Marius Flydal",
+          "Siem Peters",
+          "Martin Eian",
+          "Jonas Halvorsen",
+          "Vasileios Mavroeidis",
+          "Gudmund Grov"
+        ]
+      },
+      {
+        "title": "HYPERSEC: An Extensible Hypervisor-Assisted Framework for Kernel Rootkit Detection.",
+        "authors": [
+          "Lionel Hemmerlé",
+          "Guillaume Hiet",
+          "Frédéric Tronel",
+          "Pierre Wilke",
+          "Jean-Christophe Prévotet"
+        ]
+      },
+      {
+        "title": "BootMarker: UEFI Bootkit Defense via Control-Flow Verification.",
+        "authors": [
+          "Jihoon Kwon",
+          "Junho Lee",
+          "Myeongyeol Lee",
+          "Hyuna Seo",
+          "Jinho Jung"
+        ]
+      },
+      {
+        "title": "Ali2Vul: Binary Vulnerability Dataset Expansion via Cross-Modal Alignment.",
+        "authors": [
+          "Xinyu Bai",
+          "Yisen Wang",
+          "Jiajun Du",
+          "Chen Liang",
+          "Siyuan Liang",
+          "Zirui Jiang"
+        ]
+      },
+      {
+        "title": "CryptNyx: Password-Hardened Encryption with Strong Anonymity Guarantees.",
+        "authors": [
+          "Tassos Dimitriou",
+          "Shahad Alshaher"
+        ]
+      },
+      {
+        "title": "Efficient Dynamic Group Signatures with Forward Security.",
+        "authors": [
+          "Amin Mohammadali",
+          "Riham AlTawy"
+        ]
+      },
+      {
+        "title": "Zero Trust Continuous Authentication Models and Automated Policy Formulation.",
+        "authors": [
+          "Nikhill Vombatkere",
+          "Philip W. L. Fong"
+        ]
+      },
+      {
+        "title": "Jakiro: A Cross-Modal Contrastive Learning Framework for Detecting Vulnerabilities in Smart Contracts.",
+        "authors": [
+          "Zixuan Niu",
+          "Xiaofeng Li",
+          "He Zhao",
+          "Tong Zhou",
+          "Haotian Cheng"
+        ]
+      },
+      {
+        "title": "BlockLens: Detecting Malicious Transactions in Ethereum Using LLM Techniques.",
+        "authors": [
+          "Chi Feng",
+          "Lei Fan"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/isw/isc2024-2.html": {
     "header": "27th ISC 2024: Arlington, VA, USA - Part II",
     "year": "2024",

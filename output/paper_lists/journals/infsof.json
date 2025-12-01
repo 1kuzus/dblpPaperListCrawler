@@ -1,4 +1,614 @@
 {
+  "https://dblp.org/db/journals/infsof/infsof188.html": {
+    "header": "Information & Software Technology, Volume 188",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Gamified or Glorified? A systematic review of serious games for security & privacy in the SDLC.",
+        "authors": [
+          "Jonah Bellemans",
+          "Dimitri Van Landuyt",
+          "Laurens Sion",
+          "Lieven Desmet"
+        ]
+      },
+      {
+        "title": "Fairness on a budget, across the board: A cost-effective evaluation of fairness-aware practices across contexts, tasks, and sensitive attributes.",
+        "authors": [
+          "Alessandra Parziale",
+          "Gianmario Voria",
+          "Giammaria Giordano",
+          "Gemma Catolino",
+          "Gregorio Robles",
+          "Fabio Palomba"
+        ]
+      },
+      {
+        "title": "Coverage metrics for actor model programs: A model-based approach.",
+        "authors": [
+          "Sajad Jalali",
+          "Seyed-Hassan Mirian-Hosseinabadi"
+        ]
+      },
+      {
+        "title": "A model-driven approach for engineering Mobility Digital Twins: The Bologna case study.",
+        "authors": [
+          "Alessandra Somma",
+          "Domenico Amalfitano",
+          "Alessio Bucaioni",
+          "Alessandra De Benedictis"
+        ]
+      },
+      {
+        "title": "POSVIA: Inconsistency analyzer for open-source Proof-of-Concept reports.",
+        "authors": [
+          "Lingyan Ding",
+          "Xingya Wang",
+          "Zhenyu Chen",
+          "Song Huang"
+        ]
+      },
+      {
+        "title": "Microservices testing: A systematic literature review.",
+        "authors": [
+          "Francisco Ponce",
+          "Roberto Verdecchia",
+          "Breno Miranda",
+          "Jacopo Soldani"
+        ]
+      },
+      {
+        "title": "Community Tapestry: An actionable tool to track turnover and diversity in OSS.",
+        "authors": [
+          "Mariam Guizani",
+          "Zixuan Feng",
+          "Emily Judith Arteaga Garcia",
+          "Katie Kimura",
+          "Diane Mueller",
+          "Luis Cañas-Díaz",
+          "Alexander Serebrenik",
+          "Anita Sarma"
+        ]
+      },
+      {
+        "title": "Metamorphic testing for optimisation: A case study on PID controller tuning.",
+        "authors": [
+          "Alejandra Duque-Torres",
+          "Claus Klammer",
+          "Stefan Fischer",
+          "Rudolf Ramler",
+          "Dietmar Pfahl"
+        ]
+      },
+      {
+        "title": "SCOPE: Hybrid optimization strategy for higher-order mutation-based fault localization.",
+        "authors": [
+          "Hengyuan Liu",
+          "Zheng Li",
+          "Xiaolan Kang",
+          "Shumei Wu",
+          "Paul Doyle",
+          "Xiang Chen",
+          "Yong Liu"
+        ]
+      },
+      {
+        "title": "Assessing the impact of tuning parameter in instance selection based bug resolution classification.",
+        "authors": [
+          "Chaymae Miloudi",
+          "Laila Cheikhi",
+          "Ali Idri",
+          "Alain Abran"
+        ]
+      },
+      {
+        "title": "AntiPhishX: An AI-driven service-oriented ensemble framework for detecting phishing and ai-powered phishing attacks.",
+        "authors": [
+          "Abdul Malik",
+          "Bilal Khan",
+          "Saeed Mian Qaisar",
+          "Moez Krichen"
+        ]
+      },
+      {
+        "title": "The impact of personality traits on scrum team effectiveness: Insights from Vietnamese software development companies.",
+        "authors": [
+          "Duc Minh Truong",
+          "Lai Xu",
+          "Paul Ton de Vrieze"
+        ]
+      },
+      {
+        "title": "Equitable cybersecurity: Towards generating requirements through the lens of security literacy.",
+        "authors": [
+          "Bilal Naqvi",
+          "Annika Wolff",
+          "Domenico Racanelli"
+        ]
+      },
+      {
+        "title": "Facilitating usage of quantum-classical optimization software with QHyper library.",
+        "authors": [
+          "Tomasz Lamza",
+          "Justyna Zawalska",
+          "Kacper Jurek",
+          "Mariusz Sterzel",
+          "Katarzyna Rycerz"
+        ]
+      },
+      {
+        "title": "Directed fuzzing based on path constraints and deviation path correction.",
+        "authors": [
+          "Hongsheng Zuo",
+          "Yong Fang",
+          "Peng Jia",
+          "Ximing Fan",
+          "Xi Peng",
+          "Yijia Xu",
+          "Rui Pan"
+        ]
+      },
+      {
+        "title": "Representation-based fairness evaluation and bias correction robustness assessment in neural networks.",
+        "authors": [
+          "Qiaolin Qin",
+          "Benjamin Djian",
+          "Ettore Merlo",
+          "Heng Li",
+          "Sébastien Gambs"
+        ]
+      },
+      {
+        "title": "Accelerating similarity-based model matching with subtree equivalence.",
+        "authors": [
+          "Xiao He",
+          "Kai Liu",
+          "Yifan Zhang",
+          "Huihong He"
+        ]
+      },
+      {
+        "title": "Bridging the gap between user stories and feature models by leveraging version control systems: A step towards software product line migration.",
+        "authors": [
+          "Thomas Georges",
+          "Marianne Huchard",
+          "Mélanie König",
+          "Clémentine Nebut",
+          "Chouki Tibermacine"
+        ]
+      },
+      {
+        "title": "Metamorphic Testing of Multimodal Human Trajectory Prediction.",
+        "authors": [
+          "Helge Spieker",
+          "Nadjib Lazaar",
+          "Arnaud Gotlieb",
+          "Nassim Belmecheri"
+        ]
+      },
+      {
+        "title": "VulTriNet: A software vulnerability detection method based on tri-channel network.",
+        "authors": [
+          "Yiyao Yang",
+          "Youjian Yao",
+          "Xiao Lv",
+          "Wen Chen"
+        ]
+      },
+      {
+        "title": "A systematic literature review on distributed ledger technologies in healthcare: Applications, challenges, and future directions.",
+        "authors": [
+          "Fatemeh Esmaeilnezhadtanha",
+          "Luca Spalazzi",
+          "Luca Del Bene",
+          "Yves Wautelet"
+        ]
+      },
+      {
+        "title": "Accuracy-fairness trade-off in ML for healthcare: A quantitative evaluation of bias mitigation strategies.",
+        "authors": [
+          "Farzaneh Dehghani",
+          "Pedro V. V. Paiva",
+          "Nikita Malik",
+          "Joanna Lin",
+          "Sayeh Bayat",
+          "Mariana P. Bento"
+        ]
+      },
+      {
+        "title": "Towards imbalanced regression over distributionally biased data: A fast static approach.",
+        "authors": [
+          "Wentai Wu",
+          "Ligang He",
+          "Weiwei Lin",
+          "Jinyi Long",
+          "Zhiquan Liu",
+          "C. L. Philip Chen"
+        ]
+      },
+      {
+        "title": "Whose voices are heard? Gender disparities in platform-facilitated discrimination and content moderation.",
+        "authors": [
+          "Lauren Olson",
+          "Ricarda Anna-Lena Fischer",
+          "Tom P. Humbert",
+          "Florian Kunneman",
+          "Emitzá Guzmán"
+        ]
+      },
+      {
+        "title": "ProSpec: Profile-guided Specialization for GPU Kernels.",
+        "authors": [
+          "Jiali Liang",
+          "Lin Chen",
+          "Xiangyu Zhang",
+          "Yanhui Li",
+          "Yuming Zhou"
+        ]
+      },
+      {
+        "title": "Metamorphic Testing and exploration for Machine Learning credit score models.",
+        "authors": [
+          "Zhihao Ying",
+          "Anthony Graham Bellotti",
+          "Joseph L. Breeden",
+          "Dave Towey"
+        ]
+      },
+      {
+        "title": "An approach to carve sustainability into architecture knowledge practice.",
+        "authors": [
+          "Markus Funke",
+          "Patricia Lago",
+          "Roel Donker"
+        ]
+      },
+      {
+        "title": "Towards early detection of algorithmic bias from dataset's bias symptoms: An empirical study.",
+        "authors": [
+          "Giordano d'Aloisio",
+          "Claudio Di Sipio",
+          "Antinisca Di Marco",
+          "Davide Di Ruscio"
+        ]
+      },
+      {
+        "title": "A multi-criteria accessibility index for quantifying digital fairness in e-commerce.",
+        "authors": [
+          "Adam Wasilewski",
+          "Katarzyna Walecka-Jankowska",
+          "Anna Zgrzywa-Ziemak"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/infsof/infsof187.html": {
+    "header": "Information & Software Technology, Volume 187",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "On the use of Test-Driven Development for Embedded Systems.",
+        "authors": [
+          "Pietro Cassieri",
+          "Michelangelo Esposito",
+          "Simone Romano",
+          "Giuseppe Scanniello"
+        ]
+      },
+      {
+        "title": "RAIDAD: A model-driven framework for automated and agile development of IoT data analysis software.",
+        "authors": [
+          "Mohsen Gholami",
+          "Bahman Zamani",
+          "Behrouz Shahgholi Ghahfarokhi"
+        ]
+      },
+      {
+        "title": "DiffBCE: Difference contrastive learning for binary code embeddings.",
+        "authors": [
+          "Yun Zhang",
+          "Ge Cheng"
+        ]
+      },
+      {
+        "title": "Practitioners' perceptions on requirements smells.",
+        "authors": [
+          "Emanuele Gentili",
+          "Davide Falessi"
+        ]
+      },
+      {
+        "title": "Structural Semantic Enhancement: Better integrating code semantics for vulnerability detection.",
+        "authors": [
+          "Shaohui Wang",
+          "Yan Wu",
+          "Zifeng Cui",
+          "Lin Chen"
+        ]
+      },
+      {
+        "title": "Enhancing autonomous driving simulations: A hybrid metamorphic testing framework with metamorphic relations generated by GPT.",
+        "authors": [
+          "Yifan Zhang",
+          "Tsong Yueh Chen",
+          "Matthew Pike",
+          "Dave Towey",
+          "Zhihao Ying",
+          "Zhi Quan Zhou"
+        ]
+      },
+      {
+        "title": "Gamification applied to knowledge sharing in software development: A rapid review.",
+        "authors": [
+          "Rodrigo Feitosa Gonçalves",
+          "Carlos Eduardo Barbosa",
+          "Matheus Margarido Argôlo",
+          "Jano Moreira de Souza"
+        ]
+      },
+      {
+        "title": "Research artifacts in secondary studies: A systematic mapping in software engineering.",
+        "authors": [
+          "Aleksi Huotala",
+          "Miikka Kuutila",
+          "Mika Mäntylä"
+        ]
+      },
+      {
+        "title": "Using Large Language Models for multi-level commit message generation for large diffs.",
+        "authors": [
+          "Abhishek Kumar",
+          "Sandhya Sankar",
+          "Partha Pratim Das",
+          "Partha Pratim Chakrabarti"
+        ]
+      },
+      {
+        "title": "Assisting early-stage software startups with LLMs: Effective prompt engineering and system instruction design.",
+        "authors": [
+          "Thea Lovise Ahlgren",
+          "Helene Fønstelien Sunde",
+          "Kai-Kristian Kemell",
+          "Anh Nguyen-Duc"
+        ]
+      },
+      {
+        "title": "A joint optimization approach for bug triage leveraging individual ability and collective responsibility of developers.",
+        "authors": [
+          "Haojie Li",
+          "Wei Wei",
+          "Jianfei Sui",
+          "Guanfeng Liu",
+          "Yuying Li",
+          "Yang Feng",
+          "Junwei Du"
+        ]
+      },
+      {
+        "title": "Data migration for column family database evolution.",
+        "authors": [
+          "Pablo Suárez-Otero",
+          "Michael J. Mior",
+          "María José Suárez-Cabal",
+          "Javier Tuya"
+        ]
+      },
+      {
+        "title": "Detection of code smells in react with TypeScript applications.",
+        "authors": [
+          "Maykon Nunes",
+          "Carla I. M. Bezerra",
+          "Fabio Ferreira",
+          "Bruno Gois Mateus",
+          "Marco Túlio Valente"
+        ]
+      },
+      {
+        "title": "Beyond hard vs. soft: A mixed-methods approach to developing a competency model for E-commerce software engineers.",
+        "authors": [
+          "Shuai Chen",
+          "Yang Zhao"
+        ]
+      },
+      {
+        "title": "Psychological safety in software workplaces: A systematic literature review.",
+        "authors": [
+          "Beatriz Silva De Santana",
+          "Lidivânio Monte",
+          "Bianca Santana de Araújo Silva",
+          "Glauco de Figueiredo Carneiro",
+          "Sávio Freire",
+          "José Amâncio Macedo Santos",
+          "Manoel G. Mendonça"
+        ]
+      },
+      {
+        "title": "An exploratory study of sustaining organisational agility.",
+        "authors": [
+          "Mali Senapathi",
+          "Diane E. Strode"
+        ]
+      },
+      {
+        "title": "Agile software development method cargo cult - Devising an analytical tool.",
+        "authors": [
+          "Tanja Elina Havstorm",
+          "Fredrik Karlsson",
+          "Shang Gao"
+        ]
+      },
+      {
+        "title": "Burnout in agile teams: The role of mindful software development.",
+        "authors": [
+          "Hamed Jafarzadeh",
+          "Hossein Mosafer",
+          "Jalal Sarabadani"
+        ]
+      },
+      {
+        "title": "GNPSum: A code summarization enhancement framework based on Graph Node Position.",
+        "authors": [
+          "Haogang Cheng",
+          "Ling Xu",
+          "Luwen Huangfu",
+          "Chao Liu",
+          "Meng Yan",
+          "Yan Lei"
+        ]
+      },
+      {
+        "title": "Understanding the challenges and requirements for facilitating iStar learning: An empirical study with iStar learners.",
+        "authors": [
+          "Tong Li",
+          "Qixiang Zhou",
+          "Yunduo Wang",
+          "Haonan Xiong",
+          "Wenxing Liu",
+          "Ning Ge"
+        ]
+      },
+      {
+        "title": "Teamwork in agile software development: A mixed-method study of gender diversity and collaboration dynamics.",
+        "authors": [
+          "Viktoria Stray",
+          "Idunn Stabell",
+          "Gyda Elisa Sæter",
+          "Astri Barbala",
+          "Yngve Lindsjørn"
+        ]
+      },
+      {
+        "title": "Social capital in large-scale agile software product management: A multi-case study.",
+        "authors": [
+          "Astri Barbala",
+          "Marthe Berntzen",
+          "Nils Brede Moe"
+        ]
+      },
+      {
+        "title": "FVulPri: Fine-grained vulnerability prioritization based on BERT-BGRU and multiple indicators.",
+        "authors": [
+          "Sixuan Wang",
+          "Dongjin Yu",
+          "Xiongjie Liang",
+          "Chen Huang"
+        ]
+      },
+      {
+        "title": "An empirical study on the accuracy of GitHub's dependency graph and the nature of its inaccuracy.",
+        "authors": [
+          "Daniele Bifolco",
+          "Simone Romano",
+          "Sabato Nocera",
+          "Rita Francese",
+          "Giuseppe Scanniello",
+          "Massimiliano Di Penta"
+        ]
+      },
+      {
+        "title": "Metamorphic testing for textual and visual entailment: A unified framework for model evaluation and explanation.",
+        "authors": [
+          "Mingyue Jiang",
+          "Bintao Hu",
+          "Xiao-Yi Zhang"
+        ]
+      },
+      {
+        "title": "CtrlFuzz: A controllable diffusion-based fuzz testing for deep neural networks via coverage-aware manifold guidance.",
+        "authors": [
+          "Aoshuang Ye",
+          "Shilin Zhang",
+          "Runze Yan",
+          "Jianpeng Ke",
+          "Fei Zhu",
+          "Benxiao Tang"
+        ]
+      },
+      {
+        "title": "What is Generative AI good for? Introduction to the special issue on Generative AI in software engineering.",
+        "authors": [
+          "Viktoria Stray",
+          "Geir Kjetil Hanssen",
+          "Astri Barbala",
+          "Darja Smite",
+          "Klaas-Jan Stol"
+        ]
+      },
+      {
+        "title": "Advancing autonomous driving system testing: Demands, challenges, and future directions.",
+        "authors": [
+          "Yihan Liao",
+          "Jingyu Zhang",
+          "Jacky Keung",
+          "Yan Xiao",
+          "Yurou Dai"
+        ]
+      },
+      {
+        "title": "Binary and multi-class classification of Self-Admitted Technical Debt: How far can we go?",
+        "authors": [
+          "Francesca Arcelli Fontana",
+          "Juri Di Rocco",
+          "Davide Di Ruscio",
+          "Amleto Di Salle",
+          "Phuong T. Nguyen"
+        ]
+      },
+      {
+        "title": "Fairness in AI systems development: EU AI Act compliance and beyond.",
+        "authors": [
+          "Salla Westerstrand"
+        ]
+      },
+      {
+        "title": "Software Defect Prediction evaluation: New metrics based on the ROC curve.",
+        "authors": [
+          "Luigi Lavazza",
+          "Sandro Morasca",
+          "Gabriele Rotoloni"
+        ]
+      },
+      {
+        "title": "Naming the Pain in machine learning-enabled systems engineering.",
+        "authors": [
+          "Marcos Kalinowski",
+          "Daniel Méndez",
+          "Görkem Giray",
+          "Antonio Pedro Santos Alves",
+          "Kelly Azevedo",
+          "Tatiana Escovedo",
+          "Hugo Villamizar",
+          "Hélio Lopes",
+          "Maria Teresa Baldassarre",
+          "Stefan Wagner",
+          "Stefan Biffl",
+          "Jürgen Musil",
+          "Michael Felderer",
+          "Niklas Lavesson",
+          "Tony Gorschek"
+        ]
+      },
+      {
+        "title": "Efficient approaches for binary classification in extremely imbalanced databases: A systematic literature review.",
+        "authors": [
+          "Leandro Duarte Pereira",
+          "Fabrício Alves de Almeida",
+          "Farid Melgani",
+          "Pedro Paulo Balestrassi"
+        ]
+      },
+      {
+        "title": "SemiSMAC: A semi-supervised framework for log anomaly detection with automated hyperparameter tuning.",
+        "authors": [
+          "Yicheng Sun",
+          "Jacky Wai Keung",
+          "Zhen Yang",
+          "Shuo Liu",
+          "Yihan Liao"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/infsof/infsof186.html": {
     "header": "Information & Software Technology, Volume 186",
     "year": "2025",

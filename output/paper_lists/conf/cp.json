@@ -1,4 +1,362 @@
 {
+  "https://dblp.org/db/conf/cp/cp2025.html": {
+    "header": "31st CP 2025:\nGlasgow, UK",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Privacy-Preserving SAT Solving (Invited Talk).",
+        "authors": [
+          "Ruzica Piskac"
+        ]
+      },
+      {
+        "title": "Anytime and Exact Search for Planning Problems: How to explore a DP-based state transition graph with A*, CP and LS? (Invited Talk).",
+        "authors": [
+          "Christine Solnon"
+        ]
+      },
+      {
+        "title": "Solving the Agile Earth Observation Satellite Scheduling Problem with CP and Local Search.",
+        "authors": [
+          "Valentin Antuori",
+          "Damien T. Wojtowicz",
+          "Emmanuel Hebrard"
+        ]
+      },
+      {
+        "title": "Conflict Analysis Based on Cutting-Planes for Constraint Programming.",
+        "authors": [
+          "Robbin Baauw",
+          "Maarten Flippo",
+          "Emir Demirovic"
+        ]
+      },
+      {
+        "title": "Transition Dominance in Domain-Independent Dynamic Programming.",
+        "authors": [
+          "J. Christopher Beck",
+          "Ryo Kuroiwa",
+          "Jimmy H. M. Lee",
+          "Peter J. Stuckey",
+          "Allen Z. Zhong"
+        ]
+      },
+      {
+        "title": "Modeling and Explaining an Industrial Workforce Allocation and Scheduling Problem.",
+        "authors": [
+          "Ignace Bleukx",
+          "Ryma Boumazouza",
+          "Tias Guns",
+          "Nadine Laage",
+          "Guillaume Povéda"
+        ]
+      },
+      {
+        "title": "Optimizing 2D Cutting: A Bin Packing Approach to Minimize Scraps and Maximize Their Reusability.",
+        "authors": [
+          "Manuel Chastenay",
+          "Xavier Zwingmann",
+          "Claude-Guy Quimper",
+          "Jonathan Gaudreault"
+        ]
+      },
+      {
+        "title": "Breaking Symmetries with Involutions.",
+        "authors": [
+          "Michael Codish",
+          "Mikolás Janota"
+        ]
+      },
+      {
+        "title": "Constraint Models for Klondike.",
+        "authors": [
+          "Nguyen Dang",
+          "Ian P. Gent",
+          "Peter Nightingale",
+          "Felix Ulrich-Oltean",
+          "Jack Waller"
+        ]
+      },
+      {
+        "title": "Unit Types for MiniZinc.",
+        "authors": [
+          "Jip J. Dekker",
+          "Jason Nguyen",
+          "Peter J. Stuckey",
+          "Guido Tack"
+        ]
+      },
+      {
+        "title": "Cargo Routing Optimization in Liner Shipping Networks.",
+        "authors": [
+          "Yousra El Ghazi",
+          "Djamal Habet",
+          "Cyril Terrioux"
+        ]
+      },
+      {
+        "title": "An Expansion-Based Approach for Quantified Integer Programming.",
+        "authors": [
+          "Michael Hartisch",
+          "Leroy Chew"
+        ]
+      },
+      {
+        "title": "Disjunctive Scheduling in Tempo.",
+        "authors": [
+          "Emmanuel Hebrard"
+        ]
+      },
+      {
+        "title": "Guess and Prove: A Hybrid Approach to Linear Polynomial Recovery in Circuit Verification.",
+        "authors": [
+          "Clemens Hofstadler",
+          "Daniela Kaufmann"
+        ]
+      },
+      {
+        "title": "Symmetric Core Learning for Pseudo-Boolean Optimization by Implicit Hitting Sets.",
+        "authors": [
+          "Hannes Ihalainen",
+          "Jeremias Berg",
+          "Matti Järvisalo",
+          "Bart Bogaerts"
+        ]
+      },
+      {
+        "title": "PrintTalk: A Language for Constraint-Based 3D Modelling.",
+        "authors": [
+          "Jef Jacobs",
+          "Wolfgang De Meuter",
+          "Jens Nicolay"
+        ]
+      },
+      {
+        "title": "Scalable Counting of Minimal Trap Spaces and Fixed Points in Boolean Networks.",
+        "authors": [
+          "Mohimenul Kabir",
+          "Van-Giang Trinh",
+          "Samuel Pastva",
+          "Kuldeep S. Meel"
+        ]
+      },
+      {
+        "title": "Greed Is Slow on Sparse Graphs of Oriented Valued Constraints.",
+        "authors": [
+          "Artem Kaznatcheev",
+          "Sofia Vazquez Alferez"
+        ]
+      },
+      {
+        "title": "Analyzing Self-Stabilization of Synchronous Unison via Propositional Satisfiability.",
+        "authors": [
+          "Asma Khoualdia",
+          "Sami Cherif",
+          "Stéphane Devismes",
+          "Léo Robert"
+        ]
+      },
+      {
+        "title": "Dependency-Curated Large Neighbourhood Search.",
+        "authors": [
+          "Frej Knutar Lewander",
+          "Pierre Flener",
+          "Justin Pearson"
+        ]
+      },
+      {
+        "title": "Practically Feasible Proof Logging for Pseudo-Boolean Optimization.",
+        "authors": [
+          "Wietze Koops",
+          "Daniel Le Berre",
+          "Magnus O. Myreen",
+          "Jakob Nordström",
+          "Andy Oertel",
+          "Yong Kiam Tan",
+          "Marc Vinyals"
+        ]
+      },
+      {
+        "title": "Learning to Bound for Maximum Common Subgraph Algorithms.",
+        "authors": [
+          "Buddhi W. Kothalawala",
+          "Henning Koehler",
+          "Qing Wang"
+        ]
+      },
+      {
+        "title": "RPID: Rust Programmable Interface for Domain-Independent Dynamic Programming.",
+        "authors": [
+          "Ryo Kuroiwa",
+          "J. Christopher Beck"
+        ]
+      },
+      {
+        "title": "The Work Task Variation Problem.",
+        "authors": [
+          "Mikael Z. Lagerkvist",
+          "Magnus Rattfeldt"
+        ]
+      },
+      {
+        "title": "Aircraft Resource-Constrained Assembly Line Balancing with Learning Effect: A Constraint Programming Approach.",
+        "authors": [
+          "Duc Anh Le",
+          "Stéphanie Roussel",
+          "Christophe Lecoutre"
+        ]
+      },
+      {
+        "title": "Parallel MIP Solving with Dynamic Task Decomposition.",
+        "authors": [
+          "Peng Lin",
+          "Shaowei Cai",
+          "Mengchuan Zou",
+          "Shengqi Chen"
+        ]
+      },
+      {
+        "title": "Understanding the Impact of Value Selection Heuristics in Scheduling Problems.",
+        "authors": [
+          "Tim Luchterhand",
+          "Emmanuel Hebrard",
+          "Sylvie Thiébaux"
+        ]
+      },
+      {
+        "title": "SLS-Enhanced Core-Boosted Linear Search for Anytime Maximum Satisfiability.",
+        "authors": [
+          "Ole Lübke",
+          "Jeremias Berg"
+        ]
+      },
+      {
+        "title": "From Prediction to Action: A Constraint-Based Approach to Predictive Policing.",
+        "authors": [
+          "Younes Mechqrane",
+          "Ismail Elabbassi"
+        ]
+      },
+      {
+        "title": "Exact Methods for the Travelling Salesperson Problem with Self-Deleting Graphs.",
+        "authors": [
+          "Daniel Pekar",
+          "J. Christopher Beck"
+        ]
+      },
+      {
+        "title": "Transformer-Based Feature Learning for Algorithm Selection in Combinatorial Optimisation.",
+        "authors": [
+          "Alessio Pellegrino",
+          "Özgür Akgün",
+          "Nguyen Dang",
+          "Zeynep Kiziltan",
+          "Ian Miguel"
+        ]
+      },
+      {
+        "title": "BFS-Based Canonical Codes for Generating Graphs with Constraint Programming.",
+        "authors": [
+          "Xiao Peng",
+          "Christine Solnon"
+        ]
+      },
+      {
+        "title": "Constraint-Based In-Station Train Dispatching.",
+        "authors": [
+          "Andreas Schutt",
+          "Matteo Cardellini",
+          "Jip J. Dekker",
+          "Daniel Harabor",
+          "Marco Maratea",
+          "Mauro Vallati"
+        ]
+      },
+      {
+        "title": "DynamicSAT: Dynamic Configuration Tuning for SAT Solving.",
+        "authors": [
+          "Zhengyuan Shi",
+          "Wentao Jiang",
+          "Xindi Zhang",
+          "Jin Luo",
+          "Yun Liang",
+          "Zhufei Chu",
+          "Qiang Xu"
+        ]
+      },
+      {
+        "title": "Unite and Lead: Finding Disjunctive Cliques for Scheduling Problems.",
+        "authors": [
+          "Konstantin Sidorov",
+          "Imko Marijnissen",
+          "Emir Demirovic"
+        ]
+      },
+      {
+        "title": "Balancing Latin Rectangles with LLM-Generated Streamliners.",
+        "authors": [
+          "Florentina Voboril",
+          "Vaidyanathan Peruvemba Ramaswamy",
+          "Stefan Szeider"
+        ]
+      },
+      {
+        "title": "Multi-League Sports Scheduling with Team Interdependencies: An Optimization Model.",
+        "authors": [
+          "Nils Weidmann"
+        ]
+      },
+      {
+        "title": "Reducing Quantum Circuit Synthesis to #SAT.",
+        "authors": [
+          "Dekel Zak",
+          "Jingyi Mei",
+          "Jean-Marie Lagniez",
+          "Alfons Laarman"
+        ]
+      },
+      {
+        "title": "The 3-Decomposition Conjecture: A SAT-Based Approach with Specialized Propagators.",
+        "authors": [
+          "Tianwei Zhang",
+          "Stefan Szeider"
+        ]
+      },
+      {
+        "title": "An Efficient and Uniform CSP Solution Generator Generator.",
+        "authors": [
+          "Ghiles Ziat",
+          "Martin Pépin"
+        ]
+      },
+      {
+        "title": "Modeling and Solving a Composite Structure Design Problem with Constraint Programming (Short Paper).",
+        "authors": [
+          "Miguel Antoons",
+          "Augustin Delecluse",
+          "Samih Zein",
+          "Pierre Schaus"
+        ]
+      },
+      {
+        "title": "Towards Modern and Modular SAT for LCG (Short Paper).",
+        "authors": [
+          "Jip J. Dekker",
+          "Alexey Ignatiev",
+          "Peter J. Stuckey",
+          "Allen Z. Zhong"
+        ]
+      },
+      {
+        "title": "Scheduling Telescope Observations for the European Southern Observatory (Short Paper).",
+        "authors": [
+          "Michael Prümm",
+          "Peter Nightingale",
+          "Felix Ulrich-Oltean"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/cp/cp2024.html": {
     "header": "30th CP 2024:\nGirona, Spain",
     "year": "2024",

@@ -1,4 +1,1293 @@
 {
+  "https://dblp.org/db/conf/eurosp/eurosp2025w.html": {
+    "header": "EuroS&P 2025: Venice, Italy - Workshops",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Message from General Chairs.",
+        "authors": [
+          "Stefano Calzavara",
+          "Paolo Falcarin"
+        ]
+      },
+      {
+        "title": "Bypassing Audio reCAPTCHA with Automatic Speech Recognition Models.",
+        "authors": [
+          "Paul Aubry",
+          "Juliette Devoivre",
+          "Damien Carron",
+          "Simon Fernandez",
+          "Andrzej Duda",
+          "Maciej Korczynski"
+        ]
+      },
+      {
+        "title": "Admin/1423: On the Insecurity of Open-Source 5G Core Network Deployments in the Wild.",
+        "authors": [
+          "Katharina Kohls"
+        ]
+      },
+      {
+        "title": "Mitigating Information Leakage in Large Language Models: Evaluating the Impact of Code Obfuscation on Vulnerability Detection.",
+        "authors": [
+          "Bengü Gülay",
+          "Cemal Yilmaz"
+        ]
+      },
+      {
+        "title": "Demystifying the Role of Rule-Based Detection in AI Systems for Windows Malware Detection.",
+        "authors": [
+          "Andrea Ponte",
+          "Luca Demetrio",
+          "Luca Oneto",
+          "Ivan Tesfai Ogbu",
+          "Battista Biggio",
+          "Fabio Roli"
+        ]
+      },
+      {
+        "title": "On the Effect of Ruleset Tuning and Data Imbalance on Explainable Network Security Alert Classifications: A Case-Study on DeepCASE.",
+        "authors": [
+          "Koen T. W. Teuwen",
+          "Sam Baggen",
+          "Emmanuele Zambon",
+          "Luca Allodi"
+        ]
+      },
+      {
+        "title": "Democratizing Generic Malware Unpacking.",
+        "authors": [
+          "Thorsten Jenke",
+          "Max Jens Ufer",
+          "Manuel Blatt",
+          "Leander Kohler",
+          "Elmar Padilla",
+          "Lilli Bruckschen"
+        ]
+      },
+      {
+        "title": "Toward Automatically Generating User-Specific Recovery Procedures After Windows Malware Infections.",
+        "authors": [
+          "Jerre Starink",
+          "Cassie Wanjun Xu",
+          "Andrea Continella"
+        ]
+      },
+      {
+        "title": "A Unified Comparison of Tabular and Graph-Based Feature Representations in Machine Learning for Malware Detection.",
+        "authors": [
+          "Samy Bettaieb",
+          "Serena Lucca",
+          "Charles-Henry Bertrand Van Ouytsel",
+          "Axel Legay",
+          "Etienne Rivière"
+        ]
+      },
+      {
+        "title": "Do Fear the REAPIR: Adversarial Malware from API Replacement.",
+        "authors": [
+          "Luke Kurlandski",
+          "Rayan Mosli",
+          "Yin Pan",
+          "Sirapat Thianphan",
+          "Matthew Wright"
+        ]
+      },
+      {
+        "title": "CTI-HAL: A Human-Annotated Dataset for Cyber Threat Intelligence Analysis.",
+        "authors": [
+          "Sofia Della Penna",
+          "Roberto Natella",
+          "Vittorio Orbinato",
+          "Lorenzo Parracino",
+          "Luciano Pianese"
+        ]
+      },
+      {
+        "title": "The Dark Side of the Web: Towards Understanding Various Data Sources in Cyber Threat Intelligence.",
+        "authors": [
+          "Saskia Laura Schröer",
+          "Noé Canevascini",
+          "Irdin Pekaric",
+          "Philine Widmer",
+          "Pavel Laskov"
+        ]
+      },
+      {
+        "title": "Is this your USB? No, but Check this QR Code for a Free Meal! Assessing Awareness Against Dropped USBs and Malicious QR Codes.",
+        "authors": [
+          "Johannes Nordskov",
+          "Tyge Tiessen",
+          "Emmanouil Vasilomanolakis"
+        ]
+      },
+      {
+        "title": "Decomposing Culture within Threat Actor Groups - Insights from the Conti Ransomware Collective.",
+        "authors": [
+          "Konstantinos Mersinas",
+          "Aimee Liu",
+          "Niki Panteli"
+        ]
+      },
+      {
+        "title": "An Experimental Design to Investigate Attacker Actions on an Access-as-a-Service 'Criminal' Platform.",
+        "authors": [
+          "Roy Ricaldi",
+          "Yasen Yalamov",
+          "Michele Campobasso",
+          "Luca Allodi",
+          "Hannah Kool",
+          "Asier Moneva",
+          "Eric Rutger Leukfeldt"
+        ]
+      },
+      {
+        "title": "Port in a Storm: Iranian Cyber Operations and Chinese Strategic Interests in Middle Eastern Maritime Infrastructure.",
+        "authors": [
+          "Cosimo Melella",
+          "Francesco Ferazza",
+          "Konstantinos Mersinas",
+          "Ricardo Lugo"
+        ]
+      },
+      {
+        "title": "Yet Another Diminishing Spark: Low-Level Cyberattacks in the Israel-Gaza Conflict.",
+        "authors": [
+          "Anh V. Vu",
+          "Alice Hutchings",
+          "Ross J. Anderson"
+        ]
+      },
+      {
+        "title": "LogoTrust: Leveraging BIMI to Build a Validated Dataset of Brands, Domain Names, and Logos.",
+        "authors": [
+          "Youssef Abyaa",
+          "Olivier Hureau",
+          "Andrzej Duda",
+          "Maciej Korczynski"
+        ]
+      },
+      {
+        "title": "Hunting Review Bombs with BRIDGE - A Bipartite Graph Neural Network Approach to Abuse Detection.",
+        "authors": [
+          "Gonzalo Sobarzo Abufon",
+          "Juan Vanerio",
+          "Javier Bustos-Jiménez",
+          "Pedro Casas"
+        ]
+      },
+      {
+        "title": "Intelligent Detection of Non-Essential IoT Traffic on the Home Gateway.",
+        "authors": [
+          "Fabio Palmese",
+          "Anna Maria Mandalari",
+          "Hamed Haddadi",
+          "Alessandro E. C. Redondi"
+        ]
+      },
+      {
+        "title": "Early-Stage Anomaly Detection: A Study of Model Performance on Complete vs. Partial Flows.",
+        "authors": [
+          "Adrián Pekár",
+          "Richard Jozsa"
+        ]
+      },
+      {
+        "title": "PPT-GNN: A Practical Pretrained Spatio-Temporal Graph Neural Network for Network Security.",
+        "authors": [
+          "Louis Van Langendonck",
+          "Ismael Castell-Uroz",
+          "Pere Barlet-Ros"
+        ]
+      },
+      {
+        "title": "Tracing Vendors: A Middlebox-Centric Study of Network Interference.",
+        "authors": [
+          "Bulut Ulukapi",
+          "Anna Sperotto",
+          "Ralph Holz"
+        ]
+      },
+      {
+        "title": "One Does Not Simply Score a Website: Evaluating Website Security Scoring Algorithms.",
+        "authors": [
+          "Daan Vansteenhuyse",
+          "Victor Le Pochat",
+          "Gertjan Franken",
+          "Lieven Desmet"
+        ]
+      },
+      {
+        "title": "Drifting Away: A Cyber-Security Study of Internet-Exposed OPC UA Servers.",
+        "authors": [
+          "Ricardo Yaben",
+          "Emmanouil Vasilomanolakis"
+        ]
+      },
+      {
+        "title": "RustiFlow: Bridging the Gap Between Security Research and Practice Using eBPF-Based Network Flow Extraction.",
+        "authors": [
+          "Miel Verkerken",
+          "Matisse Callewaert",
+          "Laurens D'hooge",
+          "Tim Wauters",
+          "Bruno Volckaert",
+          "Filip De Turck"
+        ]
+      },
+      {
+        "title": "CFA-Bench: Cybersecurity Forensic Llm Agent Benchmark and Testing.",
+        "authors": [
+          "Francesco De Santis",
+          "Kai Huang",
+          "Rodolfo V. Valentim",
+          "Danilo Giordano",
+          "Marco Mellia",
+          "Zied Ben-Houidi",
+          "Dario Rossi"
+        ]
+      },
+      {
+        "title": "From Cluttered to Clustered: Addressing Privacy Threat Explosion through Automated Clustering.",
+        "authors": [
+          "Jonah Bellemans",
+          "Mario Raciti",
+          "Dimitri Van Landuyt",
+          "Laurens Sion",
+          "Giampaolo Bella",
+          "Lieven Desmet",
+          "Wouter Joosen"
+        ]
+      },
+      {
+        "title": "Explaining and Visualizing Synthetic Data Quality Using Statistical Distances.",
+        "authors": [
+          "Juko Yamamoto",
+          "Takayuki Miura",
+          "Rina Okada",
+          "Masanobu Kii",
+          "Atsunori Ichikawa"
+        ]
+      },
+      {
+        "title": "Identification of Compositional Risks in Data Protection Impact Assessments and Beyond.",
+        "authors": [
+          "Henrik Graßhoff",
+          "Meiko Jensen",
+          "Malte Hansen",
+          "Nils Gruschka"
+        ]
+      },
+      {
+        "title": "Formguard: Continuous Privacy Testing for Websites Using Automated Interaction Replay.",
+        "authors": [
+          "Tim Vlummens",
+          "Gunes Acar"
+        ]
+      },
+      {
+        "title": "Right Here, Right Now: User Perceptions of In-Place Contextual Privacy Options.",
+        "authors": [
+          "Florian Dehling",
+          "Jan Tolsdorf",
+          "Luigi Lo Iacono"
+        ]
+      },
+      {
+        "title": "PILLAR: LINDDUN Privacy Threat Modeling Using LLMs.",
+        "authors": [
+          "Majid Mollaeefar",
+          "Andrea Bissoli",
+          "Dimitri Van Landuyt",
+          "Silvio Ranise"
+        ]
+      },
+      {
+        "title": "Securing the Lane: Defences Against Patch Attacks on Autonomous Vehicle's Lane Detection.",
+        "authors": [
+          "Romana Blazevic",
+          "Alexander Toch",
+          "Omar Veledar",
+          "Georg Macher"
+        ]
+      },
+      {
+        "title": "Stop! Camera Spoofing Via the in-Vehicle IP Network.",
+        "authors": [
+          "Dror Peri",
+          "Avishai Wool"
+        ]
+      },
+      {
+        "title": "The Image Scaling Attack: Unveiling the Risks in Traffic Sign Classification.",
+        "authors": [
+          "Aliza Reif",
+          "Tarek Stolz",
+          "Stjepan Picek",
+          "Oscar Hernán Ramírez-Agudelo",
+          "Michael Karl"
+        ]
+      },
+      {
+        "title": "WiP: Concept Drift Management in Edge-AI for Autonomous Vehicles.",
+        "authors": [
+          "Rohit Ravichandran",
+          "Mahshid Mehr Nezhad",
+          "Carsten Maple"
+        ]
+      },
+      {
+        "title": "Self-Sovereign Identities for Software-Defined Vehicles.",
+        "authors": [
+          "Christian Prehofer"
+        ]
+      },
+      {
+        "title": "CheckOCPP: Automatic OCPP Packet Dissection and Compliance Check.",
+        "authors": [
+          "Soumaya Boussaha",
+          "Victor Fresno Gómez",
+          "Thomas Barber",
+          "Daniele Antonioli"
+        ]
+      },
+      {
+        "title": "Avatar: Adversarial Vehicle Trajectory Attack Targeting Autonomous Driving Planner.",
+        "authors": [
+          "Jiadong Liu",
+          "Tatsuya Mori"
+        ]
+      },
+      {
+        "title": "Work in Progress: Leveraging Large Language Models for Cybersecurity Compliance: A Pilot Study in ISO 27001 Audit Planning.",
+        "authors": [
+          "Ahmed Salman",
+          "Yara Alsiyat",
+          "Sadie Creese",
+          "Michael Goldsmith"
+        ]
+      },
+      {
+        "title": "Tap, Pay, and Worry: Users' Perceptions of Contactless Payment Attacks Versus Technical Feasibility.",
+        "authors": [
+          "Mahshid Mehr Nezhad",
+          "Maryam Mehrnezhad",
+          "Timur Yunusov",
+          "Feng Hao"
+        ]
+      },
+      {
+        "title": "Work in Progress: Artificial Intelligence in Cybersecurity - Developing a Framework for Ethically Responsible Practices.",
+        "authors": [
+          "Nandshin Lehniger",
+          "Michael Kubach"
+        ]
+      },
+      {
+        "title": "Work in Progress: Secure Deletion on Cloud - a Constant Battle.",
+        "authors": [
+          "Konstantina Fotari",
+          "François Dupressoir",
+          "Kopo Marvin Ramokapane"
+        ]
+      },
+      {
+        "title": "Understanding How Privacy and Data Protection Perceptions Shape Nigerian Journalists' Use of AI Tools: A Work in Progress.",
+        "authors": [
+          "Oluwamayowa Tijani",
+          "Jamie Mahoney",
+          "Santosh Vijaykumar",
+          "James Nicholson"
+        ]
+      },
+      {
+        "title": "Work in Progress: Effects of Enforcing International Law on Cyber Conflict Using Wargaming.",
+        "authors": [
+          "Aidan Marchildon",
+          "Ievgeniia Kuzminykh",
+          "Bogdan Ghita"
+        ]
+      },
+      {
+        "title": "An Early Experience With Confidential Computing Architecture for On-Device Model Protection.",
+        "authors": [
+          "Sina Abdollahi",
+          "Mohammad Maheri",
+          "Sandra Deepthy Siby",
+          "Marios Kogias",
+          "Hamed Haddadi"
+        ]
+      },
+      {
+        "title": "Proving Attributes About Confidential Compute Services with Validation and Endorsement Services.",
+        "authors": [
+          "Anjo Vahldiek-Oberwagner",
+          "Marcela S. Melara"
+        ]
+      },
+      {
+        "title": "End-To-End Confidentiality with Sev-Snp Leveraging in-Memory Storage.",
+        "authors": [
+          "Lorenzo Brescia",
+          "Iacopo Colonnelli",
+          "Valerio Schiavoni",
+          "Pascal Felber",
+          "Marco Aldinucci"
+        ]
+      },
+      {
+        "title": "Enclave Application Cache for RISC-V Keystone.",
+        "authors": [
+          "Takumu Umezawa",
+          "Akihiro Saiki",
+          "Keiji Kimura"
+        ]
+      },
+      {
+        "title": "OPENCCA: An Open Framework to Enable Arm CCA Research.",
+        "authors": [
+          "Andrin Bertschi",
+          "Shweta Shinde"
+        ]
+      },
+      {
+        "title": "Principled Symbolic Validation of Enclaves on Low-End Microcontrollers.",
+        "authors": [
+          "Gert-Jan Goossens",
+          "Jo Van Bulck"
+        ]
+      },
+      {
+        "title": "Atlas: A Framework for ML Lifecycle Provenance & Transparency.",
+        "authors": [
+          "Marcin Spoczynski",
+          "Marcela S. Melara",
+          "Sebastian Szyller"
+        ]
+      },
+      {
+        "title": "Wait a Cycle: Eroding Cryptographic Trust in Low-End Tees via Timing Side Channels.",
+        "authors": [
+          "Ruben Van Dijck",
+          "Marton Bognar",
+          "Jo Van Bulck"
+        ]
+      },
+      {
+        "title": "Narrowing the Gap Between Tees Threat Model and Deployment Strategies.",
+        "authors": [
+          "Filip Rezabek",
+          "Jonathan Passerat-Palmbach",
+          "Moe Mahhouk",
+          "Frieder Erdmann",
+          "Andrew Miller"
+        ]
+      },
+      {
+        "title": "Decentralised Supply Chain Reputation: A Privacy and Self-Sovereign Identity Perspective.",
+        "authors": [
+          "Abubakar-Sadiq Shehu",
+          "Steve Schneider"
+        ]
+      },
+      {
+        "title": "Identity Threats and Where to Find Them: Mapping ITDR and MITRE ATT&CK.",
+        "authors": [
+          "Vitali Serzantov",
+          "Erwin Kupris",
+          "Thomas Schreck"
+        ]
+      },
+      {
+        "title": "Replication Study: Cross-Country Evaluation of the Recognition-Based Graphical Authentication Scheme in AR and VR Environments.",
+        "authors": [
+          "Naheem Noah",
+          "Peter Mayer",
+          "Sanchari Das"
+        ]
+      },
+      {
+        "title": "Security Requirements Classification by Means of Explainable Transformer Models.",
+        "authors": [
+          "Luca Petrillo",
+          "Fabio Martinelli",
+          "Antonella Santone",
+          "Francesco Mercaldo"
+        ]
+      },
+      {
+        "title": "Towards Privacy-Preserving Revocation of Verifiable Credentials with Time-Flexibility.",
+        "authors": [
+          "Francesco Buccafurri",
+          "Carmen Licciardi"
+        ]
+      },
+      {
+        "title": "HFuzz-Rb: Real-Time Roadblock Detection in Fuzz Testing.",
+        "authors": [
+          "Subhojeet Mukherjee",
+          "Ritesh Kumar Kalle"
+        ]
+      },
+      {
+        "title": "A Review of Anti-Phishing Email Control Measures: Why we Need a Novel Digital Signature Scheme.",
+        "authors": [
+          "Ye Li",
+          "Abu Barkat Ullah",
+          "Dat Tran",
+          "Elisa Martínez Marroquín",
+          "Wanli Ma"
+        ]
+      },
+      {
+        "title": "Are You Sure That is Secure? Assessing Organizations Security Readiness Via a Devsecops Maturity Model.",
+        "authors": [
+          "Alessandro Brighente",
+          "Elisa Burato",
+          "Mauro Conti"
+        ]
+      },
+      {
+        "title": "Sok: Zero Trust as a Strategy to Address Devsecops Challenges.",
+        "authors": [
+          "Anita Nair",
+          "Serena Nicolazzo",
+          "Antonino Nocera",
+          "Rafidha Rehiman K. A.",
+          "Vinod P."
+        ]
+      },
+      {
+        "title": "Towards Continuous Risk Assessment and Conformance Checking of IdM Deployments.",
+        "authors": [
+          "Andrea Bisegna",
+          "Roberto Carbone",
+          "Laura Cristiano",
+          "Pietro De Matteis",
+          "Silvio Ranise"
+        ]
+      },
+      {
+        "title": "Concept for Designing an ICS Testbed from a Penetration Testing Perspective.",
+        "authors": [
+          "Sebastian Kraust",
+          "Peter Heller",
+          "Jürgen Mottok"
+        ]
+      },
+      {
+        "title": "The OWApp Benchmark: An OWASP-Compliant Vulnerable Android App Dataset.",
+        "authors": [
+          "Luca Ferrari",
+          "Franceso Pagano",
+          "Luca Verderame",
+          "Alessio Merlo"
+        ]
+      },
+      {
+        "title": "Covert BLE Data Exfiltration via Apple's Find My Network: A Malware Prototype and Defense Strategies.",
+        "authors": [
+          "Hosam Alamleh",
+          "Alessandro Cantelli-Forti"
+        ]
+      },
+      {
+        "title": "Real-World Study of the Security of Educational Test Systems.",
+        "authors": [
+          "Stefan Gast",
+          "Sebastian Daniel Felix",
+          "Alexander Steinmaurer",
+          "Jonas Juffinger",
+          "Daniel Gruss"
+        ]
+      },
+      {
+        "title": "Statistical Evaluation of Entropy Accumulation in Linux.",
+        "authors": [
+          "Alexandre Bouez",
+          "Joan Daemen",
+          "Bart Mennink"
+        ]
+      },
+      {
+        "title": "Work-in-Progress: Optimizing Performance of User Revocation in Cryptographic Access Control with Trusted Execution Environments.",
+        "authors": [
+          "Ion Andy Ditu",
+          "Stefano Berlato",
+          "Matteo Busi",
+          "Roberto Carbone",
+          "Silvio Ranise"
+        ]
+      },
+      {
+        "title": "From Edge to Cloud: Securing Distributed Containerized Applications.",
+        "authors": [
+          "Luca Verderame",
+          "Giorgia Bolognesi",
+          "Enrico Pezzano",
+          "Massimiliano Rak",
+          "Alberto Falcone",
+          "Giacomo Benedetti",
+          "Massimo Guarascio",
+          "Luca Caviglione",
+          "Roberto Carbone",
+          "Roberto Doriguzzi-Corin",
+          "Maurizio Giacobbe",
+          "Giovanni Merlino",
+          "Antonio Puliafito",
+          "Massimiliano Baldo",
+          "Marino Miculan",
+          "Vincenzo Riccio",
+          "Massimo Ficco"
+        ]
+      },
+      {
+        "title": "Cognitive Biases in Cyber Attacker Decision Making: Translating Behavioral Insights Into Cybersecurity.",
+        "authors": [
+          "Anu Aggarwal",
+          "Maria José Ferreira",
+          "Palvi Aggarwal",
+          "Prashanth Rajivan",
+          "Cleotilde Gonzalez"
+        ]
+      },
+      {
+        "title": "Towards Bio-Inspired Cyber-Deception: A Case Study of SSH and Telnet Honeypots.",
+        "authors": [
+          "Anastasia Safargalieva",
+          "Emmanouil Vasilomanolakis"
+        ]
+      },
+      {
+        "title": "Experience Paper: Uncovering a Privileged Insider Threat in Action.",
+        "authors": [
+          "Raj Gopalakrishna",
+          "Rajaram Bhaskaran"
+        ]
+      },
+      {
+        "title": "Position Paper: The Extended Pyramid of Pain: The Attacker's Nightmare Edition.",
+        "authors": [
+          "Raj Gopalakrishna",
+          "Rajaram Bhaskaran"
+        ]
+      },
+      {
+        "title": "VelLMes: A High-Interaction AI-Based Deception Framework.",
+        "authors": [
+          "Muris Sladic",
+          "Veronica Valeros",
+          "Carlos Adrián Catania",
+          "Sebastián García"
+        ]
+      },
+      {
+        "title": "A Case Study on the Use of Representativeness Bias as a Defense Against Adversarial Cyber Threats.",
+        "authors": [
+          "Briland Hitaj",
+          "Grit Denker",
+          "Laura Tinnel",
+          "Michael McAnally",
+          "Bruce DeBruhl",
+          "Nathan Bunting",
+          "Alex Fafard",
+          "Daniel Aaron",
+          "Richard D. Roberts",
+          "Joshua Lawson",
+          "Greg McCain",
+          "Dylan Starink"
+        ]
+      },
+      {
+        "title": "Koney: A Cyber Deception Orchestration Framework for Kubernetes.",
+        "authors": [
+          "Mario Kahlhofer",
+          "Matteo Golinelli",
+          "Stefan Rass"
+        ]
+      },
+      {
+        "title": "Detection of Reverse Engineering Activities Before the Attack.",
+        "authors": [
+          "Paolo Falcarin",
+          "Mirco Venerba",
+          "Matteo De Giorgi",
+          "Federica Sarro"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/eurosp/eurosp2025.html": {
+    "header": "EuroS&P 2025: Venice, Italy",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "A Systematic Study of Practical & Formal Privacy in the 5G AKMA Procedure.",
+        "authors": [
+          "Ioana Boureanu",
+          "Stephan Wesemeyer",
+          "Fortunat Rajaona",
+          "Steve Schneider",
+          "Helen Treharne"
+        ]
+      },
+      {
+        "title": "Active Attribute Inference Against Well-Generalized Models In Federated Learning.",
+        "authors": [
+          "Catarina Gomes",
+          "Ricardo Mendes",
+          "João P. Vilela"
+        ]
+      },
+      {
+        "title": "Scalable and Fine-Tuned Privacy Pass from Group Verifiable Random Functions.",
+        "authors": [
+          "Dennis Faut",
+          "Julia Hesse",
+          "Lisa Kohl",
+          "Andy Rupp"
+        ]
+      },
+      {
+        "title": "TAPShield: Securing Trigger-Action Platforms against Strong Attackers.",
+        "authors": [
+          "Mojtaba Moazen",
+          "Nicolae Paladi",
+          "Adnan Jamil Ahsan",
+          "Musard Balliu"
+        ]
+      },
+      {
+        "title": "They See Me Scooting - A Long-Term Real-World Data Analysis of Shared Micro-Mobility Services and their Privacy Leakage.",
+        "authors": [
+          "Karina Elzer",
+          "Eric Jedermann",
+          "Stefanie Roos",
+          "Jens B. Schmitt"
+        ]
+      },
+      {
+        "title": "You Can't Trust Your Tag Neither: Privacy Leaks and Potential Legal Violations within the Google Tag Manager.",
+        "authors": [
+          "Gilles Mertens",
+          "Nataliia Bielova",
+          "Vincent Roca",
+          "Cristiana Santos"
+        ]
+      },
+      {
+        "title": "Your Car Tells Me Where You Drove: A Novel Path Inference Attack via CAN Bus and OBD-II Data.",
+        "authors": [
+          "Tommaso Bianchi",
+          "Alessandro Brighente",
+          "Mauro Conti",
+          "Andrea Valori"
+        ]
+      },
+      {
+        "title": "All that Glitters is not Gold: Uncovering Exposed Industrial Control Systems and Honeypots in the Wild.",
+        "authors": [
+          "Martin Mladenov",
+          "László Erdodi",
+          "Georgios Smaragdakis"
+        ]
+      },
+      {
+        "title": "CHARON: Polyglot Code Analysis for Detecting Vulnerabilities in Scripting Languages Native Extensions.",
+        "authors": [
+          "Raoul Scholtes",
+          "Soheil Khodayari",
+          "Cristian-Alexandru Staicu",
+          "Giancarlo Pellegrino"
+        ]
+      },
+      {
+        "title": "Demystifying the Perceptions Gap Between Designers and Practitioners in Two Security Standards.",
+        "authors": [
+          "Shreyas Kumar",
+          "Evelyn Crowe",
+          "Guofei Gu"
+        ]
+      },
+      {
+        "title": "Dredging the River Styx: Fortifying the Web through Robust and Real-Time Script Attribution.",
+        "authors": [
+          "Kostas Drakonakis",
+          "Sotiris Ioannidis",
+          "Jason Polakis"
+        ]
+      },
+      {
+        "title": "Enhancing Cybersecurity Awareness in Small and Medium Enterprises Through a User-Friendly Risk Assessment Tool.",
+        "authors": [
+          "Miriam Curtin",
+          "Brian Sheehan",
+          "Melanie Gruben",
+          "Gillian O'Carroll",
+          "Hazel Murray"
+        ]
+      },
+      {
+        "title": "Exploring the Design Space for Security Warnings in Immersive Environments.",
+        "authors": [
+          "Andrea Mengascini",
+          "Rebecca Weil",
+          "Annabelle Walle",
+          "Jürgen Steimle",
+          "Giancarlo Pellegrino"
+        ]
+      },
+      {
+        "title": "Incentivizing Security Excellence in Cyber Liability Insurance.",
+        "authors": [
+          "Shreyas Kumar",
+          "Paula deWitte",
+          "Guofei Gu"
+        ]
+      },
+      {
+        "title": "MalMixer: Few-Shot Malware Classification with Retrieval-Augmented Semi-Supervised Learning.",
+        "authors": [
+          "Jiliang Li",
+          "Yifan Zhang",
+          "Yu Huang",
+          "Kevin Leach"
+        ]
+      },
+      {
+        "title": "Port Forwarding Services Are Forwarding Security Risks.",
+        "authors": [
+          "Haoyuan Wang",
+          "Yue Xue",
+          "Xuan Feng",
+          "Chao Zhou",
+          "Xianghang Mi"
+        ]
+      },
+      {
+        "title": "WWXSS: Systematic Study, and Large-Scale Measurement of Cross-Site Scripting (XSS) in Web Workers Contexts.",
+        "authors": [
+          "Dolière Francis Somé"
+        ]
+      },
+      {
+        "title": "KubeKeeper: Protecting Kubernetes Secrets Against Excessive Permissions.",
+        "authors": [
+          "Maryam Rostamipoor",
+          "Aliakbar Sadeghi",
+          "Michalis Polychronakis"
+        ]
+      },
+      {
+        "title": "Latte: Layered Attestation for Portable Enclaved Applications.",
+        "authors": [
+          "Haoxuan Xu",
+          "Jia Xiang",
+          "Zhen Huang",
+          "Guoxing Chen",
+          "Yan Meng",
+          "Haojin Zhu"
+        ]
+      },
+      {
+        "title": "LibAFLGo: Evaluating and Advancing Directed Greybox Fuzzing.",
+        "authors": [
+          "Elia Geretto",
+          "Andrea Jemmett",
+          "Cristiano Giuffrida",
+          "Herbert Bos"
+        ]
+      },
+      {
+        "title": "PreFence: A Fine-Grained and Scheduling-Aware Defense Against Prefetching-Based Attacks.",
+        "authors": [
+          "Till Schlüter",
+          "Nils Ole Tippenhauer"
+        ]
+      },
+      {
+        "title": "Rubicon: Precise Microarchitectural Attacks with Page-Granular Massaging.",
+        "authors": [
+          "Matej Bölcskei",
+          "Patrick Jattke",
+          "Johannes Wikner",
+          "Kaveh Razavi"
+        ]
+      },
+      {
+        "title": "SoK: No Goto, No Cry? The Fairy Tale of Flawless Control-Flow Structuring.",
+        "authors": [
+          "Eva-Maria C. Behner",
+          "Steffen Enders",
+          "Elmar Padilla"
+        ]
+      },
+      {
+        "title": "SoK: Security of EMV Contactless Payment Systems.",
+        "authors": [
+          "Mahshid Mehr Nezhad",
+          "Feng Hao",
+          "Gregory Epiphaniou",
+          "Carsten Maple",
+          "Timur Yunusov"
+        ]
+      },
+      {
+        "title": "Attacking and Fixing the Android Protected Confirmation Protocol.",
+        "authors": [
+          "Myrto Arapinis",
+          "Vincent Danos",
+          "Maïwenn Racouchot",
+          "David A. R. Robin",
+          "Thomas Zacharias"
+        ]
+      },
+      {
+        "title": "Best-Possible Unpredictable Proof-of-Stake: An Impossibility and a Practical Design.",
+        "authors": [
+          "Lei Fan",
+          "Jonathan Katz",
+          "Zhenghao Lu",
+          "Phuc Thai",
+          "Hong-Sheng Zhou"
+        ]
+      },
+      {
+        "title": "Commitment Attacks on Ethereum's Reward Mechanism.",
+        "authors": [
+          "Roozbeh Sarenche",
+          "Ertem Nusret Tas",
+          "Barnabé Monnot",
+          "Caspar Schwarz-Schilling",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "Cryptographic Commitments on Anonymizable Data.",
+        "authors": [
+          "Xavier Bultel",
+          "Céline Chevalier",
+          "Charlène Jojon",
+          "Diandian Liu",
+          "Benjamin Nguyen"
+        ]
+      },
+      {
+        "title": "Cybersquatting in Web3: The Case of NFT.",
+        "authors": [
+          "Kai Ma",
+          "Ningyu He",
+          "Jintao Huang",
+          "Bosi Zhang",
+          "Ping Wu",
+          "Haoyu Wang"
+        ]
+      },
+      {
+        "title": "Incompleteness in Number-Theoretic Transforms: New Tradeoffs and Faster Lattice-Based Cryptographic Applications.",
+        "authors": [
+          "Syed Mahbub Hafiz",
+          "Bahattin Yildiz",
+          "Marcos A. Simplício Jr.",
+          "Thales B. Paiva",
+          "Henrique S. Ogawa",
+          "Gabrielle De Micheli",
+          "Eduardo Lopes Cominetti"
+        ]
+      },
+      {
+        "title": "Not in The Prophecies: Practical Attacks on Nostr.",
+        "authors": [
+          "Hayato Kimura",
+          "Ryoma Ito",
+          "Kazuhiko Minematsu",
+          "Shogo Shiraki",
+          "Takanori Isobe"
+        ]
+      },
+      {
+        "title": "Sandi: A System for Accountability.",
+        "authors": [
+          "F. Betül Durak",
+          "Kim Laine",
+          "Simon Langowski",
+          "Radames Cruz Moreno"
+        ]
+      },
+      {
+        "title": "Sequentially Consistent Concurrent Encrypted Multimaps.",
+        "authors": [
+          "Archita Agarwal",
+          "Zachary Espiritu"
+        ]
+      },
+      {
+        "title": "The Art of Bonsai: How Well-Shaped Trees Improve the Communication Cost of MLS.",
+        "authors": [
+          "Céline Chevalier",
+          "Guirec Lebrun",
+          "Ange Martinelli",
+          "Jérôme Plût"
+        ]
+      },
+      {
+        "title": "Beneath the Surface: An Analysis of OEM Customizations on the Android TLS Protocol Stack.",
+        "authors": [
+          "Vinuri Bandara",
+          "Stijn Pletinckx",
+          "Ilya Grishchenko",
+          "Christopher Kruegel",
+          "Giovanni Vigna",
+          "Juan Tapiador",
+          "Narseo Vallina-Rodriguez"
+        ]
+      },
+      {
+        "title": "Caiba: Multicast Source Authentication for CAN Through Reactive Bit Flipping.",
+        "authors": [
+          "Eric Wagner",
+          "Frederik Basels",
+          "Jan Bauer",
+          "Till Zimmermann",
+          "Klaus Wehrle",
+          "Martin Henze"
+        ]
+      },
+      {
+        "title": "Can You Hear Me? A First Study of VoIP Censorship Techniques in Saudi Arabia and the UAE.",
+        "authors": [
+          "Friedemann Lipphardt",
+          "Anja Feldmann",
+          "Devashish Gosain"
+        ]
+      },
+      {
+        "title": "CovFUZZ: Coverage-based fuzzer for 4G&5G protocols.",
+        "authors": [
+          "Ilja Siros",
+          "Dave Singelée",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "Endless Subscriptions: Open RAN is Open to RIC E2 Subscription Denial of Service Attacks.",
+        "authors": [
+          "Felix Klement",
+          "Alessandro Brighente",
+          "Anup Kiran Bhattacharjee",
+          "Stefano Cecconello",
+          "Fernando Kuipers",
+          "Georgios Smaragdakis",
+          "Mauro Conti",
+          "Stefan Katzenbeisser"
+        ]
+      },
+      {
+        "title": "O'MINE: A Novel Collaborative DDoS Detection Mechanism for Programmable Data-Planes.",
+        "authors": [
+          "Enkeleda Bardhi",
+          "Chenxing Ji",
+          "Ali Imran",
+          "Muhammad Shahbaz",
+          "Riccardo Lazzeretti",
+          "Mauro Conti",
+          "Fernando Kuipers"
+        ]
+      },
+      {
+        "title": "SoK: Hardening Techniques in the Mobile Ecosystem - Are We There Yet?",
+        "authors": [
+          "Magdalena Steinböck",
+          "Jens Troost",
+          "Wilco Van Beijnum",
+          "Jan Seredynski",
+          "Herbert Bos",
+          "Martina Lindorfer",
+          "Andrea Continella"
+        ]
+      },
+      {
+        "title": "The Danger of Packet Length Leakage: Off-path TCP/IP Hijacking Attacks Against Wireless and Mobile Networks.",
+        "authors": [
+          "Guancheng Li",
+          "Minghao Zhang",
+          "Jianjun Chen",
+          "Ge Dai",
+          "Pinji Chen",
+          "Huiming Liu",
+          "Yang Yu",
+          "Haixin Duan",
+          "Zhiyun Qian"
+        ]
+      },
+      {
+        "title": "A Formal Security Analysis of Hyperledger AnonCreds.",
+        "authors": [
+          "Ashley Fraser",
+          "Steve Schneider"
+        ]
+      },
+      {
+        "title": "Efficient Authentication Protocols from the Restricted Syndrome Decoding Problem.",
+        "authors": [
+          "Thomas Johansson",
+          "Mustafa Khairallah",
+          "Vu Nguyen"
+        ]
+      },
+      {
+        "title": "Shaking up authenticated encryption.",
+        "authors": [
+          "Joan Daemen",
+          "Seth Hoffert",
+          "Silvia Mella",
+          "Gilles Van Assche",
+          "Ronny Van Keer"
+        ]
+      },
+      {
+        "title": "SoK: Systematization and Benchmarking of Deepfake Detectors in a Unified Framework.",
+        "authors": [
+          "Binh Minh Le",
+          "Jiwon Kim",
+          "Simon S. Woo",
+          "Kristen Moore",
+          "Alsharif Abuadbba",
+          "Shahroz Tariq"
+        ]
+      },
+      {
+        "title": "SPARK: Secure Privacy-Preserving Anonymous Swarm Attestation for In-Vehicle Networks.",
+        "authors": [
+          "Wouter Hellemans",
+          "Nada El Kassem",
+          "Md Masoom Rabbani",
+          "Edlira Dushku",
+          "Liqun Chen",
+          "An Braeken",
+          "Bart Preneel",
+          "Nele Mentens"
+        ]
+      },
+      {
+        "title": "CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models.",
+        "authors": [
+          "Yutong Cheng",
+          "Osama Bajaber",
+          "Saimon Amanuel Tsegai",
+          "Dawn Song",
+          "Peng Gao"
+        ]
+      },
+      {
+        "title": "Deep Unlearn: Benchmarking Machine Unlearning for Image Classification.",
+        "authors": [
+          "Xavier F. Cadet",
+          "Anastasia Borovykh",
+          "Mohammad Malekzadeh",
+          "Sara Ahmadi-Abhari",
+          "Hamed Haddadi"
+        ]
+      },
+      {
+        "title": "LLMPot: Dynamically Configured LLM-based Honeypot for Industrial Protocol and Physical Process Emulation.",
+        "authors": [
+          "Christoforos Vasilatos",
+          "Dunia J. Mahboobeh",
+          "Hithem Lamri",
+          "Manaar Alam",
+          "Michail Maniatakos"
+        ]
+      },
+      {
+        "title": "On the Lack of Robustness of Binary Function Similarity Systems.",
+        "authors": [
+          "Gianluca Capozzi",
+          "Tong Tang",
+          "Jie Wan",
+          "Ziqi Yang",
+          "Daniele Cono D'Elia",
+          "Giuseppe Antonio Di Luna",
+          "Lorenzo Cavallaro",
+          "Leonardo Querzoni"
+        ]
+      },
+      {
+        "title": "Harmless Backdoor-based Client-side Watermarking in Federated Learning.",
+        "authors": [
+          "Kaijing Luo",
+          "Ka-Ho Chow"
+        ]
+      },
+      {
+        "title": "AceCov: Auxiliary Composite Edge Coverage for Fuzzing.",
+        "authors": [
+          "Haruki Yoshida",
+          "Yuichi Sugiyama",
+          "Ryota Shioya"
+        ]
+      },
+      {
+        "title": "CTRAPS: CTAP Client Impersonation and API Confusion on FIDO2.",
+        "authors": [
+          "Marco Casagrande",
+          "Daniele Antonioli"
+        ]
+      },
+      {
+        "title": "Divide and Conquer: Introducing Partial Multi-Variant Execution.",
+        "authors": [
+          "Jonas Vinck",
+          "Adriaan Jacobs",
+          "Alexios Voulimeneas",
+          "Stijn Volckaert"
+        ]
+      },
+      {
+        "title": "LeapFrog: The Rowhammer Instruction Skip Attack.",
+        "authors": [
+          "Andrew J. Adiletta",
+          "M. Caner Tol",
+          "Kemal Derya",
+          "Berk Sunar",
+          "Saad Islam"
+        ]
+      },
+      {
+        "title": "LegoLog: A configurable transparency log.",
+        "authors": [
+          "Vivian Fang",
+          "Emma Dauterman",
+          "Akshay Ravoor",
+          "Akshit Dewan",
+          "Raluca Ada Popa"
+        ]
+      },
+      {
+        "title": "openIPE: An Extensible Memory Isolation Framework for Microcontrollers.",
+        "authors": [
+          "Marton Bognar",
+          "Jo Van Bulck"
+        ]
+      },
+      {
+        "title": "Pfuzzer: Practical, Sound, and Effective Multi-path Analysis of Environment-sensitive Malware with Coverage-guided Fuzzing.",
+        "authors": [
+          "Nicola Bottura",
+          "Daniele Cono D'Elia",
+          "Leonardo Querzoni"
+        ]
+      },
+      {
+        "title": "Mario: Multi-round Multiple-Aggregator Secure Aggregation with Robustness against Malicious Actors.",
+        "authors": [
+          "Truong Son Nguyen",
+          "Tancrède Lepoint",
+          "Ni Trieu"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/eurosp/eurosp2024w.html": {
     "header": "EuroS&P 2024: Vienna, Austria - Workshops",
     "year": "2024",

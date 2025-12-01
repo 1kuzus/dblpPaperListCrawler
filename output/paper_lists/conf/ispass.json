@@ -1,4 +1,472 @@
 {
+  "https://dblp.org/db/conf/ispass/ispass2025.html": {
+    "header": "ISPASS 2025: Ghent, Belgium",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "La Superba: Leveraging a Self-Comparison Method to Understand the Performance Benefits of Sparse Acceleration Optimizations.",
+        "authors": [
+          "Nebil Ozer",
+          "Gregory Kollmer",
+          "Ramyad Hadidi",
+          "Bahar Asgari"
+        ]
+      },
+      {
+        "title": "Dissecting Performance Overheads of Confidential Computing on GPU-based Systems.",
+        "authors": [
+          "Yang Yang",
+          "Mohammad Sonji",
+          "Adwait Jog"
+        ]
+      },
+      {
+        "title": "Evaluation and Comparison of the Energy Efficiency of Several Intel Multicore Processors.",
+        "authors": [
+          "Thomas Rauber",
+          "Gudula Rünger"
+        ]
+      },
+      {
+        "title": "Carbon-Aware Server Replacement.",
+        "authors": [
+          "Iris Uwizeyimana",
+          "Natalie Enright Jerger"
+        ]
+      },
+      {
+        "title": "Evaluating Compute in Memory Architectures for Matrix Multiplication: A Dataflow-Centric Perspective.",
+        "authors": [
+          "Tanvi Sharma",
+          "Indranil Chakraborty",
+          "Mustafa Fayez Ali",
+          "Kaushik Roy"
+        ]
+      },
+      {
+        "title": "FIDESlib: A Fully-Fledged Open-Source FHE Library for Efficient CKKS on GPUs.",
+        "authors": [
+          "Carlos Agulló-Domingo",
+          "Óscar Vera-López",
+          "Seyda Guzelhan",
+          "Lohit Daksha",
+          "Aymane El Jerari",
+          "Kaustubh Shivdikar",
+          "Rashmi S. Agrawal",
+          "David R. Kaeli",
+          "Ajay Joshi",
+          "José L. Abellán"
+        ]
+      },
+      {
+        "title": "An Analytical Cost Model for Fast Evaluation of Multiple Compute-Engine CNN Accelerators.",
+        "authors": [
+          "Fareed Qararyah",
+          "Mohammad Ali Maleki",
+          "Pedro Trancoso"
+        ]
+      },
+      {
+        "title": "Understanding the Performance Horizon of the Latest ML Workloads with NonGEMM Workloads.",
+        "authors": [
+          "Rachid Karami",
+          "Sheng-Chun Kao",
+          "Hyoukjun Kwon"
+        ]
+      },
+      {
+        "title": "Intel ® in-Memory Analytics Accelerator: Performance Characterization and Guidelines.",
+        "authors": [
+          "Jaeyoung Kang",
+          "Qirong Xia",
+          "Ipoom Jeong",
+          "Yongjoo Park",
+          "Nam Sung Kim"
+        ]
+      },
+      {
+        "title": "MeMo: Enhancing Representative Sampling via Mechanistic Micro-Model Signatures.",
+        "authors": [
+          "Chenji Han",
+          "Huai Xu",
+          "Guangyao Guo",
+          "Yuxuan Wu",
+          "Fuxin Zhang"
+        ]
+      },
+      {
+        "title": "Exploring Constrained Dataflow Accelerators for Real-Time Multi-Task Multi-Model Ml Workloads.",
+        "authors": [
+          "Jamin Seo",
+          "Jianming Tong",
+          "Tushar Krishna",
+          "Hyoukjun Kwon"
+        ]
+      },
+      {
+        "title": "ConCCL: Optimizing ML Concurrent Computation and Communication with GPU DMA Engines.",
+        "authors": [
+          "Anirudha Agrawal",
+          "Shaizeen Aga",
+          "Suchita Pati",
+          "Mahzabeen Islam"
+        ]
+      },
+      {
+        "title": "ADOR: A Design Exploration Framework for LLM Serving with Enhanced Latency and Throughput.",
+        "authors": [
+          "Junsoo Kim",
+          "Hunjong Lee",
+          "Geonwoo Ko",
+          "Gyubin Choi",
+          "Seri Ham",
+          "Seongmin Hong",
+          "Joo-Young Kim"
+        ]
+      },
+      {
+        "title": "Generative AI in Embodied Systems: System-Level Analysis of Performance, Efficiency and Scalability.",
+        "authors": [
+          "Zishen Wan",
+          "Jiayi Qian",
+          "Yuhang Du",
+          "Jason Jabbour",
+          "Yilun Du",
+          "Yang Zhao",
+          "Arijit Raychowdhury",
+          "Tushar Krishna",
+          "Vijay Janapa Reddi"
+        ]
+      },
+      {
+        "title": "Characterizing and Optimizing LLM Inference Workloads on CPU-GPU Coupled Architectures.",
+        "authors": [
+          "Prabhu Vellaisamy",
+          "Thomas Labonte",
+          "Sourav Chakraborty",
+          "Matt Turner",
+          "Samantika Sury",
+          "John Paul Shen"
+        ]
+      },
+      {
+        "title": "Hierarchical Traversal Stack Design Using Shared Memory for GPU Ray Tracing.",
+        "authors": [
+          "Eunsoo Jung",
+          "Eunbi Jeong",
+          "Gunjae Koo",
+          "Yunho Oh",
+          "Myung Kuk Yoon"
+        ]
+      },
+      {
+        "title": "RayFlex: An Open-Source RTL Implementation of the Hardware Ray Tracer Datapath.",
+        "authors": [
+          "Fangjia Shen",
+          "Aaron Barnes",
+          "Anusuya Nallathambi",
+          "Timothy G. Rogers"
+        ]
+      },
+      {
+        "title": "FinGraV: Methodology for Fine-Grain GPU Power Visibility and Insights.",
+        "authors": [
+          "Varsha Singhania",
+          "Shaizeen Aga",
+          "Mohamed Assem Ibrahim"
+        ]
+      },
+      {
+        "title": "Luthier: A Dynamic Binary Instrumentation Framework Targeting AMD GPUs.",
+        "authors": [
+          "Matin Raayai Ardakani",
+          "Andrew Nguyen",
+          "Ivan Rosales",
+          "Daoxuan Xu",
+          "Yuwei Sun",
+          "Yifan Sun",
+          "David Kaeli",
+          "Norman Rubin"
+        ]
+      },
+      {
+        "title": "Performance Analysis of GEMM Workloads on the AMD Versal Platform.",
+        "authors": [
+          "Kaustubh Manohar Mhatre",
+          "Venkata Guru Prashanth Mulleti",
+          "Curt John Bansil",
+          "Endri Taka",
+          "Aman Arora"
+        ]
+      },
+      {
+        "title": "Beyond the Numbers: Measuring Android Performance Through User Perception.",
+        "authors": [
+          "Jaeheon Lee",
+          "Juhyung Park",
+          "Seonggyun Oh",
+          "Jinhyung Koo",
+          "Sungjin Lee"
+        ]
+      },
+      {
+        "title": "COCOSSim: A Cycle-Accurate Simulator for Heterogeneous Systolic Array Architectures.",
+        "authors": [
+          "Mansi Choudhary",
+          "Chris Kjellqvist",
+          "Jiaao Ma",
+          "Lisa Wu Wills"
+        ]
+      },
+      {
+        "title": "SCALE-Sim V3: a Modular Cycle-Accurate Systolic Accelerator Simulator for End-To-End System Analysis.",
+        "authors": [
+          "Ritik Raj",
+          "Sarbartha Banerjee",
+          "Nikhil Chandra",
+          "Zishen Wan",
+          "Jianming Tong",
+          "Ananda Samajdhar",
+          "Tushar Krishna"
+        ]
+      },
+      {
+        "title": "Evaluation of MindPalace for Chip Design Tradeoffs on Function-as-a-Service.",
+        "authors": [
+          "Kaifeng Xu",
+          "Georgios Tziantzioulis",
+          "David Wentzlaff"
+        ]
+      },
+      {
+        "title": "PowerSensor3: A Fast and Accurate Open Source Power Measurement Tool.",
+        "authors": [
+          "Steven van der Vlugt",
+          "Leon C. Oostrum",
+          "Gijs Schoonderbeek",
+          "Ben van Werkhoven",
+          "Bram Veenboer",
+          "Krijn Doekemeijer",
+          "John W. Romein"
+        ]
+      },
+      {
+        "title": "Benchmarking 3D Gaussian Splatting Rendering.",
+        "authors": [
+          "Saichand Samudrala",
+          "Sushant Kondguli",
+          "Paul Gratz"
+        ]
+      },
+      {
+        "title": "COSMOS: An LLC Contention Slowdown Model for Heterogeneous Multi-Core Systems.",
+        "authors": [
+          "Yongju Lee",
+          "Jaewon Kwon",
+          "Cheolhwan Kim",
+          "Enhyeok Jang",
+          "Jiwon Lee",
+          "Hyunwuk Lee",
+          "Won Woo Ro"
+        ]
+      },
+      {
+        "title": "Use Equal-Work or Equal-Time Speedup, Not Geomean Speedup.",
+        "authors": [
+          "Lieven Eeckhout"
+        ]
+      },
+      {
+        "title": "Identifying Important Data Transformations for Synthesizing Effective Lossless Compressors.",
+        "authors": [
+          "Noushin Azami",
+          "Martin Burtscher"
+        ]
+      },
+      {
+        "title": "Beethoven: A Heterogeneous Multi-Core Accelerator System Composer.",
+        "authors": [
+          "Chris Kjellqvist",
+          "Brendan Peercy",
+          "Alvin R. Lebeck",
+          "Lisa Wu Wills"
+        ]
+      },
+      {
+        "title": "SAGA: A Surrogate Assisted Genetic Algorithm for Fast CPU Power Virus Generation.",
+        "authors": [
+          "Panteleimonas Chatzimiltis",
+          "Georgia Antoniou",
+          "Haris Volos",
+          "Yiannakis Sazeides"
+        ]
+      },
+      {
+        "title": "Concurrent PIM and Load/Store Servicing in PIM-Enabled Memory.",
+        "authors": [
+          "Sudhanshu Gupta",
+          "Niti Madan",
+          "Sooraj Puthoor",
+          "Nuwan Jayasena",
+          "Sandhya Dwarkadas"
+        ]
+      },
+      {
+        "title": "The Fake-Busy and True-Idle Problems of Running Graph Applications on Chiplet-Based Multi-Cores.",
+        "authors": [
+          "Rashid Aligholipour",
+          "Yuan Yao"
+        ]
+      },
+      {
+        "title": "The Future of Instruction-Level Parallelism (ILP).",
+        "authors": [
+          "Alexandra W. Chadwick",
+          "Márton Erdos",
+          "Utpal Bora",
+          "Akshay Bhosale",
+          "Bob Lytton",
+          "Yuxin Guo",
+          "Richard Cooper",
+          "Giacomo Gabrielli",
+          "Timothy M. Jones"
+        ]
+      },
+      {
+        "title": "Characterizing Compute-Communication Overlap in GPU-Accelerated Distributed Deep Learning: Performance and Power Implications.",
+        "authors": [
+          "Seonho Lee",
+          "Jihwan Oh",
+          "Seokjin Go",
+          "Divya Mahajan"
+        ]
+      },
+      {
+        "title": "PIM-BEACON: A Benchmarking and Emulation Framework Supporting Adaptive CONfigurations in DRAM-Based Processing-in-Memory Systems.",
+        "authors": [
+          "Inseong Hwang",
+          "Jihoon Jang",
+          "Chaewon Park",
+          "Hyun Kim"
+        ]
+      },
+      {
+        "title": "Profiling Concurrent Vision Inference Workloads on NVIDIA Jetson.",
+        "authors": [
+          "Abhinaba Chakraborty",
+          "Wouter Tavernier",
+          "Akis Kourtis",
+          "Mario Pickavet",
+          "Andreas Oikonomakis",
+          "Didier Colle"
+        ]
+      },
+      {
+        "title": "ASLink: Modeling Multi-GPU Execution in Accel-Sim.",
+        "authors": [
+          "Christin Bose",
+          "Cesar Avalos",
+          "Junrui Pan",
+          "Yechen Liu",
+          "Mahmoud Khairy",
+          "Clay Hughes",
+          "Timothy G. Rogers"
+        ]
+      },
+      {
+        "title": "A Flexible and Accurate Circuit-Level Substrate for Future DRAM Design and Analysis.",
+        "authors": [
+          "S. M. Mojahidul Ahsan",
+          "Mohammad Nouri",
+          "Ramesh Reddy Ganapam",
+          "Mohammad Alian",
+          "Tamzidul Hoque"
+        ]
+      },
+      {
+        "title": "TPNM: A CXL Based General Purpose Tiered Process Near Memory Framework.",
+        "authors": [
+          "Pingyi Huo",
+          "Anusha Devulapally",
+          "Hasan Al Maruf",
+          "Meena Arunachalam",
+          "Mahmut Taylan Kandemir",
+          "Vijaykrishnan Narayanan"
+        ]
+      },
+      {
+        "title": "A Real-Time, Auto-Regression Method for in-Situ Feature Extraction in Hydrodynamics Simulations.",
+        "authors": [
+          "Kewei Yan",
+          "Yonghong Yan"
+        ]
+      },
+      {
+        "title": "Library of Networks: An Online Tool for Design and Analysis of Network Topologies.",
+        "authors": [
+          "Aniket Chatterjee",
+          "Conor James Green",
+          "Mithuna Thottethodi"
+        ]
+      },
+      {
+        "title": "Multi-Core Aware Evaluation of Prefetchers.",
+        "authors": [
+          "Martí Torrents",
+          "Paul Caheny",
+          "Stijn Eyerman",
+          "Wim Heirman"
+        ]
+      },
+      {
+        "title": "Analysis of the RISC-V Vector Extension for Vulkan Graphics Kernels.",
+        "authors": [
+          "Martin Troiber",
+          "Martin Schulz",
+          "Blaise Tine",
+          "Hyesoon Kim"
+        ]
+      },
+      {
+        "title": "GPU Simulation Acceleration via Parallelization.",
+        "authors": [
+          "Rodrigo Huerta",
+          "Antonio González"
+        ]
+      },
+      {
+        "title": "Energon: A Sustainability-Driven Modeling Framework for AI Data Centers.",
+        "authors": [
+          "Wenzhe Guo",
+          "Joyjit Kundu",
+          "Uras Tos",
+          "Giuliano Sisto",
+          "Cedric Rolin",
+          "Lars-Åke Ragnarsson",
+          "Timon Evenblij"
+        ]
+      },
+      {
+        "title": "Measuring Performance Overheads of Software Memory Management Using Functional-First Simulators.",
+        "authors": [
+          "Yves Vandriessche",
+          "Wim Heirman",
+          "Ed Nutting",
+          "Jeremy Birch",
+          "Judah Daniels",
+          "Mae Hood",
+          "Pascal Costanza"
+        ]
+      },
+      {
+        "title": "Interconnect Performance Estimation for ML Accelerators via Lightweight Analytical Model.",
+        "authors": [
+          "Rahul Tripathy",
+          "Sumit K. Mandal"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/ispass/ispass2024.html": {
     "header": "ISPASS 2024:\nIndianapolis, IN, USA",
     "year": "2024",

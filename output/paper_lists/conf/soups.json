@@ -1,4 +1,299 @@
 {
+  "https://dblp.org/db/conf/soups/soups2025.html": {
+    "header": "21st SOUPS @ USENIX Security Symposium 2025:\nSeattle, WA, USA",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "\"Hello, is this Anna?\": Unpacking the Lifecycle of Pig-Butchering Scams.",
+        "authors": [
+          "Rajvardhan Oak",
+          "Zubair Shafiq"
+        ]
+      },
+      {
+        "title": "Language as Lure: A Naturalistic Study on Pasifika Phishing Susceptibility.",
+        "authors": [
+          "Eric Spero",
+          "Isa Seow",
+          "Lucas Betts",
+          "Eddie Fuatimau",
+          "Robert Biddle",
+          "Danielle M. Lottridge",
+          "Giovanni Russello"
+        ]
+      },
+      {
+        "title": "Can You Walk Me Through It? Explainable SMS Phishing Detection using LLM-based Agents.",
+        "authors": [
+          "Yizhu Wang",
+          "Haoyu Zhai",
+          "Chenkai Wang",
+          "Qingying Hao",
+          "Nick A. Cohen",
+          "Roopa Foulger",
+          "Jonathan A. Handler",
+          "Gang Wang"
+        ]
+      },
+      {
+        "title": "Victims, Vigilantes, and Advice Givers: An Analysis of Scam-Related Discourse on Reddit.",
+        "authors": [
+          "Rajvardhan Oak",
+          "Zubair Shafiq"
+        ]
+      },
+      {
+        "title": "\"You go now! No trouble!\" Understanding the Offboarding Process in Companies from an IT Security Perspective.",
+        "authors": [
+          "Christina Detsika",
+          "Timo Jagusch",
+          "Nora Weidner",
+          "Larissa Weir",
+          "Florin Martius",
+          "Christian Tiefenau"
+        ]
+      },
+      {
+        "title": "Safety Perceptions of Generative AI Conversational Agents: Uncovering Perceptual Differences in Trust, Risk, and Fairness.",
+        "authors": [
+          "Jan Tolsdorf",
+          "Alan F. Luo",
+          "Monica Kodwani",
+          "Junho Eum",
+          "Mahmood Sharif",
+          "Michelle L. Mazurek",
+          "Adam J. Aviv"
+        ]
+      },
+      {
+        "title": "\"We are not Future-ready\": Understanding AI Privacy Risks and Existing Mitigation Strategies from the Perspective of AI Developers in Europe.",
+        "authors": [
+          "Alexandra Klymenko",
+          "Stephen Meisenbacher",
+          "Patrick Gage Kelley",
+          "Sai Teja Peddinti",
+          "Kurt Thomas",
+          "Florian Matthes"
+        ]
+      },
+      {
+        "title": "Integrating Large Language Models into Security Incident Response.",
+        "authors": [
+          "Diana Kramer",
+          "Lambert Rosique",
+          "Ajay Narotam",
+          "Elie Bursztein",
+          "Patrick Gage Kelley",
+          "Kurt Thomas",
+          "Allison Woodruff"
+        ]
+      },
+      {
+        "title": "Youth-Centered GAI Risks (YAIR): A Taxonomy of Generative AI Risks from Empirical Data.",
+        "authors": [
+          "Yaman Yu",
+          "Yiren Liu",
+          "Jacky Zhang",
+          "Yun Huang",
+          "Yang Wang"
+        ]
+      },
+      {
+        "title": "Shiny Shells, Rusty Cores: A Crowdsourced Security Evaluation of Integrated Web Browsers.",
+        "authors": [
+          "Gertjan Franken",
+          "Pieter Claeys",
+          "Tom van Goethem",
+          "Lieven Desmet"
+        ]
+      },
+      {
+        "title": "Spy-oT: Understanding How Users Learn to Use Internet of Things Devices For Abusive Purposes.",
+        "authors": [
+          "Kieron Ivy Turk",
+          "Alice Hutchings"
+        ]
+      },
+      {
+        "title": "Smart Spaces, Private Lives: A Culturally Grounded Examination of Privacy Tensions in Smart Homes.",
+        "authors": [
+          "Yara Alsiyat",
+          "Yuanhaur Chang",
+          "Ning Zhang",
+          "Ivan Flechais"
+        ]
+      },
+      {
+        "title": "Playing in the Sandbox: A Study on the Usability of Seccomp.",
+        "authors": [
+          "Maysara Alhindi",
+          "Joseph Hallett"
+        ]
+      },
+      {
+        "title": "Between Court Orders and Platform Policies: Understanding Law Enforcement and Meta Interactions in Addressing Non-Consensual Image Disclosure Abuse.",
+        "authors": [
+          "Amna Batool",
+          "Kentaro Toyama"
+        ]
+      },
+      {
+        "title": "Minoritised Ethnic People's Security and Privacy Concerns and Responses towards Essential Online Services.",
+        "authors": [
+          "Aunam Quyoum",
+          "Mark Wong",
+          "Sebati Ghosh",
+          "Siamak F. Shahandashti"
+        ]
+      },
+      {
+        "title": "User Understandings of Technical Terms in App Privacy Labels.",
+        "authors": [
+          "Ishika Keswani",
+          "Kerick Walker",
+          "Adrian Clement",
+          "Eusila Kitur",
+          "Nannapas Wonghirundacha",
+          "Ryan Aubrey",
+          "Vivien Song",
+          "Eleanor Birrell"
+        ]
+      },
+      {
+        "title": "Do You See If I See? Investigating Reciprocity in Interpersonal Access-Control Settings (in the U.S.).",
+        "authors": [
+          "Nathan Malkin",
+          "Alan F. Luo",
+          "Evan J. Zhao",
+          "Michelle L. Mazurek"
+        ]
+      },
+      {
+        "title": "\"TikTok, Do Your Thing\": User Reactions to Social Surveillance in the Public Sphere.",
+        "authors": [
+          "Meira Gilbert",
+          "Miranda Wei",
+          "Lindah Kotut"
+        ]
+      },
+      {
+        "title": "Measuring NIST Authentication Standards Compliance by Higher Education Institutions.",
+        "authors": [
+          "Noah J. Apthorpe",
+          "Boen Beavers",
+          "Yan Shvartzshnaider",
+          "Brett Frischmann"
+        ]
+      },
+      {
+        "title": "The more accounts I use, the less I have to think': A Longitudinal Study on the Usability of Password Managers for Novice Users.",
+        "authors": [
+          "Patricia Arias Cabarcos",
+          "Peter Mayer"
+        ]
+      },
+      {
+        "title": "From TOTPs to Security Keys: Studying the Reality of Passwordless FIDO2 Authentication With PIN and Biometrics in a Corporate Environment.",
+        "authors": [
+          "Leona Lassak",
+          "Nicklas Lindemann",
+          "Marvin Kowalewski"
+        ]
+      },
+      {
+        "title": "Design and Evaluation of Privacy-Preserving Protocols for Agent-Facilitated Mobile Money Services in Kenya.",
+        "authors": [
+          "Karen Sowon",
+          "Collins W. Munyendo",
+          "Lily Klucinec",
+          "Eunice Maingi",
+          "Gerald Suleh",
+          "Lorrie Faith Cranor",
+          "Giulia Fanti",
+          "Conrad Tucker",
+          "Assane Gueye"
+        ]
+      },
+      {
+        "title": "I never reuse passwords! Development and Validation of a Security and Privacy Social Desirability Scale (SP-SDS) for end users without a background in computer science.",
+        "authors": [
+          "Laura Marie Abels",
+          "Matthew Smith",
+          "Anna-Marie Ortloff"
+        ]
+      },
+      {
+        "title": "Replication: \"No one can hack my mind\" - 10 years later: An update and outlook on experts' and non-experts' security practices and advice.",
+        "authors": [
+          "Anna-Marie Ortloff",
+          "Jenny Tang",
+          "Arthi Arumugam",
+          "Daniel Huschina",
+          "Lisa Geierhaas",
+          "Florin Martius",
+          "Luisa Jansen",
+          "Kolja von der Twer",
+          "Lilly Jungbluth",
+          "Matthew Smith"
+        ]
+      },
+      {
+        "title": "More than Usability: Differential Access to Digital Security and Privacy.",
+        "authors": [
+          "Annalina Buckmann",
+          "Jan Magnus Nold",
+          "Yasemin Acar",
+          "Yixin Zou"
+        ]
+      },
+      {
+        "title": "Misuse, Misreporting, Misinterpretation of Statistical Methods in Usable Privacy and Security Papers.",
+        "authors": [
+          "Jenny Tang",
+          "Lujo Bauer",
+          "Nicolas Christin"
+        ]
+      },
+      {
+        "title": "Trust-Enabled Privacy: Social Media Designs to Support Adolescent User Boundary Regulation.",
+        "authors": [
+          "JaeWon Kim",
+          "Robert Wolfe",
+          "Ramya Bhagirathi Subramanian",
+          "Mei-Hsuan Lee",
+          "Jessica Colnago",
+          "Alexis Hiniker"
+        ]
+      },
+      {
+        "title": "How Predatory Monetization Designs Manifest in Child-Friendly Video Games.",
+        "authors": [
+          "Qiurong Song",
+          "Zinan Zhang",
+          "Rie Helene (Lindy) Hernandez",
+          "Xinning Gui",
+          "Yubo Kou"
+        ]
+      },
+      {
+        "title": "Unpacking the Social and Emotional Dimensions of Security and Privacy User Engagement.",
+        "authors": [
+          "Nina Gerber",
+          "Verena Zimmermann",
+          "Alexandra von Preuschen",
+          "Karen Renaud"
+        ]
+      },
+      {
+        "title": "Adopting AI to Protect Industrial Control Systems: Assessing Challenges and Opportunities from the Operators' Perspective.",
+        "authors": [
+          "Clement Fung",
+          "Eric Zeng",
+          "Lujo Bauer"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/soups/soups2024.html": {
     "header": "20th SOUPS @ USENIX Security Symposium 2024:\nPhiladelphia, PA, USA",
     "year": "2024",

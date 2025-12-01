@@ -1,4 +1,323 @@
 {
+  "https://dblp.org/db/conf/csfw/csf2025.html": {
+    "header": "38th CSF 2025: Santa Cruz, CA, USA",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Cryptographically Assured Information Flow: Assured Remote Execution.",
+        "authors": [
+          "Scott L. Dyer",
+          "Christian A. Femrite",
+          "Joshua D. Guttman",
+          "Julian P. Lanson",
+          "Moses D. Liskov"
+        ]
+      },
+      {
+        "title": "Secrecy by Typing in the Computational Model.",
+        "authors": [
+          "Stéphanie Delaune",
+          "Clément Hérouard",
+          "Joseph Lallemand"
+        ]
+      },
+      {
+        "title": "Strands Rocq: Why is a Security Protocol Correct, Mechanically?",
+        "authors": [
+          "Matteo Busi",
+          "Riccardo Focardi",
+          "Flaminia L. Luccio"
+        ]
+      },
+      {
+        "title": "AGATE: Augmented Global Attested Trusted Execution in the Universal Composability Framework.",
+        "authors": [
+          "Lorenzo Martinico",
+          "Markulf Kohlweiss"
+        ]
+      },
+      {
+        "title": "Self-Defense: Optimal QIF Solutions and Application to Website Fingerprinting.",
+        "authors": [
+          "Andreas Athanasiou",
+          "Konstantinos Chatzikokolakis",
+          "Catuscia Palamidessi"
+        ]
+      },
+      {
+        "title": "Actual Knowledge Gain as Privacy Loss in Local Privacy Accounting.",
+        "authors": [
+          "Mingen Pan"
+        ]
+      },
+      {
+        "title": "Improving Count-Mean Sketch as the Leading Locally Differentially Private Frequency Estimator for Large Dictionaries.",
+        "authors": [
+          "Mingen Pan"
+        ]
+      },
+      {
+        "title": "Session Types for the Concurrent Composition of Interactive Differential Privacy.",
+        "authors": [
+          "Victor Sannier",
+          "Patrick Baillot",
+          "Marco Gaboardi"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Server-Supported Decryption.",
+        "authors": [
+          "Peeter Laud",
+          "Alisa Pankova",
+          "Jelizaveta Vakarjuk"
+        ]
+      },
+      {
+        "title": "Scalable Private Signaling.",
+        "authors": [
+          "Sashidhar Jakkamsetti",
+          "Zeyu Liu",
+          "Varun Madathil"
+        ]
+      },
+      {
+        "title": "Foundations of Multi-Designated Verifier Signature Comprehensive Formalization and New Constructions in Subset Simulation.",
+        "authors": [
+          "Keitaro Hashimoto",
+          "Kyosuke Yamashita",
+          "Keisuke Hara"
+        ]
+      },
+      {
+        "title": "Pessimism of the Will, Optimism of the Intellect: Fair Protocols with Malicious but Rational Agents.",
+        "authors": [
+          "Léonard Brice",
+          "Jean-François Raskin",
+          "Mathieu Sassolas",
+          "Guillaume Scerri",
+          "Marie van den Bogaard"
+        ]
+      },
+      {
+        "title": "On DoS Vulnerability of Regular Expressions, with and Without Backreferences.",
+        "authors": [
+          "Tachio Terauchi"
+        ]
+      },
+      {
+        "title": "Rethinking Attack Path Management: A New Metric for Choke Points in Attack Graphs.",
+        "authors": [
+          "Yumeng Zhang",
+          "Max Ward",
+          "Hung Nguyen"
+        ]
+      },
+      {
+        "title": "Path Privacy and Handovers: Preventing Insider Traceability Attacks During Secure Handovers.",
+        "authors": [
+          "Bhagya Wimalasiri",
+          "Benjamin Dowling",
+          "Rabiah Alnashwan"
+        ]
+      },
+      {
+        "title": "Formal Robustness for Cyber-Physical Systems Under Timed Attacks.",
+        "authors": [
+          "Jian Xiang",
+          "Simone Tini",
+          "Ruggero Lanotte",
+          "Massimo Merro"
+        ]
+      },
+      {
+        "title": "Accountability, Involvement, and Mediation for Information Flow.",
+        "authors": [
+          "Elisavet Kozyri",
+          "Fred B. Schneider",
+          "Stephen Chong"
+        ]
+      },
+      {
+        "title": "A Graded Modal Approach to Relaxed Semantic Declassification.",
+        "authors": [
+          "Vineet Rajani",
+          "Alex Coleman",
+          "Hrutvik Kanabar"
+        ]
+      },
+      {
+        "title": "Securing P4 Programs by Information Flow Control.",
+        "authors": [
+          "Anoud Alshnakat",
+          "Amir M. Ahmadian",
+          "Musard Balliu",
+          "Roberto Guanciale",
+          "Mads Dam"
+        ]
+      },
+      {
+        "title": "Atomic Transfer Graphs: Secure-by-Design Protocols for Heterogeneous Blockchain Ecosystems.",
+        "authors": [
+          "Stephan Dübler",
+          "Federico Badaloni",
+          "Pedro Moreno-Sanchez",
+          "Clara Schneidewind"
+        ]
+      },
+      {
+        "title": "$BitML^{x}$: Secure Cross-Chain Smart Contracts for Bitcoin-Style Cryptocurrencies.",
+        "authors": [
+          "Federico Badaloni",
+          "Sebastian Holler",
+          "Chrysoula Oikonomou",
+          "Pedro Moreno-Sanchez",
+          "Clara Schneidewind"
+        ]
+      },
+      {
+        "title": "VRaaS: Verifiable Randomness as a Service on Blockchains.",
+        "authors": [
+          "Jacob Gorman",
+          "Lucjan Hanzlik",
+          "Aniket Kate",
+          "Easwar Vivek Mangipudi",
+          "Pratyay Mukherjee",
+          "Pratik Sarkar",
+          "Sri Aravinda Krishnan Thyagarajan"
+        ]
+      },
+      {
+        "title": "One For All: Formally Verifying Protocols which use Aggregate Signatures.",
+        "authors": [
+          "Xenia Hofmeier",
+          "Andrea Raguso",
+          "Ralf Sasse",
+          "Dennis Jackson",
+          "David A. Basin"
+        ]
+      },
+      {
+        "title": "Nominal State-Separating Proofs.",
+        "authors": [
+          "Markus Krabbe Larsen",
+          "Carsten Schürmann"
+        ]
+      },
+      {
+        "title": "Symbolic Parallel Composition for Multi-language Protocol Verification.",
+        "authors": [
+          "Faezeh Nasrabadi",
+          "Robert Künnemann",
+          "Hamed Nemati"
+        ]
+      },
+      {
+        "title": "Formal Analysis of Random Nonce Misuses in Cryptographic Protocols.",
+        "authors": [
+          "Gildas Avoine",
+          "Tristan Claverie",
+          "Stéphanie Delaune"
+        ]
+      },
+      {
+        "title": "A Novel Approach to Differential Privacy with Alpha Divergence.",
+        "authors": [
+          "Yifeng Liu",
+          "Zehua Wang"
+        ]
+      },
+      {
+        "title": "Unveiling the (in)Security of Threshold FHE-Based Federated Learning: The Practical Impact of Recent CPAD Attacks.",
+        "authors": [
+          "Adda-Akram Bendoukha",
+          "Renaud Sirdey",
+          "Aymen Boudguiga",
+          "Nesrine Kaaniche"
+        ]
+      },
+      {
+        "title": "Zero-Knowledge Proofs from Learning Parity with Noise: Optimization, Verification, and Application.",
+        "authors": [
+          "Thomas Haines",
+          "Rafieh Mosaheb",
+          "Johannes Müller",
+          "Reetika"
+        ]
+      },
+      {
+        "title": "Verifiable E-Voting with a Trustless Bulletin Board.",
+        "authors": [
+          "Daniel Rausch",
+          "Nicolas Huber",
+          "Ralf Küsters"
+        ]
+      },
+      {
+        "title": "Dynamic Group Signatures with Verifier-Local Revocation.",
+        "authors": [
+          "Callum London",
+          "Daniel Gardham",
+          "Constantin Catalin Dragan"
+        ]
+      },
+      {
+        "title": "Automated Analysis and Synthesis of Message Authentication Codes.",
+        "authors": [
+          "Stefan Milius",
+          "Dominik Paulus",
+          "Dominique Schröder",
+          "Lutz Schröder",
+          "Julian Thomas"
+        ]
+      },
+      {
+        "title": "SMT-Based Automation for Overwhelming Truth.",
+        "authors": [
+          "David Baelde",
+          "Stéphanie Delaune",
+          "Stanislas Riou"
+        ]
+      },
+      {
+        "title": "Automatic Verification of Finite Variant Property Beyond Convergent Equational Theories.",
+        "authors": [
+          "Vincent Cheval",
+          "Caroline Fontaine"
+        ]
+      },
+      {
+        "title": "Nonmalleable Progress Leakage.",
+        "authors": [
+          "Ethan Cecchetti"
+        ]
+      },
+      {
+        "title": "Gradual Sensitivity Typing.",
+        "authors": [
+          "Damián Árquez",
+          "Matías Toro",
+          "Éric Tanter"
+        ]
+      },
+      {
+        "title": "FSLH: Flexible Mechanized Speculative Load Hardening.",
+        "authors": [
+          "Jonathan Baumann",
+          "Roberto Blanco",
+          "Léon Ducruet",
+          "Sebastian Harwig",
+          "Catalin Hritcu"
+        ]
+      },
+      {
+        "title": "An Extension of the Adversarial Threat Model in Quantitative Information Flow.",
+        "authors": [
+          "Mohammad A. Zarrabian",
+          "Parastoo Sadeghi"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/csfw/csf2024.html": {
     "header": "37th CSF 2024: Enschede, Netherlands",
     "year": "2024",

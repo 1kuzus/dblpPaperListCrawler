@@ -1,4 +1,1972 @@
 {
+  "https://dblp.org/db/conf/sigcomm/sigcomm2025pd.html": {
+    "header": "ACM SIGCOMM Conference 2025:\nCoimbra, Portugal - Posters and Demos",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Ensuring Low Latency When Number of Flows Increases over Bottleneck Link.",
+        "authors": [
+          "Satoshi Utsumi",
+          "Keisuke Kano",
+          "Salahuddin Muhammad Salim Zabir",
+          "Go Hasegawa"
+        ]
+      },
+      {
+        "title": "Leveraging Commodity NICs for Accelerating Hierarchical QoS for Broadband Access Networks.",
+        "authors": [
+          "Rubens Figueiredo",
+          "Hagen Woesner",
+          "Andreas Kassler",
+          "Holger Karl"
+        ]
+      },
+      {
+        "title": "T-5GS: A Full-Scale Multi-Operator 5G Roaming Testbed Beyond Core-Level Simulations.",
+        "authors": [
+          "Chia-Hao Chang",
+          "Tsung-Nan Lin"
+        ]
+      },
+      {
+        "title": "Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications.",
+        "authors": [
+          "Yuxuan Chen",
+          "Menghao Zhang",
+          "Xiheng Li",
+          "Fangzheng Jiao",
+          "Chunming Hu"
+        ]
+      },
+      {
+        "title": "Astraea: Enforcing DPU Performance Isolation in Public Clouds.",
+        "authors": [
+          "Qiyang Peng",
+          "Menghao Zhang",
+          "Feiyang Wang",
+          "Guanyu Li",
+          "Chunming Hu"
+        ]
+      },
+      {
+        "title": "NVMe-oF Booster: Enabling Long-Range Remote Storage Access over Optical Paths.",
+        "authors": [
+          "Kiyo Ishii",
+          "Kenji Mizutani",
+          "Junichi Sugiyama",
+          "Ichiro Yokokura",
+          "Katsumi Fukumitsu"
+        ]
+      },
+      {
+        "title": "Fuzzing RPKI Validators with Semantic and Structural Awareness.",
+        "authors": [
+          "Zizhi Shang",
+          "Jiahao Cao",
+          "Zhechao Lin",
+          "Yi Liu",
+          "Mingwei Xu",
+          "Yangyang Wang",
+          "Jiang Li"
+        ]
+      },
+      {
+        "title": "Towards a Complete View of Encrypted Client Hello Deployments.",
+        "authors": [
+          "Jonas Mücke",
+          "Konstantin Gasser",
+          "Thomas C. Schmidt",
+          "Matthias Wählisch"
+        ]
+      },
+      {
+        "title": "Measuring Resilience of Authoritative DNS.",
+        "authors": [
+          "Florian Steurer",
+          "Amreesh Phokeer",
+          "Philip Paeps",
+          "Liz Izhikevich"
+        ]
+      },
+      {
+        "title": "Kairo - Incremental View Maintenance for Scalable Virtual Switch Caching.",
+        "authors": [
+          "Annus Zulfiqar",
+          "Ben Pfaff",
+          "Gianni Antichi",
+          "Muhammad Shahbaz"
+        ]
+      },
+      {
+        "title": "Towards Network Model Generalization using Strategic Data Collection.",
+        "authors": [
+          "Benjamin Hoffman",
+          "Alexander Dietmüller",
+          "Laurent Vanbever"
+        ]
+      },
+      {
+        "title": "Enhancing and Comparing Fast Reroute Algorithms with eBPF.",
+        "authors": [
+          "Marvin Weiler",
+          "Stephanie Althoff",
+          "Klaus-Tycho Foerster"
+        ]
+      },
+      {
+        "title": "Better QUIC implementations with Nesquic.",
+        "authors": [
+          "Laurin Brandner",
+          "Kevin Marti",
+          "Bas Niekel",
+          "Ayush Mishra",
+          "Gianni Antichi",
+          "Laurent Vanbever"
+        ]
+      },
+      {
+        "title": "Nanosecond Time Synchronization for Optical Data Center Networks.",
+        "authors": [
+          "Yiming Lei",
+          "Jialong Li",
+          "Zhengqing Liu",
+          "Raj Joshi",
+          "Yiting Xia"
+        ]
+      },
+      {
+        "title": "DNSSEC in the Car - Towards an Agile Management of Automotive Service Security.",
+        "authors": [
+          "Timo Salomon",
+          "Philipp Meyer",
+          "Thomas C. Schmidt"
+        ]
+      },
+      {
+        "title": "Scaling Graph Neural Networks (GNN) for Real-Time Modeling of Network Behaviour.",
+        "authors": [
+          "Maryam Asgari",
+          "Ren Ping Liu",
+          "Raymond Owen",
+          "Tanzeela Altaf"
+        ]
+      },
+      {
+        "title": "Distributed Quantum Computing Across Heterogeneous Hardware with Hybrid Dependency Hypergraphs.",
+        "authors": [
+          "Maria Gragera Garces",
+          "Chris Heunen",
+          "Mahesh K. Marina"
+        ]
+      },
+      {
+        "title": "Federated Inference: Towards Collaborative and Privacy-Preserving Inference over Edge Devices.",
+        "authors": [
+          "Boyu Fan",
+          "Xiang Su",
+          "Sasu Tarkoma",
+          "Pan Hui"
+        ]
+      },
+      {
+        "title": "WaveSurfer - Scheduling Irregular Pulsing Attacks on Microservice Autoscaling.",
+        "authors": [
+          "Navidreza Asadi",
+          "Razvan-Mihai Ursu",
+          "Johannes Zerwas",
+          "Leon Wong",
+          "Wolfgang Kellerer"
+        ]
+      },
+      {
+        "title": "DACE: Dynamic Adaptive Complexity Encoding for Real Time Communication on Heterogeneous Devices.",
+        "authors": [
+          "Man Hin Yeung",
+          "Benedictus Harris Hutama",
+          "Jonas III Miranda Lagade",
+          "Xiangjie Huang",
+          "Zili Meng"
+        ]
+      },
+      {
+        "title": "Software Prefetching for eBPF Programs.",
+        "authors": [
+          "Farbod Shahinfar",
+          "Aurojit Panda",
+          "Gianni Antichi"
+        ]
+      },
+      {
+        "title": "V2X Messaging with CoAP and EdgeX for Probabilistic Risk-Aware Coordination in Mixed Urban Traffic.",
+        "authors": [
+          "Bruno Mendes",
+          "Marco Araújo",
+          "Adriano Goes",
+          "Daniel Corujo",
+          "Arnaldo S. R. Oliveira"
+        ]
+      },
+      {
+        "title": "An Adaptive Bidirectional Traffic Shaping Mechanism for Service Mesh.",
+        "authors": [
+          "Xue Leng",
+          "Kai Cao",
+          "Xing Li",
+          "Jianguo Sun",
+          "Keqiang Duan"
+        ]
+      },
+      {
+        "title": "Continual Benchmarking of LLM-Based Systems on Networking Operations.",
+        "authors": [
+          "Ioannis Protogeros",
+          "Laurent Vanbever"
+        ]
+      },
+      {
+        "title": "Using Blockchain for Enhanced Inter-MNO Authentication in B5G and 6G Networks.",
+        "authors": [
+          "Nischal Aryal",
+          "Fariba Ghaffari",
+          "Emmanuel Bertin",
+          "Noël Crespi"
+        ]
+      },
+      {
+        "title": "Exploring Reinforcement Learning for Adaptive Key Refresh in IoT Networks.",
+        "authors": [
+          "Nor El Imane Heddadji",
+          "Nirmine Bougrine",
+          "Mohamed-Lamine Messai",
+          "Hamida Seba",
+          "Karima Amrouche"
+        ]
+      },
+      {
+        "title": "NICTokenizer: Tokenizer offload to a SmartNIC.",
+        "authors": [
+          "Shaunak Galvankar",
+          "Sudarshan Mehta",
+          "Sean Choi"
+        ]
+      },
+      {
+        "title": "Measuring Discrepancies in Attack Surfaces Generated by Internet Intelligence Platforms.",
+        "authors": [
+          "Martin Price",
+          "Edward Austin",
+          "Paul Smith",
+          "Nicholas J. P. Race"
+        ]
+      },
+      {
+        "title": "Probabilistic Routing Algebras for QoS Routing.",
+        "authors": [
+          "Jean Mégret",
+          "Tibor Schneider",
+          "Laurent Vanbever"
+        ]
+      },
+      {
+        "title": "Using RPKI to Aggregate Autonomous Systems by their Managing Organization.",
+        "authors": [
+          "Deepak Gouda",
+          "Cecilia Testart"
+        ]
+      },
+      {
+        "title": "Why Are Smart Buildings Still Dumb: The Road Ahead.",
+        "authors": [
+          "Karolina Skrivankova",
+          "Mark Handley",
+          "Stephen Hailes"
+        ]
+      },
+      {
+        "title": "Characterizing Container Performance in Edge Computing.",
+        "authors": [
+          "Ragini Gupta",
+          "Claudiu Danilov",
+          "Josh Eckhardt",
+          "Keyshla Bernard",
+          "Klara Nahrstedt"
+        ]
+      },
+      {
+        "title": "Multi-Viewpoint Evaluation of Explanation Quality in X-IDS Using Aggregated and Consensus Metrics.",
+        "authors": [
+          "Mohammed Alquliti",
+          "Erisa Karafili",
+          "BooJoong Kang"
+        ]
+      },
+      {
+        "title": "Lossless Preemptive Buffer Management via Orchestrating Inter-Switch Idle Capacity.",
+        "authors": [
+          "Zexi Yan",
+          "Ruihao Wang",
+          "Yangyang Wang",
+          "Mingwei Xu"
+        ]
+      },
+      {
+        "title": "Two-Phase Scanning in IPv6 - First Observations from a Reactive IPv6 Network Telescope.",
+        "authors": [
+          "Yue Xin",
+          "Maynard Koch",
+          "Isabell Egloff",
+          "Raphael Hiesgen",
+          "Thomas C. Schmidt",
+          "Matthias Wählisch"
+        ]
+      },
+      {
+        "title": "Bringing Memory Safety Close to the Wire.",
+        "authors": [
+          "Leonardo Giovannoni",
+          "Giuseppe Lettieri",
+          "Gregorio Procissi"
+        ]
+      },
+      {
+        "title": "FlexUP: Breaking Up the CU-UP to Speed Up the RAN.",
+        "authors": [
+          "Francisco Germano Vogt",
+          "Victor H. S. Lopes",
+          "Marcelo Caggiani Luizelli",
+          "Christian Esteve Rothenberg",
+          "Gergely Pongrácz",
+          "Chrysa Papagianni"
+        ]
+      },
+      {
+        "title": "Adaptive Video Encoder for Network Bandwidth Drops in Real-Time Communication.",
+        "authors": [
+          "Hua Meng",
+          "Xiangjie Huang",
+          "Zili Meng"
+        ]
+      },
+      {
+        "title": "PARS: A Layered Hardware Obfuscation Platform for Resilience and Secure Collaborative Multi-Module Designs.",
+        "authors": [
+          "Mona Hashemi",
+          "Siamak Mohammadi",
+          "Trevor E. Carlson"
+        ]
+      },
+      {
+        "title": "Storms Above, Disruptions Below: Mapping The Impact of Extreme Solar Storms Across Orbital Regimes.",
+        "authors": [
+          "Saeed Fadaei",
+          "Aravindh Raman",
+          "Nishanth Sastry"
+        ]
+      },
+      {
+        "title": "Crawling Alice Looking Glasses at IXPs to Quantify BGP Route Diversity.",
+        "authors": [
+          "Yasin Alhamwy",
+          "Bashar Khoulani",
+          "Oliver Hohlfeld"
+        ]
+      },
+      {
+        "title": "Challenges in VM Scheduling and Placement: Insights from a Real-World SAP Cloud Dataset.",
+        "authors": [
+          "Arno Uhlig",
+          "Iris Braun",
+          "Matthias Wählisch"
+        ]
+      },
+      {
+        "title": "Clouded Comparisons - On the Impact of Virtual Machines on TCP-BBR Performance.",
+        "authors": [
+          "Kathrin Elmenhorst",
+          "Nils Aschenbruck"
+        ]
+      },
+      {
+        "title": "A Lightweight Emulation Framework for Energy-Aware Federated Learning.",
+        "authors": [
+          "Johann J. S. Bastos",
+          "João Batista",
+          "Ramon R. Fontes",
+          "Eduardo Cerqueira",
+          "Rodolfo Villaça",
+          "Vinícius F. S. Mota"
+        ]
+      },
+      {
+        "title": "X2DP: eXtended eXpress Data Path.",
+        "authors": [
+          "Vladimiro Paschali",
+          "Andrea Monterubbiano",
+          "Francesco Fazzari",
+          "Sebastiano Miano",
+          "Salvatore Pontarelli"
+        ]
+      },
+      {
+        "title": "Hilby - Hilbert Interactive Prefix Plots.",
+        "authors": [
+          "Alexander Männel",
+          "K. C. Claffy",
+          "Ricky K. P. Mok",
+          "Thomas C. Schmidt",
+          "Matthias Wählisch"
+        ]
+      },
+      {
+        "title": "Towards an Internet Deployment of Flexible Multicast QUIC.",
+        "authors": [
+          "Louis Navarre",
+          "Olivier Bonaventure"
+        ]
+      },
+      {
+        "title": "Rearchitecting Approximation-First Cloud Telemetry.",
+        "authors": [
+          "Zeying Zhu",
+          "Zaoxing Liu"
+        ]
+      },
+      {
+        "title": "Latency Limits for Asynchronous Traffic Shaping in Redundant TSN Networks.",
+        "authors": [
+          "Teresa Lübeck",
+          "Philipp Meyer",
+          "Timo Salomon",
+          "Franz Korf",
+          "Thomas C. Schmidt"
+        ]
+      },
+      {
+        "title": "Integration of ioT multihop networks with MEC infrastructures for Next Generation Networks.",
+        "authors": [
+          "Joaquin Avarez-Horcajo",
+          "Isaías Martinez-Yelmo",
+          "Lucía Rubio-Escribano",
+          "Elena Pontijas-Martín",
+          "José Manuel Arco"
+        ]
+      },
+      {
+        "title": "NEBULA - Decentralized Federated Learning for Heterogeneous Networks.",
+        "authors": [
+          "Enrique Tomás Martínez Beltrán",
+          "Gérôme Bovet",
+          "Gregorio Martínez Pérez",
+          "Alberto Huertas Celdrán"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Payments on Constrained End-User Devices.",
+        "authors": [
+          "Mikolai Gütschow",
+          "Matthias Wählisch"
+        ]
+      },
+      {
+        "title": "TSN Reservation Framework for Legacy Apps - Signaling, Shaping, Monitoring, and Measuring.",
+        "authors": [
+          "Alexej Grigorjew",
+          "Tobias Hoßfeld",
+          "David Hock",
+          "Fabian Lipp"
+        ]
+      },
+      {
+        "title": "Next-Generation 6G Network Management with OSS-GPT.",
+        "authors": [
+          "Abdelkader Mekrache",
+          "Adlen Ksentini",
+          "Christos V. Verikoukis"
+        ]
+      },
+      {
+        "title": "Developing an IoT-Integrated Photodiode Sensor for Efficient Radon Detection.",
+        "authors": [
+          "Seyed Nooreddin Jafari",
+          "Rui P. Pinto",
+          "Edgar F. Ladeira",
+          "Lígia Lopes",
+          "Sandra Soares",
+          "Bruno M. C. Silva"
+        ]
+      },
+      {
+        "title": "Realizing Flexible and Practical Multi-BS Cooperation with a Fully-Decoupled RAN Architecture.",
+        "authors": [
+          "Yuhang Shi",
+          "Jiacheng Chen",
+          "Haibo Zhou"
+        ]
+      },
+      {
+        "title": "An Integrated Framework for Network Emulation and Multi-vehicle Algorithm Testing.",
+        "authors": [
+          "Mauricio Rodríguez",
+          "Ariel Góes de Castro",
+          "Ramon R. Fontes",
+          "Fabricio Rodriguez",
+          "Christian Esteve Rothenberg"
+        ]
+      },
+      {
+        "title": "MAC-Arena: A Unified and Realistic Radio Resource Scheduling Simulator.",
+        "authors": [
+          "Jingbo Liu",
+          "Jiacheng Chen",
+          "Haibo Zhou"
+        ]
+      },
+      {
+        "title": "Environmental Monitoring of Industrial Environments with TSMatch.",
+        "authors": [
+          "Ricardo da Costa Lima",
+          "Rute C. Sofia"
+        ]
+      },
+      {
+        "title": "CGSynth: Cloud Gaming Synthesizer.",
+        "authors": [
+          "Alireza Shirmarz",
+          "Ariel Góes de Castro",
+          "Victor Hugo Schneider Lopes",
+          "Fábio L. Verdi",
+          "Marcelo Caggiani Luizelli",
+          "Christian Esteve Rothenberg"
+        ]
+      },
+      {
+        "title": "CRC4EVER: Cyclic Redundancy Check for Enhanced Verification and Efficient Routing.",
+        "authors": [
+          "Everson Scherrer Borges",
+          "Fabricio Rodriguez",
+          "Rafael Silva Guimarães",
+          "Magnos Martinello",
+          "Cristina K. Dominicini",
+          "Moisés R. N. Ribeiro",
+          "Eduard Marin",
+          "Christian Esteve Rothenberg"
+        ]
+      },
+      {
+        "title": "Adapting at Line-Speed: A Demonstration of In-Network Concept Drift Detection.",
+        "authors": [
+          "Daniel José Ventorim Nunes",
+          "Bruno Missi Xavier",
+          "Magnos Martinello"
+        ]
+      },
+      {
+        "title": "SmartNet: Bridging Performance and Realism in Network Emulation with SmartNICs.",
+        "authors": [
+          "Francisco Germano Vogt",
+          "Christian Esteve Rothenberg",
+          "Victor H. S. Lopes",
+          "Marcelo Caggiani Luizelli",
+          "Fabricio Rodriguez",
+          "Chrysa Papagianni",
+          "Gergely Pongrácz"
+        ]
+      },
+      {
+        "title": "The GhostTwin: Towards Live Digital Twins via SmartNIC Network Emulation.",
+        "authors": [
+          "Francisco Germano Vogt",
+          "Victor H. S. Lopes",
+          "Fabricio Rodriguez",
+          "Marcelo Caggiani Luizelli",
+          "Chrysa Papagianni",
+          "Christian Esteve Rothenberg"
+        ]
+      },
+      {
+        "title": "Towards Fine-Grained and Automated Control for Large-Scale Wireless Digital Twins.",
+        "authors": [
+          "Sarath Nagadevara",
+          "Afroze Rahman",
+          "Jiayi Meng"
+        ]
+      },
+      {
+        "title": "MITIK Toolkit: A Privacy-Compliant Passive Collection of WiFi Probe Request Datasets.",
+        "authors": [
+          "Fernando M. Ortiz",
+          "Guillaume Farhi-Rivasseau",
+          "Nadjib Achir",
+          "Aline Carneiro Viana"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/sigcomm/sigcomm2025.html": {
+    "header": "SIGCOMM 2025:\nCoimbra, Portugal",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "InfiniteHBD: Building Datacenter-Scale High-Bandwidth Domain for LLM with Optical Circuit Switching Transceivers.",
+        "authors": [
+          "Chenchen Shou",
+          "Guyue Liu",
+          "Hao Nie",
+          "Huaiyu Meng",
+          "Yu Zhou",
+          "Yimin Jiang",
+          "Wenqing Lv",
+          "Yelong Xu",
+          "Yuanwei Lu",
+          "Zhang Chen",
+          "Yanbo Yu",
+          "Yichen Shen",
+          "Yibo Zhu",
+          "Daxin Jiang"
+        ]
+      },
+      {
+        "title": "DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models.",
+        "authors": [
+          "Zili Zhang",
+          "Yinmin Zhong",
+          "Yimin Jiang",
+          "Hanpeng Hu",
+          "Jianjian Sun",
+          "Zheng Ge",
+          "Yibo Zhu",
+          "Daxin Jiang",
+          "Xin Jin"
+        ]
+      },
+      {
+        "title": "SCX: Stateless KV-Cache Encoding for Cloud-Scale Confidential Transformer Serving.",
+        "authors": [
+          "Mu Yuan",
+          "Lan Zhang",
+          "Liekang Zeng",
+          "Siyang Jiang",
+          "Bufang Yang",
+          "Di Duan",
+          "Guoliang Xing"
+        ]
+      },
+      {
+        "title": "ResCCL: Resource-Efficient Scheduling for Collective Communication.",
+        "authors": [
+          "Tongrui Liu",
+          "Chenyang Hei",
+          "Fuliang Li",
+          "Chengxi Gao",
+          "Jiamin Cao",
+          "Tianshu Wang",
+          "Ennan Zhai",
+          "Xingwei Wang"
+        ]
+      },
+      {
+        "title": "Albatross: A Containerized Cloud Gateway Platform with FPGA-accelerated Packet-level Load Balancing.",
+        "authors": [
+          "Jianyuan Lu",
+          "Shunmin Zhu",
+          "Jun Liang",
+          "Yuxiang Lin",
+          "Tian Pan",
+          "Yisong Qiao",
+          "Yang Song",
+          "Wenqiang Su",
+          "Yixin Xie",
+          "Yanqiang Li",
+          "Enge Song",
+          "Shize Zhang",
+          "Xiaoqing Sun",
+          "Rong Wen",
+          "Xionglie Wei",
+          "Biao Lyu",
+          "Xing Li"
+        ]
+      },
+      {
+        "title": "Revisiting RDMA Reliability for Lossy Fabrics.",
+        "authors": [
+          "Wenxue Li",
+          "Xiangzhou Liu",
+          "Yunxuan Zhang",
+          "Zihao Wang",
+          "Wei Gu",
+          "Tao Qian",
+          "Gaoxiong Zeng",
+          "Shoushou Ren",
+          "Xinyang Huang",
+          "Zhenghang Ren",
+          "Bowen Liu",
+          "Junxue Zhang",
+          "Kai Chen",
+          "Bingyang Liu"
+        ]
+      },
+      {
+        "title": "Software-based Live Migration for RDMA.",
+        "authors": [
+          "Xiaoyu Li",
+          "Ran Shu",
+          "Yongqiang Xiong",
+          "Fengyuan Ren"
+        ]
+      },
+      {
+        "title": "ByteDance Jakiro: Enabling RDMA and TCP over Virtual Private Cloud.",
+        "authors": [
+          "Yirui Liu",
+          "Lidong Jiang",
+          "Deguo Li",
+          "Daxiang Kang",
+          "Zhaoyang Wei",
+          "Yuqi Chai",
+          "Bin Niu",
+          "Ke Lin",
+          "Xiaoning Ding",
+          "Jianwen Pi",
+          "Hao Luo"
+        ]
+      },
+      {
+        "title": "LeoCC: Making Internet Congestion Control Robust to LEO Satellite Dynamics.",
+        "authors": [
+          "Zeqi Lai",
+          "Zonglun Li",
+          "Qian Wu",
+          "Hewu Li",
+          "Jihao Li",
+          "Xin Xie",
+          "Yuanjie Li",
+          "Jun Liu",
+          "Jianping Wu"
+        ]
+      },
+      {
+        "title": "Censys: A Map of Internet Hosts and Services.",
+        "authors": [
+          "Zakir Durumeric",
+          "Hudson Clark",
+          "Jeff Cody",
+          "Elliot Cubit",
+          "Matt Ellison",
+          "Liz Izhikevich",
+          "Ariana Mirian"
+        ]
+      },
+      {
+        "title": "Edge Caching as Differentiation.",
+        "authors": [
+          "Muhammad Abdullah",
+          "Mughees Ur Rehman",
+          "Pavlos Nikolopoulos",
+          "Katerina J. Argyraki"
+        ]
+      },
+      {
+        "title": "Raha: A General Tool to Analyze WAN Degradation.",
+        "authors": [
+          "Behnaz Arzani",
+          "Sina Taheri",
+          "Pooria Namyar",
+          "Ryan Beckett",
+          "Siva Kesava Reddy Kakarla",
+          "Elnaz Jalilipour"
+        ]
+      },
+      {
+        "title": "ParserHawk: Hardware-aware parser generator using program synthesis.",
+        "authors": [
+          "Xiangyu Gao",
+          "Jiaqi Gao",
+          "Karan Kumar G.",
+          "Muhammad Haseeb",
+          "Ennan Zhai",
+          "Bili Dong",
+          "Joseph Tassarotti",
+          "Srinivas Narayana",
+          "Anirudh Sivaraman"
+        ]
+      },
+      {
+        "title": "Nezha: SmartNIC-based Virtual Switch Load Sharing.",
+        "authors": [
+          "Xing Li",
+          "Enge Song",
+          "Bowen Yang",
+          "Tian Pan",
+          "Ye Yang",
+          "Qiang Fu",
+          "Yang Song",
+          "Yilong Lv",
+          "Zikang Chen",
+          "Jianyuan Lu",
+          "Shize Zhang",
+          "Xiaoqing Sun",
+          "Rong Wen",
+          "Xionglie Wei",
+          "Biao Lyu",
+          "Zhigang Zong",
+          "Qinming He",
+          "Shunmin Zhu"
+        ]
+      },
+      {
+        "title": "Mosaic: Breaking the Optics versus Copper Trade-off with a Wide-and-Slow Architecture and MicroLEDs.",
+        "authors": [
+          "Kaoutar Benyahya",
+          "Ariel Gomez Diaz",
+          "Junyi Liu",
+          "Vassily Lyutsarev",
+          "Marianna Pantouvaki",
+          "Kai Shi",
+          "Shawn Yohanes Siew",
+          "Hitesh Ballani",
+          "Thomas Burridge",
+          "Daniel Cletheroe",
+          "Thomas Karagiannis",
+          "Brian Robertson",
+          "Antony I. T. Rowstron",
+          "Mengyang Yang",
+          "Paolo Costa"
+        ]
+      },
+      {
+        "title": "Falcon: A Reliable, Low Latency Hardware Transport.",
+        "authors": [
+          "Arjun Singhvi",
+          "Nandita Dukkipati",
+          "Prashant Chandra",
+          "Hassan M. G. Wassel",
+          "Naveen Kr. Sharma",
+          "Anthony Rebello",
+          "Henry Schuh",
+          "Praveen Kumar",
+          "Behnam Montazeri",
+          "Neelesh Bansod",
+          "Sarin Thomas",
+          "Inho Cho",
+          "Hyojeong Lee Seibert",
+          "Baijun Wu",
+          "Rui Yang",
+          "Yuliang Li",
+          "Kai Huang",
+          "Qianwen Yin",
+          "Abhishek Agarwal",
+          "Srinivas Vaduvatha",
+          "Weihuang Wang",
+          "Masoud Moshref",
+          "Tao Ji",
+          "David Wetherall",
+          "Amin Vahdat"
+        ]
+      },
+      {
+        "title": "Hattrick: Solving Multi-Class TE using Neural Models.",
+        "authors": [
+          "Abd AlRhman AlQiam",
+          "Zhuocong Li",
+          "Satyajeet Singh Ahuja",
+          "Zhaodong Wang",
+          "Ying Zhang",
+          "Sanjay G. Rao",
+          "Bruno Ribeiro",
+          "Mohit Tawarmalani"
+        ]
+      },
+      {
+        "title": "CClinguist: An Expert-Free Framework for Future-Compatible Congestion Control Algorithm Identification.",
+        "authors": [
+          "Jiahui Li",
+          "Han Qi",
+          "Ruyi Yao",
+          "Jialin Wei",
+          "Ruoshi Sun",
+          "Zixuan Chen",
+          "Sen Liu",
+          "Yang Xu"
+        ]
+      },
+      {
+        "title": "The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification.",
+        "authors": [
+          "Yuqi Zhao",
+          "Giovanni Dettori",
+          "Matteo Boffa",
+          "Luca Vassio",
+          "Marco Mellia"
+        ]
+      },
+      {
+        "title": "DeepSpace: Super Resolution Powered Efficient and Reliable Satellite Image Data Acquistion.",
+        "authors": [
+          "Chuanhao Sun",
+          "Yu Zhang",
+          "Bill Tao",
+          "Deepak Vasisht",
+          "Mahesh K. Marina"
+        ]
+      },
+      {
+        "title": "Agua: A Concept-Based Explainer for Learning-Enabled Systems.",
+        "authors": [
+          "Sagar Patel",
+          "Dongsu Han",
+          "Nina Narodytska",
+          "Sangeetha Abdu Jyothi"
+        ]
+      },
+      {
+        "title": "Intent-Driven Network Management with Multi-Agent LLMs: The Confucius Framework.",
+        "authors": [
+          "Zhaodong Wang",
+          "Samuel Lin",
+          "Guanqing Yan",
+          "Soudeh Ghorbani",
+          "Minlan Yu",
+          "Jiawei Zhou",
+          "Nathan Hu",
+          "Lopa Baruah",
+          "Sam Peters",
+          "Srikanth Kamath",
+          "Jerry Yang",
+          "Ying Zhang"
+        ]
+      },
+      {
+        "title": "Hermes: Enhancing Layer-7 Cloud Load Balancers with Userspace-Directed I/O Event Notification.",
+        "authors": [
+          "Tian Pan",
+          "Enge Song",
+          "Yueshang Zuo",
+          "Shaokai Zhang",
+          "Yang Song",
+          "Jiangu Zhao",
+          "Wengang Hou",
+          "Jianyuan Lu",
+          "Xiaoqing Sun",
+          "Shize Zhang",
+          "Ye Yang",
+          "Jiao Zhang",
+          "Tao Huang",
+          "Biao Lyu",
+          "Xing Li",
+          "Rong Wen",
+          "Zhigang Zong",
+          "Shunmin Zhu"
+        ]
+      },
+      {
+        "title": "CEIO: A Cache-Efficient Network I/O Architecture for NIC-CPU Data Paths.",
+        "authors": [
+          "Bowen Liu",
+          "Xinyang Huang",
+          "Qijing Li",
+          "Zhuobin Huang",
+          "Yijun Sun",
+          "Wenxue Li",
+          "Junxue Zhang",
+          "Ping Yin",
+          "Kai Chen"
+        ]
+      },
+      {
+        "title": "Centralium: A Hybrid Route-Planning Framework for Large-Scale Data Center Network Migrations.",
+        "authors": [
+          "Yikai Lin",
+          "Mohab Gawish",
+          "Shih-Hao Tseng",
+          "Lixin Gao",
+          "Cen Zhao",
+          "John Tracey",
+          "Sunyi Shao",
+          "Hyojeong Kim",
+          "Ying Zhang"
+        ]
+      },
+      {
+        "title": "ZENITH: Towards A Formally Verified Highly-Available Control Plane.",
+        "authors": [
+          "Pooria Namyar",
+          "Arvin Ghavidel",
+          "Mingyang Zhang",
+          "Harsha V. Madhyastha",
+          "Srivatsan Ravi",
+          "Chao Wang",
+          "Ramesh Govindan"
+        ]
+      },
+      {
+        "title": "Firefly: Scalable, Ultra-Accurate Clock Synchronization for Datacenters.",
+        "authors": [
+          "Pooria Namyar",
+          "Yuliang Li",
+          "Weitao Wang",
+          "Nandita Dukkipati",
+          "KK Yap",
+          "Junzhi Gong",
+          "Chen Chen",
+          "Peixuan Gao",
+          "Devdeep Ray",
+          "Gautam Kumar",
+          "Yidan Ma",
+          "Ramesh Govindan",
+          "Amin Vahdat"
+        ]
+      },
+      {
+        "title": "Alibaba Stellar: A New Generation RDMA Network for Cloud AI.",
+        "authors": [
+          "Jie Lu",
+          "Jiaqi Gao",
+          "Fei Feng",
+          "Zhiqiang He",
+          "Menglei Zheng",
+          "Kun Liu",
+          "Jun He",
+          "Binbin Liao",
+          "Suwei Xu",
+          "Ke Sun",
+          "Yongjia Mo",
+          "Qinghua Peng",
+          "Jilie Luo",
+          "Qingxu Li",
+          "Gang Lu",
+          "Zishu Wang",
+          "Jianbo Dong",
+          "Kunling He",
+          "Sheng Cheng",
+          "Jiamin Cao",
+          "Hairong Jiao",
+          "Pengcheng Zhang",
+          "Shu Ma",
+          "Lingjun Zhu",
+          "Chao Shi",
+          "Yangming Zhang",
+          "Yiquan Chen",
+          "Wei Wang",
+          "Shuhong Zhu",
+          "Xingru Li",
+          "Qiang Wang",
+          "Jiang Liu",
+          "Chao Wang",
+          "Wei Lin",
+          "Ennan Zhai",
+          "Jiesheng Wu",
+          "Qiang Liu",
+          "Binzhang Fu",
+          "Dennis Cai"
+        ]
+      },
+      {
+        "title": "DNSLogzip: A Novel Approach to Fast and High-Ratio Compression for DNS Logs.",
+        "authors": [
+          "Yunwei Dai",
+          "Guyue Liu",
+          "Tao Huang",
+          "Shuo Wang",
+          "Yong Wang",
+          "Xingli Wu",
+          "Lei Song",
+          "Heshun Li",
+          "Chuang Wang",
+          "Fanglong Hu",
+          "Hong Sun",
+          "Yanan Li"
+        ]
+      },
+      {
+        "title": "Hawkeye: Diagnosing RDMA Network Performance Anomalies with PFC Provenance.",
+        "authors": [
+          "Shicheng Wang",
+          "Menghao Zhang",
+          "Xiao Li",
+          "Qiyang Peng",
+          "Haoyuan Yu",
+          "Zhiliang Wang",
+          "Mingwei Xu",
+          "Xiaohe Hu",
+          "Jiahai Yang",
+          "Xingang Shi"
+        ]
+      },
+      {
+        "title": "Towards LLM-Based Failure Localization in Production-Scale Networks.",
+        "authors": [
+          "Chenxu Wang",
+          "Xumiao Zhang",
+          "Runwei Lu",
+          "Xianshang Lin",
+          "Xuan Zeng",
+          "Xinlei Zhang",
+          "Zhe An",
+          "Gongwei Wu",
+          "Jiaqi Gao",
+          "Chen Tian",
+          "Guihai Chen",
+          "Guyue Liu",
+          "Yuhong Liao",
+          "Tao Lin",
+          "Dennis Cai",
+          "Ennan Zhai"
+        ]
+      },
+      {
+        "title": "SkyNet: Analyzing Alert Flooding from Severe Network Failures in Large Cloud Infrastructures.",
+        "authors": [
+          "Bo Yang",
+          "Huanwu Hu",
+          "Yifan Li",
+          "Yunguang Li",
+          "Xiangyu Tang",
+          "Bingchuan Tian",
+          "Gongwei Wu",
+          "Jianfeng Xu",
+          "Xumiao Zhang",
+          "Feng Chen",
+          "Cheng Wang",
+          "Ennan Zhai",
+          "Yuhong Liao",
+          "Dennis Cai",
+          "Tao Lin"
+        ]
+      },
+      {
+        "title": "SkeletonHunter: Diagnosing and Localizing Network Failures in Containerized Large Model Training.",
+        "authors": [
+          "Wei Liu",
+          "Kun Qian",
+          "Zhenhua Li",
+          "Tianyin Xu",
+          "Yunhao Liu",
+          "Weicheng Wang",
+          "Yun Zhang",
+          "Jiakang Li",
+          "Shuhong Zhu",
+          "Xue Li",
+          "Hongfei Xu",
+          "Fei Feng",
+          "Ennan Zhai"
+        ]
+      },
+      {
+        "title": "ByteTracker: An Agentless and Real-time Path-aware Network Probing System.",
+        "authors": [
+          "Shixian Guo",
+          "Kefei Liu",
+          "Yulin Lai",
+          "Yangyang Bai",
+          "Ziwei Zhao",
+          "Songlin Liu",
+          "Jianghang Ning",
+          "Gen Li",
+          "Jianwei Hu",
+          "Yongbin Dong",
+          "Feng Luo",
+          "Sisi Wen",
+          "Qi Zhang",
+          "Yuan Chen",
+          "Jiale Feng",
+          "Yang Bai",
+          "Chengcai Yao",
+          "Zhe Liu",
+          "Xin Hu",
+          "Yang Lv",
+          "Zhuo Jiang",
+          "Jiao Zhang",
+          "Tao Huang"
+        ]
+      },
+      {
+        "title": "MixNet: A Runtime Reconfigurable Optical-Electrical Fabric for Distributed Mixture-of-Experts Training.",
+        "authors": [
+          "Xudong Liao",
+          "Yijun Sun",
+          "Han Tian",
+          "Xinchen Wan",
+          "Yilun Jin",
+          "Zilong Wang",
+          "Zhenghang Ren",
+          "Xinyang Huang",
+          "Wenxue Li",
+          "Kin Fai Tse",
+          "Zhizhen Zhong",
+          "Guyue Liu",
+          "Ying Zhang",
+          "Xiaofeng Ye",
+          "Yiming Zhang",
+          "Kai Chen"
+        ]
+      },
+      {
+        "title": "Orderlock: A New Type of Deadlock and its Implications on High Performance Network Protocol Design.",
+        "authors": [
+          "Weihao Jiang",
+          "Wenli Xiao",
+          "Yuqing Yang",
+          "Peirui Cao",
+          "Shizhen Zhao"
+        ]
+      },
+      {
+        "title": "MegaScale-Infer: Efficient Mixture-of-Experts Model Serving with Disaggregated Expert Parallelism.",
+        "authors": [
+          "Ruidong Zhu",
+          "Ziheng Jiang",
+          "Chao Jin",
+          "Peng Wu",
+          "Cesar A. Stuardo",
+          "Dongyang Wang",
+          "Xinlei Zhang",
+          "Huaping Zhou",
+          "Haoran Wei",
+          "Yang Cheng",
+          "Jianzhe Xiao",
+          "Xinyi Zhang",
+          "Lingjun Liu",
+          "Haibin Lin",
+          "Li-Wen Chang",
+          "Jianxi Ye",
+          "Xiao Yu",
+          "Xuanzhe Liu",
+          "Xin Jin",
+          "Xin Liu"
+        ]
+      },
+      {
+        "title": "Astral: A Datacenter Infrastructure for Large Language Model Training at Scale.",
+        "authors": [
+          "Qingkai Meng",
+          "Hao Zheng",
+          "Zhenhui Zhang",
+          "ChonLam Lao",
+          "Chengyuan Huang",
+          "Baojia Li",
+          "Ziyuan Zhu",
+          "Hao Lu",
+          "Weizhen Dang",
+          "Zitong Lin",
+          "Weifeng Zhang",
+          "Lingfeng Liu",
+          "Yuanyuan Gong",
+          "Chunzhi He",
+          "Xiaoyuan Hu",
+          "Yinben Xia",
+          "Xiang Li",
+          "Zekun He",
+          "Yachen Wang",
+          "Xianneng Zou",
+          "Kun Yang",
+          "Gianni Antichi",
+          "Guihai Chen",
+          "Chen Tian"
+        ]
+      },
+      {
+        "title": "SGLB: Scalable and Robust Global Load Balancing in Commodity AI Clusters.",
+        "authors": [
+          "Chenchen Qi",
+          "Wenfei Wu",
+          "Yongcan Wang",
+          "Keqiang He",
+          "Yu-Hsiang Kao",
+          "Zongying He",
+          "Chen-Yu Yen",
+          "Zhuo Jiang",
+          "Feng Luo",
+          "Surendra Anubolu",
+          "Yanjin Gao",
+          "Bingfeng Lin",
+          "Wenda Ni",
+          "Yiming Yang",
+          "Donglin Wei",
+          "Boyang Zhou",
+          "Jian Wang",
+          "Shan Ding"
+        ]
+      },
+      {
+        "title": "SyCCL: Exploiting Symmetry for Efficient Collective Communication Scheduling.",
+        "authors": [
+          "Jiamin Cao",
+          "Shangfeng Shi",
+          "Jiaqi Gao",
+          "Weisen Liu",
+          "Yifan Yang",
+          "Yichi Xu",
+          "Zhilong Zheng",
+          "Yu Guan",
+          "Kun Qian",
+          "Ying Liu",
+          "Mingwei Xu",
+          "Tianshu Wang",
+          "Ning Wang",
+          "Jianbo Dong",
+          "Binzhang Fu",
+          "Dennis Cai",
+          "Ennan Zhai"
+        ]
+      },
+      {
+        "title": "Fornax: A Hardware-Centric Session Management in Large Public Cloud Network.",
+        "authors": [
+          "Heng Yu",
+          "Jian Wang",
+          "Jian Zhao",
+          "Kai Ren",
+          "Guozhi Lin",
+          "Baozeng Zhang",
+          "Yunpeng Guan",
+          "Xin Li",
+          "Hao Yin",
+          "Jiajun Liang",
+          "Liang Wang",
+          "Chao Pei",
+          "Yachen Wang",
+          "Xin Jin",
+          "Jilong Wang",
+          "Congcong Miao"
+        ]
+      },
+      {
+        "title": "NPC: Rethinking Dataplane through Network-aware Packet Classification.",
+        "authors": [
+          "Xinyi Zhang",
+          "Qianrui Qiu",
+          "Zhiyuan Xu",
+          "Peng He",
+          "Xilai Liu",
+          "Kavé Salamatian",
+          "Changhua Pei",
+          "Gaogang Xie"
+        ]
+      },
+      {
+        "title": "Pegasus: A Universal Framework for Scalable Deep Learning Inference on the Dataplane.",
+        "authors": [
+          "Yinchao Zhang",
+          "Su Yao",
+          "Yong Feng",
+          "Kang Chen",
+          "Tong Li",
+          "Zhuotao Liu",
+          "Yi Zhao",
+          "Lexuan Zhang",
+          "Xiangyu Gao",
+          "Feng Xiong",
+          "Qi Li",
+          "Ke Xu"
+        ]
+      },
+      {
+        "title": "PtCAM: Scalable High-Speed Name Prefix Lookup using TCAM.",
+        "authors": [
+          "Tian Song",
+          "Tianlong Li",
+          "Yating Yang"
+        ]
+      },
+      {
+        "title": "Scaling SCIERA: A Journey Through the Deployment of a Next-generation Network.",
+        "authors": [
+          "François Wirz",
+          "Marten Gartner",
+          "Jelte van Bommel",
+          "Elham Ehsani Moghadam",
+          "Grace H. Cimaszewski",
+          "Anxiao He",
+          "Yizhe Zhang",
+          "Henry Birge-Lee",
+          "Felix Kottmann",
+          "Cyrill Krähenbühl",
+          "Jonghoon Kwon",
+          "Kyveli Mavromati",
+          "Liang Wang",
+          "Daniel Bertolo",
+          "Marco Canini",
+          "Bu-Seung Cho",
+          "Ronaldo A. Ferreira",
+          "Simon Peter Green",
+          "David Hausheer",
+          "Junbeom Hur",
+          "Xiaohua Jia",
+          "Heejo Lee",
+          "Prateek Mittal",
+          "Omo Oaiya",
+          "Chanjin Park",
+          "Adrian Perrig",
+          "Jerry Sobieski",
+          "Yixin Sun",
+          "Cong Wang",
+          "Klaas Wierenga"
+        ]
+      },
+      {
+        "title": "RANBooster: Democratizing advanced cellular connectivity through fronthaul middleboxes.",
+        "authors": [
+          "Xenofon Foukas",
+          "Tenzin Samten Ukyab",
+          "Bozidar Radunovic",
+          "Sylvia Ratnasamy",
+          "Scott Shenker"
+        ]
+      },
+      {
+        "title": "Understanding and Profiling CXL.mem Using PathFinder.",
+        "authors": [
+          "Xiao Li",
+          "Zerui Guo",
+          "Yuebin Bai",
+          "Mahesh Ketkar",
+          "Hugh Wilkinson",
+          "Ming Liu"
+        ]
+      },
+      {
+        "title": "PreTE: Traffic Engineering with Predictive Failures.",
+        "authors": [
+          "Congcong Miao",
+          "Zhizhen Zhong",
+          "Yiren Zhao",
+          "Arpit Gupta",
+          "Ying Zhang",
+          "Sirui Li",
+          "Zekun He",
+          "Xianneng Zou",
+          "Jilong Wang"
+        ]
+      },
+      {
+        "title": "S2: A Distributed Configuration Verifier for Hyper-Scale Networks.",
+        "authors": [
+          "Dan Wang",
+          "Peng Zhang",
+          "Wenbing Sun",
+          "Wenkai Li",
+          "Xing Feng",
+          "Hao Li",
+          "Jiawei Chen",
+          "Weirong Jiang",
+          "Yongping Tang"
+        ]
+      },
+      {
+        "title": "New Evolution of Hoyan: Enhancing Scalability, Usability, and Accuracy for Alibaba's Global WAN Verification.",
+        "authors": [
+          "Yifei Yuan",
+          "Fangdan Ye",
+          "Yifan Li",
+          "Jingkai Zhang",
+          "Mengqi Liu",
+          "Yuyang Sang",
+          "Ruizhen Yang",
+          "Duncheng She",
+          "Zhiqing Ye",
+          "Tianchen Guo",
+          "Xiaobo Zhu",
+          "Xinji Tang",
+          "Li Jia",
+          "Zhongyu Guan",
+          "Lingpeng Su",
+          "Ci Wang",
+          "Ruiyang Feng",
+          "Shuo Wu",
+          "Zhonghui Xie",
+          "Cheng Jin",
+          "Peng Zhang",
+          "Qing Ma",
+          "Xianlong Zeng",
+          "Dennis Cai",
+          "Ennan Zhai"
+        ]
+      },
+      {
+        "title": "Lessons Learned from Operating a Large Network Telescope.",
+        "authors": [
+          "Alexander Männel",
+          "Jonas Mücke",
+          "K. C. Claffy",
+          "Max Gao",
+          "Ricky K. P. Mok",
+          "Marcin Nawrocki",
+          "Thomas C. Schmidt",
+          "Matthias Wählisch"
+        ]
+      },
+      {
+        "title": "Unlocking Superior Performance in Reconfigurable Data Center Networks with Credit-Based Transport.",
+        "authors": [
+          "Federico De Marchi",
+          "Jialong Li",
+          "Ying Zhang",
+          "Wei Bai",
+          "Yiting Xia"
+        ]
+      },
+      {
+        "title": "From ATOP to ZCube: Automated Topology Optimization Pipeline and A Highly Cost-Effective Network Topology for Large Model Training.",
+        "authors": [
+          "Zihan Yan",
+          "Dan Li",
+          "Li Chen",
+          "Dian Xiong",
+          "Kaihui Gao",
+          "Yiwei Zhang",
+          "Rui Yan",
+          "Menglei Zhang",
+          "Bochun Zhang",
+          "Zhuo Jiang",
+          "Jianxi Ye",
+          "Haibin Lin"
+        ]
+      },
+      {
+        "title": "Reliable and Decentralized Certificate Revocation via DNS: The Case for RevDNS.",
+        "authors": [
+          "Taejoong Chung",
+          "Dave Levin",
+          "Protick Bhowmick"
+        ]
+      },
+      {
+        "title": "SaTE: Low-Latency Traffic Engineering for Satellite Networks.",
+        "authors": [
+          "Hao Wu",
+          "Yizhan Han",
+          "Mohit Rajpal",
+          "Qizhen Zhang",
+          "Jingxian Wang"
+        ]
+      },
+      {
+        "title": "Small-scale LEO Satellite Networking for Global-scale Demands.",
+        "authors": [
+          "Yuanjie Li",
+          "Yimei Chen",
+          "Jiabo Yang",
+          "Jinyao Zhang",
+          "Bowen Sun",
+          "Lixin Liu",
+          "Hewu Li",
+          "Jianping Wu",
+          "Zeqi Lai",
+          "Qian Wu",
+          "Jun Liu"
+        ]
+      },
+      {
+        "title": "Direct-to-Cell Satellite Network without Satellite Navigation.",
+        "authors": [
+          "Wei Liu",
+          "Yuanjie Li",
+          "Jingyi Lan",
+          "Hewu Li",
+          "Yimei Chen",
+          "Lixin Liu",
+          "Jiabo Yang",
+          "Xi Long",
+          "Li Ouyang",
+          "Minghao Tang",
+          "Jianping Wu",
+          "Qian Wu",
+          "Jun Liu",
+          "Zeqi Lai"
+        ]
+      },
+      {
+        "title": "StarCDN: Moving Content Delivery Networks to Space.",
+        "authors": [
+          "William X. Zheng",
+          "Aryan Taneja",
+          "Maleeha Masood",
+          "Anirudh Sabnis",
+          "Ramesh K. Sitaraman",
+          "Deepak Vasisht"
+        ]
+      },
+      {
+        "title": "ByteScale: Communication-Efficient Scaling of LLM Training with a 2048K Context Length on 16384 GPUs.",
+        "authors": [
+          "Hao Ge",
+          "Junda Feng",
+          "Qi Huang",
+          "Fangcheng Fu",
+          "Xiaonan Nie",
+          "Lei Zuo",
+          "Haibin Lin",
+          "Bin Cui",
+          "Xin Liu"
+        ]
+      },
+      {
+        "title": "Making Cellular Networks More Efficient By Roaming-in-Place.",
+        "authors": [
+          "Tenzin Samten Ukyab",
+          "Lisa Suzuki",
+          "Demetrius Davis",
+          "Zhihong Luo",
+          "Silvery Fu",
+          "Shaddi Hasan",
+          "Sylvia Ratnasamy",
+          "Scott Shenker"
+        ]
+      },
+      {
+        "title": "Enabling Over-the-Air AI for Edge Computing via Metasurface-Driven Physical Neural Networks.",
+        "authors": [
+          "Chao Feng",
+          "Shuo Liang",
+          "Chenghui Li",
+          "Gaoteng Zhao",
+          "Beier Jing",
+          "Yaxiong Xie",
+          "Xiaojiang Chen"
+        ]
+      },
+      {
+        "title": "Towards Next-Generation Global IoT: Empowering Massive Connectivity with Harmonious Multi-Network Coexistence.",
+        "authors": [
+          "Ziyue Zhang",
+          "Xianjin Xia",
+          "Ruonan Li",
+          "Yuanqing Zheng"
+        ]
+      },
+      {
+        "title": "Mobile Underwater Backscatter Networking.",
+        "authors": [
+          "Purui Wang",
+          "Sayed Saad Afzal",
+          "Fadel Adib"
+        ]
+      },
+      {
+        "title": "Acoustic Backscatter Network for Vehicle Body-in-White.",
+        "authors": [
+          "Weiguo Wang",
+          "Yuan He",
+          "Yadong Xie",
+          "Chuyue Xie",
+          "Yi Kai",
+          "Chengchen Hu"
+        ]
+      },
+      {
+        "title": "Low-Overhead Distributed Application Observation with DeepTrace: Achieving Accurate Tracing in Production Systems.",
+        "authors": [
+          "Yantao Geng",
+          "Han Zhang",
+          "Zhiheng Wu",
+          "Yahui Li",
+          "Jilong Wang",
+          "Xia Yin"
+        ]
+      },
+      {
+        "title": "Hummingbird: Fast, Flexible, and Fair Inter-Domain Bandwidth Reservations.",
+        "authors": [
+          "Karl Wüst",
+          "Giacomo Giuliari",
+          "Markus Legner",
+          "Jean-Pierre Smith",
+          "Marc Wyss",
+          "Jules Bachmann",
+          "Juan A. García-Pardo",
+          "Adrian Perrig"
+        ]
+      },
+      {
+        "title": "Inter-domain Routing with Extensible Criteria.",
+        "authors": [
+          "Seyedali Tabaeiaghdaei",
+          "Jelte van Bommel",
+          "Marc Wyss",
+          "João Luis Sobrinho",
+          "Giovanni Barbiero",
+          "Giacomo Giuliari",
+          "Ahad N. Zehmakan",
+          "Adrian Perrig"
+        ]
+      },
+      {
+        "title": "Network Support For Scalable And High Performance Cloud Exchanges.",
+        "authors": [
+          "Muhammad Haseeb",
+          "Jinkun Geng",
+          "Daniel Duclos-Cavalcanti",
+          "Xiyu Hao",
+          "Ulysses Butler",
+          "Radhika Mittal",
+          "Srinivas Narayana",
+          "Anirudh Sivaraman"
+        ]
+      },
+      {
+        "title": "Formalizing Dependence of Web Infrastructure.",
+        "authors": [
+          "Rumaisa Habib",
+          "Kimberly Ruth",
+          "Gautam Akiwate",
+          "Zakir Durumeric"
+        ]
+      },
+      {
+        "title": "Towards User-level QoE: Large-scale Practice in Personalized Optimization of Adaptive Video Streaming.",
+        "authors": [
+          "Lianchen Jia",
+          "Chao Zhou",
+          "Chaoyang Li",
+          "Jiangchuan Liu",
+          "Lifeng Sun"
+        ]
+      },
+      {
+        "title": "TLadder: QoE-Centric Video Ladder Optimization with Playback Feedback at Billion Scale.",
+        "authors": [
+          "Zhuqi Li",
+          "He Liu",
+          "Shenglan Huang",
+          "Baojin Geng",
+          "Jack Chen",
+          "Jialin Chen",
+          "Liyang Sun",
+          "Qianyun Ma",
+          "Peizhe Liu",
+          "Junjun Zhao",
+          "Yiting Liao",
+          "Jamie Chen",
+          "Qian Ma",
+          "Qiang Ma",
+          "Feng Qian"
+        ]
+      },
+      {
+        "title": "ACE: Sending Burstiness Control for High-Quality Real-time Communication.",
+        "authors": [
+          "Xiangjie Huang",
+          "Jiayang Xu",
+          "Haiping Wang",
+          "Hebin Yu",
+          "Sandesh Dhawaskar Sathyanarayana",
+          "Shu Shi",
+          "Zili Meng"
+        ]
+      },
+      {
+        "title": "Harnessing WebRTC for Large-Scale Live Streaming.",
+        "authors": [
+          "Wei Zhang",
+          "Tong Meng",
+          "Xianhua Zeng",
+          "Wei Yang",
+          "Changqing Yan",
+          "Chao Li",
+          "Chenguang Li",
+          "Feng Qian",
+          "Junfeng Yang",
+          "Lei Zhang",
+          "Zhi Wang"
+        ]
+      },
+      {
+        "title": "Scalable Video Conferencing Using SDN Principles.",
+        "authors": [
+          "Oliver Michel",
+          "Satadal Sengupta",
+          "Hyojoon Kim",
+          "Ravi Netravali",
+          "Jennifer Rexford"
+        ]
+      },
+      {
+        "title": "Coflow Scheduling for LLM Training.",
+        "authors": [
+          "Xinchen Wan",
+          "Xinyu Yang",
+          "Kaiqiang Xu",
+          "Xudong Liao",
+          "Yilun Jin",
+          "Yijun Sun",
+          "Zhenghang Ren",
+          "Han Tian",
+          "Kai Chen"
+        ]
+      },
+      {
+        "title": "HardMesh: Enabling High-performance Service Mesh Ingress Processing with SmartNICs.",
+        "authors": [
+          "Myoungsung You",
+          "Jaehyun Nam",
+          "Minjae Seo",
+          "Taejune Park",
+          "Seungwon Shin"
+        ]
+      },
+      {
+        "title": "SpliDT: Partitioned Decision Trees for Scalable Stateful Inference at Line Rate.",
+        "authors": [
+          "Murayyiam Parvez",
+          "Annus Zulfiqar",
+          "Roman Beltiukov",
+          "Shir Landau Feibish",
+          "Walter Willinger",
+          "Arpit Gupta",
+          "Muhammad Shahbaz"
+        ]
+      },
+      {
+        "title": "Carbon- and Precedence-Aware Scheduling for Data Processing Clusters.",
+        "authors": [
+          "Adam Lechowicz",
+          "Rohan Shenoy",
+          "Noman Bashir",
+          "Mohammad Hajiesmaili",
+          "Adam Wierman",
+          "Christina Delimitrou"
+        ]
+      },
+      {
+        "title": "HACK: Homomorphic Acceleration via Compression of the Key-Value Cache for Disaggregated LLM Inference.",
+        "authors": [
+          "Zeyu Zhang",
+          "Haiying Shen",
+          "Shay Vargaftik",
+          "Ran Ben Basat",
+          "Michael Mitzenmacher",
+          "Minlan Yu"
+        ]
+      },
+      {
+        "title": "Designing Transport-Level Encryption for Datacenter Networks.",
+        "authors": [
+          "Tianyi Gao",
+          "Xinshu Ma",
+          "Suhas Narreddy",
+          "Eugenio Luo",
+          "Steven W. D. Chien",
+          "Michio Honda"
+        ]
+      },
+      {
+        "title": "ZooRoute: Enhancing Cloud-Scale Network Reliability via Overlay Proactive Rerouting.",
+        "authors": [
+          "Xiaoqing Sun",
+          "Xionglie Wei",
+          "Xing Li",
+          "Ju Zhang",
+          "Bowen Yang",
+          "Yi Wang",
+          "Ye Yang",
+          "Yu Qi",
+          "Le Yu",
+          "Chenhao Jia",
+          "Zhanlong Zhang",
+          "Xinyu Chen",
+          "Jianyuan Lu",
+          "Shize Zhang",
+          "Enge Song",
+          "Yang Song",
+          "Tian Pan",
+          "Rong Wen",
+          "Biao Lyu",
+          "Yang Xu",
+          "Shunmin Zhu"
+        ]
+      },
+      {
+        "title": "Achieving High-Speed and Robust Encrypted Traffic Anomaly Detection with Programmable Switches.",
+        "authors": [
+          "Han Zhang",
+          "Guyue Liu",
+          "Xingang Shi",
+          "Yahui Li",
+          "Dongbiao He",
+          "Jilong Wang",
+          "Zhiliang Wang",
+          "Yongqing Zhu",
+          "Ke Ruan",
+          "Weihua Cao",
+          "Xia Yin"
+        ]
+      },
+      {
+        "title": "Palladium: A DPU-enabled Multi-Tenant Serverless Cloud over Zero-copy Multi-node RDMA Fabrics.",
+        "authors": [
+          "Shixiong Qi",
+          "Songyu Zhang",
+          "K. K. Ramakrishnan",
+          "Diman Zad Tootaghaj",
+          "Hardik Soni",
+          "Puneet Sharma"
+        ]
+      },
+      {
+        "title": "Threading the Ocean: Mapping Digital Routes Across Submarine Cables using Calypso.",
+        "authors": [
+          "Caleb Wang",
+          "Ying Zhang",
+          "Qianli Dong",
+          "Esteban Carisimo",
+          "Ramakrishnan Durairajan",
+          "Fabián E. Bustamante"
+        ]
+      },
+      {
+        "title": "AoRA: AI-on-RAN for Backhaul-free Edge Inference.",
+        "authors": [
+          "Siyavushkhon Kholmatov",
+          "Seongsik Cho",
+          "Kyunghan Lee",
+          "Song Chong"
+        ]
+      },
+      {
+        "title": "NIER: Practical Neural-enhanced Low-bitrate Video Conferencing.",
+        "authors": [
+          "Anlan Zhang",
+          "Yuming Hu",
+          "Chendong Wang",
+          "Yu Liu",
+          "Zejun Zhang",
+          "Haoyu Gong",
+          "Ahmad Hassan",
+          "Shichang Xu",
+          "Zhenhua Li",
+          "Bo Han",
+          "Feng Qian"
+        ]
+      },
+      {
+        "title": "Discovering Millions of New Nodes and Links in the Internet by Challenging the Uniformity Assumption in Multipath Detection.",
+        "authors": [
+          "Zhongxu Guan",
+          "Shuai Wang",
+          "Li Chen",
+          "Zhaoteng Yan",
+          "Jiaye Lin",
+          "Dan Li",
+          "Yong Jiang",
+          "Yingxin Wang",
+          "Ziqian Liu"
+        ]
+      },
+      {
+        "title": "Wisely Optimizing Short Video Streaming for a User-Vendor Win-Win Outcome.",
+        "authors": [
+          "Jinlong E",
+          "Wei Xu",
+          "Jianfei Bi",
+          "Lin He",
+          "Haoyang Li",
+          "Anqi Gu",
+          "Dan Yang",
+          "Yunpeng Chai"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/sigcomm/sigcomm2024pd.html": {
     "header": "ACM SIGCOMM Conference 2024:\nSydney, NSW, Australia - Posters and Demos",
     "year": "2024",
