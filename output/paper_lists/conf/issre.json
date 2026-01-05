@@ -1,4 +1,504 @@
 {
+  "https://dblp.org/db/conf/issre/issre2025.html": {
+    "header": "36th ISSRE 2025: São Paulo, Brazil",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Too Many Cooks: Assessing the Need for Multi-Source Data in Microservice Failure Diagnosis.",
+        "authors": [
+          "Shenglin Zhang",
+          "Xiaoyu Feng",
+          "Runzhou Wang",
+          "Minghua Ma",
+          "Wenwei Gu",
+          "Yongqian Sun",
+          "Zedong Jia",
+          "Jinrui Sun",
+          "Dan Pei"
+        ]
+      },
+      {
+        "title": "SyzOrch: An Orchestration Framework for Resource-Aware and Composable Kernel Fuzzing.",
+        "authors": [
+          "Lukai Xu",
+          "Baosheng Wang",
+          "Bo Yu",
+          "Boyu Chang",
+          "Binbin Zhao",
+          "Shouling Ji",
+          "Danjun Liu",
+          "Lei Zhou",
+          "Qiang Yang",
+          "Yaojia Yang"
+        ]
+      },
+      {
+        "title": "Understanding Recommendation System Robustness Against Silent Data Corruption: An Empirical Study.",
+        "authors": [
+          "Dongning Ma",
+          "Xun Jiao",
+          "Fan Fred Lin",
+          "Daniel Moore",
+          "Sriram Sankar"
+        ]
+      },
+      {
+        "title": "DVSTdetector: Dual-View Spatio-Temporal Representation Learning for Intrusion Detection in Industrial Control System.",
+        "authors": [
+          "Xuemin Zhang",
+          "Qianrong Zheng",
+          "Rui Hao",
+          "Zhe Xia",
+          "Junwei Zhou",
+          "Jianwen Xiang"
+        ]
+      },
+      {
+        "title": "AetherLog: Log-based Root Cause Analysis by Integrating Large Language Models with Knowledge Graphs.",
+        "authors": [
+          "Tianyu Cui",
+          "Ruowei Fu",
+          "Changchang Liu",
+          "Yuhe Ji",
+          "Wenwei Gu",
+          "Shenglin Zhang",
+          "Yongqian Sun",
+          "Dan Pei"
+        ]
+      },
+      {
+        "title": "CSLParser: A Collaborative Framework Using Small and Large Language Models for Log Parsing.",
+        "authors": [
+          "Weijie Hong",
+          "Yifan Wu",
+          "Lingzhe Zhang",
+          "Chiming Duan",
+          "Pei Xiao",
+          "Minghua He",
+          "Xixuan Yang",
+          "Ying Li"
+        ]
+      },
+      {
+        "title": "Towards the Assessment of Task-based Chatbots: From the TOFU-R Snapshot to the BRASATO Curated Dataset.",
+        "authors": [
+          "Elena Masserini",
+          "Diego Clerissi",
+          "Daniela Micucci",
+          "João R. Campos",
+          "Leonardo Mariani"
+        ]
+      },
+      {
+        "title": "ISGraphVD: Precise Vulnerability Detection for IoT Supply Chains Based on Identifier Sensitive Graph.",
+        "authors": [
+          "Yingli Zhang",
+          "Xin Liu",
+          "Ziang Liu",
+          "Song Li",
+          "Nan Li",
+          "Weina Niu",
+          "Rui Zhou",
+          "Qingguo Zhou"
+        ]
+      },
+      {
+        "title": "LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection.",
+        "authors": [
+          "Jianrong Wang",
+          "Yuru Yue",
+          "Dengcheng Hu",
+          "Qi Li",
+          "Jinghui Li",
+          "Wenyu Zhu"
+        ]
+      },
+      {
+        "title": "Detection of Cross-Channel Invocation Risks in Hyperledger Fabric.",
+        "authors": [
+          "Luca Olivieri"
+        ]
+      },
+      {
+        "title": "ShadowGuard: Cryptographic Shadow Stack Protection with XOR Obfuscation and HMAC Integrity.",
+        "authors": [
+          "Sirine Ilahi",
+          "Adebayo Omotosho",
+          "Christian Hammer"
+        ]
+      },
+      {
+        "title": "Fuzzing for Detecting Access Policy Violations in REST APIs.",
+        "authors": [
+          "Andrea Arcuri",
+          "Omur Sahin",
+          "Man Zhang"
+        ]
+      },
+      {
+        "title": "LOFT: An LLM-Enhanced Multi-Objective Search Framework for Fault Injection Testing of Autonomous Driving Systems.",
+        "authors": [
+          "Guangdong You",
+          "Shuncheng Tang",
+          "Jixiang Zhou",
+          "Hezhen Liu",
+          "Junfang Jiang",
+          "Yan-Fu Li",
+          "Yinxing Xue"
+        ]
+      },
+      {
+        "title": "MDPMorph: An MDP-Based Metamorphic Testing Framework for Deep Reinforcement Learning Agents.",
+        "authors": [
+          "Jiapeng Li",
+          "Zheng Zheng",
+          "Yuning Xing",
+          "Daixu Ren",
+          "Steven Cho",
+          "Valerio Terragni"
+        ]
+      },
+      {
+        "title": "No Vibe Without Comprehension: Measuring Code Understanding in Modern Coding Workflows Using Neurophysiological Signals.",
+        "authors": [
+          "Ricardo Saraiva",
+          "João Durães",
+          "Paulo de Carvalho",
+          "Henrique Madeira",
+          "Haytham Hijazi"
+        ]
+      },
+      {
+        "title": "Condition Sequence Coverage Criterion and Automatic Test Case Generation for Testing-Based Formal Verification.",
+        "authors": [
+          "Ai Liu",
+          "Yang Liu",
+          "Lei Rao",
+          "Shaoying Liu",
+          "Zhibin Yang",
+          "Zhiqiu Huang"
+        ]
+      },
+      {
+        "title": "XAMT: Cross-Framework API Matching for Testing Deep Learning Libraries.",
+        "authors": [
+          "Bin Duan",
+          "Ruican Dong",
+          "Naipeng Dong",
+          "Dan Dongseong Kim",
+          "Guowei Yang"
+        ]
+      },
+      {
+        "title": "What Challenges Do Developers Face When Using Verification-Aware Programming Languages?",
+        "authors": [
+          "Francisco Oliveira",
+          "Alexandra Mendes",
+          "Carolina Carreira"
+        ]
+      },
+      {
+        "title": "Robustness Assessment of the Open vSwitch Kernel Module.",
+        "authors": [
+          "José Wilson Vieira Flauzino",
+          "Marco Vieira",
+          "Elias P. Duarte"
+        ]
+      },
+      {
+        "title": "Breaking Task Isolation: Enhancing Code Review Automation with Mixture-of-Experts Large Language Models.",
+        "authors": [
+          "Jiayue Tang",
+          "Li Yang",
+          "Lei Yu",
+          "Junyi Lu",
+          "Zhirong Huang",
+          "Fengjun Zhang",
+          "Chun Zuo"
+        ]
+      },
+      {
+        "title": "Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric.",
+        "authors": [
+          "Luca Olivieri",
+          "David Beste",
+          "Luca Negrini",
+          "Lea Schönherr",
+          "Antonio Emanuele Cinà",
+          "Pietro Ferrara"
+        ]
+      },
+      {
+        "title": "Human-Written vs. AI-Generated Code: A Large-Scale Study of Defects, Vulnerabilities, and Complexity.",
+        "authors": [
+          "Domenico Cotroneo",
+          "Cristina Improta",
+          "Pietro Liguori"
+        ]
+      },
+      {
+        "title": "Beyond Functional Correctness: An Empirical Evaluation of Large Language Models for Text-to-Code Generation.",
+        "authors": [
+          "Rodrigo Pato Nogueira",
+          "Marco Vieira",
+          "João R. Campos"
+        ]
+      },
+      {
+        "title": "A Cascaded Pipeline for Self-Directed, Model-Agnostic Unit Test Generation via LLMs.",
+        "authors": [
+          "Chao Ni",
+          "Xiaoya Wang",
+          "Xin Yin",
+          "Liushan Chen",
+          "Guojun Ma"
+        ]
+      },
+      {
+        "title": "AUVANA: An Efficient and Automatic Approach to Variable Rename Refactoring via Large Pre-trained Language Model.",
+        "authors": [
+          "Shiqi Cheng",
+          "Chenjie Shen",
+          "Li Yang",
+          "Lei Yu",
+          "Fengjun Zhang",
+          "Chun Zuo"
+        ]
+      },
+      {
+        "title": "Enhancing Reliability Assurance for DNN against Numerical Defect with Large Language Models.",
+        "authors": [
+          "Jinyu Liu",
+          "Jun Ai",
+          "Haoran Su",
+          "Tao Shi"
+        ]
+      },
+      {
+        "title": "ASASQL: Active Data Synthesis and Annotation for Efficient Natural Language SQL Generation in Cloud Systems.",
+        "authors": [
+          "Ruiqin Zheng",
+          "Zhiyuan Wu",
+          "Shengbing Shi",
+          "Qiang Bai",
+          "Hao Li",
+          "Hui Yu",
+          "Weigang Wu"
+        ]
+      },
+      {
+        "title": "Integrating GraphSAGE and Mamba for Self-Supervised Spatio-Temporal Fault Detection in Microservice Systems.",
+        "authors": [
+          "Shenglin Zhang",
+          "Yingke Li",
+          "Jianjin Tang",
+          "Chenyu Zhao",
+          "Wenwei Gu",
+          "Yongqian Sun",
+          "Dan Pei"
+        ]
+      },
+      {
+        "title": "DeST: An Unsupervised Decoupled Spatio-Temporal Framework for Microservice Incident Management.",
+        "authors": [
+          "Xiaohui Nie",
+          "Hang Cui",
+          "Changhua Pei",
+          "Haotian Si",
+          "Ke Xiang",
+          "Jingjing Li",
+          "Yanbiao Li",
+          "Gaogang Xie",
+          "Dan Pei"
+        ]
+      },
+      {
+        "title": "ClusterRCA: An End-to-End Approach for Network Fault Localization and Classification for HPC System.",
+        "authors": [
+          "Yongqian Sun",
+          "Xijie Pan",
+          "Xiao Xiong",
+          "Lei Tao",
+          "Jiaju Wang",
+          "Shenglin Zhang",
+          "Yuan Yuan",
+          "Yuqi Li",
+          "Kunlin Jian"
+        ]
+      },
+      {
+        "title": "An Empirical Study of Production Incidents in Generative AI Cloud Services.",
+        "authors": [
+          "Haoran Yan",
+          "Yinfang Chen",
+          "Minghua Ma",
+          "Ming Wen",
+          "Shan Lu",
+          "Shenglin Zhang",
+          "Tianyin Xu",
+          "Rujia Wang",
+          "Chetan Bansal",
+          "Saravan Rajmohan",
+          "Qingwei Lin",
+          "Chaoyun Zhang",
+          "Dongmei Zhang"
+        ]
+      },
+      {
+        "title": "Unleashing the Efficiency of Rust: An Empirical Study of Performance Bugs in Rust Projects.",
+        "authors": [
+          "Chenhao Cui",
+          "Hui Xu"
+        ]
+      },
+      {
+        "title": "bBench: A Comprehensive Performance Benchmark for Blockchain Applications.",
+        "authors": [
+          "Fernando Richter Vidal",
+          "Naghmeh Ivaki",
+          "Nuno Laranjeiro"
+        ]
+      },
+      {
+        "title": "Prepared for the Unknown: Adapting AIOps Capacity Forecasting Models to Data Changes.",
+        "authors": [
+          "Lorena Poenaru-Olaru",
+          "Wouter van 't Hof",
+          "Adrian Stando",
+          "Arkadiusz P. Trawinski",
+          "Eileen Kapel",
+          "Jan S. Rellermeyer",
+          "Luis Cruz",
+          "Arie van Deursen"
+        ]
+      },
+      {
+        "title": "Exploiting the Availability-Continuity Trade-off in Imperfect Retraining of Machine Learning Systems.",
+        "authors": [
+          "Zhengji Wang",
+          "Fumio Machida"
+        ]
+      },
+      {
+        "title": "Automatic Data Repair without Format Specifications.",
+        "authors": [
+          "Zijian Luo",
+          "Lukas Kirschner",
+          "Ezekiel O. Soremekun",
+          "Rahul Gopinath"
+        ]
+      },
+      {
+        "title": "Reliable Version Merging Based on Deep Semantic and logical Understanding of Critical Context.",
+        "authors": [
+          "Mengdan Fan",
+          "Wei Zhang",
+          "Haiyan Zhao",
+          "Zhi Jin"
+        ]
+      },
+      {
+        "title": "Detection and Analysis of Poisoned Image in Container Registry.",
+        "authors": [
+          "Siyuan Pang",
+          "Yongshan Wang",
+          "Yepeng Yao",
+          "Zhengwei Jiang",
+          "Zijing Fan",
+          "Baoxu Liu"
+        ]
+      },
+      {
+        "title": "MALPRE: Malware Protocol Reverse Engineering through Code Slicing and Agentic Workflow.",
+        "authors": [
+          "Yuyao Huang",
+          "Fei Kang",
+          "Hui Shu",
+          "Guoyu Huo"
+        ]
+      },
+      {
+        "title": "Enhancing Privacy and Robustness in Federated Learning with Local Data Distribution Invariance and Byzantine-Resilient Aggregation.",
+        "authors": [
+          "Bakary Dolo",
+          "Faiza Loukil",
+          "Khouloud Boukadi",
+          "Kavé Salamatian"
+        ]
+      },
+      {
+        "title": "Exploring the generalizability of software vulnerability classes via replication and synthesis.",
+        "authors": [
+          "Mohammad Jamil Ahmad",
+          "Katerina Goseva-Popstojanova"
+        ]
+      },
+      {
+        "title": "DLAFI: Software-Based Fault Injection for Permanent Faults in Deep Learning Accelerators.",
+        "authors": [
+          "SeyedMani Sadati",
+          "Abraham Chan",
+          "Udit Kumar Agarwal",
+          "Karthik Pattabiraman"
+        ]
+      },
+      {
+        "title": "Detecting Dependability Failures in Healthcare Scenarios via Digital Shadows.",
+        "authors": [
+          "Bruno Guindani",
+          "Matteo Camilli",
+          "Livia Lestingi",
+          "Marcello Maria Bersani"
+        ]
+      },
+      {
+        "title": "Effective, Efficient, and Environmentally Friendly Out-of-Model-Scope Detection Methodology.",
+        "authors": [
+          "Zhenyu Yang",
+          "Ettore Merlo",
+          "Clément Benesse",
+          "Lina Marsso"
+        ]
+      },
+      {
+        "title": "Refactoring ≠ Bug-Inducing: Improving Defect Prediction with Code Change Tactics Analysis.",
+        "authors": [
+          "Feifei Niu",
+          "Junqian Shao",
+          "Christoph Mayr-Dorn",
+          "Liguo Huang",
+          "Wesley K. G. Assunção",
+          "Chuanyi Li",
+          "Jidong Ge",
+          "Alexander Egyed"
+        ]
+      },
+      {
+        "title": "SimFuzz: Conflict-Aware Parallel Fuzzing via Incremental Path Similarity Clustering.",
+        "authors": [
+          "Xuan Meng",
+          "Danjun Liu",
+          "Xu Zhou",
+          "Peihong Lin",
+          "Chenyifan Liu",
+          "Lei Zhou",
+          "Wei Xie",
+          "Baosheng Wang",
+          "Peng Wang"
+        ]
+      },
+      {
+        "title": "ZeroLog: Zero-Label Generalizable Cross-System Log-based Anomaly Detection.",
+        "authors": [
+          "Xinlong Zhao",
+          "Tong Jia",
+          "Minghua He",
+          "Ying Li",
+          "Gang Huang"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/issre/issre2024w.html": {
     "header": "35th ISSRE 2024:\nTsukuba, Japan - Workshops",
     "year": "2024",

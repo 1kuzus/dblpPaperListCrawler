@@ -1,0 +1,3766 @@
+{
+  "https://dblp.org/db/journals/pacmse/pacmse2.html": {
+    "header": "Proceedings of the ACM on Software Engineering, Volume 2",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "CKTyper: Enhancing Type Inference for Java Code Snippets by Leveraging Crowdsourcing Knowledge in Stack Overflow.",
+        "authors": [
+          "Anji Li",
+          "Neng Zhang",
+          "Ying Zou",
+          "Zhixiang Chen",
+          "Jian Wang",
+          "Zibin Zheng"
+        ]
+      },
+      {
+        "title": "AlphaTrans: A Neuro-Symbolic Compositional Approach for Repository-Level Code Translation and Validation.",
+        "authors": [
+          "Ali Reza Ibrahimzada",
+          "Kaiyao Ke",
+          "Mrigank Pawagi",
+          "Muhammad Salman Abid",
+          "Rangeet Pan",
+          "Saurabh Sinha",
+          "Reyhaneh Jabbarvand"
+        ]
+      },
+      {
+        "title": "The Landscape of Toxicity: An Empirical Investigation of Toxicity on GitHub.",
+        "authors": [
+          "Jaydeb Sarker",
+          "Asif Kamal Turzo",
+          "Amiangshu Bosu"
+        ]
+      },
+      {
+        "title": "Clone Detection for Smart Contracts: How Far Are We?",
+        "authors": [
+          "Zuobin Wang",
+          "Zhiyuan Wan",
+          "Yujing Chen",
+          "Yun Zhang",
+          "David Lo",
+          "Difan Xie",
+          "Xiaohu Yang"
+        ]
+      },
+      {
+        "title": "NLP Libraries, Energy Consumption and Runtime: An Empirical Study.",
+        "authors": [
+          "Rajrupa Chattaraj",
+          "Sridhar Chimalakonda"
+        ]
+      },
+      {
+        "title": "Towards Understanding Fine-Grained Programming Mistakes and Fixing Patterns in Data Science.",
+        "authors": [
+          "Wei-Hao Chen",
+          "Jia Lin Cheoh",
+          "Manthan Keim",
+          "Sabine Brunswicker",
+          "Tianyi Zhang"
+        ]
+      },
+      {
+        "title": "How Do Programming Students Use Generative AI?",
+        "authors": [
+          "Christian Rahe",
+          "Walid Maalej"
+        ]
+      },
+      {
+        "title": "QSF: Multi-objective Optimization Based Efficient Solving for Floating-Point Constraints.",
+        "authors": [
+          "Xu Yang",
+          "Zhenbang Chen",
+          "Wei Dong",
+          "Ji Wang"
+        ]
+      },
+      {
+        "title": "Less Is More: On the Importance of Data Quality for Unit Test Generation.",
+        "authors": [
+          "Junwei Zhang",
+          "Xing Hu",
+          "Shan Gao",
+          "Xin Xia",
+          "David Lo",
+          "Shanping Li"
+        ]
+      },
+      {
+        "title": "De-duplicating Silent Compiler Bugs via Deep Semantic Representation.",
+        "authors": [
+          "Junjie Chen",
+          "Xingyu Fan",
+          "Chen Yang",
+          "Shuang Liu",
+          "Jun Sun"
+        ]
+      },
+      {
+        "title": "Code Red! On the Harmfulness of Applying Off-the-Shelf Large Language Models to Programming Tasks.",
+        "authors": [
+          "Ali Al-Kaswan",
+          "Sebastian Deatc",
+          "Begüm Koç",
+          "Arie van Deursen",
+          "Maliheh Izadi"
+        ]
+      },
+      {
+        "title": "COFFE: A Code Efficiency Benchmark for Code Generation.",
+        "authors": [
+          "Yun Peng",
+          "Jun Wan",
+          "Yichen Li",
+          "Xiaoxue Ren"
+        ]
+      },
+      {
+        "title": "Detecting and Handling WoT Violations by Learning Physical Interactions from Device Logs.",
+        "authors": [
+          "Bingkun Sun",
+          "Shiqi Sun",
+          "Jialin Ren",
+          "Mingming Hu",
+          "Kun Hu",
+          "Liwei Shen",
+          "Xin Peng"
+        ]
+      },
+      {
+        "title": "Cross-System Categorization of Abnormal Traces in Microservice-Based Systems via Meta-Learning.",
+        "authors": [
+          "Yuqing Wang",
+          "Mika V. Mäntylä",
+          "Serge Demeyer",
+          "Mutlu Beyazit",
+          "Joanna Kisaakye",
+          "Jesse Nyyssölä"
+        ]
+      },
+      {
+        "title": "Revisiting Optimization-Resilience Claims in Binary Diffing Tools: Insights from LLVM Peephole Optimization Analysis.",
+        "authors": [
+          "Xiaolei Ren",
+          "Mengfei Ren",
+          "Yu Lei",
+          "Jiang Ming"
+        ]
+      },
+      {
+        "title": "An Empirical Study on Release-Wise Refactoring Patterns.",
+        "authors": [
+          "Shayan Noei",
+          "Heng Li",
+          "Ying Zou"
+        ]
+      },
+      {
+        "title": "Directed Testing in MLIR: Unleashing Its Potential by Overcoming the Limitations of Random Fuzzing.",
+        "authors": [
+          "Weiyuan Tong",
+          "Zixu Wang",
+          "Zhanyong Tang",
+          "Jianbin Fang",
+          "Yuqun Zhang",
+          "Guixin Ye"
+        ]
+      },
+      {
+        "title": "CoverUp: Effective High Coverage Test Generation for Python.",
+        "authors": [
+          "Juan Altmayer Pizzorno",
+          "Emery D. Berger"
+        ]
+      },
+      {
+        "title": "Automated Extraction and Analysis of Developer's Rationale in Open Source Software.",
+        "authors": [
+          "Mouna Dhaouadi",
+          "Bentley Oakes",
+          "Michalis Famelis"
+        ]
+      },
+      {
+        "title": "MiSum: Multi-modality Heterogeneous Code Graph Learning for Multi-intent Binary Code Summarization.",
+        "authors": [
+          "Kangchen Zhu",
+          "Zhiliang Tian",
+          "Shangwen Wang",
+          "Weiguo Chen",
+          "Zixuan Dong",
+          "Mingyue Leng",
+          "Xiaoguang Mao"
+        ]
+      },
+      {
+        "title": "CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building.",
+        "authors": [
+          "Zhengmin Yu",
+          "Yuan Zhang",
+          "Ming Wen",
+          "Yinan Nie",
+          "Wenhui Zhang",
+          "Min Yang"
+        ]
+      },
+      {
+        "title": "Detecting Smart Contract State-Inconsistency Bugs via Flow Divergence and Multiplex Symbolic Execution.",
+        "authors": [
+          "Yinxi Liu",
+          "Wei Meng",
+          "Yinqian Zhang"
+        ]
+      },
+      {
+        "title": "Who Will Stop Contributing to OSS Projects? Predicting Company Turnover Based on Initial Behavior.",
+        "authors": [
+          "Mian Qin",
+          "Yuxia Zhang",
+          "Klaas-Jan Stol",
+          "Hui Liu"
+        ]
+      },
+      {
+        "title": "SmartShot: Hunt Hidden Vulnerabilities in Smart Contracts using Mutable Snapshots.",
+        "authors": [
+          "Ruichao Liang",
+          "Jing Chen",
+          "Ruochen Cao",
+          "Kun He",
+          "Ruiying Du",
+          "Shuhua Li",
+          "Zheng Lin",
+          "Cong Wu"
+        ]
+      },
+      {
+        "title": "It's Acting Odd! Exploring Equivocal Behaviors of Goodware.",
+        "authors": [
+          "Gregorio Dalia",
+          "Andrea Di Sorbo",
+          "Corrado Aaron Visaggio",
+          "Gerardo Canfora"
+        ]
+      },
+      {
+        "title": "Element-Based Automated DNN Repair with Fine-Tuned Masked Language Model.",
+        "authors": [
+          "Xu Wang",
+          "Mingming Zhang",
+          "Xiangxin Meng",
+          "Jian Zhang",
+          "Yang Liu",
+          "Chunming Hu"
+        ]
+      },
+      {
+        "title": "Statement-Level Adversarial Attack on Vulnerability Detection Models via Out-of-Distribution Features.",
+        "authors": [
+          "Xiaohu Du",
+          "Ming Wen",
+          "Haoyu Wang",
+          "Zichao Wei",
+          "Hai Jin"
+        ]
+      },
+      {
+        "title": "An Empirical Study of Suppressed Static Analysis Warnings.",
+        "authors": [
+          "Huimin Hu",
+          "Yingying Wang",
+          "Julia Rubin",
+          "Michael Pradel"
+        ]
+      },
+      {
+        "title": "TracePicker: Optimization-Based Trace Sampling for Microservice-Based Systems.",
+        "authors": [
+          "Shuaiyu Xie",
+          "Jian Wang",
+          "Maodong Li",
+          "Peiran Chen",
+          "Jifeng Xuan",
+          "Bing Li"
+        ]
+      },
+      {
+        "title": "LookAhead: Preventing DeFi Attacks via Unveiling Adversarial Contracts.",
+        "authors": [
+          "Shoupeng Ren",
+          "Lipeng He",
+          "Tianyu Tu",
+          "Di Wu",
+          "Jian Liu",
+          "Kui Ren",
+          "Chun Chen"
+        ]
+      },
+      {
+        "title": "UnitCon: Synthesizing Targeted Unit Tests for Java Runtime Exceptions.",
+        "authors": [
+          "Sujin Jang",
+          "Yeonhee Ryou",
+          "Heewon Lee",
+          "Kihong Heo"
+        ]
+      },
+      {
+        "title": "Empirically Evaluating the Impact of Object-Centric Breakpoints on the Debugging of Object-Oriented Programs.",
+        "authors": [
+          "Valentin Bourcier",
+          "Pooja Rani",
+          "Maximilian Ignacio Willembrinck Santander",
+          "Alberto Bacchelli",
+          "Steven Costiou"
+        ]
+      },
+      {
+        "title": "RegTrieve: Reducing System-Level Regression Errors for Machine Learning Systems via Retrieval-Enhanced Ensemble.",
+        "authors": [
+          "Junming Cao",
+          "Xuwen Xiang",
+          "Mingfei Cheng",
+          "Bihuan Chen",
+          "Xinyan Wang",
+          "You Lu",
+          "Chaofeng Sha",
+          "Xiaofei Xie",
+          "Xin Peng"
+        ]
+      },
+      {
+        "title": "Large Language Models for In-File Vulnerability Localization Can Be \"Lost in the End\".",
+        "authors": [
+          "Francesco Sovrano",
+          "Adam Bauer",
+          "Alberto Bacchelli"
+        ]
+      },
+      {
+        "title": "10 Years Later: Revisiting How Developers Search for Code.",
+        "authors": [
+          "Kathryn T. Stolee",
+          "Tobias Welp",
+          "Caitlin Sadowski",
+          "Sebastian G. Elbaum"
+        ]
+      },
+      {
+        "title": "IRepair: An Intent-Aware Approach to Repair Data-Driven Errors in Large Language Models.",
+        "authors": [
+          "Sayem Mohammad Imtiaz",
+          "Astha Singh",
+          "Fraol Batole",
+          "Hridesh Rajan"
+        ]
+      },
+      {
+        "title": "Towards Understanding Performance Bugs in Popular Data Science Libraries.",
+        "authors": [
+          "Haowen Yang",
+          "Zhengda Li",
+          "Zhiqing Zhong",
+          "Xiaoying Tang",
+          "Pinjia He"
+        ]
+      },
+      {
+        "title": "On the Characteristics and Impacts of Protestware Libraries.",
+        "authors": [
+          "Tanner Finken",
+          "Jesse Chen",
+          "Sazzadur Rahaman"
+        ]
+      },
+      {
+        "title": "Alert Summarization for Online Service Systems by Validating Propagation Paths of Faults.",
+        "authors": [
+          "Jia Chen",
+          "Yuang He",
+          "Peng Wang",
+          "Xiaolei Chen",
+          "Jie Shi",
+          "Wei Wang"
+        ]
+      },
+      {
+        "title": "Recasting Type Hints from WebAssembly Contracts.",
+        "authors": [
+          "Kunsong Zhao",
+          "Zihao Li",
+          "Weimin Chen",
+          "Xiapu Luo",
+          "Ting Chen",
+          "Guozhu Meng",
+          "Yajin Zhou"
+        ]
+      },
+      {
+        "title": "Automated Recognition of Buggy Behaviors from Mobile Bug Reports.",
+        "authors": [
+          "Zhaoxu Zhang",
+          "Komei Ryu",
+          "Tingting Yu",
+          "William G. J. Halfond"
+        ]
+      },
+      {
+        "title": "Automatically Detecting Numerical Instability in Machine Learning Applications via Soft Assertions.",
+        "authors": [
+          "Shaila Sharmin",
+          "Anwar Hossain Zahid",
+          "Subhankar Bhattacharjee",
+          "Chiamaka Igwilo",
+          "Miryung Kim",
+          "Wei Le"
+        ]
+      },
+      {
+        "title": "Standing on the Shoulders of Giants: Bug-Aware Automated GUI Testing via Retrieval Augmentation.",
+        "authors": [
+          "Mengzhuo Chen",
+          "Zhe Liu",
+          "Chunyang Chen",
+          "Junjie Wang",
+          "Boyu Wu",
+          "Jun Hu",
+          "Qing Wang"
+        ]
+      },
+      {
+        "title": "ROSCallBaX: Statically Detecting Inconsistencies in Callback Function Setup of Robotic Systems.",
+        "authors": [
+          "Sayali Kate",
+          "Yifei Gao",
+          "Shiwei Feng",
+          "Xiangyu Zhang"
+        ]
+      },
+      {
+        "title": "ReproCopilot: LLM-Driven Failure Reproduction with Dynamic Refinement.",
+        "authors": [
+          "Tanakorn Leesatapornwongsa",
+          "Fazle E. Faisal",
+          "Suman Nath"
+        ]
+      },
+      {
+        "title": "PDCAT: Preference-Driven Compiler Auto-tuning.",
+        "authors": [
+          "Mingxuan Zhu",
+          "Zeyu Sun",
+          "Dan Hao"
+        ]
+      },
+      {
+        "title": "Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge: Feasibility, Challenges, and Road Ahead.",
+        "authors": [
+          "Yanqi Su",
+          "Zhenchang Xing",
+          "Chong Wang",
+          "Chunyang Chen",
+          "Xiwei Xu",
+          "Qinghua Lu",
+          "Liming Zhu"
+        ]
+      },
+      {
+        "title": "A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems.",
+        "authors": [
+          "Yuntianyi Chen",
+          "Yuqi Huai",
+          "Yirui He",
+          "Shilong Li",
+          "Changnam Hong",
+          "Qi Alfred Chen",
+          "Joshua Garcia"
+        ]
+      },
+      {
+        "title": "DuoReduce: Bug Isolation for Multi-layer Extensible Compilation.",
+        "authors": [
+          "Jiyuan Wang",
+          "Yuxin Qiu",
+          "Ben Limpanukorn",
+          "Hong Jin Kang",
+          "Qian Zhang",
+          "Miryung Kim"
+        ]
+      },
+      {
+        "title": "Prompts Are Programs Too! Understanding How Developers Build Software Containing Prompts.",
+        "authors": [
+          "Jenny T. Liang",
+          "Melissa Lin",
+          "Nikitha Rao",
+          "Brad A. Myers"
+        ]
+      },
+      {
+        "title": "Dissecting Real-World Cross-Language Bugs.",
+        "authors": [
+          "Haoran Yang",
+          "Haipeng Cai"
+        ]
+      },
+      {
+        "title": "Error Delayed Is Not Error Handled: Understanding and Fixing Propagated Error-Handling Bugs.",
+        "authors": [
+          "Haoran Liu",
+          "Shan-shan Li",
+          "Zhouyang Jia",
+          "Yuanliang Zhang",
+          "Linxiao Bai",
+          "Si Zheng",
+          "Xiaoguang Mao",
+          "Xiangke Liao"
+        ]
+      },
+      {
+        "title": "Detecting and Reducing the Factual Hallucinations of Large Language Models with Metamorphic Testing.",
+        "authors": [
+          "Weibin Wu",
+          "Yuhang Cao",
+          "Ning Yi",
+          "Rongyi Ou",
+          "Zibin Zheng"
+        ]
+      },
+      {
+        "title": "Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns.",
+        "authors": [
+          "Yiwen Wu",
+          "Yang Zhang",
+          "Tao Wang",
+          "Bo Ding",
+          "Huaimin Wang"
+        ]
+      },
+      {
+        "title": "Beyond PEFT: Layer-Wise Optimization for More Effective and Efficient Large Code Model Tuning.",
+        "authors": [
+          "Chaozheng Wang",
+          "Jia Feng",
+          "Shuzheng Gao",
+          "Cuiyun Gao",
+          "Zongjie Li",
+          "Ting Peng",
+          "Hailiang Huang",
+          "Yuetang Deng",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "Medusa: A Framework for Collaborative Development of Foundation Models with Automated Parameter Ownership Assignment.",
+        "authors": [
+          "Dezhi Ran",
+          "Yuan Cao",
+          "Yuzhe Guo",
+          "Yuetong Li",
+          "Mengzhou Wu",
+          "Simin Chen",
+          "Wei Yang",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "CRISPE: Semantic-Guided Execution Planning and Dynamic Reasoning for Enhancing Code Coverage Prediction.",
+        "authors": [
+          "Hridya Dhulipala",
+          "Aashish Yadavally",
+          "Smit Soneshbhai Patel",
+          "Tien N. Nguyen"
+        ]
+      },
+      {
+        "title": "Code Change Intention, Development Artifact, and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM.",
+        "authors": [
+          "Xu Yang",
+          "Wenhan Zhu",
+          "Michael Pacheco",
+          "Jiayuan Zhou",
+          "Shaowei Wang",
+          "Xing Hu",
+          "Kui Liu"
+        ]
+      },
+      {
+        "title": "Blended Analysis for Predictive Execution.",
+        "authors": [
+          "Yi Li",
+          "Hridya Dhulipala",
+          "Aashish Yadavally",
+          "Xiaokai Rong",
+          "Shaohua Wang",
+          "Tien N. Nguyen"
+        ]
+      },
+      {
+        "title": "SemBIC: Semantic-Aware Identification of Bug-Inducing Commits.",
+        "authors": [
+          "Xiao Chen",
+          "Hengcheng Zhu",
+          "Jialun Cao",
+          "Ming Wen",
+          "Shing-Chi Cheung"
+        ]
+      },
+      {
+        "title": "Adaptive Random Testing with Q-grams: The Illusion Comes True.",
+        "authors": [
+          "Matteo Biagiola",
+          "Robert Feldt",
+          "Paolo Tonella"
+        ]
+      },
+      {
+        "title": "Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?",
+        "authors": [
+          "Zhenpeng Chen",
+          "Xinyue Li",
+          "Jie M. Zhang",
+          "Weisong Sun",
+          "Ying Xiao",
+          "Tianlin Li",
+          "Yiling Lou",
+          "Yang Liu"
+        ]
+      },
+      {
+        "title": "Gleipner: A Benchmark for Gadget Chain Detection in Java Deserialization Vulnerabilities.",
+        "authors": [
+          "Bruno Kreyssig",
+          "Alexandre Bartel"
+        ]
+      },
+      {
+        "title": "Teaching AI the 'Why' and 'How' of Software Vulnerability Fixes.",
+        "authors": [
+          "Amiao Gao",
+          "Zenong Zhang",
+          "Simin Wang",
+          "Liguo Huang",
+          "Shiyi Wei",
+          "Vincent Ng"
+        ]
+      },
+      {
+        "title": "Automatically Fixing Dependency Breaking Changes.",
+        "authors": [
+          "Lukas Fruntke",
+          "Jens Krinke"
+        ]
+      },
+      {
+        "title": "Unlocking Optimal ORM Database Designs: Accelerated Tradeoff Analysis with Transformers.",
+        "authors": [
+          "Md Rashedul Hasan",
+          "Mohammad Rashedul Hasan",
+          "Hamid Bagheri"
+        ]
+      },
+      {
+        "title": "One-for-All Does Not Work! Enhancing Vulnerability Detection by Mixture-of-Experts (MoE).",
+        "authors": [
+          "Xu Yang",
+          "Shaowei Wang",
+          "Jiayuan Zhou",
+          "Wenhan Zhu"
+        ]
+      },
+      {
+        "title": "DyLin: A Dynamic Linter for Python.",
+        "authors": [
+          "Aryaz Eghbali",
+          "Felix Burk",
+          "Michael Pradel"
+        ]
+      },
+      {
+        "title": "A Causal Learning Framework for Enhancing Robustness of Source Code Models.",
+        "authors": [
+          "Junyao Ye",
+          "Zhen Li",
+          "Xi Tang",
+          "Deqing Zou",
+          "Shouhuai Xu",
+          "Weizhong Qiang",
+          "Hai Jin"
+        ]
+      },
+      {
+        "title": "Automated and Accurate Token Transfer Identification and Its Applications in Cryptocurrency Security.",
+        "authors": [
+          "Shuwei Song",
+          "Ting Chen",
+          "Ao Qiao",
+          "Xiapu Luo",
+          "Leqing Wang",
+          "Zheyuan He",
+          "Ting Wang",
+          "Xiaodong Lin",
+          "Peng He",
+          "Wensheng Zhang",
+          "Xiaosong Zhang"
+        ]
+      },
+      {
+        "title": "A Knowledge Enhanced Large Language Model for Bug Localization.",
+        "authors": [
+          "Yue Li",
+          "Bohan Liu",
+          "Ting Zhang",
+          "Zhiqi Wang",
+          "David Lo",
+          "Lanxin Yang",
+          "Jun Lyu",
+          "He Zhang"
+        ]
+      },
+      {
+        "title": "An Empirical Study of Code Clones from Commercial AI Code Generators.",
+        "authors": [
+          "Weibin Wu",
+          "Haoxuan Hu",
+          "Zhaoji Fan",
+          "Yitong Qiao",
+          "Yizhan Huang",
+          "Yichen Li",
+          "Zibin Zheng",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "Mitigating Emergent Malware Label Noise in DNN-Based Android Malware Detection.",
+        "authors": [
+          "Haodong Li",
+          "Xiao Cheng",
+          "Guohan Zhang",
+          "Guosheng Xu",
+          "Guoai Xu",
+          "Haoyu Wang"
+        ]
+      },
+      {
+        "title": "HornBro: Homotopy-Like Method for Automated Quantum Program Repair.",
+        "authors": [
+          "Siwei Tan",
+          "Liqiang Lu",
+          "Debin Xiang",
+          "Tianyao Chu",
+          "Congliang Lang",
+          "Jintao Chen",
+          "Xing Hu",
+          "Jianwei Yin"
+        ]
+      },
+      {
+        "title": "Integrating Large Language Models and Reinforcement Learning for Non-linear Reasoning.",
+        "authors": [
+          "Yoav Alon",
+          "Cristina David"
+        ]
+      },
+      {
+        "title": "Has My Code Been Stolen for Model Training? A Naturalness Based Approach to Code Contamination Detection.",
+        "authors": [
+          "Haris Ali Khan",
+          "Yanjie Jiang",
+          "Qasim Umer",
+          "Yuxia Zhang",
+          "Waseem Akram",
+          "Hui Liu"
+        ]
+      },
+      {
+        "title": "Revolutionizing Newcomers' Onboarding Process in OSS Communities: The Future AI Mentor.",
+        "authors": [
+          "Xin Tan",
+          "Xiao Long",
+          "Yinghao Zhu",
+          "Lin Shi",
+          "Xiaoli Lian",
+          "Li Zhang"
+        ]
+      },
+      {
+        "title": "Smaller but Better: Self-Paced Knowledge Distillation for Lightweight yet Effective LCMs.",
+        "authors": [
+          "Yujia Chen",
+          "Yang Ye",
+          "Zhongqi Li",
+          "Yuchi Ma",
+          "Cuiyun Gao"
+        ]
+      },
+      {
+        "title": "Demystifying LLM-Based Software Engineering Agents.",
+        "authors": [
+          "Chunqiu Steven Xia",
+          "Yinlin Deng",
+          "Soren Dunn",
+          "Lingming Zhang"
+        ]
+      },
+      {
+        "title": "An Adaptive Language-Agnostic Pruning Method for Greener Language Models for Code.",
+        "authors": [
+          "Mootez Saad",
+          "José Antonio Hernández López",
+          "Boqi Chen",
+          "Dániel Varró",
+          "Tushar Sharma"
+        ]
+      },
+      {
+        "title": "Pinning Is Futile: You Need More Than Local Dependency Versioning to Defend against Supply Chain Attacks.",
+        "authors": [
+          "Hao He",
+          "Bogdan Vasilescu",
+          "Christian Kästner"
+        ]
+      },
+      {
+        "title": "Calibration of Large Language Models on Code Summarization.",
+        "authors": [
+          "Yuvraj Virk",
+          "Premkumar T. Devanbu",
+          "Toufique Ahmed"
+        ]
+      },
+      {
+        "title": "ChatDBG: Augmenting Debugging with Large Language Models.",
+        "authors": [
+          "Kyla Levin",
+          "Nicolas van Kempen",
+          "Emery D. Berger",
+          "Stephen N. Freund"
+        ]
+      },
+      {
+        "title": "SmartNote: An LLM-Powered, Personalised Release Note Generator That Just Works.",
+        "authors": [
+          "Farbod Daneshyan",
+          "Runzhi He",
+          "Jianyu Wu",
+          "Minghui Zhou"
+        ]
+      },
+      {
+        "title": "Incorporating Verification Standards for Security Requirements Generation from Functional Specifications.",
+        "authors": [
+          "Xiaoli Lian",
+          "Shuaisong Wang",
+          "Hanyu Zou",
+          "Fang Liu",
+          "Jiajun Wu",
+          "Li Zhang"
+        ]
+      },
+      {
+        "title": "Hallucination Detection in Large Language Models with Metamorphic Relations.",
+        "authors": [
+          "Borui Yang",
+          "Md Afif Al Mamun",
+          "Jie M. Zhang",
+          "Gias Uddin"
+        ]
+      },
+      {
+        "title": "Impact of Request Formats on Effort Estimation: Are LLMs Different Than Humans?",
+        "authors": [
+          "Gül Çalikli",
+          "Mohammed Alhamed"
+        ]
+      },
+      {
+        "title": "Beyond Functional Correctness: Investigating Coding Style Inconsistencies in Large Language Models.",
+        "authors": [
+          "Yanlin Wang",
+          "Tianyue Jiang",
+          "Mingwei Liu",
+          "Jiachi Chen",
+          "Mingzhi Mao",
+          "Xilin Liu",
+          "Yuchi Ma",
+          "Zibin Zheng"
+        ]
+      },
+      {
+        "title": "LLM-Based Method Name Suggestion with Automatically Generated Context-Rich Prompts.",
+        "authors": [
+          "Waseem Akram",
+          "Yanjie Jiang",
+          "Yuxia Zhang",
+          "Haris Ali Khan",
+          "Hui Liu"
+        ]
+      },
+      {
+        "title": "VLATest: Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation.",
+        "authors": [
+          "Zhijie Wang",
+          "Zhehua Zhou",
+          "Jiayang Song",
+          "Yuheng Huang",
+          "Zhan Shu",
+          "Lei Ma"
+        ]
+      },
+      {
+        "title": "Today's Cat Is Tomorrow's Dog: Accounting for Time-Based Changes in the Labels of ML Vulnerability Detection Approaches.",
+        "authors": [
+          "Ranindya Paramitha",
+          "Yuan Feng",
+          "Fabio Massacci"
+        ]
+      },
+      {
+        "title": "Mystique: Automated Vulnerability Patch Porting with Semantic and Syntactic-Enhanced LLM.",
+        "authors": [
+          "Susheng Wu",
+          "Ruisi Wang",
+          "Yiheng Cao",
+          "Bihuan Chen",
+          "Zhuotong Zhou",
+          "Yiheng Huang",
+          "Junpeng Zhao",
+          "Xin Peng"
+        ]
+      },
+      {
+        "title": "A Mixed-Methods Study of Model-Based GUI Testing in Real-World Industrial Settings.",
+        "authors": [
+          "Shaoheng Cao",
+          "Renyi Chen",
+          "Wenhua Yang",
+          "Minxue Pan",
+          "Xuandong Li"
+        ]
+      },
+      {
+        "title": "Core Developer Turnover in the Rust Package Ecosystem: Prevalence, Impact, and Awareness.",
+        "authors": [
+          "Meng Fan",
+          "Yuxia Zhang",
+          "Klaas-Jan Stol",
+          "Hui Liu"
+        ]
+      },
+      {
+        "title": "Automated Unit Test Refactoring.",
+        "authors": [
+          "Yi Gao",
+          "Xing Hu",
+          "Xiaohu Yang",
+          "Xin Xia"
+        ]
+      },
+      {
+        "title": "LlamaRestTest: Effective REST API Testing with Small Language Models.",
+        "authors": [
+          "Myeongsoo Kim",
+          "Saurabh Sinha",
+          "Alessandro Orso"
+        ]
+      },
+      {
+        "title": "Towards Diverse Program Transformations for Program Simplification.",
+        "authors": [
+          "Haibo Wang",
+          "Zezhong Xing",
+          "Chengnian Sun",
+          "Zheng Wang",
+          "Shin Hwei Tan"
+        ]
+      },
+      {
+        "title": "On the Unnecessary Complexity of Names in X.509 and Their Impact on Implementations.",
+        "authors": [
+          "Yuteng Sun",
+          "Joyanta Debnath",
+          "Wenzheng Hong",
+          "Omar Chowdhury",
+          "Sze Yiu Chau"
+        ]
+      },
+      {
+        "title": "Smart Contract Fuzzing Towards Profitable Vulnerabilities.",
+        "authors": [
+          "Ziqiao Kong",
+          "Cen Zhang",
+          "Maoyi Xie",
+          "Ming Hu",
+          "Yue Xue",
+          "Ye Liu",
+          "Haijun Wang",
+          "Yang Liu"
+        ]
+      },
+      {
+        "title": "Doc2OracLL: Investigating the Impact of Documentation on LLM-Based Test Oracle Generation.",
+        "authors": [
+          "Soneya Binta Hossain",
+          "Raygan Taylor",
+          "Matthew B. Dwyer"
+        ]
+      },
+      {
+        "title": "Demystifying Memorization in LLM-Based Program Repair via a General Hypothesis Testing Framework.",
+        "authors": [
+          "Jiaolong Kong",
+          "Xiaofei Xie",
+          "Shangqing Liu"
+        ]
+      },
+      {
+        "title": "Ransomware Detection through Temporal Correlation between Encryption and I/O Behavior.",
+        "authors": [
+          "Lihua Guo",
+          "Yiwei Hou",
+          "Chijin Zhou",
+          "Quan Zhang",
+          "Yu Jiang"
+        ]
+      },
+      {
+        "title": "Bridging Operator Semantic Inconsistencies: A Source-Level Cross-Framework Model Conversion Approach.",
+        "authors": [
+          "Xingpei Li",
+          "Yan Lei",
+          "Zhouyang Jia",
+          "Yuanliang Zhang",
+          "Haoran Liu",
+          "Liqian Chen",
+          "Wei Dong",
+          "Shan-shan Li"
+        ]
+      },
+      {
+        "title": "Understanding Debugging as Episodes: A Case Study on Performance Bugs in Configurable Software Systems.",
+        "authors": [
+          "Max Weber",
+          "Alina Mailach",
+          "Sven Apel",
+          "Janet Siegmund",
+          "Raimund Dachselt",
+          "Norbert Siegmund"
+        ]
+      },
+      {
+        "title": "Dynamic Taint Tracking for Modern Java Virtual Machines.",
+        "authors": [
+          "Katherine Hough",
+          "Jonathan Bell"
+        ]
+      },
+      {
+        "title": "The Struggles of LLMs in Cross-Lingual Code Clone Detection.",
+        "authors": [
+          "Micheline Bénédicte Moumoula",
+          "Abdoul Kader Kaboré",
+          "Jacques Klein",
+          "Tegawendé F. Bissyandé"
+        ]
+      },
+      {
+        "title": "An Empirical Study of Bugs in Data Visualization Libraries.",
+        "authors": [
+          "Weiqi Lu",
+          "Yongqiang Tian",
+          "Xiaohan Zhong",
+          "Haoyang Ma",
+          "Zhenyang Xu",
+          "Shing-Chi Cheung",
+          "Chengnian Sun"
+        ]
+      },
+      {
+        "title": "Automated Trustworthiness Oracle Generation for Machine Learning Text Classifiers.",
+        "authors": [
+          "Lam Nguyen Tung",
+          "Steven Cho",
+          "Xiaoning Du",
+          "Neelofar",
+          "Valerio Terragni",
+          "Stefano Ruberto",
+          "Aldeida Aleti"
+        ]
+      },
+      {
+        "title": "Understanding Industry Perspectives of Static Application Security Testing (SAST) Evaluation.",
+        "authors": [
+          "Yuan Li",
+          "Peisen Yao",
+          "Kan Yu",
+          "Chengpeng Wang",
+          "Yaoyang Ye",
+          "Song Li",
+          "Meng Luo",
+          "Yepang Liu",
+          "Kui Ren"
+        ]
+      },
+      {
+        "title": "Scientific Open-Source Software Is Less Likely to Become Abandoned Than One Might Think! Lessons from Curating a Catalog of Maintained Scientific Software.",
+        "authors": [
+          "Addi Malviya-Thakur",
+          "Reed Milewicz",
+          "Mahmoud Jahanshahi",
+          "Lavínia Paganini",
+          "Bogdan Vasilescu",
+          "Audris Mockus"
+        ]
+      },
+      {
+        "title": "Multi-modal Traffic Scenario Generation for Autonomous Driving System Testing.",
+        "authors": [
+          "Zhi Tu",
+          "Liangkun Niu",
+          "Wei Fan",
+          "Tianyi Zhang"
+        ]
+      },
+      {
+        "title": "Scene Flow Specifications: Encoding and Monitoring Rich Temporal Safety Properties of Autonomous Systems.",
+        "authors": [
+          "Trey Woodlief",
+          "Felipe Toledo",
+          "Matthew B. Dwyer",
+          "Sebastian G. Elbaum"
+        ]
+      },
+      {
+        "title": "Eliminating Backdoors in Neural Code Models for Secure Code Understanding.",
+        "authors": [
+          "Weisong Sun",
+          "Yuchen Chen",
+          "Chunrong Fang",
+          "Yebo Feng",
+          "Yuan Xiao",
+          "An Guo",
+          "Quanjun Zhang",
+          "Zhenyu Chen",
+          "Baowen Xu",
+          "Yang Liu"
+        ]
+      },
+      {
+        "title": "Why the Proof Fails in Different Versions of Theorem Provers: An Empirical Study of Compatibility Issues in Isabelle.",
+        "authors": [
+          "Xiaokun Luan",
+          "David Sanán",
+          "Zhe Hou",
+          "Qiyuan Xu",
+          "Chengwei Liu",
+          "Yufan Cai",
+          "Yang Liu",
+          "Meng Sun"
+        ]
+      },
+      {
+        "title": "DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation.",
+        "authors": [
+          "Ting Zhou",
+          "Yanjie Zhao",
+          "Xinyi Hou",
+          "Xiaoyu Sun",
+          "Kai Chen",
+          "Haoyu Wang"
+        ]
+      },
+      {
+        "title": "Liberating Libraries through Automated Fuzz Driver Generation: Striking a Balance without Consumer Code.",
+        "authors": [
+          "Flavio Toffalini",
+          "Nicolas Badoux",
+          "Zurab Tsinadze",
+          "Mathias Payer"
+        ]
+      },
+      {
+        "title": "CAShift: Benchmarking Log-Based Cloud Attack Detection under Normality Shift.",
+        "authors": [
+          "Jiongchi Yu",
+          "Xiaofei Xie",
+          "Qiang Hu",
+          "Bowen Zhang",
+          "Ziming Zhao",
+          "Yun Lin",
+          "Lei Ma",
+          "Ruitao Feng",
+          "Frank Liauw"
+        ]
+      },
+      {
+        "title": "ChangeGuard: Validating Code Changes via Pairwise Learning-Guided Execution.",
+        "authors": [
+          "Lars Gröninger",
+          "Beatriz Souza",
+          "Michael Pradel"
+        ]
+      },
+      {
+        "title": "Enhancing Web Accessibility: Automated Detection of Issues with Generative AI.",
+        "authors": [
+          "Ziyao He",
+          "Syed Fatiul Huq",
+          "Sam Malek"
+        ]
+      },
+      {
+        "title": "Detecting Metadata-Related Bugs in Enterprise Applications.",
+        "authors": [
+          "Md Mahir Asef Kabir",
+          "Xiaoyin Wang",
+          "Na Meng"
+        ]
+      },
+      {
+        "title": "DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models.",
+        "authors": [
+          "Xing Su",
+          "Hanzhong Liang",
+          "Hao Wu",
+          "Ben Niu",
+          "Fengyuan Xu",
+          "Sheng Zhong"
+        ]
+      },
+      {
+        "title": "VulPA: Detecting Semantically Recurring Vulnerabilities with Multi-object Typestate Analysis.",
+        "authors": [
+          "Liqing Cao",
+          "Haofeng Li",
+          "Chenghang Shi",
+          "Jie Lu",
+          "Haining Meng",
+          "Lian Li",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "Expressing and Checking Statistical Assumptions.",
+        "authors": [
+          "Alexi Turcotte",
+          "Zheyuan Wu"
+        ]
+      },
+      {
+        "title": "A New Approach to Evaluating Nullability Inference Tools.",
+        "authors": [
+          "Nima Karimipour",
+          "Erfan Arvan",
+          "Martin Kellogg",
+          "Manu Sridharan"
+        ]
+      },
+      {
+        "title": "Understanding and Characterizing Mock Assertions in Unit Tests.",
+        "authors": [
+          "Hengcheng Zhu",
+          "Valerio Terragni",
+          "Lili Wei",
+          "Shing-Chi Cheung",
+          "Jiarong Wu",
+          "Yepang Liu"
+        ]
+      },
+      {
+        "title": "MendelFuzz: The Return of the Deterministic Stage.",
+        "authors": [
+          "Han Zheng",
+          "Flavio Toffalini",
+          "Marcel Böhme",
+          "Mathias Payer"
+        ]
+      },
+      {
+        "title": "RePurr: Automated Repair of Block-Based Learners' Programs.",
+        "authors": [
+          "Sebastian Schweikl",
+          "Gordon Fraser"
+        ]
+      },
+      {
+        "title": "LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance.",
+        "authors": [
+          "Chenxu Wang",
+          "Tianming Liu",
+          "Yanjie Zhao",
+          "Minghui Yang",
+          "Haoyu Wang"
+        ]
+      },
+      {
+        "title": "Zero-Shot Cross-Domain Code Search without Fine-Tuning.",
+        "authors": [
+          "Keyu Liang",
+          "Zhongxin Liu",
+          "Chao Liu",
+          "Zhiyuan Wan",
+          "David Lo",
+          "Xiaohu Yang"
+        ]
+      },
+      {
+        "title": "Divide-and-Conquer: Generating UI Code from Screenshots.",
+        "authors": [
+          "Yuxuan Wan",
+          "Chaozheng Wang",
+          "Yi Dong",
+          "Wenxuan Wang",
+          "Shuqing Li",
+          "Yintong Huo",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "No More Labelled Examples? An Unsupervised Log Parser with LLMs.",
+        "authors": [
+          "Junjie Huang",
+          "Zhihan Jiang",
+          "Zhuangbin Chen",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "On-Demand Scenario Generation for Testing Automated Driving Systems.",
+        "authors": [
+          "Songyang Yan",
+          "Xiaodong Zhang",
+          "Kunkun Hao",
+          "Haojie Xin",
+          "Yonggang Luo",
+          "Jucheng Yang",
+          "Ming Fan",
+          "Chao Yang",
+          "Jun Sun",
+          "Zijiang Yang"
+        ]
+      },
+      {
+        "title": "Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts.",
+        "authors": [
+          "Zexu Wang",
+          "Jiachi Chen",
+          "Tao Zhang",
+          "Yu Zhang",
+          "Weizhe Zhang",
+          "Yuming Feng",
+          "Zibin Zheng"
+        ]
+      },
+      {
+        "title": "Enhanced Prompting Framework for Code Summarization with Large Language Models.",
+        "authors": [
+          "Minying Fang",
+          "Xing Yuan",
+          "Yuying Li",
+          "Haojie Li",
+          "Chunrong Fang",
+          "Junwei Du"
+        ]
+      },
+      {
+        "title": "ConTested: Consistency-Aided Tested Code Generation with LLM.",
+        "authors": [
+          "Jinhao Dong",
+          "Jun Sun",
+          "Wenjie Zhang",
+          "Jin Song Dong",
+          "Dan Hao"
+        ]
+      },
+      {
+        "title": "PatchScope: LLM-Enhanced Fine-Grained Stable Patch Classification for Linux Kernel.",
+        "authors": [
+          "Rongkai Liu",
+          "Heyuan Shi",
+          "Shuning Liu",
+          "Chao Hu",
+          "Sisheng Li",
+          "Yuheng Shen",
+          "Runzhe Wang",
+          "Xiaohai Shi",
+          "Yu Jiang"
+        ]
+      },
+      {
+        "title": "Causality-Aided Evaluation and Explanation of Large Language Model-Based Code Generation.",
+        "authors": [
+          "Zhenlan Ji",
+          "Pingchuan Ma",
+          "Zongjie Li",
+          "Zhaoyu Wang",
+          "Shuai Wang"
+        ]
+      },
+      {
+        "title": "MLLM-Based UI2Code Automation Guided by UI Layout Information.",
+        "authors": [
+          "Fan Wu",
+          "Cuiyun Gao",
+          "Shuqing Li",
+          "Xin-Cheng Wen",
+          "Qing Liao"
+        ]
+      },
+      {
+        "title": "LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models.",
+        "authors": [
+          "Lingxiao Tang",
+          "Jiakun Liu",
+          "Zhongxin Liu",
+          "Xiaohu Yang",
+          "Lingfeng Bao"
+        ]
+      },
+      {
+        "title": "Incremental Verification of Concurrent Programs through Refinement Constraint Adaptation.",
+        "authors": [
+          "Liangze Yin",
+          "Yiwei Li",
+          "Kun Chen",
+          "Wei Dong",
+          "Ji Wang"
+        ]
+      },
+      {
+        "title": "The Incredible Shrinking Context... in a Decompiler Near You.",
+        "authors": [
+          "Sifis Lagouvardos",
+          "Yannis Bollanos",
+          "Neville Grech",
+          "Yannis Smaragdakis"
+        ]
+      },
+      {
+        "title": "FreeWavm: Enhanced WebAssembly Runtime Fuzzing Guided by Parse Tree Mutation and Snapshot.",
+        "authors": [
+          "Peng Qian",
+          "Xinlei Ying",
+          "Jiashui Wang",
+          "Long Liu",
+          "Lun Zhang",
+          "Jianhai Chen",
+          "Qinming He"
+        ]
+      },
+      {
+        "title": "Bridging the Gaps between Graph Neural Networks and Data-Flow Analysis: The Closer, the Better.",
+        "authors": [
+          "Qingchen Yu",
+          "Xin Liu",
+          "Qingguo Zhou",
+          "Chunming Wu"
+        ]
+      },
+      {
+        "title": "An Investigation on Numerical Bugs in GPU Programs Towards Automated Bug Detection.",
+        "authors": [
+          "Ravishka Rathnasuriya",
+          "Nidhi Majoju",
+          "Zihe Song",
+          "Wei Yang"
+        ]
+      },
+      {
+        "title": "Program Feature-Based Benchmarking for Fuzz Testing.",
+        "authors": [
+          "Miao Miao",
+          "Sriteja Kummita",
+          "Eric Bodden",
+          "Shiyi Wei"
+        ]
+      },
+      {
+        "title": "Tratto: A Neuro-Symbolic Approach to Deriving Axiomatic Test Oracles.",
+        "authors": [
+          "Davide Molinelli",
+          "Alberto Martin-Lopez",
+          "Elliott Zackrone",
+          "Beyza Eken",
+          "Michael D. Ernst",
+          "Mauro Pezzè"
+        ]
+      },
+      {
+        "title": "Static Program Reduction via Type-Directed Slicing.",
+        "authors": [
+          "Loi Ngo Duc Nguyen",
+          "Tahiatul Islam",
+          "Theron Wang",
+          "Sam Lenz",
+          "Martin Kellogg"
+        ]
+      },
+      {
+        "title": "BinQuery: A Novel Framework for Natural Language-Based Binary Code Retrieval.",
+        "authors": [
+          "Bolun Zhang",
+          "Zeyu Gao",
+          "Hao Wang",
+          "Yuxin Cui",
+          "Siliang Qin",
+          "Chao Zhang",
+          "Kai Chen",
+          "Beibei Zhao"
+        ]
+      },
+      {
+        "title": "Walls Have Ears: Demystifying Notification Listener Usage in Android Apps.",
+        "authors": [
+          "Jiapeng Deng",
+          "Tianming Liu",
+          "Yanjie Zhao",
+          "Chao Wang",
+          "Lin Zhang",
+          "Haoyu Wang"
+        ]
+      },
+      {
+        "title": "SWE-GPT: A Process-Centric Language Model for Automated Software Improvement.",
+        "authors": [
+          "Yingwei Ma",
+          "Rongyu Cao",
+          "Yongchang Cao",
+          "Yue Zhang",
+          "Jue Chen",
+          "Yibo Liu",
+          "Yuchen Liu",
+          "Binhua Li",
+          "Fei Huang",
+          "Yongbin Li"
+        ]
+      },
+      {
+        "title": "Pepper: Preference-Aware Active Trapping for Ransomware.",
+        "authors": [
+          "Huan Zhang",
+          "Zhengkai Qin",
+          "Lixin Zhao",
+          "Aimin Yu",
+          "Lijun Cai",
+          "Dan Meng"
+        ]
+      },
+      {
+        "title": "Porting Software Libraries to OpenHarmony: Transitioning from TypeScript or JavaScript to ArkTS.",
+        "authors": [
+          "Bo Zhou",
+          "Jiaqi Shi",
+          "Ying Wang",
+          "Li Li",
+          "Tsz On Li",
+          "Hai Yu",
+          "Zhiliang Zhu"
+        ]
+      },
+      {
+        "title": "Tracezip: Efficient Distributed Tracing via Trace Compression.",
+        "authors": [
+          "Zhuangbin Chen",
+          "Junsong Pu",
+          "Zibin Zheng"
+        ]
+      },
+      {
+        "title": "Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection.",
+        "authors": [
+          "Lei Yu",
+          "Zhirong Huang",
+          "Hang Yuan",
+          "Shiqi Cheng",
+          "Li Yang",
+          "Fengjun Zhang",
+          "Chenjie Shen",
+          "Jiajia Ma",
+          "Jingyuan Zhang",
+          "Junyi Lu",
+          "Chun Zuo"
+        ]
+      },
+      {
+        "title": "Automated Test Transfer across Android Apps using Large Language Models.",
+        "authors": [
+          "Benyamin Beyzaei",
+          "Saghar Talebipour",
+          "Ghazal Rafiei",
+          "Nenad Medvidovic",
+          "Sam Malek"
+        ]
+      },
+      {
+        "title": "DataHook: An Efficient and Lightweight System Call Hooking Technique without Instruction Modification.",
+        "authors": [
+          "Quan Hong",
+          "Jiaqi Li",
+          "Wen Zhang",
+          "Lidong Zhai"
+        ]
+      },
+      {
+        "title": "OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution.",
+        "authors": [
+          "Lianghong Guo",
+          "Wei Tao",
+          "Runhan Jiang",
+          "Yanlin Wang",
+          "Jiachi Chen",
+          "Xilin Liu",
+          "Yuchi Ma",
+          "Mingzhi Mao",
+          "Hongyu Zhang",
+          "Zibin Zheng"
+        ]
+      },
+      {
+        "title": "STRUT: Structured Seed Case Guided Unit Test Generation for C Programs using LLMs.",
+        "authors": [
+          "Jinwei Liu",
+          "Chao Li",
+          "Rui Chen",
+          "Shaofeng Li",
+          "Bin Gu",
+          "Mengfei Yang"
+        ]
+      },
+      {
+        "title": "Freesia: Verifying Correctness of TEE Communication with Concurrent Separation Logic.",
+        "authors": [
+          "Fanlang Zeng",
+          "Rui Chang",
+          "Hongjian Liu"
+        ]
+      },
+      {
+        "title": "Automated Attack Synthesis for Constant Product Market Makers.",
+        "authors": [
+          "Sujin Han",
+          "Jinseo Kim",
+          "Sung-Ju Lee",
+          "Insu Yun"
+        ]
+      },
+      {
+        "title": "GUIPilot: A Consistency-Based Mobile GUI Testing Approach for Detecting Application-Specific Bugs.",
+        "authors": [
+          "Ruofan Liu",
+          "Xiwen Teoh",
+          "Yun Lin",
+          "Guanjie Chen",
+          "Ruofei Ren",
+          "Denys Poshyvanyk",
+          "Jin Song Dong"
+        ]
+      },
+      {
+        "title": "VerLog: Enhancing Release Note Generation for Android Apps using Large Language Models.",
+        "authors": [
+          "Jiawei Guo",
+          "Haoran Yang",
+          "Haipeng Cai"
+        ]
+      },
+      {
+        "title": "Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-Based RAG.",
+        "authors": [
+          "Zhiyu Zhang",
+          "Longxing Li",
+          "Ruigang Liang",
+          "Kai Chen"
+        ]
+      },
+      {
+        "title": "Hulk: Exploring Data-Sensitive Performance Anomalies in DBMSs via Data-Driven Analysis.",
+        "authors": [
+          "Zhiyong Wu",
+          "Jie Liang",
+          "Jingzhou Fu",
+          "Mingzhe Wang",
+          "Yu Jiang"
+        ]
+      },
+      {
+        "title": "DepState: Detecting Synchronization Failure Bugs in Distributed Database Management Systems.",
+        "authors": [
+          "Cundi Fang",
+          "Jie Liang",
+          "Zhiyong Wu",
+          "Jingzhou Fu",
+          "Zhouyang Jia",
+          "Chun Huang",
+          "Yu Jiang",
+          "Shanshan Li"
+        ]
+      },
+      {
+        "title": "Finding 709 Defects in 258 Projects: An Experience Report on Applying CodeQL to Open-Source Embedded Software (Experience Paper).",
+        "authors": [
+          "Mingjie Shen",
+          "Akul Abhilash Pillai",
+          "Brian A. Yuan",
+          "James C. Davis",
+          "Aravind Machiry"
+        ]
+      },
+      {
+        "title": "KRAKEN: Program-Adaptive Parallel Fuzzing.",
+        "authors": [
+          "Anshunkang Zhou",
+          "Heqing Huang",
+          "Charles Zhang"
+        ]
+      },
+      {
+        "title": "Enhancing Vulnerability Detection via Inter-procedural Semantic Completion.",
+        "authors": [
+          "Bozhi Wu",
+          "Chengjie Liu",
+          "Zhiming Li",
+          "Yushi Cao",
+          "Jun Sun",
+          "Shangwei Lin"
+        ]
+      },
+      {
+        "title": "More Effective JavaScript Breaking Change Detection via Dynamic Object Relation Graph.",
+        "authors": [
+          "Dezhen Kong",
+          "Jiakun Liu",
+          "Chao Ni",
+          "David Lo",
+          "Lingfeng Bao"
+        ]
+      },
+      {
+        "title": "Productively Deploying Emerging Models on Emerging Platforms: A Top-Down Approach for Testing and Debugging.",
+        "authors": [
+          "Siyuan Feng",
+          "Jiawei Liu",
+          "Ruihang Lai",
+          "Charlie Ruan",
+          "Yong Yu",
+          "Lingming Zhang",
+          "Tianqi Chen"
+        ]
+      },
+      {
+        "title": "Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection.",
+        "authors": [
+          "Haodong Li",
+          "Xiao Cheng",
+          "Yanjie Zhao",
+          "Guosheng Xu",
+          "Guoai Xu",
+          "Haoyu Wang"
+        ]
+      },
+      {
+        "title": "MoDitector: Module-Directed Testing for Autonomous Driving Systems.",
+        "authors": [
+          "Renzhi Wang",
+          "Mingfei Cheng",
+          "Xiaofei Xie",
+          "Yuan Zhou",
+          "Lei Ma"
+        ]
+      },
+      {
+        "title": "ICEPRE: ICS Protocol Reverse Engineering via Data-Driven Concolic Execution.",
+        "authors": [
+          "Yibo Qu",
+          "Dongliang Fang",
+          "Zhen Wang",
+          "Jiaxing Cheng",
+          "Shuaizong Si",
+          "Yongle Chen",
+          "Limin Sun"
+        ]
+      },
+      {
+        "title": "You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects.",
+        "authors": [
+          "Islem Bouzenia",
+          "Michael Pradel"
+        ]
+      },
+      {
+        "title": "Dynamically Fusing Python HPC Kernels.",
+        "authors": [
+          "Nader Al Awar",
+          "Muhammad Hannan Naeem",
+          "James Almgren-Bell",
+          "George Biros",
+          "Milos Gligoric"
+        ]
+      },
+      {
+        "title": "Validating Network Protocol Parsers with Traceable RFC Document Interpretation.",
+        "authors": [
+          "Mingwei Zheng",
+          "Danning Xie",
+          "Qingkai Shi",
+          "Chengpeng Wang",
+          "Xiangyu Zhang"
+        ]
+      },
+      {
+        "title": "Reinforcement Learning-Based Fuzz Testing for the Gazebo Robotic Simulator.",
+        "authors": [
+          "Zhilei Ren",
+          "Yitao Li",
+          "Xiaochen Li",
+          "Guanxiao Qi",
+          "Jifeng Xuan",
+          "He Jiang"
+        ]
+      },
+      {
+        "title": "BinDSA: Efficient, Precise Binary-Level Pointer Analysis with Context-Sensitive Heap Reconstruction.",
+        "authors": [
+          "Lian Gao",
+          "Heng Yin"
+        ]
+      },
+      {
+        "title": "LogBase: A Large-Scale Benchmark for Semantic Log Parsing.",
+        "authors": [
+          "Chenbo Zhang",
+          "Wenying Xu",
+          "Jinbu Liu",
+          "Lu Zhang",
+          "Guiyang Liu",
+          "Jihong Guan",
+          "Qi Zhou",
+          "Shuigeng Zhou"
+        ]
+      },
+      {
+        "title": "xFUZZ: A Flexible Framework for Fine-Grained, Runtime-Adaptive Fuzzing Strategy Composition.",
+        "authors": [
+          "Dongsong Yu",
+          "Yiyi Wang",
+          "Chao Zhang",
+          "Yang Lan",
+          "Zhiyuan Jiang",
+          "Shuitao Gan",
+          "Zheyu Ma",
+          "Wende Tan"
+        ]
+      },
+      {
+        "title": "Gamifying Testing in IntelliJ: A Replicability Study.",
+        "authors": [
+          "Philipp Straubinger",
+          "Tommaso Fulcini",
+          "Giacomo Garaccione",
+          "Luca Ardito",
+          "Gordon Fraser"
+        ]
+      },
+      {
+        "title": "Preventing Disruption of System Backup against Ransomware Attacks.",
+        "authors": [
+          "Yiwei Hou",
+          "Lihua Guo",
+          "Chijin Zhou",
+          "Quan Zhang",
+          "Wenhuan Liu",
+          "Chengnian Sun",
+          "Yu Jiang"
+        ]
+      },
+      {
+        "title": "Fairness Mediator: Neutralize Stereotype Associations to Mitigate Bias in Large Language Models.",
+        "authors": [
+          "Yisong Xiao",
+          "Aishan Liu",
+          "Siyuan Liang",
+          "Xianglong Liu",
+          "Dacheng Tao"
+        ]
+      },
+      {
+        "title": "Uncovering API-Scope Misalignment in the App-in-App Ecosystem.",
+        "authors": [
+          "Jiarui Che",
+          "Chenkai Guo",
+          "Naipeng Dong",
+          "Jiaqi Pei",
+          "Lingling Fan",
+          "Xun Mi",
+          "Xueshuo Xie",
+          "Xiangyang Luo",
+          "Zheli Liu",
+          "Renhong Cheng"
+        ]
+      },
+      {
+        "title": "DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code.",
+        "authors": [
+          "Wai Kin Wong",
+          "Daoyuan Wu",
+          "Huaijin Wang",
+          "Zongjie Li",
+          "Zhibo Liu",
+          "Shuai Wang",
+          "Qiyi Tang",
+          "Sen Nie",
+          "Shi Wu"
+        ]
+      },
+      {
+        "title": "Beyond Static Pattern Matching? Rethinking Automatic Cryptographic API Misuse Detection in the Era of LLMs.",
+        "authors": [
+          "Yifan Xia",
+          "Zichen Xie",
+          "Peiyu Liu",
+          "Kangjie Lu",
+          "Yan Liu",
+          "Wenhai Wang",
+          "Shouling Ji"
+        ]
+      },
+      {
+        "title": "The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation.",
+        "authors": [
+          "Yingjie Fu",
+          "Bozhou Li",
+          "Linyi Li",
+          "Wentao Zhang",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine.",
+        "authors": [
+          "Jie Ma",
+          "Ningyu He",
+          "Jinwen Xi",
+          "Mingzhe Xing",
+          "Haoyu Wang",
+          "Ying Gao",
+          "Yinliang Yue"
+        ]
+      },
+      {
+        "title": "FANDANGO: Evolving Language-Based Testing.",
+        "authors": [
+          "José Antonio Zamudio Amaya",
+          "Marius Smytzek",
+          "Andreas Zeller"
+        ]
+      },
+      {
+        "title": "WildSync: Automated Fuzzing Harness Synthesis via Wild API Usage Recovery.",
+        "authors": [
+          "Wei-Cheng Wu",
+          "Stefan Nagy",
+          "Christophe Hauser"
+        ]
+      },
+      {
+        "title": "AudioTest: Prioritizing Audio Test Cases.",
+        "authors": [
+          "Yinghua Li",
+          "Xueqi Dang",
+          "Wendkûuni C. Ouédraogo",
+          "Jacques Klein",
+          "Tegawendé F. Bissyandé"
+        ]
+      },
+      {
+        "title": "What Happened in This Pipeline? Diffing Build Logs with CiDiff.",
+        "authors": [
+          "Nicolas Hubner",
+          "Jean-Rémy Falleri",
+          "Raluca Uricaru",
+          "Thomas Degueule",
+          "Thomas Durieux"
+        ]
+      },
+      {
+        "title": "Detecting Isolation Anomalies in Relational DBMSs.",
+        "authors": [
+          "Rui Yang",
+          "Ziyu Cui",
+          "Wensheng Dou",
+          "Yu Gao",
+          "Jiansen Song",
+          "Xudong Xie",
+          "Jun Wei"
+        ]
+      },
+      {
+        "title": "DeCoMa: Detecting and Purifying Code Dataset Watermarks through Dual Channel Code Abstraction.",
+        "authors": [
+          "Yuan Xiao",
+          "Yuchen Chen",
+          "Shiqing Ma",
+          "Haocheng Huang",
+          "Chunrong Fang",
+          "Yanwei Chen",
+          "Weisong Sun",
+          "Yunfeng Zhu",
+          "Xiaofang Zhang",
+          "Zhenyu Chen"
+        ]
+      },
+      {
+        "title": "Can LLMs Replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering.",
+        "authors": [
+          "Ruiqi Wang",
+          "Jiyu Guo",
+          "Cuiyun Gao",
+          "Guodong Fan",
+          "Chun Yong Chong",
+          "Xin Xia"
+        ]
+      },
+      {
+        "title": "Understanding Practitioners' Expectations on Clear Code Review Comments.",
+        "authors": [
+          "Junkai Chen",
+          "Zhenhao Li",
+          "Qiheng Mao",
+          "Xing Hu",
+          "Kui Liu",
+          "Xin Xia"
+        ]
+      },
+      {
+        "title": "ZTaint-Havoc: From Havoc Mode to Zero-Execution Fuzzing-Driven Taint Inference.",
+        "authors": [
+          "Yuchong Xie",
+          "Wenhui Zhang",
+          "Dongdong She"
+        ]
+      },
+      {
+        "title": "Are Autonomous Web Agents Good Testers?",
+        "authors": [
+          "Antoine Chevrot",
+          "Alexandre Vernotte",
+          "Jean-Rémy Falleri",
+          "Xavier Blanc",
+          "Bruno Legeard",
+          "Aymeric Cretin"
+        ]
+      },
+      {
+        "title": "Assessing Scene Generation Techniques for Testing COLREGS-Compliance of Autonomous Surface Vehicles.",
+        "authors": [
+          "Dominik Frey",
+          "Ulf Kargén",
+          "Dániel Varró"
+        ]
+      },
+      {
+        "title": "AdverIntent-Agent: Adversarial Reasoning for Repair Based on Inferred Program Intent.",
+        "authors": [
+          "He Ye",
+          "Aidan Z. H. Yang",
+          "Chang Hu",
+          "Yanlin Wang",
+          "Tao Zhang",
+          "Claire Le Goues"
+        ]
+      },
+      {
+        "title": "Intention-Based GUI Test Migration for Mobile Apps using Large Language Models.",
+        "authors": [
+          "Shaoheng Cao",
+          "Minxue Pan",
+          "Yuanhong Lan",
+          "Xuandong Li"
+        ]
+      },
+      {
+        "title": "CrossProbe: LLM-Empowered Cross-Project Bug Detection for Deep Learning Frameworks.",
+        "authors": [
+          "Hao Guan",
+          "Guangdong Bai",
+          "Yepang Liu"
+        ]
+      },
+      {
+        "title": "Program Analysis Combining Generalized Bit-Level and Word-Level Abstractions.",
+        "authors": [
+          "Guangsheng Fan",
+          "Liqian Chen",
+          "Banghu Yin",
+          "Wenyu Zhang",
+          "Peisen Yao",
+          "Ji Wang"
+        ]
+      },
+      {
+        "title": "Model Checking Guided Incremental Testing for Distributed Systems.",
+        "authors": [
+          "Yu Gao",
+          "Dong Wang",
+          "Wensheng Dou",
+          "Wenhan Feng",
+          "Yu Liang",
+          "Yuan Feng",
+          "Jun Wei"
+        ]
+      },
+      {
+        "title": "ClassEval-T: Evaluating Large Language Models in Class-Level Code Translation.",
+        "authors": [
+          "Pengyu Xue",
+          "Linhao Wu",
+          "Zhen Yang",
+          "Chengyi Wang",
+          "Xiang Li",
+          "Yuxiang Zhang",
+          "Jia Li",
+          "Ruikai Jin",
+          "Yifei Pei",
+          "Zhaoyan Shen",
+          "Xiran Lyu",
+          "Jacky Wai Keung"
+        ]
+      },
+      {
+        "title": "Adding Spatial Memory Safety to EDK II through Checked C (Experience Paper).",
+        "authors": [
+          "Sourag Cherupattamoolayil",
+          "Arunkumar Bhattar",
+          "Connor Glosner",
+          "Aravind Machiry"
+        ]
+      },
+      {
+        "title": "Protecting Privacy in Software Logs: What Should Be Anonymized?",
+        "authors": [
+          "Roozbeh Aghili",
+          "Heng Li",
+          "Foutse Khomh"
+        ]
+      },
+      {
+        "title": "Improving Graph Learning-Based Fault Localization with Tailored Semi-supervised Learning.",
+        "authors": [
+          "Chun Li",
+          "Hui Li",
+          "Zhong Li",
+          "Minxue Pan",
+          "Xuandong Li"
+        ]
+      },
+      {
+        "title": "Type-Alias Analysis: Enabling LLVM IR with Accurate Types.",
+        "authors": [
+          "Jinmeng Zhou",
+          "Ziyue Pan",
+          "Wenbo Shen",
+          "Xingkai Wang",
+          "Kangjie Lu",
+          "Zhiyun Qian"
+        ]
+      },
+      {
+        "title": "SoK: A Taxonomic Analysis of DeFi Rug Pulls: Types, Dataset, and Tool Assessment.",
+        "authors": [
+          "Dianxiang Sun",
+          "Wei Ma",
+          "Liming Nie",
+          "Yang Liu"
+        ]
+      },
+      {
+        "title": "A Low-Cost Feature Interaction Fault Localization Approach for Software Product Lines.",
+        "authors": [
+          "Haining Wang",
+          "Yi Xiang",
+          "Han Huang",
+          "Jie Cao",
+          "Kaichen Chen",
+          "Xiaowei Yang"
+        ]
+      },
+      {
+        "title": "Effective REST APIs Testing with Error Message Analysis.",
+        "authors": [
+          "Lixin Xu",
+          "Huayao Wu",
+          "Zhenyu Pan",
+          "Tongtong Xu",
+          "Shaohua Wang",
+          "Xintao Niu",
+          "Changhai Nie"
+        ]
+      },
+      {
+        "title": "Rethinking Performance Analysis for Configurable Software Systems: A Case Study from a Fitness Landscape Perspective.",
+        "authors": [
+          "Mingyu Huang",
+          "Peili Mao",
+          "Ke Li"
+        ]
+      },
+      {
+        "title": "NADA: Neural Acceptance-Driven Approximate Specification Mining.",
+        "authors": [
+          "Weilin Luo",
+          "Tingchen Han",
+          "Junming Qiu",
+          "Hai Wan",
+          "Jianfeng Du",
+          "Bo Peng",
+          "Guohui Xiao",
+          "Yanan Liu"
+        ]
+      },
+      {
+        "title": "LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation.",
+        "authors": [
+          "Ziyao Zhang",
+          "Chong Wang",
+          "Yanlin Wang",
+          "Ensheng Shi",
+          "Yuchi Ma",
+          "Wanjun Zhong",
+          "Jiachi Chen",
+          "Mingzhi Mao",
+          "Zibin Zheng"
+        ]
+      },
+      {
+        "title": "REACCEPT: Automated Co-evolution of Production and Test Code Based on Dynamic Validation and Large Language Models.",
+        "authors": [
+          "Jianlei Chi",
+          "Xiaotian Wang",
+          "Yuhan Huang",
+          "Lechen Yu",
+          "Di Cui",
+          "Jianguo Sun",
+          "Jun Sun"
+        ]
+      },
+      {
+        "title": "ALMOND: Learning an Assembly Language Model for 0-Shot Code Obfuscation Detection.",
+        "authors": [
+          "Xuezixiang Li",
+          "Sheng Yu",
+          "Heng Yin"
+        ]
+      },
+      {
+        "title": "Recurring Vulnerability Detection: How Far Are We?",
+        "authors": [
+          "Yiheng Cao",
+          "Susheng Wu",
+          "Ruisi Wang",
+          "Bihuan Chen",
+          "Yiheng Huang",
+          "Chenhao Lu",
+          "Zhuotong Zhou",
+          "Xin Peng"
+        ]
+      },
+      {
+        "title": "S-Eval: Towards Automated and Comprehensive Safety Evaluation for Large Language Models.",
+        "authors": [
+          "Xiaohan Yuan",
+          "Jinfeng Li",
+          "Dongxia Wang",
+          "Yuefeng Chen",
+          "Xiaofeng Mao",
+          "Longtao Huang",
+          "Jialuo Chen",
+          "Hui Xue",
+          "Xiaoxia Liu",
+          "Wenhai Wang",
+          "Kui Ren",
+          "Jingyi Wang"
+        ]
+      },
+      {
+        "title": "GoPV: Detecting Blocking Concurrency Bugs Related to Shared-Memory Synchronization in Go.",
+        "authors": [
+          "Wei Song",
+          "Xiaofan Xu",
+          "Jeff Huang"
+        ]
+      },
+      {
+        "title": "No Bias Left Behind: Fairness Testing for Deep Recommender Systems Targeting General Disadvantaged Groups.",
+        "authors": [
+          "Zhuo Wu",
+          "Zan Wang",
+          "Chuan Luo",
+          "Xiaoning Du",
+          "Junjie Chen"
+        ]
+      },
+      {
+        "title": "Clause2Inv: A Generate-Combine-Check Framework for Loop Invariant Inference.",
+        "authors": [
+          "Weining Cao",
+          "Guangyuan Wu",
+          "Tangzhi Xu",
+          "Yuan Yao",
+          "Hengfeng Wei",
+          "Taolue Chen",
+          "Xiaoxing Ma"
+        ]
+      },
+      {
+        "title": "Structure-Aware, Diagnosis-Guided ECU Firmware Fuzzing.",
+        "authors": [
+          "Qicai Chen",
+          "Kun Hu",
+          "Sichen Gong",
+          "Bihuan Chen",
+          "Zikui Kong",
+          "Haowen Jiang",
+          "Bingkun Sun",
+          "You Lu",
+          "Xin Peng"
+        ]
+      },
+      {
+        "title": "KEENHash: Hashing Programs into Function-Aware Embeddings for Large-Scale Binary Code Similarity Analysis.",
+        "authors": [
+          "Zhijie Liu",
+          "Qiyi Tang",
+          "Sen Nie",
+          "Shi Wu",
+          "Liang Feng Zhang",
+          "Yutian Tang"
+        ]
+      },
+      {
+        "title": "QTRAN: Extending Metamorphic-Oracle Based Logical Bug Detection Techniques for Multiple-DBMS Dialect Support.",
+        "authors": [
+          "Li Lin",
+          "Qinglin Zhu",
+          "Hongqiao Chen",
+          "Zhuangda Wang",
+          "Rongxin Wu",
+          "Xiaoheng Xie"
+        ]
+      },
+      {
+        "title": "Extended Reality Cybersickness Assessment via User Review Analysis.",
+        "authors": [
+          "Shuqing Li",
+          "Qisheng Zheng",
+          "Cuiyun Gao",
+          "Jia Feng",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "Improving Deep Learning Framework Testing with Model-Level Metamorphic Testing.",
+        "authors": [
+          "Yanzhou Mu",
+          "Juan Zhai",
+          "Chunrong Fang",
+          "Xiang Chen",
+          "Zhixiang Cao",
+          "Peiran Yang",
+          "Kexin Zhao",
+          "An Guo",
+          "Zhenyu Chen"
+        ]
+      },
+      {
+        "title": "RouthSearch: Inferring PID Parameter Specification for Flight Control Program by Coordinate Search.",
+        "authors": [
+          "Siao Wang",
+          "Zhen Dong",
+          "Hui Li",
+          "Liwei Shen",
+          "Xin Peng",
+          "Dongdong She"
+        ]
+      },
+      {
+        "title": "Robust Vulnerability Detection across Compilations: LLVM-IR vs. Assembly with Transformer Model.",
+        "authors": [
+          "Rony Shir",
+          "Priyanka Prakash Surve",
+          "Yuval Elovici",
+          "Asaf Shabtai"
+        ]
+      },
+      {
+        "title": "Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection.",
+        "authors": [
+          "Niklas Risse",
+          "Jing Liu",
+          "Marcel Böhme"
+        ]
+      },
+      {
+        "title": "Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-orchestration.",
+        "authors": [
+          "Zhiling Zhu",
+          "Tieming Chen",
+          "Chengwei Liu",
+          "Han Liu",
+          "Qijie Song",
+          "Zhengzi Xu",
+          "Yang Liu"
+        ]
+      },
+      {
+        "title": "A Large-Scale Empirical Study on Fine-Tuning Large Language Models for Unit Testing.",
+        "authors": [
+          "Ye Shang",
+          "Quanjun Zhang",
+          "Chunrong Fang",
+          "Siqi Gu",
+          "Jianyi Zhou",
+          "Zhenyu Chen"
+        ]
+      },
+      {
+        "title": "Bridge the Islands: Pointer Analysis for Microservice Systems.",
+        "authors": [
+          "Teng Zhang",
+          "Yufei Liang",
+          "Ganlin Li",
+          "Tian Tan",
+          "Chang Xu",
+          "Yue Li"
+        ]
+      },
+      {
+        "title": "TerzoN: Human-in-the-Loop Software Testing with a Composite Oracle.",
+        "authors": [
+          "Matthew C. Davis",
+          "Amy Wei",
+          "Brad A. Myers",
+          "Joshua Sunshine"
+        ]
+      },
+      {
+        "title": "Testing the Fault-Tolerance of Multi-sensor Fusion Perception in Autonomous Driving Systems.",
+        "authors": [
+          "Haoxiang Tian",
+          "Wenqiang Ding",
+          "Xingshuo Han",
+          "Guoquan Wu",
+          "An Guo",
+          "Junqi Zhang",
+          "Wei Chen",
+          "Jun Wei",
+          "Tianwei Zhang"
+        ]
+      },
+      {
+        "title": "Identifying Multi-parameter Constraint Errors in Python Data Science Library API Documentation.",
+        "authors": [
+          "Xiufeng Xu",
+          "Fuman Xie",
+          "Chenguang Zhu",
+          "Guangdong Bai",
+          "Sarfraz Khurshid",
+          "Yi Li"
+        ]
+      },
+      {
+        "title": "Wemby's Web: Hunting for Memory Corruption in WebAssembly.",
+        "authors": [
+          "Oussama Draissi",
+          "Tobias Cloosters",
+          "David Klein",
+          "Michael Rodler",
+          "Marius Musch",
+          "Martin Johns",
+          "Lucas Davi"
+        ]
+      },
+      {
+        "title": "Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management.",
+        "authors": [
+          "Lyuye Zhang",
+          "Jiahui Wu",
+          "Chengwei Liu",
+          "Kaixuan Li",
+          "Xiaoyu Sun",
+          "Lida Zhao",
+          "Chong Wang",
+          "Yang Liu"
+        ]
+      },
+      {
+        "title": "Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs.",
+        "authors": [
+          "Huan Li",
+          "Bei Wang",
+          "Xing Hu",
+          "Xin Xia"
+        ]
+      },
+      {
+        "title": "Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain.",
+        "authors": [
+          "Xiaoye Zheng",
+          "Zhiyuan Wan",
+          "David Lo",
+          "Difan Xie",
+          "Xiaohu Yang"
+        ]
+      },
+      {
+        "title": "Enhancing Smart Contract Security Analysis with Execution Property Graphs.",
+        "authors": [
+          "Kaihua Qin",
+          "Zhe Ye",
+          "Zhun Wang",
+          "Weilin Li",
+          "Liyi Zhou",
+          "Chao Zhang",
+          "Dawn Song",
+          "Arthur Gervais"
+        ]
+      },
+      {
+        "title": "Quantum Concolic Testing.",
+        "authors": [
+          "Shangzhou Xia",
+          "Jianjun Zhao",
+          "Fuyuan Zhang",
+          "Xiaoyu Guo"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/pacmse/pacmse1.html": {
+    "header": "Proceedings of the ACM on Software Engineering, Volume 1",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "JIT-Smart: A Multi-task Learning Framework for Just-in-Time Defect Prediction and Localization.",
+        "authors": [
+          "Xiangping Chen",
+          "Furen Xu",
+          "Yuan Huang",
+          "Neng Zhang",
+          "Zibin Zheng"
+        ]
+      },
+      {
+        "title": "ChangeRCA: Finding Root Causes from Software Changes in Large Online Systems.",
+        "authors": [
+          "Guangba Yu",
+          "Pengfei Chen",
+          "Zilong He",
+          "Qiuyu Yan",
+          "Yu Luo",
+          "Fangyuan Li",
+          "Zibin Zheng"
+        ]
+      },
+      {
+        "title": "Bin2Summary: Beyond Function Name Prediction in Stripped Binaries with Functionality-Specific Code Embeddings.",
+        "authors": [
+          "Zirui Song",
+          "Jiongyi Chen",
+          "Kehuan Zhang"
+        ]
+      },
+      {
+        "title": "Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications.",
+        "authors": [
+          "Keke Lian",
+          "Lei Zhang",
+          "Guangliang Yang",
+          "Shuo Mao",
+          "Xinjie Wang",
+          "Yuan Zhang",
+          "Min Yang"
+        ]
+      },
+      {
+        "title": "Characterizing Python Library Migrations.",
+        "authors": [
+          "Mohayeminul Islam",
+          "Ajay Kumar Jha",
+          "Ildar Akhmetov",
+          "Sarah Nadi"
+        ]
+      },
+      {
+        "title": "EyeTrans: Merging Human and Machine Attention for Neural Code Summarization.",
+        "authors": [
+          "Yifan Zhang",
+          "Jiliang Li",
+          "Zachary Karas",
+          "Aakash Bansal",
+          "Toby Jia-Jun Li",
+          "Collin McMillan",
+          "Kevin Leach",
+          "Yu Huang"
+        ]
+      },
+      {
+        "title": "LILAC: Log Parsing using LLMs with Adaptive Parsing Cache.",
+        "authors": [
+          "Zhihan Jiang",
+          "Jinyang Liu",
+          "Zhuangbin Chen",
+          "Yichen Li",
+          "Junjie Huang",
+          "Yintong Huo",
+          "Pinjia He",
+          "Jiazhen Gu",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts.",
+        "authors": [
+          "Zexu Wang",
+          "Jiachi Chen",
+          "Yanlin Wang",
+          "Yu Zhang",
+          "Weizhe Zhang",
+          "Zibin Zheng"
+        ]
+      },
+      {
+        "title": "IRCoCo: Immediate Rewards-Guided Deep Reinforcement Learning for Code Completion.",
+        "authors": [
+          "Bolun Li",
+          "Zhihong Sun",
+          "Tao Huang",
+          "Hongyu Zhang",
+          "Yao Wan",
+          "Ge Li",
+          "Zhi Jin",
+          "Chen Lyu"
+        ]
+      },
+      {
+        "title": "Shadows in the Interface: A Comprehensive Study on Dark Patterns.",
+        "authors": [
+          "Liming Nie",
+          "Yangyang Zhao",
+          "Chenglin Li",
+          "Xuqiong Luo",
+          "Yang Liu"
+        ]
+      },
+      {
+        "title": "ProveNFix: Temporal Property-Guided Program Repair.",
+        "authors": [
+          "Yahui Song",
+          "Xiang Gao",
+          "Wenhua Li",
+          "Wei-Ngan Chin",
+          "Abhik Roychoudhury"
+        ]
+      },
+      {
+        "title": "SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis.",
+        "authors": [
+          "Zeqin Liao",
+          "Yuhong Nan",
+          "Henglong Liang",
+          "Sicheng Hao",
+          "Juan Zhai",
+          "Jiajing Wu",
+          "Zibin Zheng"
+        ]
+      },
+      {
+        "title": "Predictive Program Slicing via Execution Knowledge-Guided Dynamic Dependence Learning.",
+        "authors": [
+          "Aashish Yadavally",
+          "Yi Li",
+          "Tien N. Nguyen"
+        ]
+      },
+      {
+        "title": "PBE-Based Selective Abstraction and Refinement for Efficient Property Falsification of Embedded Software.",
+        "authors": [
+          "Yoel Kim",
+          "Yunja Choi"
+        ]
+      },
+      {
+        "title": "Evaluating Directed Fuzzers: Are We Heading in the Right Direction?",
+        "authors": [
+          "Tae Eun Kim",
+          "Jaeseung Choi",
+          "Seongjae Im",
+          "Kihong Heo",
+          "Sang Kil Cha"
+        ]
+      },
+      {
+        "title": "DyPyBench: A Benchmark of Executable Python Software.",
+        "authors": [
+          "Islem Bouzenia",
+          "Bajaj Piyush Krishan",
+          "Michael Pradel"
+        ]
+      },
+      {
+        "title": "Predicting Configuration Performance in Multiple Environments with Sequential Meta-Learning.",
+        "authors": [
+          "Jingzhi Gong",
+          "Tao Chen"
+        ]
+      },
+      {
+        "title": "R2I: A Relative Readability Metric for Decompiled Code.",
+        "authors": [
+          "Haeun Eom",
+          "Dohee Kim",
+          "Sori Lim",
+          "Hyungjoon Koo",
+          "Sungjae Hwang"
+        ]
+      },
+      {
+        "title": "DiffCoder: Enhancing Large Language Model on API Invocation via Analogical Code Exercises.",
+        "authors": [
+          "Daoguang Zan",
+          "Ailun Yu",
+          "Bo Shen",
+          "Bei Chen",
+          "Wei Li",
+          "Yongshun Gong",
+          "Xiaolin Chen",
+          "Yafen Yao",
+          "Weihua Luo",
+          "Bei Guan",
+          "Yan Liu",
+          "Yongji Wang",
+          "Qianxiang Wang",
+          "Lizhen Cui"
+        ]
+      },
+      {
+        "title": "Maximizing Patch Coverage for Testing of Highly-Configurable Software without Exploding Build Times.",
+        "authors": [
+          "Necip Fazil Yildiran",
+          "Jeho Oh",
+          "Julia Lawall",
+          "Paul Gazzillo"
+        ]
+      },
+      {
+        "title": "Abstraction-Aware Inference of Metamorphic Relations.",
+        "authors": [
+          "Agustín Nolasco",
+          "Facundo Molina",
+          "Renzo Degiovanni",
+          "Alessandra Gorla",
+          "Diego Garbervetsky",
+          "Mike Papadakis",
+          "Sebastián Uchitel",
+          "Nazareno Aguirre",
+          "Marcelo F. Frias"
+        ]
+      },
+      {
+        "title": "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State.",
+        "authors": [
+          "Haiyu Huang",
+          "Xiaoyu Zhang",
+          "Pengfei Chen",
+          "Zilong He",
+          "Zhiming Chen",
+          "Guangba Yu",
+          "Hongyang Chen",
+          "Chen Sun"
+        ]
+      },
+      {
+        "title": "Fast Graph Simplification for Path-Sensitive Typestate Analysis through Tempo-Spatial Multi-Point Slicing.",
+        "authors": [
+          "Xiao Cheng",
+          "Jiawei Ren",
+          "Yulei Sui"
+        ]
+      },
+      {
+        "title": "Understanding Developers' Discussions and Perceptions on Non-functional Requirements: The Case of the Spring Ecosystem.",
+        "authors": [
+          "Anderson Oliveira",
+          "João Lucas Correia",
+          "Wesley K. G. Assunção",
+          "Juliana Alves Pereira",
+          "Rafael Maiani de Mello",
+          "Daniel Coutinho",
+          "Caio Barbosa",
+          "Paulo Vítor C. F. Libório",
+          "Alessandro Garcia"
+        ]
+      },
+      {
+        "title": "Adapting Multi-objectivized Software Configuration Tuning.",
+        "authors": [
+          "Tao Chen",
+          "Miqing Li"
+        ]
+      },
+      {
+        "title": "CodeArt: Better Code Models by Attention Regularization When Symbols Are Lacking.",
+        "authors": [
+          "Zian Su",
+          "Xiangzhe Xu",
+          "Ziyang Huang",
+          "Zhuo Zhang",
+          "Yapeng Ye",
+          "Jianjun Huang",
+          "Xiangyu Zhang"
+        ]
+      },
+      {
+        "title": "Natural Is the Best: Model-Agnostic Code Simplification for Pre-trained Large Language Models.",
+        "authors": [
+          "Yan Wang",
+          "Xiaoning Li",
+          "Tien N. Nguyen",
+          "Shaohua Wang",
+          "Chao Ni",
+          "Ling Ding"
+        ]
+      },
+      {
+        "title": "Go Static: Contextualized Logging Statement Generation.",
+        "authors": [
+          "Yichen Li",
+          "Yintong Huo",
+          "Renyi Zhong",
+          "Zhihan Jiang",
+          "Jinyang Liu",
+          "Junjie Huang",
+          "Jiazhen Gu",
+          "Pinjia He",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "Unprecedented Code Change Automation: The Fusion of LLMs and Transformation by Example.",
+        "authors": [
+          "Malinda Dilhara",
+          "Abhiram Bellur",
+          "Timofey Bryksin",
+          "Danny Dig"
+        ]
+      },
+      {
+        "title": "Syntax Is All You Need: A Universal-Language Approach to Mutant Generation.",
+        "authors": [
+          "Sourav Deb",
+          "Kush Jain",
+          "Rijnard van Tonder",
+          "Claire Le Goues",
+          "Alex Groce"
+        ]
+      },
+      {
+        "title": "CodePlan: Repository-Level Coding using LLMs and Planning.",
+        "authors": [
+          "Ramakrishna Bairi",
+          "Atharv Sonwane",
+          "Aditya Kanade",
+          "Vageesh D. C.",
+          "Arun Iyer",
+          "Suresh Parthasarathy",
+          "Sriram K. Rajamani",
+          "Balasubramanyan Ashok",
+          "Shashank Shet"
+        ]
+      },
+      {
+        "title": "Rocks Coding, Not Development: A Human-Centric, Experimental Evaluation of LLM-Supported SE Tasks.",
+        "authors": [
+          "Wei Wang",
+          "Huilong Ning",
+          "Gaowei Zhang",
+          "Libo Liu",
+          "Yi Wang"
+        ]
+      },
+      {
+        "title": "Understanding and Detecting Annotation-Induced Faults of Static Analyzers.",
+        "authors": [
+          "Huaien Zhang",
+          "Yu Pei",
+          "Shuyun Liang",
+          "Shin Hwei Tan"
+        ]
+      },
+      {
+        "title": "Only diff Is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model.",
+        "authors": [
+          "Jiawei Li",
+          "David Faragó",
+          "Christian Petrov",
+          "Iftekhar Ahmed"
+        ]
+      },
+      {
+        "title": "DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing.",
+        "authors": [
+          "Sabaat Haroon",
+          "Chris Brown",
+          "Muhammad Ali Gulzar"
+        ]
+      },
+      {
+        "title": "CORE: Resolving Code Quality Issues using LLMs.",
+        "authors": [
+          "Nalin Wadhwa",
+          "Jui Pradhan",
+          "Atharv Sonwane",
+          "Surya Prakash Sahu",
+          "Nagarajan Natarajan",
+          "Aditya Kanade",
+          "Suresh Parthasarathy",
+          "Sriram K. Rajamani"
+        ]
+      },
+      {
+        "title": "Towards AI-Assisted Synthesis of Verified Dafny Methods.",
+        "authors": [
+          "Md Rakib Hossain Misu",
+          "Cristina V. Lopes",
+          "Iris Ma",
+          "James Noble"
+        ]
+      },
+      {
+        "title": "AROMA: Automatic Reproduction of Maven Artifacts.",
+        "authors": [
+          "Mehdi Keshani",
+          "Tudor-Gabriel Velican",
+          "Gideon Bot",
+          "Sebastian Proksch"
+        ]
+      },
+      {
+        "title": "Harnessing Neuron Stability to Improve DNN Verification.",
+        "authors": [
+          "Hai Duong",
+          "Dong Xu",
+          "ThanhVu Nguyen",
+          "Matthew B. Dwyer"
+        ]
+      },
+      {
+        "title": "\"The Law Doesn't Work Like a Computer\": Exploring Software Licensing Issues Faced by Legal Practitioners.",
+        "authors": [
+          "Nathan Wintersgill",
+          "Trevor Stalnaker",
+          "Laura A. Heymann",
+          "Oscar Chaparro",
+          "Denys Poshyvanyk"
+        ]
+      },
+      {
+        "title": "COSTELLO: Contrastive Testing for Embedding-Based Large Language Model as a Service Embeddings.",
+        "authors": [
+          "Weipeng Jiang",
+          "Juan Zhai",
+          "Shiqing Ma",
+          "Xiaoyu Zhang",
+          "Chao Shen"
+        ]
+      },
+      {
+        "title": "How Does Simulation-Based Testing for Self-Driving Cars Match Human Perception?",
+        "authors": [
+          "Christian Birchler",
+          "Tanzil Kombarabettu Mohammed",
+          "Pooja Rani",
+          "Teodora Nechita",
+          "Timo Kehrer",
+          "Sebastiano Panichella"
+        ]
+      },
+      {
+        "title": "Code-Aware Prompting: A Study of Coverage-Guided Test Generation in Regression Setting using LLM.",
+        "authors": [
+          "Gabriel Ryan",
+          "Siddhartha Jain",
+          "Mingyue Shang",
+          "Shiqi Wang",
+          "Xiaofei Ma",
+          "Murali Krishna Ramanathan",
+          "Baishakhi Ray"
+        ]
+      },
+      {
+        "title": "Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs.",
+        "authors": [
+          "Yanfu Yan",
+          "Nathan Cooper",
+          "Kevin Moran",
+          "Gabriele Bavota",
+          "Denys Poshyvanyk",
+          "Steve Rich"
+        ]
+      },
+      {
+        "title": "RavenBuild: Context, Relevance, and Dependency Aware Build Outcome Prediction.",
+        "authors": [
+          "Gengyi Sun",
+          "Sarra Habchi",
+          "Shane McIntosh"
+        ]
+      },
+      {
+        "title": "Towards Efficient Verification of Constant-Time Cryptographic Implementations.",
+        "authors": [
+          "Luwei Cai",
+          "Fu Song",
+          "Taolue Chen"
+        ]
+      },
+      {
+        "title": "Generative AI for Pull Request Descriptions: Adoption, Impact, and Developer Interventions.",
+        "authors": [
+          "Tao Xiao",
+          "Hideaki Hata",
+          "Christoph Treude",
+          "Kenichi Matsumoto"
+        ]
+      },
+      {
+        "title": "AI-Assisted Code Authoring at Scale: Fine-Tuning, Deploying, and Mixed Methods Evaluation.",
+        "authors": [
+          "Vijayaraghavan Murali",
+          "Chandra Shekhar Maddila",
+          "Imad Ahmad",
+          "Michael Bolin",
+          "Daniel Cheng",
+          "Negar Ghorbani",
+          "Renuka Fernandez",
+          "Nachiappan Nagappan",
+          "Peter C. Rigby"
+        ]
+      },
+      {
+        "title": "Improving the Learning of Code Review Successive Tasks with Cross-Task Knowledge Distillation.",
+        "authors": [
+          "Oussama Ben Sghaier",
+          "Houari A. Sahraoui"
+        ]
+      },
+      {
+        "title": "Refactoring to Pythonic Idioms: A Hybrid Knowledge-Driven Approach Leveraging Large Language Models.",
+        "authors": [
+          "Zejun Zhang",
+          "Zhenchang Xing",
+          "Xiaoxue Ren",
+          "Qinghua Lu",
+          "Xiwei Xu"
+        ]
+      },
+      {
+        "title": "Java JIT Testing with Template Extraction.",
+        "authors": [
+          "Zhiqiang Zang",
+          "Fu-Yao Yu",
+          "Aditya Thimmaiah",
+          "August Shi",
+          "Milos Gligoric"
+        ]
+      },
+      {
+        "title": "BRF: Fuzzing the eBPF Runtime.",
+        "authors": [
+          "Hsin-Wei Hung",
+          "Ardalan Amiri Sani"
+        ]
+      },
+      {
+        "title": "DTD: Comprehensive and Scalable Testing for Debuggers.",
+        "authors": [
+          "Hongyi Lu",
+          "Zhibo Liu",
+          "Shuai Wang",
+          "Fengwei Zhang"
+        ]
+      },
+      {
+        "title": "PPM: Automated Generation of Diverse Programming Problems for Benchmarking Code Generation Models.",
+        "authors": [
+          "Simin Chen",
+          "Xiaoning Feng",
+          "Xiaohong Han",
+          "Cong Liu",
+          "Wei Yang"
+        ]
+      },
+      {
+        "title": "Metamorphic Testing of Secure Multi-party Computation (MPC) Compilers.",
+        "authors": [
+          "Yichen Li",
+          "Dongwei Xiao",
+          "Zhibo Liu",
+          "Qi Pang",
+          "Shuai Wang"
+        ]
+      },
+      {
+        "title": "Understanding the Impact of APIs Behavioral Breaking Changes on Client Applications.",
+        "authors": [
+          "Dhanushka Jayasuriya",
+          "Valerio Terragni",
+          "Jens Dietrich",
+          "Kelly Blincoe"
+        ]
+      },
+      {
+        "title": "Effective Teaching through Code Reviews: Patterns and Anti-patterns.",
+        "authors": [
+          "Anita Sarma",
+          "Nina Chen"
+        ]
+      },
+      {
+        "title": "An Analysis of the Costs and Benefits of Autocomplete in IDEs.",
+        "authors": [
+          "Shaokang Jiang",
+          "Michael Coblenz"
+        ]
+      },
+      {
+        "title": "Decomposing Software Verification using Distributed Summary Synthesis.",
+        "authors": [
+          "Dirk Beyer",
+          "Matthias Kettl",
+          "Thomas Lemberger"
+        ]
+      },
+      {
+        "title": "Can GPT-4 Replicate Empirical Software Engineering Research?",
+        "authors": [
+          "Jenny T. Liang",
+          "Carmen Badea",
+          "Christian Bird",
+          "Robert DeLine",
+          "Denae Ford",
+          "Nicole Forsgren",
+          "Thomas Zimmermann"
+        ]
+      },
+      {
+        "title": "A Critical Review of Common Log Data Sets Used for Evaluation of Sequence-Based Anomaly Detection Techniques.",
+        "authors": [
+          "Max Landauer",
+          "Florian Skopik",
+          "Markus Wurzenberger"
+        ]
+      },
+      {
+        "title": "SimLLM: Calculating Semantic Similarity in Code Summaries using a Large Language Model-Based Approach.",
+        "authors": [
+          "Xin Jin",
+          "Zhiqiang Lin"
+        ]
+      },
+      {
+        "title": "On the Contents and Utility of IoT Cybersecurity Guidelines.",
+        "authors": [
+          "Jesse Chen",
+          "Dharun Anandayuvaraj",
+          "James C. Davis",
+          "Sazzadur Rahaman"
+        ]
+      },
+      {
+        "title": "A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization.",
+        "authors": [
+          "Sungmin Kang",
+          "Gabin An",
+          "Shin Yoo"
+        ]
+      },
+      {
+        "title": "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?",
+        "authors": [
+          "Kaixuan Li",
+          "Yue Xue",
+          "Sen Chen",
+          "Han Liu",
+          "Kairan Sun",
+          "Ming Hu",
+          "Haijun Wang",
+          "Yang Liu",
+          "Yixiang Chen"
+        ]
+      },
+      {
+        "title": "A Deep Dive into Large Language Models for Automated Bug Localization and Repair.",
+        "authors": [
+          "Soneya Binta Hossain",
+          "Nan Jiang",
+          "Qiang Zhou",
+          "Xiaopeng Li",
+          "Wen-Hao Chiang",
+          "Yingjun Lyu",
+          "Hoan Anh Nguyen",
+          "Omer Tripp"
+        ]
+      },
+      {
+        "title": "Towards Efficient Build Ordering for Incremental Builds with Multiple Configurations.",
+        "authors": [
+          "Jun Lyu",
+          "Shanshan Li",
+          "He Zhang",
+          "Lanxin Yang",
+          "Bohan Liu",
+          "Manuel Rigger"
+        ]
+      },
+      {
+        "title": "On Reducing Undesirable Behavior in Deep-Reinforcement-Learning-Based Software.",
+        "authors": [
+          "Ophir M. Carmel",
+          "Guy Katz"
+        ]
+      },
+      {
+        "title": "Semi-supervised Crowdsourced Test Report Clustering via Screenshot-Text Binding Rules.",
+        "authors": [
+          "Shengcheng Yu",
+          "Chunrong Fang",
+          "Quanjun Zhang",
+          "Mingzhe Du",
+          "Jia Liu",
+          "Zhenyu Chen"
+        ]
+      },
+      {
+        "title": "CC2Vec: Combining Typed Tokens with Contrastive Learning for Effective Code Clone Detection.",
+        "authors": [
+          "Shihan Dou",
+          "Yueming Wu",
+          "Haoxiang Jia",
+          "Yuhao Zhou",
+          "Yan Liu",
+          "Yang Liu"
+        ]
+      },
+      {
+        "title": "Exploring and Unleashing the Power of Large Language Models in Automated Code Translation.",
+        "authors": [
+          "Zhen Yang",
+          "Fang Liu",
+          "Zhongxing Yu",
+          "Jacky Wai Keung",
+          "Jia Li",
+          "Shuo Liu",
+          "Yifan Hong",
+          "Xiaoxue Ma",
+          "Zhi Jin",
+          "Ge Li"
+        ]
+      },
+      {
+        "title": "TIPS: Tracking Integer-Pointer Value Flows for C++ Member Function Pointers.",
+        "authors": [
+          "Changwei Zou",
+          "Dongjie He",
+          "Yulei Sui",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "Do Words Have Power? Understanding and Fostering Civility in Code Review Discussion.",
+        "authors": [
+          "Md Shamimur Rahman",
+          "Zadia Codabux",
+          "Chanchal K. Roy"
+        ]
+      },
+      {
+        "title": "Finding and Understanding Defects in Static Analyzers by Constructing Automated Oracles.",
+        "authors": [
+          "Weigang He",
+          "Peng Di",
+          "Mengli Ming",
+          "Chengyu Zhang",
+          "Ting Su",
+          "Shijie Li",
+          "Yulei Sui"
+        ]
+      },
+      {
+        "title": "Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-task Learning.",
+        "authors": [
+          "Xiaoling Zhang",
+          "Zhengzi Xu",
+          "Shouguo Yang",
+          "Zhi Li",
+          "Zhiqiang Shi",
+          "Limin Sun"
+        ]
+      },
+      {
+        "title": "Evaluating and Improving ChatGPT for Unit Test Generation.",
+        "authors": [
+          "Zhiqiang Yuan",
+          "Mingwei Liu",
+          "Shiji Ding",
+          "Kaixin Wang",
+          "Yixuan Chen",
+          "Xin Peng",
+          "Yiling Lou"
+        ]
+      },
+      {
+        "title": "How to Gain Commit Rights in Modern Top Open Source Communities?",
+        "authors": [
+          "Xin Tan",
+          "Yan Gong",
+          "Geyu Huang",
+          "Haohua Wu",
+          "Li Zhang"
+        ]
+      },
+      {
+        "title": "An Empirical Study on Focal Methods in Deep-Learning-Based Approaches for Assertion Generation.",
+        "authors": [
+          "Yibo He",
+          "Jiaming Huang",
+          "Hao Yu",
+          "Tao Xie"
+        ]
+      },
+      {
+        "title": "Demystifying Invariant Effectiveness for Securing Smart Contracts.",
+        "authors": [
+          "Zhiyang Chen",
+          "Ye Liu",
+          "Sidi Mohamed Beillahi",
+          "Yi Li",
+          "Fan Long"
+        ]
+      },
+      {
+        "title": "Cut to the Chase: An Error-Oriented Approach to Detect Error-Handling Bugs.",
+        "authors": [
+          "Haoran Liu",
+          "Zhouyang Jia",
+          "Shanshan Li",
+          "Yan Lei",
+          "Yue Yu",
+          "Yu Jiang",
+          "Xiaoguang Mao",
+          "Xiangke Liao"
+        ]
+      },
+      {
+        "title": "Beyond Code Generation: An Observational Study of ChatGPT Usage in Software Engineering Practice.",
+        "authors": [
+          "Ranim Khojah",
+          "Mazen Mohamad",
+          "Philipp Leitner",
+          "Francisco Gomes de Oliveira Neto"
+        ]
+      },
+      {
+        "title": "Active Monitoring Mechanism for Control-Based Self-Adaptive Systems.",
+        "authors": [
+          "Yi Qin",
+          "Yanxiang Tong",
+          "Yifei Xu",
+          "Chun Cao",
+          "Xiaoxing Ma"
+        ]
+      },
+      {
+        "title": "State Reconciliation Defects in Infrastructure as Code.",
+        "authors": [
+          "Md. Mahadi Hassan",
+          "John Salvador",
+          "Shubhra Kanti Karmaker Santu",
+          "Akond Rahman"
+        ]
+      },
+      {
+        "title": "Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?",
+        "authors": [
+          "Madeline Endres",
+          "Sarah Fakhoury",
+          "Saikat Chakraborty",
+          "Shuvendu K. Lahiri"
+        ]
+      },
+      {
+        "title": "Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems.",
+        "authors": [
+          "Yuntianyi Chen",
+          "Yuqi Huai",
+          "Shilong Li",
+          "Changnam Hong",
+          "Joshua Garcia"
+        ]
+      },
+      {
+        "title": "Towards Better Graph Neural Network-Based Fault Localization through Enhanced Code Representation.",
+        "authors": [
+          "Md Nakhla Rafi",
+          "Dong Jae Kim",
+          "An Ran Chen",
+          "Tse-Hsun (Peter) Chen",
+          "Shaowei Wang"
+        ]
+      },
+      {
+        "title": "Predicting Failures of Autoscaling Distributed Applications.",
+        "authors": [
+          "Giovanni Denaro",
+          "Noura El Moussa",
+          "Rahim Heydarov",
+          "Francesco Lomio",
+          "Mauro Pezzè",
+          "Ketai Qiu"
+        ]
+      },
+      {
+        "title": "Predicting Code Comprehension: A Novel Approach to Align Human Gaze with Code using Deep Neural Networks.",
+        "authors": [
+          "Tarek Alakmeh",
+          "David R. Reich",
+          "Lena A. Jäger",
+          "Thomas Fritz"
+        ]
+      },
+      {
+        "title": "A Miss Is as Good as A Mile: Metamorphic Testing for Deep Learning Operators.",
+        "authors": [
+          "Jinyin Chen",
+          "Chengyu Jia",
+          "Yunjie Yan",
+          "Jie Ge",
+          "Haibin Zheng",
+          "Yao Cheng"
+        ]
+      },
+      {
+        "title": "A Transferability Study of Interpolation-Based Hardware Model Checking for Software Verification.",
+        "authors": [
+          "Dirk Beyer",
+          "Po-Chun Chien",
+          "Marek Jankola",
+          "Nian-Ze Lee"
+        ]
+      },
+      {
+        "title": "Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations.",
+        "authors": [
+          "David Broneske",
+          "Sebastian Kittan",
+          "Jacob Krüger"
+        ]
+      },
+      {
+        "title": "Glitch Tokens in Large Language Models: Categorization Taxonomy and Effective Detection.",
+        "authors": [
+          "Yuxi Li",
+          "Yi Liu",
+          "Gelei Deng",
+          "Ying Zhang",
+          "Wenjia Song",
+          "Ling Shi",
+          "Kailong Wang",
+          "Yuekang Li",
+          "Yang Liu",
+          "Haoyu Wang"
+        ]
+      },
+      {
+        "title": "LogSD: Detecting Anomalies from System Logs through Self-Supervised Learning and Frequency-Based Masking.",
+        "authors": [
+          "Yongzheng Xie",
+          "Hongyu Zhang",
+          "Muhammad Ali Babar"
+        ]
+      },
+      {
+        "title": "MirrorFair: Fixing Fairness Bugs in Machine Learning Software via Counterfactual Predictions.",
+        "authors": [
+          "Ying Xiao",
+          "Jie M. Zhang",
+          "Yepang Liu",
+          "Mohammad Reza Mousavi",
+          "Sicen Liu",
+          "Dingyuan Xue"
+        ]
+      },
+      {
+        "title": "Analyzing Quantum Programs with LintQ: A Static Analysis Framework for Qiskit.",
+        "authors": [
+          "Matteo Paltenghi",
+          "Michael Pradel"
+        ]
+      },
+      {
+        "title": "Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in Virtual Reality Apps.",
+        "authors": [
+          "Shuqing Li",
+          "Cuiyun Gao",
+          "Jianping Zhang",
+          "Yujia Zhang",
+          "Yepang Liu",
+          "Jiazhen Gu",
+          "Yun Peng",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "Learning to Detect and Localize Multilingual Bugs.",
+        "authors": [
+          "Haoran Yang",
+          "Yu Nong",
+          "Tao Zhang",
+          "Xiapu Luo",
+          "Haipeng Cai"
+        ]
+      },
+      {
+        "title": "BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection.",
+        "authors": [
+          "Luan Pham",
+          "Huong Ha",
+          "Hongyu Zhang"
+        ]
+      },
+      {
+        "title": "An Empirical Study on Code Review Activity Prediction and Its Impact in Practice.",
+        "authors": [
+          "Doriane Olewicki",
+          "Sarra Habchi",
+          "Bram Adams"
+        ]
+      },
+      {
+        "title": "Do Large Language Models Pay Similar Attention Like Human Programmers When Generating Code?",
+        "authors": [
+          "Bonan Kou",
+          "Shengmai Chen",
+          "Zhijie Wang",
+          "Lei Ma",
+          "Tianyi Zhang"
+        ]
+      },
+      {
+        "title": "Evolutionary Multi-objective Optimization for Contextual Adversarial Example Generation.",
+        "authors": [
+          "Shasha Zhou",
+          "Mingyu Huang",
+          "Yanan Sun",
+          "Ke Li"
+        ]
+      },
+      {
+        "title": "Mining Action Rules for Defect Reduction Planning.",
+        "authors": [
+          "Khouloud Oueslati",
+          "Gabriel Laberge",
+          "Maxime Lamothe",
+          "Foutse Khomh"
+        ]
+      },
+      {
+        "title": "ClarifyGPT: A Framework for Enhancing LLM-Based Code Generation via Requirements Clarification.",
+        "authors": [
+          "Fangwen Mu",
+          "Lin Shi",
+          "Song Wang",
+          "Zhuohao Yu",
+          "Binquan Zhang",
+          "Chenxue Wang",
+          "Shichao Liu",
+          "Qing Wang"
+        ]
+      },
+      {
+        "title": "Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-Context Learning.",
+        "authors": [
+          "Yubo Mai",
+          "Zhipeng Gao",
+          "Xing Hu",
+          "Lingfeng Bao",
+          "Yu Liu",
+          "Jianling Sun"
+        ]
+      },
+      {
+        "title": "A Weak Supervision-Based Approach to Improve Chatbots for Code Repositories.",
+        "authors": [
+          "Farbod Farhour",
+          "Ahmad Abdellatif",
+          "Essam Mansour",
+          "Emad Shihab"
+        ]
+      },
+      {
+        "title": "Revealing Software Development Work Patterns with PR-Issue Graph Topologies.",
+        "authors": [
+          "Cleidson R. B. de Souza",
+          "Emilie Ma",
+          "Jesse Wong",
+          "Dongwook Yoon",
+          "Ivan Beschastnikh"
+        ]
+      },
+      {
+        "title": "DeciX: Explain Deep Learning Based Code Generation Applications.",
+        "authors": [
+          "Simin Chen",
+          "Zexin Li",
+          "Wei Yang",
+          "Cong Liu"
+        ]
+      },
+      {
+        "title": "FeatMaker: Automated Feature Engineering for Search Strategy of Symbolic Execution.",
+        "authors": [
+          "Jaehan Yoon",
+          "Sooyoung Cha"
+        ]
+      },
+      {
+        "title": "DAInfer: Inferring API Aliasing Specifications from Library Documentation via Neurosymbolic Optimization.",
+        "authors": [
+          "Chengpeng Wang",
+          "Jipeng Zhang",
+          "Rongxin Wu",
+          "Charles Zhang"
+        ]
+      },
+      {
+        "title": "Partial Solution Based Constraint Solving Cache in Symbolic Execution.",
+        "authors": [
+          "Ziqi Shuai",
+          "Zhenbang Chen",
+          "Kelin Ma",
+          "Kunlin Liu",
+          "Yufeng Zhang",
+          "Jun Sun",
+          "Ji Wang"
+        ]
+      },
+      {
+        "title": "Your Code Secret Belongs to Me: Neural Code Completion Tools Can Memorize Hard-Coded Credentials.",
+        "authors": [
+          "Yizhan Huang",
+          "Yichen Li",
+          "Weibin Wu",
+          "Jianping Zhang",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "Bounding Random Test Set Size with Computational Learning Theory.",
+        "authors": [
+          "Neil Walkinshaw",
+          "Michael Foster",
+          "José Miguel Rojas",
+          "Robert M. Hierons"
+        ]
+      },
+      {
+        "title": "MTAS: A Reference-Free Approach for Evaluating Abstractive Summarization Systems.",
+        "authors": [
+          "Xiaoyan Zhu",
+          "Mingyue Jiang",
+          "Xiao-Yi Zhang",
+          "Liming Nie",
+          "Zuohua Ding"
+        ]
+      },
+      {
+        "title": "Bloat beneath Python's Scales: A Fine-Grained Inter-Project Dependency Analysis.",
+        "authors": [
+          "Georgios-Petros Drosos",
+          "Thodoris Sotiropoulos",
+          "Diomidis Spinellis",
+          "Dimitris Mitropoulos"
+        ]
+      },
+      {
+        "title": "PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages.",
+        "authors": [
+          "Kai Gao",
+          "Weiwei Xu",
+          "Wenhao Yang",
+          "Minghui Zhou"
+        ]
+      },
+      {
+        "title": "Dependency-Induced Waste in Continuous Integration: An Empirical Study of Unused Dependencies in the npm Ecosystem.",
+        "authors": [
+          "Nimmi Rashinika Weeraddana",
+          "Mahmoud Alfadel",
+          "Shane McIntosh"
+        ]
+      },
+      {
+        "title": "Mobile Bug Report Reproduction via Global Search on the App UI Model.",
+        "authors": [
+          "Zhaoxu Zhang",
+          "Fazle Mohammed Tawsif",
+          "Komei Ryu",
+          "Tingting Yu",
+          "William G. J. Halfond"
+        ]
+      },
+      {
+        "title": "Natural Symbolic Execution-Based Testing for Big Data Analytics.",
+        "authors": [
+          "Yaoxuan Wu",
+          "Ahmad Humayun",
+          "Muhammad Ali Gulzar",
+          "Miryung Kim"
+        ]
+      },
+      {
+        "title": "Investigating Documented Privacy Changes in Android OS.",
+        "authors": [
+          "Chuan Yan",
+          "Mark Huasong Meng",
+          "Fuman Xie",
+          "Guangdong Bai"
+        ]
+      },
+      {
+        "title": "CrossCert: A Cross-Checking Detection Approach to Patch Robustness Certification for Deep Learning Models.",
+        "authors": [
+          "Qilin Zhou",
+          "Zhengyuan Wei",
+          "Haipeng Wang",
+          "Bo Jiang",
+          "Wing-Kwong Chan"
+        ]
+      },
+      {
+        "title": "Detecting, Creating, Repairing, and Understanding Indivisible Multi-Hunk Bugs.",
+        "authors": [
+          "Qi Xin",
+          "Haojun Wu",
+          "Jinran Tang",
+          "Xinyu Liu",
+          "Steven P. Reiss",
+          "Jifeng Xuan"
+        ]
+      }
+    ]
+  }
+}

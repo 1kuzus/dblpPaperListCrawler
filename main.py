@@ -29,6 +29,9 @@ indices = {
 
         # 软件工程/系统软件/程序设计语言，CCF C类
         "cl", "ijseke", "sttt", "jlap", "jwe", "soca", "sqj", "tplp", "pacmpl",
+
+        # 其他
+        "pacmse",  # Proceedings of the ACM on Software Engineering
     ],
     # 学术会议
     "conf": [

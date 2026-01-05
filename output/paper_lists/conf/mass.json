@@ -1,4 +1,1057 @@
 {
+  "https://dblp.org/db/conf/mass/mass2025.html": {
+    "header": "22nd MASS 2025: Chicago, IL, USA",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Deep Bidirectional LSTM-Based Sensor Fusion for 3D Localization in Dynamic Environments.",
+        "authors": [
+          "Tehmina Bibi",
+          "Anselm Köhler",
+          "Jan-Thomas Fischer",
+          "Falko Dressler"
+        ]
+      },
+      {
+        "title": "Federated Learning for Edge WiFi Sensing: Improving Few-Shot Learning Across Various Classifications.",
+        "authors": [
+          "Jianchao Song",
+          "Usman Shuaibu Musa",
+          "Yixin Chen",
+          "Papa Pene",
+          "Yifan Guo",
+          "Wei Yu"
+        ]
+      },
+      {
+        "title": "On Network-Efficient Multimodal Multi-Vantage Foundation Models for Distributed Sensing.",
+        "authors": [
+          "Tianchen Wang",
+          "Yizhuo Chen",
+          "Hongjue Zhao",
+          "You Lyu",
+          "Jinyang Li",
+          "Tomoyoshi Kimura",
+          "Yigong Hu",
+          "Denizhan Kara",
+          "Maggie B. Wigness",
+          "Jeffrey Twigg",
+          "Tarek F. Abdelzaher"
+        ]
+      },
+      {
+        "title": "RFID-Based Vital Sign Monitoring Under Motion Using Physics-Informed Generative Models.",
+        "authors": [
+          "Ningning Wang",
+          "Yiting Wang",
+          "Tianya Zhao",
+          "Yuwei Dai",
+          "Harrison X. Bai",
+          "Karthik Suresh",
+          "Zhicheng Jiao",
+          "Shiwen Mao",
+          "Xuyu Wang"
+        ]
+      },
+      {
+        "title": "Safe and Reliable Deep Reinforcement Learning for Covert Routing.",
+        "authors": [
+          "Amirhossein Roknilamouki",
+          "Fikadu T. Dagefu",
+          "Eylem Ekici",
+          "Brian Kim",
+          "Justin Kong",
+          "Terrence J. Moore",
+          "Yin Sun",
+          "Ness B. Shroff"
+        ]
+      },
+      {
+        "title": "XAI4C: An XAI-powered Conflict Detection Framework in O-RAN.",
+        "authors": [
+          "Nancy Varshney",
+          "Federico Mungari",
+          "Corrado Puligheddu",
+          "Ahmed Badawy",
+          "Carla-Fabiana Chiasserini"
+        ]
+      },
+      {
+        "title": "An Efficient and Explainable KAN Framework for Wireless Radiation Field Prediction.",
+        "authors": [
+          "Jingzhou Shen",
+          "Xuyu Wang"
+        ]
+      },
+      {
+        "title": "CollectiveFL: Edge-to-Edge Collective Intelligence Transfer in Federated Continual Learning.",
+        "authors": [
+          "JinYi Yoon",
+          "HyungJune Lee"
+        ]
+      },
+      {
+        "title": "Cooperative Deep Q-Learning for Strategic Backup Scheduling in Smart Grid Recovery.",
+        "authors": [
+          "Vajiheh Farhadi",
+          "James Giffen"
+        ]
+      },
+      {
+        "title": "DFed-LaMA: Differentially Private Federated Learning via Adaptive Layer-Wise Model Aggregation.",
+        "authors": [
+          "Tengfei Wang",
+          "Teng Liu",
+          "Xin Wang",
+          "Heng Zhang",
+          "Ming Yang",
+          "Xiaoming Wu"
+        ]
+      },
+      {
+        "title": "Distributed Context-Aware Resource Allocation for Dynamic Sensor Fusion in Edge Inference.",
+        "authors": [
+          "Yashuo Wu",
+          "Carla-Fabiana Chiasserini",
+          "Marco Levorato"
+        ]
+      },
+      {
+        "title": "DrinkMR: Unobtrusive Drinking Monitoring Using Off-The-Shelf Smart Glasses.",
+        "authors": [
+          "Ruxin Wang",
+          "Gabrielle Gonzalez",
+          "Wen Liu",
+          "Chen Wang",
+          "Tung-Sung Tseng"
+        ]
+      },
+      {
+        "title": "Edge-Assisted Generative AI-Driven Video Communication using Topological Data Analysis.",
+        "authors": [
+          "Rohit Bhusal",
+          "Hongzhi Guo",
+          "Ian F. Akyildiz"
+        ]
+      },
+      {
+        "title": "Energy-Efficient Split Learning for Resource-Constrained Environments: A Smart Farming Solution.",
+        "authors": [
+          "Keiwan Soltani",
+          "Vishesh Kumar Tanwar",
+          "Ashish Gupta",
+          "Sajal K. Das"
+        ]
+      },
+      {
+        "title": "Large Vision-Language Model-Assisted Information-Rich Semantic Segmentation.",
+        "authors": [
+          "Haiqiao Liu",
+          "Songjun Huang",
+          "Chuanneng Sun",
+          "Dario Pompili",
+          "Jie Gong"
+        ]
+      },
+      {
+        "title": "Learning Low-Dimensional Representation for O-RAN Testing via Transformer-ESN.",
+        "authors": [
+          "Jiongyu Dai",
+          "Raymond Zhao",
+          "Farhad Rezazadeh",
+          "Lizhong Zheng",
+          "Haining Wang",
+          "Lingjia Liu"
+        ]
+      },
+      {
+        "title": "Location- and Modality-aware Heterogeneous Data Fusion for Cooperative Perception.",
+        "authors": [
+          "Tingcong Jiang",
+          "Chuanneng Sun",
+          "Dario Pompili"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Crowd Size Estimation Using Wi-Fi and Machine Learning.",
+        "authors": [
+          "Pegah Torkamandi",
+          "Navid Hasanzadeh",
+          "Jörg Ott",
+          "Shahrokh Valaee"
+        ]
+      },
+      {
+        "title": "Real-Time Drone Flight Height Decision for 3D Building Reconstruction with NeRF.",
+        "authors": [
+          "Shenghao Jia",
+          "Chaoyue Niu",
+          "Fan Wu"
+        ]
+      },
+      {
+        "title": "RIFLES: Resource-effIcient Federated LEarning via Scheduling.",
+        "authors": [
+          "Sara Alosaime",
+          "Arshad Jhumka"
+        ]
+      },
+      {
+        "title": "VIOSem: Visual-Inertial Odometry via Semantic Communication-enhanced Modulation Design.",
+        "authors": [
+          "Kanishka P. Wijewardena",
+          "Griffin Klevering",
+          "Xiao Zhang",
+          "Li Xiao"
+        ]
+      },
+      {
+        "title": "Vision-Language Modeling for Scene Understanding and Reasoning of Vehicle-to-X Interactions.",
+        "authors": [
+          "Hao Wang",
+          "Suining He"
+        ]
+      },
+      {
+        "title": "Adaptive Waveform Shaping for SINR-Optimal Interference Avoidance in OFDM Systems.",
+        "authors": [
+          "Hatef Nouri",
+          "George Sklivanitis",
+          "Dimitris A. Pados",
+          "Elizabeth Serena Bentley"
+        ]
+      },
+      {
+        "title": "Effective Delayed Patching for Transient Malware Control on Networks.",
+        "authors": [
+          "Minh Phu Vuong",
+          "Chul-Ho Lee",
+          "Do Young Eun"
+        ]
+      },
+      {
+        "title": "Multimodal Remote Inference.",
+        "authors": [
+          "Keyuan Zhang",
+          "Yin Sun",
+          "Bo Ji"
+        ]
+      },
+      {
+        "title": "RESCUER: QoS-Aware Service Rescheduling in Serverless Crowdsourced Edge Cloud Clusters.",
+        "authors": [
+          "Shihao Shen",
+          "Cheng Zhang",
+          "Chao Qiu",
+          "Xiaofei Wang",
+          "Wenyu Wang"
+        ]
+      },
+      {
+        "title": "2-Pipe: Simultaneous Downlink Transmissions with the Same Spreading Factor in LoRa Networks.",
+        "authors": [
+          "Raghav Rathi",
+          "Yilin Wang",
+          "Zhenghao Zhang"
+        ]
+      },
+      {
+        "title": "Efficient HVAC Control using Machine Learning and Adaptive Differential Evolution.",
+        "authors": [
+          "Jainam Dhruva",
+          "Simone Silvestri"
+        ]
+      },
+      {
+        "title": "LACE: Loss-Aware Constellation Design for Global-Scale Entanglement Distribution.",
+        "authors": [
+          "Huayue Gu",
+          "Runzhe Mo",
+          "Quntao Zhuang",
+          "Ruozhou Yu"
+        ]
+      },
+      {
+        "title": "Service Route Optimization for Autonomous Vehicles in Edge-Assisted Cellular Infrastructure.",
+        "authors": [
+          "Sangwoo Cho",
+          "Yeongjin Kim"
+        ]
+      },
+      {
+        "title": "SFMAC: Bleeps that enable high-density LoRaWANs.",
+        "authors": [
+          "Teresa Blanco Abad",
+          "Vijay S. Rao",
+          "Nikos Kouvelas",
+          "Venkatesha Prasad",
+          "Kumar Ramamoorthy",
+          "Sujay Narayana"
+        ]
+      },
+      {
+        "title": "SkyDecoy: Drone-Assisted Decoy Strategies for Preserving Location Privacy in Sky-of-Privacy-Things.",
+        "authors": [
+          "Anisa Bente Newaz",
+          "Sunho Lim",
+          "Sthephany Rojas Sabogal",
+          "Jinseok Chae",
+          "Jangho Lee"
+        ]
+      },
+      {
+        "title": "A Dual-Layer Blockchain Sharding Scheme.",
+        "authors": [
+          "Sima Naderi Mighan",
+          "Jelena V. Misic",
+          "Vojislav B. Misic"
+        ]
+      },
+      {
+        "title": "An Interpretable Multi-Modal Transformer-Based Intrusion Detection System Utilizing Log Messages and PCAP Files.",
+        "authors": [
+          "Nadia Niknami",
+          "Vahid Mahzoon",
+          "Rajorshi Biswas",
+          "Slobadan Vucetic",
+          "Jie Wu"
+        ]
+      },
+      {
+        "title": "Base Station Certificate and Authentication for 5G Radio Control Security.",
+        "authors": [
+          "Sourav Purification",
+          "Simeon Wuthier",
+          "Jinoh Kim",
+          "Ikkyun Kim",
+          "Sang-Yoon Chang"
+        ]
+      },
+      {
+        "title": "Converting Your Bluetooth Headphones into Active Sensing Authenticator: a Bone-Conduction Solution.",
+        "authors": [
+          "Jingwei Zhang",
+          "Ruxin Wang",
+          "Chen Wang"
+        ]
+      },
+      {
+        "title": "Data-Free Backdoor Attacks on Self-Supervised Human Activity Recognition Models.",
+        "authors": [
+          "Tianya Zhao",
+          "Xuyu Wang"
+        ]
+      },
+      {
+        "title": "Fast Consensus with Retries and Priority Upgrade.",
+        "authors": [
+          "Elham Amini",
+          "Jelena V. Misic",
+          "Vojislav B. Misic"
+        ]
+      },
+      {
+        "title": "FL-SNNs: Benchmarking the Byzantine-Robustness of Uniquely-Shaped Surrogate Gradients.",
+        "authors": [
+          "Manh V. Nguyen",
+          "Liang Zhao",
+          "Bobin Deng",
+          "Shaoen Wu"
+        ]
+      },
+      {
+        "title": "Non-Invasive User Profiling through Label Inference in FL-based Network Traffic Classification.",
+        "authors": [
+          "Huiwen Zhang",
+          "Feng Ye"
+        ]
+      },
+      {
+        "title": "Prospect Theoretic Hypothesis Testing-based Cyber Deception.",
+        "authors": [
+          "Abhinav Kumar",
+          "Swastik Brahma",
+          "Baocheng Geng",
+          "Charles A. Kamhoua"
+        ]
+      },
+      {
+        "title": "RansomNet: Ransomware Classification Using Sub-Graph Mining of Function Call Graphs.",
+        "authors": [
+          "Garvit Agarwal",
+          "Yucheng Xie",
+          "Yousef Mohammed Y. Alomayri",
+          "Feng Li"
+        ]
+      },
+      {
+        "title": "ViKey: Secure Door Access Control Using Passive Visible Light Tags.",
+        "authors": [
+          "Jaskirat Sudan",
+          "Fatima Qasem",
+          "Hasky Fynn",
+          "Fatima Mohammed",
+          "Ashwin Sarvadey",
+          "Tian Xie",
+          "Ang Li",
+          "Xiao Zhang"
+        ]
+      },
+      {
+        "title": "Argus-ear: Unconstrained-Vocabulary Sound Eavesdropping via μm-level mmWave Sensing.",
+        "authors": [
+          "Jiyang Chen",
+          "Jianwei Liu",
+          "Jinsong Han"
+        ]
+      },
+      {
+        "title": "Characterizing and Understanding Energy Footprint and Efficiency of Small Language Model on Edges.",
+        "authors": [
+          "Md. Romyull Islam",
+          "Bobin Deng",
+          "Nobel Dhar",
+          "Tu N. Nguyen",
+          "Selena He",
+          "Yong Shi",
+          "Kun Suo"
+        ]
+      },
+      {
+        "title": "DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs.",
+        "authors": [
+          "Ye Tian",
+          "Xiaoyuan Ren",
+          "Zihao Wang",
+          "Onat Güngör",
+          "Xiaofan Yu",
+          "Tajana Rosing"
+        ]
+      },
+      {
+        "title": "Detecting Untargeted Attacks and Mitigating Unreliable Updates in Federated Learning for Underground Mining Operations.",
+        "authors": [
+          "Md Sazedur Rahman",
+          "Mohamed Elmahallawy",
+          "Sanjay Madria",
+          "Samuel Frimpong"
+        ]
+      },
+      {
+        "title": "Distributed Participant Selection in Networks of Heterogeneous Drones for Federated Learning.",
+        "authors": [
+          "Chenyang Wang",
+          "Qi Han",
+          "Andrew Bernklau"
+        ]
+      },
+      {
+        "title": "Efficient Zero-Cost Neural Architecture Search for Personalized AI Systems in Cloud-Edge Networks.",
+        "authors": [
+          "Kai Huang",
+          "Yingchi Mao",
+          "Benteng Zhang",
+          "Yihan Chen",
+          "Yuchu Chen",
+          "Jie Wu"
+        ]
+      },
+      {
+        "title": "Enabling Joint Sensing and Communication via STBC Assisted NOMA in ISAC Systems.",
+        "authors": [
+          "Anindya Bal",
+          "Haofan Cai",
+          "Hanqing Guo",
+          "Yao Zheng",
+          "Xiaoxue Zhang"
+        ]
+      },
+      {
+        "title": "Energy-Aware Multi-Modal Vision Transformer (ViT) based C-V2X Cooperative Perception in CAVs.",
+        "authors": [
+          "Brandon Ramirez",
+          "Jonah Duncan",
+          "Tran Minh Khoi Le",
+          "Synnove Svendsen",
+          "Junaid Ahmed Khan"
+        ]
+      },
+      {
+        "title": "Fingerprint Authentication Using Vibration-boosted Refreshing Touchscreen.",
+        "authors": [
+          "Wen Liu",
+          "Zeyu Deng",
+          "Chen Wang"
+        ]
+      },
+      {
+        "title": "Parecon: Enhancing Mobile AI Vision Apps through DNN Partition and Resolution Control.",
+        "authors": [
+          "Junsoo Park",
+          "Yeongjin Kim"
+        ]
+      },
+      {
+        "title": "PCG: Enhancing Object Distance Estimation via Patch-to-Center Geometry.",
+        "authors": [
+          "Zhiyuan Guan",
+          "Zhiqiang Wang",
+          "Jiahui Hou",
+          "Zhentan Feng"
+        ]
+      },
+      {
+        "title": "PlaCoB: Collaborative Beamforming for Long Range Platoon-to-Platoon Communication.",
+        "authors": [
+          "Griffin Klevering",
+          "Kanishka P. Wijewardena",
+          "Xiao Zhang",
+          "Joshua Siegel",
+          "Li Xiao"
+        ]
+      },
+      {
+        "title": "PreFall: Early Detection of Consecutive Fall Events with Commercial Wi-Fi Devices.",
+        "authors": [
+          "Zhiwei Zheng",
+          "Junfeng Zhu",
+          "Shigeng Zhang",
+          "Yalong Xiao"
+        ]
+      },
+      {
+        "title": "Reliable Multi-view 3D Reconstruction for 'Just-in-time' Edge Environments.",
+        "authors": [
+          "Md. Nurul Absur",
+          "Abhinav Kumar",
+          "Swastik Brahma",
+          "Saptarshi Debroy"
+        ]
+      },
+      {
+        "title": "Robust Uplink Ranging in 5G Networks: An Integrated O-RAN Approach.",
+        "authors": [
+          "Viola Bernazzoli",
+          "Pietro Morri",
+          "Eugenio Moro",
+          "Mattia Brambilla",
+          "Ilario Filippini",
+          "Monica Nicoli"
+        ]
+      },
+      {
+        "title": "Root Cause Analysis of Cellular Network Throughput Degradations under Vehicular Mobility.",
+        "authors": [
+          "Eduardo Baena",
+          "Zihan Xu",
+          "Moinak Ghoshal",
+          "Imran Khan",
+          "Phuc Dinh",
+          "Z. Jonny Kong",
+          "Y. Charlie Hu",
+          "Dimitrios Koutsonikolas"
+        ]
+      },
+      {
+        "title": "RTASP: Real-Time Actuator and Sensor Platform.",
+        "authors": [
+          "Yinze Li",
+          "Brendan J. Mackenzie",
+          "Stefan Lommaert",
+          "Tom Van Eyck",
+          "Zhaoyi Liu",
+          "David Newton",
+          "Friedrich Wolf-Monheim",
+          "Sam Michiels",
+          "Danny Hughes"
+        ]
+      },
+      {
+        "title": "Demo: A Passive Optical Tagging Approach for Secure and Revocable Entry Systems.",
+        "authors": [
+          "Hasky Fynn",
+          "Jaskirat Sudan",
+          "Fatima Qasem",
+          "Fatima Mohammed",
+          "Xiao Zhang"
+        ]
+      },
+      {
+        "title": "Integrated Air Filtration System with Adaptive Regeneration for Public Transport and Industrial Appl.",
+        "authors": [
+          "Pavel Stasa",
+          "Filip Benes",
+          "Jiri Svub",
+          "Veroslav Holusa",
+          "Miroslava Obrusnikova",
+          "Jakub Unucka",
+          "Yong-Shin Kang",
+          "Sang Do Noh"
+        ]
+      },
+      {
+        "title": "Optimization of Warehouse Management Using Drones, Artificial Intelligence and RFID.",
+        "authors": [
+          "Pavel Stasa",
+          "Filip Benes",
+          "Jiri Svub",
+          "Veroslav Holusa",
+          "Miroslava Obrusnikova",
+          "Jan Dulovec",
+          "Lukas Hollesch",
+          "Jakub Unucka",
+          "Jongtae Rhee",
+          "Jin-Woo Jung"
+        ]
+      },
+      {
+        "title": "PAVE: Privacy-Preserving Aggregated Verification For Multi-Enterprises Blockchain.",
+        "authors": [
+          "Xiaoxue Zhang",
+          "Sammy Tesfai",
+          "Minmei Wang",
+          "Haofan Cai"
+        ]
+      },
+      {
+        "title": "Poster: Meter-Range Passive NFC for Battery-free Internet of Things.",
+        "authors": [
+          "Dickson Akuoko Sarpong",
+          "Hongzhi Guo"
+        ]
+      },
+      {
+        "title": "SDR Testbed for Mobile Distributed MIMO.",
+        "authors": [
+          "Yibin Liang",
+          "Usama Saeed",
+          "Ramin Safavinejad",
+          "Nima Mohammadi",
+          "Lingjia Liu"
+        ]
+      },
+      {
+        "title": "Smart_Safe: AI-Driven Safety System for Indoor Industrial Environments Using Wearable and Auto-ID.",
+        "authors": [
+          "Pavel Stasa",
+          "Filip Benes",
+          "Jiri Svub",
+          "Veroslav Holusa",
+          "Miroslava Obrusnikova",
+          "Jan Dulovec",
+          "Lukas Hollesch",
+          "Jakub Unucka",
+          "Jongtae Rhee",
+          "Jin-Woo Jung"
+        ]
+      },
+      {
+        "title": "Demo: A Real-Time Intelligent Mail Management System with Multimodal Learning.",
+        "authors": [
+          "Jia-Ming Liang",
+          "Shahsank Mishra",
+          "Kun-Lin Liu",
+          "Huan-I Liao",
+          "Jen-Chieh Wu",
+          "Yi-Ting Wang",
+          "Jen-Jee Chen"
+        ]
+      },
+      {
+        "title": "A Device-Cooperative-based Scheme for Federated Learning with Unreliable Communications in IIoT.",
+        "authors": [
+          "Tongzhou Yang",
+          "Qihao Li",
+          "Chao Liang",
+          "Zhuang Ling",
+          "Fengye Hu"
+        ]
+      },
+      {
+        "title": "Mitigating Adversarial Attacks in Object Detection using Multi-Modal Fusion in Autonomous Vehicles.",
+        "authors": [
+          "Ifrah Andleeb",
+          "Arsalan Hameed",
+          "Katsuya Suto",
+          "Mitra Mirhassani",
+          "Ning Zhang"
+        ]
+      },
+      {
+        "title": "Task Offloading for Collaborative Inference of LLM Agents at the Network Edge.",
+        "authors": [
+          "Yixuan Yang",
+          "Yutong Pan",
+          "Junhe Zhang",
+          "Wanli Ni"
+        ]
+      },
+      {
+        "title": "Can Large Language Models Be Trusted Paper Reviewers? A Feasibility Study.",
+        "authors": [
+          "Chuanlei Li",
+          "Xu Hu",
+          "Minghui Xu",
+          "Kun Li",
+          "Yue Zhang",
+          "Xiuzhen Cheng"
+        ]
+      },
+      {
+        "title": "Exploring Safer Image Sharing: A Vision-Language Approach to Privacy Risk Detection and Protection.",
+        "authors": [
+          "Bang Tran",
+          "Haoyu Wang",
+          "Xiaoqian Zhang",
+          "Peng Jiang"
+        ]
+      },
+      {
+        "title": "FlipBoost: Strengthening Backdoors in LoRA-Tuned Language Models via Bit-Level Injection.",
+        "authors": [
+          "Haoyang Peng",
+          "Minghui Xu",
+          "Yinhao Xiao"
+        ]
+      },
+      {
+        "title": "SCCA: A Multi-Agent Code Security Analysis Framework for AI-Assisted Code Generation.",
+        "authors": [
+          "Rui Jiao",
+          "Yue Zhang",
+          "Jinku Li",
+          "Boyang Ma"
+        ]
+      },
+      {
+        "title": "We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems.",
+        "authors": [
+          "Zhihao Li",
+          "Kun Li",
+          "Boyang Ma",
+          "Minghui Xu",
+          "Yue Zhang",
+          "Xiuzhen Cheng"
+        ]
+      },
+      {
+        "title": "When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs.",
+        "authors": [
+          "Yue Li",
+          "Xiao Li",
+          "Hao Wu",
+          "Yue Zhang",
+          "Fengyuan Xu",
+          "Xiuzhen Cheng",
+          "Sheng Zhong"
+        ]
+      },
+      {
+        "title": "A Deep Reinforcement Learning Framework for Multi-Interval HVAC Control.",
+        "authors": [
+          "Le Yu",
+          "Xing Su",
+          "Jiayue Zhang"
+        ]
+      },
+      {
+        "title": "A Review of Vision-Based Depth Estimation: Current Methods and Future Directions.",
+        "authors": [
+          "Xin Zhang",
+          "Yuqi Song",
+          "Deiby Wu Lee"
+        ]
+      },
+      {
+        "title": "An Efficient CNN with Adaptive Loss for Binocular Depth Estimation.",
+        "authors": [
+          "Deiby Wu Lee",
+          "Xin Zhang",
+          "Yuqi Song"
+        ]
+      },
+      {
+        "title": "An Empirical Study on the Multi-Stage Nature of APT Attacks in Cloud Computing.",
+        "authors": [
+          "Fei Zuo",
+          "Junghwan Rhee",
+          "Shuaibing Lu",
+          "Yuqi Song",
+          "Xin Zhang"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Centralized Authentication for Smart Vehicular Environments.",
+        "authors": [
+          "Busra Cayoren",
+          "Enver Ozdemir"
+        ]
+      },
+      {
+        "title": "Artificial Noise Aided NOMA-MISO System Based on Combinatorial Design.",
+        "authors": [
+          "Yu Xiao",
+          "Guillermo E. Atkin",
+          "Chi Zhou"
+        ]
+      },
+      {
+        "title": "Quantized Blockchain-Based Federated Learning for Secure and Efficient Training.",
+        "authors": [
+          "Hung-Chin Jang",
+          "Yu-You Liu"
+        ]
+      },
+      {
+        "title": "Quantum-Enhanced Clustering for Intrusion detection system in IoT devices.",
+        "authors": [
+          "Kowshick Srinivasan",
+          "Aakanksha Trivedi",
+          "Shuhui Yang"
+        ]
+      },
+      {
+        "title": "Lightweight Group Handover for Uncrewed Aerial Vehicles (UAVs).",
+        "authors": [
+          "Oylum Gerenli",
+          "Gunes Karabulut-Kurt",
+          "Enver Ozdemir"
+        ]
+      },
+      {
+        "title": "Adversarial Attacks and Defenses for Panoptic Perception Models in Autonomous Driving.",
+        "authors": [
+          "Devin Meyer",
+          "Ze Hao He",
+          "Yunge Li",
+          "Huirong Fu",
+          "Lanyu Xu"
+        ]
+      },
+      {
+        "title": "AIoT for Autism: Analyzing Motor Behaviors in Virtual Environments Using Visual Data.",
+        "authors": [
+          "Adam M. Deinhardt",
+          "Devin W. Bowler",
+          "Marcelo M. Carvalho",
+          "Ting Liu",
+          "Damian Valles"
+        ]
+      },
+      {
+        "title": "Automotive Security Virtual Exploration Platform for Wheel Speed Sensor Attacks.",
+        "authors": [
+          "Kyra Nhat-Thy Vo",
+          "Bhagawat Baanav Yedla Ravi",
+          "Mustafa Mohammad Shaky",
+          "Sandip Ray"
+        ]
+      },
+      {
+        "title": "Bit-Flipping Attack Exploration and Countermeasure in 5G Network.",
+        "authors": [
+          "Joon Kim",
+          "Chengwei Duan",
+          "Sandip Ray"
+        ]
+      },
+      {
+        "title": "Enhancing Addiction Research through Advanced Wearable Sensing and Data Analysis.",
+        "authors": [
+          "Abhinna Das",
+          "Oladayo Oyedeji",
+          "Reyva Babtista",
+          "Justin Varghese",
+          "Timothy Trull",
+          "Yi Shang"
+        ]
+      },
+      {
+        "title": "Exposing Privacy Vulnerabilities in mmWave Sensing via Membership Inference Attacks.",
+        "authors": [
+          "Haylie Rayl",
+          "Stephen Chien",
+          "Lucas Lippeatt",
+          "Amit Singha",
+          "Tao Li",
+          "Feng Li"
+        ]
+      },
+      {
+        "title": "Inter-Zone Trust and Secure Data Sharing in Mission-Critical Internet of Underwater Things.",
+        "authors": [
+          "Isaac Van Meter",
+          "Xiaoyan Hong"
+        ]
+      },
+      {
+        "title": "k-Coverage in Three-Dimensional Wireless Sensor Networks Using a Game Theoretical Approach.",
+        "authors": [
+          "Jorge R. Rodriguez",
+          "Habib M. Ammari"
+        ]
+      },
+      {
+        "title": "MalFusion: A Hybrid Approach to Ransomware Detection.",
+        "authors": [
+          "Christopher Xu",
+          "Emma Matsuda",
+          "Wilondja Jacob",
+          "Garvit Agarwal",
+          "Feng Li"
+        ]
+      },
+      {
+        "title": "Open, Adaptive, Object Detection for Edge Systems with a Vision-Language TinyLLM.",
+        "authors": [
+          "Elias Zheng",
+          "Jacob Chunn",
+          "Darrin Hanna",
+          "Huirong Fu"
+        ]
+      },
+      {
+        "title": "PA-JJAMA: An LLM Based Intrusion Detection System for CAN Bus Networks.",
+        "authors": [
+          "Joshua Quintano",
+          "Yao Qiang",
+          "Huirong Fu"
+        ]
+      },
+      {
+        "title": "Q-Learning-Based Sensor Selection for k-Coverage in Wireless Sensor Networks.",
+        "authors": [
+          "Roberto D. Esquivel",
+          "Habib M. Ammari"
+        ]
+      },
+      {
+        "title": "Robust Deepfake Detection via Synthetic Domain Alignment.",
+        "authors": [
+          "Ian Yee",
+          "Alan Huang",
+          "Shu Hu"
+        ]
+      },
+      {
+        "title": "Securing Distributed IoT Systems: Blockchain-Based Protocol with Integrated Intrusion Response.",
+        "authors": [
+          "Shahad Altamimi",
+          "Qasem Abu Al-Haija",
+          "Abdullah AlShuaibi"
+        ]
+      },
+      {
+        "title": "Simulation-Based Smart Home Architecture for Autism Support Using CSI-Based Movement Detection.",
+        "authors": [
+          "Devin Bowler",
+          "Adam Deinhardt",
+          "Marcelo M. Carvalho",
+          "Ting Liu",
+          "Damian Valles"
+        ]
+      },
+      {
+        "title": "A Secure D2D 5G-AKA Protocol with Anonymity Resistance and Perfect Forward Secrecy.",
+        "authors": [
+          "Shivam Patel",
+          "Ravi Kumar",
+          "Awaneesh Kumar Yadav",
+          "Manoj Misra"
+        ]
+      },
+      {
+        "title": "A Smart and Barrier-Aware Navigation System for Wheelchair Routing.",
+        "authors": [
+          "Asm Mobarak Hossain",
+          "Nadim Mahmud",
+          "Ethan Han",
+          "Neil Advani",
+          "Bibodh Baral",
+          "Md. Osman Gani",
+          "Vaskar Raychoudhury"
+        ]
+      },
+      {
+        "title": "A Three-Level Feature Selection Framework for Android Malware Detection.",
+        "authors": [
+          "Abdul Kadir",
+          "Sateesh Kumar Peddoju"
+        ]
+      },
+      {
+        "title": "DroidSwarmAI: Android Malware Detection using GCN and Bio-Inspired Feature Selection.",
+        "authors": [
+          "Amogh Babu K. A",
+          "Sateesh Kumar Peddoju"
+        ]
+      },
+      {
+        "title": "Edge-Enabled Acoustic Sensing for Real-Time UAV Detection and Localization in C-UAS Applications.",
+        "authors": [
+          "Jacob Hagberg",
+          "Paul Snyder",
+          "Michael Ullrich",
+          "Prasad Pothana",
+          "Sreejith Vidhyadharan"
+        ]
+      },
+      {
+        "title": "Ephemeral Social Networks: Capturing Proximity Social Networking at In-Person Events.",
+        "authors": [
+          "Alvin Chin",
+          "Billy Huang",
+          "Justin Chan",
+          "Joshua Garcia",
+          "Philip Yu",
+          "Kevin Leicht"
+        ]
+      },
+      {
+        "title": "Microgrid Testbed for Cybersecurity Studies: A Platform for Testing Attacks and Resilience.",
+        "authors": [
+          "Joseph Mikkelson",
+          "Dominic G. De La Cerda",
+          "Yanwei Wu",
+          "Xiaoguang Ma"
+        ]
+      },
+      {
+        "title": "IoT-Enabled Control Room for Coordinated UAV Fleet Management.",
+        "authors": [
+          "Manuel Delucchi",
+          "Gianni Viardo Vercelli",
+          "Subhransu Sourav Priyadarshan"
+        ]
+      },
+      {
+        "title": "Urban Roads and Aerial Autonomy: Are Drones Safe Above Busy Roads?",
+        "authors": [
+          "Papiya Das",
+          "Francesco Betti Sorbelli",
+          "Punyasha Chatterjee",
+          "Cristina M. Pinotti"
+        ]
+      },
+      {
+        "title": "A Priority-Based Spectrum Allocation Method for Centralized UAV Networks.",
+        "authors": [
+          "Jacob H. Zawadzki",
+          "Mohammed A. Jasim"
+        ]
+      },
+      {
+        "title": "Mobility-Aware Orchestration for UAV-Enabled IoT Networks in Emergency Scenarios.",
+        "authors": [
+          "Alexandre Heideker",
+          "Giovanni Interdonato",
+          "Sara Pizzi",
+          "Antonella Molinaro",
+          "Angelo Trotta"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/mass/mass2021.html": {
     "header": "16th MASS 2021: Denver, CO, USA",
     "year": "2021",

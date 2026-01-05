@@ -1,4 +1,486 @@
 {
+  "https://dblp.org/db/conf/hotnets/hotnets2025.html": {
+    "header": "24th HotNets 2025:\nCollege Park, MD, USA",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Path-Oblivious Entanglement Swapping for the Quantum Internet.",
+        "authors": [
+          "Vincent Mutolo",
+          "Rhea Parekh",
+          "Dan Rubenstein"
+        ]
+      },
+      {
+        "title": "Faster-than-light coordination for networked systems with quantum non-local games.",
+        "authors": [
+          "Venkat Arun",
+          "Vijay Chidambaram",
+          "Scott Aaronson"
+        ]
+      },
+      {
+        "title": "Modeling Metastability.",
+        "authors": [
+          "Ali Farahbakhsh",
+          "Andreas Haeberlen",
+          "Qingjie Lu",
+          "Lorenzo Alvisi",
+          "Robbert van Renesse",
+          "Shir Cohen"
+        ]
+      },
+      {
+        "title": "Unveiling and Engaging with the Humans of Networking Research.",
+        "authors": [
+          "Nova Ahmed",
+          "Laura Gazda",
+          "Eric Greenlee",
+          "Shelby Hagemann",
+          "Kurtis Heimerl",
+          "Esther Han Beol Jang",
+          "Fernanda R. Rosa",
+          "Loqman Salamatian",
+          "Jason C. Young"
+        ]
+      },
+      {
+        "title": "A Breath of Fresh Air: Visualizing How Networks \"Breathe\".",
+        "authors": [
+          "Stephen Jasina",
+          "Loqman Salamatian",
+          "Paul Barford",
+          "Mark Crovella",
+          "Walter Willinger"
+        ]
+      },
+      {
+        "title": "The Small World Web of AI.",
+        "authors": [
+          "Noa Zilberman",
+          "Alexander Jackson"
+        ]
+      },
+      {
+        "title": "Man-Made Heuristics Are Dead. Long Live Code Generators!",
+        "authors": [
+          "Rohit Dwivedula",
+          "Divyanshu Saxena",
+          "Aditya Akella",
+          "Swarat Chaudhuri",
+          "Daehyeok Kim"
+        ]
+      },
+      {
+        "title": "Towards an Agentic Workflow for Internet Measurement Research.",
+        "authors": [
+          "Alagappan Ramanathan",
+          "Eunju Kang",
+          "Dongsu Han",
+          "Sangeetha Abdu Jyothi"
+        ]
+      },
+      {
+        "title": "A Case for Learned Cloud Emulators.",
+        "authors": [
+          "Archit Bhatnagar",
+          "Yiming Qiu",
+          "Sarah McClure",
+          "Sylvia Ratnasamy",
+          "Ang Chen"
+        ]
+      },
+      {
+        "title": "The Privacy Quagmire: Where Computer Scientists and Lawyers May Disagree.",
+        "authors": [
+          "Yunwei Zhao",
+          "Varun Chandrasekaran",
+          "Thomas Wies",
+          "Lakshminarayanan Subramanian"
+        ]
+      },
+      {
+        "title": "Data Centers Manufacturing Steel: Rethinking Industrial Networks in the Age of IT.",
+        "authors": [
+          "Nikolaos Mitsakis",
+          "Marco Reisacher",
+          "Matthias Eichholz",
+          "Yannic Breiting",
+          "Harald Albrecht",
+          "Andreas Blenk",
+          "Oliver Hohlfeld"
+        ]
+      },
+      {
+        "title": "GPUnion: Autonomous GPU Sharing on Campus.",
+        "authors": [
+          "Yufang Li",
+          "Yuanbo Zhang",
+          "Hanlong Liao",
+          "Deke Guo",
+          "Guoming Tang"
+        ]
+      },
+      {
+        "title": "A Call to Arms: Motivating An Internet Measurements Observatory for Africa.",
+        "authors": [
+          "Semebia Y. Wurah",
+          "Nicholas Brian Anya",
+          "Theophilus A. Benson"
+        ]
+      },
+      {
+        "title": "Anyone, Anywhere, not Everyone, Everywhere: Starlink Doesn't End the Digital Divide.",
+        "authors": [
+          "Wesley Woo",
+          "Juan A. Fraire",
+          "Sylvia Ratnasamy",
+          "Scott Shenker",
+          "Shaddi Hasan"
+        ]
+      },
+      {
+        "title": "Sustainability or Survivability? Eliminating the Need to Choose in LEO Satellite Constellations.",
+        "authors": [
+          "Chris Misa",
+          "Ramakrishnan Durairajan"
+        ]
+      },
+      {
+        "title": "Lost in Translation: The Search for Meaning in Network-Attached AI Accelerator Disaggregation.",
+        "authors": [
+          "Jaewan Hong",
+          "Yifan Qiao",
+          "Soujanya Ponnapalli",
+          "Shu Liu",
+          "Marcos K. Aguilera",
+          "Vincent Liu",
+          "Christopher J. Rossbach",
+          "Ion Stoica"
+        ]
+      },
+      {
+        "title": "FlowPulse: Catching Network Failures in ML Clusters.",
+        "authors": [
+          "Jakob Krebs",
+          "Dimitry Gavrilenko",
+          "Daniel Amir",
+          "Shir Landau Feibish",
+          "Mark Silberstein"
+        ]
+      },
+      {
+        "title": "Photonic Rails in ML Datacenters.",
+        "authors": [
+          "Eric Ding",
+          "Chuhan Ouyang",
+          "Rachee Singh"
+        ]
+      },
+      {
+        "title": "One to Many: Closing the Bandwidth Gap in AI Datacenters with Scalable Multicast.",
+        "authors": [
+          "Sepehr Abdous",
+          "Jinqi Lu",
+          "Jiacheng Wan",
+          "Erfan Sharafzadeh",
+          "Ying Zhang",
+          "Soudeh Ghorbani"
+        ]
+      },
+      {
+        "title": "JEEVES: The Valet Who Masters the Art of Cross-DC Training Scheduling.",
+        "authors": [
+          "Haotian Deng",
+          "Xuebin Song",
+          "Menghao Zhang",
+          "Yuan Yang",
+          "Mingwei Xu"
+        ]
+      },
+      {
+        "title": "Tackling Ambiguity in User Intent for LLM-based Network Configuration Synthesis.",
+        "authors": [
+          "Rajdeep Mondal",
+          "Nikolaj S. Bjørner",
+          "Todd D. Millstein",
+          "Alan Tang",
+          "George Varghese"
+        ]
+      },
+      {
+        "title": "Just-in-Time Logic Enforcement: A new paradigm of combining statistical and symbolic reasoning for network management.",
+        "authors": [
+          "Hongyu Hè",
+          "Maria Apostolaki"
+        ]
+      },
+      {
+        "title": "Programmable and Adaptive Scheduling for Distributed Systems.",
+        "authors": [
+          "Yuyao Wang",
+          "Xiangfeng Zhu",
+          "Ratul Mahajan",
+          "Stephanie Wang"
+        ]
+      },
+      {
+        "title": "Software Managed Networks via Coarsening.",
+        "authors": [
+          "Pradeep Dogga",
+          "Rachee Singh",
+          "Suman Nath",
+          "Ravi Netravali",
+          "Jens Palsberg",
+          "George Varghese"
+        ]
+      },
+      {
+        "title": "Towards Accessible Model-Free Verification.",
+        "authors": [
+          "Alexander Krentsel",
+          "Oliver Ye",
+          "Anthony Tafoya",
+          "Xuqian Ma",
+          "Sylvia Ratnasamy",
+          "Anees Shaikh"
+        ]
+      },
+      {
+        "title": "Towards Incremental MTU Upgrade for the Internet.",
+        "authors": [
+          "Junghan Yoon",
+          "Youngmin Choi",
+          "Juyoung Park",
+          "Daehyeok Kim",
+          "Changhoon Kim",
+          "KyoungSoo Park"
+        ]
+      },
+      {
+        "title": "Beyond Lamport, Towards Probabilistic Fair Ordering.",
+        "authors": [
+          "Muhammad Haseeb",
+          "Jinkun Geng",
+          "Radhika Mittal",
+          "Aurojit Panda",
+          "Srinivas Narayana",
+          "Anirudh Sivaraman"
+        ]
+      },
+      {
+        "title": "Rethinking Geolocalization on the Internet.",
+        "authors": [
+          "Augustin Laouar",
+          "Loïc Desgeorges",
+          "Paul Schmitt",
+          "Francesco Bronzino"
+        ]
+      },
+      {
+        "title": "Petabit Router-in-a-Package: Rethinking Internet Routers in the Age of In-Packaged Optics and Heterogeneous Integration.",
+        "authors": [
+          "Isaac Keslassy",
+          "Bill Lin"
+        ]
+      },
+      {
+        "title": "Rethinking the Role of Network Stacks for Website Fingerprinting Defenses.",
+        "authors": [
+          "Elisaveta Lavrentieva",
+          "Marc Juarez",
+          "Michio Honda"
+        ]
+      },
+      {
+        "title": "Towards Structurally Extensible Host Network Stacks.",
+        "authors": [
+          "Kumar Kartikeya Dwivedi",
+          "Rishabh R. Iyer",
+          "Sanidhya Kashyap"
+        ]
+      },
+      {
+        "title": "OpenDesc: From Static NIC Descriptors to Evolvable Metadata Interfaces.",
+        "authors": [
+          "Seyyidahmed Lahmer",
+          "Nikita Tyunyayev",
+          "Tom Barbette"
+        ]
+      },
+      {
+        "title": "Your network doesn't end at the NIC: A case for unifying the inter-host and intra-host networks in (AI) datacenters.",
+        "authors": [
+          "Raj Joshi",
+          "Saksham Agarwal",
+          "ChonLam Lao",
+          "Minlan Yu"
+        ]
+      },
+      {
+        "title": "Server Chiplet Networking.",
+        "authors": [
+          "Seunghyun An",
+          "Joontaek Oh",
+          "Ming Liu"
+        ]
+      },
+      {
+        "title": "Remote Direct Code Execution.",
+        "authors": [
+          "Yibo Huang",
+          "Yiming Qiu",
+          "Daqian Ding",
+          "Patrick Tser Jern Kon",
+          "Yiwen Zhang",
+          "Yuzhou Mao",
+          "Archit Bhatnagar",
+          "Mosharaf Chowdhury",
+          "Srinivas Devadas",
+          "Jiarong Xing",
+          "Ang Chen"
+        ]
+      },
+      {
+        "title": "It Is Time to Address Network Power Proportionality.",
+        "authors": [
+          "Lukas Röllin",
+          "Romain Jacob",
+          "Laurent Vanbever"
+        ]
+      },
+      {
+        "title": "Rethinking the Cost of Distributed Caches for Datacenter Services.",
+        "authors": [
+          "Ziming Mao",
+          "Jonathan D. Ellithorpe",
+          "Atul Adya",
+          "Rishabh Iyer",
+          "Matei Zaharia",
+          "Scott Shenker",
+          "Ion Stoica"
+        ]
+      },
+      {
+        "title": "When Light Bends to the Collective Will: A Theory and Vision for Adaptive Photonic Scale-up Domains.",
+        "authors": [
+          "Vamsi Addanki"
+        ]
+      },
+      {
+        "title": "Once Bitten, Still Shy: Can We Prevent Cloud Systems from Repeating Their Mistakes?",
+        "authors": [
+          "Dimas Shidqi Parikesit",
+          "Chang Lou"
+        ]
+      },
+      {
+        "title": "Mitigating Inter-datacenter Incast with a Proxy: The shortest path is not necessarily the fastest.",
+        "authors": [
+          "Anchengcheng Zhou",
+          "Carter Costic",
+          "Hongyu Hè",
+          "Ahmad Ghalayini",
+          "Abdul Kabbani",
+          "Maria Apostolaki"
+        ]
+      },
+      {
+        "title": "A Modern Edge-based Design for Cellular Roaming.",
+        "authors": [
+          "Tenzin Samten Ukyab",
+          "Shaddi Hasan",
+          "Sylvia Ratnasamy",
+          "Scott Shenker"
+        ]
+      },
+      {
+        "title": "Automatically Surfacing Opportunities for Improvements In Internet-Scale Applications.",
+        "authors": [
+          "Vipul Harsh",
+          "Sayan Sinha",
+          "Henry Milner",
+          "Haijie Wu",
+          "B. Aditya Prakash",
+          "Vyas Sekar",
+          "Hui Zhang"
+        ]
+      },
+      {
+        "title": "Leveraging Certificate Transparency to Mitigate Downgrade Attacks.",
+        "authors": [
+          "Hyunsoo Kim",
+          "Myungbin Hwang",
+          "Ted Taekyoung Kwon"
+        ]
+      },
+      {
+        "title": "The Case for Crowd-Sourcing Communication to BLE-Only Devices.",
+        "authors": [
+          "Alex Bellon",
+          "Tess Despres",
+          "Prabal Dutta",
+          "Pat Pannuto",
+          "Sylvia Ratnasamy"
+        ]
+      },
+      {
+        "title": "The Internet as Sisyphus: Repeating Measurements, Missing Causes.",
+        "authors": [
+          "Loqman Salamatian"
+        ]
+      },
+      {
+        "title": "Above the Clouds: New Software Challenges in Space Computing.",
+        "authors": [
+          "Haoda Wang",
+          "Robert Leo Pendergrast",
+          "Kristófer Fannar Björnsson",
+          "Anika Somaia",
+          "Ezra Landa",
+          "Junfeng Yang",
+          "Asaf Cidon"
+        ]
+      },
+      {
+        "title": "Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI.",
+        "authors": [
+          "Jiangkai Wu",
+          "Zhiyuan Ren",
+          "Liming Liu",
+          "Xinggong Zhang"
+        ]
+      },
+      {
+        "title": "Towards Verifiable Network Telemetry without Special Purpose Hardware.",
+        "authors": [
+          "Jaechan An",
+          "Zeying Zhu",
+          "Ian Miers",
+          "Zaoxing Liu"
+        ]
+      },
+      {
+        "title": "From req/res to pub/sub: Exploring Media over QUIC Transport for DNS.",
+        "authors": [
+          "Mathis Engelbart",
+          "Mike Kosek",
+          "Lars Eggert",
+          "Jörg Ott"
+        ]
+      },
+      {
+        "title": "FlexSFP: Rethinking Network Intelligence Inside the Cable.",
+        "authors": [
+          "Angelo Tulumello",
+          "Alessandro Rivitti",
+          "Giacomo Belocchi",
+          "Giuseppe Bianchi",
+          "Luka Perkov"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/hotnets/hotnets2024.html": {
     "header": "23rd HotNets 2024:\nIrvine, CA, USA",
     "year": "2024",

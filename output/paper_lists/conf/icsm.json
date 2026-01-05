@@ -1,4 +1,977 @@
 {
+  "https://dblp.org/db/conf/icsm/icsme2025.html": {
+    "header": "41st ICSME 2025: Auckland, New Zealand",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Refactoring Deep Learning Code: a Study of Practices and Unsatisfied Tool Needs.",
+        "authors": [
+          "Siqi Wang",
+          "Xing Hu",
+          "Bei Wang",
+          "WenXin Yao",
+          "Xin Xia",
+          "Xinyu Wang"
+        ]
+      },
+      {
+        "title": "Governance Matters: Lessons From Restructuring the Data.Table OSS Project.",
+        "authors": [
+          "Pedro Oliveira",
+          "Doris Amoakohene",
+          "Toby Hocking",
+          "Marco Aurélio Gerosa",
+          "Igor Steinmacher"
+        ]
+      },
+      {
+        "title": "TSGuard: Detecting Logic Bugs in Time Series Management Systems Via Time Series Algebra.",
+        "authors": [
+          "Lingwei Kuang",
+          "Liang Liu",
+          "Wenjing Wang",
+          "Ning Cao",
+          "Shijie Li",
+          "Fan Liu",
+          "Haolong Chen",
+          "WenJian Liao"
+        ]
+      },
+      {
+        "title": "Targeted Test Selection Approach in Continuous Integration.",
+        "authors": [
+          "Pavel Plyusnin",
+          "Aleksey Antonov",
+          "Vasilii Ermakov",
+          "Aleksandr Khaybriev",
+          "Margarita Kikot",
+          "Ilseyar Alimova",
+          "Stanislav Moiseev"
+        ]
+      },
+      {
+        "title": "From Release to Adoption: Challenges in Reusing Pre-Trained Ai Models for Downstream Developers.",
+        "authors": [
+          "Peerachai Banyongrakkul",
+          "Mansooreh Zahedi",
+          "Patanamon Thongtanunam",
+          "Christoph Treude",
+          "Haoyu Gao"
+        ]
+      },
+      {
+        "title": "Together We are Better: LLM, IDE and Semantic Embedding to Assist Move Method Refactoring.",
+        "authors": [
+          "Abhiram Bellur",
+          "Fraol Batole",
+          "Mohammed Raihan Ullah",
+          "Malinda Dilhara",
+          "Yaroslav Zharov",
+          "Timofey Bryksin",
+          "Kai Ishikawa",
+          "Haifeng Chen",
+          "Masaharu Morimoto",
+          "Takeo Hosomi",
+          "Tien N. Nguyen",
+          "Hridesh Rajan",
+          "Nikolaos Tsantalis",
+          "Danny Dig"
+        ]
+      },
+      {
+        "title": "Toward Realistic Evaluations of Just-In-Time Vulnerability Prediction.",
+        "authors": [
+          "Duong Nguyen",
+          "Thanh Le-Cong",
+          "Triet Huynh Minh Le",
+          "M. Ali Babar",
+          "Quyet-Thang Huynh"
+        ]
+      },
+      {
+        "title": "Code Property Graph Meets Typestate: A Scalable Framework to Behavioral Bug Detection.",
+        "authors": [
+          "Xingjing Deng",
+          "Zhengyao Liu",
+          "Xitong Zhong",
+          "Shuo Hong",
+          "Yixin Yang",
+          "Xiang Gao",
+          "Xuhui Yan",
+          "Hailong Sun"
+        ]
+      },
+      {
+        "title": "Evaluating the Maintainability of Forward-Porting Vulnerabilities in Fuzzer Benchmarks.",
+        "authors": [
+          "Timothée Riom",
+          "Sabine Houy",
+          "Bruno Kreyssig",
+          "Alexandre Bartel"
+        ]
+      },
+      {
+        "title": "Is Quantization a Deal-Breaker? Empirical Insights From Large Code Models.",
+        "authors": [
+          "Saima Afrin",
+          "Bowen Xu",
+          "Antonio Mastropaolo"
+        ]
+      },
+      {
+        "title": "Can Llms Update Api Documentation?",
+        "authors": [
+          "Seonah Lee",
+          "Jueun Heo",
+          "Katherine R. Dearstyne"
+        ]
+      },
+      {
+        "title": "A Jump-Table-Agnostic Switch Recovery on ASTs.",
+        "authors": [
+          "Steffen Enders",
+          "Eva-Maria C. Behner",
+          "Elmar Padilla"
+        ]
+      },
+      {
+        "title": "Software Fairness Testing in Practice.",
+        "authors": [
+          "Ronnie de Souza Santos",
+          "Matheus de Morais Leça",
+          "Reydne Santos",
+          "Cleyton V. C. de Magalhães"
+        ]
+      },
+      {
+        "title": "APIDocBooster: An Extract-Then-Abstract Framework for Augmenting API Documentation.",
+        "authors": [
+          "Chengran Yang",
+          "Jiakun Liu",
+          "Bowen Xu",
+          "Christoph Treude",
+          "Yunbo Lyu",
+          "Junda He",
+          "Ming Li",
+          "David Lo"
+        ]
+      },
+      {
+        "title": "LLM-SZZ: Novel Vulnerability-Inducing Commit Identification Driven by Large Language Model and CVE Description.",
+        "authors": [
+          "Siqi Fan",
+          "Xin Liu",
+          "Yingli Zhang",
+          "Yuan Tan",
+          "Luxing Yin",
+          "Zhaorun Chen",
+          "Song Li",
+          "Lei Qiao",
+          "Rui Zhou"
+        ]
+      },
+      {
+        "title": "SAEL: Leveraging Large Language Models with Adaptive Mixture-of-Experts for Smart Contract Vulnerability Detection.",
+        "authors": [
+          "Lei Yu",
+          "Shiqi Cheng",
+          "Zhirong Huang",
+          "Jingyuan Zhang",
+          "Chenjie Shen",
+          "Junyi Lu",
+          "Li Yang",
+          "Fengjun Zhang",
+          "Jiajia Ma"
+        ]
+      },
+      {
+        "title": "Harnessing LLMs for Document-Guided Fuzzing of OpenCV Library.",
+        "authors": [
+          "Bin Duan",
+          "Tarek Mahmud",
+          "Meiru Che",
+          "Yan Yan",
+          "Naipeng Dong",
+          "Dan Dongseong Kim",
+          "Guowei Yang"
+        ]
+      },
+      {
+        "title": "Boosting Redundancy-Based Automated Program Repair by Fine-Grained Pattern Mining.",
+        "authors": [
+          "Jiajun Jiang",
+          "Fengjie Li",
+          "Zijie Zhao",
+          "Zhirui Ye",
+          "Mengjiao Liu",
+          "Bo Wang",
+          "Hongyu Zhang",
+          "Junjie Chen"
+        ]
+      },
+      {
+        "title": "Enhanced Vulnerability Localization: Harmonizing Task-Specific Tuning and General LLM Prompting.",
+        "authors": [
+          "Wentong Tian",
+          "Yuanzhang Lin",
+          "Xiang Gao",
+          "Hailong Sun"
+        ]
+      },
+      {
+        "title": "Evaluation of the Language Server Protocol for Static Dependency Analysis.",
+        "authors": [
+          "Falko Galperin",
+          "Michel Krause",
+          "Rainer Koschke"
+        ]
+      },
+      {
+        "title": "Understanding the Faults in Serverless Computing Based Applications: An Empirical Study.",
+        "authors": [
+          "Changrong Xie",
+          "Yang Zhang",
+          "Xinjun Mao",
+          "Kang Yang",
+          "Tanghaoran Zhang"
+        ]
+      },
+      {
+        "title": "Metamorphic Testing of Large Language Models for Natural Language Processing.",
+        "authors": [
+          "Steven Cho",
+          "Stefano Ruberto",
+          "Valerio Terragni"
+        ]
+      },
+      {
+        "title": "Adoption and Evolution of Code Style and Best Programming Practices in Open-Source Projects.",
+        "authors": [
+          "Alvari Kupari",
+          "Nasser Giacaman",
+          "Valerio Terragni"
+        ]
+      },
+      {
+        "title": "Performance Testing in Open-Source Web Projects: Adoption, Maintenance, and a Change Taxonomy.",
+        "authors": [
+          "Sergio Di Meglio",
+          "Luigi Libero Lucio Starace",
+          "Valeria Pontillo",
+          "Ruben Opdebeeck",
+          "Coen De Roover",
+          "Sergio Di Martino"
+        ]
+      },
+      {
+        "title": "Bridging Solidity Evolution Gaps: An LLM-Enhanced Approach for Smart Contract Compilation Error Resolution.",
+        "authors": [
+          "Likai Ye",
+          "Mengliang Li",
+          "Dehai Zhao",
+          "Jiamou Sun",
+          "Xiaoxue Ren"
+        ]
+      },
+      {
+        "title": "Onweer: Automated Resilience Testing Through Fuzzing.",
+        "authors": [
+          "Gilles Coremans",
+          "Coen De Roover"
+        ]
+      },
+      {
+        "title": "OptionFuzz: Fuzzing SMT Solvers with Optimized Option Exploration via Large Language Models.",
+        "authors": [
+          "Yuhao Peng",
+          "Jingzheng Wu",
+          "Xiang Ling",
+          "Zhiyuan Li",
+          "Tianyue Luo",
+          "Yanjun Wu"
+        ]
+      },
+      {
+        "title": "AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection.",
+        "authors": [
+          "Zixian Zhang",
+          "Takfarinas Saber"
+        ]
+      },
+      {
+        "title": "\"Let it be Chaos in the Plumbing!\" Usage and Efficacy of Chaos Engineering in DevOps Pipelines.",
+        "authors": [
+          "Stefano Fossati",
+          "Damian Andrew Tamburri",
+          "Massimiliano Di Penta",
+          "Marco Tonnarelli"
+        ]
+      },
+      {
+        "title": "Are Classical Clone Detectors Good Enough for the AI Era?",
+        "authors": [
+          "Ajmain Inqiad Alam",
+          "Palash Ranjan Roy",
+          "Farouq Al-Omari",
+          "Chanchal K. Roy",
+          "Banani Roy",
+          "Kevin A. Schneider"
+        ]
+      },
+      {
+        "title": "Are All Code Reviews the Same? Identifying and Assessing the Impact of Merge Request Deviations.",
+        "authors": [
+          "Samah Kansab",
+          "Francis Bordeleau",
+          "Ali Tizghadam"
+        ]
+      },
+      {
+        "title": "Characterizing the System Evolution That is Proposed After a Software Incident.",
+        "authors": [
+          "Matt Pope",
+          "Jonathan Sillito"
+        ]
+      },
+      {
+        "title": "ADPP: Automated Data-Centric Program Partitioning.",
+        "authors": [
+          "Xuming Jin",
+          "Hao Han"
+        ]
+      },
+      {
+        "title": "Social Media Reactions to Open Source Promotions: AI-Powered GitHub Projects on Hacker News.",
+        "authors": [
+          "Prachnachai Meakpaiboonwattana",
+          "Warittha Tarntong",
+          "Thai Mekratanavorakul",
+          "Chaiyong Ragkhitwetsagul",
+          "Pattaraporn Sangaroonsilp",
+          "Raula Gaikovina Kula",
+          "Morakot Choetkiertikul",
+          "Kenichi Matsumoto",
+          "Thanwadee Sunetnanta"
+        ]
+      },
+      {
+        "title": "Trust and Verify: Formally Verified and Upgradable Trusted Functions.",
+        "authors": [
+          "Marcus Birgersson",
+          "Cyrille Artho",
+          "Musard Balliu"
+        ]
+      },
+      {
+        "title": "Retrieve, Refine, or Both? Using Task-Specific Guidelines for Secure Python Code Generation.",
+        "authors": [
+          "Catherine Tony",
+          "Emanuele Iannone",
+          "Riccardo Scandariato"
+        ]
+      },
+      {
+        "title": "The Impact of Fine-Tuning Large Language Models on Automated Program Repair.",
+        "authors": [
+          "Roman Machácek",
+          "Anastasiia Grishina",
+          "Max Hort",
+          "Leon Moonen"
+        ]
+      },
+      {
+        "title": "A Taxonomy of Inefficiencies in LLM-Generated Python Code.",
+        "authors": [
+          "Altaf Allah Abbassi",
+          "Léuson M. P. da Silva",
+          "Amin Nikanjam",
+          "Foutse Khomh"
+        ]
+      },
+      {
+        "title": "Security Vulnerabilities in Docker Images: A Cross-Tag Study of Application Dependencies.",
+        "authors": [
+          "Hamid Mohayeji",
+          "Eleni Constantinou",
+          "Alexander Serebrenik"
+        ]
+      },
+      {
+        "title": "Automatically Augmenting GitHub Issues with Informative User Reviews.",
+        "authors": [
+          "Arthur Pilone",
+          "Marco Raglianti",
+          "Michele Lanza",
+          "Fabio Kon",
+          "Paulo Meirelles"
+        ]
+      },
+      {
+        "title": "Syntest-ACR: Automated Crash Reproduction for Javascript.",
+        "authors": [
+          "Philip Oliver",
+          "Jens Dietrich",
+          "Craig Anslow",
+          "Michael Homer"
+        ]
+      },
+      {
+        "title": "Boosting Log Observability in Production Systems Through Bytecode-Driven Fault Variable Tracking.",
+        "authors": [
+          "Taizheng Wang",
+          "Yutong Wang",
+          "Wei Chang",
+          "Chunyang Ye",
+          "Hui Zhou"
+        ]
+      },
+      {
+        "title": "Does Editing Improve Answer Quality on Stack Overflow? A Data-Driven Investigation.",
+        "authors": [
+          "Saikat Mondal",
+          "Chanchal K. Roy"
+        ]
+      },
+      {
+        "title": "RMGenie: An LLM-Based Agent Framework for Open Source Software README Generation.",
+        "authors": [
+          "Xing Cui",
+          "Jingzheng Wu",
+          "Zhiyuan Li",
+          "Tianyue Luo",
+          "Xiang Ling"
+        ]
+      },
+      {
+        "title": "ROSEAU: Fast, Accurate, Source-Based API Breaking Change Analysis in Java.",
+        "authors": [
+          "Corentin Latappy",
+          "Thomas Degueule",
+          "Jean-Rémy Falleri",
+          "Romain Robbes",
+          "Lina Ochoa"
+        ]
+      },
+      {
+        "title": "An Efficient Android App Debloating Approach Based on Multi-Layer Dependence Graph.",
+        "authors": [
+          "Hengqin Yang",
+          "Jiwei Yan",
+          "Jun Yan",
+          "Bin Liang",
+          "Jian Zhang"
+        ]
+      },
+      {
+        "title": "Nüwa: Enhancing MLIR Fuzzing with LLM-Driven Generation and Adaptive Mutation.",
+        "authors": [
+          "Bocan Cao",
+          "Weiyuan Tong",
+          "Zhanyong Tang",
+          "Zixu Wang",
+          "Hao Huang",
+          "Yuheng Yan"
+        ]
+      },
+      {
+        "title": "HybridRCA: Lightweight Critical-Path-Aware Hybrid Tracing for Root-Cause Analysis in Production Microservices.",
+        "authors": [
+          "Maryam Ekhlasi",
+          "Arnaud Fiorini",
+          "Michel R. Dagenais",
+          "Naser Ezzati-Jivan",
+          "Maxime Lamothe"
+        ]
+      },
+      {
+        "title": "Improving Merge Pipeline Throughput in Continuous Integration via Pull Request Prioritization.",
+        "authors": [
+          "Maximilian Jungwirth",
+          "Martin Gruber",
+          "Gordon Fraser"
+        ]
+      },
+      {
+        "title": "Levels of Binary Equivalence for the Comparison of Binaries from Alternative Builds.",
+        "authors": [
+          "Jens Dietrich",
+          "Tim White",
+          "Behnaz Hassanshahi",
+          "Paddy Krishnan"
+        ]
+      },
+      {
+        "title": "Constraint Discovery for Structured Generation via LLM-Guided SMT Inference.",
+        "authors": [
+          "Hrishikesh Karmarkar",
+          "Supriya Agrawal",
+          "Siddhesh Pagar",
+          "Vaibhavi Joshi",
+          "Sagar Verma",
+          "Naman Paul"
+        ]
+      },
+      {
+        "title": "Testing is Not Boring: Characterizing Challenge in Software Testing Tasks.",
+        "authors": [
+          "Davi Gama Hardman",
+          "César França",
+          "Brody Stuart-Verner",
+          "Ronnie de Souza Santos"
+        ]
+      },
+      {
+        "title": "Automated Code Review Using Large Language Models at Ericsson: An Experience Report.",
+        "authors": [
+          "Shweta Ramesh",
+          "Joy Bose",
+          "Hamender Singh",
+          "A K. Raghavan",
+          "Sujoy Roy Chowdhury",
+          "Giriprasad Sridhara",
+          "Nishrith Saini",
+          "Ricardo Britto"
+        ]
+      },
+      {
+        "title": "A Deep Dive into Retrieval-Augmented Generation for Code Completion: Experience on WeChat.",
+        "authors": [
+          "Zezhou Yang",
+          "Ting Peng",
+          "Cuiyun Gao",
+          "Chaozheng Wang",
+          "Hailiang Huang",
+          "Yuetang Deng"
+        ]
+      },
+      {
+        "title": "Requirements Ambiguity Detection and Explanation with LLMS: An Industrial Study.",
+        "authors": [
+          "Sarmad Bashir",
+          "Alessio Ferrari",
+          "Abbas Khan",
+          "Per Erik Strandberg",
+          "Zulqarnain Haider",
+          "Mehrdad Saadatmand",
+          "Markus Bohlin"
+        ]
+      },
+      {
+        "title": "Efficient Detection of Intermittent Job Failures Using Few-Shot Learning.",
+        "authors": [
+          "Henri Aïdasso",
+          "Francis Bordeleau",
+          "Ali Tizghadam"
+        ]
+      },
+      {
+        "title": "AskGraph: A Dependency-Aware Code Assistant Powered by Code Graphs and LLM-Generated Cypher Queries.",
+        "authors": [
+          "Nan Yang",
+          "Joseph Reynolds",
+          "Laurens Prast",
+          "Rosilde Corvino"
+        ]
+      },
+      {
+        "title": "Automated Recovery of Software Product Lines from Legacy Configurable Codebases.",
+        "authors": [
+          "Tewfik Ziadi",
+          "Karim Ghallab",
+          "Zaak Chalal"
+        ]
+      },
+      {
+        "title": "AI Mentor System: Building a Technical Debt Dashboard for Low Code.",
+        "authors": [
+          "Alexandre Lemos",
+          "Joana Coutinho"
+        ]
+      },
+      {
+        "title": "Integrating Rules and Semantics for LLM-Based C-to-Rust Translation.",
+        "authors": [
+          "Feng Luo",
+          "Kexing Ji",
+          "Cuiyun Gao",
+          "Shuzheng Gao",
+          "Jia Feng",
+          "Kui Liu",
+          "Xin Xia",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "Combining Insights from Multiple Tools to Manage Technical Debt in Industrial C# Projects.",
+        "authors": [
+          "Simeon Tverdal",
+          "Phu Hong Nguyen",
+          "Arda Goknil",
+          "Antonio Martini",
+          "Merve Astekin",
+          "Mili Orucevic",
+          "Maren Maritsdatter Kruke",
+          "Håvard Stranden"
+        ]
+      },
+      {
+        "title": "Monitoring Continuous Integration Practices in Industry: A Case Study.",
+        "authors": [
+          "Jadson Santos",
+          "Daniel Alencar da Costa",
+          "Uirá Kulesza"
+        ]
+      },
+      {
+        "title": "Code Readability in the Age of Large Language Models: An Industrial Case Study from Atlassian.",
+        "authors": [
+          "Wannita Takerngsaksiri",
+          "Chakkrit Tantithamthavorn",
+          "Micheal Fu",
+          "Jirat Pasuksmit",
+          "Kun Chen",
+          "Ming Wu"
+        ]
+      },
+      {
+        "title": "Understanding Practitioners' Perspectives on Monitoring Machine Learning Systems.",
+        "authors": [
+          "Hira Naveed",
+          "John C. Grundy",
+          "Chetan Arora",
+          "Hourieh Khalajzadeh",
+          "Omar Haggag"
+        ]
+      },
+      {
+        "title": "Towards Interaction-Aware Validation Oracles for Multi-Fault Program Repair.",
+        "authors": [
+          "Omar I. Al-Bataineh"
+        ]
+      },
+      {
+        "title": "MalLoc: Toward Fine-Grained Android Malicious Payload Localization via LLMs.",
+        "authors": [
+          "Tiezhu Sun",
+          "Marco Alecci",
+          "Aleksandr Pilgun",
+          "Yewei Song",
+          "Xunzhu Tang",
+          "Jordan Samhi",
+          "Tegawendé F. Bissyandé",
+          "Jacques Klein"
+        ]
+      },
+      {
+        "title": "Can LLMs Write CI? a Study on Automatic Generation of GitHub Actions Configurations.",
+        "authors": [
+          "Taher A. Ghaleb",
+          "Dulina Rathnayake"
+        ]
+      },
+      {
+        "title": "From First Use to Final Commit: Studying the Evolution of Multi-CI Service Adoption.",
+        "authors": [
+          "Nitika Chopra",
+          "Taher A. Ghaleb"
+        ]
+      },
+      {
+        "title": "How Does Test Code Differ from Production Code in Terms of Refactoring? An Empirical Study.",
+        "authors": [
+          "Kosei Horikawa",
+          "Yutaro Kashiwa",
+          "Bin Lin",
+          "Kenji Fujiwara",
+          "Hajimu Iida"
+        ]
+      },
+      {
+        "title": "Inferring Attributed Grammars from Parser Implementations.",
+        "authors": [
+          "Andreas Pointner",
+          "Josef Pichler",
+          "Herbert Prähofer"
+        ]
+      },
+      {
+        "title": "Client-Library Compatibility Testing with API Interaction Snapshots.",
+        "authors": [
+          "Gustave Monce",
+          "Thomas Degueule",
+          "Jean-Rémy Falleri",
+          "Romain Robbes"
+        ]
+      },
+      {
+        "title": "Rethinking Cognitive Complexity for Unit Tests: Toward a Readability-Aware Metric Grounded in Developer Perception.",
+        "authors": [
+          "Wendkûuni C. Ouédraogo",
+          "Yinghua Li",
+          "Xueqi Dang",
+          "Xin Zhou",
+          "Anil Koyuncu",
+          "Jacques Klein",
+          "David Lo",
+          "Tegawendé F. Bissyandé"
+        ]
+      },
+      {
+        "title": "Prompting Matters: Assessing the Effect of Prompting Techniques on LLM-Generated Class Code.",
+        "authors": [
+          "Adam Yuen",
+          "John Pangas",
+          "Md Mainul Hasan Polash",
+          "Ahmad Abdellatif"
+        ]
+      },
+      {
+        "title": "How Much Can a Behavior-Preserving Changeset Be Decomposed Into Refactoring Operations?",
+        "authors": [
+          "Kota Someya",
+          "Lei Chen",
+          "Michael J. Decker",
+          "Shinpei Hayashi"
+        ]
+      },
+      {
+        "title": "Prioritizing Test Smells: An Empirical Evaluation of Quality Metrics and Developer Perceptions.",
+        "authors": [
+          "Md Arif Hasan",
+          "Toukir Ahammed"
+        ]
+      },
+      {
+        "title": "Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks.",
+        "authors": [
+          "Ahmet Emir Bosnak",
+          "Sahand Moslemi",
+          "Mayasah Lami",
+          "Anil Koyuncu"
+        ]
+      },
+      {
+        "title": "LLMShot: Reducing Snapshot Testing Maintenance via LLMs.",
+        "authors": [
+          "Ergün Batuhan Kaynak",
+          "Mayasah Lami",
+          "Sahand Moslemi",
+          "Anil Koyuncu"
+        ]
+      },
+      {
+        "title": "A Preliminary Study on Large Language Models Self-Negotiation in Software Engineering.",
+        "authors": [
+          "Chunrun Tao",
+          "Honglin Shu",
+          "Masanari Kondo",
+          "Yasutaka Kamei"
+        ]
+      },
+      {
+        "title": "Detecting Adversarial Prompted AI-Generated Code on Stack Overflow: A Benchmark Dataset and an Enhanced Detection Approach.",
+        "authors": [
+          "Aman Swaraj",
+          "Krishna Agarwal",
+          "Atharv Joshi",
+          "Sandeep Kumar"
+        ]
+      },
+      {
+        "title": "Repairing Responsive Layout Failures Using Retrieval Augmented Generation.",
+        "authors": [
+          "Tasmia Zerin",
+          "Moumita Asad",
+          "B. M. Mainul Hossain",
+          "Kazi Sakib"
+        ]
+      },
+      {
+        "title": "Toward a Resilience-Oriented Understanding of Unit Test Suites and Refactoring in Software Evolution.",
+        "authors": [
+          "Daniel Knight",
+          "Tanmay Bhowmik"
+        ]
+      },
+      {
+        "title": "Towards Proficiency Assessment Through Code.",
+        "authors": [
+          "Ruksit Rojpaisarnkit",
+          "Kenichi Matsumoto"
+        ]
+      },
+      {
+        "title": "The Influence of Code Smell Interactions on Software Maintainability.",
+        "authors": [
+          "Zushuai Zhang"
+        ]
+      },
+      {
+        "title": "Ensuring Code Integrity in the Era of AI-Assisted Software Development.",
+        "authors": [
+          "Arthur Pilone"
+        ]
+      },
+      {
+        "title": "Understanding and Simulating OSS Evolution: A Case Study on PyMC.",
+        "authors": [
+          "Toru Sugiyama"
+        ]
+      },
+      {
+        "title": "The Impact of Generative AI on Developer Practices, Behavior, and Software Quality.",
+        "authors": [
+          "Julian Oertel",
+          "Regina Hebig"
+        ]
+      },
+      {
+        "title": "Bugs in AI-Generated Code - Understanding Bug Patterns and Possible Fix Strategies.",
+        "authors": [
+          "Ruofan Gao"
+        ]
+      },
+      {
+        "title": "Towards Just-In-Time, Inclusive Clone Refactoring.",
+        "authors": [
+          "Palash Roy"
+        ]
+      },
+      {
+        "title": "Enhancing Infrastructure Maintenance and Evolution Through Graph-Based Visualization and Analysis.",
+        "authors": [
+          "Stefano Fossati"
+        ]
+      },
+      {
+        "title": "DevSecLogs: AI-Powered, Tamper-Evident Log Intelligence for Secure CI/CD Pipelines.",
+        "authors": [
+          "Sabbir M. Saleh"
+        ]
+      },
+      {
+        "title": "Leakagedetector 2.0: Analyzing Data Leakage in Jupyter-Driven Machine Learning Pipelines.",
+        "authors": [
+          "Owen Truong",
+          "Terrence Zhang",
+          "Arnav Marchareddy",
+          "Ryan Lee",
+          "Jeffery Busold",
+          "Michael Socas",
+          "Eman Abdullah AlOmar"
+        ]
+      },
+      {
+        "title": "DENIM: Exploring Data Access in Microservices.",
+        "authors": [
+          "Maxime André",
+          "Marco Raglianti",
+          "Anthony Cleve",
+          "Michele Lanza"
+        ]
+      },
+      {
+        "title": "XTestGen: Natural Language to Maintainable E2E Test Scripts with LLMs.",
+        "authors": [
+          "Hiroyuki Kirinuki",
+          "Masaki Tajima",
+          "Kei Wakabayashi"
+        ]
+      },
+      {
+        "title": "MaRCo: Compatible Version Ranges in Maven.",
+        "authors": [
+          "Cathrine Paulsen",
+          "Sebastian Proksch"
+        ]
+      },
+      {
+        "title": "AI-Powered Commit Explorer (APCE).",
+        "authors": [
+          "Yousab Grees",
+          "Polina Iaremchuk",
+          "Ramtin Ehsani",
+          "Esteban Parra",
+          "Preetha Chatterjee",
+          "Sonia Haiduc"
+        ]
+      },
+      {
+        "title": "JDala - A Simple Capability System for Java.",
+        "authors": [
+          "Quinten Smit",
+          "Jens Dietrich",
+          "Michael Homer",
+          "Andrew Fawcet",
+          "James Noble"
+        ]
+      },
+      {
+        "title": "MediumDarwin: LittleDarwin Grows with Performance and Research-Oriented Extensions.",
+        "authors": [
+          "Sajjad Hesamipour",
+          "Thomas Laurent",
+          "Anthony Ventresque"
+        ]
+      },
+      {
+        "title": "LLMLOOP: Improving LLM-Generated Code and Tests Through Automated Iterative Feedback Loops.",
+        "authors": [
+          "Ravin Ravi",
+          "Dylan Bradshaw",
+          "Stefano Ruberto",
+          "Gunel Jahangirova",
+          "Valerio Terragni"
+        ]
+      },
+      {
+        "title": "CodeWatcher: IDE Telemetry Data Extraction Tool for Understanding Coding Interactions with LLMs.",
+        "authors": [
+          "Manaal Basha",
+          "Aimeê M. Ribeiro",
+          "Jeena Javahar",
+          "Cleidson R. B. de Souza",
+          "Gema Rodríguez-Pérez"
+        ]
+      },
+      {
+        "title": "LadyBug: A GitHub Bot for UI-Enhanced Bug Localization in Mobile Apps.",
+        "authors": [
+          "Junayed Mahmud",
+          "James Chen",
+          "Terry Achille",
+          "Camilo Alvarez-Velez",
+          "Darren Dean Bansil",
+          "Patrick Ijieh",
+          "Samar Karanch",
+          "Nadeeshan De Silva",
+          "Oscar Chaparro",
+          "Andrian Marcus",
+          "Kevin Moran"
+        ]
+      },
+      {
+        "title": "VulGuard: An Unified Tool for Evaluating Just-In-Time Vulnerability Prediction Models.",
+        "authors": [
+          "Duong Nguyen",
+          "Manh Tran-Duc",
+          "Thanh Le-Cong",
+          "Triet Huynh Minh Le",
+          "M. Ali Babar",
+          "Quyet-Thang Huynh"
+        ]
+      },
+      {
+        "title": "COB2PY - A Non-AI, Rule-Based COBOL to Python Translator.",
+        "authors": [
+          "Kowshik Reddy Challa",
+          "Sonith M. V",
+          "Chiranjeevi B. S",
+          "Sridhar Chimalakonda"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/icsm/icsme2024.html": {
     "header": "40th ICSME 2024:\nFlagstaff, AZ, USA",
     "year": "2024",

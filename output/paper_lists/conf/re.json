@@ -1,4 +1,771 @@
 {
+  "https://dblp.org/db/conf/re/re2025w.html": {
+    "header": "33rd RE 2025: Valencia, Spain - Workshops",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "AIRE 2025: 12th International Workshop on Artificial Intelligence and Requirements Engineering.",
+        "authors": [
+          "Sepideh Ghanavati",
+          "Quim Motger",
+          "Julian Frattini"
+        ]
+      },
+      {
+        "title": "RAG to RichEs: Bridging RE Automation Pains with RAG Gains: Keynote Abstract.",
+        "authors": [
+          "Chetan Arora"
+        ]
+      },
+      {
+        "title": "Beyond Retrieval: A Study of Using LLM Ensembles for Candidate Filtering in Requirements Traceability.",
+        "authors": [
+          "Dominik Fuchß",
+          "Stefan Schwedt",
+          "Jan Keim",
+          "Tobias Hey"
+        ]
+      },
+      {
+        "title": "Explainability as a Compliance Requirement: What Regulated Industries Need from AI Tools for Design Artifact Generation.",
+        "authors": [
+          "Syed Tauhid Ullah Shah",
+          "Mohammad Hussein",
+          "Ann Barcomb",
+          "Mohammad Moshirpour"
+        ]
+      },
+      {
+        "title": "Description and Comparative Analysis of QuRE: A New Industrial Requirements Quality Dataset.",
+        "authors": [
+          "Henning Femmer",
+          "Frank Houdek",
+          "Max Unterbusch",
+          "Andreas Vogelsang"
+        ]
+      },
+      {
+        "title": "One Size Does Not Fit All: On the Role of Batch Size in Classifying Requirements with LLMs.",
+        "authors": [
+          "Ashley T. van Can",
+          "Fatma Basak Aydemir",
+          "Fabiano Dalpiaz"
+        ]
+      },
+      {
+        "title": "Automating Translation from Legal Text to Legal Requirements Specification Language.",
+        "authors": [
+          "Caroline Witty",
+          "Sarah Santos",
+          "Travis D. Breaux"
+        ]
+      },
+      {
+        "title": "Automatic Generation of Explainability Requirements and Software Explanations From User Reviews.",
+        "authors": [
+          "Martin Obaidi",
+          "Jakob Droste",
+          "Hannah Deters",
+          "Marc Herrmann",
+          "Kurt Schneider",
+          "Jil Klünder",
+          "Hugo Villamizar",
+          "Jannik Fischbach",
+          "Steffen Krätzig"
+        ]
+      },
+      {
+        "title": "C-LEIA: An Interactive LLM-based Simulator for Requirements Interviews.",
+        "authors": [
+          "Nelson Lojo",
+          "Rafael González",
+          "Rohan Philip",
+          "José Antonio Parejo",
+          "Amador Durán Toro",
+          "Armando Fox",
+          "Pablo Fernández"
+        ]
+      },
+      {
+        "title": "DRGM: Data Requirement Goal Modeling for ML-Based Systems.",
+        "authors": [
+          "Asma Z. Yamani",
+          "Nadeen AlAmoudi",
+          "Salma Albelali",
+          "Malak Baslyman",
+          "Jameleddine Hassine"
+        ]
+      },
+      {
+        "title": "Automatic Classification of User Requirements from Online Feedback - A Replication Study.",
+        "authors": [
+          "Meet Bhatt",
+          "Nic Boilard",
+          "Muhammad Rehan Chaudhary",
+          "Cole Thompson",
+          "Jacob Idoko",
+          "Aakash Sorathiya",
+          "Gouri Ginde"
+        ]
+      },
+      {
+        "title": "CMER: A Context-Aware Approach for Mining Ethical Concern-related App Reviews.",
+        "authors": [
+          "Aakash Sorathiya",
+          "Gouri Ginde"
+        ]
+      },
+      {
+        "title": "Welcome to the 9th International Workshop on Crowd-Based Requirements Engineering (CrowdRE'25).",
+        "authors": [
+          "Farnaz Fotrousi",
+          "Maria Spichkova",
+          "Nitish Patkar",
+          "Muneera Bano"
+        ]
+      },
+      {
+        "title": "From App Features to Explanation Needs: Analyzing Correlations and Predictive Potential.",
+        "authors": [
+          "Martin Obaidi",
+          "Kushtrim Qengaj",
+          "Jakob Droste",
+          "Hannah Deters",
+          "Marc Herrmann",
+          "Elisa Schmid",
+          "Kurt Schneider",
+          "Jil Klünder"
+        ]
+      },
+      {
+        "title": "A German Gold-Standard Dataset for Sentiment Analysis in Software Engineering.",
+        "authors": [
+          "Martin Obaidi",
+          "Marc Herrmann",
+          "Elisa Schmid",
+          "Raymond Ochsner",
+          "Kurt Schneider",
+          "Jil Klünder"
+        ]
+      },
+      {
+        "title": "Towards Using Personas in Requirements Engineering: What Has Been Changed Recently?",
+        "authors": [
+          "Chowdhury Shahriar Muzammel",
+          "Maria Spichkova",
+          "James Harland"
+        ]
+      },
+      {
+        "title": "Towards Better Requirements from the Crowd: Developer Engagement with Feature Requests in Open Source Software.",
+        "authors": [
+          "Pragyan K. C",
+          "Rambod Ghandiparsi",
+          "Thomas Herron",
+          "John Heaps",
+          "Mitra Bokaei Hosseini"
+        ]
+      },
+      {
+        "title": "Welcome to the 5th IEEE International Workshop on Environment-Driven Requirements Engineering (EnviRE'25).",
+        "authors": [
+          "Xiaohong Chen",
+          "Zhi Jin",
+          "Nan Niu",
+          "Yijun Yu"
+        ]
+      },
+      {
+        "title": "From Causal Graphs to Problem Diagrams: Enhancing Safety Requirement Modeling with LLM.",
+        "authors": [
+          "Liyuan Zhang",
+          "Zhi Li",
+          "Hongbin Xiao",
+          "Changjin Li",
+          "Bo Huang",
+          "Xu Chen"
+        ]
+      },
+      {
+        "title": "ConSum4DCR: A Q&A Knowledge Extraction Method for Developer Chatroom Environments.",
+        "authors": [
+          "Yankun Jin",
+          "Ye Wang",
+          "Qiao Huang",
+          "Lingfeng Bao",
+          "Siyuan Zhou",
+          "Bo Jiang"
+        ]
+      },
+      {
+        "title": "Prompting LLM for Embedded SRS Generation: A Case Study of Elder Care System.",
+        "authors": [
+          "Chunhui Wang",
+          "Jiaqi Zhao",
+          "Zhi Jin"
+        ]
+      },
+      {
+        "title": "PF-ENV: Extending Problem Frames for AI-Enabled System Requirements Environment Modeling.",
+        "authors": [
+          "Jian Tu",
+          "Juntao Gao",
+          "Runkun Zhang",
+          "Yilong Yang"
+        ]
+      },
+      {
+        "title": "Constructing Cross-Level Traceability Links in the Automotive Domain: A Case Study.",
+        "authors": [
+          "Wei Xie",
+          "Yi Zhao",
+          "Min Zhang",
+          "Yinghua Huang"
+        ]
+      },
+      {
+        "title": "AirReq: Automated Requirements Smell Detection and Elimination for Commercial Aircraft Systems.",
+        "authors": [
+          "Tianyi Wang",
+          "Weiru Wang",
+          "Yilong Yang"
+        ]
+      },
+      {
+        "title": "Automatic Generation of Structured Requirements for Aerospace Embedded Systems Using LLMs.",
+        "authors": [
+          "Jingkai Lin",
+          "Yixing Luo",
+          "Xiao-hong Chen",
+          "Bin Gu",
+          "Zhi Jin"
+        ]
+      },
+      {
+        "title": "Classification and Description of AI Component Requirements in Autonomous Driving System.",
+        "authors": [
+          "Ruolin Gong",
+          "Yu Zhang",
+          "Qin Li"
+        ]
+      },
+      {
+        "title": "ME4PD: A Multi-Modal and Dynamically Extensible System for Problem Frame Construction.",
+        "authors": [
+          "Yang Hua",
+          "Hongbin Xiao",
+          "Zhi Li"
+        ]
+      },
+      {
+        "title": "Research on Requirement Vulnerability Detection Method Based on Graph Neural Network and Counterfactual Explanation.",
+        "authors": [
+          "Kang Liu",
+          "Bo Huang",
+          "Shenao Wu",
+          "Yujie Luo",
+          "Jin Liu",
+          "Gang Chen"
+        ]
+      },
+      {
+        "title": "Welcome to the Twelfth International Workshop on Evolving Security and Privacy Requirements Engineering (ESPRE'25).",
+        "authors": [
+          "Sepideh Ghanavati",
+          "Duncan Ki-Aries",
+          "Seok-Won Lee",
+          "Mattia Salnitri"
+        ]
+      },
+      {
+        "title": "An Alignment Between the CRA's Essential Requirements and the ATT&CK®'s Mitigations.",
+        "authors": [
+          "Jukka Ruohonen",
+          "Eun-Young Kang",
+          "Qusai Ramadan"
+        ]
+      },
+      {
+        "title": "A Mapping Analysis of Requirements Between the CRA and the GDPR.",
+        "authors": [
+          "Jukka Ruohonen",
+          "Kalle Hjerppe",
+          "Eun-Young Kang"
+        ]
+      },
+      {
+        "title": "Can we use LLMs to recover Trace Links between Source Code and Security Requirements?",
+        "authors": [
+          "Jan-Marc Paßlack",
+          "Alexander Specht",
+          "Marc Herrmann",
+          "Duaa Adel Ali Elsofi",
+          "Marco Ehl",
+          "Katharina Großer",
+          "Jan Jürjens",
+          "Kurt Schneider"
+        ]
+      },
+      {
+        "title": "Towards Evidence-Based Conceptual Modeling for International Data Protection Requirements.",
+        "authors": [
+          "Claudia Negri-Ribalta",
+          "René Noël",
+          "Anastasia Sergeeva",
+          "Gabriele Lenzini"
+        ]
+      },
+      {
+        "title": "LLMPathy: A Multi-Agent LLM Approach for Eliciting Inclusive Security Requirements.",
+        "authors": [
+          "Waleed Bin Shahid",
+          "Bilal Naqvi",
+          "Hammad Afzal"
+        ]
+      },
+      {
+        "title": "Generating Context-Aware Learning Materials for Software Security via LLM Agents and Traceability.",
+        "authors": [
+          "Ben Luca Schüring",
+          "Marc Herrmann",
+          "Alexander Specht",
+          "Marco Ehl",
+          "Duaa Adel Ali Elsofi",
+          "Katharina Großer",
+          "Jan Jürjens",
+          "Kurt Schneider"
+        ]
+      },
+      {
+        "title": "SAGE: A Context-Aware Approach for Mining Privacy Requirements Relevant Reviews from Mental Health Apps.",
+        "authors": [
+          "Aakash Sorathiya",
+          "Gouri Ginde"
+        ]
+      },
+      {
+        "title": "A First Appraisal of NIS2 and CRA Compliance Leveraging Open Source Tools.",
+        "authors": [
+          "Giovanni Corti",
+          "Gianluca Sassetti",
+          "Amir Sharif",
+          "Serena Elisa Ponta",
+          "Matteo Rizzi",
+          "Pietro De Matteis",
+          "Luca Piras",
+          "Roberto Carbone",
+          "Silvio Ranise"
+        ]
+      },
+      {
+        "title": "Expanding ML-Documentation Standards For Better Security.",
+        "authors": [
+          "Cara Ellen Appel"
+        ]
+      },
+      {
+        "title": "MoDRE 2025: 15th International Model-Driven Requirements Engineering Workshop.",
+        "authors": [
+          "Ana Moreira",
+          "Gunter Mussbacher",
+          "João Araújo",
+          "Pablo Sánchez",
+          "Boqi Chen"
+        ]
+      },
+      {
+        "title": "Model-Driven Integration of Domain Knowledge into Machine Learning Workflows: A Case for Multidisciplinary System Design.",
+        "authors": [
+          "Neeraj Katiyar",
+          "Jhelum Chakravorty"
+        ]
+      },
+      {
+        "title": "An Assistive Approach for Learning Goal Modeling.",
+        "authors": [
+          "Karenna Kung",
+          "Alicia M. Grubb"
+        ]
+      },
+      {
+        "title": "Assisting Stakeholders in Class Diagram Interpretation with LLMs: a Work in Progress.",
+        "authors": [
+          "Chiara Mannari",
+          "Tommaso Turchi",
+          "Manlio Bacco",
+          "Alessio Malizia"
+        ]
+      },
+      {
+        "title": "Goal-Oriented Process Mining: A Scalability Experiment.",
+        "authors": [
+          "Mahdi Ghasemi",
+          "Daniel Amyot",
+          "William Van Woensel"
+        ]
+      },
+      {
+        "title": "A Domain-Specific Language For Specifying Requirement Patterns for Model-Driven Software Development.",
+        "authors": [
+          "David Mosquera",
+          "Marcela Ruiz",
+          "Anastassios Martakos"
+        ]
+      },
+      {
+        "title": "Viability Checking and Requirements Completion: How Constraint Programming Helps State Machines in Performance Requirements Engineering.",
+        "authors": [
+          "Gefei Zhang"
+        ]
+      },
+      {
+        "title": "Supporting Pragmatic Interoperability: An LLM Based Process to Analyze Distributed Intentionality (i*) Models.",
+        "authors": [
+          "Roberto de Cerqueira Figueiredo",
+          "Julio César Sampaio do Prado Leite",
+          "Célia Ghedini Ralha",
+          "Rita Suzana Pitangueira Maciel",
+          "Daniela Barreiro Claro"
+        ]
+      },
+      {
+        "title": "The Preface Intersection of Requirements Engineering and Web3 Systems.",
+        "authors": [
+          "Itzhak Aviv",
+          "Alfred Taudesh",
+          "Davor Svetinovic",
+          "Seok-Won Lee"
+        ]
+      },
+      {
+        "title": "A Requirements Analysis for a Decentralized Mathematics Prediction Market.",
+        "authors": [
+          "Quentin Botha",
+          "Laurent Bindschaedler",
+          "Christoph Siebenbrunner"
+        ]
+      },
+      {
+        "title": "Challenges of Digitizing Reality into a Connected Metaverse - the Complexity of Data Requirements of Distributed Digital Twins.",
+        "authors": [
+          "Ethan Hadar"
+        ]
+      },
+      {
+        "title": "Account Abstraction for Enforcing Blockchain-Based AI Agent Non-Functional Requirements.",
+        "authors": [
+          "Jan Gorzny",
+          "Fatemeh Heidari Soureshjani",
+          "Martin Derka"
+        ]
+      },
+      {
+        "title": "Designing a Requirements-Driven Tokenomic Mechanism for Advanced Air Mobility Systems: A Simulation-Based Evaluation.",
+        "authors": [
+          "Bastien Rigault",
+          "Alexander Neulinger",
+          "Lukas Sparer",
+          "Alfred Taudes",
+          "Helmut Prendinger"
+        ]
+      },
+      {
+        "title": "Requirements Engineering for Integrating Quantum Key Distribution with Blockchain Systems.",
+        "authors": [
+          "Ofir Joseph",
+          "Eran Dahan",
+          "Itzhak Aviv",
+          "Irit Hadar",
+          "Eli Bordo",
+          "Dror Pezo"
+        ]
+      },
+      {
+        "title": "Shaping Decentralized Collaboration in DAOs with a Requirements Engineering Framework.",
+        "authors": [
+          "Eran Dahan"
+        ]
+      },
+      {
+        "title": "A Computational Decision Support Workflow for Requirement Engineering in DAOs.",
+        "authors": [
+          "Quentin Botha",
+          "Laurent Bindschaedler",
+          "Christoph Siebenbrunner"
+        ]
+      },
+      {
+        "title": "Requirements Engineering for Accountable and Conscious Human-centered AI: Preface.",
+        "authors": [
+          "Irit Hadar",
+          "Boris Kantsepolsky",
+          "Eran Sadovski",
+          "Sofia Sherman"
+        ]
+      },
+      {
+        "title": "Towards Systematic Specification and Verification of Fairness Requirements: A Position Paper.",
+        "authors": [
+          "Qusai Ramadan",
+          "Jukka Ruohonen",
+          "Abhishek Tiwari",
+          "Adam Alami",
+          "Zeyd Boukhers"
+        ]
+      },
+      {
+        "title": "Legal Requirements Compliance using NLP and Knowledge Graphs.",
+        "authors": [
+          "Paolo Falcarin",
+          "Purbasha Chowdhury",
+          "Ettore Carbone",
+          "Teresa Scantamburlo",
+          "Rocco Tripodi",
+          "Sebastiano Vascon"
+        ]
+      },
+      {
+        "title": "Engineering Accountable AI: A Role-Based Lifecycle Approach.",
+        "authors": [
+          "Ethan Hadar"
+        ]
+      },
+      {
+        "title": "Incorporating FATES Principles in Continuous Development of ML-Integrated Systems: Importance of Requirements.",
+        "authors": [
+          "Jean-Michel Bruel",
+          "T. Gouaichault",
+          "Olivier Teste",
+          "Mireille Blay-Fornarino",
+          "Nathan Lacroix",
+          "Frédéric Precioso",
+          "Sébastien Mosser"
+        ]
+      },
+      {
+        "title": "Explainability Needs in Agriculture: Exploring Dairy Farmers' User Personas.",
+        "authors": [
+          "Mengisti Berihu Girmay",
+          "Jakob Droste",
+          "Hannah Deters",
+          "Joerg Doerr"
+        ]
+      },
+      {
+        "title": "Eliciting and Modelling Human Values for Human-centric Artificial Intelligence Systems with Motivational Goal Models.",
+        "authors": [
+          "Kuldar Taveter",
+          "Mohamad Gharib"
+        ]
+      },
+      {
+        "title": "Aligning AI Systems with Human Values.",
+        "authors": [
+          "Marc Herrmann",
+          "Michael Mircea",
+          "Kurt Schneider"
+        ]
+      },
+      {
+        "title": "Responsible use of AI in Software Solutions for Neurodiverse and Elderly Communities in the Nordic Countries.",
+        "authors": [
+          "Krzysztof Wnuk",
+          "Damian Kedziora",
+          "Grischa Liebel",
+          "Anh Nguyen-Duc"
+        ]
+      },
+      {
+        "title": "Design Requirements for Responsible AI Tools in Education: Empirical Study on ChatGPT and Creative Thinking.",
+        "authors": [
+          "Moshe Leiba"
+        ]
+      },
+      {
+        "title": "Welcome to RETRAI 2025 from the Chairs.",
+        "authors": [
+          "Lina Marsso",
+          "Isobel Standen",
+          "Walid Maalej"
+        ]
+      },
+      {
+        "title": "Navigating the Human-oversight Dilemma in AI-based Systems.",
+        "authors": [
+          "Eran Sadovski",
+          "Itzhak Aviv",
+          "Irit Hadar"
+        ]
+      },
+      {
+        "title": "Educational Requirements for Trustworthy Recommender Systems.",
+        "authors": [
+          "Alexandru Mateescu"
+        ]
+      },
+      {
+        "title": "Beyond the Checklist: Rethinking Trustworthiness in AI System.",
+        "authors": [
+          "Donatella Donati",
+          "Paola Inverardi",
+          "Beatrice Melis",
+          "Patrizio Pelliccione"
+        ]
+      },
+      {
+        "title": "Extrinsic Safeguarding Mechanism Requirements for Trustworthy Physical AI.",
+        "authors": [
+          "Matthew Harris",
+          "Dewi Madden"
+        ]
+      },
+      {
+        "title": "Safe Experimentation with LLM-Controlled UAVs: An Agile Systems Engineering Approach to Requirements Development for Autonomous Systems.",
+        "authors": [
+          "Matthew Harris",
+          "Dewi Madden",
+          "Kyle Thomas"
+        ]
+      },
+      {
+        "title": "A Critical Look at the EU AI Act's Requirements and Affected Systems - Who Must Explain What?",
+        "authors": [
+          "Matthias Wagner",
+          "Marie-Therese Wittmann",
+          "Markus Borg"
+        ]
+      },
+      {
+        "title": "Robustness Requirement Coverage using a Situation Coverage Approach for Vision-based AI Systems.",
+        "authors": [
+          "Sepeedeh Shahbeigi",
+          "Nawshin Mannan Proma",
+          "Victoria J. Hodge",
+          "Richard Hawkins",
+          "Boda Li",
+          "Valentina Donzella"
+        ]
+      },
+      {
+        "title": "How to Consider AI Technology Systems as a Part of Human Normative Systems.",
+        "authors": [
+          "Matthew Whiteley"
+        ]
+      },
+      {
+        "title": "Ethical and Empathetic Requirements for Trustworthy ChatBots.",
+        "authors": [
+          "Sophia Jit",
+          "Nikita Dvornik"
+        ]
+      },
+      {
+        "title": "Muli-Agent LLMs as Ethics Advocates for AI based Systems.",
+        "authors": [
+          "Asma Z. Yamani",
+          "Malak Baslyman",
+          "Moataz Ahmed"
+        ]
+      },
+      {
+        "title": "Towards a Framework for Operationalizing the Specification of Trustworthy AI Requirements.",
+        "authors": [
+          "Hugo Villamizar",
+          "Daniel Méndez",
+          "Marcos Kalinowski"
+        ]
+      },
+      {
+        "title": "Towards Trustworthy Sentiment Analysis in Software Engineering: Dataset Characteristics and Tool Selection.",
+        "authors": [
+          "Martin Obaidi",
+          "Marc Herrmann",
+          "Kurt Schneider",
+          "Jil Klünder"
+        ]
+      },
+      {
+        "title": "Prompt Engineering for Requirements Engineering: A Literature Review and Roadmap.",
+        "authors": [
+          "Kaicheng Huang",
+          "Fanyu Wang",
+          "Yutan Huang",
+          "Chetan Arora"
+        ]
+      },
+      {
+        "title": "On the Role of Transparency in Building Inclusive and Trustworthy AI Systems.",
+        "authors": [
+          "Didar Zowghi"
+        ]
+      },
+      {
+        "title": "Welcome to the Sixth International Workshop on Requirements Engineering for Well-Being, Aging, and Health.",
+        "authors": [
+          "Lysanne Lessard",
+          "Meira Levy",
+          "Samuel Fricker",
+          "Sofia Ouhbi"
+        ]
+      },
+      {
+        "title": "Lessons Learned from a Facilitated Usability Study: Using Older Adults' Needs and Challenges to Inform Requirements Validation.",
+        "authors": [
+          "Luis Garnica Chavira",
+          "Oscar A. Mondragon Campos",
+          "Yair Cabrera Menendez",
+          "Natalia Villanueva-Rosales",
+          "Jeffrey Escamilla"
+        ]
+      },
+      {
+        "title": "A Requirements Approach for Ecological Health Agentic AI: The Case of Digital Mentor for Occupational Therapists.",
+        "authors": [
+          "Ethan Hadar",
+          "Irit Hadar",
+          "Meira Levy",
+          "Sharon Zlotnik"
+        ]
+      },
+      {
+        "title": "Towards Personalised Digital Support: Clinician Perspectives on Patient Recruitment and Retention in Decentralised Clinical Trials.",
+        "authors": [
+          "Maryam R. Yeganeh",
+          "Samuel A. Fricker"
+        ]
+      },
+      {
+        "title": "Cases and Lessons in Prompting Artificial Intelligence for Social Work.",
+        "authors": [
+          "Samuel Fricker",
+          "Lauri Goldkind",
+          "Stefan Hackstein",
+          "Joshua Weber"
+        ]
+      },
+      {
+        "title": "Iterative Development of a Semi-Structured Interview Guide to Explore Clinicians' Experiences with Connected Mental Health.",
+        "authors": [
+          "Shweta Premanandan",
+          "Sofia Ouhbi",
+          "Magdalena Stadin",
+          "Charlotte Blease",
+          "Åsa Cajander",
+          "Maria Hägglund"
+        ]
+      },
+      {
+        "title": "Designing Age-Friendly Apps: Mining Functional, Usability, and Privacy Requirements from Existing Mobile Applications.",
+        "authors": [
+          "Nancy Manasreh",
+          "Paola Spoletini",
+          "Maria Valero",
+          "Valentina Nino",
+          "Israel Sanchez-Cardona"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/re/re2025.html": {
     "header": "33rd RE 2025: Valencia, Spain",
     "year": "2025",

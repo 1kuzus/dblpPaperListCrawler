@@ -1,4 +1,953 @@
 {
+  "https://dblp.org/db/journals/cn/cn275.html": {
+    "header": "Computer Networks, Volume 275",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "Privacy-preserving in cloud networks: An efficient, revocable and authenticated encrypted search scheme.",
+        "authors": [
+          "Yibo Cao",
+          "Shiyuan Xu",
+          "Gang Xu",
+          "Xiu-Bo Chen",
+          "Yuling Chen",
+          "Siu-Ming Yiu"
+        ]
+      },
+      {
+        "title": "Transmission probability and power optimization for covert communications in UAV-aided THz wireless networks.",
+        "authors": [
+          "Xinzhe Pi",
+          "Bin Yang",
+          "Yulong Shen",
+          "Xiaohong Jiang",
+          "Tarik Taleb"
+        ]
+      },
+      {
+        "title": "AI-driven spectrum sensing: An in-depth meta-analysis of trends, challenges and opportunities.",
+        "authors": [
+          "Mariana Falco",
+          "Antonino Pagano",
+          "Daniele Croce"
+        ]
+      },
+      {
+        "title": "Block-PAD: A blockchain-enabled framework for resilient and flexible CBDC transactions leveraging digital identity.",
+        "authors": [
+          "Olivier Atangana",
+          "Lyes Khoukhi",
+          "Morgan Barbier",
+          "Ahmet Kokcam"
+        ]
+      },
+      {
+        "title": "Computer network optimization using the power metric for multiple flows: Part II - Extension to continuous priority queueing disciplines.",
+        "authors": [
+          "Meng-Jung Chloe Tsai",
+          "Leonard Kleinrock"
+        ]
+      },
+      {
+        "title": "Understanding and addressing concept drift in website fingerprinting.",
+        "authors": [
+          "Anatoly Shusterman",
+          "Roie David",
+          "Yossi Oren"
+        ]
+      },
+      {
+        "title": "Towards SMPC-enabled O-RAN: A survey with deployment-oriented insights.",
+        "authors": [
+          "Asher Sajid",
+          "Justin Lipman",
+          "Mehran Abolhasan"
+        ]
+      },
+      {
+        "title": "Artificial intelligence based approaches for vehicular cloud and vehicular fog networks: An overview.",
+        "authors": [
+          "Tesnim Mekki",
+          "Issam Jabri"
+        ]
+      },
+      {
+        "title": "Comprehensive performance analysis of security applications on the BlueField-3 SmartNIC.",
+        "authors": [
+          "Suhyeon Lee",
+          "Myoungsung You",
+          "Sooyeon Kim",
+          "Taejune Park"
+        ]
+      },
+      {
+        "title": "Joint routing and control optimization in VANET.",
+        "authors": [
+          "Chen Huang",
+          "Dingxuan Wang",
+          "Ronghui Hou"
+        ]
+      },
+      {
+        "title": "Refined link-level intent drift forecasting through advanced link performance prediction and path similarity approaches.",
+        "authors": [
+          "Hanlin Liu",
+          "Hua Li",
+          "Yintan Ai"
+        ]
+      },
+      {
+        "title": "BitFL: Bitstream-based lightweight federated learning with differential privacy for radio frequency fingerprint identification of drones.",
+        "authors": [
+          "Xiang Li",
+          "Yuyu Zhao",
+          "Guang Cheng"
+        ]
+      },
+      {
+        "title": "GeoFINDR: Practical approach to verify cloud instances geolocation in multicloud.",
+        "authors": [
+          "Said Ider",
+          "Maryline Laurent"
+        ]
+      },
+      {
+        "title": "Security and deployment challenges in software-defined vehicular networks: A systematic review.",
+        "authors": [
+          "Sidra Aslam",
+          "Alireza Esfahani",
+          "Shidrokh Goudarzi",
+          "Antonino Masaracchia",
+          "Shahid Mumtaz"
+        ]
+      },
+      {
+        "title": "FBBTrust: Decentralized trust modeling in 6G via fuzzy inference, BiLSTM, and blockchain.",
+        "authors": [
+          "Elmira Saeedi Taleghani",
+          "Ana Lucila Sandoval Orozco",
+          "Luis Javier García-Villalba"
+        ]
+      },
+      {
+        "title": "An effective moving target defense scheme based on overlay topology mutation and randomized routing dispersion.",
+        "authors": [
+          "Panzhi Du",
+          "Jiali You",
+          "Yang Li",
+          "Jun Chen"
+        ]
+      },
+      {
+        "title": "Integration of non-terrestrial network for 5G NR and future 6G: LEO satellite-to-device performance and interference analysis.",
+        "authors": [
+          "Oi Shan Wong",
+          "Mark A. Gregory",
+          "Shuo Li"
+        ]
+      },
+      {
+        "title": "Data collection for heterogeneous IoRTs in 6G-enabled space-air-ground networks: a decentralized DRL approach.",
+        "authors": [
+          "Ru Jin",
+          "Rongheng Lin"
+        ]
+      },
+      {
+        "title": "Hybrid multi-stage framework for identifying zero-day attacks and known threats in network traffic.",
+        "authors": [
+          "Yeon-Seo Park",
+          "Yeon-Sup Lim"
+        ]
+      },
+      {
+        "title": "Dynamic network management games for optimal adaptive defense decisions against malware propagation in IoT and ad-Hoc networks.",
+        "authors": [
+          "Kamal Ziadi",
+          "Talal Halabi"
+        ]
+      },
+      {
+        "title": "Computation offloading strategy and caching decision based on DDPG in vehicular networks.",
+        "authors": [
+          "Mande Xie",
+          "Qingya Ma",
+          "Haoqing Yu",
+          "Xueping Ni"
+        ]
+      },
+      {
+        "title": "Designing a hybrid approach for multivariate network attack forecasting and detection.",
+        "authors": [
+          "Soo-Yeon Ji",
+          "Bong-Keun Jeong",
+          "Dong Hyun Jeong"
+        ]
+      },
+      {
+        "title": "Blockchain-based secure trusted clusters for multi-tiered Social IoT environments in edge-cloud networks.",
+        "authors": [
+          "Narzullo Khodjamov",
+          "Song Yang",
+          "Kashif Sharif",
+          "Yanan Gao",
+          "Fan Li",
+          "Yang Wang",
+          "Sardor Mamarasulov",
+          "Liehuang Zhu"
+        ]
+      },
+      {
+        "title": "AI-powered edge-based safety monitoring system for power transmission corridors: A case study in Vietnam.",
+        "authors": [
+          "Dinh Cong Nguyen",
+          "The Cuong Nguyen"
+        ]
+      },
+      {
+        "title": "Joint beamforming and backscatter optimization for symbiotic radio networks.",
+        "authors": [
+          "Lumin Ye",
+          "Yanjun Li",
+          "Yuzhe Chen",
+          "Jianji Shao"
+        ]
+      },
+      {
+        "title": "DeepPlus: An adaptive deadline and fairness aware scheduler for accelerating mixed deep learning training and inference workloads in GPU cluster.",
+        "authors": [
+          "Yupeng Xi",
+          "Chao Jing"
+        ]
+      },
+      {
+        "title": "MAML-SAMIoT: A cloud-fog computing and MAML-based few-shot IoT intrusion detection model.",
+        "authors": [
+          "Yong Zhang",
+          "Yifan Liu",
+          "Yue Wu",
+          "Shaoyu Zhao",
+          "Zhenpeng Liu"
+        ]
+      },
+      {
+        "title": "Scalable and interference-aware spectrum access in IoT networks via decentralized proximal policy optimization.",
+        "authors": [
+          "Chien-Min Wu",
+          "Shin-Zt Guan",
+          "Chun-Chieh Yang",
+          "Kung-Te Lin",
+          "Min-Yu Kuang"
+        ]
+      },
+      {
+        "title": "P3Fed: A personalized and privacy-preserving federated framework for intrusion detection in computing power network.",
+        "authors": [
+          "Yan Wang",
+          "Xingwei Wang",
+          "Bo Yi",
+          "Min Huang",
+          "Yue Kou"
+        ]
+      },
+      {
+        "title": "Octopus: Accuracy-aware resource scheduling for multi-video streaming inference at the edge.",
+        "authors": [
+          "Mingyu Li",
+          "Zhuzhong Qian",
+          "Andong Zhu",
+          "Hesheng Sun",
+          "Lingkun Meng",
+          "Dongxu Wang",
+          "Xiangyu Li"
+        ]
+      },
+      {
+        "title": "Dynamic shielding: Defense mechanism against gradient attacks on distributed GANs.",
+        "authors": [
+          "Chao Wang",
+          "Yingze Liu",
+          "Xiuyuan Liu",
+          "Yunhua He",
+          "Ke Xiao"
+        ]
+      },
+      {
+        "title": "Trust-based intent management for 6G: A level of trust assessment function.",
+        "authors": [
+          "José María Jorquera Valero",
+          "Alfonso Serrano Gil",
+          "Javier Paredes Serrano",
+          "Ignacio Dominguez Martinez-Casanueva",
+          "Lucía Cabanillas Rodríguez",
+          "Riccardo Nicolicchia",
+          "Diego R. López",
+          "Manuel Gil Pérez",
+          "Vasiliki Lamprousi",
+          "Sokratis Barmpounakis",
+          "Panagiotis Demestichas"
+        ]
+      },
+      {
+        "title": "Timechain-level modeling and analysis of the bitcoin lightning network.",
+        "authors": [
+          "Davide Patti",
+          "Salvatore Monteleone",
+          "Enrico Russo",
+          "Maurizio Palesi"
+        ]
+      },
+      {
+        "title": "Modular virtual distributed unit design for efficient cloud RAN deployment.",
+        "authors": [
+          "Umar Toseef",
+          "Ralf Klotsche",
+          "Peter Schefczik",
+          "Edward Berliner",
+          "Meng Zhao",
+          "Jean Ho",
+          "Reshma Patel",
+          "Rupert Rheinschmitt",
+          "Dragan Samardzija"
+        ]
+      },
+      {
+        "title": "A mathematical model of a novel proportional control scheme for mitigating DDoS attacks in TCP/AQM-NPC networks.",
+        "authors": [
+          "Kaijiao Huang",
+          "Gang Peng",
+          "Faisal Mehmood"
+        ]
+      },
+      {
+        "title": "A maximal clique based approximation algorithm for shortest link scheduling problem in wireless networks under the SINR model.",
+        "authors": [
+          "Neda Mohammadi",
+          "Mehdi Kadivar",
+          "Abdollah Amirkhani"
+        ]
+      },
+      {
+        "title": "Joint optimization of service placement, task offloading and resource allocation for dependent subtasks in hierarchical edge computing systems.",
+        "authors": [
+          "Zhichen Ni",
+          "Honglong Chen",
+          "Huansheng Xue",
+          "Zhishuai Li",
+          "Ning Chen",
+          "Jiguo Yu"
+        ]
+      },
+      {
+        "title": "SSH-Pulse: Detecting SSH communication in tunneled traffic.",
+        "authors": [
+          "Kai Chen",
+          "Jiangtao Zhai",
+          "Guangjie Liu",
+          "Li Yang",
+          "Yuewei Dai"
+        ]
+      },
+      {
+        "title": "MFFURL: Multi-modal feature fusion-based approach for malicious URL detection.",
+        "authors": [
+          "Zhengfa Li",
+          "Chuanhe Huang",
+          "Xudong Jia"
+        ]
+      },
+      {
+        "title": "Lifecycle-aware security evaluation of programmable DeFi hooks: A framework for Uniswap V4.",
+        "authors": [
+          "Hoon Oh",
+          "Seyoung Lee"
+        ]
+      },
+      {
+        "title": "WebViewJSdetect: Javascript vulnerability detection in android webview via coverage-guided thread-adaptive concurrent abstract interpretation.",
+        "authors": [
+          "Zhanhui Yuan",
+          "Zhi Yang",
+          "Jinglei Tan",
+          "Hongqi Zhang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/cn/cn274.html": {
+    "header": "Computer Networks, Volume 274",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "Device-to-device IoT system-based security protocol for agreeing on social meetings.",
+        "authors": [
+          "Sabina Szymoniak",
+          "Aleksandra Pyrkosz-Dziubczyk"
+        ]
+      },
+      {
+        "title": "Neighbor selection strategies in the wild for CDN/V2V WebRTC live streaming: Can we learn what a good neighbor is?",
+        "authors": [
+          "Zhejiayu Ma",
+          "Frédéric Giroire",
+          "Guillaume Urvoy-Keller",
+          "Soufiane Rouibia"
+        ]
+      },
+      {
+        "title": "Research on lightweight network traffic service classification with interference traffic in large-scale networks.",
+        "authors": [
+          "Bin Zhang",
+          "Wei Jiang",
+          "Qixun Zhu",
+          "Conghui Liao",
+          "Wenyong Wang"
+        ]
+      },
+      {
+        "title": "Deep reinforcement learning for energy-efficient workflow scheduling in edge computing.",
+        "authors": [
+          "Mengyao Wen",
+          "Xiufeng Liu",
+          "Xin Ning",
+          "Cong Liu",
+          "Xiaomin Chen",
+          "Jiawei Nian",
+          "Long Cheng"
+        ]
+      },
+      {
+        "title": "Efficient information support in LEO SCNs: A multi-layer spatiotemporal cost model and dynamic reallocation algorithm.",
+        "authors": [
+          "Yaoqi Liu",
+          "Bingbing Shi",
+          "Yinhe Han",
+          "Xuyang Ma",
+          "Jiying Yin",
+          "Hongxin Li"
+        ]
+      },
+      {
+        "title": "Transport protocols in the data center: Understanding proposals and research challenges.",
+        "authors": [
+          "Leonardo Alberro",
+          "Eduardo Grampín"
+        ]
+      },
+      {
+        "title": "X-haul solutions for 5G/6G networks: Overview of requirements and technologies.",
+        "authors": [
+          "Damir Breskovic"
+        ]
+      },
+      {
+        "title": "High-fidelity RF mapping: Assessing environmental modeling in 6G network digital twins.",
+        "authors": [
+          "Lorenzo Cazzella",
+          "Francesco Linsalata",
+          "Damiano Badini",
+          "Matteo Matteucci",
+          "Maurizio Magarini",
+          "Umberto Spagnolini"
+        ]
+      },
+      {
+        "title": "A lightweight encrypted traffic classification method using contextual information.",
+        "authors": [
+          "Xiuli Ma",
+          "Ziyi Wang",
+          "Zhuoyi Zheng",
+          "Minghao Jiang",
+          "Xiaobei Zhang",
+          "Xuefeng Liu"
+        ]
+      },
+      {
+        "title": "DACS: Efficient resource allocation and power control for D2D communication considering RAN sharing.",
+        "authors": [
+          "You-Chiun Wang",
+          "Wei-Ting Chen"
+        ]
+      },
+      {
+        "title": "Parked-vehicle-assisted task offloading in vehicular edge computing: A stackelberg game approach.",
+        "authors": [
+          "Chunlin Li",
+          "Ke Xiao",
+          "Jinkun Xu",
+          "Wenjie Ji"
+        ]
+      },
+      {
+        "title": "Defense against byzantine attacks in cooperative spectrum sensing using entropy of fluctuation and deviation.",
+        "authors": [
+          "Ankit Chouhan",
+          "Ashok Parmar",
+          "Kamal M. Captain"
+        ]
+      },
+      {
+        "title": "TranDA: Behavior traceable anomaly detection and attribution for 5G control plane via message sequence analysis.",
+        "authors": [
+          "Lulu Dai",
+          "Qian Sun",
+          "Yuanyuan Wang",
+          "Xuancheng Fan",
+          "Lin Tian"
+        ]
+      },
+      {
+        "title": "MGDA: A provenance graph-based framework for threat detection and attack scenario reconstruction.",
+        "authors": [
+          "Mengjiao Cui",
+          "Zhengwei Jiang",
+          "Shuai Li",
+          "Chunyan Ma",
+          "Kai Zhang",
+          "Peian Yang",
+          "Huamin Feng"
+        ]
+      },
+      {
+        "title": "Secure federated learning with configurable reliability in heterogeneous edge computing.",
+        "authors": [
+          "Yuanxin Liu",
+          "Yihuai Liang",
+          "Rui Zhang",
+          "Zhengchun Zhou"
+        ]
+      },
+      {
+        "title": "A domain-specific autonomous agent for network traffic analysis.",
+        "authors": [
+          "Daniel Adanza",
+          "Lluis Gifre",
+          "Behnam Ojaghi",
+          "Pol Alemany",
+          "Raul Muñoz",
+          "Ricard Vilalta"
+        ]
+      },
+      {
+        "title": "Throughput optimization of cognitive radio networks in high-traffic driven ecosystems with threshold selection technique.",
+        "authors": [
+          "Anmol Shalom Rathore",
+          "Alok Kumar"
+        ]
+      },
+      {
+        "title": "On the selection of statistical feature set of NetFlow data for operating system identification.",
+        "authors": [
+          "Kun-Lin Hsieh",
+          "Ting-Xiao Miaw",
+          "Quincy Wu"
+        ]
+      },
+      {
+        "title": "FedPE: A prompt-enhanced personalized federated learning framework for dynamic data adaptation.",
+        "authors": [
+          "Shining Zhang",
+          "Xingwei Wang",
+          "Jinpeng Han",
+          "Rongfei Zeng",
+          "Min Huang"
+        ]
+      },
+      {
+        "title": "Integrating topology and traffic engineering to maximize throughput in reconfigurable networks.",
+        "authors": [
+          "Chen Griner",
+          "Chen Avin"
+        ]
+      },
+      {
+        "title": "FBL-HA: A hybrid aggregation scheme for heterogeneous federated broad learning.",
+        "authors": [
+          "Jiamin Ji",
+          "Chang-E Ren",
+          "Siyao Cheng"
+        ]
+      },
+      {
+        "title": "A mathematical model of the expected minimum delivery delay under exponential, hyperexponential, Weibull, and power-law distributions of contacts in delay tolerant networks.",
+        "authors": [
+          "Tuan Le"
+        ]
+      },
+      {
+        "title": "FedSHE-CQ: A communication-efficient homomorphic encryption framework for federated learning.",
+        "authors": [
+          "Xiyi Wei",
+          "Ruwei Huang",
+          "Lei Lei",
+          "Jiayi Wu"
+        ]
+      },
+      {
+        "title": "EMSA-CRP:A cluster based routing protocol for wireless sensor networks based on enhanced mantis search algorithm.",
+        "authors": [
+          "Wanting Dou",
+          "Xiaobo Guo",
+          "Yangyang Zhao",
+          "Yazhe Tang"
+        ]
+      },
+      {
+        "title": "Joint active/passive beamforming and power-splitting optimization for ISAC-driven IRS/ICSPT over mobile networks with multi-UAV sensing.",
+        "authors": [
+          "Zheng Lu",
+          "Fei Wang",
+          "Xi Zhang"
+        ]
+      },
+      {
+        "title": "PrivBoost: A federated learning framework for differentially private tree boosting.",
+        "authors": [
+          "Shuangqing Xu",
+          "Yifeng Zheng",
+          "Yansong Gao",
+          "Zhongyun Hua"
+        ]
+      },
+      {
+        "title": "Digital twin-empowered task offloading in VEC: Attention-augmented DRL for mobility-resilient optimization.",
+        "authors": [
+          "Ihsan Ullah"
+        ]
+      },
+      {
+        "title": "An adaptive intrusion detection system for the internet of things using large language models and post-quantum-secure blockchain.",
+        "authors": [
+          "Yunfan Huang",
+          "Maode Ma",
+          "Wong Jee Keen Raymond",
+          "Chee-Onn Chow"
+        ]
+      },
+      {
+        "title": "The ILLcipher family of low-latency block ciphers for industrial internet of things.",
+        "authors": [
+          "Wei Sun",
+          "Lang Li"
+        ]
+      },
+      {
+        "title": "GIIDS-AR: End-to-end generalized intelligent intrusion detection system with adversarial robustness for heterogeneous UAVs in UAM.",
+        "authors": [
+          "Fahmina Kabir",
+          "Nishat I. Mowla",
+          "Thomas Rosenstatter",
+          "Inshil Doh"
+        ]
+      },
+      {
+        "title": "Efficient multi-UAV coordination via RL: Joint path planning and task scheduling for post-disaster UAV-assisted MEC systems.",
+        "authors": [
+          "Mohd Hirzi Adnan",
+          "Zuriati Ahmad Zukarnain",
+          "Shamala K. Subramaniam"
+        ]
+      },
+      {
+        "title": "GMM-cGAN: Mitigating data scarcity and label noise for robust encrypted malicious traffic classification.",
+        "authors": [
+          "Kwizera K. Jonath",
+          "Abida Naz",
+          "Shigeng Zhang"
+        ]
+      },
+      {
+        "title": "Novel secure user scheduling for uplink wireless networks against potential eavesdroppers.",
+        "authors": [
+          "Woong Son",
+          "Ki-Hun Lee",
+          "Heejung Yu",
+          "Bang Chul Jung"
+        ]
+      },
+      {
+        "title": "Next-Gen IoT localization: When quantum-SSA-Markov hybridization meets energy efficiency for robust, accurate, and sustainable positioning in smart environments.",
+        "authors": [
+          "Maher Jabberi",
+          "Akram Hakiri",
+          "Bassem Sellami",
+          "Adel M. Alimi"
+        ]
+      },
+      {
+        "title": "Game theory based incentive mechanism for a bi-tiered public blockchain system.",
+        "authors": [
+          "Jing Li",
+          "Tao Xie",
+          "Yiwei Liu"
+        ]
+      },
+      {
+        "title": "A performance-adjustable encryption scheme for balancing security and efficiency in matrix multiplication outsourcing.",
+        "authors": [
+          "Wei Zhao",
+          "Jingwen Tan",
+          "Huanran Wang",
+          "Shuai Han",
+          "Mingzhu Lai",
+          "Wu Yang"
+        ]
+      },
+      {
+        "title": "A verifiable and efficient chained federated learning scheme for privacy protection.",
+        "authors": [
+          "Xiaoming Wang",
+          "Zhiquan Liu",
+          "Mingzhen Dai",
+          "Jiaming Gong",
+          "Weichuan Ni"
+        ]
+      },
+      {
+        "title": "Analysis and implementation of lightweight key exchange algorithms for MQTT security.",
+        "authors": [
+          "Rahul Kumar Singh",
+          "Ashutosh Kumar",
+          "S. Venkatesan",
+          "Manish Kumar",
+          "Sandeep Kumar Shukla"
+        ]
+      },
+      {
+        "title": "6Decoder: A neural network model for IPv6 target generation.",
+        "authors": [
+          "Yongqing Liu",
+          "Jialong Ke",
+          "Jiuxin Cao",
+          "Xiaopeng Wang",
+          "Yiwen Xiong"
+        ]
+      },
+      {
+        "title": "ByteDance: Let bytes perform brilliantly in multi-view encrypted traffic classification.",
+        "authors": [
+          "Yuwei Xu",
+          "Zhiyuan Liang",
+          "Xiaotian Fang",
+          "Kehui Song",
+          "Meng Wang",
+          "Qiao Xiang",
+          "Guang Cheng"
+        ]
+      },
+      {
+        "title": "A blind signature-based authorization scheme for enhancing the privacy of Cloud-Assisted private set intersection.",
+        "authors": [
+          "Yunhao Yang",
+          "Xu Yan",
+          "Bin Lian",
+          "Xiaotie Wang",
+          "Jialin Cui",
+          "Xianghong Zhao",
+          "Lang Wang",
+          "Fuqun Wang",
+          "Kefei Chen"
+        ]
+      },
+      {
+        "title": "The pulse of MQTT in the wild: A large-scale traffic analysis.",
+        "authors": [
+          "Corrado Innamorati",
+          "Antonio Boiano",
+          "Alessandro E. C. Redondi",
+          "Matteo Cesana"
+        ]
+      },
+      {
+        "title": "EO-ZT: Economically informed zero-trust for secure spectrum trading in open radio access networks (O-RAN).",
+        "authors": [
+          "Guhan Zheng",
+          "Qiang Ni",
+          "Wenjuan Yu"
+        ]
+      },
+      {
+        "title": "TrafficLLM: LLMs for improved open-set encrypted traffic analysis.",
+        "authors": [
+          "Yasod Ginige",
+          "Bhanuka Silva",
+          "Thilini Dahanayaka",
+          "Suranga Seneviratne"
+        ]
+      },
+      {
+        "title": "xApp distillation: AI-based conflict mitigation in B5G O-RAN.",
+        "authors": [
+          "Hakan Erdol",
+          "Xiaoyang Wang",
+          "Robert J. Piechocki",
+          "George Oikonomou",
+          "Arjun Parekh"
+        ]
+      },
+      {
+        "title": "Radio frequency identification and real-time security of LoRa devices with deep learning on embedded GPU.",
+        "authors": [
+          "Furkan Hasan Sakaci",
+          "Tülay Yildirim"
+        ]
+      },
+      {
+        "title": "Implicit dynamic incentives mechanism based on anchoring effects in mobile crowd sensing.",
+        "authors": [
+          "Qingyuan Niu",
+          "Yingjie Wang",
+          "Yang Gao",
+          "Haojun Teng",
+          "Wenhan Hou",
+          "Haijing Zhang",
+          "Zhipeng Cai"
+        ]
+      },
+      {
+        "title": "Dynamic admission control and elastic reconfiguration for TSN flows under domain-controlled networks.",
+        "authors": [
+          "Ji Li",
+          "Haitao Niu",
+          "Zeng Hou",
+          "Qiao Li",
+          "Xin Guo",
+          "Yonghong Guo"
+        ]
+      },
+      {
+        "title": "Lyapunov-enabled attention-inspired DRL approach for R2X offloading in vehicular edge network.",
+        "authors": [
+          "Lin Kang",
+          "Yaqi Wei",
+          "Mingxi Ma",
+          "Yang Guo",
+          "Wenjing Qiao"
+        ]
+      },
+      {
+        "title": "DPI-MDR: An dynamic pricing-Based incentive mechanism for multi-Dimensional recruitment of trust participants in MCS.",
+        "authors": [
+          "Jianing Zhao",
+          "An He",
+          "Weixun Hu",
+          "Jiaxin Huang",
+          "Yang Zhao",
+          "Jinhuan Zhang",
+          "Anfeng Liu"
+        ]
+      },
+      {
+        "title": "Evolutionary multi-task based microservice resource allocation.",
+        "authors": [
+          "Yaling Xun",
+          "Pengjuan Liang",
+          "Jing Shi",
+          "Xing Wang"
+        ]
+      },
+      {
+        "title": "Exploiting age of information in network digital twins for AI-driven real-time link blockage detection.",
+        "authors": [
+          "Michele Zhu",
+          "Francesco Linsalata",
+          "Silvia Mura",
+          "Lorenzo Cazzella",
+          "Damiano Badini",
+          "Umberto Spagnolini"
+        ]
+      },
+      {
+        "title": "TrafficT5: Multi-stage self-correcting framework for traffic generation.",
+        "authors": [
+          "Yizhao Huang",
+          "Xiaohui Li",
+          "Jiaxuan Geng",
+          "Xiaolan Zhu"
+        ]
+      },
+      {
+        "title": "Joint VNF placement and SFC scheduling in cloud-Edge system.",
+        "authors": [
+          "Meiyan Teng",
+          "Xin Li",
+          "Hao Li",
+          "Kun Zhu",
+          "Xuyun Zhang"
+        ]
+      },
+      {
+        "title": "A novel multi-path routing optimization scheme for deterministic computing power network in industrial internet of things.",
+        "authors": [
+          "Xiaokai Liu",
+          "Fangmin Xu",
+          "Guowei Sun",
+          "Zhen Meng",
+          "Chenglin Zhao"
+        ]
+      },
+      {
+        "title": "A stochastic game theory based energy-efficient device-to-device communication optimization for autonomous mobile robots over industrial IoT networks.",
+        "authors": [
+          "Soochang Park",
+          "Sanghoon Lee"
+        ]
+      },
+      {
+        "title": "Direct and indirect relationship reconstruction to address network risk propagation.",
+        "authors": [
+          "Qianyong Tang",
+          "Huajiao Li",
+          "Yuqi Zhang",
+          "Yang Li",
+          "Yajie Qi",
+          "Xinxin Zheng"
+        ]
+      },
+      {
+        "title": "Twin delayed deep deterministic policy gradient-based physical layer security and SEE in RIS-aided UAV communication.",
+        "authors": [
+          "Amjad Iqbal",
+          "Ala'a Al-Habashna",
+          "Gabriel A. Wainer",
+          "Gary Boudreau"
+        ]
+      },
+      {
+        "title": "Device-satellite-satellite collaborative task offloading computing and resource allocation in 6G satellite-ground edge computing network.",
+        "authors": [
+          "Sai Liu",
+          "Zhenjiang Zhang",
+          "Sherali Zeadally"
+        ]
+      },
+      {
+        "title": "Detecting application transitions and identifying application types for intent-based network assurance: A machine learning perspective.",
+        "authors": [
+          "John Violos",
+          "Fotios Voutsas",
+          "Christos Diou",
+          "Aris Leivadeas"
+        ]
+      },
+      {
+        "title": "Balancing benefits and risks: An analysis of CDN effectiveness in resisting DDos attacks and cyber threats.",
+        "authors": [
+          "Qinwen Hu",
+          "Muhammad Rizwan Asghar"
+        ]
+      },
+      {
+        "title": "IoD-Sim: an open-source simulator for 6 G integrated terrestrial/non-terrestrial networks.",
+        "authors": [
+          "Giovanni Grieco",
+          "Daniele Pugliese",
+          "Adnan Rashid",
+          "Ilaria Cianci"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/cn/cn273.html": {
     "header": "Computer Networks, Volume 273",
     "year": "2025",
