@@ -1,4 +1,70 @@
 {
+  "https://dblp.org/db/journals/spe/spe56.html": {
+    "header": "Software - Practice and Experience, Volume 56",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "RGPRec: A RAG-Enhanced GNN for Personalized Task Recommendations in Open-Source Communities.",
+        "authors": [
+          "Shiyu He",
+          "Yuqi Zhao",
+          "Qibo Li",
+          "Yutao Ma"
+        ]
+      },
+      {
+        "title": "Automating Algorithm Experiments With ALGator: From Problem Modeling to Reproducible Results.",
+        "authors": [
+          "Tomaz Dobravec"
+        ]
+      },
+      {
+        "title": "Project Templating and Onboarding With Cookiecutter: Foundations, Uses, and Guidelines.",
+        "authors": [
+          "Juergen Dingel",
+          "Alex Sun",
+          "Hesham ElAbd",
+          "Nathanael Yao",
+          "Andrew Boulos",
+          "Ali Tizghadam"
+        ]
+      },
+      {
+        "title": "Online Adaptive Resource Management With Stability Guarantees in Collaborative Edge Environments.",
+        "authors": [
+          "Fengyi Huang",
+          "Wenhua Wang",
+          "Wentao Fan",
+          "Zhiyong Yu",
+          "Xizhao Luo",
+          "Shigen Shen",
+          "Jun Zhang",
+          "Tian Wang"
+        ]
+      },
+      {
+        "title": "Enhanced Architecture of Structure Semantics for Syntax-Aware Code Generation.",
+        "authors": [
+          "Canmiao Zhou",
+          "Zifeng Li",
+          "Han Huang",
+          "Yi Xiang",
+          "Fangqing Liu",
+          "Zhifeng Hao"
+        ]
+      },
+      {
+        "title": "Exploring Influence Factors on LLM Suitability for No-Code Development of End User Applications.",
+        "authors": [
+          "Minghe Wang",
+          "Alexandra Kapp",
+          "Trever Schirmer",
+          "Tobias Pfandzelter",
+          "David Bermbach"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/spe/spe55.html": {
     "header": "Software - Practice and Experience, Volume 55",
     "year": "2025",
@@ -396,6 +462,507 @@
           "William Zaniboni Silva",
           "Agma Juci Machado Traina",
           "Caetano Traina"
+        ]
+      },
+      {
+        "title": "An Event Frequency-Inverse Session Frequency Based Weighting Mechanism for Data Embedding Methodologies.",
+        "authors": [
+          "Nail Tasgetiren",
+          "Ilgin Safak",
+          "Mehmet S. Aktas"
+        ]
+      },
+      {
+        "title": "Large AI Models and Their Applications: Classification, Limitations, and Potential Solutions.",
+        "authors": [
+          "Jing Bi",
+          "Ziqi Wang",
+          "Haitao Yuan",
+          "Xiankun Shi",
+          "Ziyue Wang",
+          "Jia Zhang",
+          "Mengchu Zhou",
+          "Rajkumar Buyya"
+        ]
+      },
+      {
+        "title": "ASRMG: Business Topic Clustering-Based Architecture Smell Refactoring for Microservices Granularity.",
+        "authors": [
+          "Sixuan Wang",
+          "Dongjin Yu",
+          "Baoqing Jin",
+          "Wangliang Yan",
+          "Qi Han"
+        ]
+      },
+      {
+        "title": "CloudSim 7G: An Integrated Toolkit for Modeling and Simulation of Future Generation Cloud Computing Environments.",
+        "authors": [
+          "Remo Andreoli",
+          "Jie Zhao",
+          "Tommaso Cucinotta",
+          "Rajkumar Buyya"
+        ]
+      },
+      {
+        "title": "Experimental Performance Analysis of Data Consistency Levels in NoSQL Databases.",
+        "authors": [
+          "Saulo Ferreira",
+          "Julio Mendonca",
+          "Ermeson C. Andrade"
+        ]
+      },
+      {
+        "title": "SIB: Sorted-Integers-Based Index for Compact and Fast Caching in Top-Down Logic Rule Mining Targeting KB Compression.",
+        "authors": [
+          "Ruoyu Wang",
+          "Raymond K. Wong",
+          "Daniel Sun",
+          "Rajiv Ranjan"
+        ]
+      },
+      {
+        "title": "An Empirical Study on the Effects of Jayvee, a Domain-Specific Language for Data Engineering, on Understanding Data Pipeline Architectures.",
+        "authors": [
+          "Philip Heltweg",
+          "Georg-Daniel Schwarz",
+          "Dirk Riehle",
+          "Felix Quast"
+        ]
+      },
+      {
+        "title": "Panacea: An Automatic Data Migration Framework for Constructing Internet-Scale Open Data Lakes.",
+        "authors": [
+          "Dasol Kim",
+          "Heesun Won",
+          "Myeong-Seon Gil",
+          "Yang-Sae Moon"
+        ]
+      },
+      {
+        "title": "InteropUnityCUDA: A Tool for Interoperability Between Unity and CUDA.",
+        "authors": [
+          "David Algis",
+          "Bérenger Bramas",
+          "Emmanuelle Darles",
+          "Lilian Aveneau"
+        ]
+      },
+      {
+        "title": "On the Energy Consumption of ATL Transformations.",
+        "authors": [
+          "Riccardo Rubei",
+          "Juri Di Rocco",
+          "Davide Di Ruscio"
+        ]
+      },
+      {
+        "title": "Federated Learning Architectures: A Performance Evaluation With Crop Yield Prediction Application.",
+        "authors": [
+          "Anwesha Mukherjee",
+          "Rajkumar Buyya"
+        ]
+      },
+      {
+        "title": "Cloudnativesim: A Toolkit for Modeling and Simulation of Cloud-Native Applications.",
+        "authors": [
+          "Jingfeng Wu",
+          "Minxian Xu",
+          "Yiyuan He",
+          "Kejiang Ye",
+          "Chengzhong Xu"
+        ]
+      },
+      {
+        "title": "Performance Analysis and Comparison of Node.Js and Java Spring Boot in Implementation of Restful Applications.",
+        "authors": [
+          "Shyam Mohan J. S",
+          "Krishanu Goswami"
+        ]
+      },
+      {
+        "title": "Management of DevSecOps Process: An Empirical Investigation.",
+        "authors": [
+          "Muhammad Azeem Akbar",
+          "Arif Ali Khan",
+          "Sajjad Mahmood",
+          "Sami Hyrynsalmi"
+        ]
+      },
+      {
+        "title": "Scanning HTML at Tens of Gigabytes Per Second on ARM Processors.",
+        "authors": [
+          "Daniel Lemire"
+        ]
+      },
+      {
+        "title": "On the Performance and Memory Footprint of Distributed Training: An Empirical Study on Transformers.",
+        "authors": [
+          "Zhengxian Lu",
+          "Fangyu Wang",
+          "Zhiwei Xu",
+          "Fei Yang",
+          "Tao Li"
+        ]
+      },
+      {
+        "title": "Subkv: Quantizing Long Context KV Cache for Sub-Billion Parameter Language Models on Edge Devices.",
+        "authors": [
+          "Ziqian Zeng",
+          "Tao Zhang",
+          "Zhengdong Lu",
+          "Wenjun Li",
+          "Huiping Zhuang",
+          "Hongen Shao",
+          "Sin G. Teo",
+          "Xiaofeng Zou"
+        ]
+      },
+      {
+        "title": "K8sidecar: A Modular Kubernetes Chain of Sidecar Proxies for Microservices and Serverless Architectures.",
+        "authors": [
+          "Andoni Salcedo-Navarro",
+          "Miguel García-Pineda",
+          "Juan Gutiérrez-Aguado"
+        ]
+      },
+      {
+        "title": "A Meta-Reinforcement Learning Framework Using Deep Q-Networks and GCNs for Graph Cluster Representation.",
+        "authors": [
+          "Fahad Razaque Mughal",
+          "Jingsha He",
+          "Saqib Hussain",
+          "Nafei Zhu",
+          "Abdullah Raza Lakhan",
+          "Muhammad Saddam Khokhar"
+        ]
+      },
+      {
+        "title": "Investigating Developer Sentiments in Software Components: An Exploratory Case Study of Gentoo.",
+        "authors": [
+          "Tien Rahayu Tulili",
+          "Ayushi Rastogi",
+          "Andrea Capiluppi"
+        ]
+      },
+      {
+        "title": "SNOW: An Effective Smart Contract Reentrancy Vulnerability Detection Method Based on Joint Feature Graph and Hybrid Graph Neural Network.",
+        "authors": [
+          "Wenjuan Lian",
+          "Xinze Zhang",
+          "Zikang Bao",
+          "Bin Jia"
+        ]
+      },
+      {
+        "title": "On-Demand Deployment of Edge Cloud Infrastructures for Federated Learning.",
+        "authors": [
+          "Eduardo Huedo",
+          "Rafael Moreno-Vozmediano",
+          "Rubén S. Montero",
+          "Ignacio Martín Llorente"
+        ]
+      },
+      {
+        "title": "Generation of Quantum Software From Truth Tables.",
+        "authors": [
+          "Macario Polo",
+          "Ignacio García Rodríguez de Guzmán",
+          "Manuel Ángel Serrano",
+          "Mario Piattini"
+        ]
+      },
+      {
+        "title": "NoCodeGPT: A No-Code Interface for Building Web Apps With Language Models.",
+        "authors": [
+          "Mauricio Monteiro",
+          "Bruno Castelo Branco",
+          "Samuel Silvestre",
+          "Guilherme Avelino",
+          "Marco Túlio Valente"
+        ]
+      },
+      {
+        "title": "Evaluating Multi-Label Machine Learning Models for Smart Home Environments.",
+        "authors": [
+          "Diego Corrêa da Silva",
+          "Denis Robson Dantas Boaventura",
+          "Mayki Dos Santos Oliveira",
+          "Jander Pereira Santos Junior",
+          "Eduardo Ferreira da Silva",
+          "Eduardo Santana de Almeida",
+          "Cássio V. S. Prazeres",
+          "Ivan do Carmo Machado",
+          "Maycon Leone Maciel Peixoto",
+          "Gustavo Bittencourt Figueiredo",
+          "Frederico Araújo Durão"
+        ]
+      },
+      {
+        "title": "A Programming Platform Design for Children to Create and Explore Hybrid Musical Instruments.",
+        "authors": [
+          "Nicolas Gold",
+          "Evangelos Himonides",
+          "Ross Purves",
+          "Hazel Baxter"
+        ]
+      },
+      {
+        "title": "An Empirical Analysis of Approach-Based Metrics Model for Architectural Erosion Detection.",
+        "authors": [
+          "Ahmed Baabad",
+          "Hazura Binti Zulzalil",
+          "Sa'adah Hassan",
+          "Salmi Binti Baharom"
+        ]
+      },
+      {
+        "title": "Concurrency Contracts for Designing Highly Available Replicated Data Types.",
+        "authors": [
+          "Kevin De Porre",
+          "Carla Ferreira",
+          "Elisa Gonzalez Boix"
+        ]
+      },
+      {
+        "title": "On the Usability of Reactive Programming APIs: A Mixed Evaluation.",
+        "authors": [
+          "Carlos Zimmerle",
+          "Kiev Gama"
+        ]
+      },
+      {
+        "title": "Practical Adaptive Dynamic Bitvectors.",
+        "authors": [
+          "Gonzalo Navarro"
+        ]
+      },
+      {
+        "title": "Spatio-Clock Synchronous Constraint Systems Specification and Verification to Ensure Autonomous Driving Safety.",
+        "authors": [
+          "Jinyong Wang",
+          "Zhiqiu Huang",
+          "Deyan Yang",
+          "Xiaowei Huang",
+          "Yi Zhu"
+        ]
+      },
+      {
+        "title": "Essential Secret Image Sharing Scheme With Flexible Reconstruction, Reduced Share Storage Costs, and Faster Shares Generation.",
+        "authors": [
+          "Krishnaraj Bhat",
+          "Devesh C. Jinwala",
+          "Yamuna Prasad",
+          "Mukesh A. Zaveri"
+        ]
+      },
+      {
+        "title": "Comparative Performance of the AVL Tree and Three Variants of the Red-Black Tree.",
+        "authors": [
+          "Russell A. Brown"
+        ]
+      },
+      {
+        "title": "Early Response Framework for Accident Detection and Prevention Through Multi-Zone Fog-Cloud Collaboration for Safety-Critical Applications.",
+        "authors": [
+          "Moumita Mishra",
+          "Soumya Kanti Ghosh",
+          "Bhargab Maitra",
+          "Rajkumar Buyya"
+        ]
+      },
+      {
+        "title": "Integrating Large Language Model for Common Criteria Security Document Generation Based on PySide6.",
+        "authors": [
+          "Bagus Tri Atmaja",
+          "Jiann-liang Chen"
+        ]
+      },
+      {
+        "title": "A Comprehensive Review of ns-3-Based Simulation Frameworks for LEO Satellite Constellations: Capabilities and Limitations.",
+        "authors": [
+          "Pilar Manzanares-Lopez",
+          "Juan Pedro Muñoz-Gea",
+          "Josemaria Malgosa-Sanahuja"
+        ]
+      },
+      {
+        "title": "Safeguarding Networks From Malicious Intrusions Using Quantum Machine Intelligence.",
+        "authors": [
+          "Alok Kumar Shukla"
+        ]
+      },
+      {
+        "title": "Debloating Software Through Enhanced Static Analysis and Constraint Rules.",
+        "authors": [
+          "Xiaohu Song",
+          "Hai Yu",
+          "Ying Wang",
+          "Zhiliang Zhu"
+        ]
+      },
+      {
+        "title": "Kubernetes in Action: Exploring the Performance of Kubernetes Distributions in the Cloud.",
+        "authors": [
+          "Hossein Aqasizade",
+          "Ehsan Ataie",
+          "Mostafa Bastam"
+        ]
+      },
+      {
+        "title": "SmellyBot: An AI-Powered Software Bot for Code Smell Detection.",
+        "authors": [
+          "Amal Alazba",
+          "Hamoud Aljamaan",
+          "Mohammad R. Alshayeb"
+        ]
+      },
+      {
+        "title": "Special Issue on Edge Intelligence Software Systems for Internet of Autonomous Unmanned Vehicles Journal of Software: Practice and Experience (Wiley Press).",
+        "authors": [
+          "Kaijian Xia",
+          "Antonio Bucchiarone",
+          "Wenbing Zhao",
+          "Tian Wang"
+        ]
+      },
+      {
+        "title": "Bridging the Gap: Achieving Seamless Interoperability Between Ethereum-Based Blockchains Using Inter-Blockchain Communication Protocols.",
+        "authors": [
+          "Christian Delgado-von-Eitzen",
+          "Luis Anido Rifón",
+          "María Ruiz Molina",
+          "Manuel J. Fernández-Iglesias"
+        ]
+      },
+      {
+        "title": "Determination of the Optimal Window Size for the Spatial XOR Filter.",
+        "authors": [
+          "Paulo Diogo Rodrigues Leão",
+          "Fabiano de Souza Oliveira",
+          "Paulo Eustáquio Duarte Pinto"
+        ]
+      },
+      {
+        "title": "Leveraging the Power of Images: Image Recommendation to Enhance Issue Reports.",
+        "authors": [
+          "Xuchen Tan",
+          "Deenu Gengiti",
+          "Maleknaz Nayebi"
+        ]
+      },
+      {
+        "title": "Generative Artificial Intelligence for Software Engineering - A Research Agenda.",
+        "authors": [
+          "Anh Nguyen-Duc",
+          "Beatriz Cabrero-Daniel",
+          "Adam Przybylek",
+          "Chetan Arora",
+          "Dron Khanna",
+          "Tomas Herda",
+          "Usman Rafiq",
+          "Jorge Melegati",
+          "Eduardo Guerra",
+          "Kai-Kristian Kemell",
+          "Mika Saari",
+          "Zheying Zhang",
+          "Huy Le",
+          "Tho Quan",
+          "Pekka Abrahamsson"
+        ]
+      },
+      {
+        "title": "SlowSort: An Enhanced Sorting Algorithm for Large-Scale Integer Datasets.",
+        "authors": [
+          "Pengfei Wang",
+          "Rui He"
+        ]
+      },
+      {
+        "title": "A Method for the Quality-Aware Automated Selection of Deployment Technologies.",
+        "authors": [
+          "Miles Stötzner",
+          "Niklas Krieger",
+          "Sandro Speth",
+          "Marcel Weller",
+          "Steffen Becker",
+          "Benjamin Weder",
+          "Jacopo Soldani",
+          "Valentin Morlock"
+        ]
+      },
+      {
+        "title": "DAOR: Distinguish Similar Machine Learning APIs Based on Official Documents and Reviews.",
+        "authors": [
+          "Shuang Jiang",
+          "Junxin Yang",
+          "Yuzhou Liu",
+          "Lei Liu",
+          "Huaxiao Liu"
+        ]
+      },
+      {
+        "title": "Register-Based and Stack-Based Virtual Machines: Which Perform Better in JIT Compilation Scenarios?",
+        "authors": [
+          "Bohuslav Simek",
+          "Dalibor Fiala",
+          "Martin Dostál"
+        ]
+      },
+      {
+        "title": "A Risk Manager for Intrusion Tolerant Systems: Enhancing HAL 9000 With New Scoring and Data Sources.",
+        "authors": [
+          "Tadeu Freitas",
+          "Carlos Novo",
+          "Inês Dutra",
+          "João Soares",
+          "Manuel Eduardo Correia",
+          "Benham Shariati",
+          "Rolando Martins"
+        ]
+      },
+      {
+        "title": "Faster Wavelet Tree Queries.",
+        "authors": [
+          "Florian Kurpicz",
+          "Angelo Savino",
+          "Rossano Venturini"
+        ]
+      },
+      {
+        "title": "Improving Energy Efficiency in Iot Edge Computing Through Dynamic Deep Q-Network Based Resource Management.",
+        "authors": [
+          "Aditya Bhushan",
+          "Ashutosh Kumar Singh",
+          "Sulabh Sachan",
+          "Sambeet Mishra"
+        ]
+      },
+      {
+        "title": "Zombit: Exploiting Runs in Bitvectors.",
+        "authors": [
+          "Adrián Gómez-Brandón"
+        ]
+      },
+      {
+        "title": "Quality of Experience Based Dynamic Path Serverless Data Pipelines in Edge/Fog Computing.",
+        "authors": [
+          "Sreenivasu Mirampalli",
+          "Rajeev Wankar",
+          "Satish Narayana Srirama"
+        ]
+      },
+      {
+        "title": "Source Code Analysis for Performance Enhancement of the Mean Shift Algorithm.",
+        "authors": [
+          "Damir Demirovic",
+          "Senada Avdic"
+        ]
+      },
+      {
+        "title": "A Metamodel-Based Approach for Describing Quantum Gates.",
+        "authors": [
+          "Dae-Kyoo Kim"
         ]
       }
     ]

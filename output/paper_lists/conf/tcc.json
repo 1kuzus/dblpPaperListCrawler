@@ -1,4 +1,600 @@
 {
+  "https://dblp.org/db/conf/tcc/tcc2025-4.html": {
+    "header": "23rd TCC 2025: Aarhus, Denmark - Part IV",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Plonk is Simulation Extractable in ROM Under Falsifiable Assumptions.",
+        "authors": [
+          "Helger Lipmaa"
+        ]
+      },
+      {
+        "title": "Time-Space Trade-Offs for Sumcheck.",
+        "authors": [
+          "Anubhav Baweja",
+          "Alessandro Chiesa",
+          "Elisabetta Fedele",
+          "Giacomo Fenzi",
+          "Pratyush Mishra",
+          "Tushar Mopuri",
+          "Andrew Zitek-Estrada"
+        ]
+      },
+      {
+        "title": "A Hidden-Bits Approach to Statistical ZAPs from LWE.",
+        "authors": [
+          "Eli Bradley",
+          "George Lu",
+          "Shafik Nassar",
+          "Brent Waters",
+          "David J. Wu"
+        ]
+      },
+      {
+        "title": "sfJustvengers: Batched VOLE ZK Disjunctions in 풪(R+B+C) Communication.",
+        "authors": [
+          "Yibin Yang"
+        ]
+      },
+      {
+        "title": "Four-Round Statistical Non-malleable Zero-Knowledge.",
+        "authors": [
+          "Susumu Kiyoshima"
+        ]
+      },
+      {
+        "title": "Space-Deniable Proofs.",
+        "authors": [
+          "Jesko Dujmovic",
+          "Christoph U. Günther",
+          "Krzysztof Pietrzak"
+        ]
+      },
+      {
+        "title": "Black-Box Crypto Is Useless for Pseudorandom Codes.",
+        "authors": [
+          "Sanjam Garg",
+          "Sam Gunn",
+          "Mingyuan Wang"
+        ]
+      },
+      {
+        "title": "Separating Pseudorandom Codes from Local Oracles.",
+        "authors": [
+          "Nico Döttling",
+          "Anne Müller",
+          "Mahesh Sreekumar Rajasree"
+        ]
+      },
+      {
+        "title": "Generalized and Unified Equivalences Between Hardness and Pseudoentropy.",
+        "authors": [
+          "Lunjia Hu",
+          "Salil P. Vadhan"
+        ]
+      },
+      {
+        "title": "Special Genera of Hermitian Lattices and Applications to HAWK.",
+        "authors": [
+          "Guilhem Mureau"
+        ]
+      },
+      {
+        "title": "Differentially Private Learning Beyond the Classical Dimensionality Regime.",
+        "authors": [
+          "Cynthia Dwork",
+          "Pranay Tankala",
+          "Linjun Zhang"
+        ]
+      },
+      {
+        "title": "Differentially Private Compression and the Sensitivity of LZ77.",
+        "authors": [
+          "Jeremiah Blocki",
+          "Seunghoon Lee",
+          "Brayan Sebastián Yepes Garcia"
+        ]
+      },
+      {
+        "title": "Securing Unbounded Differential Privacy Against Timing Attacks.",
+        "authors": [
+          "Zachary Ratliff",
+          "Salil P. Vadhan"
+        ]
+      },
+      {
+        "title": "Cryptography with Weak Privacy.",
+        "authors": [
+          "Amos Beimel",
+          "Yuval Ishai",
+          "Eyal Kushilevitz",
+          "Hanjun Li"
+        ]
+      },
+      {
+        "title": "Time/Space Tradeoffs for Generic Attacks on Delay Functions.",
+        "authors": [
+          "Kasper Green Larsen",
+          "Mark Simkin"
+        ]
+      },
+      {
+        "title": "Constrained Verifiable Random Functions Without Obfuscation and Friends.",
+        "authors": [
+          "Nicholas Brandt",
+          "Miguel Cueto Noval",
+          "Christoph U. Günther",
+          "Akin Ünal",
+          "Stella Wohnig"
+        ]
+      },
+      {
+        "title": "Provably Memory-Hard Proofs of Work with Memory-Easy Verification.",
+        "authors": [
+          "Jeremiah Blocki",
+          "Nathan Smearsoll"
+        ]
+      },
+      {
+        "title": "On the Impossibility of Actively Secure Distributed Samplers.",
+        "authors": [
+          "Damiano Abram",
+          "Serge Fehr",
+          "Maciej Obremski",
+          "Peter Scholl"
+        ]
+      },
+      {
+        "title": "Scalable Multi-server Private Information Retrieval.",
+        "authors": [
+          "Ashrujit Ghoshal",
+          "Baitian Li",
+          "Yaohua Ma",
+          "Chenxin Dai",
+          "Elaine Shi"
+        ]
+      },
+      {
+        "title": "Multi-server Doubly Efficient PIR in the Classical Model and Beyond.",
+        "authors": [
+          "Arthur Lazzaretti",
+          "Zeyu Liu",
+          "Ben Fisch",
+          "Peihan Miao",
+          "Charalampos Papamanthou"
+        ]
+      },
+      {
+        "title": "Universally Composable Succinct Vector Commitments and Applications.",
+        "authors": [
+          "Ran Canetti",
+          "Megan Chen"
+        ]
+      },
+      {
+        "title": "An Unstoppable Ideal Functionality for Signatures and a Modular Analysis of the Dolev-Strong Broadcast.",
+        "authors": [
+          "Ran Cohen",
+          "Jack Doerner",
+          "Eysa Lee",
+          "Anna Lysyanskaya",
+          "Lawrence Roy"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/tcc/tcc2025-3.html": {
+    "header": "23rd TCC 2025: Aarhus, Denmark - Part III",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Untelegraphable Encryption and its Applications.",
+        "authors": [
+          "Jeffrey Champion",
+          "Fuyuki Kitagawa",
+          "Ryo Nishimaki",
+          "Takashi Yamakawa"
+        ]
+      },
+      {
+        "title": "Computational Monogamy of Entanglement and Non-interactive Quantum Key Distribution.",
+        "authors": [
+          "Alex B. Grilo",
+          "Giulio Malavolta",
+          "Michael Walter",
+          "Tianwei Zhang"
+        ]
+      },
+      {
+        "title": "On the Limitations of Pseudorandom Unitaries - Or: Cryptographic Applications of LOCC Indistinguishability of Identical Versus Independent Haar Unitaries.",
+        "authors": [
+          "Prabhanjan Ananth",
+          "Aditya Gulati",
+          "Yao-Ting Lin"
+        ]
+      },
+      {
+        "title": "Clifford Strategies in Interactive Protocols are Classically Simulatable.",
+        "authors": [
+          "Itay Shalit"
+        ]
+      },
+      {
+        "title": "Pseudorandom Function-Like States from Common Haar Unitary.",
+        "authors": [
+          "Minki Hhan",
+          "Shogo Yamada"
+        ]
+      },
+      {
+        "title": "Foundations of Single-Decryptor Encryption.",
+        "authors": [
+          "Fuyuki Kitagawa",
+          "Takashi Yamakawa"
+        ]
+      },
+      {
+        "title": "Security Amplification of Threshold Signatures in the Standard Model.",
+        "authors": [
+          "Karen Azari",
+          "Cecilia Boschini",
+          "Kristina Hostáková",
+          "Michael Reichle"
+        ]
+      },
+      {
+        "title": "Sandwich BUFF: Achieving Non-resignability Using Iterative Hash Functions.",
+        "authors": [
+          "Serge Fehr",
+          "Yu-Hsuan Huang",
+          "Julia Kastner"
+        ]
+      },
+      {
+        "title": "Unconditional Foundations for Supersingular Isogeny-Based Cryptography.",
+        "authors": [
+          "Arthur Herlédan Le Merdy",
+          "Benjamin Wesolowski"
+        ]
+      },
+      {
+        "title": "The Pseudorandomness of Legendre Symbols Under the Quadratic-Residuosity Assumption.",
+        "authors": [
+          "Henry Corrigan-Gibbs",
+          "David J. Wu"
+        ]
+      },
+      {
+        "title": "Dimensional esfROSion: Improving the sfROS Attack with Decomposition in Higher Bases.",
+        "authors": [
+          "Antoine Joux",
+          "Julian Loss",
+          "Giacomo Santato"
+        ]
+      },
+      {
+        "title": "Threshold Signatures from One-Way Functions.",
+        "authors": [
+          "Pedro Branco",
+          "Giulio Malavolta"
+        ]
+      },
+      {
+        "title": "How to Verify that a Small Device is Quantum, Unconditionally.",
+        "authors": [
+          "Giulio Malavolta",
+          "Tamer Mour"
+        ]
+      },
+      {
+        "title": "Quantum Interactive Oracle Proofs.",
+        "authors": [
+          "Baocheng Sun",
+          "Thomas Vidick"
+        ]
+      },
+      {
+        "title": "NISQ Security and Complexity via Simple Classical Reasoning.",
+        "authors": [
+          "Alexandru Cojocaru",
+          "Juan Garay",
+          "Qipeng Liu",
+          "Fang Song"
+        ]
+      },
+      {
+        "title": "Quantum Rewinding for IOP-Based Succinct Arguments.",
+        "authors": [
+          "Alessandro Chiesa",
+          "Marcel Dall'Agnol",
+          "Zijing Di",
+          "Ziyi Guan",
+          "Nicholas Spooner"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/tcc/tcc2025-2.html": {
+    "header": "23rd TCC 2025: Aarhus, Denmark - Part II",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Offline-Online Indifferentiability of Cryptographic Systems.",
+        "authors": [
+          "Ashrujit Ghoshal",
+          "Ilan Komargodski",
+          "Gil Segev"
+        ]
+      },
+      {
+        "title": "Seedless Condensers for Efficiently Samplable Sources.",
+        "authors": [
+          "Cody Freitag",
+          "Jad Silbak",
+          "Daniel Wichs"
+        ]
+      },
+      {
+        "title": "Incompressible Encryption with Everlasting Security.",
+        "authors": [
+          "Shany Ben-David",
+          "Eylon Yogev"
+        ]
+      },
+      {
+        "title": "Relationships Among FuncCPA and Its Related Notions.",
+        "authors": [
+          "Takumi Shinozaki",
+          "Tatsuaki Okamoto",
+          "Keisuke Tanaka",
+          "Masayuki Tezuka",
+          "Yusuke Yoshida"
+        ]
+      },
+      {
+        "title": "Lower Bounds on Inner-Product Functional Encryption from All-or-Nothing Encryption Primitives.",
+        "authors": [
+          "Jinye He",
+          "Shiyu Li",
+          "Wei-Kai Lin"
+        ]
+      },
+      {
+        "title": "A Meta-complexity Theoretic Approach to Indistinguishability Obfuscation and Witness Pseudo-Canonicalization.",
+        "authors": [
+          "Noam Mazor",
+          "Rafael Pass",
+          "Tomer Solomon"
+        ]
+      },
+      {
+        "title": "Obfuscating Pseudorandom Functions is Post-quantum Complete.",
+        "authors": [
+          "Pedro Branco",
+          "Abhishek Jain",
+          "Akshayaram Srinivasan"
+        ]
+      },
+      {
+        "title": "Pseudorandom FE, iO and Applications.",
+        "authors": [
+          "Shweta Agrawal",
+          "Simran Kumari",
+          "Shota Yamada"
+        ]
+      },
+      {
+        "title": "Zeroizing Attacks Against Evasive and Circular Evasive LWE.",
+        "authors": [
+          "Shweta Agrawal",
+          "Anuja Modi",
+          "Anshu Yadav",
+          "Shota Yamada"
+        ]
+      },
+      {
+        "title": "(Multi-input) sfFE for Randomized Functionalities, Revisited.",
+        "authors": [
+          "Pratish Datta",
+          "Jiaxin Guan",
+          "Alexis Korb",
+          "Amit Sahai"
+        ]
+      },
+      {
+        "title": "Adaptively Secure Streaming Functional Encryption.",
+        "authors": [
+          "Pratish Datta",
+          "Jiaxin Guan",
+          "Alexis Korb",
+          "Amit Sahai"
+        ]
+      },
+      {
+        "title": "Simplified PIR and CDS Protocols and Improved Linear Secret-Sharing Schemes.",
+        "authors": [
+          "Bar Alon",
+          "Amos Beimel",
+          "Or Lasri"
+        ]
+      },
+      {
+        "title": "Deniable Secret Sharing.",
+        "authors": [
+          "Ran Canetti",
+          "Ivan Damgård",
+          "Sebastian Kolby",
+          "Divya Ravi",
+          "Sophia Yakoubov"
+        ]
+      },
+      {
+        "title": "Polynomial Secret Sharing Schemes and Algebraic Matroids.",
+        "authors": [
+          "Amos Beimel",
+          "Oriol Farràs",
+          "Adriana Moya"
+        ]
+      },
+      {
+        "title": "Pseudorandom Correlation Functions for Garbled Circuits.",
+        "authors": [
+          "Geoffroy Couteau",
+          "Srinivas Devadas",
+          "Alexander Koch",
+          "Sacha Servan-Schreiber"
+        ]
+      },
+      {
+        "title": "Multiparty Homomorphic Secret Sharing and More from LPN and MQ.",
+        "authors": [
+          "Geoffroy Couteau",
+          "Naman Kumar",
+          "Xiaxi Ye"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/tcc/tcc2025-1.html": {
+    "header": "23rd TCC 2025: Aarhus, Denmark - Part I",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Honest Majority Constant-Round MPC with Linear Communication from One-Way Functions.",
+        "authors": [
+          "Junru Li",
+          "Yifan Song"
+        ]
+      },
+      {
+        "title": "Is It Even Possible? On the Parallel Composition of Asynchronous MPC Protocols.",
+        "authors": [
+          "Ran Cohen",
+          "Pouyan Forghani",
+          "Juan Garay",
+          "Rutvik Patel",
+          "Vassilis Zikas"
+        ]
+      },
+      {
+        "title": "Efficient Garbled Pseudorandom Functions and Lookup Tables from Minimal Assumption.",
+        "authors": [
+          "Wei-Kai Lin",
+          "Zhenghao Lu",
+          "Hong-Sheng Zhou"
+        ]
+      },
+      {
+        "title": "Practical Secure Delegated Linear Algebra with Trapdoored Matrices.",
+        "authors": [
+          "Mark Braverman",
+          "Stephen Newman"
+        ]
+      },
+      {
+        "title": "On Achieving \"Best-in-the-Multiverse\" MPC.",
+        "authors": [
+          "Anasuya Acharya",
+          "Carmit Hazay",
+          "Muthuramakrishnan Venkitasubramaniam"
+        ]
+      },
+      {
+        "title": "Information-Theoretic Broadcast-Optimal MPC.",
+        "authors": [
+          "Michele Ciampi",
+          "Ivan Damgård",
+          "Divya Ravi",
+          "Luisa Siniscalchi",
+          "Sophia Yakoubov"
+        ]
+      },
+      {
+        "title": "Vive Galois! Part 1: Optimal SIMD Packing and Packed Bootstrapping for FHE.",
+        "authors": [
+          "Chris Peikert",
+          "Zachary Pepin"
+        ]
+      },
+      {
+        "title": "Fully-Homomorphic Encryption from Lattice Isomorphism.",
+        "authors": [
+          "Pedro Branco",
+          "Giulio Malavolta",
+          "Zayd Maradni"
+        ]
+      },
+      {
+        "title": "Large-Plaintext Functional Bootstrapping in FHE with Small Bootstrapping Keys.",
+        "authors": [
+          "Kuiyuan Duan",
+          "Hongbo Li",
+          "Dengfa Liu",
+          "Guangsheng Ma"
+        ]
+      },
+      {
+        "title": "Slightly Sublinear Trapdoor Hash Functions and PIR from Low-Noise LPN.",
+        "authors": [
+          "Damiano Abram",
+          "Giulio Malavolta",
+          "Lawrence Roy"
+        ]
+      },
+      {
+        "title": "Privately Constrained PRFs from DCR: Puncturing and Bounded Waring Rank.",
+        "authors": [
+          "Amik Raj Behera",
+          "Pierre Meyer",
+          "Claudio Orlandi",
+          "Lawrence Roy",
+          "Peter Scholl"
+        ]
+      },
+      {
+        "title": "Linear Prover IOPs in Log Star Rounds.",
+        "authors": [
+          "Noor Athamnah",
+          "Noga Ron-Zewi",
+          "Ron D. Rothblum"
+        ]
+      },
+      {
+        "title": "Linear-Time Accumulation Schemes.",
+        "authors": [
+          "Benedikt Bünz",
+          "Alessandro Chiesa",
+          "Giacomo Fenzi",
+          "William Wang"
+        ]
+      },
+      {
+        "title": "Relativized Succinct Arguments in the ROM do not Exist.",
+        "authors": [
+          "Annalisa Barbara",
+          "Alessandro Chiesa",
+          "Ziyi Guan"
+        ]
+      },
+      {
+        "title": "SNARK Lower Bounds via Communication Complexity.",
+        "authors": [
+          "Rishabh Bhadauria",
+          "Alexander R. Block",
+          "Prantar Ghosh",
+          "Justin Thaler"
+        ]
+      },
+      {
+        "title": "A Fiat-Shamir Transformation from Duplex Sponges.",
+        "authors": [
+          "Alessandro Chiesa",
+          "Michele Orrù"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/tcc/tcc2024-4.html": {
     "header": "22nd TCC 2024: Milan, Italy - Part IV",
     "year": "2024",

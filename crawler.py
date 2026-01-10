@@ -103,11 +103,8 @@ def run_get_paper_list(url, throttle_delay=15):
     }
 
 
-def update_indexing_pages(typ, index, indexing_page, output_dir=None):
+def update_indexing_pages(typ, index, indexing_page, output_dir):
     links_new = indexing_page["links"]
-
-    if output_dir is None:
-        return links_new
 
     key = f"{typ}/{index}"
     path_indexing_pages = os.path.join(output_dir, "indexing_pages.json")
@@ -139,8 +136,8 @@ def update_indexing_pages(typ, index, indexing_page, output_dir=None):
     return links_diff, update_indexing_pages_callback
 
 
-def update_paper_list(typ, index, paper_list, output_dir=None):
-    if output_dir is None or len(paper_list) == 0:
+def update_paper_list(typ, index, paper_list, output_dir):
+    if len(paper_list) == 0:
         return
 
     path_paper_list = os.path.join(output_dir, "paper_lists", typ, f"{index}.json")
@@ -178,9 +175,42 @@ def validate_and_fix_corrupted(output_dir):
         print(f"[+] These links have been removed from {path_indexing_pages}.")
 
 
-def get_paper_lists(indices, output_dir=None):
-    if output_dir is not None and os.path.exists(output_dir):
+def update_existing_paper_list(indices, output_dir, year_delta=1):
+    this_year = time.localtime().tm_year
+    recent = []
+    for typ in indices:
+        for index in indices[typ]:
+            path_paper_list = os.path.join(output_dir, "paper_lists", typ, f"{index}.json")
+            paper_list = load_json(path_paper_list)
+            for link in paper_list:
+                years = paper_list[link]["year"].split(",")
+                latest_year = max(int(year) for year in years)
+                length = len(paper_list[link]["papers"])
+                if latest_year >= this_year - year_delta:
+                    recent.append((typ, index, length, link))
+    print(f"[*] Found {len(recent)} existing paper lists to update in the last {year_delta} years.")
+    links_recent = [item[3] for item in recent]
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        results = executor.map(run_get_paper_list, links_recent)
+    for (typ, index, length, link), result in zip(recent, results):
+        if result is None or len(result["papers"]) == length:
+            continue
+        path_paper_list = os.path.join(output_dir, "paper_lists", typ, f"{index}.json")
+        paper_list = load_json(path_paper_list)
+        paper_list[link] = result
+        save_json(paper_list, path_paper_list, sort_fn=lambda item: (item[1]["year"], item[0]), reverse=True)
+        print(f"[+] Updated {path_paper_list} with updated paper list for {link}",
+              f"({length} items -> {len(result['papers'])} items)")
+
+
+def scrape_paper_lists(indices, output_dir):
+    if output_dir is None:
+        return
+    if os.path.exists(output_dir):
+        assert os.path.exists(os.path.join(output_dir, "indexing_pages.json"))
+        assert os.path.exists(os.path.join(output_dir, "full_name_mapping.json"))
         validate_and_fix_corrupted(output_dir)
+        update_existing_paper_list(indices, output_dir, year_delta=1)
     for typ in indices:
         for index in indices[typ]:
             indexing_page = run_get_indexing_page(typ, index)
@@ -190,7 +220,7 @@ def get_paper_lists(indices, output_dir=None):
             links_diff, update_indexing_pages_callback = \
                 update_indexing_pages(typ, index, indexing_page, output_dir)
             with ThreadPoolExecutor(max_workers=10) as executor:
-                result = executor.map(run_get_paper_list, links_diff)
-            paper_list = {link: paper for link, paper in zip(links_diff, result) if paper is not None}
+                results = executor.map(run_get_paper_list, links_diff)
+            paper_list = {link: result for link, result in zip(links_diff, results) if result is not None}
             update_paper_list(typ, index, paper_list, output_dir)
             update_indexing_pages_callback()

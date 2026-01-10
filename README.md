@@ -12,7 +12,7 @@
 
 仓库中已经包含了[中国计算机学会推荐国际学术会议和期刊目录-2022更名版](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=FE0A8E6CB2A39A42BE7701819F54CBB01DD9A874BD99C2BEC97A342E61629613)
 （此文件的发布时间是2024年6月）中**网络与信息安全**、**计算机网络**、**软件工程/系统软件/程序设计语言**
-三个方向的A类、B类、C类共`192`个期刊/会议的爬取结果。最近更新时间为`2025-07-27`。
+三个方向的A类、B类、C类及其他共`194`个期刊/会议的爬取结果。最近更新时间为`2026-01-10`。
 
 仓库中已爬取的期刊/会议列表见[`output/full_name_mapping.json`](output/full_name_mapping.json)
 ，每个期刊/会议的论文列表见[`output/paper_lists/`](output/paper_lists)。
@@ -28,7 +28,7 @@ pip install requests lxml
 想要自定义爬取的期刊/会议，只需要参照[`main.py`](main.py)修改`indices`即可。
 
 ```python
-from crawler import get_paper_lists
+from crawler import scrape_paper_lists
 
 indices = {
     "journals": ["pami"],
@@ -36,7 +36,7 @@ indices = {
 }
 
 if __name__ == "__main__":
-    get_paper_lists(indices, output_dir="./path/to/output")
+    scrape_paper_lists(indices, output_dir="./path/to/output")
 ```
 
 `indices`中的值应该与[dblp.org](https://dblp.org)

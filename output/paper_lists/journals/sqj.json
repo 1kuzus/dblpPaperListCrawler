@@ -1,4 +1,54 @@
 {
+  "https://dblp.org/db/journals/sqj/sqj34.html": {
+    "header": "Software Quality Journal, Volume 34",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "OSEL: boosting vulnerability detection with opcode slicing-enhanced feature learning.",
+        "authors": [
+          "Yanxiang Tong",
+          "Shengkai Gao",
+          "Mingyue Zhang",
+          "Ben Wang",
+          "Shunhui Ji",
+          "Pengcheng Zhang"
+        ]
+      },
+      {
+        "title": "Towards combining chain-of-thought and code static analysis for buffer overflow vulnerability detection.",
+        "authors": [
+          "Yuan Huang",
+          "Yinan Chen",
+          "Jiahong Cai",
+          "Junlong Wu",
+          "Xiangping Chen",
+          "Pengfei Shen",
+          "Lei Yun"
+        ]
+      },
+      {
+        "title": "A universal dimensionality optimization method for fault localization.",
+        "authors": [
+          "Jian Hu"
+        ]
+      },
+      {
+        "title": "FLAME-JIT: Fine-grained localization of application mobile defects at just-in-time.",
+        "authors": [
+          "Itrooba Marrium",
+          "Javaria Imtiaz",
+          "Nigar Azhar Butt"
+        ]
+      },
+      {
+        "title": "Using case-control study to explain software fault-proneness.",
+        "authors": [
+          "Yasser Alshehri",
+          "Katerina Goseva-Popstojanova"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/sqj/sqj33.html": {
     "header": "Software Quality Journal, Volume 33",
     "year": "2025",
@@ -229,6 +279,73 @@
         "title": "Elicit, specify, require, revise: enhancing requirements engineering process using gamification.",
         "authors": [
           "Naomi Unkelos-Shpigel"
+        ]
+      },
+      {
+        "title": "A study on reported under-documented non-functional requirements as an indicator of technical debt.",
+        "authors": [
+          "Ezequiel Scott",
+          "Gabriela Robiolo",
+          "Santiago Matalonga",
+          "Michael Felderer",
+          "Dietmar Pfahl"
+        ]
+      },
+      {
+        "title": "HPDA: An enhanced GNN-based software vulnerability detection approach by hybrid-scale perception and data augmentation.",
+        "authors": [
+          "Shengyi Cheng",
+          "Qiao Yu",
+          "Yi Zhu",
+          "Zirui Huang"
+        ]
+      },
+      {
+        "title": "ReAPR: Automatic program repair via retrieval-augmented large language models.",
+        "authors": [
+          "Zixin Liu",
+          "Xiaozhi Du",
+          "Hairui Liu"
+        ]
+      },
+      {
+        "title": "Investigating adversarial attacks in software analytics via machine learning explainability.",
+        "authors": [
+          "Md. Abdul Awal",
+          "Mrigank Rochan",
+          "Chanchal K. Roy"
+        ]
+      },
+      {
+        "title": "CPDrmLTLf : a linear temporal logic over finite traces guided model checking tool.",
+        "authors": [
+          "Xiangqi Zeng",
+          "Meng Wang",
+          "Miao Wang",
+          "Xu Lu"
+        ]
+      },
+      {
+        "title": "On the correlation between architectural smells and static analysis warnings.",
+        "authors": [
+          "Matteo Esposito",
+          "Mikel Robredo",
+          "Francesca Arcelli Fontana",
+          "Valentina Lenarduzzi"
+        ]
+      },
+      {
+        "title": "EAFL: an effective combination of features for fault localization in evolving programs.",
+        "authors": [
+          "Faeze Aghazade-Par",
+          "Mojtaba Vahidi-Asl"
+        ]
+      },
+      {
+        "title": "Improving story points estimation using ensemble machine learning.",
+        "authors": [
+          "Zuhaimi Ahmad",
+          "Matthew M. Y. Kuo"
         ]
       }
     ]

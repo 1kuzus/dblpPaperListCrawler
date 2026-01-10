@@ -1,4 +1,4 @@
-from crawler import get_paper_lists
+from crawler import scrape_paper_lists
 
 indices = {
     # 期刊
@@ -33,6 +33,7 @@ indices = {
         # 其他
         "pacmse",  # Proceedings of the ACM on Software Engineering
     ],
+
     # 学术会议
     "conf": [
         # 网络与信息安全，CCF A类
@@ -70,4 +71,4 @@ indices = {
 }
 
 if __name__ == "__main__":
-    get_paper_lists(indices, output_dir="./output")
+    scrape_paper_lists(indices, output_dir="./output")
