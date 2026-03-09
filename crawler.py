@@ -8,6 +8,7 @@ import os
 
 
 def get(url):
+    # url = url.replace("dblp.org", "dblp.uni-trier.de")  # use the mirror site
     resp = requests.get(url, timeout=10)
     assert resp.status_code != 404, f"{url} Not Found"
     if resp.status_code != 200:
@@ -175,7 +176,7 @@ def validate_and_fix_corrupted(output_dir):
         print(f"[+] These links have been removed from {path_indexing_pages}.")
 
 
-def update_existing_paper_list(indices, output_dir, year_delta=1):
+def update_existing_paper_list(indices, output_dir, year_delta=1, max_workers=10):
     this_year = time.localtime().tm_year
     recent = []
     for typ in indices:
@@ -188,9 +189,9 @@ def update_existing_paper_list(indices, output_dir, year_delta=1):
                 length = len(paper_list[link]["papers"])
                 if latest_year >= this_year - year_delta:
                     recent.append((typ, index, length, link))
-    print(f"[*] Found {len(recent)} existing paper lists to update in the last {year_delta} years.")
+    print(f"[*] Found {len(recent)} existing paper lists containing papers from the last {year_delta} year(s).")
     links_recent = [item[3] for item in recent]
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
         results = executor.map(run_get_paper_list, links_recent)
     for (typ, index, length, link), result in zip(recent, results):
         if result is None or len(result["papers"]) == length:
@@ -203,14 +204,14 @@ def update_existing_paper_list(indices, output_dir, year_delta=1):
               f"({length} items -> {len(result['papers'])} items)")
 
 
-def scrape_paper_lists(indices, output_dir):
+def scrape_paper_lists(indices, output_dir, max_workers=10):
     if output_dir is None:
         return
     if os.path.exists(output_dir):
         assert os.path.exists(os.path.join(output_dir, "indexing_pages.json"))
         assert os.path.exists(os.path.join(output_dir, "full_name_mapping.json"))
         validate_and_fix_corrupted(output_dir)
-        update_existing_paper_list(indices, output_dir, year_delta=1)
+        update_existing_paper_list(indices, output_dir, year_delta=1, max_workers=max_workers)
     for typ in indices:
         for index in indices[typ]:
             indexing_page = run_get_indexing_page(typ, index)
@@ -219,7 +220,7 @@ def scrape_paper_lists(indices, output_dir):
             # 此处不直接更新而是返回一个callback函数，确保paper_list更新成功后才更新indexing_pages
             links_diff, update_indexing_pages_callback = \
                 update_indexing_pages(typ, index, indexing_page, output_dir)
-            with ThreadPoolExecutor(max_workers=10) as executor:
+            with ThreadPoolExecutor(max_workers=max_workers) as executor:
                 results = executor.map(run_get_paper_list, links_diff)
             paper_list = {link: result for link, result in zip(links_diff, results) if result is not None}
             update_paper_list(typ, index, paper_list, output_dir)

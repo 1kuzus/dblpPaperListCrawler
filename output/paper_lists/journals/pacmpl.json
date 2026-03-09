@@ -1,4 +1,804 @@
 {
+  "https://dblp.org/db/journals/pacmpl/pacmpl10.html": {
+    "header": "Proceedings of the ACM on Programming Languages, Volume 10",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "The Complexity of Testing Message-Passing Concurrency.",
+        "authors": [
+          "Zheng Shi",
+          "Lasse Møldrup",
+          "Umang Mathur",
+          "Andreas Pavlogiannis"
+        ]
+      },
+      {
+        "title": "Let Generalization, Polymorphic Recursion, and Variable Minimization in Boolean-Kinded Type Systems.",
+        "authors": [
+          "Joseph A. Zullo"
+        ]
+      },
+      {
+        "title": "Normalisation for First-Class Universe Levels.",
+        "authors": [
+          "Nils Anders Danielsson",
+          "Naïm Camille Favier",
+          "Ondrej Kubánek"
+        ]
+      },
+      {
+        "title": "Qudit Quantum Programming with Projective Cliffords.",
+        "authors": [
+          "Jennifer Paykin",
+          "Sam Winnick"
+        ]
+      },
+      {
+        "title": "Hadamard-Pi: Equational Quantum Programming.",
+        "authors": [
+          "Wang Fang",
+          "Chris Heunen",
+          "Robin Kaarsgaard"
+        ]
+      },
+      {
+        "title": "RapunSL: Untangling Quantum Computing with Separation, Linear Combination and Mixing.",
+        "authors": [
+          "Yusuke Matsushita",
+          "Kengo Hirata",
+          "Ryo Wakizaka",
+          "Emanuele D'Osualdo"
+        ]
+      },
+      {
+        "title": "Hyperfunctions: Communicating Continuations.",
+        "authors": [
+          "Donnacha Oisín Kidney",
+          "Nicolas Wu"
+        ]
+      },
+      {
+        "title": "ArchSem: Reusable Rigorous Semantics of Relaxed Architectures.",
+        "authors": [
+          "Thibaut Pérami",
+          "Thomas Bauereiss",
+          "Brian Campbell",
+          "Zongyuan Liu",
+          "Nils Lauermann",
+          "Alasdair Armstrong",
+          "Peter Sewell"
+        ]
+      },
+      {
+        "title": "Probabilistic Concurrent Reasoning in Outcome Logic: Independence, Conditioning, and Invariants.",
+        "authors": [
+          "Noam Zilberstein",
+          "Alexandra Silva",
+          "Joseph Tassarotti"
+        ]
+      },
+      {
+        "title": "Characterizing Sets of Theories That Can Be Disjointly Combined.",
+        "authors": [
+          "Benjamin Przybocki",
+          "Guilherme Vicentin de Toledo",
+          "Yoni Zohar"
+        ]
+      },
+      {
+        "title": "Local Contextual Type Inference.",
+        "authors": [
+          "Xu Xue",
+          "Chen Cui",
+          "Shengyi Jiang",
+          "Bruno C. d. S. Oliveira"
+        ]
+      },
+      {
+        "title": "JAX Autodiff from a Linear Logic Perspective.",
+        "authors": [
+          "Giulia Giusti",
+          "Michele Pagani"
+        ]
+      },
+      {
+        "title": "TypeDis: A Type System for Disentanglement.",
+        "authors": [
+          "Alexandre Moine",
+          "Stephanie Balzer",
+          "Alex Xu",
+          "Sam Westrick"
+        ]
+      },
+      {
+        "title": "Network Change Validation with Relational NetKAT.",
+        "authors": [
+          "Han Xu",
+          "Zachary Kincaid",
+          "Ratul Mahajan",
+          "David Walker"
+        ]
+      },
+      {
+        "title": "Typing Strictness.",
+        "authors": [
+          "Daniel Sainati",
+          "Joseph W. Cutler",
+          "Benjamin C. Pierce",
+          "Stephanie Weirich"
+        ]
+      },
+      {
+        "title": "An Expressive Assertion Language for Quantum Programs.",
+        "authors": [
+          "Bonan Su",
+          "Yuan Feng",
+          "Mingsheng Ying",
+          "Li Zhou"
+        ]
+      },
+      {
+        "title": "Fuzzing Guided by Bayesian Program Analysis.",
+        "authors": [
+          "Yifan Zhang",
+          "Xin Zhang"
+        ]
+      },
+      {
+        "title": "ChiSA: Static Analysis for Lightweight Chisel Verification.",
+        "authors": [
+          "Jiacai Cui",
+          "Qinlin Chen",
+          "Zhongsheng Zhan",
+          "Tian Tan",
+          "Yue Li"
+        ]
+      },
+      {
+        "title": "General Decidability Results for Systems with Continuous Counters.",
+        "authors": [
+          "A. R. Balasubramanian",
+          "Matthew Hague",
+          "Rupak Majumdar",
+          "Ramanathan S. Thinniyam",
+          "Georg Zetzsche"
+        ]
+      },
+      {
+        "title": "Extensible Data Types with Ad-Hoc Polymorphism.",
+        "authors": [
+          "Matthew Toohey",
+          "Yanning Chen",
+          "Ara Jamalzadeh",
+          "Ningning Xie"
+        ]
+      },
+      {
+        "title": "Optimising Density Computations in Probabilistic Programs via Automatic Loop Vectorisation.",
+        "authors": [
+          "Sangho Lim",
+          "Hyoungjin Lim",
+          "Wonyeol Lee",
+          "Xavier Rival",
+          "Hongseok Yang"
+        ]
+      },
+      {
+        "title": "AdapTT: Functoriality for Dependent Type Casts.",
+        "authors": [
+          "Arthur Adjedj",
+          "Meven Lennon-Bertrand",
+          "Thibaut Benjamin",
+          "Kenji Maillard"
+        ]
+      },
+      {
+        "title": "Quotient Polymorphism.",
+        "authors": [
+          "Brandon Hewer",
+          "Graham Hutton"
+        ]
+      },
+      {
+        "title": "On Circuit Description Languages, Indexed Monads, and Resource Analysis.",
+        "authors": [
+          "Ken Sakayori",
+          "Andrea Colledan",
+          "Ugo Dal Lago"
+        ]
+      },
+      {
+        "title": "Towards Pen-and-Paper-Style Equational Reasoning in Interactive Theorem Provers by Equality Saturation.",
+        "authors": [
+          "Marcus Rossel",
+          "Rudi Schneider",
+          "Thomas Koehler",
+          "Michel Steuwer",
+          "Andrés Goens"
+        ]
+      },
+      {
+        "title": "All for One and One for All: Program Logics for Exploiting Internal Determinism in Parallel Programs.",
+        "authors": [
+          "Alexandre Moine",
+          "Sam Westrick",
+          "Joseph Tassarotti"
+        ]
+      },
+      {
+        "title": "Security Reasoning via Substructural Dependency Tracking.",
+        "authors": [
+          "Hemant Gouni",
+          "Frank Pfenning",
+          "Jonathan Aldrich"
+        ]
+      },
+      {
+        "title": "Dependent Coeffects for Local Sensitivity Analysis.",
+        "authors": [
+          "Victor Sannier",
+          "Patrick Baillot"
+        ]
+      },
+      {
+        "title": "Separating the Wheat from the Chaff: Understanding (In-)Completeness of Proof Mechanisms for Separation Logic with Inductive Definitions.",
+        "authors": [
+          "Neta Elad",
+          "Adithya Murali",
+          "Sharon Shoham"
+        ]
+      },
+      {
+        "title": "Algorithmic Conversion with Surjective Pairing: A Syntactic and Untyped Approach.",
+        "authors": [
+          "Yiyun Liu",
+          "Stephanie Weirich"
+        ]
+      },
+      {
+        "title": "Abstraction Functions as Types: Modular Verification of Cost and Behavior in Dependent Type Theory.",
+        "authors": [
+          "Harrison Grodin",
+          "Runming Li",
+          "Robert Harper"
+        ]
+      },
+      {
+        "title": "Rows and Capabilities as Modal Effects.",
+        "authors": [
+          "Wenhao Tang",
+          "Sam Lindley"
+        ]
+      },
+      {
+        "title": "Tropical Mathematics and the Lambda-Calculus II: Tropical Geometry of Probabilistic Programming Languages.",
+        "authors": [
+          "Davide Barbarossa",
+          "Paolo Pistone"
+        ]
+      },
+      {
+        "title": "A Relational Separation Logic for Effect Handlers.",
+        "authors": [
+          "Paulo Emílio de Vilhena",
+          "Simcha van Collem",
+          "Ines Wright",
+          "Robbert Krebbers"
+        ]
+      },
+      {
+        "title": "Compiling to Linear Neurons.",
+        "authors": [
+          "Joey Velez-Ginorio",
+          "Nada Amin",
+          "Konrad P. Kording",
+          "Steve Zdancewic"
+        ]
+      },
+      {
+        "title": "Handling Higher-Order Effectful Operations with Judgemental Monadic Laws.",
+        "authors": [
+          "Zhixuan Yang",
+          "Nicolas Wu"
+        ]
+      },
+      {
+        "title": "Accelerating Syntax-Guided Program Synthesis by Optimizing Domain-Specific Languages.",
+        "authors": [
+          "Zhentao Ye",
+          "Ruyi Ji",
+          "Yingfei Xiong",
+          "Xin Zhang"
+        ]
+      },
+      {
+        "title": "Parametrised Verification of Intel-x86 Programs.",
+        "authors": [
+          "Parosh Aziz Abdulla",
+          "Mohamed Faouzi Atig",
+          "Ahmed Bouajjani",
+          "K. Narayan Kumar",
+          "Prakash Saivasan"
+        ]
+      },
+      {
+        "title": "Handling Scope Checks: A Comparative Framework for Dynamic Scope Extrusion Checks.",
+        "authors": [
+          "Michael Lee",
+          "Ningning Xie",
+          "Oleg Kiselyov",
+          "Jeremy Yallop"
+        ]
+      },
+      {
+        "title": "Endangered by the Language But Saved by the Compiler: Robust Safety via Semantic Back-Translation.",
+        "authors": [
+          "Niklas Mück",
+          "Aïna Linn Georges",
+          "Derek Dreyer",
+          "Deepak Garg",
+          "Michael Sammler"
+        ]
+      },
+      {
+        "title": "Arbitration-Free Consistency Is Available (and Vice Versa).",
+        "authors": [
+          "Hagit Attiya",
+          "Constantin Enea",
+          "Enrique Román-Calvo"
+        ]
+      },
+      {
+        "title": "The Ghosts of Empires: Extracting Modularity from Interleaving-Based Proofs.",
+        "authors": [
+          "Frank Schüssele",
+          "Matthias Zumkeller",
+          "Miriam Lagunes-Rochin",
+          "Dominik Klumpp"
+        ]
+      },
+      {
+        "title": "Canonicity for Indexed Inductive-Recursive Types.",
+        "authors": [
+          "András Kovács"
+        ]
+      },
+      {
+        "title": "Context-Free-Language Reachability for Almost-Commuting Transition Systems.",
+        "authors": [
+          "Nikhil Pimpalkhare",
+          "Zachary Kincaid",
+          "Thomas Reps"
+        ]
+      },
+      {
+        "title": "Recurrence Sets for Proving Fair Non-termination under Axiomatic Memory Consistency Models.",
+        "authors": [
+          "Thomas Haas",
+          "Roland Meyer",
+          "Hernán Ponce de León",
+          "Andrés Lomelí Garduño"
+        ]
+      },
+      {
+        "title": "U-Turn: Enhancing Incorrectness Analysis by Reversing Direction.",
+        "authors": [
+          "Flavio Ascari",
+          "Roberto Bruni",
+          "Roberta Gori",
+          "Azalea Raad"
+        ]
+      },
+      {
+        "title": "The Simple Essence of Boolean-Algebraic Subtyping: Semantic Soundness for Algebraic Union, Intersection, Negation, and Equi-recursive Types.",
+        "authors": [
+          "Chun Yin Chau",
+          "Lionel Parreaux"
+        ]
+      },
+      {
+        "title": "Miri: Practical Undefined Behavior Detection for Rust.",
+        "authors": [
+          "Ralf Jung",
+          "Benjamin Kimock",
+          "Christian Poveda",
+          "Eduardo Sánchez Muñoz",
+          "Oli Scherer",
+          "Qian Wang"
+        ]
+      },
+      {
+        "title": "Verifying Almost-Sure Termination for Randomized Distributed Algorithms.",
+        "authors": [
+          "Constantin Enea",
+          "Rupak Majumdar",
+          "Harshit Jitendra Motwani",
+          "V. R. Sathiyanarayana"
+        ]
+      },
+      {
+        "title": "A Synthetic Reconstruction of Multiparty Session Types.",
+        "authors": [
+          "David Castro-Perez",
+          "Francisco Ferreira",
+          "Sung-Shik Jongmans"
+        ]
+      },
+      {
+        "title": "A Modular Static Cost Analysis for GPU Warp-Level Parallelism.",
+        "authors": [
+          "Gregory Blike",
+          "Hannah Zicarelli",
+          "Udaya Sathiyamoorthy",
+          "Julien Lange",
+          "Tiago Cogumbreiro"
+        ]
+      },
+      {
+        "title": "Inductive Program Synthesis by Meta-Analysis-Guided Hole Filling.",
+        "authors": [
+          "Doyoon Lee",
+          "Woosuk Lee",
+          "Kwangkeun Yi"
+        ]
+      },
+      {
+        "title": "A Lazy, Concurrent Convertibility Checker.",
+        "authors": [
+          "Nathanaëlle Courant",
+          "Xavier Leroy"
+        ]
+      },
+      {
+        "title": "Bayesian Separation Logic: A Logical Foundation and Axiomatic Semantics for Probabilistic Programming.",
+        "authors": [
+          "Shing Hin Ho",
+          "Nicolas Wu",
+          "Azalea Raad"
+        ]
+      },
+      {
+        "title": "Higher-Order Behavioural Conformances via Fibrations.",
+        "authors": [
+          "Henning Urbat"
+        ]
+      },
+      {
+        "title": "Determination Problems for Orbit Closures and Matrix Groups.",
+        "authors": [
+          "Rida Ait El Manssour",
+          "George Kenison",
+          "Mahsa Shirmohammadi",
+          "Anton Varonka",
+          "James Worrell"
+        ]
+      },
+      {
+        "title": "Domain-Theoretic Semantics for Functional Logic Programming.",
+        "authors": [
+          "Eddie Jones",
+          "Samson Main",
+          "Celia Mengyue Li",
+          "Jonathan Marriott",
+          "G. A. Kavvos"
+        ]
+      },
+      {
+        "title": "Consistent Updates for Scalable Microservices.",
+        "authors": [
+          "Devora Chait-Roth",
+          "Kedar S. Namjoshi",
+          "Thomas Wies"
+        ]
+      },
+      {
+        "title": "Zoo: A Framework for the Verification of Concurrent OCaml 5 Programs using Separation Logic.",
+        "authors": [
+          "Clément Allain",
+          "Gabriel Scherer"
+        ]
+      },
+      {
+        "title": "The Relative Monadic Metalanguage.",
+        "authors": [
+          "Jack Liell-Cock",
+          "Zev Shirazi",
+          "Sam Staton"
+        ]
+      },
+      {
+        "title": "Di- is for Directed: First-Order Directed Type Theory via Dinaturality.",
+        "authors": [
+          "Andrea Laretto",
+          "Fosco Loregiàn",
+          "Niccolò Veltri"
+        ]
+      },
+      {
+        "title": "Encode the Cake and Eat It Too: Controlling Computation in Type Theory, Locally.",
+        "authors": [
+          "Yann Leray",
+          "Théo Winterhalter"
+        ]
+      },
+      {
+        "title": "DafnyMPI: A Dafny Library for Verifying Message-Passing Concurrent Programs.",
+        "authors": [
+          "Aleksandr Fedchin",
+          "Antero Mejr",
+          "Hari Sundar",
+          "Jeffrey S. Foster"
+        ]
+      },
+      {
+        "title": "An Equational Axiomatization of Dynamic Threads via Algebraic Effects: Presheaves on Finite Relations, Labelled Posets, and Parameterized Algebraic Theories.",
+        "authors": [
+          "Ohad Kammar",
+          "Jack Liell-Cock",
+          "Sam Lindley",
+          "Cristina Matache",
+          "Sam Staton"
+        ]
+      },
+      {
+        "title": "A Logic for the Imprecision of Abstract Interpretations.",
+        "authors": [
+          "Marco Campion",
+          "Mila Dalla Preda",
+          "Roberto Giacobazzi",
+          "Caterina Urban"
+        ]
+      },
+      {
+        "title": "ChopChop: A Programmable Framework for Semantically Constraining the Output of Language Models.",
+        "authors": [
+          "Shaan Nagy",
+          "Timothy Zhou",
+          "Nadia Polikarpova",
+          "Loris D'Antoni"
+        ]
+      },
+      {
+        "title": "Piecewise Analysis of Probabilistic Programs via 𝑘-Induction.",
+        "authors": [
+          "Tengshun Yang",
+          "Shenghua Feng",
+          "Hongfei Fu",
+          "Naijun Zhan",
+          "Jingyu Ke",
+          "Shiyang Wu"
+        ]
+      },
+      {
+        "title": "Formal Verification for JavaScript Regular Expressions: A Proven Mechanized Semantics and Its Applications.",
+        "authors": [
+          "Aurèle Barrière",
+          "Victor Deng",
+          "Clément Pit-Claudel"
+        ]
+      },
+      {
+        "title": "Lazy Linearity for a Core Functional Language.",
+        "authors": [
+          "Rodrigo Mesquita",
+          "Bernardo Toninho"
+        ]
+      },
+      {
+        "title": "Parameterized Verification of Quantum Circuits.",
+        "authors": [
+          "Parosh Aziz Abdulla",
+          "Yu-Fang Chen",
+          "Michal Hecko",
+          "Lukás Holík",
+          "Ondrej Lengál",
+          "Jyun-Ao Lin",
+          "Ramanathan S. Thinniyam"
+        ]
+      },
+      {
+        "title": "A Verified High-Performance Composable Object Library for Remote Direct Memory Access.",
+        "authors": [
+          "Guillaume Ambal",
+          "George Hodgkins",
+          "Mark Madler",
+          "Gregory V. Chockler",
+          "Brijesh Dongol",
+          "Joseph Izraelevitz",
+          "Azalea Raad",
+          "Viktor Vafeiadis"
+        ]
+      },
+      {
+        "title": "A Family of Sims with Diverging Interests.",
+        "authors": [
+          "Nicolas Chappe"
+        ]
+      },
+      {
+        "title": "Classical Notions of Computation and the Hasegawa-Thielecke Theorem.",
+        "authors": [
+          "Éléonore Mangel",
+          "Paul-André Melliès",
+          "Guillaume Munch-Maccagnoni"
+        ]
+      },
+      {
+        "title": "Bounded Treewidth, Multiple Context-Free Grammars, and Downward Closures.",
+        "authors": [
+          "C. Aiswarya",
+          "Pascal Baumann",
+          "Prakash Saivasan",
+          "Lia Schütze",
+          "Georg Zetzsche"
+        ]
+      },
+      {
+        "title": "Oriented Metrics for Bottom-Up Enumerative Synthesis.",
+        "authors": [
+          "Roland Meyer",
+          "Jakob Tepe"
+        ]
+      },
+      {
+        "title": "Big-Stop Semantics: Small-Step Semantics in a Big-Step Judgment.",
+        "authors": [
+          "David M. Kahn",
+          "Jan Hoffmann",
+          "Runming Li"
+        ]
+      },
+      {
+        "title": "Foundational Multi-Modal Program Verifiers.",
+        "authors": [
+          "Vladimir Gladshtein",
+          "George Pîrlea",
+          "Qiyuan Zhao",
+          "Vitaly Kurin",
+          "Ilya Sergey"
+        ]
+      },
+      {
+        "title": "Generating Compilers for Qubit Mapping and Routing.",
+        "authors": [
+          "Abtin Molavi",
+          "Amanda Xu",
+          "Ethan Cecchetti",
+          "Swamit Tannu",
+          "Aws Albarghouthi"
+        ]
+      },
+      {
+        "title": "Welterweight Go: Boxing, Structural Subtyping, and Generics.",
+        "authors": [
+          "Raymond Hu",
+          "Julien Lange",
+          "Bernardo Toninho",
+          "Philip Wadler",
+          "Robert Griesemer",
+          "Keith Randall"
+        ]
+      },
+      {
+        "title": "Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers.",
+        "authors": [
+          "Xuanyu Peng",
+          "Dominic Kennedy",
+          "Yuyou Fan",
+          "Ben Greenman",
+          "John Regehr",
+          "Loris D'Antoni"
+        ]
+      },
+      {
+        "title": "Counting and Sampling Traces in Regular Languages.",
+        "authors": [
+          "Alexis de Colnet",
+          "Kuldeep S. Meel",
+          "Umang Mathur"
+        ]
+      },
+      {
+        "title": "A Complementary Approach to Incorrectness Typing.",
+        "authors": [
+          "Celia Mengyue Li",
+          "Sophie Pull",
+          "Steven Ramsay"
+        ]
+      },
+      {
+        "title": "From Semantics to Syntax: A Type Theory for Comprehension Categories.",
+        "authors": [
+          "Niyousha Najmaei",
+          "Niels van der Weide",
+          "Benedikt Ahrens",
+          "Paige Randall North"
+        ]
+      },
+      {
+        "title": "Parameterized Infinite-State Reactive Synthesis.",
+        "authors": [
+          "Benedikt Maderbacher",
+          "Roderick Bloem"
+        ]
+      },
+      {
+        "title": "What Is a Monoid?",
+        "authors": [
+          "Paul Blain Levy",
+          "Morgan Rogers"
+        ]
+      },
+      {
+        "title": "Stateful Differential Operators for Incremental Computing.",
+        "authors": [
+          "Runqing Xu",
+          "Sebastian Erdweg"
+        ]
+      },
+      {
+        "title": "Probabilistic Programming with Vectorized Programmable Inference.",
+        "authors": [
+          "McCoy R. Becker",
+          "Mathieu Huot",
+          "George Matheos",
+          "Xiaoyan Wang",
+          "Karen Chung",
+          "Colin Smith",
+          "Sam Ritchie",
+          "Rif A. Saurous",
+          "Alexander K. Lew",
+          "Martin C. Rinard",
+          "Vikash K. Mansinghka"
+        ]
+      },
+      {
+        "title": "Cryptis: Cryptographic Reasoning in Separation Logic.",
+        "authors": [
+          "Arthur Azevedo de Amorim",
+          "Amal Ahmed",
+          "Marco Gaboardi"
+        ]
+      },
+      {
+        "title": "Quantum Circuits Are Just a Phase.",
+        "authors": [
+          "Chris Heunen",
+          "Louis Lemonnier",
+          "Christopher McNally",
+          "Alex Rice"
+        ]
+      },
+      {
+        "title": "Bounded Sort Polymorphism with Elimination Constraints.",
+        "authors": [
+          "Johann Rosain",
+          "Tomás Díaz",
+          "Kenji Maillard",
+          "Matthieu Sozeau",
+          "Nicolas Tabareau",
+          "Éric Tanter",
+          "Théo Winterhalter"
+        ]
+      },
+      {
+        "title": "Coco: Corecursion with Compositional Heterogeneous Productivity.",
+        "authors": [
+          "Jaewoo Kim",
+          "Yeonwoo Nam",
+          "Chung-Kil Hur"
+        ]
+      },
+      {
+        "title": "Corrigendum: Unrealizability Logic.",
+        "authors": [
+          "Jinwoo Kim",
+          "Loris D'Antoni",
+          "Thomas Reps"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/pacmpl/pacmpl9.html": {
     "header": "Proceedings of the ACM on Programming Languages, Volume 9",
     "year": "2025",
@@ -2108,6 +2908,1700 @@
           "Jiazheng Liu",
           "Adam Chlipala",
           "Arvind"
+        ]
+      },
+      {
+        "title": "A Bargain for Mergesorts: How to Prove Your Mergesort Correct and Stable, Almost for Free.",
+        "authors": [
+          "Cyril Cohen",
+          "Kazuhiko Sakaguchi"
+        ]
+      },
+      {
+        "title": "Frex: Dependently Typed Algebraic Simplification.",
+        "authors": [
+          "Guillaume Allais",
+          "Edwin C. Brady",
+          "Nathan Corbyn",
+          "Ohad Kammar",
+          "Jeremy Yallop"
+        ]
+      },
+      {
+        "title": "Robust Dynamic Embedding for Gradual Typing.",
+        "authors": [
+          "Koen Jacobs",
+          "Matías Toro",
+          "Nicolas Tabareau",
+          "Éric Tanter"
+        ]
+      },
+      {
+        "title": "Normalization by Evaluation for Non-cumulativity.",
+        "authors": [
+          "Shengyi Jiang",
+          "Jason Z. S. Hu",
+          "Bruno C. d. S. Oliveira"
+        ]
+      },
+      {
+        "title": "Formal Semantics and Program Logics for a Fragment of OCaml.",
+        "authors": [
+          "Remy Seassau",
+          "Irene Yoon",
+          "Jean-Marie Madiot",
+          "François Pottier"
+        ]
+      },
+      {
+        "title": "Verifying Graph Algorithms in Separation Logic: A Case for an Algebraic Approach.",
+        "authors": [
+          "Marcos Grandury",
+          "Aleksandar Nanevski",
+          "Alexander Gryzlov"
+        ]
+      },
+      {
+        "title": "McTT: A Verified Kernel for a Proof Assistant.",
+        "authors": [
+          "Junyoung Jang",
+          "Antoine Gaulin",
+          "Jason Z. S. Hu",
+          "Brigitte Pientka"
+        ]
+      },
+      {
+        "title": "Almost Fair Simulations.",
+        "authors": [
+          "Arthur Correnson",
+          "Iona Kuhn",
+          "Bernd Finkbeiner"
+        ]
+      },
+      {
+        "title": "Bialgebraic Reasoning on Stateful Languages.",
+        "authors": [
+          "Sergey Goncharov",
+          "Stefan Milius",
+          "Lutz Schröder",
+          "Stelios Tsampas",
+          "Henning Urbat"
+        ]
+      },
+      {
+        "title": "Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs.",
+        "authors": [
+          "Kwing Hei Li",
+          "Alejandro Aguirre",
+          "Simon Oddershede Gregersen",
+          "Philipp G. Haselwarter",
+          "Joseph Tassarotti",
+          "Lars Birkedal"
+        ]
+      },
+      {
+        "title": "Reasoning about Weak Isolation Levels in Separation Logic.",
+        "authors": [
+          "Anders Alnor Mathiasen",
+          "Léon Gondelman",
+          "Léon Ducruet",
+          "Amin Timany",
+          "Lars Birkedal"
+        ]
+      },
+      {
+        "title": "Environment-Sharing Analysis and Caller-Provided Environments for Higher-Order Languages.",
+        "authors": [
+          "J. A. Carr",
+          "Benjamin Quiring",
+          "John H. Reppy",
+          "Olin Shivers",
+          "Skye Soss",
+          "Byron Zhong"
+        ]
+      },
+      {
+        "title": "Polynomial-Time Program Equivalence for Machine Knitting.",
+        "authors": [
+          "Nathan Hurtig",
+          "Jenny Han Lin",
+          "Thomas S. Price",
+          "Adriana Schulz",
+          "James McCann",
+          "Gilbert Louis Bernstein"
+        ]
+      },
+      {
+        "title": "Multi-stage Programming with Splice Variables.",
+        "authors": [
+          "Tsung-Ju Chiang",
+          "Ningning Xie"
+        ]
+      },
+      {
+        "title": "Fusing Session-Typed Concurrent Programming into Functional Programming.",
+        "authors": [
+          "Chuta Sano",
+          "Deepak Garg",
+          "Ryan Kavanagh",
+          "Brigitte Pientka",
+          "Bernardo Toninho"
+        ]
+      },
+      {
+        "title": "Truly Functional Solutions to the Longest Uptrend Problem (Functional Pearl).",
+        "authors": [
+          "Alexander Dinges",
+          "Ralf Hinze"
+        ]
+      },
+      {
+        "title": "A Haskell Adiabatic DSL: Solving Classical Optimization Problems on Quantum Hardware.",
+        "authors": [
+          "Liyi Li",
+          "David Young",
+          "James Bryan Graves",
+          "Chandeepa Dissanayake",
+          "Amr Sabry"
+        ]
+      },
+      {
+        "title": "SecRef*: Securely Sharing Mutable References between Verified and Unverified Code in F.",
+        "authors": [
+          "Cezar-Constantin Andrici",
+          "Danel Ahman",
+          "Catalin Hritcu",
+          "Ruxandra Icleanu",
+          "Guido Martínez",
+          "Exequiel Rivas",
+          "Théo Winterhalter"
+        ]
+      },
+      {
+        "title": "Effectful Lenses: There and Back with Different Monads.",
+        "authors": [
+          "Ruifeng Xie",
+          "Tom Schrijvers",
+          "Zhenjiang Hu"
+        ]
+      },
+      {
+        "title": "Correctness Meets Performance: From Agda to Futhark.",
+        "authors": [
+          "Artjoms Sinkarovs",
+          "Troels Henriksen"
+        ]
+      },
+      {
+        "title": "Functional Networking for Millions of Docker Desktops (Experience Report).",
+        "authors": [
+          "Anil Madhavapeddy",
+          "David J. Scott",
+          "Patrick Ferris",
+          "Ryan Gibb",
+          "Thomas Gazagnaire"
+        ]
+      },
+      {
+        "title": "Fulls Seldom Differ.",
+        "authors": [
+          "Mark Koch",
+          "Alan Lawrence",
+          "Conor McBride",
+          "Craig Roy"
+        ]
+      },
+      {
+        "title": "2-Functoriality of Initial Semantics, and Applications.",
+        "authors": [
+          "Benedikt Ahrens",
+          "Ambroise Lafont",
+          "Thomas Lamiaux"
+        ]
+      },
+      {
+        "title": "CRDT Emulation, Simulation, and Representation Independence.",
+        "authors": [
+          "Nathan Liittschwager",
+          "Jonathan Castello",
+          "Stelios Tsampas",
+          "Lindsey Kuper"
+        ]
+      },
+      {
+        "title": "Multiple Resumptions and Local Mutable State, Directly.",
+        "authors": [
+          "Serkan Muhcu",
+          "Philipp Schuster",
+          "Michel Steuwer",
+          "Jonathan Immanuel Brachthäuser"
+        ]
+      },
+      {
+        "title": "First-Order Laziness.",
+        "authors": [
+          "Anton Lorenzen",
+          "Daan Leijen",
+          "Wouter Swierstra",
+          "Sam Lindley"
+        ]
+      },
+      {
+        "title": "Linear Types with Dynamic Multiplicities in Dependent Type Theory (Functional Pearl).",
+        "authors": [
+          "Maximilian Doré"
+        ]
+      },
+      {
+        "title": "Type Universes as Kripke Worlds.",
+        "authors": [
+          "Paulette Koronkevich",
+          "William J. Bowman"
+        ]
+      },
+      {
+        "title": "Teaching Software Specification (Experience Report).",
+        "authors": [
+          "Cameron Moy",
+          "Daniel Patterson"
+        ]
+      },
+      {
+        "title": "Compiling with Generating Functions.",
+        "authors": [
+          "Jianlin Li",
+          "Yizhou Zhang"
+        ]
+      },
+      {
+        "title": "Type Theory in Type Theory using a Strictified Syntax.",
+        "authors": [
+          "Ambrus Kaposi",
+          "Loïc Pujet"
+        ]
+      },
+      {
+        "title": "Pushing the Information-Theoretic Limits of Random Access Lists: Traversing Cons Lists in (1 + 1/𝜎 ) ⌊lg 𝑛⌋ + 𝜎 + 9 Steps.",
+        "authors": [
+          "Edward Peters",
+          "Yong Qi Foo",
+          "Michael D. Adams"
+        ]
+      },
+      {
+        "title": "Verified Interpreters for Dynamic Languages with Applications to the Nix Expression Language.",
+        "authors": [
+          "Rutger Broekhoff",
+          "Robbert Krebbers"
+        ]
+      },
+      {
+        "title": "Relax! The Semilenient Core of Choreographic Programming (Functional Pearl).",
+        "authors": [
+          "Dan Plyukhin",
+          "Xueying Qin",
+          "Fabrizio Montesi"
+        ]
+      },
+      {
+        "title": "Call-Guarded Abstract Definitional Interpreters.",
+        "authors": [
+          "Kimball Germane"
+        ]
+      },
+      {
+        "title": "Big Steps in Higher-Order Mathematical Operational Semantics.",
+        "authors": [
+          "Sergey Goncharov",
+          "Pouya Partow",
+          "Stelios Tsampas"
+        ]
+      },
+      {
+        "title": "Exploring the Theory and Practice of Concurrency in the Entity-Component-System Pattern.",
+        "authors": [
+          "Patrick Redmond",
+          "Jonathan Castello",
+          "José Manuel Calderón Trilla",
+          "Lindsey Kuper"
+        ]
+      },
+      {
+        "title": "Quantified Underapproximation via Labeled Bunches.",
+        "authors": [
+          "Lang Liu",
+          "Farzaneh Derakhshan",
+          "Limin Jia",
+          "Gabriel A. Moreno",
+          "Mark Klein"
+        ]
+      },
+      {
+        "title": "Pyrosome: Verified Compilation for Modular Metatheory.",
+        "authors": [
+          "Dustin Jamner",
+          "Gabriel Kammer",
+          "Ritam Nag",
+          "Adam Chlipala"
+        ]
+      },
+      {
+        "title": "Boosting Program Reduction with the Missing Piece of Syntax-Guided Transformations.",
+        "authors": [
+          "Zhenyang Xu",
+          "Yongqiang Tian",
+          "Mengxiao Zhang",
+          "Chengnian Sun"
+        ]
+      },
+      {
+        "title": "Static Inference of Regular Grammars for Ad Hoc Parsers.",
+        "authors": [
+          "Michael Schröder",
+          "Jürgen Cito"
+        ]
+      },
+      {
+        "title": "RestPi: Path-Sensitive Type Inference for REST APIs.",
+        "authors": [
+          "Mark W. Aldrich",
+          "Kyla Levin",
+          "Michael Coblenz",
+          "Jeffrey S. Foster"
+        ]
+      },
+      {
+        "title": "Compositional Quantum Control Flow with Efficient Compilation in Qunity.",
+        "authors": [
+          "Mikhail Mints",
+          "Finn Voichick",
+          "Leonidas Lampropoulos",
+          "Robert Rand"
+        ]
+      },
+      {
+        "title": "Liberating Merges via Apartness and Guarded Subtyping.",
+        "authors": [
+          "Han Xu",
+          "Xuejing Huang",
+          "Bruno C. d. S. Oliveira"
+        ]
+      },
+      {
+        "title": "Probabilistic Inference for Datalog with Correlated Inputs.",
+        "authors": [
+          "Jingbo Wang",
+          "Shashin Halalingaiah",
+          "Weiyi Chen",
+          "Chao Wang",
+          "Isil Dillig"
+        ]
+      },
+      {
+        "title": "im2im: Automatically Converting In-Memory Image Representations using a Knowledge Graph Approach.",
+        "authors": [
+          "Fei Chen",
+          "Sunita Saha",
+          "Manuela Schuler",
+          "Philipp Slusallek",
+          "Tim Dahmen"
+        ]
+      },
+      {
+        "title": "Model-Guided Fuzzing of Distributed Systems.",
+        "authors": [
+          "Ege Berkay Gulcan",
+          "Burcu Kulahcioglu Ozkan",
+          "Rupak Majumdar",
+          "Srinidhi Nagendra"
+        ]
+      },
+      {
+        "title": "Flexible and Expressive Typed Path Patterns for GQL.",
+        "authors": [
+          "Wenjia Ye",
+          "Matías Toro",
+          "Tomás Díaz",
+          "Bruno C. d. S. Oliveira",
+          "Manuel Rigger",
+          "Claudio Gutierrez",
+          "Domagoj Vrgoc"
+        ]
+      },
+      {
+        "title": "Mind the Abstraction Gap: Bringing Equality Saturation to Real-World ML Compilers.",
+        "authors": [
+          "Arya Vohra",
+          "Leo Seojun Lee",
+          "Jakub Bachurski",
+          "Oleksandr Zinenko",
+          "Phitchaya Mangpo Phothilimthana",
+          "Albert Cohen",
+          "William S. Moses"
+        ]
+      },
+      {
+        "title": "Coinductive Proofs of Regular Expression Equivalence in Zero Knowledge.",
+        "authors": [
+          "John C. Kolesar",
+          "Shan Ali",
+          "Timos Antonopoulos",
+          "Ruzica Piskac"
+        ]
+      },
+      {
+        "title": "Reasoning about External Calls.",
+        "authors": [
+          "Sophia Drossopoulou",
+          "Julian Mackay",
+          "Susan Eisenbach",
+          "James Noble"
+        ]
+      },
+      {
+        "title": "Fast Client-Driven CFL-Reachability via Regularization-Based Graph Simplification.",
+        "authors": [
+          "Chenghang Shi",
+          "Dongjie He",
+          "Haofeng Li",
+          "Jie Lu",
+          "Lian Li",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "qblaze: An Efficient and Scalable Sparse Quantum Simulator.",
+        "authors": [
+          "Hristo Venev",
+          "Thien Udomsrirungruang",
+          "Dimitar Dimitrov",
+          "Timon Gehr",
+          "Martin T. Vechev"
+        ]
+      },
+      {
+        "title": "React-tRace: A Semantics for Understanding React Hooks: An Operational Semantics and a Visualizer for Clarifying React Hooks.",
+        "authors": [
+          "Jay Lee",
+          "Joongwon Ahn",
+          "Kwangkeun Yi"
+        ]
+      },
+      {
+        "title": "Incremental Certified Programming.",
+        "authors": [
+          "Tomás Díaz",
+          "Kenji Maillard",
+          "Nicolas Tabareau",
+          "Éric Tanter"
+        ]
+      },
+      {
+        "title": "Correct Black-Box Monitors for Distributed Deadlock Detection: Formalisation and Implementation.",
+        "authors": [
+          "Radoslaw Jan Rowicki",
+          "Adrian Francalanza",
+          "Alceste Scalas"
+        ]
+      },
+      {
+        "title": "Abstraction Refinement-Guided Program Synthesis for Robot Learning from Demonstrations.",
+        "authors": [
+          "Guofeng Cui",
+          "Yuning Wang",
+          "Wensen Mao",
+          "Yuanlin Duan",
+          "He Zhu"
+        ]
+      },
+      {
+        "title": "A Sound Static Analysis Approach to I/O API Migration.",
+        "authors": [
+          "Shangyu Li",
+          "Zhaoyang Zhang",
+          "Sizhe Zhong",
+          "Diyu Zhou",
+          "Jiasi Shen"
+        ]
+      },
+      {
+        "title": "Homomorphism Calculus for User-Defined Aggregations.",
+        "authors": [
+          "Ziteng Wang",
+          "Ruijie Fang",
+          "Linus Zheng",
+          "Dixin Tang",
+          "Isil Dillig"
+        ]
+      },
+      {
+        "title": "Synthesizing DSLs for Few-Shot Learning.",
+        "authors": [
+          "Paul Krogmeier",
+          "P. Madhusudan"
+        ]
+      },
+      {
+        "title": "REPTILE: Performant Tiling of Recurrences.",
+        "authors": [
+          "Muhammad Usman Tariq",
+          "Shiv Sundram",
+          "Fredrik Kjolstad"
+        ]
+      },
+      {
+        "title": "SafeRace: Assessing and Addressing WebGPU Memory Safety in the Presence of Data Races.",
+        "authors": [
+          "Reese Levine",
+          "Ashley Lee",
+          "Neha Abbas",
+          "Kyle Little",
+          "Tyler Sorensen"
+        ]
+      },
+      {
+        "title": "HEMVM: A Heterogeneous Blockchain Framework for Interoperable Virtual Machines.",
+        "authors": [
+          "Vladyslav Nekriach",
+          "Sidi Mohamed Beillahi",
+          "Chenxing Li",
+          "Peilun Li",
+          "Ming Wu",
+          "Andreas G. Veneris",
+          "Fan Long"
+        ]
+      },
+      {
+        "title": "Towards Verifying Crash Consistency.",
+        "authors": [
+          "Keonho Lee",
+          "Conan Truong",
+          "Brian Demsky"
+        ]
+      },
+      {
+        "title": "A Domain-Specific Probabilistic Programming Language for Reasoning about Reasoning (Or: A Memo on memo).",
+        "authors": [
+          "Kartik Chandra",
+          "Tony Chen",
+          "Joshua B. Tenenbaum",
+          "Jonathan Ragan-Kelley"
+        ]
+      },
+      {
+        "title": "Interleaving Large Language Models for Compiler Testing.",
+        "authors": [
+          "Yunbo Ni",
+          "Shaohua Li"
+        ]
+      },
+      {
+        "title": "A Hoare Logic for Symmetry Properties.",
+        "authors": [
+          "Vaibhav Mehta",
+          "Justin Hsu"
+        ]
+      },
+      {
+        "title": "Two Approaches to Fast Bytecode Frontend for Static Analysis.",
+        "authors": [
+          "Chenxi Li",
+          "Haoran Lin",
+          "Tian Tan",
+          "Yue Li"
+        ]
+      },
+      {
+        "title": "Tuning Random Generators: Property-Based Testing as Probabilistic Programming.",
+        "authors": [
+          "Ryan Tjoa",
+          "Poorva Garg",
+          "Harrison Goldstein",
+          "Todd D. Millstein",
+          "Benjamin C. Pierce",
+          "Guy Van den Broeck"
+        ]
+      },
+      {
+        "title": "Efficient Abstract Interpretation via Selective Widening.",
+        "authors": [
+          "Jiawei Wang",
+          "Xiao Cheng",
+          "Yulei Sui"
+        ]
+      },
+      {
+        "title": "Revamping Verilog Semantics for Foundational Verification.",
+        "authors": [
+          "Joonwon Choi",
+          "Jaewoo Kim",
+          "Jeehoon Kang"
+        ]
+      },
+      {
+        "title": "Tracing Just-in-Time Compilation for Effects and Handlers.",
+        "authors": [
+          "Marcial Gaißert",
+          "Carl Friedrich Bolz-Tereick",
+          "Jonathan Immanuel Brachthäuser"
+        ]
+      },
+      {
+        "title": "Convex Hull Approximation for Activation Functions.",
+        "authors": [
+          "Zhongkui Ma",
+          "Zihan Wang",
+          "Guangdong Bai"
+        ]
+      },
+      {
+        "title": "Statically Analyzing the Dataflow of R Programs.",
+        "authors": [
+          "Florian Sihler",
+          "Matthias Tichy"
+        ]
+      },
+      {
+        "title": "Synthesizing Sound and Precise Abstract Transformers for Nonlinear Hyperbolic PDE Solvers.",
+        "authors": [
+          "Jacob Laurel",
+          "Ignacio Laguna",
+          "Jan Hückelheim"
+        ]
+      },
+      {
+        "title": "HybridPersist: A Compiler Support for User-Friendly and Efficient PM Programming.",
+        "authors": [
+          "Yiyu Zhang",
+          "Yongzhi Wang",
+          "Yanfeng Gao",
+          "Xuandong Li",
+          "Zhiqiang Zuo"
+        ]
+      },
+      {
+        "title": "Memory-Safety Verification of Open Programs with Angelic Assumptions.",
+        "authors": [
+          "Gourav Takhar",
+          "Baldip Bijlani",
+          "Prantik Chatterjee",
+          "Akash Lal",
+          "Subhajit Roy"
+        ]
+      },
+      {
+        "title": "Structural Temporal Logic for Mechanized Program Verification.",
+        "authors": [
+          "Eleftherios Ioannidis",
+          "Yannick Zakowski",
+          "Steve Zdancewic",
+          "Sebastian Angel"
+        ]
+      },
+      {
+        "title": "MTP: A Meaning-Typed Language Abstraction for AI-Integrated Programming.",
+        "authors": [
+          "Jayanaka L. Dantanarayana",
+          "Yiping Kang",
+          "Kugesan Sivasothynathan",
+          "Christopher Clarke",
+          "Baichuan Li",
+          "Savini Kashmira",
+          "Krisztián Flautner",
+          "Lingjia Tang",
+          "Jason Mars"
+        ]
+      },
+      {
+        "title": "Validating SMT Rewriters via Rewrite Space Exploration Supported by Generative Equality Saturation.",
+        "authors": [
+          "Maolin Sun",
+          "Yibiao Yang",
+          "Jiangchang Wu",
+          "Yuming Zhou"
+        ]
+      },
+      {
+        "title": "Fuzzing C++ Compilers via Type-Driven Mutation.",
+        "authors": [
+          "Bo Wang",
+          "Chong Chen",
+          "Ming Deng",
+          "Junjie Chen",
+          "Xing Zhang",
+          "Youfang Lin",
+          "Dan Hao",
+          "Jun Sun"
+        ]
+      },
+      {
+        "title": "MetaKernel: Enabling Efficient Encrypted Neural Network Inference through Unified MVM and Convolution.",
+        "authors": [
+          "Peng Yuan",
+          "Yan Liu",
+          "Jianxin Lai",
+          "Long Li",
+          "Tianxiang Sui",
+          "Linjie Xiao",
+          "Xiaojing Zhang",
+          "Qing Zhu",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "Qualified Types with Boolean Algebras.",
+        "authors": [
+          "Edward Lee",
+          "Jonathan Lindegaard Starup",
+          "Ondrej Lhoták",
+          "Magnus Madsen"
+        ]
+      },
+      {
+        "title": "PReMM: LLM-Based Program Repair for Multi-method Bugs via Divide and Conquer.",
+        "authors": [
+          "Linna Xie",
+          "Zhong Li",
+          "Yu Pei",
+          "Zhongzhen Wen",
+          "Kui Liu",
+          "Tian Zhang",
+          "Xuandong Li"
+        ]
+      },
+      {
+        "title": "Understanding and Improving Flaky Test Classification.",
+        "authors": [
+          "Shanto Rahman",
+          "Saikat Dutta",
+          "August Shi"
+        ]
+      },
+      {
+        "title": "Agora: Trust Less and Open More in Verification for Confidential Computing.",
+        "authors": [
+          "Hongbo Chen",
+          "Quan Zhou",
+          "Sen Yang",
+          "Sixuan Dang",
+          "Xing Han",
+          "Danfeng Zhang",
+          "Fan Zhang",
+          "Xiaofeng Wang"
+        ]
+      },
+      {
+        "title": "Shaking Up Quantum Simulators with Fuzzing and Rigour.",
+        "authors": [
+          "Vasileios Klimis",
+          "Avner Bensoussan",
+          "Elena Chachkarova",
+          "Karine Even-Mendoza",
+          "Sophie Fortz",
+          "Connor Lenihan"
+        ]
+      },
+      {
+        "title": "Non-interference Preserving Optimising Compilation.",
+        "authors": [
+          "Julian Rosemann",
+          "Sebastian Hack",
+          "Deepak Garg"
+        ]
+      },
+      {
+        "title": "Active Learning for Neurosymbolic Program Synthesis.",
+        "authors": [
+          "Celeste Barnaby",
+          "Qiaochu Chen",
+          "Ramya Ramalingam",
+          "Osbert Bastani",
+          "Isil Dillig"
+        ]
+      },
+      {
+        "title": "Heap-Snapshot Matching and Ordering using CAHPs: A Context-Augmented Heap-Path Representation for Exact and Partial Path Matching using Prefix Trees.",
+        "authors": [
+          "Matteo Basso",
+          "Aleksandar Prokopec",
+          "Andrea Rosà",
+          "Walter Binder"
+        ]
+      },
+      {
+        "title": "ABC: Towards a Universal Code Styler through Model Merging.",
+        "authors": [
+          "Yitong Chen",
+          "Zhiqiang Gao",
+          "Chuanqi Shi",
+          "Baixuan Li",
+          "Miao Gao"
+        ]
+      },
+      {
+        "title": "Synchronized Behavior Checking: A Method for Finding Missed Compiler Optimizations.",
+        "authors": [
+          "Yi Zhang",
+          "Yu Wang",
+          "Linzhang Wang",
+          "Ke Wang"
+        ]
+      },
+      {
+        "title": "Formalizing Linear Motion G-Code for Invariant Checking and Differential Testing of Fabrication Tools.",
+        "authors": [
+          "Yumeng He",
+          "Chandrakana Nandi",
+          "Sreepathi Pai"
+        ]
+      },
+      {
+        "title": "Correct-by-Construction: Certified Individual Fairness through Neural Network Training.",
+        "authors": [
+          "Ruihan Zhang",
+          "Jun Sun"
+        ]
+      },
+      {
+        "title": "Float Self-Tagging.",
+        "authors": [
+          "Olivier Melançon",
+          "Manuel Serrano",
+          "Marc Feeley"
+        ]
+      },
+      {
+        "title": "TailTracer: Continuous Tail Tracing for Production Use.",
+        "authors": [
+          "Tianyi Liu",
+          "Yi Li",
+          "Yiyu Zhang",
+          "Zhuangda Wang",
+          "Rongxin Wu",
+          "Xuandong Li",
+          "Zhiqiang Zuo"
+        ]
+      },
+      {
+        "title": "Tabby: A Synthesis-Aided Compiler for High-Performance Zero-Knowledge Proof Circuits.",
+        "authors": [
+          "Junrui Liu",
+          "Jiaxin Song",
+          "Yanning Chen",
+          "Hanzhi Liu",
+          "Hongbo Wen",
+          "Luke Pearson",
+          "Yanju Chen",
+          "Yu Feng"
+        ]
+      },
+      {
+        "title": "Towards a Theoretically-Backed and Practical Framework for Selective Object-Sensitive Pointer Analysis.",
+        "authors": [
+          "Chaoyue Zhang",
+          "Longlong Lu",
+          "Yifei Lu",
+          "Minxue Pan",
+          "Xuandong Li"
+        ]
+      },
+      {
+        "title": "What's in the Box: Ergonomic and Expressive Capture Tracking over Generic Data Structures.",
+        "authors": [
+          "Yichen Xu",
+          "Oliver Bracevac",
+          "Cao Nguyen Pham",
+          "Martin Odersky"
+        ]
+      },
+      {
+        "title": "GALA: A High Performance Graph Neural Network Acceleration LAnguage and Compiler.",
+        "authors": [
+          "Damitha Lenadora",
+          "Nikhil Jayakumar",
+          "Chamika Sudusinghe",
+          "Charith Mendis"
+        ]
+      },
+      {
+        "title": "Choreographic Quick Changes: First-Class Location (Set) Polymorphism.",
+        "authors": [
+          "Ashley Samuelson",
+          "Andrew K. Hirsch",
+          "Ethan Cecchetti"
+        ]
+      },
+      {
+        "title": "Structural Abstraction and Refinement for Probabilistic Programs.",
+        "authors": [
+          "Guanyan Li",
+          "Juanen Li",
+          "Zhilei Han",
+          "Peixin Wang",
+          "Hongfei Fu",
+          "Fei He"
+        ]
+      },
+      {
+        "title": "Modeling Reachability Types with Logical Relations: Semantic Type Soundness, Termination, Effect Safety, and Equational Theory.",
+        "authors": [
+          "Yuyan Bao",
+          "Songlin Jia",
+          "Guannan Wei",
+          "Oliver Bracevac",
+          "Tiark Rompf"
+        ]
+      },
+      {
+        "title": "Incremental Bidirectional Typing via Order Maintenance.",
+        "authors": [
+          "Thomas Porter",
+          "Marisa Kirisame",
+          "Ivan Wei",
+          "Pavel Panchekha",
+          "Cyrus Omar"
+        ]
+      },
+      {
+        "title": "Quantization with Guaranteed Floating-Point Neural Network Classifications.",
+        "authors": [
+          "Anan Kabaha",
+          "Dana Drachsler-Cohen"
+        ]
+      },
+      {
+        "title": "A Refinement Methodology for Distributed Programs in Rust.",
+        "authors": [
+          "Aurel Bílý",
+          "João C. Pereira",
+          "Peter Müller"
+        ]
+      },
+      {
+        "title": "Divide and Conquer: A Compositional Approach to Game-Theoretic Security.",
+        "authors": [
+          "Ivana Bocevska",
+          "Anja Petkovic Komel",
+          "Laura Kovács",
+          "Sophie Rain",
+          "Michael Rawson"
+        ]
+      },
+      {
+        "title": "Automated Discovery of Tactic Libraries for Interactive Theorem Proving.",
+        "authors": [
+          "Yutong Xin",
+          "Jimmy Xin",
+          "Gabriel Poesia",
+          "Noah D. Goodman",
+          "Qiaochu Chen",
+          "Isil Dillig"
+        ]
+      },
+      {
+        "title": "Place Capability Graphs: A General-Purpose Model of Rust's Ownership and Borrowing Guarantees.",
+        "authors": [
+          "Zachary Grannan",
+          "Aurel Bílý",
+          "Jonás Fiala",
+          "Jasper Geer",
+          "Markus de Medeiros",
+          "Peter Müller",
+          "Alexander J. Summers"
+        ]
+      },
+      {
+        "title": "Efficient Decrease-and-Conquer Linearizability Monitoring.",
+        "authors": [
+          "Lee Zheng Han",
+          "Umang Mathur"
+        ]
+      },
+      {
+        "title": "Debugging WebAssembly? Put Some Whamm on It!",
+        "authors": [
+          "Elizabeth Gilbert",
+          "Matthew Schneider",
+          "Zixi An",
+          "Suhas Thalanki",
+          "Wavid Bowman",
+          "Alexander Y. Bai",
+          "Ben L. Titzer",
+          "Heather Miller"
+        ]
+      },
+      {
+        "title": "Sound and Modular Activity Analysis for Automatic Differentiation in MLIR.",
+        "authors": [
+          "Mai Jacob Peng",
+          "William S. Moses",
+          "Oleksandr Zinenko",
+          "Christophe Dubach"
+        ]
+      },
+      {
+        "title": "Flix: A Design for Language-Integrated Datalog.",
+        "authors": [
+          "Magnus Madsen",
+          "Ondrej Lhoták"
+        ]
+      },
+      {
+        "title": "SafeTree: Expressive Tree Policies for Microservices.",
+        "authors": [
+          "Karuna Grewal",
+          "Brighten Godfrey",
+          "Justin Hsu"
+        ]
+      },
+      {
+        "title": "TraceLinking Implementations with Their Verified Designs.",
+        "authors": [
+          "Finn Hackett",
+          "Ivan Beschastnikh"
+        ]
+      },
+      {
+        "title": "Universal Scalability in Declarative Program Analysis (with Choice-Based Combination Pruning).",
+        "authors": [
+          "Anastasios Antoniadis",
+          "Ilias Tsatiris",
+          "Neville Grech",
+          "Yannis Smaragdakis"
+        ]
+      },
+      {
+        "title": "Verifying Asynchronous Hyperproperties in Reactive Systems.",
+        "authors": [
+          "Raven Beutner",
+          "Bernd Finkbeiner"
+        ]
+      },
+      {
+        "title": "Synthesizing Implication Lemmas for Interactive Theorem Proving.",
+        "authors": [
+          "Ana Brendel",
+          "Aishwarya Sivaraman",
+          "Todd D. Millstein"
+        ]
+      },
+      {
+        "title": "AccelerQ: Accelerating Quantum Eigensolvers with Machine Learning on Quantum Simulators.",
+        "authors": [
+          "Avner Bensoussan",
+          "Elena Chachkarova",
+          "Karine Even-Mendoza",
+          "Sophie Fortz",
+          "Connor Lenihan"
+        ]
+      },
+      {
+        "title": "Modular Reasoning about Global Variables and Their Initialization.",
+        "authors": [
+          "João C. Pereira",
+          "Isaac van Bakel",
+          "Patricia Firlejczyk",
+          "Marco Eilers",
+          "Peter Müller"
+        ]
+      },
+      {
+        "title": "Modal Abstractions for Virtualizing Memory Addresses.",
+        "authors": [
+          "Ismail Kuru",
+          "Colin S. Gordon"
+        ]
+      },
+      {
+        "title": "A Language for Quantifying Quantum Network Behavior.",
+        "authors": [
+          "Anita Buckley",
+          "Pavel Chuprikov",
+          "Rodrigo Otoni",
+          "Robert Soulé",
+          "Robert Rand",
+          "Patrick Eugster"
+        ]
+      },
+      {
+        "title": "MIO: Multiverse Debugging in the Face of Input/Output.",
+        "authors": [
+          "Tom Lauwaerts",
+          "Maarten Steevens",
+          "Christophe Scholliers"
+        ]
+      },
+      {
+        "title": "Cost of Soundness in Mixed-Precision Tuning.",
+        "authors": [
+          "Anastasia Isychev",
+          "Debasmita Lohar"
+        ]
+      },
+      {
+        "title": "Encode the ∀∃ Relational Hoare Logic into Standard Hoare Logic.",
+        "authors": [
+          "Shushu Wu",
+          "Xiwei Wu",
+          "Qinxiang Cao"
+        ]
+      },
+      {
+        "title": "Work Packets: A New Abstraction for GC Software Engineering, Optimization, and Innovation.",
+        "authors": [
+          "Wenyu Zhao",
+          "Stephen M. Blackburn",
+          "Kathryn S. McKinley"
+        ]
+      },
+      {
+        "title": "Abstract Interpretation of Temporal Safety Effects of Higher Order Programs.",
+        "authors": [
+          "Mihai Nicola",
+          "Chaitanya Agarwal",
+          "Eric Koskinen",
+          "Thomas Wies"
+        ]
+      },
+      {
+        "title": "ApkDiffer: Accurate and Scalable Cross-Version Diffing Analysis for Android Applications.",
+        "authors": [
+          "Jiarun Dai",
+          "Mingyuan Luo",
+          "Yuan Zhang",
+          "Min Yang",
+          "Minghui Yang"
+        ]
+      },
+      {
+        "title": "Software Model Checking via Summary-Guided Search.",
+        "authors": [
+          "Ruijie Fang",
+          "Zachary Kincaid",
+          "Thomas Reps"
+        ]
+      },
+      {
+        "title": "Opportunistically Parallel Lambda Calculus.",
+        "authors": [
+          "Stephen Mell",
+          "Konstantinos Kallas",
+          "Steve Zdancewic",
+          "Osbert Bastani"
+        ]
+      },
+      {
+        "title": "A Lightweight Type-and-Effect System for Invalidation Safety: Tracking Permanent and Temporary Invalidation with Constraint-Based Subtype Inference.",
+        "authors": [
+          "Cunyuan Gao",
+          "Lionel Parreaux"
+        ]
+      },
+      {
+        "title": "P³: Reasoning about Patches via Product Programs.",
+        "authors": [
+          "Arindam Sharma",
+          "Daniel Schemmel",
+          "Cristian Cadar"
+        ]
+      },
+      {
+        "title": "The Continuous Tensor Abstraction: Where Indices Are Real.",
+        "authors": [
+          "Jaeyeon Won",
+          "Willow Ahrens",
+          "Teodoro Fields Collin",
+          "Joel S. Emer",
+          "Saman P. Amarasinghe"
+        ]
+      },
+      {
+        "title": "Translation Validation for LLVM's AArch64 Backend.",
+        "authors": [
+          "Ryan Berger",
+          "Mitch Briles",
+          "Nader Boushehrinejad Moradi",
+          "Nicholas Coughlin",
+          "Kait Lam",
+          "Nuno P. Lopes",
+          "Stefan Mada",
+          "Tanmay Tirpankar",
+          "John Regehr"
+        ]
+      },
+      {
+        "title": "Certified Decision Procedures for Width-Independent Bitvector Predicates.",
+        "authors": [
+          "Siddharth Bhat",
+          "Léo Stefanesco",
+          "Chris Hughes",
+          "Tobias Grosser"
+        ]
+      },
+      {
+        "title": "CoSSJIT: Combining Static Analysis and Speculation in JIT Compilers.",
+        "authors": [
+          "Aditya Anand",
+          "Vijay Sundaresan",
+          "Daryl Maier",
+          "Manas Thakur"
+        ]
+      },
+      {
+        "title": "Mini-Batch Robustness Verification of Deep Neural Networks.",
+        "authors": [
+          "Saar Tzour-Shaday",
+          "Dana Drachsler-Cohen"
+        ]
+      },
+      {
+        "title": "Compositional Symbolic Execution for the Next 700 Memory Models.",
+        "authors": [
+          "Andreas Lööw",
+          "Seung Hoon Park",
+          "Daniele Nantes-Sobrinho",
+          "Sacha-Élie Ayoun",
+          "Opale Sjöstedt",
+          "Philippa Gardner"
+        ]
+      },
+      {
+        "title": "Finding Compiler Bugs through Cross-Language Code Generator and Differential Testing.",
+        "authors": [
+          "Qiong Feng",
+          "Xiaotian Ma",
+          "Ziyuan Feng",
+          "Marat Akhin",
+          "Wei Song",
+          "Peng Liang"
+        ]
+      },
+      {
+        "title": "Scalable Equivalence Checking and Verification of Shallow Quantum Circuits.",
+        "authors": [
+          "Nengkun Yu",
+          "Xuan Du Trinh",
+          "Thomas Reps"
+        ]
+      },
+      {
+        "title": "Extraction and Mutation at a High Level: Template-Based Fuzzing for JavaScript Engines.",
+        "authors": [
+          "Wai Kin Wong",
+          "Dongwei Xiao",
+          "Anthony Cheuk Tung Lai",
+          "Yiteng Peng",
+          "Daoyuan Wu",
+          "Shuai Wang"
+        ]
+      },
+      {
+        "title": "Dynamic Wind for Effect Handlers.",
+        "authors": [
+          "David Voigt",
+          "Philipp Schuster",
+          "Jonathan Immanuel Brachthäuser"
+        ]
+      },
+      {
+        "title": "Detecting and Explaining (In-)equivalence of Context-Free Grammars.",
+        "authors": [
+          "Marko Schmellenkamp",
+          "Thomas Zeume",
+          "Sven Argo",
+          "Sandra Kiefer",
+          "Cedric Siems",
+          "Fynn Stebel"
+        ]
+      },
+      {
+        "title": "Embedding Quantum Program Verification into Dafny.",
+        "authors": [
+          "Feifei Cheng",
+          "Sushen Vangeepuram",
+          "Henry Allard",
+          "Seyed Mohammad Reza Jafari",
+          "Alex Potanin",
+          "Liyi Li"
+        ]
+      },
+      {
+        "title": "We've Got You Covered: Type-Guided Repair of Incomplete Input Generators.",
+        "authors": [
+          "Patrick LaFontaine",
+          "Zhe Zhou",
+          "Ashish Mishra",
+          "Suresh Jagannathan",
+          "Benjamin Delaware"
+        ]
+      },
+      {
+        "title": "Stencil-Lifting: Hierarchical Recursive Lifting System for Extracting Summary of Stencil Kernel in Legacy Codes.",
+        "authors": [
+          "Mingyi Li",
+          "Junmin Xiao",
+          "Siyan Chen",
+          "Hui Ma",
+          "Xi Chen",
+          "Peihua Bao",
+          "Liang Yuan",
+          "Guangming Tan"
+        ]
+      },
+      {
+        "title": "Products of Recursive Programs for Hypersafety Verification.",
+        "authors": [
+          "Ruotong Cheng",
+          "Azadeh Farzan"
+        ]
+      },
+      {
+        "title": "DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure.",
+        "authors": [
+          "Chenyao Suo",
+          "Jianrong Wang",
+          "Yongjia Wang",
+          "Jiajun Jiang",
+          "Qingchao Shen",
+          "Junjie Chen"
+        ]
+      },
+      {
+        "title": "HieraSynth: A Parallel Framework for Complete Super-Optimization with Hierarchical Space Decomposition.",
+        "authors": [
+          "Sirui Lu",
+          "Rastislav Bodík"
+        ]
+      },
+      {
+        "title": "Large Language Model Powered Symbolic Execution.",
+        "authors": [
+          "Yihe Li",
+          "Ruijie Meng",
+          "Gregory J. Duck"
+        ]
+      },
+      {
+        "title": "Proof Repair across Quotient Type Equivalences.",
+        "authors": [
+          "Cosmo Viola",
+          "Max Fan",
+          "Talia Ringer"
+        ]
+      },
+      {
+        "title": "The Power of Regular Constraint Propagation.",
+        "authors": [
+          "Matthew Hague",
+          "Artur Jez",
+          "Anthony Widjaja Lin",
+          "Oliver Markgraf",
+          "Philipp Rümmer"
+        ]
+      },
+      {
+        "title": "On Abstraction Refinement for Bayesian Program Analysis.",
+        "authors": [
+          "Yuanfeng Shi",
+          "Yifan Zhang",
+          "Xin Zhang"
+        ]
+      },
+      {
+        "title": "Interactive Bitvector Reasoning using Verified Bit-Blasting.",
+        "authors": [
+          "Henrik Böving",
+          "Siddharth Bhat",
+          "Luisa Cicolini",
+          "Alex C. Keizer",
+          "Léon Frénot",
+          "Abdalrhman Mohamed",
+          "Léo Stefanesco",
+          "Harun Khan",
+          "Joshua Clune",
+          "Clark W. Barrett",
+          "Tobias Grosser"
+        ]
+      },
+      {
+        "title": "The Simple Essence of Overloading: Making Ad-Hoc Polymorphism More Algebraic with Flow-Based Variational Type-Checking.",
+        "authors": [
+          "Jirí Benes",
+          "Jonathan Immanuel Brachthäuser"
+        ]
+      },
+      {
+        "title": "ROSpec: A Domain-Specific Language for ROS-Based Robot Software.",
+        "authors": [
+          "Paulo Canelas",
+          "Bradley R. Schmerl",
+          "Alcides Fonseca",
+          "Christopher Steven Timperley"
+        ]
+      },
+      {
+        "title": "Enhancing APR with PRISM: A Semantic-Based Approach to Overfitting Patch Detection.",
+        "authors": [
+          "Dowon Song",
+          "Hakjoo Oh"
+        ]
+      },
+      {
+        "title": "Validating Soundness and Completeness in Pattern-Match Coverage Analyzers.",
+        "authors": [
+          "Cyril Moser",
+          "Thodoris Sotiropoulos",
+          "Chengyu Zhang",
+          "Zhendong Su"
+        ]
+      },
+      {
+        "title": "Complete the Cycle: Reachability Types with Expressive Cyclic References.",
+        "authors": [
+          "Haotian Deng",
+          "Siyuan He",
+          "Songlin Jia",
+          "Yuyan Bao",
+          "Tiark Rompf"
+        ]
+      },
+      {
+        "title": "Borrowing from Session Types.",
+        "authors": [
+          "Hannes Saffrich",
+          "Janek Spaderna",
+          "Peter Thiemann",
+          "Vasco T. Vasconcelos"
+        ]
+      },
+      {
+        "title": "AutoVerus: Automated Proof Generation for Rust Code.",
+        "authors": [
+          "Chenyuan Yang",
+          "Xuheng Li",
+          "Md Rakib Hossain Misu",
+          "Jianan Yao",
+          "Weidong Cui",
+          "Yeyun Gong",
+          "Chris Hawblitzel",
+          "Shuvendu K. Lahiri",
+          "Jacob R. Lorch",
+          "Shuai Lu",
+          "Fan Yang",
+          "Ziqiao Zhou",
+          "Shan Lu"
+        ]
+      },
+      {
+        "title": "HeapBuffers: Why Not Just Using a Binary Serialization Format for Your Managed Memory?",
+        "authors": [
+          "Daniele Bonetta",
+          "Júnior Löff",
+          "Matteo Basso",
+          "Walter Binder"
+        ]
+      },
+      {
+        "title": "Tunneling through the Hill: Multi-way Intersection for Version-Space Algebras in Program Synthesis.",
+        "authors": [
+          "Guanlin Chen",
+          "Ruyi Ji",
+          "Shuhao Zhang",
+          "Yingfei Xiong"
+        ]
+      },
+      {
+        "title": "Zero-Overhead Lexical Effect Handlers.",
+        "authors": [
+          "Cong Ma",
+          "Zhaoyi Ge",
+          "Max Jung",
+          "Yizhou Zhang"
+        ]
+      },
+      {
+        "title": "Multi-modal Sketch-Based Behavior Tree Synthesis.",
+        "authors": [
+          "Wenmeng Zhang",
+          "Zhenbang Chen",
+          "Weijiang Hong"
+        ]
+      },
+      {
+        "title": "Garbage Collection for Rust: The Finalizer Frontier.",
+        "authors": [
+          "Jacob Hughes",
+          "Laurence Tratt"
+        ]
+      },
+      {
+        "title": "Divining Profiler Accuracy: An Approach to Approximate Profiler Accuracy through Machine Code-Level Slowdown.",
+        "authors": [
+          "Humphrey Burchell",
+          "Stefan Marr"
+        ]
+      },
+      {
+        "title": "On the Impact of Formal Verification on Software Development.",
+        "authors": [
+          "Eric Mugnier",
+          "Yuanyuan Zhou",
+          "Ranjit Jhala",
+          "Michael Coblenz"
+        ]
+      },
+      {
+        "title": "Syntactic Completions with Material Obligations.",
+        "authors": [
+          "David Moon",
+          "Andrew Blinn",
+          "Thomas Porter",
+          "Cyrus Omar"
+        ]
+      },
+      {
+        "title": "Faster Explicit-Trace Monitoring-Oriented Programming for Runtime Verification of Software Tests.",
+        "authors": [
+          "Kevin Guan",
+          "Marcelo d'Amorim",
+          "Owolabi Legunsen"
+        ]
+      },
+      {
+        "title": "On Higher-Order Model Checking of Effectful Answer-Type-Polymorphic Programs.",
+        "authors": [
+          "Taro Sekiyama",
+          "Ugo Dal Lago",
+          "Hiroshi Unno"
+        ]
+      },
+      {
+        "title": "DepFuzz: Efficient Smart Contract Fuzzing with Function Dependence Guidance.",
+        "authors": [
+          "Chenyang Ma",
+          "Wei Song",
+          "Jeff Huang"
+        ]
+      },
+      {
+        "title": "Type-Outference with Label-Listeners: Foundations for Decidable Type-Consistency for Nominal Object-Oriented Generics.",
+        "authors": [
+          "Ross Tate"
+        ]
+      },
+      {
+        "title": "Integrating Resource Analyses via Resource Decomposition.",
+        "authors": [
+          "Long Pham",
+          "Yue Niu",
+          "Nathan Glover",
+          "Feras Saad",
+          "Jan Hoffmann"
+        ]
+      },
+      {
+        "title": "A Flow-Sensitive Refinement Type System for Verifying eBPF Programs.",
+        "authors": [
+          "Ameer Hamza",
+          "Lucas Zavalía",
+          "Arie Gurfinkel",
+          "Jorge A. Navas",
+          "Grigory Fedyukovich"
+        ]
+      },
+      {
+        "title": "An Empirical Study of Bugs in the rustc Compiler.",
+        "authors": [
+          "Zixi Liu",
+          "Yang Feng",
+          "Yunbo Ni",
+          "Shaohua Li",
+          "Xizhe Yin",
+          "Qingkai Shi",
+          "Baowen Xu",
+          "Zhendong Su"
+        ]
+      },
+      {
+        "title": "An Empirical Evaluation of Property-Based Testing in Python.",
+        "authors": [
+          "Savitha Ravi",
+          "Michael Coblenz"
+        ]
+      },
+      {
+        "title": "Bennet: Randomized Specification Testing for Heap-Manipulating Programs.",
+        "authors": [
+          "Zain K. Aamer",
+          "Benjamin C. Pierce"
+        ]
+      },
+      {
+        "title": "Structural Information Flow: A Fresh Look at Types for Non-interference.",
+        "authors": [
+          "Hemant Gouni",
+          "Frank Pfenning",
+          "Jonathan Aldrich"
+        ]
+      },
+      {
+        "title": "From Linearity to Borrowing.",
+        "authors": [
+          "Andrew Wagner",
+          "Olek Gierczak",
+          "Brianna Marshall",
+          "John M. Li",
+          "Amal Ahmed"
+        ]
+      },
+      {
+        "title": "Advancing Performance via a Systematic Application of Research and Industrial Best Practice.",
+        "authors": [
+          "Wenyu Zhao",
+          "Stephen M. Blackburn",
+          "Kathryn S. McKinley",
+          "Man Cao",
+          "Sara S. Hamouda"
+        ]
+      },
+      {
+        "title": "Fray: An Efficient General-Purpose Concurrency Testing Platform for the JVM.",
+        "authors": [
+          "Ao Li",
+          "Byeongjee Kang",
+          "Vasudev Vikram",
+          "Isabella Laybourn",
+          "Samvid Dharanikota",
+          "Shrey Tiwari",
+          "Rohan Padhye"
+        ]
+      },
+      {
+        "title": "Scaling Instruction-Selection Verification against Authoritative ISA Semantics.",
+        "authors": [
+          "Michael McLoughlin",
+          "Ashley Sheng",
+          "Chris Fallin",
+          "Bryan Parno",
+          "Fraser Brown",
+          "Alexa VanHattum"
+        ]
+      },
+      {
+        "title": "Contract System Metatheories à la Carte: A Transition-System View of Contracts.",
+        "authors": [
+          "Shu-Hung You",
+          "Christos Dimoulas",
+          "Robert Bruce Findler"
+        ]
+      },
+      {
+        "title": "Corrigendum: PAFL: Enhancing Fault Localizers by Leveraging Project-Specific Fault Patterns.",
+        "authors": [
+          "Donguk Kim",
+          "Minseok Jeon",
+          "Doha Hwang",
+          "Hakjoo Oh"
         ]
       }
     ]

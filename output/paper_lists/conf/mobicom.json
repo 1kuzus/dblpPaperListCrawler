@@ -1,4 +1,1655 @@
 {
+  "https://dblp.org/db/conf/mobicom/mobicom2025.html": {
+    "header": "MobiCom 2025:\nHong Kong",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "PolarVisor: Clutter-free, Electronics-free Fiducial Markers for mmWave Radars Printed on Paper.",
+        "authors": [
+          "Junbo Zhang",
+          "Yiwen Song",
+          "Swarun Kumar"
+        ]
+      },
+      {
+        "title": "MoleSen: From Macro Sensing to Micro Molecular-level Taste Sensing.",
+        "authors": [
+          "Denghui Song",
+          "Anfu Zhou",
+          "Huadong Ma",
+          "Jie Xiong"
+        ]
+      },
+      {
+        "title": "Towards Intelligent LiDAR with Adaptive Focus.",
+        "authors": [
+          "Xuan Huang",
+          "Chen Bian",
+          "Jun Huang",
+          "Guoliang Xing"
+        ]
+      },
+      {
+        "title": "Poison to Cure: Privacy-preserving Wi-Fi Multi-User Sensing via Data Poisoning.",
+        "authors": [
+          "Jingzhi Hu",
+          "Xin Li",
+          "Jin Gan",
+          "Jun Luo"
+        ]
+      },
+      {
+        "title": "Hedgehog: Pushing the Range Limits of Ultrasonic Microphone Jammers.",
+        "authors": [
+          "Shengyu Li",
+          "Mengchen Teng",
+          "Boyu Li",
+          "Songfan Li",
+          "Xiandong Shao",
+          "Chong Zhang",
+          "Li Lu"
+        ]
+      },
+      {
+        "title": "Medusa: Scalable Multi-View Biometric Sensing in the Wild with Distributed MIMO Radars.",
+        "authors": [
+          "Yilong Li",
+          "Ramanujan K. Sheshadri",
+          "Karthik Sundaresan",
+          "Eugene Chai",
+          "Yijing Zeng",
+          "Jayaram Raghuram",
+          "Suman Banerjee"
+        ]
+      },
+      {
+        "title": "QuinID: Enabling FDMA-Based Fully Parallel RFID with Frequency-Selective Antenna.",
+        "authors": [
+          "Xin Na",
+          "Jia Zhang",
+          "Jiacheng Zhang",
+          "Xiuzhen Guo",
+          "Yang Zou",
+          "Meng Jin",
+          "Yimiao Sun",
+          "Yunhao Liu",
+          "Yuan He"
+        ]
+      },
+      {
+        "title": "B2LoRa: Boosting LoRa Transmission for Satellite-IoT Systems with Blind Coherent Combining.",
+        "authors": [
+          "Yimin Zhao",
+          "Weibo Wang",
+          "Xiong Wang",
+          "Linghe Kong",
+          "Jiadi Yu",
+          "Yifei Zhu",
+          "Shiyuan Li",
+          "Chong He",
+          "Guihai Chen"
+        ]
+      },
+      {
+        "title": "How to Update Your 5G vRAN.",
+        "authors": [
+          "Xin Zhe Khooi",
+          "Anuj Kalia",
+          "Mun Choon Chan"
+        ]
+      },
+      {
+        "title": "PassiveBLE: Towards Fully Commodity Compatible BLE Backscatter.",
+        "authors": [
+          "Huixin Dong",
+          "Yijie Wu",
+          "Feiyu Li",
+          "Wei Kuang",
+          "Yuan He",
+          "Qian Zhang",
+          "Wei Wang"
+        ]
+      },
+      {
+        "title": "Bridge: Enabling BLE Direction Finding Feature Compatible with All Bluetooth Devices.",
+        "authors": [
+          "Runting Zhang",
+          "Yijie Li",
+          "Dian Ding",
+          "Yi-Chao Chen",
+          "Yida Wang",
+          "Dongyao Chen",
+          "Jingxian Wang",
+          "Jiadi Yu",
+          "Ling Ma",
+          "Guangtao Xue"
+        ]
+      },
+      {
+        "title": "RF-Based 3D SLAM Rivaling Vision Approaches.",
+        "authors": [
+          "Haowen Lai",
+          "Zhiwei Zheng",
+          "Mingmin Zhao"
+        ]
+      },
+      {
+        "title": "Bluetooth-Enabled Transparent RF Sensing.",
+        "authors": [
+          "Rong Ding",
+          "Haiming Jin",
+          "Ningzhi Zhu",
+          "Zijie Chen",
+          "Yi Fu",
+          "Fengyuan Zhu",
+          "Guiyun Fan",
+          "Xiaohua Tian",
+          "Linghe Kong"
+        ]
+      },
+      {
+        "title": "Automated Model-Based Fuzzing for 5G O-RAN.",
+        "authors": [
+          "Sixu Tan",
+          "Zeyu Li",
+          "Zhutian Liu",
+          "Harsh Patel",
+          "Zhaowei Tan"
+        ]
+      },
+      {
+        "title": "BoRa: LoRa over BLE.",
+        "authors": [
+          "Yeming Li",
+          "Hailong Lin",
+          "Renjie Li",
+          "Jiamei Lv",
+          "Yi Gao",
+          "Wei Dong"
+        ]
+      },
+      {
+        "title": "SeRadar: Embracing Secondary Reflections for Human Sensing with mmWave Radar.",
+        "authors": [
+          "Danei Gong",
+          "Naiyu Zheng",
+          "Binbin Xie",
+          "Jie Xiong",
+          "Shuai Wang",
+          "Yuguang Fang",
+          "Zhimeng Yin"
+        ]
+      },
+      {
+        "title": "GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices.",
+        "authors": [
+          "Neha Sharma",
+          "Mariam Bebawy",
+          "Yik Yu Ng",
+          "Mohamed Hefeeda"
+        ]
+      },
+      {
+        "title": "NeVo: Advancing Volumetric Video Streaming with Neural Content Representation.",
+        "authors": [
+          "Nan Wu",
+          "Bo Chen",
+          "Ruizhi Cheng",
+          "Klara Nahrstedt",
+          "Bo Han"
+        ]
+      },
+      {
+        "title": "CGMM: Non-Invasive Continuous Glucose Monitoring in Wearables Using Metasurfaces.",
+        "authors": [
+          "Hao Pan",
+          "Yezhou Wang",
+          "Jiting Liu",
+          "Ruichun Ma",
+          "Lili Qiu",
+          "Yi-Chao Chen",
+          "Guangtao Xue",
+          "Ju Ren"
+        ]
+      },
+      {
+        "title": "Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power.",
+        "authors": [
+          "Bingbing Wang",
+          "Zeming Yang",
+          "Wenhui Li",
+          "Linling Zhong",
+          "Fengyuan Zhu",
+          "Jiazhen Lei",
+          "Jianyu Luo",
+          "Meng Jin",
+          "Xiaohua Tian"
+        ]
+      },
+      {
+        "title": "NanoScatter: Towards Ambient IoT.",
+        "authors": [
+          "Fengyuan Zhu",
+          "Jiaqi Shen",
+          "Wenhui Li",
+          "Jianyu Luo",
+          "Renjie Zhao",
+          "Linling Zhong",
+          "Bingbing Wang",
+          "Xiaohua Tian"
+        ]
+      },
+      {
+        "title": "ESPIRO: Natural Pulmonary Function Monitoring via Earphone-Acquired Speech.",
+        "authors": [
+          "Yetong Cao",
+          "Dong Ma",
+          "Wentao Xie",
+          "Qian Zhang",
+          "Jun Luo"
+        ]
+      },
+      {
+        "title": "Making LoRa Sensing Coexist with Communication.",
+        "authors": [
+          "Binbin Xie",
+          "Minhao Cui",
+          "Deepak Ganesan",
+          "Jie Xiong"
+        ]
+      },
+      {
+        "title": "ChirpEye: Passive Sensing and Profiling of FMCW Radars with a Resource-constrained Tag.",
+        "authors": [
+          "Mingyue Tang",
+          "Jizheng He",
+          "Ryu Okubo",
+          "Dhruv Panchmia",
+          "Elahe Soltanaghai"
+        ]
+      },
+      {
+        "title": "From Signal-based to Impedance-based Sensing: A paradigm Shift for Plug-and-Play, Mobile, and Sensitive Battery-free Sensing.",
+        "authors": [
+          "Liyao Li",
+          "Yun Wu",
+          "Minsung Kim",
+          "Bozhao Shang",
+          "Jie Xiong",
+          "Wenyao Xu",
+          "Xiaojiang Chen",
+          "Yaxiong Xie"
+        ]
+      },
+      {
+        "title": "When Device Delays Meet Data Heterogeneity in Federated AIoT Applications.",
+        "authors": [
+          "Haoming Wang",
+          "Wei Gao"
+        ]
+      },
+      {
+        "title": "WinSpy: Cross-window Side-channel Attacks on Android's Multi-window Mode.",
+        "authors": [
+          "Zeng Li",
+          "Chuan Yan",
+          "Liuhuo Wan",
+          "Hui Zhuang",
+          "Pengfei Hu",
+          "Guangdong Bai",
+          "Yiran Shen"
+        ]
+      },
+      {
+        "title": "From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs.",
+        "authors": [
+          "Ruonan Li",
+          "Ziyue Zhang",
+          "Xianjin Xia",
+          "Ningning Hou",
+          "Wenchang Chai",
+          "Shiming Yu",
+          "Yuanqing Zheng",
+          "Tao Gu"
+        ]
+      },
+      {
+        "title": "AquaScan: A Sonar-based Underwater Sensing System for Human Activity Monitoring.",
+        "authors": [
+          "Haozheng Hou",
+          "Bowen Zheng",
+          "Sitong Cheng",
+          "Xiaoguang Zhao",
+          "Peiheng Wu",
+          "Lixing He",
+          "Yunqi Guo",
+          "Guoliang Xing",
+          "Zhenyu Yan"
+        ]
+      },
+      {
+        "title": "L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery.",
+        "authors": [
+          "Yi-Zhen Tsai",
+          "Xuechen Zhang",
+          "Zheng Li",
+          "Jiasi Chen"
+        ]
+      },
+      {
+        "title": "AutoIOT: LLM-Driven Automated Natural Language Programming for AIoT Applications.",
+        "authors": [
+          "Leming Shen",
+          "Qiang Yang",
+          "Yuanqing Zheng",
+          "Mo Li"
+        ]
+      },
+      {
+        "title": "Confidant: Customizing Transformer-based LLMs via Collaborative Training on Mobile Devices.",
+        "authors": [
+          "Yuhao Chen",
+          "Yuxuan Yan",
+          "Shuowei Ge",
+          "Yuyang Qin",
+          "Yue Zheng",
+          "Qianqian Yang",
+          "Shibo He",
+          "Zhiguo Shi",
+          "Jiming Chen",
+          "Yuanchao Shu"
+        ]
+      },
+      {
+        "title": "mmTremor: Practical Tremor Monitoring for Parkinson's Disease and Essential Tremor in Daily Life.",
+        "authors": [
+          "Qingyong Hu",
+          "Yuxuan Zhou",
+          "Jinjian Wang",
+          "Zirui Huang",
+          "Guihua Li",
+          "Qianhui Xu",
+          "Qian Zhang"
+        ]
+      },
+      {
+        "title": "EasySpiro: Assessing Lung Function via Arbitrary Exhalations on Commodity Earphones.",
+        "authors": [
+          "Chi Xu",
+          "Wentao Xie",
+          "Baichen Yang",
+          "Yizhen Zhang",
+          "Yanbin Gong",
+          "Jin Zhang",
+          "Wei Li",
+          "Shifang Yang",
+          "Qian Zhang"
+        ]
+      },
+      {
+        "title": "HyperCam: Low-Power Onboard Computer Vision for IoT Cameras.",
+        "authors": [
+          "Chae Young Lee",
+          "Pu (Luke) Yi",
+          "Maxwell Fite",
+          "Tejus Rao",
+          "Sara Achour",
+          "Zerina Kapetanovic"
+        ]
+      },
+      {
+        "title": "Modality Plug-and-Play: Runtime Modality Adaptation in LLM-Driven Autonomous Mobile Systems.",
+        "authors": [
+          "Kai Huang",
+          "Xiangyu Yin",
+          "Heng Huang",
+          "Wei Gao"
+        ]
+      },
+      {
+        "title": "5G-MAP: Demystifying the Performance Implications of Cloud-Based 5G Core Deployments.",
+        "authors": [
+          "Tolga O. Atalay",
+          "Dragoslav Stojadinovic",
+          "Alireza Famili",
+          "Angelos Stavrou",
+          "Haining Wang"
+        ]
+      },
+      {
+        "title": "D2MoE: Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LLM Serving.",
+        "authors": [
+          "Haodong Wang",
+          "Qihua Zhou",
+          "Zicong Hong",
+          "Song Guo"
+        ]
+      },
+      {
+        "title": "LLM-Explorer: Towards Efficient and Affordable LLM-based Exploration for Mobile Apps.",
+        "authors": [
+          "Shanhui Zhao",
+          "Hao Wen",
+          "Wenjie Du",
+          "Cheng Liang",
+          "Yunxin Liu",
+          "Xiaozhou Ye",
+          "Ye Ouyang",
+          "Yuanchun Li"
+        ]
+      },
+      {
+        "title": "X-ResQ: Parallel Reverse Annealing for Quantum Maximum-Likelihood MIMO Detection with Flexible Parallelism.",
+        "authors": [
+          "Minsung Kim",
+          "Abhishek Kumar Singh",
+          "Davide Venturelli",
+          "John Kaewell",
+          "Kyle Jamieson"
+        ]
+      },
+      {
+        "title": "NIRF: Detecting Cameras That Hide Behind Screen.",
+        "authors": [
+          "Hanting Ye",
+          "Niels van der Kolk",
+          "Qing Wang"
+        ]
+      },
+      {
+        "title": "GPSoil: Towards low-cost soil moisture sensing using GNSS signals.",
+        "authors": [
+          "Huixin Dong",
+          "Jingqi Lin",
+          "Minhao Cui",
+          "Serene Zhang",
+          "Lili Qiu",
+          "Jie Xiong",
+          "Wei Wang"
+        ]
+      },
+      {
+        "title": "Ghost Points Matter: Far-Range Vehicle Detection with a Single mmWave Radar in Tunnel.",
+        "authors": [
+          "Chenming He",
+          "Rui Xia",
+          "Chengzhen Meng",
+          "Xiaoran Fan",
+          "Dequan Wang",
+          "Haojie Ren",
+          "Jianmin Ji",
+          "Yanyong Zhang"
+        ]
+      },
+      {
+        "title": "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices.",
+        "authors": [
+          "Jinrui Zhang",
+          "Pengkai Li",
+          "Fengzu Li",
+          "Deyu Zhang",
+          "Wei Gao",
+          "Sheng Yue",
+          "Yaoxue Zhang",
+          "Ju Ren"
+        ]
+      },
+      {
+        "title": "Experience Paper: Nationwide Human Behavior Sensing in Last-mile Delivery.",
+        "authors": [
+          "Zhiqing Hong",
+          "Weibing Wang",
+          "Anlan Yu",
+          "Shuxin Zhong",
+          "Haotian Wang",
+          "Yi Ding",
+          "Tian He",
+          "Desheng Zhang"
+        ]
+      },
+      {
+        "title": "WDNN: Weighted Diffractive Neural Network for Physical-layer RF Signal Processing.",
+        "authors": [
+          "Yezhou Wang",
+          "Yongjian Fu",
+          "Hao Pan",
+          "Qinyun Hu",
+          "Lili Qiu",
+          "Yi-Chao Chen",
+          "Guangtao Xue",
+          "Ju Ren"
+        ]
+      },
+      {
+        "title": "LoRaSeek: Boosting Denoising Ability in Neural-enhanced LoRa Decoder via Hierarchical Feature Extraction.",
+        "authors": [
+          "Khang Nguyen",
+          "Yidong Ren",
+          "Jialuo Du",
+          "Jingkai Lin",
+          "Maolin Gan",
+          "Shigang Chen",
+          "Mi Zhang",
+          "Chunyi Peng",
+          "Zhichao Cao"
+        ]
+      },
+      {
+        "title": "OptSamp: Optimizing the Sampling Rate for LoRa Energy Efficiency Enhancement.",
+        "authors": [
+          "Shuai Tong",
+          "Qian Chen",
+          "Jiliang Wang"
+        ]
+      },
+      {
+        "title": "Myo-Trainer: A Vision-based Muscle-Aware Motion Feedback System for In-Home Resistance Training.",
+        "authors": [
+          "Yuting He",
+          "Xinyan Wang",
+          "Mu Yuan",
+          "Bufang Yang",
+          "Siyang Jiang",
+          "Yihua Huang",
+          "Doris Sau-Fung Yu",
+          "Guoliang Xing",
+          "Hongkai Chen"
+        ]
+      },
+      {
+        "title": "Auto-UIT: Automating UAV Inspection Trajectory by Recognizing Pylon Structure from 3D Point Cloud.",
+        "authors": [
+          "Feng Lyu",
+          "Lijuan He",
+          "Mingliu Liu",
+          "Sijing Duan",
+          "Hao Wu",
+          "Jieyu Zhou",
+          "Yi Ding",
+          "Zaixun Ling",
+          "Yibo Cui"
+        ]
+      },
+      {
+        "title": "EdgeGaussian: Real-time Free-Viewpoint Video for Mobile VR via Edge-Client Collaborative Neural Rendering.",
+        "authors": [
+          "Zhihui Ke",
+          "Xiaobo Zhou",
+          "Yuyang Liu",
+          "Zhizhuo Pang",
+          "Tie Qiu"
+        ]
+      },
+      {
+        "title": "MetaGuardian: Enhancing Voice Assistant Security through Advanced Acoustic Metamaterials.",
+        "authors": [
+          "Zhiyuan Ning",
+          "Zheng Wang",
+          "Zhanyong Tang"
+        ]
+      },
+      {
+        "title": "AdaptQNet: Optimizing Quantized DNN on Microcontrollers via Adaptive Heterogeneous Processing Unit Utilization.",
+        "authors": [
+          "Yansong Sun",
+          "Jialuo He",
+          "Dirk Kutscher",
+          "Huangxun Chen"
+        ]
+      },
+      {
+        "title": "VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification.",
+        "authors": [
+          "Jungjae Lee",
+          "Dongjae Lee",
+          "Chihun Choi",
+          "Youngmin Im",
+          "Jaeyoung Wi",
+          "Kihong Heo",
+          "Sangeun Oh",
+          "Sunjae Lee",
+          "Insik Shin"
+        ]
+      },
+      {
+        "title": "SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing.",
+        "authors": [
+          "Zehua Sun",
+          "Tao Ni",
+          "Pengfei Hu",
+          "Tao Gu",
+          "Weitao Xu"
+        ]
+      },
+      {
+        "title": "Multi-Antenna Quantum Receiver: A Leap Beyond Angle Estimation Constraints.",
+        "authors": [
+          "Zhaodian He",
+          "Fusang Zhang",
+          "Junqi Ma",
+          "Yuqi Su",
+          "Beihong Jin",
+          "Daqing Zhang",
+          "Yuechun Jiao",
+          "Lili Qiu",
+          "Jie Xiong"
+        ]
+      },
+      {
+        "title": "Wireless Hearables With Programmable Speech AI Accelerators.",
+        "authors": [
+          "Malek Itani",
+          "Tuochao Chen",
+          "Arun Raghavan",
+          "Gavriel Kohlberg",
+          "Shyamnath Gollakota"
+        ]
+      },
+      {
+        "title": "EOS: Energy-Optimized Super-Resolution on Mobile Devices for Live 360-Degree Videos.",
+        "authors": [
+          "Seonghoon Park",
+          "Minchan Kim",
+          "Hyejin Park",
+          "Jeho Lee",
+          "Jiwon Kim",
+          "Hojung Cha"
+        ]
+      },
+      {
+        "title": "Cross-Technology Sensing: Leveraging LoRa Signals to Empower WiFi Sensing.",
+        "authors": [
+          "Binbin Xie",
+          "Weizheng Wang",
+          "Deepak Ganesan",
+          "Lili Qiu",
+          "Jie Xiong"
+        ]
+      },
+      {
+        "title": "Formalization, Implementation, and Verification of the Bluetooth L2CAP State Machine.",
+        "authors": [
+          "Tan Khang Le",
+          "Mohammad Omidvar Tehrani",
+          "Yuepeng Wang",
+          "Jianliang Wu",
+          "Steven Y. Ko"
+        ]
+      },
+      {
+        "title": "VI-Planning: Infrastructure-Assisted Real-Time Planning Optimization for Autonomous Driving.",
+        "authors": [
+          "Yang Lu",
+          "Jie Wang",
+          "Xiaoyun Dong",
+          "Ziyao Huang",
+          "Bingyi Liu",
+          "Jen-Ming Wu",
+          "Jianping Wang"
+        ]
+      },
+      {
+        "title": "UrgenGo: Urgency-Aware Transparent GPU Kernel Launching for Autonomous Driving.",
+        "authors": [
+          "Hanqi Zhu",
+          "Wuyang Zhang",
+          "Xinran Zhang",
+          "Ziyang Tao",
+          "Xinrui Lin",
+          "Yu Zhang",
+          "Jianmin Ji",
+          "Yanyong Zhang"
+        ]
+      },
+      {
+        "title": "LLM-Assisted IoT Testing: Finding Conformance Bugs in Matter SDKs.",
+        "authors": [
+          "Xiaoyue Ma",
+          "Junming Chen",
+          "Lannan Luo",
+          "Qiang Zeng"
+        ]
+      },
+      {
+        "title": "WiLE-Audio: Wide-Coverage Low-Energy Audio via WiFi-BLE Cross-Technology Communication.",
+        "authors": [
+          "Lingang Li",
+          "Zilong Liu",
+          "Yihao Zhang",
+          "Siyuan Peng",
+          "Zhirong Liu",
+          "Yongrui Chen",
+          "Zhijun Li"
+        ]
+      },
+      {
+        "title": "Elastic On-Device LLM Service.",
+        "authors": [
+          "Wangsong Yin",
+          "Rongjie Yi",
+          "Daliang Xu",
+          "Gang Huang",
+          "Mengwei Xu",
+          "Xuanzhe Liu"
+        ]
+      },
+      {
+        "title": "Uirapuru: Timely Video Analytics for High-Resolution Steerable Cameras on Edge Devices.",
+        "authors": [
+          "Guilherme Henrique Apostolo",
+          "Pablo Bauszat",
+          "Vinod Nigade",
+          "Henri E. Bal",
+          "Lin Wang"
+        ]
+      },
+      {
+        "title": "Experience Paper: Adopting Activity Recognition in On-demand Food Delivery Business.",
+        "authors": [
+          "Huatao Xu",
+          "Yan Zhang",
+          "Wei Gao",
+          "Guobin Shen",
+          "Mo Li"
+        ]
+      },
+      {
+        "title": "RF-Rock: An Intermodulation-based RFID Unauthorized Identification Attack without Tag Activation.",
+        "authors": [
+          "Chen Gong",
+          "Bo Liang",
+          "Purui Wang",
+          "Xiaoyu Ji",
+          "Yin Chen",
+          "Chenren Xu"
+        ]
+      },
+      {
+        "title": "μCeiver-Fi: Exploiting Spectrum Resources of Multi-Link Receiver for Fine-Granularity Wi-Fi Sensing.",
+        "authors": [
+          "Xin Li",
+          "Yinghui He",
+          "Jun Luo"
+        ]
+      },
+      {
+        "title": "Benchmarking Ultra-Low-Power μNPUs.",
+        "authors": [
+          "Josh Millar",
+          "Yushan Huang",
+          "Sarab Sethi",
+          "Hamed Haddadi",
+          "Anil Madhavapeddy"
+        ]
+      },
+      {
+        "title": "Scalable and Low Power Localization for Underwater Robots.",
+        "authors": [
+          "Sayed Saad Afzal",
+          "Jack Rademacher",
+          "Weitung Chen",
+          "Purui Wang",
+          "Fadel Adib"
+        ]
+      },
+      {
+        "title": "DD-LIVM: Pioneering Cross-Domain Photovoltaic Defect Detection Using Large Infrared-Visible Model.",
+        "authors": [
+          "Yinan Zhu",
+          "Meng Xue",
+          "Haiyan Hu",
+          "Cong Zhang",
+          "Xiaoyi Fan",
+          "Qian Zhang"
+        ]
+      },
+      {
+        "title": "Vega: Fully Immersive Mobile Volumetric Video Streaming with 3D Gaussian Splatting.",
+        "authors": [
+          "Gunjoong Kim",
+          "Seonghoon Park",
+          "Jeho Lee",
+          "Chanyoung Jung",
+          "Hyungchol Jun",
+          "Hojung Cha"
+        ]
+      },
+      {
+        "title": "Home-based Dry Eye Assessment via Blink Kinematics Using mmWave and Clinical Knowledge Distillation.",
+        "authors": [
+          "Meng Xue",
+          "Wentao Xie",
+          "Zuohuizi Yi",
+          "Zhilong Zhang",
+          "Shumao Wu",
+          "Yinan Zhu",
+          "Qian Zhang",
+          "Changzheng Chen"
+        ]
+      },
+      {
+        "title": "DragonFly: Single mmWave Radar 3D Localization of Highly Dynamic Tags in GPS-Denied Environments.",
+        "authors": [
+          "Skanda Harisha",
+          "Jimmy G. D. Hester",
+          "Aline Eid"
+        ]
+      },
+      {
+        "title": "Dual-Resonance Magnetoelectric Power and Data Links for Miniaturized Wireless Bio-Implants.",
+        "authors": [
+          "Wei Wang",
+          "Ellie C. Chen",
+          "Naveed H. Ahmed",
+          "Wonjune Kim",
+          "Yiwei Zou",
+          "Joshua E. Woods",
+          "Yumin Su",
+          "Huan-Cheng Liao",
+          "Jacob T. Robinson",
+          "Kaiyuan Yang"
+        ]
+      },
+      {
+        "title": "Demo: PP-AICloud for Edge-Assisted Privacy-Preserving AI Inference with Homomorphic Encryption in Cloud-Based Mobile Services.",
+        "authors": [
+          "Chi-Hieu Nguyen",
+          "Bui Duc Manh",
+          "Dinh Thai Hoang",
+          "Diep N. Nguyen",
+          "Lin Wang"
+        ]
+      },
+      {
+        "title": "Demo: Intelligent Nutrition Monitoring Pump System for Nasogastric Tube Patients.",
+        "authors": [
+          "Haiyan Hu",
+          "Yandao Huang",
+          "Junyao Peng",
+          "Liu Yang",
+          "Shuangshuo Yang",
+          "Qian Zhang"
+        ]
+      },
+      {
+        "title": "Demo: Networked iGYM for AR Exergames.",
+        "authors": [
+          "Brandon McDonald",
+          "Michael Nebeling",
+          "Roland Graf",
+          "Hun-Seok Kim",
+          "Jiasi Chen"
+        ]
+      },
+      {
+        "title": "Demo: Bluetooth-Enabled Transparent RF Sensing.",
+        "authors": [
+          "Rong Ding",
+          "Haiming Jin",
+          "Ningzhi Zhu",
+          "Zijie Chen",
+          "Yi Fu",
+          "Fengyuan Zhu",
+          "Guiyun Fan",
+          "Xiaohua Tian",
+          "Linghe Kong"
+        ]
+      },
+      {
+        "title": "Demo: UAV Trajectory Generation from Sparse and Noisy 3D Point Clouds.",
+        "authors": [
+          "Lijuan He",
+          "Feng Lyu",
+          "Mingliu Liu",
+          "Hao Wu",
+          "Sijing Duan",
+          "Jieyu Zhou",
+          "Yi Ding",
+          "Zaixun Ling",
+          "Yibo Cui"
+        ]
+      },
+      {
+        "title": "Demo: Frequency-Selective Microwave Actuation of Liquid Crystalline Elastomer Soft Robots.",
+        "authors": [
+          "Yiwen Song",
+          "Carmel Majidi",
+          "Swarun Kumar"
+        ]
+      },
+      {
+        "title": "Demo: Immersive Digital Twin Networks for Industrial Internet of Things.",
+        "authors": [
+          "Yutong Sun",
+          "Rui Ban",
+          "Zhigang Zhong",
+          "Zuoyong Nan",
+          "Xinmiao Chen",
+          "Haoyuan Guo",
+          "Jialin Wang"
+        ]
+      },
+      {
+        "title": "Demo: AeroRelief: UAV-based Emergency Rescue for Time-Critical Missions.",
+        "authors": [
+          "Chun Ming Wu",
+          "Songfan Li",
+          "Zhaoteng Ye",
+          "Tsz Ho Fan",
+          "Lai Yin Garmisch Wong",
+          "Mo Li"
+        ]
+      },
+      {
+        "title": "Demo: FreePose: Real-Time View-Invariant 3D Human Pose Estimation via Motion-View Disentanglement.",
+        "authors": [
+          "Yejia Liu",
+          "Hengle Jiang",
+          "Xiaomin Ouyang"
+        ]
+      },
+      {
+        "title": "Demo: Hijacking Joystick with Mobile Magnetic Injection.",
+        "authors": [
+          "Xiaomeng Chen",
+          "Dongyao Chen"
+        ]
+      },
+      {
+        "title": "Demo: All in One RadioCardiogram: Towards Practical and Clinically Reliable Contactless Cardiac Monitoring.",
+        "authors": [
+          "Jinbo Chen",
+          "Yuqin Yuan",
+          "Dongheng Zhang",
+          "Dong Zhang",
+          "Qibin Sun",
+          "Yan Chen"
+        ]
+      },
+      {
+        "title": "Demo: Full-stack On-device Learning for Heterogeneous Tiny Cameras.",
+        "authors": [
+          "Zijie Chen",
+          "Guiyun Fan",
+          "Haiming Jin"
+        ]
+      },
+      {
+        "title": "Demo: Task Cooperation for Urban Unmanned Sanitation Vehicles.",
+        "authors": [
+          "Lingzi Zhao",
+          "Feng Lyu",
+          "Hao Wu",
+          "Huaqing Wu",
+          "Huali Lu",
+          "Shucheng Li",
+          "Tao He",
+          "Wenlong Liao",
+          "Sheng Zhong"
+        ]
+      },
+      {
+        "title": "Demo: Leveraging Underwater Backscatter for Long-Term Environmental Sensing.",
+        "authors": [
+          "Rohan Menon",
+          "Jack Rademacher",
+          "Fadel Adib"
+        ]
+      },
+      {
+        "title": "Demo: Split-and-Pipeline: Collaborative Large Model Inference on Edge Devices.",
+        "authors": [
+          "Zuguang Li",
+          "Dongyuan Ou",
+          "Wen Wu",
+          "Songge Zhang",
+          "Shaohua Wu",
+          "Xuemin (Sherman) Shen"
+        ]
+      },
+      {
+        "title": "Demo: WasmSD-Edge: A Lightweight Edge Stable Diffusion Image Generation Framework Based on WebAssembly.",
+        "authors": [
+          "Rouyi Wang",
+          "Zhi Zhou",
+          "Xu Chen"
+        ]
+      },
+      {
+        "title": "Demo: HawkEye: Practical In-Flight Obstacle Avoidance with Event Camera and LiDAR Fusion.",
+        "authors": [
+          "Wenhua Ding",
+          "Zhengli Zhang",
+          "Xin Xu",
+          "Haoyang Wang",
+          "Yinan Zhu",
+          "Shilong Ji",
+          "Xin Zhou",
+          "Jingao Xu",
+          "Dongyue Huang",
+          "Xinlei Chen"
+        ]
+      },
+      {
+        "title": "Demo: Towards Seamless 5G vRAN Software Updates.",
+        "authors": [
+          "Xin Zhe Khooi",
+          "Anuj Kalia",
+          "Mun Choon Chan"
+        ]
+      },
+      {
+        "title": "Demo: EdgeMind-OS: A Plug-and-Play Embodied Intelligence System for Real-Time On-Device Deployment.",
+        "authors": [
+          "Xin Ding",
+          "Jianyu Wei",
+          "Fucheng Jia",
+          "Liang Mi",
+          "Ruofei Ju",
+          "Xianye Wang",
+          "Yikai Zheng",
+          "Ziming Zhang",
+          "Weijun Wang",
+          "Shiqi Jiang",
+          "Yunxin Liu",
+          "Ting Cao"
+        ]
+      },
+      {
+        "title": "Demo: Amodal Instance Segmentation Using MmWave Radar.",
+        "authors": [
+          "Sutong Zhang",
+          "Haobo Zhang",
+          "Shuhao Zeng",
+          "Boya Di",
+          "Lingyang Song"
+        ]
+      },
+      {
+        "title": "Demo: L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery.",
+        "authors": [
+          "Zheng Li",
+          "Bernard Yap",
+          "Xuechen Zhang",
+          "Yi-Zhen Tsai",
+          "Jiasi Chen"
+        ]
+      },
+      {
+        "title": "Demo: Customizing Transformer-based LLMs via Collaborative Training on Mobile Devices.",
+        "authors": [
+          "Yuhao Chen",
+          "Yue Zheng",
+          "Yuxuan Yan",
+          "Shuowei Ge",
+          "Shun Li",
+          "Qianqian Yang",
+          "Shibo He",
+          "Zhiguo Shi",
+          "Jiming Chen",
+          "Yuanchao Shu"
+        ]
+      },
+      {
+        "title": "Demo: Wide-coverage LE Audio via WiFi-BLE Cross-Technology Communication.",
+        "authors": [
+          "Lingang Li",
+          "ZiLong Liu",
+          "Yihao Zhang",
+          "Siyuan Peng",
+          "Zhirong Liu",
+          "Yongrui Chen",
+          "Zhijun Li"
+        ]
+      },
+      {
+        "title": "LatentCSI: Real-Time Reconstruction of Physical Scenes from WiFi CSI via Latent Diffusion.",
+        "authors": [
+          "Eshan Ramesh",
+          "Takayuki Nishio"
+        ]
+      },
+      {
+        "title": "Demo: A Real-Time Multimodal Sensing and Feedback System for Closed-Loop Wearable Interaction Using OmniBuds.",
+        "authors": [
+          "Yang Liu",
+          "Fahim Kawsar",
+          "Alessandro Montanari"
+        ]
+      },
+      {
+        "title": "Demo: Emulating Space Computing Networks with RHONE.",
+        "authors": [
+          "Liying Wang",
+          "Qirui Liu",
+          "Qing Li",
+          "Shangguang Wang",
+          "Xuanzhe Liu",
+          "Chenren Xu"
+        ]
+      },
+      {
+        "title": "Demo: ASIC-based Concurrent Backscatter Networks.",
+        "authors": [
+          "Fengyuan Zhu",
+          "Jiaqi Shen",
+          "Wenhui Li",
+          "Jianyu Luo",
+          "Renjie Zhao",
+          "Linling Zhong",
+          "Bingbing Wang",
+          "Xiaohua Tian"
+        ]
+      },
+      {
+        "title": "Demo: VI-Planning: Infrastructure-Assisted Real-Time Planning Optimization for Autonomous Driving.",
+        "authors": [
+          "Yang Lu",
+          "Jie Wang",
+          "Xiaoyun Dong",
+          "Ziyao Huang",
+          "Bingyi Liu",
+          "Jen-Ming Wu",
+          "Jianping Wang"
+        ]
+      },
+      {
+        "title": "Demo: A Campus Scale Private 5G Open RAN Testbed.",
+        "authors": [
+          "Andrew E. Ferguson",
+          "Ujjwal Pawar",
+          "Tianxin Wang",
+          "Mahesh K. Marina"
+        ]
+      },
+      {
+        "title": "Demo: VisibleBits: Illuminating Mixed Reality with Li-Fi Information Spotlights.",
+        "authors": [
+          "Celes Chai Jia Xuan",
+          "Dhairya Shah",
+          "Ambuj Varshney"
+        ]
+      },
+      {
+        "title": "Poster: Zero-effort Cross-domain Wireless Respiration Monitoring under Free Body Movement.",
+        "authors": [
+          "Jiazheng Chen",
+          "Ge Wang",
+          "Zhe Chen",
+          "Fei Wang",
+          "Wei Xi",
+          "Jinsong Han"
+        ]
+      },
+      {
+        "title": "Poster: ChronoBite: Diet Meets Cellular Aging.",
+        "authors": [
+          "Ge Gao",
+          "Yiming Jin",
+          "Hao Fu",
+          "Kaiyan Cui",
+          "Qiang Yang"
+        ]
+      },
+      {
+        "title": "Poster: Radar-Enhanced Robotic Material Perception with Vision Language Models.",
+        "authors": [
+          "Hongyu Deng",
+          "Jiangyou Zhu",
+          "He Chen"
+        ]
+      },
+      {
+        "title": "Poster: Enabling BLE Direction Finding Feature Compatible with All Bluetooth Devices.",
+        "authors": [
+          "Runting Zhang",
+          "Yijie Li",
+          "Dian Ding",
+          "Yi-Chao Chen"
+        ]
+      },
+      {
+        "title": "Poster: Coda: Context-aware Acceleration for Distributed LLM Decoding in Edge.",
+        "authors": [
+          "Peirong Zheng",
+          "Wenchao Xu",
+          "Haozhao Wang",
+          "Jinyu Chen"
+        ]
+      },
+      {
+        "title": "Poster: Automatically Generating High-Precision Simulated Road Networking in Traffic Scenario.",
+        "authors": [
+          "Liang Xie",
+          "Wenke Huang"
+        ]
+      },
+      {
+        "title": "Poster: Diffusion-Driven Stackelberg Games for Semantic Information Trading in Metaverse Systems.",
+        "authors": [
+          "Hengtao Wang",
+          "Huan Zhou",
+          "Zhenning Wang",
+          "Xinggang Fan"
+        ]
+      },
+      {
+        "title": "Poster: Optimized Cache Pollution Attack: A DDoS Vector in Content Delivery Networks.",
+        "authors": [
+          "Jiaqi Liu",
+          "Noriaki Kamiyama"
+        ]
+      },
+      {
+        "title": "Poster: Efficient Geometry Compression and Communication for 3D Gaussian Splatting Point Clouds.",
+        "authors": [
+          "Liang Xie",
+          "Yanting Li",
+          "Luyang Tang",
+          "Wei Gao"
+        ]
+      },
+      {
+        "title": "Poster: Asynchronous Federated Learning Library and Benchmark with AFL-Lib.",
+        "authors": [
+          "Boyi Liu",
+          "Shuyuan Li",
+          "Zimu Zhou",
+          "Shuo Kang",
+          "Yiming Ma",
+          "Yongxin Tong"
+        ]
+      },
+      {
+        "title": "Poster: Learning to Personalize in Federated Networks with Contribution-Aware Aggregation.",
+        "authors": [
+          "Ke Xing",
+          "Yanjie Dong",
+          "Xiaoyi Fan",
+          "Xiping Hu"
+        ]
+      },
+      {
+        "title": "Poster: Bridging Autonomy and Connectivity: Enabling Smart Vehicle Communication via Full Self-Driving Models.",
+        "authors": [
+          "Zhicheng Wang",
+          "Shihan Zhao",
+          "Donghui Dai",
+          "Lei Yang"
+        ]
+      },
+      {
+        "title": "Poster: Smart ECG Classification with Wearable Sensing and Cloud AI: A Mobile Health Approach Using Multi-Feature Time Series.",
+        "authors": [
+          "Grzegorz Klosowski",
+          "Tomasz Rymarczyk",
+          "Konrad Niderla",
+          "Marcin Kowalski",
+          "Manuchehr Soleimani"
+        ]
+      },
+      {
+        "title": "Poster: PanoGlass: Optically Transparent Panoramic Metasurface for Sub-6 GHz Network.",
+        "authors": [
+          "Yilun Zhuang",
+          "Tianwei Deng",
+          "Xiaoxia Huang"
+        ]
+      },
+      {
+        "title": "Poster: Evaluating Effectiveness of Temporal Features and DTW Distance for Radio Frequency Fingerprinting.",
+        "authors": [
+          "Takamasa Kikuchi",
+          "Koki Shibata",
+          "Keiichi Yasumoto",
+          "Jinxiao Zhu",
+          "Yin Chen"
+        ]
+      },
+      {
+        "title": "Poster: Object-Aware Vibration Fusion: Leveraging Frequency Response Diversity for Through-Wall Eavesdropping.",
+        "authors": [
+          "Haotian Zheng",
+          "Xiangyu Xu",
+          "Zhen Ling"
+        ]
+      },
+      {
+        "title": "Poster: Contactless Cardiovascular Hemodynamics Inference and Hypertension Detection via Ballistocardiogram.",
+        "authors": [
+          "Yandao Huang",
+          "Cong Li",
+          "Chenggao Li",
+          "Lin Chen",
+          "Junyao Peng",
+          "Qian Zhang",
+          "Kaishun Wu"
+        ]
+      },
+      {
+        "title": "Poster: Road to Tiny Reality: Digital Twins for Decentralized AI on Microcontrollers.",
+        "authors": [
+          "Navidreza Asadi",
+          "Halil Ibrahim Bengu",
+          "Lars Wulfert",
+          "Hendrik Wöhrle",
+          "Wolfgang Kellerer"
+        ]
+      },
+      {
+        "title": "Poster: KeyRadar: Contactless Touchscreen Keystroke Inference via mmWave Sensing and Language Models.",
+        "authors": [
+          "Haixin Zhang",
+          "Xiangyu Xu",
+          "Zhen Ling"
+        ]
+      },
+      {
+        "title": "Poster: Towards Backbone-Free VLC Networking via NLOS Optical Channels.",
+        "authors": [
+          "Pinpin Zhang",
+          "Yanbing Yang",
+          "Yimao Sun",
+          "Dié Wu",
+          "Yiling Huang",
+          "Jiacheng Wu"
+        ]
+      },
+      {
+        "title": "Poster: Skyshield: Event-Driven Submillimeter Thin Obstacle Detection for Drone Flight Safety.",
+        "authors": [
+          "Zhengli Zhang",
+          "Xinyu Luo",
+          "Yucheng Sun",
+          "Wenhua Ding",
+          "Dongyue Huang",
+          "Xinlei Chen"
+        ]
+      },
+      {
+        "title": "Poster: Fast and Precise Compression of LiDAR Range Images for Real-Time Streaming.",
+        "authors": [
+          "Shengqian Wang",
+          "He Chen"
+        ]
+      },
+      {
+        "title": "Poster: Towards Open Wireless Time-sensitive Networking in Linux.",
+        "authors": [
+          "Doganalp Ergenç",
+          "Ahmed Abdulfattah",
+          "Ahmed Hasan Ansari",
+          "Falko Dressler"
+        ]
+      },
+      {
+        "title": "Poster: FedFNS: A Robust Federated Learning Method for Data Shift over Unreliable Communication Links.",
+        "authors": [
+          "Zhidu Li",
+          "Dongsheng Luo",
+          "Qing Xue",
+          "Yue Tian",
+          "Zhengwei Ni",
+          "Mingliang Deng"
+        ]
+      },
+      {
+        "title": "Poster: Diffusion-Driven Spatio-Temporal Modeling of Cellular Traffic Generation.",
+        "authors": [
+          "Xiaowen Xu",
+          "Xiaosi Liu",
+          "Zhidan Liu",
+          "Zhenjiang Li",
+          "Kaishun Wu"
+        ]
+      },
+      {
+        "title": "Poster: On Harnessing Idle Compute at the Edge for Foundation Model Training.",
+        "authors": [
+          "Leyang Xue",
+          "Meghana Madhyastha",
+          "Myungjin Lee",
+          "Amos Storkey",
+          "Randal C. Burns",
+          "Mahesh K. Marina"
+        ]
+      },
+      {
+        "title": "Poster: Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models.",
+        "authors": [
+          "Xinyu Huang",
+          "Leming Shen",
+          "Zijing Ma",
+          "Yuanqing Zheng"
+        ]
+      },
+      {
+        "title": "Poster: 5G-CriCo Vision for MCx on 5G Standalone}.",
+        "authors": [
+          "Enric Pardo",
+          "Giuseppe Avino",
+          "Uwe Roth",
+          "Mahmoud Jaziri",
+          "Sébastien Faye",
+          "Aldo Pallotta",
+          "Jean-Paul Casel"
+        ]
+      },
+      {
+        "title": "Poster: iHead: A Head-Mounted Individual Monitoring and Finding System Based on Internet of Things Technologies.",
+        "authors": [
+          "Lien-Wu Chen",
+          "Yu-Jie Wang",
+          "Hao-Hsiang Yang"
+        ]
+      },
+      {
+        "title": "Poster: Scalable Indoor Localization with Non-Cooperative Wi-Fi Ranging.",
+        "authors": [
+          "Enguang Fan",
+          "Emerson Sie",
+          "Federico Cifuentes-Urtubey",
+          "Deepak Vasisht"
+        ]
+      },
+      {
+        "title": "Poster: Networked Multimodal Sensor Framework for Shrimp Health and Behavior Analysis.",
+        "authors": [
+          "Calvin Alexander Ng",
+          "Sage Lyon",
+          "Sheree Pagsuyoin",
+          "Paul J. Schofield",
+          "Arun K. Dhar",
+          "Yan Luo"
+        ]
+      },
+      {
+        "title": "Poster: Vibration-Tolerant Doppler Disambiguation Algorithm for MIMO Backscatter Localization Systems.",
+        "authors": [
+          "Skanda Harisha",
+          "Jimmy G. D. Hester",
+          "Aline Eid"
+        ]
+      },
+      {
+        "title": "Poster: LightWalk: Passive Gait Recognition via Reflected VLC Signals.",
+        "authors": [
+          "Jiarong Li",
+          "Chihan Xu",
+          "Wenfeng Deng",
+          "Xiaojun Liang",
+          "Wenbo Ding",
+          "Weihua Gui"
+        ]
+      },
+      {
+        "title": "Poster: mmWave CSI-based Sensing: a Feasibility Study.",
+        "authors": [
+          "Joana Angjo",
+          "Elena Tonini",
+          "Falko Dressler",
+          "Renato Lo Cigno"
+        ]
+      },
+      {
+        "title": "Poster: Electrical impedance tomography using a hybrid PINN-ViT model for low-power healthcare systems.",
+        "authors": [
+          "Dariusz Majerek",
+          "Tomasz Rymarczyk",
+          "Dariusz Wójcik",
+          "Marcin Kowalski"
+        ]
+      },
+      {
+        "title": "Poster: Split-and-Combine Rectification of Ultra-Wide Fisheye Images into Cubemaps.",
+        "authors": [
+          "Yuang Fan",
+          "Xuhai Xu",
+          "Xiaofan Jiang"
+        ]
+      },
+      {
+        "title": "Poster: BlockFL-Med: Blockchain-Enabled and Lightweight Federated Learning for Smart Medical Spaces.",
+        "authors": [
+          "Shantanu Pal",
+          "Saifur Rahman",
+          "Robin Doss",
+          "Chandan K. Karmakar"
+        ]
+      },
+      {
+        "title": "Poster: VI-Planning: Infrastructure-Assisted Real-Time Planning Optimization for Autonomous Driving.",
+        "authors": [
+          "Yang Lu",
+          "Jie Wang",
+          "Xiaoyun Dong",
+          "Ziyao Huang",
+          "Bingyi Liu",
+          "Jen-Ming Wu",
+          "Jianping Wang"
+        ]
+      },
+      {
+        "title": "Poster: An LLM-Assisted IoT Agent System for Heterogeneous User Tasks.",
+        "authors": [
+          "Yang Zhang",
+          "Kaijie Xiao",
+          "Yi Gao",
+          "Wei Dong"
+        ]
+      },
+      {
+        "title": "Poster: High-Performance Optical Camera Communications for ISAC Localization and Sensing.",
+        "authors": [
+          "Lih Wei Chia",
+          "Mehul Motani"
+        ]
+      },
+      {
+        "title": "Poster: A Real-Time Localization System for Visible and Invisible Fiducial Markers Under Variable Lighting Conditions.",
+        "authors": [
+          "Barbara Morawska",
+          "Piotr Lipinski",
+          "Krzysztof Lichy",
+          "Maciej Stepien",
+          "Bartlomiej Gryglak",
+          "Adam Sztamborski"
+        ]
+      },
+      {
+        "title": "Poster: Enhancing Mobile Traffic Data Generation through Spatio-temporal Correlation Imaging.",
+        "authors": [
+          "Yilai Liu",
+          "Shiyuan Zhang",
+          "Hongyang Du"
+        ]
+      },
+      {
+        "title": "Poster: Home-based, On-Device, Non-contact Sleep Staging with Infrared Video.",
+        "authors": [
+          "Kunmin Jang",
+          "You Rim Choi",
+          "Dongik Park",
+          "Hyunwoo Shin",
+          "Hyung-Sin Kim"
+        ]
+      },
+      {
+        "title": "Poster: IMU-Aided Speech Enhancement for COTS Earphones.",
+        "authors": [
+          "Yichen Dai",
+          "Ming Gao",
+          "Ruixuan Zhang",
+          "Yuefan Zhai",
+          "Kaiyan Cui",
+          "Fu Xiao"
+        ]
+      },
+      {
+        "title": "Poster: Passive FMCW Radar Detection and Profiling under Multipath and Mobility Conditions.",
+        "authors": [
+          "Mingyue Tang",
+          "Qinglin Ge",
+          "Jizheng He",
+          "Elahe Soltanaghai"
+        ]
+      },
+      {
+        "title": "Poster: MoE2: Optimizing Collaborative Inference for Edge Large Language Models.",
+        "authors": [
+          "Lyudong Jin",
+          "Yanning Zhang",
+          "Yanhan Li",
+          "Shurong Wang",
+          "Howard H. Yang",
+          "Jian Wu",
+          "Meng Zhang"
+        ]
+      },
+      {
+        "title": "Poster: MemAura: Persistent Personalized Context Memory for LLM Services in Smart Environments.",
+        "authors": [
+          "Siyuan Liu",
+          "Huangxun Chen"
+        ]
+      },
+      {
+        "title": "Poster: A Unified Framework for Simultaneous Video Analytics and Streaming on UAVs.",
+        "authors": [
+          "Jinhao Chen",
+          "Zhi Zhou",
+          "Rouyi Wang",
+          "Xu Chen"
+        ]
+      },
+      {
+        "title": "Poster: Lightweight PUF-based Authentication and Key-exchange for Offline Smart Home IoT Devices.",
+        "authors": [
+          "Chandranshu Gupta",
+          "Gaurav Varshney"
+        ]
+      },
+      {
+        "title": "Poster: Feasibility of Bistatic Millimeter-Wave Radar Sensing under Loose Synchronization.",
+        "authors": [
+          "Parham Chavoshian",
+          "Hanbo Guo",
+          "Elahe Soltanaghai"
+        ]
+      },
+      {
+        "title": "Poster: Car2Vec: Task-Agnostic Latent Embeddings from CAN Bus for Efficient V2X Communication.",
+        "authors": [
+          "Aleksandr Kovalenko",
+          "Ahmad Ahmad",
+          "Alexander Karandeev",
+          "Alexey Maslov",
+          "Dmitry Zhevnenko",
+          "Ilya Makarov"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/mobicom/mobicom2024.html": {
     "header": "MobiCom 2024: Washington, DC, USA",
     "year": "2024",

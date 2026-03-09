@@ -1,4 +1,484 @@
 {
+  "https://dblp.org/db/conf/srds/srds2025.html": {
+    "header": "44th SRDS 2025: Oporto, Portugal",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "CloudHeal: A Lightweight Online Learning Based Self-Healing Framework for Cloud-Native Systems.",
+        "authors": [
+          "Junquan Yi",
+          "Zilong He",
+          "Wanqi Yang",
+          "Pengfei Chen"
+        ]
+      },
+      {
+        "title": "Performance Evaluation of Brokerless Messaging Libraries.",
+        "authors": [
+          "Lorenzo La Corte",
+          "Syed Aftab Rashid",
+          "Andrei-Marian Dan"
+        ]
+      },
+      {
+        "title": "Towards Stress Testing the Internet Inter-Domain Routing System 'in Silico' with Domino.",
+        "authors": [
+          "Elham Ehsani Moghadam",
+          "Fabian E. Bustamante",
+          "Adrian Perrig",
+          "Walter Willinger"
+        ]
+      },
+      {
+        "title": "Nip it in the Bud: Unsupervised KPI Incipient Fault Detection via Dynamic Latent Feature Ensembling.",
+        "authors": [
+          "Yanwen Wang",
+          "Wenda Tang",
+          "Jie Wu"
+        ]
+      },
+      {
+        "title": "Robust Fingerprinting of Graphs With Fing.",
+        "authors": [
+          "Odysseas Drosis",
+          "Jade Garcia Bourrée",
+          "Anne-Marie Kermarrec",
+          "Erwan Le Merrer",
+          "Othmane Safsafi"
+        ]
+      },
+      {
+        "title": "Randomized vs. Deterministic? Practical Randomized Synchronous BFT in Expected Constant Time.",
+        "authors": [
+          "Xufeng Zhang",
+          "Baohan Huang",
+          "Sisi Duan",
+          "Haibin Zhang"
+        ]
+      },
+      {
+        "title": "Cheetah: Pipelined BFT Consensus Protocol with High Throughput and Low Latency.",
+        "authors": [
+          "Tianyang Li",
+          "Jin Wu",
+          "Jian Dong"
+        ]
+      },
+      {
+        "title": "Harmonia: Enhancing Liveness in Two-Phase HotStuff Without Sacrificing Core Properties.",
+        "authors": [
+          "Tianyang Li",
+          "Jin Wu",
+          "Songyan Ji",
+          "Jian Dong"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Blockchain-Enabled Vertical Federated Learning with Data Auditing.",
+        "authors": [
+          "Benyu Li",
+          "Zhen Xu",
+          "Yan Zhang",
+          "He Wang"
+        ]
+      },
+      {
+        "title": "EVA-S2PLoR: Decentralized Secure 2-Party Logistic Regression with a Subtly Hadamard Product Protocol.",
+        "authors": [
+          "Tianle Tao",
+          "Shizhao Peng",
+          "Tianyu Mei",
+          "Shoumo Li",
+          "Haogang Zhu"
+        ]
+      },
+      {
+        "title": "ENSI: Efficient Non-Interactive Secure Inference for Large Language Models.",
+        "authors": [
+          "Zhiyu He",
+          "Maojiang Wang",
+          "Xinwen Gao",
+          "Yuchuan Luo",
+          "Lin Liu",
+          "Shaojing Fu"
+        ]
+      },
+      {
+        "title": "CCE: A Cloud-Based SIEM Correlation Engine Built on Serverless Functions.",
+        "authors": [
+          "Adriano Serckumecka",
+          "Iberia Medeiros",
+          "Alysson Bessani"
+        ]
+      },
+      {
+        "title": "RootScan: Unveiling Microservice Anomalies through Fine-Grained, Interpretable Root Cause Analysis.",
+        "authors": [
+          "Chaoyi Li",
+          "Chunyang Ye",
+          "Hui Zhou"
+        ]
+      },
+      {
+        "title": "Fusing Multimodal Binary Code Representations for Enhanced Similarity Detection.",
+        "authors": [
+          "Taiyan Wang",
+          "Ruipeng Wang",
+          "Yu Chen",
+          "Lu Yu",
+          "Zulie Pan",
+          "Min Zhang"
+        ]
+      },
+      {
+        "title": "Multi-Source Anomaly Detection for Microservice Systems.",
+        "authors": [
+          "Ni Wang",
+          "Zhengxin Li",
+          "Jingchen Yang",
+          "Junfeng Zhao"
+        ]
+      },
+      {
+        "title": "Game-Theoretic Optimization for Coalition-Based Intrusion Detection with Multi-Source Adaptive Dispatching.",
+        "authors": [
+          "Yingchun Yang",
+          "Feilong Tang",
+          "Songjie Wei"
+        ]
+      },
+      {
+        "title": "RCS: A High-Success-Rate and Privacy-Preserving Payment Channel Network Routing Protocol.",
+        "authors": [
+          "Wenjing Li",
+          "Chen Tian",
+          "Yuan Zhang",
+          "Sheng Zhong"
+        ]
+      },
+      {
+        "title": "zkMarket: Ensuring Fairness and Privacy in Decentralized Data Exchange.",
+        "authors": [
+          "Seongho Park",
+          "Seungwoo Kim",
+          "Semin Han",
+          "Kyeongtae Lee",
+          "Jihye Kim",
+          "Hyunok Oh"
+        ]
+      },
+      {
+        "title": "Efficient Fair Ordering Protocol with 2-Hop Receiver Fairness.",
+        "authors": [
+          "Jingfan Yu",
+          "Sisi Duan",
+          "Zhixuan Fang"
+        ]
+      },
+      {
+        "title": "Unveiling Evolving Threats: A Data Analysis for Next-Generation Honeypot Development.",
+        "authors": [
+          "Ziyang Wang",
+          "Shichao Lv",
+          "Haining Wang",
+          "Jianzhou You",
+          "Shuoyang Liu",
+          "Tianwei Yuan",
+          "Xiao Lu",
+          "Limin Sun"
+        ]
+      },
+      {
+        "title": "Partition-Tolerant Distributed Cryptographic Key Management.",
+        "authors": [
+          "Mathias Björkqvist",
+          "Frank Bosman",
+          "Thomas Quillinan",
+          "Ruth Dommerholt-Scholten",
+          "Valeriu-Daniel Stanciu"
+        ]
+      },
+      {
+        "title": "Secretscout: Effective Hard-Coded Secrets Detection in Ci Configuration Files.",
+        "authors": [
+          "Chu Qiao",
+          "Yacong Gu",
+          "Xiaofan Li",
+          "Xing Gao"
+        ]
+      },
+      {
+        "title": "On Designing High-Performance Distributed Shared Memory Systems with RDMA.",
+        "authors": [
+          "Amanda Baran",
+          "Roberto Palmieri"
+        ]
+      },
+      {
+        "title": "Hard Shell, Reliable Core: Improving Resilience in Replicated Systems with Selective Hybridization.",
+        "authors": [
+          "Laura Lawniczak",
+          "Tobias Distler"
+        ]
+      },
+      {
+        "title": "Diverse Database Replication Based on Snapshot Isolation - Performance Implications of Improved Dependability.",
+        "authors": [
+          "Peter T. Popov",
+          "Vladimir Stankovic"
+        ]
+      },
+      {
+        "title": "Goose: Optimistic Search in the IPFS Network.",
+        "authors": [
+          "Rafael Sequeira",
+          "Pedro Camponês",
+          "Pedro Ákos Costa",
+          "João Leitão"
+        ]
+      },
+      {
+        "title": "Securing Consensus from Long-Range Attacks Through Collaboration.",
+        "authors": [
+          "Junchao Chen",
+          "Suyash Gupta",
+          "Alberto Sonnino",
+          "Lefteris Kokoris-Kogias",
+          "Mohammad Sadoghi"
+        ]
+      },
+      {
+        "title": "B+Avl Trees: Towards Data Structures for Robust and Efficient Blockchain State Synchronization.",
+        "authors": [
+          "Michele Cattaneo",
+          "Elia Batista",
+          "Fernando Pedone"
+        ]
+      },
+      {
+        "title": "ASLM-Shard: Efficient Account Shuffling Based on Lightweight Migration in Sharded Blockchain.",
+        "authors": [
+          "Shaojie Liu",
+          "Huazhong Liu",
+          "Jihong Ding",
+          "Xiaoxue Yin",
+          "Yonggu Wang",
+          "Lixin Gan"
+        ]
+      },
+      {
+        "title": "FedMI: Reliable and Privacy-Aware Vertical Federated Learning for Anomaly Detection in Distributed Edge Systems.",
+        "authors": [
+          "Yuzhe Zhang",
+          "Zirui Zhuang",
+          "Qi Qi",
+          "Haifeng Sun",
+          "Shaoxiong Zhu",
+          "Xiaoyuan Fu",
+          "Jing Wang"
+        ]
+      },
+      {
+        "title": "LEA: Label Enumeration Attack in Vertical Federated Learning.",
+        "authors": [
+          "Wenhao Jiang",
+          "Shaojing Fu",
+          "Yuchuan Luo",
+          "Lin Liu"
+        ]
+      },
+      {
+        "title": "Backdoor Defense in Federated Learning Via Multi-Perspective Resilient Aggregation.",
+        "authors": [
+          "Jiahao Wang",
+          "Hongyun Cai",
+          "Lijing Gao",
+          "Fengyu Li"
+        ]
+      },
+      {
+        "title": "Uncovering Evaluation Bias in Node Attachment Strategies for the Lightning Network.",
+        "authors": [
+          "Asma Almosa",
+          "Leonardo Aniello",
+          "BooJoong Kang"
+        ]
+      },
+      {
+        "title": "WINK:A Semi-Honest Secure Multi-Party Computation Framework with Efficient Comparison Protocol.",
+        "authors": [
+          "Yuanqing Feng",
+          "Tao Bai",
+          "Zhi Lu",
+          "Junjun Wu",
+          "Xueming Tang",
+          "Songfeng Lu"
+        ]
+      },
+      {
+        "title": "MVMONT: Securing Confidential Deployments With Attestable Multi-Variant Monitoring.",
+        "authors": [
+          "Kailun Qin",
+          "Dawu Gu"
+        ]
+      },
+      {
+        "title": "Decentralised Land Registration and Transaction with Blockchain and Self-Sovereign Identity.",
+        "authors": [
+          "Pedro C. Henriques",
+          "Miguel Correia"
+        ]
+      },
+      {
+        "title": "A Review of Requirements and Threats in Blockchain-Based Cyber Threat Intelligence Sharing.",
+        "authors": [
+          "Claudia Ruggiero",
+          "Silvia Bonomi"
+        ]
+      },
+      {
+        "title": "EDIC: Towards Improving Fault Tolerance of Erasure Codes with Redundancy Conversion: Workshop Paper.",
+        "authors": [
+          "Ioannis Tzouros",
+          "Vana Kalogeraki"
+        ]
+      },
+      {
+        "title": "Polylayer: the Next 700 Storage Configurations.",
+        "authors": [
+          "João Lopes",
+          "Bruno Pereira",
+          "Filipe Pereira",
+          "Vicente Muñoz",
+          "Tiago Gomes",
+          "Rui Ribeiro",
+          "Filipe Costa",
+          "Marta Bonjardim",
+          "Francisco Cruz",
+          "João Paulo",
+          "Francisco Maia"
+        ]
+      },
+      {
+        "title": "Designing Swarm-Based Decentralised Systems: Requirements for Performance and Scalability: Workshop Paper.",
+        "authors": [
+          "Abhinaba Chakraborty",
+          "Didier Colle",
+          "Mario Pickavet",
+          "Enrique Areizaga",
+          "Akis Kourtis",
+          "Andreas Oikonomakis",
+          "Adnan Imeri",
+          "Wouter Tavernier"
+        ]
+      },
+      {
+        "title": "Federated Learning at the Edge for Wind Turbine Predictive Maintenance.",
+        "authors": [
+          "Charis Michailidis",
+          "Alexandros Kalafatelis",
+          "Georgios Alexandridis",
+          "Averkios Vasalos",
+          "Andreas Oikonomakis",
+          "Achileas Economopoulos",
+          "Andrea Carolina Fontalvo Echavez",
+          "Daniel Iglesias Canelo",
+          "Michail-Alexandros Kourtis",
+          "Panagiotis Trakadas"
+        ]
+      },
+      {
+        "title": "Integrated Tracking and Peripheral Vision in a UAV Architecture for Search-and-Rescue Operations: Workshop Paper.",
+        "authors": [
+          "Odysseas Ntousis",
+          "Evangelos Makris",
+          "Ioannis Poulakis",
+          "Panayiotis Tsanakas",
+          "Christos Pavlatos"
+        ]
+      },
+      {
+        "title": "A Scalable Swarm Intelligence Algorithm for Autonomous UAV Search and Rescue Operations.",
+        "authors": [
+          "Javier Sáez-Pérez",
+          "Julio Diez-Tomillo",
+          "Pablo Benlloch-Caballero",
+          "Pablo Salva-Garcia",
+          "Qi Wang"
+        ]
+      },
+      {
+        "title": "A Distributed Uav Analytics Framework for Daobased Swarm Systems.",
+        "authors": [
+          "Averkios Vasalos",
+          "Achileas Economopoulos",
+          "Andreas Oikonomakis",
+          "Abhinaba Chakraborty",
+          "Michail-Alexandros Kourtis",
+          "Georgios Alexandridis",
+          "Wouter Tavernier",
+          "George Xilouris",
+          "Ioannis P. Chochliouros",
+          "Ioannis Vasalos",
+          "Panagiotis Trakadas"
+        ]
+      },
+      {
+        "title": "Optimizing Task Allocation in the Cloud-Edge Continuum: A Deep Reinforcement Learning and Graph Neural Network Approach.",
+        "authors": [
+          "Thanasis Kotsiopoulos",
+          "Alexandros Nizamis",
+          "Jaime Flor",
+          "Matilde Julián",
+          "Carlos Enrique Palau",
+          "Konstantinos Votis",
+          "Dimitrios Tzovaras",
+          "Panagiotis Sarigiannidis"
+        ]
+      },
+      {
+        "title": "Enhancing Airport Safety Through Real-Time Detection of Personnel Near Aircraft Using Machine Learning.",
+        "authors": [
+          "Theodoros Theocharis",
+          "Evangelos Makris",
+          "Georgios Fotis",
+          "Christos Pavlatos"
+        ]
+      },
+      {
+        "title": "CyberNEMO: Enhancing End-to-End Cybersecurity and Privacy in the IoT-Edge-Cloud Continuum.",
+        "authors": [
+          "Theodore B. Zahariadis",
+          "Artemis C. Voulkidis",
+          "Ilias Nektarios Seitanidis",
+          "Andreas E. Papadakis",
+          "Alberto del Río",
+          "Javier Serrano",
+          "David Jiménez",
+          "Antonio Pastor",
+          "Diego R. López",
+          "Alejandro Muñiz",
+          "Mattin Antartiko Elorza Forcada",
+          "Ana Méndez",
+          "Wafa Ben Jaballah",
+          "Rosaria Rossini",
+          "Maria Belesioti",
+          "Ioannis P. Chochliouros",
+          "Marco Angelini",
+          "Vasileios Megalooikonomou",
+          "Carmela Occhipinti",
+          "Luigi Briguglio",
+          "Alexandru Plesa",
+          "Vladut Dinu",
+          "Mohammad Ghoreishi",
+          "Mostafa Jabari",
+          "Dimitrios Skias",
+          "Konstantinos Sakatis",
+          "Ioannis Papaefstathiou"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/srds/srds2024.html": {
     "header": "43rd SRDS 2024:\nCharlotte, NC, USA",
     "year": "2024",

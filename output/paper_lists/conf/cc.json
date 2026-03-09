@@ -1,0 +1,5517 @@
+{
+  "https://dblp.org/db/conf/cc/cc2026.html": {
+    "header": "35th CC 2026:\nSydney, NSW, Australia",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "GraalMHC: ML-Based Method-Hotness Classification for Binary-Size Reduction in Optimizing Compilers.",
+        "authors": [
+          "Milan Cugurovic",
+          "Aleksandar Prokopec",
+          "Boris Spasojevic",
+          "Vojin Jovanovic",
+          "Milena Vujosevic-Janicic"
+        ]
+      },
+      {
+        "title": "It's about Time: Temporal Abstractions for Asynchronous GPU Tensor Computations.",
+        "authors": [
+          "Bastian Hagedorn",
+          "Vinod Grover"
+        ]
+      },
+      {
+        "title": "Optimizing Sparse Tensor Compilation for Sparse Output.",
+        "authors": [
+          "Shideh Hashemian",
+          "Michael F. P. O'Boyle",
+          "Amir Shaikhha"
+        ]
+      },
+      {
+        "title": "RIFS: Run-Time Invariant Function Specialization.",
+        "authors": [
+          "Saba Jamilan",
+          "Snehasish Kumar",
+          "Heiner Litz"
+        ]
+      },
+      {
+        "title": "DiTOX: Fault Detection and Localization in the ONNX Optimizer.",
+        "authors": [
+          "Nikolaos Louloudakis",
+          "Ajitha Rajan"
+        ]
+      },
+      {
+        "title": "SSMR: Statically Detecting Speculation Safe Memory Regions to Mitigate Transient Execution Attacks.",
+        "authors": [
+          "Ange-Thierry Ishimwe",
+          "Sam McDiarmid-Sterling",
+          "Zack McKevitt",
+          "Tamara Silbergleit Lehman"
+        ]
+      },
+      {
+        "title": "CHEHAB: Automatic Compiler Code Optimization for Fully Homomorphic Encryption.",
+        "authors": [
+          "Abdessamed Seddiki",
+          "Arab Mohammed",
+          "Zakaria Hebbal",
+          "Aimad Chabounia",
+          "Eduardo Chielle",
+          "Karima Benatchba",
+          "Challal Yacine",
+          "Djamel Eddine Menacer",
+          "Michail Maniatakos",
+          "Riyadh Baghdadi"
+        ]
+      },
+      {
+        "title": "Parallel and Customizable Equality Saturation.",
+        "authors": [
+          "Jonathan Van der Cruysse",
+          "Abd-El-Aziz Zayed",
+          "Mai Jacob Peng",
+          "Christophe Dubach"
+        ]
+      },
+      {
+        "title": "Accelerating Sparse Algebra with Program Synthesis.",
+        "authors": [
+          "José Wesley de Souza Magalhães",
+          "Shideh Hashemian",
+          "Alexander Brauckmann",
+          "Jackson Woodruff",
+          "Elizabeth Polgreen",
+          "Michael F. P. O'Boyle"
+        ]
+      },
+      {
+        "title": "Schedgehammer: Auto-tuning Compiler Optimizations beyond Numerical Parameters.",
+        "authors": [
+          "Johannes Lenfers",
+          "Sven Spehr",
+          "Justus Dieckmann",
+          "Johannes Jansen",
+          "Martin Paul Lücke",
+          "Sergei Gorlatch"
+        ]
+      },
+      {
+        "title": "TinyGen: Portable and Compact Code Generation for Tiny Machine Learning.",
+        "authors": [
+          "Gaeun Ko",
+          "Seonyeong Heo"
+        ]
+      },
+      {
+        "title": "CPerfSmith: A Randomized C Program Generator for Performance-Oriented Compiler Testing.",
+        "authors": [
+          "Yashwanth Boda",
+          "Abhijit Chunduri",
+          "Ruchi Kumari",
+          "Awanish Pandey"
+        ]
+      },
+      {
+        "title": "Inside VOLT: Designing an Open-Source GPU Compiler (Tool).",
+        "authors": [
+          "Shinnung Jeong",
+          "Chihyo Ahn",
+          "Huanzhi Pu",
+          "Jisheng Zhao",
+          "Hyesoon Kim",
+          "Blaise Tine"
+        ]
+      },
+      {
+        "title": "Nsight Python: A Python-First Profiling Toolkit for Seamless GPU Kernel Analysis (Tool).",
+        "authors": [
+          "Bastian Hagedorn",
+          "Alexander Collins",
+          "Tony Mongkolsmai",
+          "Vinod Grover"
+        ]
+      },
+      {
+        "title": "HORIZON: Estimating Alias Analysis Precision Bounds and Their Impact on Performance.",
+        "authors": [
+          "Khushboo Chitre",
+          "Piyus Kedia",
+          "Rahul Purandare"
+        ]
+      },
+      {
+        "title": "Type Deduction Analysis: Reconstructing Transparent Pointer Types in LLVM-IR.",
+        "authors": [
+          "Niccolo Nicolosi",
+          "Gabriele Magnani",
+          "Emilio Corigliano",
+          "Davide Baroffio",
+          "Federico Reghenzani",
+          "Giovanni Agosta"
+        ]
+      },
+      {
+        "title": "Compact Representation and Interleaved Solving for Scalable Constraint-Based Points-to Analysis.",
+        "authors": [
+          "Ramya Kasaraneni",
+          "V. Krishna Nandivada"
+        ]
+      },
+      {
+        "title": "Practical MHP Analysis for Java.",
+        "authors": [
+          "A. Samuel Moses",
+          "V. Krishna Nandivada"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2025.html": {
+    "header": "34th CC 2025:\nLas Vegas, NV, USA",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Enhancing Program Analysis with Deterministic Distinguishable Calling Context.",
+        "authors": [
+          "Sungkeun Kim",
+          "Khanh Nguyen",
+          "Chia-Che Tsai",
+          "Jaewoo Lee",
+          "Abdullah Muzahid",
+          "Eun Jung Kim"
+        ]
+      },
+      {
+        "title": "A Comparative Study on the Accuracy and the Speed of Static and Dynamic Program Classifiers.",
+        "authors": [
+          "Anderson Faustino da Silva",
+          "Jerónimo Castrillón",
+          "Fernando Magno Quintão Pereira"
+        ]
+      },
+      {
+        "title": "Automatic Test Case Generation for Jasper App HDL Compiler: An Industry Experience.",
+        "authors": [
+          "Mirlaine Crepalde",
+          "Augusto Mafra",
+          "Lucas Cavalini",
+          "Lucas Martins",
+          "Guilherme Amorim",
+          "Pedro Henrique Santos",
+          "Fabiano Peixoto"
+        ]
+      },
+      {
+        "title": "pyATF: Constraint-Based Auto-Tuning in Python.",
+        "authors": [
+          "Richard Schulze",
+          "Sergei Gorlatch",
+          "Ari Rasch"
+        ]
+      },
+      {
+        "title": "Data-Efficient Performance Modeling via Pre-training.",
+        "authors": [
+          "Chunting Liu",
+          "Riyadh Baghdadi"
+        ]
+      },
+      {
+        "title": "Overloading the Dot.",
+        "authors": [
+          "Joseph Tan",
+          "Magnus Madsen"
+        ]
+      },
+      {
+        "title": "MimIrADe: Automatic Differentiation in MimIR.",
+        "authors": [
+          "Marcel Ullrich",
+          "Sebastian Hack",
+          "Roland Leißa"
+        ]
+      },
+      {
+        "title": "Finding Missed Code Size Optimizations in Compilers using Large Language Models.",
+        "authors": [
+          "Davide Italiano",
+          "Chris Cummins"
+        ]
+      },
+      {
+        "title": "DFA-Net: A Compiler-Specific Neural Architecture for Robust Generalization in Data Flow Analyses.",
+        "authors": [
+          "Alexander Brauckmann",
+          "Anderson Faustino da Silva",
+          "Gabriel Synnaeve",
+          "Michael F. P. O'Boyle",
+          "Jerónimo Castrillón",
+          "Hugh Leather"
+        ]
+      },
+      {
+        "title": "A Deep Technical Review of nZDC Fault Tolerance.",
+        "authors": [
+          "Minli Liao",
+          "Sam Ainsworth",
+          "Lev Mukhanov",
+          "Timothy M. Jones"
+        ]
+      },
+      {
+        "title": "Fusion of Operators of Computational Graphs via Greedy Clustering: The XNNC Experience.",
+        "authors": [
+          "Michael Canesche",
+          "Vanderson Martins do Rosario",
+          "Edson Borin",
+          "Fernando Magno Quintão Pereira"
+        ]
+      },
+      {
+        "title": "Scalable Data-Flow Modeling and Validation of Distributed-Memory Algorithms.",
+        "authors": [
+          "Raneem Abu Yosef",
+          "Martin Kong"
+        ]
+      },
+      {
+        "title": "LLM Compiler: Foundation Language Models for Compiler Optimization.",
+        "authors": [
+          "Chris Cummins",
+          "Volker Seeker",
+          "Dejan Grubisic",
+          "Baptiste Rozière",
+          "Jonas Gehring",
+          "Gabriel Synnaeve",
+          "Hugh Leather"
+        ]
+      },
+      {
+        "title": "Post-Link Outlining for Code Size Reduction.",
+        "authors": [
+          "Shaobai Yuan",
+          "Jihong He",
+          "Yihui Xie",
+          "Feng Wang",
+          "Jie Zhao"
+        ]
+      },
+      {
+        "title": "Biotite: A High-Performance Static Binary Translator using Source-Level Information.",
+        "authors": [
+          "Changbin Chen",
+          "Shu Sugita",
+          "Yotaro Nada",
+          "Hidetsugu Irie",
+          "Shuichi Sakai",
+          "Ryota Shioya"
+        ]
+      },
+      {
+        "title": "Secure Scripting with CHERIoT MicroPython.",
+        "authors": [
+          "Duncan Lowther",
+          "Dejice Jacob",
+          "Jacob Trevor",
+          "Jeremy Singer"
+        ]
+      },
+      {
+        "title": "Compiler Support for Speculation in Decoupled Access/Execute Architectures.",
+        "authors": [
+          "Robert Szafarczyk",
+          "Syed Waqar Nabi",
+          "Wim Vanderbauwhede"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2024.html": {
+    "header": "33rd CC 2024:\nEdinburgh, UK",
+    "year": "2024",
+    "papers": [
+      {
+        "title": "Fast Template-Based Code Generation for MLIR.",
+        "authors": [
+          "Florian Drescher",
+          "Alexis Engelke"
+        ]
+      },
+      {
+        "title": "A Unified Memory Dependency Framework for Speculative High-Level Synthesis.",
+        "authors": [
+          "Jean-Michel Gorius",
+          "Simon Rokicki",
+          "Steven Derrien"
+        ]
+      },
+      {
+        "title": "If-Convert as Early as You Must.",
+        "authors": [
+          "Dorit Nuzman",
+          "Ayal Zaks",
+          "Ziv Ben-Zion"
+        ]
+      },
+      {
+        "title": "Paguroidea: Fused Parser Generator with Transparent Semantic Actions.",
+        "authors": [
+          "Yifan Zhu",
+          "Quartic Cat",
+          "Boluo Ge",
+          "Shaotong Sun"
+        ]
+      },
+      {
+        "title": "Region-Based Data Layout via Data Reuse Analysis.",
+        "authors": [
+          "Caio Salvador Rohwedder",
+          "João P. L. de Carvalho",
+          "José Nelson Amaral"
+        ]
+      },
+      {
+        "title": "A Context-Sensitive Pointer Analysis Framework for Rust and Its Application to Call Graph Construction.",
+        "authors": [
+          "Wei Li",
+          "Dongjie He",
+          "Yujiang Gui",
+          "Wenguang Chen",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "CoSense: Compiler Optimizations using Sensor Technical Specifications.",
+        "authors": [
+          "Pei Mu",
+          "Nikolaos Mavrogeorgis",
+          "Christos Vasiladiotis",
+          "Vasileios Tsoutsouras",
+          "Orestis Kaparounakis",
+          "Phillip Stanley-Marbell",
+          "Antonio Barbalace"
+        ]
+      },
+      {
+        "title": "UNIFICO: Thread Migration in Heterogeneous-ISA CPUs without State Transformation.",
+        "authors": [
+          "Nikolaos Mavrogeorgis",
+          "Christos Vasiladiotis",
+          "Pei Mu",
+          "Amir Khordadi",
+          "Björn Franke",
+          "Antonio Barbalace"
+        ]
+      },
+      {
+        "title": "BLQ: Light-Weight Locality-Aware Runtime for Blocking-Less Queuing.",
+        "authors": [
+          "Qinzhe Wu",
+          "Ruihao Li",
+          "Jonathan C. Beard",
+          "Lizy Kurian John"
+        ]
+      },
+      {
+        "title": "APPy: Annotated Parallelism for Python on GPUs.",
+        "authors": [
+          "Tong Zhou",
+          "Jun Shirako",
+          "Vivek Sarkar"
+        ]
+      },
+      {
+        "title": "Accurate Coverage Metrics for Compiler-Generated Debugging Information.",
+        "authors": [
+          "J. Ryan Stinnett",
+          "Stephen Kell"
+        ]
+      },
+      {
+        "title": "FlowProf: Profiling Multi-threaded Programs using Information-Flow.",
+        "authors": [
+          "Ahamed Al Nahian",
+          "Brian Demsky"
+        ]
+      },
+      {
+        "title": "Reducing the Overhead of Exact Profiling by Reusing Affine Variables.",
+        "authors": [
+          "Léon Frénot",
+          "Fernando Magno Quintão Pereira"
+        ]
+      },
+      {
+        "title": "Stale Profile Matching.",
+        "authors": [
+          "Amir Ayupov",
+          "Maksim Panchenko",
+          "Sergey Pupyrev"
+        ]
+      },
+      {
+        "title": "From Low-Level Fault Modeling (of a Pipeline Attack) to a Proven Hardening Scheme.",
+        "authors": [
+          "Sébastien Michelland",
+          "Christophe Deleuze",
+          "Laure Gonnord"
+        ]
+      },
+      {
+        "title": "Clog: A Declarative Language for C Static Code Checkers.",
+        "authors": [
+          "Alexandru Dura",
+          "Christoph Reichenbach"
+        ]
+      },
+      {
+        "title": "Compiler-Based Memory Encryption for Machine Learning on Commodity Low-Power Devices.",
+        "authors": [
+          "Kiwan Maeng",
+          "Brandon Lucia"
+        ]
+      },
+      {
+        "title": "YFlows: Systematic Dataflow Exploration and Code Generation for Efficient Neural Network Inference using SIMD Architectures on CPUs.",
+        "authors": [
+          "Cyrus Zhou",
+          "Zack Hassman",
+          "Dhirpal Shah",
+          "Vaughn Richard",
+          "Yanjing Li"
+        ]
+      },
+      {
+        "title": "Fast and Accurate Context-Aware Basic Block Timing Prediction using Transformers.",
+        "authors": [
+          "Abderaouf Nassim Amalou",
+          "Elisa Fromont",
+          "Isabelle Puaut"
+        ]
+      },
+      {
+        "title": "The Next 700 ML-Enabled Compiler Optimizations.",
+        "authors": [
+          "S. VenkataKeerthy",
+          "Siddharth Jain",
+          "Umesh Kalvakuntla",
+          "Pranav Sai Gorantla",
+          "Rajiv Shailesh Chitale",
+          "Eugene Brevdo",
+          "Albert Cohen",
+          "Mircea Trofin",
+          "Ramakrishna Upadrasta"
+        ]
+      },
+      {
+        "title": "Exponentially Expanding the Phase-Ordering Search Space via Dormant Information.",
+        "authors": [
+          "Ruobing Han",
+          "Hyesoon Kim"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2023.html": {
+    "header": "32nd CC 2023: Montréal, QC, Canada",
+    "year": "2023",
+    "papers": [
+      {
+        "title": "Java Vector API: Benchmarking and Performance Analysis.",
+        "authors": [
+          "Matteo Basso",
+          "Andrea Rosà",
+          "Luca Omini",
+          "Walter Binder"
+        ]
+      },
+      {
+        "title": "Compiling Discrete Probabilistic Programs for Vectorized Exact Inference.",
+        "authors": [
+          "Jingwen Pan",
+          "Amir Shaikhha"
+        ]
+      },
+      {
+        "title": "A Multi-threaded Fast Hardware Compiler for HDLs.",
+        "authors": [
+          "Sheng-Hong Wang",
+          "Hunter James Coffman",
+          "Kenneth Mayer",
+          "Sakshi Garg",
+          "Jose Renau"
+        ]
+      },
+      {
+        "title": "Efficiently Learning Locality Optimizations by Decomposing Transformation Domains.",
+        "authors": [
+          "Tharindu Rusira Patabandi",
+          "Mary W. Hall"
+        ]
+      },
+      {
+        "title": "A Deep Learning Model for Loop Interchange.",
+        "authors": [
+          "Lina Mezdour",
+          "Khadidja Kadem",
+          "Massinissa Merouani",
+          "Amina Selma Haichour",
+          "Saman P. Amarasinghe",
+          "Riyadh Baghdadi"
+        ]
+      },
+      {
+        "title": "(De/Re)-Compositions Expressed Systematically via MDH-Based Schedules.",
+        "authors": [
+          "Ari Rasch",
+          "Richard Schulze",
+          "Denys Shabalin",
+          "Anne C. Elster",
+          "Sergei Gorlatch",
+          "Mary W. Hall"
+        ]
+      },
+      {
+        "title": "A Sound and Complete Algorithm for Code Generation in Distance-Based ISA.",
+        "authors": [
+          "Shu Sugita",
+          "Toru Koizumi",
+          "Ryota Shioya",
+          "Hidetsugu Irie",
+          "Shuichi Sakai"
+        ]
+      },
+      {
+        "title": "Matching Linear Algebra and Tensor Code to Specialized Hardware Accelerators.",
+        "authors": [
+          "Pablo Antonio Martínez",
+          "Jackson Woodruff",
+          "Jordi Armengol-Estapé",
+          "Gregorio Bernabé",
+          "José Manuel García",
+          "Michael F. P. O'Boyle"
+        ]
+      },
+      {
+        "title": "Torchy: A Tracing JIT Compiler for PyTorch.",
+        "authors": [
+          "Nuno P. Lopes"
+        ]
+      },
+      {
+        "title": "A Symbolic Emulator for Shuffle Synthesis on the NVIDIA PTX Code.",
+        "authors": [
+          "Kazuaki Matsumura",
+          "Simon Garcia De Gonzalo",
+          "Antonio J. Peña"
+        ]
+      },
+      {
+        "title": "Register Allocation for Compressed ISAs in LLVM.",
+        "authors": [
+          "Andreas Fried",
+          "Maximilian Stemmer-Grabow",
+          "Julian Wachter"
+        ]
+      },
+      {
+        "title": "RL4ReAl: Reinforcement Learning for Register Allocation.",
+        "authors": [
+          "S. VenkataKeerthy",
+          "Siddharth Jain",
+          "Anilava Kundu",
+          "Rohit Aggarwal",
+          "Albert Cohen",
+          "Ramakrishna Upadrasta"
+        ]
+      },
+      {
+        "title": "Automatically Localizing Dynamic Code Generation Bugs in JIT Compiler Back-End.",
+        "authors": [
+          "HeuiChan Lim",
+          "Saumya Debray"
+        ]
+      },
+      {
+        "title": "HyBF: A Hybrid Branch Fusion Strategy for Code Size Reduction.",
+        "authors": [
+          "Rodrigo C. O. Rocha",
+          "Charitha Saumya",
+          "Kirshanthan Sundararajah",
+          "Pavlos Petoumenos",
+          "Milind Kulkarni",
+          "Michael F. P. O'Boyle"
+        ]
+      },
+      {
+        "title": "Linker Code Size Optimization for Native Mobile Applications.",
+        "authors": [
+          "Gai Liu",
+          "Umar Farooq",
+          "Chengyan Zhao",
+          "Xia Liu",
+          "Nian Sun"
+        ]
+      },
+      {
+        "title": "Building a Compiled Query Engine in Python.",
+        "authors": [
+          "Hesam Shahrokhi",
+          "Amir Shaikhha"
+        ]
+      },
+      {
+        "title": "Codon: A Compiler for High-Performance Pythonic Applications and DSLs.",
+        "authors": [
+          "Ariya Shajii",
+          "Gabriel Ramirez",
+          "Haris Smajlovic",
+          "Jessica Ray",
+          "Bonnie Berger",
+          "Saman P. Amarasinghe",
+          "Ibrahim Numanagic"
+        ]
+      },
+      {
+        "title": "MOD2IR: High-Performance Code Generation for a Biophysically Detailed Neuronal Simulation DSL.",
+        "authors": [
+          "George Mitenkov",
+          "Ioannis Magkanaris",
+          "Omar Awile",
+          "Pramod S. Kumbhar",
+          "Felix Schürmann",
+          "Alastair F. Donaldson"
+        ]
+      },
+      {
+        "title": "A Hotspot-Driven Semi-automated Competitive Analysis Framework for Identifying Compiler Key Optimizations.",
+        "authors": [
+          "Wenlong Mu",
+          "Yilei Zhang",
+          "Bo Huang",
+          "Jianmei Guo",
+          "Shiqiang Cui"
+        ]
+      },
+      {
+        "title": "LAGrad: Statically Optimized Differentiable Programming in MLIR.",
+        "authors": [
+          "Mai Jacob Peng",
+          "Christophe Dubach"
+        ]
+      },
+      {
+        "title": "Lazy Evaluation for the Lazy: Automatically Transforming Call-by-Value into Call-by-Need.",
+        "authors": [
+          "Breno Campos Ferreira Guimarães",
+          "Fernando Magno Quintão Pereira"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2022.html": {
+    "header": "31st CC 2022: Seoul, South Korea",
+    "year": "2022",
+    "papers": [
+      {
+        "title": "Writing and verifying a Quantum optimizing compiler (keynote).",
+        "authors": [
+          "Robert Rand"
+        ]
+      },
+      {
+        "title": "QSSA: an SSA-based IR for Quantum computing.",
+        "authors": [
+          "Anurudh Peduri",
+          "Siddharth Bhat",
+          "Tobias Grosser"
+        ]
+      },
+      {
+        "title": "QRANE: lifting QASM programs to an affine IR.",
+        "authors": [
+          "Blake Gerard",
+          "Tobias Grosser",
+          "Martin Kong"
+        ]
+      },
+      {
+        "title": "A polynomial time exact solution to the bit-aware register binding problem.",
+        "authors": [
+          "Michael Canesche",
+          "Ricardo S. Ferreira",
+          "José Augusto Miranda Nacif",
+          "Fernando Magno Quintão Pereira"
+        ]
+      },
+      {
+        "title": "Graph transformations for register-pressure-aware instruction scheduling.",
+        "authors": [
+          "Ghassan Shobaki",
+          "Justin Bassett",
+          "Mark Heffernan",
+          "Austin Kerbow"
+        ]
+      },
+      {
+        "title": "Caviar: an e-graph based TRS for automatic code optimization.",
+        "authors": [
+          "Smail Kourta",
+          "Adel Abderahmane Namani",
+          "Fatima Benbouzid-Si Tayeb",
+          "Kim M. Hazelwood",
+          "Chris Cummins",
+          "Hugh Leather",
+          "Riyadh Baghdadi"
+        ]
+      },
+      {
+        "title": "On the computation of interprocedural weak control closure.",
+        "authors": [
+          "Abu Naser Masud",
+          "Björn Lisper"
+        ]
+      },
+      {
+        "title": "Seamless deductive inference via macros.",
+        "authors": [
+          "Arash Sahebolamri",
+          "Thomas Gilray",
+          "Kristopher K. Micinski"
+        ]
+      },
+      {
+        "title": "One-shot tuner for deep learning compilers.",
+        "authors": [
+          "Jaehun Ryu",
+          "Eunhyeok Park",
+          "Hyojin Sung"
+        ]
+      },
+      {
+        "title": "Training of deep learning pipelines on memory-constrained GPUs via segmented fused-tiled execution.",
+        "authors": [
+          "Yufan Xu",
+          "Saurabh Raje",
+          "Atanas Rountev",
+          "Gerald Sabin",
+          "Aravind Sukumaran-Rajam",
+          "P. Sadayappan"
+        ]
+      },
+      {
+        "title": "MLIR-based code generation for GPU tensor cores.",
+        "authors": [
+          "Navdeep Katel",
+          "Vivek Khandelwal",
+          "Uday Bondhugula"
+        ]
+      },
+      {
+        "title": "Automating reinforcement learning architecture design for code optimization.",
+        "authors": [
+          "Huanting Wang",
+          "Zhanyong Tang",
+          "Cheng Zhang",
+          "Jiaqi Zhao",
+          "Chris Cummins",
+          "Hugh Leather",
+          "Zheng Wang"
+        ]
+      },
+      {
+        "title": "Memory access scheduling to reduce thread migrations.",
+        "authors": [
+          "Sana Damani",
+          "Prithayan Barua",
+          "Vivek Sarkar"
+        ]
+      },
+      {
+        "title": "Performant portable OpenMP.",
+        "authors": [
+          "Guray Ozen",
+          "Michael Wolfe"
+        ]
+      },
+      {
+        "title": "BinPointer: towards precise, sound, and scalable binary-level pointer analysis.",
+        "authors": [
+          "Sun Hyoung Kim",
+          "Dongrui Zeng",
+          "Cong Sun",
+          "Gang Tan"
+        ]
+      },
+      {
+        "title": "Cape: compiler-aided program transformation for HTM-based cache side-channel defense.",
+        "authors": [
+          "Rui Zhang",
+          "Michael D. Bond",
+          "Yinqian Zhang"
+        ]
+      },
+      {
+        "title": "Making no-fuss compiler fuzzing effective.",
+        "authors": [
+          "Alex Groce",
+          "Rijnard van Tonder",
+          "Goutamkumar Tulajappa Kalburgi",
+          "Claire Le Goues"
+        ]
+      },
+      {
+        "title": "Loner: utilizing the CPU vector datapath to process scalar integer data.",
+        "authors": [
+          "Armand Behroozi",
+          "Sunghyun Park",
+          "Scott A. Mahlke"
+        ]
+      },
+      {
+        "title": "Mapping parallelism in a functional IR through constraint satisfaction: a case study on convolution for mobile GPUs.",
+        "authors": [
+          "Naums Mogers",
+          "Lu Li",
+          "Valentin Radu",
+          "Christophe Dubach"
+        ]
+      },
+      {
+        "title": "Software pre-execution for irregular memory accesses in the HBM era.",
+        "authors": [
+          "Sanyam Mehta",
+          "Gary Elsesser",
+          "Terry Greyzck"
+        ]
+      },
+      {
+        "title": "Efficient profile-guided size optimization for native mobile applications.",
+        "authors": [
+          "Kyungwoo Lee",
+          "Ellis Hoag",
+          "Nikolai Tillmann"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2021.html": {
+    "header": "30th CC 2021: Virtual Event",
+    "year": "2021",
+    "papers": [
+      {
+        "title": "Data-aware process networks.",
+        "authors": [
+          "Christophe Alias",
+          "Alexandru Plesco"
+        ]
+      },
+      {
+        "title": "Integrating a functional pattern-based IR into MLIR.",
+        "authors": [
+          "Martin Lücke",
+          "Michel Steuwer",
+          "Aaron Smith"
+        ]
+      },
+      {
+        "title": "Compiling data-parallel Datalog.",
+        "authors": [
+          "Thomas Gilray",
+          "Sidharth Kumar",
+          "Kristopher K. Micinski"
+        ]
+      },
+      {
+        "title": "PGZ: automatic zero-value code specialization.",
+        "authors": [
+          "Mark Stephenson",
+          "Ram Rangan"
+        ]
+      },
+      {
+        "title": "Exploring the space of optimization sequences for code-size reduction: insights and tools.",
+        "authors": [
+          "Anderson Faustino da Silva",
+          "Bernardo N. B. de Lima",
+          "Fernando Magno Quintão Pereira"
+        ]
+      },
+      {
+        "title": "PolyBench/Python: benchmarking Python environments with polyhedral optimizations.",
+        "authors": [
+          "Miguel Á. Abella-González",
+          "Pedro Carollo-Fernández",
+          "Louis-Noël Pouchet",
+          "Fabrice Rastello",
+          "Gabriel Rodríguez"
+        ]
+      },
+      {
+        "title": "A modern compiler for the French tax code.",
+        "authors": [
+          "Denis Merigoux",
+          "Raphaël Monat",
+          "Jonathan Protzenko"
+        ]
+      },
+      {
+        "title": "NSan: a floating-point numerical sanitizer.",
+        "authors": [
+          "Clement Courbet"
+        ]
+      },
+      {
+        "title": "Communication-safe web programming in TypeScript with routed multiparty session types.",
+        "authors": [
+          "Anson Miu",
+          "Francisco Ferreira",
+          "Nobuko Yoshida",
+          "Fangyi Zhou"
+        ]
+      },
+      {
+        "title": "Helper function inlining in dynamic binary translation.",
+        "authors": [
+          "Wenwen Wang"
+        ]
+      },
+      {
+        "title": "Lightning BOLT: powerful, fast, and scalable binary optimization.",
+        "authors": [
+          "Maksim Panchenko",
+          "Rafael Auler",
+          "Laith Sakka",
+          "Guilherme Ottoni"
+        ]
+      },
+      {
+        "title": "Compact native code generation for dynamic languages on micro-core architectures.",
+        "authors": [
+          "Maurice Jamieson",
+          "Nick Brown"
+        ]
+      },
+      {
+        "title": "Deep NLP-based co-evolvement for synthesizing code analysis from natural language.",
+        "authors": [
+          "Zifan Nan",
+          "Hui Guan",
+          "Xipeng Shen",
+          "Chunhua Liao"
+        ]
+      },
+      {
+        "title": "Resolvable ambiguity: principled resolution of syntactically ambiguous programs.",
+        "authors": [
+          "Viktor Palmkvist",
+          "Elias Castegren",
+          "Philipp Haller",
+          "David Broman"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2020.html": {
+    "header": "29th CC 2020: San Diego, CA, USA",
+    "year": "2020",
+    "papers": [
+      {
+        "title": "Vectorization-aware loop unrolling with seed forwarding.",
+        "authors": [
+          "Rodrigo C. O. Rocha",
+          "Vasileios Porpodas",
+          "Pavlos Petoumenos",
+          "Luís F. W. Góes",
+          "Zheng Wang",
+          "Murray Cole",
+          "Hugh Leather"
+        ]
+      },
+      {
+        "title": "Secure delivery of program properties through optimizing compilation.",
+        "authors": [
+          "Son Tuan Vu",
+          "Karine Heydemann",
+          "Arnaud de Grandmaison",
+          "Albert Cohen"
+        ]
+      },
+      {
+        "title": "Mix your contexts well: opportunities unleashed by recent advances in scaling context-sensitivity.",
+        "authors": [
+          "Manas Thakur",
+          "V. Krishna Nandivada"
+        ]
+      },
+      {
+        "title": "Scalable pointer analysis of data structures using semantic models.",
+        "authors": [
+          "Pratik Fegade",
+          "Christian Wimmer"
+        ]
+      },
+      {
+        "title": "A study of event frequency profiling with differential privacy.",
+        "authors": [
+          "Hailong Zhang",
+          "Yu Hao",
+          "Sufian Latif",
+          "Raef Bassily",
+          "Atanas Rountev"
+        ]
+      },
+      {
+        "title": "Improving database query performance with automatic fusion.",
+        "authors": [
+          "Hanfeng Chen",
+          "Alexander Krolik",
+          "Bettina Kemme",
+          "Clark Verbrugge",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "Robust quantization of deep neural networks.",
+        "authors": [
+          "Youngseok Kim",
+          "Junyeol Lee",
+          "Younghoon Kim",
+          "Jiwon Seo"
+        ]
+      },
+      {
+        "title": "Generating fast sparse matrix vector multiplication from a high level generic functional IR.",
+        "authors": [
+          "Federico Pizzuti",
+          "Michel Steuwer",
+          "Christophe Dubach"
+        ]
+      },
+      {
+        "title": "Runtime multi-versioning and specialization inside a memoized speculative loop optimizer.",
+        "authors": [
+          "Raquel Lazcano",
+          "Daniel Madroñal",
+          "Eduardo Juárez",
+          "Philippe Clauss"
+        ]
+      },
+      {
+        "title": "Dynamic property caches: a step towards faster JavaScript proxy objects.",
+        "authors": [
+          "Manuel Serrano",
+          "Robert Bruce Findler"
+        ]
+      },
+      {
+        "title": "Mixed-data-model heterogeneous compilation and OpenMP offloading.",
+        "authors": [
+          "Andreas Kurth",
+          "Koen Wolters",
+          "Björn Forsberg",
+          "Alessandro Capotondi",
+          "Andrea Marongiu",
+          "Tobias Grosser",
+          "Luca Benini"
+        ]
+      },
+      {
+        "title": "Balancing performance and productivity for the development of dynamic binary instrumentation tools: a case study on Arm systems.",
+        "authors": [
+          "Cosmin Gorgovan",
+          "Guillermo Callaghan",
+          "Mikel Luján"
+        ]
+      },
+      {
+        "title": "Compiling first-order functions to session-typed parallel code.",
+        "authors": [
+          "David Castro-Perez",
+          "Nobuko Yoshida"
+        ]
+      },
+      {
+        "title": "Is stateful packrat parsing really linear in practice? a counter-example, an improved grammar, and its parsing algorithms.",
+        "authors": [
+          "Nariyoshi Chida",
+          "Yuhei Kawakoya",
+          "Dai Ikarashi",
+          "Kenji Takahashi",
+          "Koushik Sen"
+        ]
+      },
+      {
+        "title": "Bitwidth customization in image processing pipelines using interval analysis and SMT solvers.",
+        "authors": [
+          "Suresh Purini",
+          "Vinamra Benara",
+          "Ziaul Choudhury",
+          "Uday Bondhugula"
+        ]
+      },
+      {
+        "title": "Automatically harnessing sparse acceleration.",
+        "authors": [
+          "Philip Ginsbach",
+          "Bruce Collie",
+          "Michael F. P. O'Boyle"
+        ]
+      },
+      {
+        "title": "Postcondition-preserving fusion of postorder tree transformations.",
+        "authors": [
+          "Eleanor Davies",
+          "Sara Kalvala"
+        ]
+      },
+      {
+        "title": "Compiler-based graph representations for deep learning models of code.",
+        "authors": [
+          "Alexander Brauckmann",
+          "Andrés Goens",
+          "Sebastian Ertel",
+          "Jerónimo Castrillón"
+        ]
+      },
+      {
+        "title": "Relaxing the one definition rule in interpreted C++.",
+        "authors": [
+          "Javier López-Gómez",
+          "Javier Fernández",
+          "David del Rio Astorga",
+          "Vassil Vassilev",
+          "Axel Naumann",
+          "José Daniel García"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2019.html": {
+    "header": "28th CC 2019: Washington, DC, USA",
+    "year": "2019",
+    "papers": [
+      {
+        "title": "The sparse tensor algebra compiler (keynote).",
+        "authors": [
+          "Saman P. Amarasinghe"
+        ]
+      },
+      {
+        "title": "PPOpenCL: a performance-portable OpenCL compiler with host and kernel thread code fusion.",
+        "authors": [
+          "Ying Liu",
+          "Lei Huang",
+          "Mingchuan Wu",
+          "Huimin Cui",
+          "Fang Lv",
+          "Xiaobing Feng",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "Enabling prefix sum parallelism pattern for recurrences with principled function reconstruction.",
+        "authors": [
+          "Yang Xia",
+          "Peng Jiang",
+          "Gagan Agrawal"
+        ]
+      },
+      {
+        "title": "Revec: program rejuvenation through revectorization.",
+        "authors": [
+          "Charith Mendis",
+          "Ajay Jain",
+          "Paras Jain",
+          "Saman P. Amarasinghe"
+        ]
+      },
+      {
+        "title": "To unify or not to unify: a case study on unified builds (in WebKit).",
+        "authors": [
+          "Takafumi Kubota",
+          "Yusuke Suzuki",
+          "Kenji Kono"
+        ]
+      },
+      {
+        "title": "A static slicing method for functional programs and its incremental version.",
+        "authors": [
+          "Prasanna Kumar K.",
+          "Amitabha Sanyal",
+          "Amey Karkare",
+          "Saswat Padhi"
+        ]
+      },
+      {
+        "title": "Codestitcher: inter-procedural basic block layout optimization.",
+        "authors": [
+          "Rahman Lavaee",
+          "John Criswell",
+          "Chen Ding"
+        ]
+      },
+      {
+        "title": "Low-cost deterministic C++ exceptions for embedded systems.",
+        "authors": [
+          "James Renwick",
+          "Tom Spink",
+          "Björn Franke"
+        ]
+      },
+      {
+        "title": "Spinal code: automatic code extraction for near-user computation in fogs.",
+        "authors": [
+          "Bongjun Kim",
+          "Seonyeong Heo",
+          "Gyeongmin Lee",
+          "Seungbin Song",
+          "Jong Kim",
+          "Hanjun Kim"
+        ]
+      },
+      {
+        "title": "Property caches revisited.",
+        "authors": [
+          "Manuel Serrano",
+          "Marc Feeley"
+        ]
+      },
+      {
+        "title": "Accelerating web application loading with snapshot of event and DOM handling.",
+        "authors": [
+          "Ji Hwan Yeo",
+          "JinSeok Oh",
+          "Soo-Mook Moon"
+        ]
+      },
+      {
+        "title": "GPU-accelerated fixpoint algorithms for faster compiler analyses.",
+        "authors": [
+          "Thorsten Blaß",
+          "Michael Philippsen"
+        ]
+      },
+      {
+        "title": "Compare less, defer more: scaling value-contexts based whole-program heap analyses.",
+        "authors": [
+          "Manas Thakur",
+          "V. Krishna Nandivada"
+        ]
+      },
+      {
+        "title": "Valence: variable length calling context encoding.",
+        "authors": [
+          "Tong Zhou",
+          "Michael R. Jantz",
+          "Prasad A. Kulkarni",
+          "Kshitij A. Doshi",
+          "Vivek Sarkar"
+        ]
+      },
+      {
+        "title": "Path sensitive MFP solutions in presence of intersecting infeasible control flow path segments.",
+        "authors": [
+          "Komal Pathade",
+          "Uday P. Khedker"
+        ]
+      },
+      {
+        "title": "Automatic adaptive approximation for stencil computations.",
+        "authors": [
+          "Maxime Schmitt",
+          "Philippe Helluy",
+          "Cédric Bastoul"
+        ]
+      },
+      {
+        "title": "Efficiency and expressiveness in UW-OpenMP.",
+        "authors": [
+          "Raghesh Aloor",
+          "V. Krishna Nandivada"
+        ]
+      },
+      {
+        "title": "Efficient concolic testing of MPI applications.",
+        "authors": [
+          "Hongbo Li",
+          "Zizhong Chen",
+          "Rajiv Gupta"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2018.html": {
+    "header": "27th CC 2018: Vienna, Austria",
+    "year": "2018",
+    "papers": [
+      {
+        "title": "Rethinking compilers in the rise of machine learning and AI (keynote).",
+        "authors": [
+          "Xipeng Shen"
+        ]
+      },
+      {
+        "title": "Compiler and language design for quantum computing (keynote).",
+        "authors": [
+          "Bettina Heim"
+        ]
+      },
+      {
+        "title": "Modeling the conflicting demands of parallelism and Temporal/Spatial locality in affine scheduling.",
+        "authors": [
+          "Oleksandr Zinenko",
+          "Sven Verdoolaege",
+          "Chandan Reddy",
+          "Jun Shirako",
+          "Tobias Grosser",
+          "Vivek Sarkar",
+          "Albert Cohen"
+        ]
+      },
+      {
+        "title": "A polyhedral compilation framework for loops with dynamic data-dependent bounds.",
+        "authors": [
+          "Jie Zhao",
+          "Michael Kruse",
+          "Albert Cohen"
+        ]
+      },
+      {
+        "title": "Polyhedral expression propagation.",
+        "authors": [
+          "Johannes Doerfert",
+          "Shrey Sharma",
+          "Sebastian Hack"
+        ]
+      },
+      {
+        "title": "Computing partially path-sensitive MFP solutions in data flow analyses.",
+        "authors": [
+          "Komal Pathade",
+          "Uday P. Khedker"
+        ]
+      },
+      {
+        "title": "An efficient data structure for must-alias analysis.",
+        "authors": [
+          "George Kastrinis",
+          "George Balatsouras",
+          "Kostas Ferles",
+          "Nefeli Prokopaki-Kostopoulou",
+          "Yannis Smaragdakis"
+        ]
+      },
+      {
+        "title": "Parallel sparse flow-sensitive points-to analysis.",
+        "authors": [
+          "Jisheng Zhao",
+          "Michael G. Burke",
+          "Vivek Sarkar"
+        ]
+      },
+      {
+        "title": "PAYJIT: space-optimal JIT compilation and its practical implementation.",
+        "authors": [
+          "Jacob Brock",
+          "Chen Ding",
+          "Xiaoran Xu",
+          "Yan Zhang"
+        ]
+      },
+      {
+        "title": "Finding missed compiler optimizations by differential testing.",
+        "authors": [
+          "Gergö Barany"
+        ]
+      },
+      {
+        "title": "Fast and flexible instruction selection with constraints.",
+        "authors": [
+          "Patrick Thier",
+          "M. Anton Ertl",
+          "Andreas Krall"
+        ]
+      },
+      {
+        "title": "Compiling for concise code and efficient I/O.",
+        "authors": [
+          "Sebastian Ertel",
+          "Andrés Goens",
+          "Justus Adam",
+          "Jerónimo Castrillón"
+        ]
+      },
+      {
+        "title": "Termination checking and task decomposition for task-based intermittent programs.",
+        "authors": [
+          "Alexei Colin",
+          "Brandon Lucia"
+        ]
+      },
+      {
+        "title": "A session type provider: compile-time API generation of distributed protocols with refinements in F#.",
+        "authors": [
+          "Rumyana Neykova",
+          "Raymond Hu",
+          "Nobuko Yoshida",
+          "Fahd Abdeljallal"
+        ]
+      },
+      {
+        "title": "Tail call elimination and data representation for functional languages on the Java virtual machine.",
+        "authors": [
+          "Magnus Madsen",
+          "Ramin Zarifi",
+          "Ondrej Lhoták"
+        ]
+      },
+      {
+        "title": "CAnDL: a domain specific language for compiler analysis.",
+        "authors": [
+          "Philip Ginsbach",
+          "Lewis Crawford",
+          "Michael F. P. O'Boyle"
+        ]
+      },
+      {
+        "title": "Semantic reasoning about the sea of nodes.",
+        "authors": [
+          "Delphine Demange",
+          "Yon Fernández de Retana",
+          "David Pichardie"
+        ]
+      },
+      {
+        "title": "Towards a compiler analysis for parallel algorithmic skeletons.",
+        "authors": [
+          "Tobias J. K. Edler von Koch",
+          "Stanislav Manilov",
+          "Christos Vasiladiotis",
+          "Murray Cole",
+          "Björn Franke"
+        ]
+      },
+      {
+        "title": "Generalized profile-guided iterator recognition.",
+        "authors": [
+          "Stanislav Manilov",
+          "Christos Vasiladiotis",
+          "Björn Franke"
+        ]
+      },
+      {
+        "title": "Efficient dynamic analysis for Node.js.",
+        "authors": [
+          "Haiyang Sun",
+          "Daniele Bonetta",
+          "Christian Humer",
+          "Walter Binder"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2017.html": {
+    "header": "26th CC 2017: Austin, TX, USA",
+    "year": "2017",
+    "papers": [
+      {
+        "title": "Partially redundant fence elimination for x86, ARM, and power processors.",
+        "authors": [
+          "Robin Morisset",
+          "Francesco Zappa Nardelli"
+        ]
+      },
+      {
+        "title": "Lightweight data race detection for production runs.",
+        "authors": [
+          "Swarnendu Biswas",
+          "Man Cao",
+          "Minjia Zhang",
+          "Michael D. Bond",
+          "Benjamin P. Wood"
+        ]
+      },
+      {
+        "title": "Optimized two-level parallelization for GPU accelerators using the polyhedral model.",
+        "authors": [
+          "Jun Shirako",
+          "Akihiro Hayashi",
+          "Vivek Sarkar"
+        ]
+      },
+      {
+        "title": "Optimization space pruning without regrets.",
+        "authors": [
+          "Ulysse Beaugnon",
+          "Antoine Pouille",
+          "Marc Pouzet",
+          "Jacques A. Pienaar",
+          "Albert Cohen"
+        ]
+      },
+      {
+        "title": "Compile-time function memoization.",
+        "authors": [
+          "Arjun Suresh",
+          "Erven Rohou",
+          "André Seznec"
+        ]
+      },
+      {
+        "title": "One compiler: deoptimization to optimized code.",
+        "authors": [
+          "Christian Wimmer",
+          "Vojin Jovanovic",
+          "Erik Eckstein",
+          "Thomas Würthinger"
+        ]
+      },
+      {
+        "title": "Static optimization in PHP 7.",
+        "authors": [
+          "Nikita Popov",
+          "Biagio Cosenza",
+          "Ben H. H. Juurlink",
+          "Dmitry Stogov"
+        ]
+      },
+      {
+        "title": "From functional programs to pipelined dataflow circuits.",
+        "authors": [
+          "Richard Townsend",
+          "Martha A. Kim",
+          "Stephen A. Edwards"
+        ]
+      },
+      {
+        "title": "Granullar: gradual nullable types for Java.",
+        "authors": [
+          "Dan Brotherston",
+          "Werner Dietl",
+          "Ondrej Lhoták"
+        ]
+      },
+      {
+        "title": "Let it recover: multiparty protocol-induced recovery.",
+        "authors": [
+          "Rumyana Neykova",
+          "Nobuko Yoshida"
+        ]
+      },
+      {
+        "title": "Data structure-aware heap partitioning.",
+        "authors": [
+          "Nouraldin Jaber",
+          "Milind Kulkarni"
+        ]
+      },
+      {
+        "title": "Dynamic symbolic execution for polymorphism.",
+        "authors": [
+          "Lian Li",
+          "Yi Lu",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "rev.ng: a unified binary analysis framework to recover CFGs and function boundaries.",
+        "authors": [
+          "Alessandro Di Federico",
+          "Mathias Payer",
+          "Giovanni Agosta"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2016.html": {
+    "header": "25th CC 2016: Barcelona, Spain",
+    "year": "2016",
+    "papers": [
+      {
+        "title": "Thread-level speculation with kernel support.",
+        "authors": [
+          "Clemens Hammacher",
+          "Kevin Streit",
+          "Andreas Zeller",
+          "Sebastian Hack"
+        ]
+      },
+      {
+        "title": "Reducing memory buffering overhead in software thread-level speculation.",
+        "authors": [
+          "Zhen Cao",
+          "Clark Verbrugge"
+        ]
+      },
+      {
+        "title": "Performance implications of transient loop-carried data dependences in automatically parallelized loops.",
+        "authors": [
+          "Niall Murphy",
+          "Timothy M. Jones",
+          "Robert Mullins",
+          "Simone Campanoni"
+        ]
+      },
+      {
+        "title": "Safe and flexible adaptation via alternate data structure representations.",
+        "authors": [
+          "Amlan Kusum",
+          "Iulian Neamtiu",
+          "Rajiv Gupta"
+        ]
+      },
+      {
+        "title": "Relaxed dependence tracking for parallel runtime support.",
+        "authors": [
+          "Minjia Zhang",
+          "Swarnendu Biswas",
+          "Michael D. Bond"
+        ]
+      },
+      {
+        "title": "Kindergarten cop: dynamic nursery resizing for GHC.",
+        "authors": [
+          "Henrique Ferreiro",
+          "Laura M. Castro",
+          "Vladimir Janjic",
+          "Kevin Hammond"
+        ]
+      },
+      {
+        "title": "Verified construction of static single assignment form.",
+        "authors": [
+          "Sebastian Buchwald",
+          "Denis Lohner",
+          "Sebastian Ullrich"
+        ]
+      },
+      {
+        "title": "Mechanizing conventional SSA for a verified destruction with coalescing.",
+        "authors": [
+          "Delphine Demange",
+          "Yon Fernández de Retana"
+        ]
+      },
+      {
+        "title": "Reachability and error diagnosis in LR(1) parsers.",
+        "authors": [
+          "François Pottier"
+        ]
+      },
+      {
+        "title": "Automatic fault location for data structures.",
+        "authors": [
+          "Vineet Singh",
+          "Rajiv Gupta",
+          "Iulian Neamtiu"
+        ]
+      },
+      {
+        "title": "Sparse representation of implicit flows with applications to side-channel detection.",
+        "authors": [
+          "Bruno Rodrigues",
+          "Fernando Magno Quintão Pereira",
+          "Diego F. Aranha"
+        ]
+      },
+      {
+        "title": "Multiversioned decoupled access-execute: the key to energy-efficient compilation of general-purpose programs.",
+        "authors": [
+          "Konstantinos Koukos",
+          "Per Ekemark",
+          "Georgios Zacharopoulos",
+          "Vasileios Spiliopoulos",
+          "Stefanos Kaxiras",
+          "Alexandra Jimborean"
+        ]
+      },
+      {
+        "title": "Heap bounds protection with low fat pointers.",
+        "authors": [
+          "Gregory J. Duck",
+          "Roland H. C. Yap"
+        ]
+      },
+      {
+        "title": "Register allocation and promotion through combined instruction scheduling and loop unrolling.",
+        "authors": [
+          "Lukasz Domagala",
+          "Duco van Amstel",
+          "Fabrice Rastello",
+          "P. Sadayappan"
+        ]
+      },
+      {
+        "title": "On fusing recursive traversals of K-d trees.",
+        "authors": [
+          "Samyam Rajbhandari",
+          "Jinsung Kim",
+          "Sriram Krishnamoorthy",
+          "Louis-Noël Pouchet",
+          "Fabrice Rastello",
+          "Robert J. Harrison",
+          "P. Sadayappan"
+        ]
+      },
+      {
+        "title": "Restrictification of function arguments.",
+        "authors": [
+          "Victor Hugo Sperle Campos",
+          "Péricles Rafael Oliveira Alves",
+          "Henrique Nazaré Santos",
+          "Fernando Magno Quintão Pereira"
+        ]
+      },
+      {
+        "title": "Static deadlock detection for concurrent go by global session graph synthesis.",
+        "authors": [
+          "Nicholas Ng",
+          "Nobuko Yoshida"
+        ]
+      },
+      {
+        "title": "Static detection of energy defect patterns in Android applications.",
+        "authors": [
+          "Haowei Wu",
+          "Shengqian Yang",
+          "Atanas Rountev"
+        ]
+      },
+      {
+        "title": "On fast large-scale program analysis in Datalog.",
+        "authors": [
+          "Bernhard Scholz",
+          "Herbert Jordan",
+          "Pavle Subotic",
+          "Till Westmann"
+        ]
+      },
+      {
+        "title": "Improved MHP Analysis.",
+        "authors": [
+          "Aravind Sankar",
+          "Soham Chakraborty",
+          "V. Krishna Nandivada"
+        ]
+      },
+      {
+        "title": "Extended lattice-based memory allocation.",
+        "authors": [
+          "Alain Darte",
+          "Alexandre Isoard",
+          "Tomofumi Yuki"
+        ]
+      },
+      {
+        "title": "Mapping deviation: a technique to adapt or to guard loop transformation intuitions for legality.",
+        "authors": [
+          "Cédric Bastoul"
+        ]
+      },
+      {
+        "title": "Automatic data layout generation and kernel mapping for CPU+GPU architectures.",
+        "authors": [
+          "Deepak Majeti",
+          "Kuldeep S. Meel",
+          "Rajkishore Barik",
+          "Vivek Sarkar"
+        ]
+      },
+      {
+        "title": "Input space splitting for OpenCL.",
+        "authors": [
+          "Simon Moll",
+          "Johannes Doerfert",
+          "Sebastian Hack"
+        ]
+      },
+      {
+        "title": "GreenThumb: superoptimizer construction framework.",
+        "authors": [
+          "Phitchaya Mangpo Phothilimthana",
+          "Aditya Thakur",
+          "Rastislav Bodík",
+          "Dinakar Dhurjati"
+        ]
+      },
+      {
+        "title": "Register allocation and instruction scheduling in Unison.",
+        "authors": [
+          "Roberto Castañeda Lozano",
+          "Mats Carlsson",
+          "Gabriel Hjort Blindell",
+          "Christian Schulte"
+        ]
+      },
+      {
+        "title": "SVF: interprocedural static value-flow analysis in LLVM.",
+        "authors": [
+          "Yulei Sui",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "Iguana: a practical data-dependent parsing framework.",
+        "authors": [
+          "Ali Afroozeh",
+          "Anastasia Izmaylova"
+        ]
+      },
+      {
+        "title": "SYCO: a systematic testing tool for concurrent objects.",
+        "authors": [
+          "Elvira Albert",
+          "Miguel Gómez-Zamalloa",
+          "Miguel Isabel"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2015.html": {
+    "header": "24th CC 2015: London, UK",
+    "year": "2015",
+    "papers": [
+      {
+        "title": "A Graphical Model for Context-Free Grammar Parsing.",
+        "authors": [
+          "Keshav Pingali",
+          "Gianfranco Bilardi"
+        ]
+      },
+      {
+        "title": "A Refactoring Library for Scala Compiler Extensions.",
+        "authors": [
+          "Amanj Sherwany",
+          "Nosheen Zaza",
+          "Nathaniel Nystrom"
+        ]
+      },
+      {
+        "title": "Feature-Specific Profiling.",
+        "authors": [
+          "Vincent St-Amour",
+          "Leif Andersen",
+          "Matthias Felleisen"
+        ]
+      },
+      {
+        "title": "A Synchronous-Based Code Generator for Explicit Hybrid Systems Languages.",
+        "authors": [
+          "Timothy Bourke",
+          "Jean-Louis Colaço",
+          "Bruno Pagano",
+          "Cédric Pasteur",
+          "Marc Pouzet"
+        ]
+      },
+      {
+        "title": "Faster, Practical GLL Parsing.",
+        "authors": [
+          "Ali Afroozeh",
+          "Anastasia Izmaylova"
+        ]
+      },
+      {
+        "title": "A Backend Extension Mechanism for PQL/Java with Free Run-Time Optimisation.",
+        "authors": [
+          "Hilmar Ackermann",
+          "Christoph Reichenbach",
+          "Christian Müller",
+          "Yannis Smaragdakis"
+        ]
+      },
+      {
+        "title": "Staged Points-to Analysis for Large Code Bases.",
+        "authors": [
+          "Nicholas Allen",
+          "Bernhard Scholz",
+          "Padmanabhan Krishnan"
+        ]
+      },
+      {
+        "title": "Exact and Approximated Data-Reuse Optimizations for Tiling with Parametric Sizes.",
+        "authors": [
+          "Alain Darte",
+          "Alexandre Isoard"
+        ]
+      },
+      {
+        "title": "Optgen: A Generator for Local Optimizations.",
+        "authors": [
+          "Sebastian Buchwald"
+        ]
+      },
+      {
+        "title": "Towards a Scalable Framework for Context-Free Language Reachability.",
+        "authors": [
+          "Nicholas Hollingum",
+          "Bernhard Scholz"
+        ]
+      },
+      {
+        "title": "Protocols by Default - Safe MPI Code Generation Based on Session Types.",
+        "authors": [
+          "Nicholas Ng",
+          "José Gabriel de Figueiredo Coutinho",
+          "Nobuko Yoshida"
+        ]
+      },
+      {
+        "title": "Verifying Fast and Sparse SSA-Based Optimizations in Coq.",
+        "authors": [
+          "Delphine Demange",
+          "David Pichardie",
+          "Léo Stefanesco"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2014.html": {
+    "header": "23th CC 2014:\nGrenoble, France",
+    "year": "2014",
+    "papers": [
+      {
+        "title": "Using the SSA-Form in a Code Generator.",
+        "authors": [
+          "Benoît Dupont de Dinechin"
+        ]
+      },
+      {
+        "title": "Parameterized Construction of Program Representations for Sparse Dataflow Analyses.",
+        "authors": [
+          "André Luiz Camargos Tavares",
+          "Benoit Boissinot",
+          "Fernando Magno Quintão Pereira",
+          "Fabrice Rastello"
+        ]
+      },
+      {
+        "title": "Inter-iteration Scalar Replacement Using Array SSA Form.",
+        "authors": [
+          "Rishi Surendran",
+          "Rajkishore Barik",
+          "Jisheng Zhao",
+          "Vivek Sarkar"
+        ]
+      },
+      {
+        "title": "Recovery of Class Hierarchies and Composition Relationships from Machine Code.",
+        "authors": [
+          "Venkatesh Srinivasan",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Liveness-Based Garbage Collection.",
+        "authors": [
+          "Rahul Asati",
+          "Amitabha Sanyal",
+          "Amey Karkare",
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "deGoal a Tool to Embed Dynamic Code Generators into Applications.",
+        "authors": [
+          "Henri-Pierre Charles",
+          "Damien Couroussé",
+          "Victor Lomüller",
+          "Fernando Akira Endo",
+          "Rémy Gauguey"
+        ]
+      },
+      {
+        "title": "Improving the Performance of X10 Programs by Clock Removal.",
+        "authors": [
+          "Paul Feautrier",
+          "Eric Violard",
+          "Alain Ketterlin"
+        ]
+      },
+      {
+        "title": "Taming Control Divergence in GPUs through Control Flow Linearization.",
+        "authors": [
+          "Jayvant Anantpur",
+          "R. Govindarajan"
+        ]
+      },
+      {
+        "title": "Exploitation of GPUs for the Parallelisation of Probably Parallel Legacy Code.",
+        "authors": [
+          "Zheng Wang",
+          "Daniel Christopher Powell",
+          "Björn Franke",
+          "Michael F. P. O'Boyle"
+        ]
+      },
+      {
+        "title": "A Flexible and Efficient ML Lexer Tool Based on Extended Regular Expression Submatching.",
+        "authors": [
+          "Martin Sulzmann",
+          "Pippijn van Steenhoven"
+        ]
+      },
+      {
+        "title": "The PAPAGENO Parallel-Parser Generator.",
+        "authors": [
+          "Alessandro Barenghi",
+          "Stefano Crespi-Reghizzi",
+          "Dino Mandrioli",
+          "Federica Panella",
+          "Matteo Pradella"
+        ]
+      },
+      {
+        "title": "String Analysis for Dynamic Field Access.",
+        "authors": [
+          "Magnus Madsen",
+          "Esben Andreasen"
+        ]
+      },
+      {
+        "title": "Addressing JavaScript JIT Engines Performance Quirks: A Crowdsourced Adaptive Compiler.",
+        "authors": [
+          "Rafael Auler",
+          "Edson Borin",
+          "Peli de Halleux",
+          "Michal Moskal",
+          "Nikolai Tillmann"
+        ]
+      },
+      {
+        "title": "A First Step towards a Compiler for Business Processes.",
+        "authors": [
+          "Thomas M. Prinz",
+          "Norbert Spieß",
+          "Wolfram Amme"
+        ]
+      },
+      {
+        "title": "CBMC-GC: An ANSI C Compiler for Secure Two-Party Computations.",
+        "authors": [
+          "Martin Franz",
+          "Andreas Holzer",
+          "Stefan Katzenbeisser",
+          "Christian Schallhart",
+          "Helmut Veith"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2013.html": {
+    "header": "22th CC 2013: Rome, Italy",
+    "year": "2013",
+    "papers": [
+      {
+        "title": "Optimal Register Allocation in Polynomial Time.",
+        "authors": [
+          "Philipp Klaus Krause"
+        ]
+      },
+      {
+        "title": "Optimal and Heuristic Global Code Motion for Minimal Spilling.",
+        "authors": [
+          "Gergö Barany",
+          "Andreas Krall"
+        ]
+      },
+      {
+        "title": "Efficient and Effective Handling of Exceptions in Java Points-to Analysis.",
+        "authors": [
+          "George Kastrinis",
+          "Yannis Smaragdakis"
+        ]
+      },
+      {
+        "title": "An Incremental Points-to Analysis with CFL-Reachability.",
+        "authors": [
+          "Yi Lu",
+          "Lei Shang",
+          "Xinwei Xie",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "FESA: Fold- and Expand-Based Shape Analysis.",
+        "authors": [
+          "Holger Siegel",
+          "Axel Simon"
+        ]
+      },
+      {
+        "title": "Simple and Efficient Construction of Static Single Assignment Form.",
+        "authors": [
+          "Matthias Braun",
+          "Sebastian Buchwald",
+          "Sebastian Hack",
+          "Roland Leißa",
+          "Christoph Mallon",
+          "Andreas Zwinkau"
+        ]
+      },
+      {
+        "title": "PolyGLoT: A Polyhedral Loop Transformation Framework for a Graphical Dataflow Language.",
+        "authors": [
+          "Somashekaracharya G. Bhaskaracharya",
+          "Uday Bondhugula"
+        ]
+      },
+      {
+        "title": "Architecture-Independent Dynamic Information Flow Tracking.",
+        "authors": [
+          "Ryan Whelan",
+          "Tim Leek",
+          "David R. Kaeli"
+        ]
+      },
+      {
+        "title": "On the Determination of Inlining Vectors for Program Optimization.",
+        "authors": [
+          "Rosario Cammarota",
+          "Alexandru Nicolau",
+          "Alexander V. Veidenbaum",
+          "Arun Kejariwal",
+          "Debora Donato",
+          "Mukund Madhugiri"
+        ]
+      },
+      {
+        "title": "Automatic Generation of Program Affinity Policies Using Machine Learning.",
+        "authors": [
+          "Ryan W. Moore",
+          "Bruce R. Childers"
+        ]
+      },
+      {
+        "title": "Compiler-Guided Identification of Critical Sections in Parallel Code.",
+        "authors": [
+          "Stefan Kempf",
+          "Ronald Veldema",
+          "Michael Philippsen"
+        ]
+      },
+      {
+        "title": "Refactoring MATLAB.",
+        "authors": [
+          "Soroush Radpour",
+          "Laurie J. Hendren",
+          "Max Schäfer"
+        ]
+      },
+      {
+        "title": "On LR Parsing with Selective Delays.",
+        "authors": [
+          "Eberhard Bertsch",
+          "Mark-Jan Nederhof",
+          "Sylvain Schmitz"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2012.html": {
+    "header": "21th CC 2012: Tallinn, Estonia",
+    "year": "2012",
+    "papers": [
+      {
+        "title": "Improving Performance of OpenCL on CPUs.",
+        "authors": [
+          "Ralf Karrenberg",
+          "Sebastian Hack"
+        ]
+      },
+      {
+        "title": "Automatic Restructuring of GPU Kernels for Exploiting Inter-thread Data Locality.",
+        "authors": [
+          "Swapneela Unkule",
+          "Christopher Shaltz",
+          "Apan Qasem"
+        ]
+      },
+      {
+        "title": "Programming Paradigm Driven Heap Analysis.",
+        "authors": [
+          "Mark Marron",
+          "Ondrej Lhoták",
+          "Anindya Banerjee"
+        ]
+      },
+      {
+        "title": "Parallel Replication-Based Points-To Analysis.",
+        "authors": [
+          "Sandeep Putta",
+          "Rupesh Nasre"
+        ]
+      },
+      {
+        "title": "A New Method for Program Inversion.",
+        "authors": [
+          "Cong Hou",
+          "George Vulov",
+          "Daniel J. Quinlan",
+          "David R. Jefferson",
+          "Richard Fujimoto",
+          "Richard W. Vuduc"
+        ]
+      },
+      {
+        "title": "Analytical Bounds for Optimal Tile Size Selection.",
+        "authors": [
+          "Jun Shirako",
+          "Kamal Sharma",
+          "Naznin Fauzia",
+          "Louis-Noël Pouchet",
+          "J. Ramanujam",
+          "P. Sadayappan",
+          "Vivek Sarkar"
+        ]
+      },
+      {
+        "title": "Static Detection of Unsafe Component Loadings.",
+        "authors": [
+          "Taeho Kwon",
+          "Zhendong Su"
+        ]
+      },
+      {
+        "title": "Object Model Construction for Inheritance in C++ and Its Applications to Program Analysis.",
+        "authors": [
+          "Jing Yang",
+          "Gogul Balakrishnan",
+          "Naoto Maeda",
+          "Franjo Ivancic",
+          "Aarti Gupta",
+          "Nishant Sinha",
+          "Sriram Sankaranarayanan",
+          "Naveen Sharma"
+        ]
+      },
+      {
+        "title": "GC-Safe Interprocedural Unboxing.",
+        "authors": [
+          "Leaf Petersen",
+          "Neal Glew"
+        ]
+      },
+      {
+        "title": "Compiler Support for Value-Based Indirect Branch Prediction.",
+        "authors": [
+          "Muhammad Umar Farooq",
+          "Lei Chen",
+          "Lizy Kurian John"
+        ]
+      },
+      {
+        "title": "Compiler Support for Fine-Grain Software-Only Checkpointing.",
+        "authors": [
+          "Chuck (Chengyan) Zhao",
+          "J. Gregory Steffan",
+          "Cristiana Amza",
+          "Allan Kielstra"
+        ]
+      },
+      {
+        "title": "VMAD: An Advanced Dynamic Program Analysis and Instrumentation Framework.",
+        "authors": [
+          "Alexandra Jimborean",
+          "Luis Mastrangelo",
+          "Vincent Loechner",
+          "Philippe Clauss"
+        ]
+      },
+      {
+        "title": "Sambamba: A Runtime System for Online Adaptive Parallelization.",
+        "authors": [
+          "Kevin Streit",
+          "Clemens Hammacher",
+          "Andreas Zeller",
+          "Sebastian Hack"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2011.html": {
+    "header": "20th CC 2011: Saarbrücken, Germany",
+    "year": "2011",
+    "papers": [
+      {
+        "title": "Future-Proofing Collections: From Mutable to Persistent to Parallel.",
+        "authors": [
+          "Martin Odersky"
+        ]
+      },
+      {
+        "title": "Dynamic Elimination of Overflow Tests in a Trace Compiler.",
+        "authors": [
+          "Rodrigo Sol",
+          "Christophe Guillon",
+          "Fernando Magno Quintão Pereira",
+          "Mariza Andrade da Silva Bigonha"
+        ]
+      },
+      {
+        "title": "Staged Static Techniques to Efficiently Implement Array Copy Semantics in a MATLAB JIT Compiler.",
+        "authors": [
+          "Nurudeen Lameed",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "SSA-Based Register Allocation with PBQP.",
+        "authors": [
+          "Sebastian Buchwald",
+          "Andreas Zwinkau",
+          "Thomas Bersch"
+        ]
+      },
+      {
+        "title": "Probabilistic Points-to Analysis for Java.",
+        "authors": [
+          "Qiang Sun",
+          "Jianjun Zhao",
+          "Yuting Chen"
+        ]
+      },
+      {
+        "title": "Faster Alias Set Analysis Using Summaries.",
+        "authors": [
+          "Nomair A. Naeem",
+          "Ondrej Lhoták"
+        ]
+      },
+      {
+        "title": "JPure: A Modular Purity System for Java.",
+        "authors": [
+          "David J. Pearce"
+        ]
+      },
+      {
+        "title": "Tainted Flow Analysis on e-SSA-Form Programs.",
+        "authors": [
+          "Andrei Rimsa",
+          "Marcelo d'Amorim",
+          "Fernando Magno Quintão Pereira"
+        ]
+      },
+      {
+        "title": "Clean Translation of an Imperative Reversible Programming Language.",
+        "authors": [
+          "Holger Bock Axelsen"
+        ]
+      },
+      {
+        "title": "Interpreter Instruction Scheduling.",
+        "authors": [
+          "Stefan Brunthaler"
+        ]
+      },
+      {
+        "title": "Actor-Based Parallel Dataflow Analysis.",
+        "authors": [
+          "Jonathan Rodriguez",
+          "Ondrej Lhoták"
+        ]
+      },
+      {
+        "title": "Using Disjoint Reachability for Parallelization.",
+        "authors": [
+          "James Christopher Jenista",
+          "Yong Hun Eom",
+          "Brian Demsky"
+        ]
+      },
+      {
+        "title": "Data Layout Transformation for Stencil Computations on Short-Vector SIMD Architectures.",
+        "authors": [
+          "Thomas Henretty",
+          "Kevin Stock",
+          "Louis-Noël Pouchet",
+          "Franz Franchetti",
+          "J. Ramanujam",
+          "P. Sadayappan"
+        ]
+      },
+      {
+        "title": "Subregion Analysis and Bounds Check Elimination for High Level Arrays.",
+        "authors": [
+          "Mackale Joyner",
+          "Zoran Budimlic",
+          "Vivek Sarkar"
+        ]
+      },
+      {
+        "title": "Practical Loop Transformations for Tensor Contraction Expressions on Multi-level Memory Hierarchies.",
+        "authors": [
+          "Wenjing Ma",
+          "Sriram Krishnamoorthy",
+          "Gagan Agrawal"
+        ]
+      },
+      {
+        "title": "A Static Task Partitioning Approach for Heterogeneous Systems Using OpenCL.",
+        "authors": [
+          "Dominik Grewe",
+          "Michael F. P. O'Boyle"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2010.html": {
+    "header": "19th CC 2010: Paphos, Cyprus",
+    "year": "2010",
+    "papers": [
+      {
+        "title": "Programming Clouds.",
+        "authors": [
+          "James R. Larus"
+        ]
+      },
+      {
+        "title": "Mining Opportunities for Code Improvement in a Just-In-Time Compiler.",
+        "authors": [
+          "Adam Jocksch",
+          "Marcel Mitran",
+          "Joran Siu",
+          "Nikola Grcevski",
+          "José Nelson Amaral"
+        ]
+      },
+      {
+        "title": "Unrestricted Code Motion: A Program Representation and Transformation Algorithms Based on Future Values.",
+        "authors": [
+          "Shuhan Ding",
+          "Soner Önder"
+        ]
+      },
+      {
+        "title": "Optimizing Matlab through Just-In-Time Specialization.",
+        "authors": [
+          "Maxime Chevalier-Boisvert",
+          "Laurie J. Hendren",
+          "Clark Verbrugge"
+        ]
+      },
+      {
+        "title": "RATA: Rapid Atomic Type Analysis by Abstract Interpretation - Application to JavaScript Optimization.",
+        "authors": [
+          "Francesco Logozzo",
+          "Herman Venter"
+        ]
+      },
+      {
+        "title": "JReq: Database Queries in Imperative Languages.",
+        "authors": [
+          "Ming-Yee Iu",
+          "Emmanuel Cecchet",
+          "Willy Zwaenepoel"
+        ]
+      },
+      {
+        "title": "Verifying Local Transformations on Relaxed Memory Models.",
+        "authors": [
+          "Sebastian Burckhardt",
+          "Madanlal Musuvathi",
+          "Vasu Singh"
+        ]
+      },
+      {
+        "title": "Practical Extensions to the IFDS Algorithm.",
+        "authors": [
+          "Nomair A. Naeem",
+          "Ondrej Lhoták",
+          "Jonathan Rodriguez"
+        ]
+      },
+      {
+        "title": "Using Ownership to Reason about Inherent Parallelism in Object-Oriented Programs.",
+        "authors": [
+          "Andrew Craik",
+          "Wayne Kelly"
+        ]
+      },
+      {
+        "title": "Punctual Coalescing.",
+        "authors": [
+          "Fernando Magno Quintão Pereira",
+          "Jens Palsberg"
+        ]
+      },
+      {
+        "title": "Strategies for Predicate-Aware Register Allocation.",
+        "authors": [
+          "Gerolf Hoflehner"
+        ]
+      },
+      {
+        "title": "Preference-Guided Register Assignment.",
+        "authors": [
+          "Matthias Braun",
+          "Christoph Mallon",
+          "Sebastian Hack"
+        ]
+      },
+      {
+        "title": "Validating Register Allocation and Spilling.",
+        "authors": [
+          "Silvain Rideau",
+          "Xavier Leroy"
+        ]
+      },
+      {
+        "title": "Automatic C-to-CUDA Code Generation for Affine Programs.",
+        "authors": [
+          "Muthu Manikandan Baskaran",
+          "J. Ramanujam",
+          "P. Sadayappan"
+        ]
+      },
+      {
+        "title": "Is Reuse Distance Applicable to Data Locality Analysis on Chip Multiprocessors?",
+        "authors": [
+          "Yunlian Jiang",
+          "Eddy Z. Zhang",
+          "Kai Tian",
+          "Xipeng Shen"
+        ]
+      },
+      {
+        "title": "The Polyhedral Model Is More Widely Applicable Than You Think.",
+        "authors": [
+          "Mohamed-Walid Benabderrahmane",
+          "Louis-Noël Pouchet",
+          "Albert Cohen",
+          "Cédric Bastoul"
+        ]
+      },
+      {
+        "title": "The Hot Path SSA Form: Extending the Static Single Assignment Form for Speculative Optimizations.",
+        "authors": [
+          "Subhajit Roy",
+          "Y. N. Srikant"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2009.html": {
+    "header": "18th CC 2009: York, UK",
+    "year": "2009",
+    "papers": [
+      {
+        "title": "Challenges in Code Optimization of Parallel Programs.",
+        "authors": [
+          "Vivek Sarkar"
+        ]
+      },
+      {
+        "title": "Extensible Proof-Producing Compilation.",
+        "authors": [
+          "Magnus O. Myreen",
+          "Konrad Slind",
+          "Michael J. C. Gordon"
+        ]
+      },
+      {
+        "title": "From Specification to Optimisation: An Architecture for Optimisation of Java Bytecode.",
+        "authors": [
+          "Richard Warburton",
+          "Sara Kalvala"
+        ]
+      },
+      {
+        "title": "A Framework for Exploring Optimization Properties.",
+        "authors": [
+          "Min Zhao",
+          "Bruce R. Childers",
+          "Mary Lou Soffa"
+        ]
+      },
+      {
+        "title": "Compile-Time Analysis and Specialization of Clocks in Concurrent Programs.",
+        "authors": [
+          "Nalini Vasudevan",
+          "Olivier Tardieu",
+          "Julian Dolby",
+          "Stephen A. Edwards"
+        ]
+      },
+      {
+        "title": "Implementation and Use of Transactional Memory with Dynamic Separation.",
+        "authors": [
+          "Martín Abadi",
+          "Andrew Birrell",
+          "Tim Harris",
+          "Johnson Hsieh",
+          "Michael Isard"
+        ]
+      },
+      {
+        "title": "Exploiting Speculative TLP in Recursive Programs by Dynamic Thread Prediction.",
+        "authors": [
+          "Lin Gao",
+          "Lian Li",
+          "Jingling Xue",
+          "Tin-Fook Ngai"
+        ]
+      },
+      {
+        "title": "Live Debugging of Distributed Systems.",
+        "authors": [
+          "Darren Dao",
+          "Jeannie R. Albrecht",
+          "Charles Killian",
+          "Amin Vahdat"
+        ]
+      },
+      {
+        "title": "Parsing C/C++ Code without Pre-processing.",
+        "authors": [
+          "Yoann Padioleau"
+        ]
+      },
+      {
+        "title": "Faster Scannerless GLR Parsing.",
+        "authors": [
+          "Giorgios Economopoulos",
+          "Paul Klint",
+          "Jurgen J. Vinju"
+        ]
+      },
+      {
+        "title": "Decorated Attribute Grammars: Attribute Evaluation Meets Strategic Programming.",
+        "authors": [
+          "Lennart C. L. Kats",
+          "Anthony M. Sloane",
+          "Eelco Visser"
+        ]
+      },
+      {
+        "title": "SSA Elimination after Register Allocation.",
+        "authors": [
+          "Fernando Magno Quintão Pereira",
+          "Jens Palsberg"
+        ]
+      },
+      {
+        "title": "Register Spilling and Live-Range Splitting for SSA-Form Programs.",
+        "authors": [
+          "Matthias Braun",
+          "Sebastian Hack"
+        ]
+      },
+      {
+        "title": "Loop-Aware Instruction Scheduling with Dynamic Contention Tracking for Tiled Dataflow Architectures.",
+        "authors": [
+          "Muhammad Umar Farooq",
+          "Lizy K. John"
+        ]
+      },
+      {
+        "title": "Scheduling Tasks to Maximize Usage of Aggregate Variables in Place.",
+        "authors": [
+          "Samah Abu-Mahmeed",
+          "Cheryl McCosh",
+          "Zoran Budimlic",
+          "Ken Kennedy",
+          "Kaushik Ravindran",
+          "Kevin Hogan",
+          "Paul Austin",
+          "Steve Rogers",
+          "Jacob Kornerup"
+        ]
+      },
+      {
+        "title": "Dynamic Look Ahead Compilation: A Technique to Hide JIT Compilation Latencies in Multicore Environment.",
+        "authors": [
+          "Simone Campanoni",
+          "Martino Sykora",
+          "Giovanni Agosta",
+          "Stefano Crespi-Reghizzi"
+        ]
+      },
+      {
+        "title": "Precise Management of Scratchpad Memories for Localising Array Accesses in Scientific Codes.",
+        "authors": [
+          "Armin Größlinger"
+        ]
+      },
+      {
+        "title": "Blind Optimization for Exploiting Hardware Features.",
+        "authors": [
+          "Dan Knights",
+          "Todd Mytkowicz",
+          "Peter F. Sweeney",
+          "Michael C. Mozer",
+          "Amer Diwan"
+        ]
+      },
+      {
+        "title": "How to CPS Transform a Monad.",
+        "authors": [
+          "Annette Bieniusa",
+          "Peter Thiemann"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2008.html": {
+    "header": "17th CC 2008: Budapest, Hungary",
+    "year": "2008",
+    "papers": [
+      {
+        "title": "Design Choices in a Compiler Course or How to Make Undergraduates Love Formal Notation.",
+        "authors": [
+          "Michael I. Schwartzbach"
+        ]
+      },
+      {
+        "title": "Improved Memory-Access Analysis for x86 Executables.",
+        "authors": [
+          "Thomas W. Reps",
+          "Gogul Balakrishnan"
+        ]
+      },
+      {
+        "title": "A System for Generating Static Analyzers for Machine Instructions.",
+        "authors": [
+          "Junghee Lim",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "IDE Dataflow Analysis in the Presence of Large Object-Oriented Libraries.",
+        "authors": [
+          "Atanas Rountev",
+          "Mariana Sharp",
+          "Guoqing Xu"
+        ]
+      },
+      {
+        "title": "An Adaptive Strategy for Inline Substitution.",
+        "authors": [
+          "Keith D. Cooper",
+          "Timothy J. Harvey",
+          "Todd Waterman"
+        ]
+      },
+      {
+        "title": "Automatic Transformation of Bit-Level C Code to Support Multiple Equivalent Data Layouts.",
+        "authors": [
+          "Marius Nita",
+          "Dan Grossman"
+        ]
+      },
+      {
+        "title": "Control Flow Emulation on Tiled SIMD Architectures.",
+        "authors": [
+          "Ghulam Lashari",
+          "Ondrej Lhoták",
+          "Michael McCool"
+        ]
+      },
+      {
+        "title": "Generating SIMD Vectorized Permutations.",
+        "authors": [
+          "Franz Franchetti",
+          "Markus Püschel"
+        ]
+      },
+      {
+        "title": "Automatic Transformations for Communication-Minimized Parallelization and Locality Optimization in the Polyhedral Model.",
+        "authors": [
+          "Uday Bondhugula",
+          "Muthu Manikandan Baskaran",
+          "Sriram Krishnamoorthy",
+          "J. Ramanujam",
+          "Atanas Rountev",
+          "P. Sadayappan"
+        ]
+      },
+      {
+        "title": "How to Do a Million Watchpoints: Efficient Debugging Using Dynamic Instrumentation.",
+        "authors": [
+          "Qin Zhao",
+          "Rodric M. Rabbah",
+          "Saman P. Amarasinghe",
+          "Larry Rudolph",
+          "Weng-Fai Wong"
+        ]
+      },
+      {
+        "title": "Compiler-Guaranteed Safety in Code-Copying Virtual Machines.",
+        "authors": [
+          "Gregory B. Prokopski",
+          "Clark Verbrugge"
+        ]
+      },
+      {
+        "title": "Hardware JIT Compilation for Off-the-Shelf Dynamically Reconfigurable FPGAs.",
+        "authors": [
+          "Etienne Bergeron",
+          "Marc Feeley",
+          "Jean-Pierre David"
+        ]
+      },
+      {
+        "title": "Visualization of Program Dependence Graphs.",
+        "authors": [
+          "Thomas Würthinger",
+          "Christian Wimmer",
+          "Hanspeter Mössenböck"
+        ]
+      },
+      {
+        "title": "On the Relative Completeness of Bytecode Analysis Versus Source Code Analysis.",
+        "authors": [
+          "Francesco Logozzo",
+          "Manuel Fähndrich"
+        ]
+      },
+      {
+        "title": "Efficiency, Precision, Simplicity, and Generality in Interprocedural Data Flow Analysis: Resurrecting the Classical Call Strings Method.",
+        "authors": [
+          "Uday P. Khedker",
+          "Bageshri Karkare"
+        ]
+      },
+      {
+        "title": "Java Bytecode Verification for @NonNull Types.",
+        "authors": [
+          "Chris Male",
+          "David J. Pearce",
+          "Alex Potanin",
+          "Constantine Dymnikov"
+        ]
+      },
+      {
+        "title": "Efficient Context-Sensitive Shape Analysis with Graph Based Heap Models.",
+        "authors": [
+          "Mark Marron",
+          "Manuel V. Hermenegildo",
+          "Deepak Kapur",
+          "Darko Stefanovic"
+        ]
+      },
+      {
+        "title": "Coqa: Concurrent Objects with Quantized Atomicity.",
+        "authors": [
+          "Yu David Liu",
+          "Xiaoqi Lu",
+          "Scott F. Smith"
+        ]
+      },
+      {
+        "title": "Keep Off the Grass: Locking the Right Path for Atomicity.",
+        "authors": [
+          "Dave Cunningham",
+          "Khilan Gudka",
+          "Susan Eisenbach"
+        ]
+      },
+      {
+        "title": "Supporting Legacy Binary Code in a Software Transaction Compiler with Dynamic Binary Translation and Optimization.",
+        "authors": [
+          "Cheng Wang",
+          "Victor Ying",
+          "Youfeng Wu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2007.html": {
+    "header": "16th CC 2007: Braga, Portugal",
+    "year": "2007",
+    "papers": [
+      {
+        "title": "New Algorithms for SIMD Alignment.",
+        "authors": [
+          "Liza Fireman",
+          "Erez Petrank",
+          "Ayal Zaks"
+        ]
+      },
+      {
+        "title": "Preprocessing Strategy for Effective Modulo Scheduling on Multi-issue Digital Signal Processors.",
+        "authors": [
+          "Doosan Cho",
+          "Ravi Ayyagari",
+          "Gang-Ryung Uh",
+          "Yunheung Paek"
+        ]
+      },
+      {
+        "title": "An Array Allocation Scheme for Energy Reduction in Partitioned Memory Architectures.",
+        "authors": [
+          "K. Shyam",
+          "R. Govindarajan"
+        ]
+      },
+      {
+        "title": "Using Prefetching to Improve Reference-Counting Garbage Collectors.",
+        "authors": [
+          "Harel Paz",
+          "Erez Petrank"
+        ]
+      },
+      {
+        "title": "Accurate Garbage Collection in Uncooperative Environments with Lazy Pointer Stacks.",
+        "authors": [
+          "Jason Baker",
+          "Antonio Cunei",
+          "Filip Pizlo",
+          "Jan Vitek"
+        ]
+      },
+      {
+        "title": "Correcting the Dynamic Call Graph Using Control-Flow Constraints.",
+        "authors": [
+          "Byeongcheol Lee",
+          "Kevin Resnick",
+          "Michael D. Bond",
+          "Kathryn S. McKinley"
+        ]
+      },
+      {
+        "title": "Obfuscating Java: The Most Pain for the Least Gain.",
+        "authors": [
+          "Michael Batchelder",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "A Fast Cutting-Plane Algorithm for Optimal Coalescing.",
+        "authors": [
+          "Daniel Grund",
+          "Sebastian Hack"
+        ]
+      },
+      {
+        "title": "Register Allocation and Optimal Spill Code Scheduling in Software Pipelined Loops Using 0-1 Integer Linear Programming Formulation.",
+        "authors": [
+          "Santosh Nagarakatte",
+          "R. Govindarajan"
+        ]
+      },
+      {
+        "title": "Extended Linear Scan: An Alternate Foundation for Global Register Allocation.",
+        "authors": [
+          "Vivek Sarkar",
+          "Rajkishore Barik"
+        ]
+      },
+      {
+        "title": "Program Refactoring, Program Synthesis, and Model-Driven Development.",
+        "authors": [
+          "Don S. Batory"
+        ]
+      },
+      {
+        "title": "A Practical Escape and Effect Analysis for Building Lightweight Method Summaries.",
+        "authors": [
+          "Sigmund Cherem",
+          "Radu Rugina"
+        ]
+      },
+      {
+        "title": "Layout Transformations for Heap Objects Using Static Access Patterns.",
+        "authors": [
+          "Jinseong Jeon",
+          "Keoncheol Shin",
+          "Hwansoo Han"
+        ]
+      },
+      {
+        "title": "A New Elimination-Based Data Flow Analysis Framework Using Annotated Decomposition Trees.",
+        "authors": [
+          "Bernhard Scholz",
+          "Johann Blieberger"
+        ]
+      },
+      {
+        "title": "A Declarative Framework for Analysis and Optimization.",
+        "authors": [
+          "Henry Falconer",
+          "Paul H. J. Kelly",
+          "David M. Ingram",
+          "Michael R. Mellor",
+          "Tony Field",
+          "Olav Beckmann"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2006.html": {
+    "header": "15th CC 2006: Vienna, Austria",
+    "year": "2006",
+    "papers": [
+      {
+        "title": "Using Dependent Types to Port Type Systems to Low-Level Languages.",
+        "authors": [
+          "George C. Necula"
+        ]
+      },
+      {
+        "title": "Interprocedural Dataflow Analysis in the Presence of Large Libraries.",
+        "authors": [
+          "Atanas Rountev",
+          "Scott Kagan",
+          "Thomas J. Marlowe"
+        ]
+      },
+      {
+        "title": "Efficient Flow-Sensitive Interprocedural Data-Flow Analysis in the Presence of Pointers.",
+        "authors": [
+          "Teck Bok Tok",
+          "Samuel Z. Guyer",
+          "Calvin Lin"
+        ]
+      },
+      {
+        "title": "Path-Based Reuse Distance Analysis.",
+        "authors": [
+          "Changpeng Fang",
+          "Steve Carr",
+          "Soner Önder",
+          "Zhenlin Wang"
+        ]
+      },
+      {
+        "title": "Context-Sensitive Points-to Analysis: Is It Worth It?.",
+        "authors": [
+          "Ondrej Lhoták",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "Selective Runtime Memory Disambiguation in a Dynamic Binary Translator.",
+        "authors": [
+          "Bolei Guo",
+          "Youfeng Wu",
+          "Cheng Wang",
+          "Matthew J. Bridges",
+          "Guilherme Ottoni",
+          "Neil Vachharajani",
+          "Jonathan Chang",
+          "David I. August"
+        ]
+      },
+      {
+        "title": "Accurately Choosing Execution Runs for Software Fault Localization.",
+        "authors": [
+          "Liang Guo",
+          "Abhik Roychoudhury",
+          "Tao Wang"
+        ]
+      },
+      {
+        "title": "Demonstration: On-Line Visualization and Analysis of Real-Time Systems with TuningFork.",
+        "authors": [
+          "David F. Bacon",
+          "Perry Cheng",
+          "Daniel Frampton",
+          "David Grove",
+          "Matthias Hauswirth",
+          "V. T. Rajan"
+        ]
+      },
+      {
+        "title": "Data-Flow Analysis as Model Checking Within the jABC.",
+        "authors": [
+          "Anna-Lena Lamprecht",
+          "Tiziana Margaria",
+          "Bernhard Steffen"
+        ]
+      },
+      {
+        "title": "The CGiS Compiler-A Tool Demonstration.",
+        "authors": [
+          "Philipp Lucas",
+          "Nicolas Fritz",
+          "Reinhard Wilhelm"
+        ]
+      },
+      {
+        "title": "Loop Transformations in the Ahead-of-Time Optimization of Java Bytecode.",
+        "authors": [
+          "Simon D. Hammond",
+          "David Lacey"
+        ]
+      },
+      {
+        "title": "Hybrid Optimizations: Which Optimization Algorithm to Use?.",
+        "authors": [
+          "John Cavazos",
+          "J. Eliot B. Moss",
+          "Michael F. P. O'Boyle"
+        ]
+      },
+      {
+        "title": "A Fresh Look at PRE as a Maximum Flow Problem.",
+        "authors": [
+          "Jingling Xue",
+          "Jens Knoop"
+        ]
+      },
+      {
+        "title": "Performance Characterization of the 64-bit x86 Architecture from Compiler Optimizations' Perspective.",
+        "authors": [
+          "Jack Liu",
+          "Youfeng Wu"
+        ]
+      },
+      {
+        "title": "Lightweight Lexical Closures for Legitimate Execution Stack Access.",
+        "authors": [
+          "Masahiro Yasugi",
+          "Tasuku Hiraishi",
+          "Taiichi Yuasa"
+        ]
+      },
+      {
+        "title": "Polyhedral Code Generation in the Real World.",
+        "authors": [
+          "Nicolas Vasilache",
+          "Cédric Bastoul",
+          "Albert Cohen"
+        ]
+      },
+      {
+        "title": "Iterative Collective Loop Fusion.",
+        "authors": [
+          "Thomas J. Ashby",
+          "Michael F. P. O'Boyle"
+        ]
+      },
+      {
+        "title": "Converting Intermediate Code to Assembly Code Using Declarative Machine Descriptions.",
+        "authors": [
+          "João Dias",
+          "Norman Ramsey"
+        ]
+      },
+      {
+        "title": "SARA: Combining Stack Allocation and Register Allocation.",
+        "authors": [
+          "V. Krishna Nandivada",
+          "Jens Palsberg"
+        ]
+      },
+      {
+        "title": "Register Allocation for Programs in SSA-Form.",
+        "authors": [
+          "Sebastian Hack",
+          "Daniel Grund",
+          "Gerhard Goos"
+        ]
+      },
+      {
+        "title": "Enhanced Bitwidth-Aware Register Allocation.",
+        "authors": [
+          "Rajkishore Barik",
+          "Vivek Sarkar"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2005.html": {
+    "header": "14th CC 2005: Edinburgh, Scotland, UK",
+    "year": "2005",
+    "papers": [
+      {
+        "title": "When Abstraction Fails.",
+        "authors": [
+          "Andreas Zeller"
+        ]
+      },
+      {
+        "title": "Source-Level Debugging for Multiple Languages with Modest Programming Effort.",
+        "authors": [
+          "Sukyoung Ryu",
+          "Norman Ramsey"
+        ]
+      },
+      {
+        "title": "Compilation of Generic Regular Path Expressions Using C++ Class Templates.",
+        "authors": [
+          "Luca Padovani"
+        ]
+      },
+      {
+        "title": "XML Goes Native: Run-Time Representations for Xtatic.",
+        "authors": [
+          "Vladimir Gapeyev",
+          "Michael Y. Levin",
+          "Benjamin C. Pierce",
+          "Alan Schmitt"
+        ]
+      },
+      {
+        "title": "Boosting the Performance of Multimedia Applications Using SIMD Instructions.",
+        "authors": [
+          "Weihua Jiang",
+          "Chao Mei",
+          "Bo Huang",
+          "Jianhui Li",
+          "Jiahua Zhu",
+          "Binyu Zang",
+          "Chuanqi Zhu"
+        ]
+      },
+      {
+        "title": "Task Partitioning for Multi-core Network Processors.",
+        "authors": [
+          "Robert Ennals",
+          "Richard Sharp",
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "Experiences with Enumeration of Integer Projections of Parametric Polytopes.",
+        "authors": [
+          "Sven Verdoolaege",
+          "Kristof Beyls",
+          "Maurice Bruynooghe",
+          "Francky Catthoor"
+        ]
+      },
+      {
+        "title": "Generalized Index-Set Splitting.",
+        "authors": [
+          "Christopher Barton",
+          "Arie Tal",
+          "Bob Blainey",
+          "José Nelson Amaral"
+        ]
+      },
+      {
+        "title": "Age-Oriented Concurrent Garbage Collection.",
+        "authors": [
+          "Harel Paz",
+          "Erez Petrank",
+          "Stephen M. Blackburn"
+        ]
+      },
+      {
+        "title": "Optimizing C Multithreaded Memory Management Using Thread-Local Storage.",
+        "authors": [
+          "Yair Sade",
+          "Shmuel Sagiv",
+          "Ran Shaham"
+        ]
+      },
+      {
+        "title": "An Efficient On-the-Fly Cycle Collection.",
+        "authors": [
+          "Harel Paz",
+          "Erez Petrank",
+          "David F. Bacon",
+          "Elliot K. Kolodner",
+          "V. T. Rajan"
+        ]
+      },
+      {
+        "title": "Data Slicing: Separating the Heap into Independent Regions.",
+        "authors": [
+          "Jeremy Condit",
+          "George C. Necula"
+        ]
+      },
+      {
+        "title": "A Compiler-Based Approach to Data Security.",
+        "authors": [
+          "Feihui Li",
+          "Guilin Chen",
+          "Mahmut T. Kandemir",
+          "Richard R. Brooks"
+        ]
+      },
+      {
+        "title": "Composing Source-to-Source Data-Flow Transformations with Rewriting Strategies and Dependent Dynamic Rewrite Rules.",
+        "authors": [
+          "Karina Olmos",
+          "Eelco Visser"
+        ]
+      },
+      {
+        "title": "Verification of Source Code Transformations by Program Equivalence Checking.",
+        "authors": [
+          "K. C. Shashidhar",
+          "Maurice Bruynooghe",
+          "Francky Catthoor",
+          "Gerda Janssens"
+        ]
+      },
+      {
+        "title": "Hob: A Tool for Verifying Data Structure Consistency.",
+        "authors": [
+          "Patrick Lam",
+          "Viktor Kuncak",
+          "Martin C. Rinard"
+        ]
+      },
+      {
+        "title": "Jazz: A Tool for Demand-Driven Structural Testing.",
+        "authors": [
+          "Jonathan Misurda",
+          "James A. Clause",
+          "Juliya L. Reed",
+          "Bruce R. Childers",
+          "Mary Lou Soffa"
+        ]
+      },
+      {
+        "title": "Tiger - An Interpreter Generation Tool.",
+        "authors": [
+          "Kevin Casey",
+          "David Gregg",
+          "M. Anton Ertl"
+        ]
+      },
+      {
+        "title": "CodeSurfer/x86-A Platform for Analyzing x86 Executables.",
+        "authors": [
+          "Gogul Balakrishnan",
+          "Radu Gruian",
+          "Thomas W. Reps",
+          "Tim Teitelbaum"
+        ]
+      },
+      {
+        "title": "A Study of Type Analysis for Speculative Method Inlining in a JIT Environment.",
+        "authors": [
+          "Feng Qian",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "Completeness Analysis for Incomplete Object-Oriented Programs.",
+        "authors": [
+          "Jingling Xue",
+          "Phung Hua Nguyen"
+        ]
+      },
+      {
+        "title": "Using Inter-Procedural Side-Effect Information in JIT Optimizations.",
+        "authors": [
+          "Anatole Le",
+          "Ondrej Lhoták",
+          "Laurie J. Hendren"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2004.html": {
+    "header": "13th CC 2004: Barcelona, Spain",
+    "year": "2004",
+    "papers": [
+      {
+        "title": "Developing a Foundation for Code Optimization.",
+        "authors": [
+          "Mary Lou Soffa"
+        ]
+      },
+      {
+        "title": "Analyzing Memory Accesses in x86 Executables.",
+        "authors": [
+          "Gogul Balakrishnan",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "The Limits of Alias Analysis for Scalar Optimizations.",
+        "authors": [
+          "Rezaul Alam Chowdhury",
+          "Peter Djeu",
+          "Brendon Cahoon",
+          "James H. Burrill",
+          "Kathryn S. McKinley"
+        ]
+      },
+      {
+        "title": "Pruning Interference and Ready Dependence for Slicing Concurrent Java Programs.",
+        "authors": [
+          "Venkatesh Prasad Ranganath",
+          "John Hatcliff"
+        ]
+      },
+      {
+        "title": "Data Dependence Profiling for Speculative Optimizations.",
+        "authors": [
+          "Tong Chen",
+          "Jin Lin",
+          "Xiaoru Dai",
+          "Wei-Chung Hsu",
+          "Pen-Chung Yew"
+        ]
+      },
+      {
+        "title": "Elkhound: A Fast, Practical GLR Parser Generator.",
+        "authors": [
+          "Scott McPeak",
+          "George C. Necula"
+        ]
+      },
+      {
+        "title": "Generalised Parsing: Some Costs.",
+        "authors": [
+          "Adrian Johnstone",
+          "Elizabeth Scott",
+          "Giorgios Economopoulos"
+        ]
+      },
+      {
+        "title": "An Automata-Theoretic Algorithm for Counting Solutions to Presburger Formulas.",
+        "authors": [
+          "Erin Parker",
+          "Siddhartha Chatterjee"
+        ]
+      },
+      {
+        "title": "A Symbolic Approach to Bernstein Expansion for Program Analysis and Optimization.",
+        "authors": [
+          "Philippe Clauss",
+          "Irina Tchoupaeva"
+        ]
+      },
+      {
+        "title": "Periodic Polyhedra.",
+        "authors": [
+          "Benoît Meister"
+        ]
+      },
+      {
+        "title": "Region-Based Partial Dead Code Elimination on Predicated Code.",
+        "authors": [
+          "Qiong Cai",
+          "Lin Gao",
+          "Jingling Xue"
+        ]
+      },
+      {
+        "title": "Value-Based Partial Redundancy Elimination.",
+        "authors": [
+          "Thomas VanDrunen",
+          "Antony L. Hosking"
+        ]
+      },
+      {
+        "title": "Increasing the Applicability of Scalar Replacement.",
+        "authors": [
+          "Byoungro So",
+          "Mary W. Hall"
+        ]
+      },
+      {
+        "title": "Reducing the Cost of Object Boxing.",
+        "authors": [
+          "Tim Owen",
+          "Des Watson"
+        ]
+      },
+      {
+        "title": "FFT Compiler Techniques.",
+        "authors": [
+          "Stefan Kral",
+          "Franz Franchetti",
+          "Juergen Lorenz",
+          "Christoph W. Ueberhuber",
+          "Peter Wurzinger"
+        ]
+      },
+      {
+        "title": "Widening Integer Arithmetic.",
+        "authors": [
+          "Kevin Redwine",
+          "Norman Ramsey"
+        ]
+      },
+      {
+        "title": "Stochastic Bit-Width Approximation Using Extreme Value Theory for Customizable Processors.",
+        "authors": [
+          "Emre Özer",
+          "Andy Nisbet",
+          "David Gregg"
+        ]
+      },
+      {
+        "title": "Using Multiple Memory Access Instructions for Reducing Code Size.",
+        "authors": [
+          "Neil Johnson",
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "Integrating the Soot Compiler Infrastructure into an IDE.",
+        "authors": [
+          "Jennifer Lhoták",
+          "Ondrej Lhoták",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "Declarative Composition of Stack Frames.",
+        "authors": [
+          "Christian Lindig",
+          "Norman Ramsey"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2003.html": {
+    "header": "12th CC 2003: Warsaw, Poland",
+    "year": "2003",
+    "papers": [
+      {
+        "title": "Combined Code Motion and Register Allocation Using the Value State Dependence Graph.",
+        "authors": [
+          "Neil Johnson",
+          "Alan Mycroft"
+        ]
+      },
+      {
+        "title": "Early Control of Register Pressure for Software Pipelined Loops.",
+        "authors": [
+          "Sid Ahmed Ali Touati",
+          "Christine Eisenbeis"
+        ]
+      },
+      {
+        "title": "Register Allocation by Optimal Graph Coloring.",
+        "authors": [
+          "Christian Andersson"
+        ]
+      },
+      {
+        "title": "A Compilation and Optimization Model for Aspect-Oriented Programs.",
+        "authors": [
+          "Hidehiko Masuhara",
+          "Gregor Kiczales",
+          "Christopher Dutchyn"
+        ]
+      },
+      {
+        "title": "A Pattern Matching Compiler for Multiple Target Languages.",
+        "authors": [
+          "Pierre-Etienne Moreau",
+          "Christophe Ringeissen",
+          "Marian Vittek"
+        ]
+      },
+      {
+        "title": "A New One-Pass Transformation into Monadic Normal Form.",
+        "authors": [
+          "Olivier Danvy"
+        ]
+      },
+      {
+        "title": "Run-Time Type Checking for Binary Programs.",
+        "authors": [
+          "Michael Burrows",
+          "Stephen N. Freund",
+          "Janet L. Wiener"
+        ]
+      },
+      {
+        "title": "Precision in Practice: A Type-Preserving Java Compiler.",
+        "authors": [
+          "Christopher League",
+          "Zhong Shao",
+          "Valery Trifonov"
+        ]
+      },
+      {
+        "title": "The MAGICA Type Inference Engine for MATLAB.",
+        "authors": [
+          "Pramod G. Joisha",
+          "Prithviraj Banerjee"
+        ]
+      },
+      {
+        "title": "Dimensions of Precision in Reference Analysis of Object-Oriented Programming Languages.",
+        "authors": [
+          "Barbara G. Ryder"
+        ]
+      },
+      {
+        "title": "Polyglot: An Extensible Compiler Framework for Java.",
+        "authors": [
+          "Nathaniel Nystrom",
+          "Michael R. Clarkson",
+          "Andrew C. Myers"
+        ]
+      },
+      {
+        "title": "Scaling Java Points-to Analysis Using SPARK.",
+        "authors": [
+          "Ondrej Lhoták",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "Effective Inline-Threaded Interpretation of Java Bytecode Using Preparation Sequences.",
+        "authors": [
+          "Etienne Gagnon",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "Integrating Generations with Advanced Reference Counting Garbage Collectors.",
+        "authors": [
+          "Hezi Azatchi",
+          "Erez Petrank"
+        ]
+      },
+      {
+        "title": "The Interprocedural Express-Lane Transformation.",
+        "authors": [
+          "David Melski",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Automatic Detection of Uninitialized Variables.",
+        "authors": [
+          "Thi Viet Nga Nguyen",
+          "François Irigoin",
+          "Corinne Ancourt",
+          "Fabien Coelho"
+        ]
+      },
+      {
+        "title": "Generalised Regular Parsers.",
+        "authors": [
+          "Adrian Johnstone",
+          "Elizabeth Scott"
+        ]
+      },
+      {
+        "title": "Rapid and Robust Compiler Construction Using Template-Based Metacompilation.",
+        "authors": [
+          "Kees van Reeuwijk"
+        ]
+      },
+      {
+        "title": "The Verifying Compiler: A Grand Challenge for Computing Research.",
+        "authors": [
+          "C. A. R. Hoare"
+        ]
+      },
+      {
+        "title": "Address Register Assignment for Reducing Code Size.",
+        "authors": [
+          "Mahmut T. Kandemir",
+          "Mary Jane Irwin",
+          "Guilin Chen",
+          "J. Ramanujam"
+        ]
+      },
+      {
+        "title": "Offset Assignment Showdown: Evaluation of DSP Address Code Optimization Algorithms.",
+        "authors": [
+          "Rainer Leupers"
+        ]
+      },
+      {
+        "title": "Integrating High-Level Optimizations in a Production Compiler: Design and Implementation Experience.",
+        "authors": [
+          "Somnath Ghosh",
+          "Abhay Kanhere",
+          "Rakesh Krishnaiyer",
+          "Dattatraya Kulkarni",
+          "Wei Li",
+          "Chu-Cheow Lim",
+          "John Ng"
+        ]
+      },
+      {
+        "title": "Improving Data Locality by Chunking.",
+        "authors": [
+          "Cédric Bastoul",
+          "Paul Feautrier"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2002.html": {
+    "header": "11th CC 2002: Grenoble, France",
+    "year": "2002",
+    "papers": [
+      {
+        "title": "LISA: An Interactive Environment for Programming Language Development.",
+        "authors": [
+          "Marjan Mernik",
+          "Mitja Lenic",
+          "Enis Avdicausevic",
+          "Viljem Zumer"
+        ]
+      },
+      {
+        "title": "Building an Interpreter with Vmgen.",
+        "authors": [
+          "M. Anton Ertl",
+          "David Gregg"
+        ]
+      },
+      {
+        "title": "Compiler Construction Using LOTOS NT.",
+        "authors": [
+          "Hubert Garavel",
+          "Frédéric Lang",
+          "Radu Mateescu"
+        ]
+      },
+      {
+        "title": "Data Compression Transformations for Dynamically Allocated Data Structures.",
+        "authors": [
+          "Youtao Zhang",
+          "Rajiv Gupta"
+        ]
+      },
+      {
+        "title": "Evaluating a Demand Driven Technique for Call Graph Construction.",
+        "authors": [
+          "Gagan Agrawal",
+          "Jinqian Li",
+          "Qi Su"
+        ]
+      },
+      {
+        "title": "A Graph-Free Approach to Data-Flow Analysis.",
+        "authors": [
+          "Markus Mohnen"
+        ]
+      },
+      {
+        "title": "A Representation for Bit Section Based Analysis and Optimization.",
+        "authors": [
+          "Rajiv Gupta",
+          "Eduard Mehofer",
+          "Youtao Zhang"
+        ]
+      },
+      {
+        "title": "Online Subpath Profiling.",
+        "authors": [
+          "David Oren",
+          "Yossi Matias",
+          "Shmuel Sagiv"
+        ]
+      },
+      {
+        "title": "Precise Exception Semantics in Dynamic Compilation.",
+        "authors": [
+          "Michael Gschwind",
+          "Erik R. Altman"
+        ]
+      },
+      {
+        "title": "Decompiling Java Bytecode: Problems, Traps and Pitfalls.",
+        "authors": [
+          "Jerome Miecznikowski",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "Forwarding in Attribute Grammars for Modular Language Design.",
+        "authors": [
+          "Eric Van Wyk",
+          "Oege de Moor",
+          "Kevin Backhouse",
+          "Paul Kwiatkowski"
+        ]
+      },
+      {
+        "title": "Disambiguation Filters for Scannerless Generalized LR Parsers.",
+        "authors": [
+          "Mark van den Brand",
+          "Jeroen Scheerder",
+          "Jurgen J. Vinju",
+          "Eelco Visser"
+        ]
+      },
+      {
+        "title": "Modular Static Program Analysis.",
+        "authors": [
+          "Patrick Cousot",
+          "Radhia Cousot"
+        ]
+      },
+      {
+        "title": "StreamIt: A Language for Streaming Applications.",
+        "authors": [
+          "William Thies",
+          "Michal Karczmarek",
+          "Saman P. Amarasinghe"
+        ]
+      },
+      {
+        "title": "Compiling Mercury to High-Level C Code.",
+        "authors": [
+          "Fergus Henderson",
+          "Zoltan Somogyi"
+        ]
+      },
+      {
+        "title": "CIL: Intermediate Language and Tools for Analysis and Transformation of C Programs.",
+        "authors": [
+          "George C. Necula",
+          "Scott McPeak",
+          "Shree Prakash Rahul",
+          "Westley Weimer"
+        ]
+      },
+      {
+        "title": "Linear Scan Register Allocation in the Context of SSA Form and Register Constraints.",
+        "authors": [
+          "Hanspeter Mössenböck",
+          "Michael Pfeiffer"
+        ]
+      },
+      {
+        "title": "Global Variable Promotion: Using Registers to Reduce Cache Power Dissipation.",
+        "authors": [
+          "Andrea G. M. Cilio",
+          "Henk Corporaal"
+        ]
+      },
+      {
+        "title": "Optimizing Static Power Dissipation by Functional Units in Superscalar Processors.",
+        "authors": [
+          "Siddharth Rele",
+          "Santosh Pande",
+          "Soner Önder",
+          "Rajiv Gupta"
+        ]
+      },
+      {
+        "title": "Influence of Loop Optimizations on Energy Consumption of Multi-bank Memory Systems.",
+        "authors": [
+          "Mahmut T. Kandemir",
+          "Ibrahim Kolcu",
+          "Ismail Kadayif"
+        ]
+      },
+      {
+        "title": "Effective Enhancement of Loop Versioning in Java.",
+        "authors": [
+          "Vitaly V. Mikheev",
+          "Stanislav A. Fedoseev",
+          "Vladimir V. Sukharev",
+          "Nikita V. Lipsky"
+        ]
+      },
+      {
+        "title": "Value-Profile Guided Stride Prefetching for Irregular Code.",
+        "authors": [
+          "Youfeng Wu",
+          "Mauricio J. Serrano",
+          "Rakesh Krishnaiyer",
+          "Wei Li",
+          "Jesse Fang"
+        ]
+      },
+      {
+        "title": "A Comprehensive Approach to Array Bounds Check Elimination for Java.",
+        "authors": [
+          "Feng Qian",
+          "Laurie J. Hendren",
+          "Clark Verbrugge"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2001.html": {
+    "header": "10th CC 2001: Genova, Italy",
+    "year": "2001",
+    "papers": [
+      {
+        "title": "Virtual Classes and Their Implementation.",
+        "authors": [
+          "Ole Lehrmann Madsen"
+        ]
+      },
+      {
+        "title": "Alias Analysis by Means of a Model Checker.",
+        "authors": [
+          "Vincenzo Martena",
+          "Pierluigi San Pietro"
+        ]
+      },
+      {
+        "title": "Points-to and Side-Effect Analyses for Programs Built with Precompiled Libraries.",
+        "authors": [
+          "Atanas Rountev",
+          "Barbara G. Ryder"
+        ]
+      },
+      {
+        "title": "A Novel Probabilistic Data Flow Framework.",
+        "authors": [
+          "Eduard Mehofer",
+          "Bernhard Scholz"
+        ]
+      },
+      {
+        "title": "Imperative Program Transformation by Rewriting.",
+        "authors": [
+          "David Lacey",
+          "Oege de Moor"
+        ]
+      },
+      {
+        "title": "Compiler Transformation of Pointers to Explicit Array Accesses in DSP Applications.",
+        "authors": [
+          "Björn Franke",
+          "Michael F. P. O'Boyle"
+        ]
+      },
+      {
+        "title": "User-Extensible Simplification - Type-Based Optimizer Generators.",
+        "authors": [
+          "Sibylle Schupp",
+          "Douglas P. Gregor",
+          "David R. Musser",
+          "Shin-Ming Liu"
+        ]
+      },
+      {
+        "title": "A Practical, Robust Method for Generating Variable Range Tables.",
+        "authors": [
+          "Caroline Tice",
+          "Susan L. Graham"
+        ]
+      },
+      {
+        "title": "Efficient Symbolic Analysis for Optimizing Compilers.",
+        "authors": [
+          "Robert van Engelen"
+        ]
+      },
+      {
+        "title": "Interprocedural Shape Analysis for Recursive Programs.",
+        "authors": [
+          "Noam Rinetzky",
+          "Shmuel Sagiv"
+        ]
+      },
+      {
+        "title": "Design-Driven Compilation.",
+        "authors": [
+          "Radu Rugina",
+          "Martin C. Rinard"
+        ]
+      },
+      {
+        "title": "Software Pipelining of Nested Loops.",
+        "authors": [
+          "Kalyan Muthukumar",
+          "Gautam Doshi"
+        ]
+      },
+      {
+        "title": "A First Step Towards Time Optimal Software Pipelining of Loops with Control Flows.",
+        "authors": [
+          "Han-Saem Yun",
+          "Jihong Kim",
+          "Soo-Mook Moon"
+        ]
+      },
+      {
+        "title": "Comparing Tail Duplication with Compensation Code in Single Path Global Instruction Scheduling.",
+        "authors": [
+          "David Gregg"
+        ]
+      },
+      {
+        "title": "Register Saturation in Superscalar and VLIW Codes.",
+        "authors": [
+          "Sid Ahmed Ali Touati"
+        ]
+      },
+      {
+        "title": "Directly-Executable Earley Parsing.",
+        "authors": [
+          "John Aycock",
+          "R. Nigel Horspool"
+        ]
+      },
+      {
+        "title": "A Bounded Graph-Connect Construction for LR-regular Parsers.",
+        "authors": [
+          "Jacques Farré",
+          "José Fortes Gálvez"
+        ]
+      },
+      {
+        "title": "Array Unification: A Locality Optimization Technique.",
+        "authors": [
+          "Mahmut T. Kandemir"
+        ]
+      },
+      {
+        "title": "Optimal Live Range Merge for Address Register Allocation in Embedded Programs.",
+        "authors": [
+          "Guilherme Ottoni",
+          "Sandro Rigo",
+          "Guido Araujo",
+          "Subramanian Rajagopalan",
+          "Sharad Malik"
+        ]
+      },
+      {
+        "title": "Speculative Prefetching of Induction Pointers.",
+        "authors": [
+          "Artour Stoutchinin",
+          "José Nelson Amaral",
+          "Guang R. Gao",
+          "James C. Dehnert",
+          "Suneel Jain",
+          "Alban Douillet"
+        ]
+      },
+      {
+        "title": "Constant-Time Root Scanning for Deterministic Garbage Collection.",
+        "authors": [
+          "Fridtjof Siebert"
+        ]
+      },
+      {
+        "title": "Goal-Directed Value Profiling.",
+        "authors": [
+          "Scott A. Watterson",
+          "Saumya K. Debray"
+        ]
+      },
+      {
+        "title": "A Framework for Optimizing Java Using Attributes.",
+        "authors": [
+          "Patrice Pominville",
+          "Feng Qian",
+          "Raja Vallée-Rai",
+          "Laurie J. Hendren",
+          "Clark Verbrugge"
+        ]
+      },
+      {
+        "title": "SmartTools: A Generator of Interactive Environments Tools.",
+        "authors": [
+          "Isabelle Attali",
+          "Carine Courbis",
+          "Pascal Degenne",
+          "Alexandre Fau",
+          "Didier Parigot",
+          "Claude Pasquier"
+        ]
+      },
+      {
+        "title": "Visual Patterns in the VLEli System.",
+        "authors": [
+          "Matthias T. Jung",
+          "Uwe Kastens",
+          "Christian Schindler",
+          "Carsten Schmidt"
+        ]
+      },
+      {
+        "title": "The ASF+SDF Meta-environment: A Component-Based Language Development Environment.",
+        "authors": [
+          "Mark van den Brand",
+          "Arie van Deursen",
+          "Jan Heering",
+          "H. A. de Jong",
+          "Merijn de Jonge",
+          "Tobias Kuipers",
+          "Paul Klint",
+          "Leon Moonen",
+          "Pieter A. Olivier",
+          "Jeroen Scheerder",
+          "Jurgen J. Vinju",
+          "Eelco Visser",
+          "Joost Visser"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc2000.html": {
+    "header": "9th CC 2000: Berlin, Germany",
+    "year": "2000",
+    "papers": [
+      {
+        "title": "Shape Analysis.",
+        "authors": [
+          "Reinhard Wilhelm",
+          "Shmuel Sagiv",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Optimizing Java Bytecode Using the Soot Framework: Is It Feasible?",
+        "authors": [
+          "Raja Vallée-Rai",
+          "Etienne Gagnon",
+          "Laurie J. Hendren",
+          "Patrick Lam",
+          "Patrice Pominville",
+          "Vijay Sundaresan"
+        ]
+      },
+      {
+        "title": "Pipelined Java Virtual Machine Interpreters.",
+        "authors": [
+          "Jan Hoogerbrugge",
+          "Lex Augusteijn"
+        ]
+      },
+      {
+        "title": "Automatic Removal of Array Memory Leaks in Java.",
+        "authors": [
+          "Ran Shaham",
+          "Elliot K. Kolodner",
+          "Shmuel Sagiv"
+        ]
+      },
+      {
+        "title": "A Static Study of Java Exceptions Using JESP.",
+        "authors": [
+          "Barbara G. Ryder",
+          "Donald Smith",
+          "Ulrich Kremer",
+          "Michael Gordon",
+          "Nirav Shah"
+        ]
+      },
+      {
+        "title": "Fast Escape Analysis and Stack Allocation for Object-Based Programs.",
+        "authors": [
+          "David Gay",
+          "Bjarne Steensgaard"
+        ]
+      },
+      {
+        "title": "Constant Propagation on the Value Graph: Simple Constants and Beyond.",
+        "authors": [
+          "Jens Knoop",
+          "Oliver Rüthing"
+        ]
+      },
+      {
+        "title": "Simple Generation of Static Single-Assignment Form.",
+        "authors": [
+          "John Aycock",
+          "R. Nigel Horspool"
+        ]
+      },
+      {
+        "title": "Demand-Driven Construction of Call Graphs.",
+        "authors": [
+          "Gagan Agrawal"
+        ]
+      },
+      {
+        "title": "A Framework for Loop Distribution on Limited On-Chip Memory Processors.",
+        "authors": [
+          "Lei Wang",
+          "Waibhav Tembe",
+          "Santosh Pande"
+        ]
+      },
+      {
+        "title": "Techniques for Effectively Exploiting a Zero Overhead Loop Buffer.",
+        "authors": [
+          "Gang-Ryung Uh",
+          "Yuhong Wang",
+          "David B. Whalley",
+          "Sanjay Jinturkar",
+          "Chris Burns",
+          "Vincent Cao"
+        ]
+      },
+      {
+        "title": "Advanced Compiler Optimization for Calm RISC8 Low-End Embedded Processor.",
+        "authors": [
+          "Dae-Hwan Kim"
+        ]
+      },
+      {
+        "title": "Global Software Pipelining with Iteration Preselection.",
+        "authors": [
+          "David Gregg"
+        ]
+      },
+      {
+        "title": "Analysis of Irregular Single-Indexed Array Accesses and Its Applications in Compiler Optimizations.",
+        "authors": [
+          "Yuan Lin",
+          "David A. Padua"
+        ]
+      },
+      {
+        "title": "Advanced Scalarization of Array Syntax.",
+        "authors": [
+          "Gerald Roth"
+        ]
+      },
+      {
+        "title": "Techniques for Reducing the Overhead of Run-Time Parallelization.",
+        "authors": [
+          "Hao Yu",
+          "Lawrence Rauchwerger"
+        ]
+      },
+      {
+        "title": "MATOU: An Implementation of Mode-Automata.",
+        "authors": [
+          "Florence Maraninchi",
+          "Yann Rémond",
+          "Yannick Raoul"
+        ]
+      },
+      {
+        "title": "Compiling Adaptive Programs by Partial Evaluation.",
+        "authors": [
+          "Peter Thiemann"
+        ]
+      },
+      {
+        "title": "Functional Incremental Attribute Evaluation.",
+        "authors": [
+          "João Saraiva",
+          "S. Doaitse Swierstra",
+          "Matthijs F. Kuiper"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc99.html": {
+    "header": "8th CC 1999: Amsterdam, The Netherlands",
+    "year": "1999",
+    "papers": [
+      {
+        "title": "Data Structure Free Compilation.",
+        "authors": [
+          "João Saraiva",
+          "S. Doaitse Swierstra"
+        ]
+      },
+      {
+        "title": "Debugging Eli-Generated Compilers With Noosa.",
+        "authors": [
+          "Anthony M. Sloane"
+        ]
+      },
+      {
+        "title": "Faster Generalized LR Parsing.",
+        "authors": [
+          "John Aycock",
+          "R. Nigel Horspool"
+        ]
+      },
+      {
+        "title": "Interprocedural Path Profiling.",
+        "authors": [
+          "David Melski",
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Experimental Comparison of call string and functional Approaches to Interprocedural Analysis.",
+        "authors": [
+          "Florian Martin"
+        ]
+      },
+      {
+        "title": "Link-Time Improvement of Scheme Programs.",
+        "authors": [
+          "Saumya K. Debray",
+          "Robert Muth",
+          "Scott A. Watterson"
+        ]
+      },
+      {
+        "title": "Expansion-Based Removal of Semantic Partial Redundancies.",
+        "authors": [
+          "Jens Knoop",
+          "Oliver Rüthing",
+          "Bernhard Steffen"
+        ]
+      },
+      {
+        "title": "Register Pressure Sensitive Redundancy Elimination.",
+        "authors": [
+          "Rajiv Gupta",
+          "Rastislav Bodík"
+        ]
+      },
+      {
+        "title": "Code Optimization by Integer Linear Programming.",
+        "authors": [
+          "Daniel Kästner",
+          "Marc Langenbach"
+        ]
+      },
+      {
+        "title": "Evaluation of Algorithms for Local Register Allocation.",
+        "authors": [
+          "Vincenzo Liberatore",
+          "Martin Farach-Colton",
+          "Ulrich Kremer"
+        ]
+      },
+      {
+        "title": "Efficient State-Diagram Construction Methods for Software Pipelining.",
+        "authors": [
+          "Chihong Zhang",
+          "Ramaswamy Govindarajan",
+          "Sean Ryan",
+          "Guang R. Gao"
+        ]
+      },
+      {
+        "title": "A Comparison of Compiler Tiling Algorithms.",
+        "authors": [
+          "Gabriel Rivera",
+          "Chau-Wen Tseng"
+        ]
+      },
+      {
+        "title": "Implementation Issues of Loop-Level Speculative Run-Time Parallelization.",
+        "authors": [
+          "Devang Patel",
+          "Lawrence Rauchwerger"
+        ]
+      },
+      {
+        "title": "Compilation and Memory Management for ASF+SDF.",
+        "authors": [
+          "Mark van den Brand",
+          "Paul Klint",
+          "Pieter A. Olivier"
+        ]
+      },
+      {
+        "title": "The Design of the PROMIS Compiler.",
+        "authors": [
+          "Hideki Saito",
+          "Nicholas Stavrakos",
+          "Steven Carroll",
+          "Constantine D. Polychronopoulos",
+          "Alexandru Nicolau"
+        ]
+      },
+      {
+        "title": "Floating Point to Fixed Point Conversion of C Code.",
+        "authors": [
+          "Andrea G. M. Cilio",
+          "Henk Corporaal"
+        ]
+      },
+      {
+        "title": "Optimizing Object-Oriented Languages Through Architechtural Transformations.",
+        "authors": [
+          "Tom Tourwé",
+          "Wolfgang De Meuter"
+        ]
+      },
+      {
+        "title": "Virtual Cache Line: A New Technique to Improve Cache Exploitation for Recursive Data Structures.",
+        "authors": [
+          "Shai Rubin",
+          "David Bernstein",
+          "Michael Rodeh"
+        ]
+      },
+      {
+        "title": "Extending Modulo Scheduling with Memory Reference Merging.",
+        "authors": [
+          "Benoît Dupont de Dinechin"
+        ]
+      },
+      {
+        "title": "TRAPing Modelica with Python.",
+        "authors": [
+          "Thilo Ernst"
+        ]
+      },
+      {
+        "title": "A Programmable ANSI C Transformation Engine.",
+        "authors": [
+          "Maarten Boekhold",
+          "Ireneusz Karkowski",
+          "Henk Corporaal",
+          "Andrea G. M. Cilio"
+        ]
+      },
+      {
+        "title": "Tool Support for Language Design and Prototyping with Montages.",
+        "authors": [
+          "Matthias Anlauff",
+          "Philipp W. Kutter",
+          "Alfonso Pierantonio"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc98.html": {
+    "header": "7th CC 1998: Lisbon, Portugal",
+    "year": "1998",
+    "papers": [
+      {
+        "title": "Myths and Facts about the Efficient Implementation of Finite Automata and Lexical Analysis.",
+        "authors": [
+          "Klaus Brouwer",
+          "Wolfgang Gellerich",
+          "Erhard Plödereder"
+        ]
+      },
+      {
+        "title": "Generalised Recursive Descent parsing and Fellow-Determinism.",
+        "authors": [
+          "Adrian Johnstone",
+          "Elizabeth Scott"
+        ]
+      },
+      {
+        "title": "Analyzing Direct Non-local Dependencies in Attribute Grammars.",
+        "authors": [
+          "John Boyland"
+        ]
+      },
+      {
+        "title": "Storage Allocation Strategies for Recursive Attributes Evaluators.",
+        "authors": [
+          "Kazunori Mizushima",
+          "Takuya Katayama"
+        ]
+      },
+      {
+        "title": "Basic-Block Graphs: Living Dinosaurs?",
+        "authors": [
+          "Jens Knoop",
+          "Dirk Koschützki",
+          "Bernhard Steffen"
+        ]
+      },
+      {
+        "title": "Analysis of Loops.",
+        "authors": [
+          "Florian Martin",
+          "Martin Helmut Alt",
+          "Reinhard Wilhelm",
+          "Christian Ferdinand"
+        ]
+      },
+      {
+        "title": "A New Approach to Control Flow Analysis.",
+        "authors": [
+          "Pasquale Malacaria",
+          "Chris Hankin"
+        ]
+      },
+      {
+        "title": "Flow Logics for Constraint Based Analysis.",
+        "authors": [
+          "Hanne Riis Nielson",
+          "Flemming Nielson"
+        ]
+      },
+      {
+        "title": "Extended SSA Numbering: Introducing SSA Properties to Language with Multi-level Pointers.",
+        "authors": [
+          "Christopher Lapkowski",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "Strength Reduction via SSAPRE.",
+        "authors": [
+          "Robert Kennedy",
+          "Fred C. Chow",
+          "Peter Dahl",
+          "Shin-Ming Liu",
+          "Raymond Lo",
+          "Mark Streich"
+        ]
+      },
+      {
+        "title": "Detecting Parallelism in C Programs with Recursive Darta Structures.",
+        "authors": [
+          "Rakesh Ghiya",
+          "Laurie J. Hendren",
+          "Yingchun Zhu"
+        ]
+      },
+      {
+        "title": "Live Range Splitting in a Graph Coloring Register Allocator.",
+        "authors": [
+          "Keith D. Cooper",
+          "L. Taylor Simpson"
+        ]
+      },
+      {
+        "title": "Challenges and Oppurtunities Visual Programming Languages Bring to Programming Language Research.",
+        "authors": [
+          "Margaret M. Burnett"
+        ]
+      },
+      {
+        "title": "Local Stack Allocation.",
+        "authors": [
+          "Martin Maierhofer",
+          "M. Anton Ertl"
+        ]
+      },
+      {
+        "title": "A New Fast Algorithm for Optimal Register Allocation in Modulo Scheduled Loops.",
+        "authors": [
+          "Sylvain Lelait",
+          "Guang R. Gao",
+          "Christine Eisenbeis"
+        ]
+      },
+      {
+        "title": "A Code Motion Framework for Global Instruction Scheduling.",
+        "authors": [
+          "Rajiv Gupta"
+        ]
+      },
+      {
+        "title": "VLIW Compilation Techniques for Superscalar Architectures.",
+        "authors": [
+          "Esther Stümpel",
+          "Michael Thies",
+          "Uwe Kastens"
+        ]
+      },
+      {
+        "title": "Issues in Translating Smalltalk into Java.",
+        "authors": [
+          "R. L. Engelbrecht",
+          "Derrick G. Kourie"
+        ]
+      },
+      {
+        "title": "Intermodular Slicing of Object-oriented Programs.",
+        "authors": [
+          "Christoph Steindl"
+        ]
+      },
+      {
+        "title": "Portable Debugging and Profiling.",
+        "authors": [
+          "Mikael Pettersson"
+        ]
+      },
+      {
+        "title": "The Eli System.",
+        "authors": [
+          "Uwe Kastens",
+          "Peter Pfahler",
+          "Matthias T. Jung"
+        ]
+      },
+      {
+        "title": "Lrc - A Generator for Incremental Language-Oriented Tools.",
+        "authors": [
+          "Matthijs F. Kuiper",
+          "João Saraiva"
+        ]
+      },
+      {
+        "title": "An Extended Static Checker for Modular-3.",
+        "authors": [
+          "K. Rustan M. Leino",
+          "Greg Nelson"
+        ]
+      },
+      {
+        "title": "Cool: A Control-Flow Generator for System Analysis.",
+        "authors": [
+          "Volker Braun",
+          "Jens Knoop",
+          "Dirk Koschützki"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc96.html": {
+    "header": "6th CC 1996: Linköping, Sweden",
+    "year": "1996",
+    "papers": [
+      {
+        "title": "Pipelining-Dovetailing: A Transformation to Enhance Software Pipelining for Nested Loops.",
+        "authors": [
+          "Jian Wang",
+          "Guang R. Gao"
+        ]
+      },
+      {
+        "title": "A Comparison of Modulo Scheduling Techniques for Software Pipelining.",
+        "authors": [
+          "Peter Pfahler",
+          "Georg Piepenbrock"
+        ]
+      },
+      {
+        "title": "Removing Anti Dependences by Repairing.",
+        "authors": [
+          "M. Anton Ertl",
+          "Andreas Krall"
+        ]
+      },
+      {
+        "title": "Controlled Node Splitting.",
+        "authors": [
+          "Johan Janssen",
+          "Henk Corporaal"
+        ]
+      },
+      {
+        "title": "Aggressive Loop Unrolling in a Retargetable Optimizing Compiler.",
+        "authors": [
+          "Jack W. Davidson",
+          "Sanjay Jinturkar"
+        ]
+      },
+      {
+        "title": "Generalized Constant Propagation: A Study in C.",
+        "authors": [
+          "Clark Verbrugge",
+          "Phong Co",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "Structuring Decompiled Graphs.",
+        "authors": [
+          "Cristina Cifuentes"
+        ]
+      },
+      {
+        "title": "Non-monotone Fixpoint Iterations to Resolve Second Order Effects.",
+        "authors": [
+          "Alfons Geser",
+          "Jens Knoop",
+          "Gerald Lüttgen",
+          "Oliver Rüthing",
+          "Bernhard Steffen"
+        ]
+      },
+      {
+        "title": "How to Uniformly Specify Program Analysis and Transformation with Graph Rewrite Systems.",
+        "authors": [
+          "Uwe Aßmann"
+        ]
+      },
+      {
+        "title": "Points-to Analysis by Type Inference of Programs with Structures and Unions.",
+        "authors": [
+          "Bjarne Steensgaard"
+        ]
+      },
+      {
+        "title": "Compiler Construction: Craftmanship or Engineering?",
+        "authors": [
+          "William M. Waite"
+        ]
+      },
+      {
+        "title": "Code Generation = A* + BURS.",
+        "authors": [
+          "Albert Nymeyer",
+          "Joost-Pieter Katoen",
+          "Ymte Westra",
+          "Henk Alblas"
+        ]
+      },
+      {
+        "title": "A Compiler for Natural Semantics.",
+        "authors": [
+          "Mikael Pettersson"
+        ]
+      },
+      {
+        "title": "Abstract Compilation: A New Implementation Paradigm for Static Analysis.",
+        "authors": [
+          "Dominique Boucher",
+          "Marc Feeley"
+        ]
+      },
+      {
+        "title": "Using Partial Evaluation in Support of Portability, Reusability, and Maintainability.",
+        "authors": [
+          "Daniel J. Salomon"
+        ]
+      },
+      {
+        "title": "Incremental Computation of Static Single Assignment Form.",
+        "authors": [
+          "Jong-Deok Choi",
+          "Vivek Sarkar",
+          "Edith Schonberg"
+        ]
+      },
+      {
+        "title": "Efficient Storage Reuse of Aggregates in Single Assignment Languages.",
+        "authors": [
+          "Zhonghua Li",
+          "Chris C. Kirkham"
+        ]
+      },
+      {
+        "title": "Effective Representation of Aliases and Indirect Memory Operations in SSA Form.",
+        "authors": [
+          "Fred C. Chow",
+          "Sun Chan",
+          "Shin-Ming Liu",
+          "Raymond Lo",
+          "Mark Streich"
+        ]
+      },
+      {
+        "title": "Maptool - Supporting Modular Syntax Development.",
+        "authors": [
+          "Basim M. Kadhim",
+          "William M. Waite"
+        ]
+      },
+      {
+        "title": "A Faster Earley Parser.",
+        "authors": [
+          "Philippe McLean",
+          "R. Nigel Horspool"
+        ]
+      },
+      {
+        "title": "One-Pass, Optimal Tree Parsing - With Or Without Trees.",
+        "authors": [
+          "Todd A. Proebsting",
+          "Benjamin R. Whaley"
+        ]
+      },
+      {
+        "title": "Compact Dispatch Tables for Dynamically Typed Object Oriented Languages.",
+        "authors": [
+          "Jan Vitek",
+          "R. Nigel Horspool"
+        ]
+      },
+      {
+        "title": "Delegating Compiler Objects: An Object-Oriented Approach to Crafting Compilers.",
+        "authors": [
+          "Jan Bosch"
+        ]
+      },
+      {
+        "title": "A Parallel Debugger with Support for Distributed Arrays, Multiple Executables and Dynamic Processes.",
+        "authors": [
+          "Peter Fritzson",
+          "Roland Wismüller",
+          "Olav Hansen",
+          "Jonas Sala",
+          "Peter Skov"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc94.html": {
+    "header": "5th CC 1994: Edinburgh, UK",
+    "year": "1994",
+    "papers": [
+      {
+        "title": "OASIS: An Optimizing Action-Based Compiler Generator.",
+        "authors": [
+          "Peter Ørbæk"
+        ]
+      },
+      {
+        "title": "Action Transformations in the ACTRESS Compiler Generator.",
+        "authors": [
+          "Hermano P. Moura",
+          "David A. Watt"
+        ]
+      },
+      {
+        "title": "An Overview of Door Attribute Grammars.",
+        "authors": [
+          "Görel Hedin"
+        ]
+      },
+      {
+        "title": "Coupling Evaluators for Attribute Coupled Grammars.",
+        "authors": [
+          "Gilles Roussel",
+          "Didier Parigot",
+          "Martin Jourdan"
+        ]
+      },
+      {
+        "title": "Towards the Global Optimization of Functional Logic Programs.",
+        "authors": [
+          "Michael Hanus"
+        ]
+      },
+      {
+        "title": "A Portable and Optimizing Back End for the SML/NJ Compiler.",
+        "authors": [
+          "Lal George",
+          "Florent Guillame",
+          "John H. Reppy"
+        ]
+      },
+      {
+        "title": "Efficient Organization of Control Structures in Distributed Implementations.",
+        "authors": [
+          "Guido Hogen",
+          "Rita Loogen"
+        ]
+      },
+      {
+        "title": "Implementing 2DT on a Multiprocessor.",
+        "authors": [
+          "Yosi Ben-Asher",
+          "Gudula Rünger",
+          "Reinhard Wilhelm",
+          "Assaf Schuster"
+        ]
+      },
+      {
+        "title": "Global Code Selection of Directed Acyclic Graphs.",
+        "authors": [
+          "Andreas Fauth",
+          "Günter Hommel",
+          "Alois C. Knoll",
+          "Carsten Müller"
+        ]
+      },
+      {
+        "title": "Compiling Nested Loops for Limited Connectivity VLIWs.",
+        "authors": [
+          "Adrian Slowik",
+          "Georg Piepenbrock",
+          "Peter Pfahler"
+        ]
+      },
+      {
+        "title": "Delayed Exceptions - Speculative Execution of Trapping Instructions.",
+        "authors": [
+          "M. Anton Ertl",
+          "Andreas Krall"
+        ]
+      },
+      {
+        "title": "On the Implementation of Abstract Interpretation Systems for (Constraint) Logic Programs.",
+        "authors": [
+          "Gerda Janssens",
+          "Wim Simoens"
+        ]
+      },
+      {
+        "title": "A Suite of Analysis Tools Based on a General Purpose Abstract Interpreter.",
+        "authors": [
+          "Thomas E. Cheatham",
+          "Haiming Gao",
+          "Dan C. Stefanescu"
+        ]
+      },
+      {
+        "title": "Flow Grammars - a Flow Analysis Methodology.",
+        "authors": [
+          "James S. Uhl",
+          "R. Nigel Horspool"
+        ]
+      },
+      {
+        "title": "Provable Correctness of Prototype Interpreters in LDL.",
+        "authors": [
+          "Ralf Lämmel",
+          "Günter Riedewald"
+        ]
+      },
+      {
+        "title": "Developing Efficient Interpreters Based on Formal Language Specifications.",
+        "authors": [
+          "Arnd Poetzsch-Heffter"
+        ]
+      },
+      {
+        "title": "Generating an Efficient Compiler for a Data Parallel Language from a Denotational Specification.",
+        "authors": [
+          "Johan Ringström",
+          "Peter Fritzson",
+          "Mikael Pettersson"
+        ]
+      },
+      {
+        "title": "Adding Semantic and Syntactic Predicates To LL(k): pred-LL(k).",
+        "authors": [
+          "Terence John Parr",
+          "Russell W. Quong"
+        ]
+      },
+      {
+        "title": "Cosy Compiler Phase Embedding with the CoSy Compiler Model.",
+        "authors": [
+          "Martin Helmut Alt",
+          "Uwe Aßmann",
+          "Hans van Someren"
+        ]
+      },
+      {
+        "title": "Towards Provably Correct Code Gneration for a Hard Real-Time Programming Language.",
+        "authors": [
+          "Martin Fränzle",
+          "Markus Müller-Olm"
+        ]
+      },
+      {
+        "title": "Supporting Array Dependence Testing for an Optimizing/Parallelizing C Compiler.",
+        "authors": [
+          "Justiani",
+          "Laurie J. Hendren"
+        ]
+      },
+      {
+        "title": "Processing Array Statements and Procedure Interfaces in the PREPARE High Performance Fortran Compiler.",
+        "authors": [
+          "Siegfried Benkner",
+          "Peter Brezany",
+          "Hans P. Zima"
+        ]
+      },
+      {
+        "title": "A Practical Approach to the Symbolic Debugging of Parallelized Code.",
+        "authors": [
+          "Patricia Prather Pineo",
+          "Mary Lou Soffa"
+        ]
+      },
+      {
+        "title": "Reducing the Cost of Data Flow Analysis By Congruence Partitioning.",
+        "authors": [
+          "Evelyn Duesterwald",
+          "Rajiv Gupta",
+          "Mary Lou Soffa"
+        ]
+      },
+      {
+        "title": "Interprocedural Constant Propagation using Dependence Graphs and a Data-Flow Model.",
+        "authors": [
+          "David W. Binkley"
+        ]
+      },
+      {
+        "title": "Solving Demand Versions of Interprocedural Analysis Problems.",
+        "authors": [
+          "Thomas W. Reps"
+        ]
+      },
+      {
+        "title": "Compile Time Instruction Cache Optimizations.",
+        "authors": [
+          "Abraham Mendlson",
+          "Shlomit S. Pinter",
+          "Ruth Shtokhamer"
+        ]
+      },
+      {
+        "title": "Instruction Schedulimg over Regions: A Framework for Scheduling Across Basic Blocks.",
+        "authors": [
+          "Uma Mahadevan",
+          "Sridhar Ramakrishnan"
+        ]
+      },
+      {
+        "title": "Transport-Triggering versus Operation-Triggering.",
+        "authors": [
+          "Jan Hoogerbrugge",
+          "Henk Corporaal"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc92.html": {
+    "header": "4th CC 1992: Paderborn, Germany",
+    "year": "1992",
+    "papers": [
+      {
+        "title": "Transformation of Attributed Trees Using Pattern Matching.",
+        "authors": [
+          "Josef Grosch"
+        ]
+      },
+      {
+        "title": "Generating LR(1) Parsers of Small Size.",
+        "authors": [
+          "José Fortes Gálvez"
+        ]
+      },
+      {
+        "title": "Syntax Directed Translation with LR Parsing.",
+        "authors": [
+          "Borivoj Melichar"
+        ]
+      },
+      {
+        "title": "Attribute-Directed Top-Down Parsing.",
+        "authors": [
+          "Karel Müller"
+        ]
+      },
+      {
+        "title": "Another Kind of Modular Attribute Grammars.",
+        "authors": [
+          "Beate Baum"
+        ]
+      },
+      {
+        "title": "Integrated Graphics Environment to Develop Applications Based on Attribute Grammars.",
+        "authors": [
+          "Tibor Gyimóthy",
+          "Zoltán Alexin",
+          "Róbert Szücs"
+        ]
+      },
+      {
+        "title": "Implementing High-Level Identification Specifications.",
+        "authors": [
+          "Arnd Poetzsch-Heffter"
+        ]
+      },
+      {
+        "title": "Another Solution of Scoping Problems in Symbol Tables.",
+        "authors": [
+          "Werner Aßmann"
+        ]
+      },
+      {
+        "title": "Compiler Implementation of ADTs Using Profile Data.",
+        "authors": [
+          "A. Dain Samples"
+        ]
+      },
+      {
+        "title": "The LDL - Language Development Laboratory.",
+        "authors": [
+          "Günter Riedewald"
+        ]
+      },
+      {
+        "title": "Actress: An Action Semantics Directed Compiler Generator.",
+        "authors": [
+          "Deryck Forsyth Brown",
+          "Hermano P. Moura",
+          "David A. Watt"
+        ]
+      },
+      {
+        "title": "Creation of a Family of Compilers and Runtime Environments by Combining Reusable Components.",
+        "authors": [
+          "Christian Weber"
+        ]
+      },
+      {
+        "title": "The Interprocedural Coincidence Theorem.",
+        "authors": [
+          "Jens Knoop",
+          "Bernhard Steffen"
+        ]
+      },
+      {
+        "title": "Provably Correct Compiler Development and Implementation.",
+        "authors": [
+          "Bettina Buth",
+          "Karl-Heinz Buth",
+          "Martin Fränzle",
+          "Burghard von Karger",
+          "Yassine Lakhnech",
+          "Hans Langmaack",
+          "Markus Müller-Olm"
+        ]
+      },
+      {
+        "title": "On Interprocedural Data Flow Analysis for Object Oriented Languages.",
+        "authors": [
+          "Mario Südholt",
+          "Christoph Steigner"
+        ]
+      },
+      {
+        "title": "Testing Completeness of Code Selector Specifications.",
+        "authors": [
+          "Helmut Emmelmann"
+        ]
+      },
+      {
+        "title": "A Register Allocation Framework Based on Hierarchical Cyclic Interval Graphs.",
+        "authors": [
+          "Laurie J. Hendren",
+          "Guang R. Gao",
+          "Erik R. Altman",
+          "Chandrika Mukerji"
+        ]
+      },
+      {
+        "title": "Register Pipelining: An Integrated Approach to Register Allocation for Scalar and Subscripted Variables.",
+        "authors": [
+          "Evelyn Duesterwald",
+          "Rajiv Gupta",
+          "Mary Lou Soffa"
+        ]
+      },
+      {
+        "title": "Instruction Scheduling for Complex Pipelines.",
+        "authors": [
+          "M. Anton Ertl",
+          "Andreas Krall"
+        ]
+      },
+      {
+        "title": "Comparing Software Pipelining for an Operation-Triggered and a Tarnsport-Triggered Architecture.",
+        "authors": [
+          "Jan Hoogerbrugge",
+          "Henk Corporaal"
+        ]
+      },
+      {
+        "title": "Scheduling Instructions by Direct Placement.",
+        "authors": [
+          "Robert Griesemer"
+        ]
+      },
+      {
+        "title": "Compile-Time Analysis of Object-Oriented Programs.",
+        "authors": [
+          "Jan Vitek",
+          "R. Nigel Horspool",
+          "James S. Uhl"
+        ]
+      },
+      {
+        "title": "Partial Evaluation of C and Automatic Compiler Generation (Extended Abstract).",
+        "authors": [
+          "Lars Ole Andersen"
+        ]
+      },
+      {
+        "title": "A Term Pattern-Match Compiler Inspired by Finite Automata Theory.",
+        "authors": [
+          "Mikael Pettersson"
+        ]
+      },
+      {
+        "title": "Improving the Performance of Parallel LISP by Compile Time Analysis.",
+        "authors": [
+          "Jürgen Knopp"
+        ]
+      },
+      {
+        "title": "FCG: A Code Generator for Lazy Functional Languages.",
+        "authors": [
+          "Koen Langendoen",
+          "Pieter H. Hartel"
+        ]
+      },
+      {
+        "title": "Compiling Flang.",
+        "authors": [
+          "Andrei Mantsivoda",
+          "Vyacheslav Petukhin"
+        ]
+      },
+      {
+        "title": "The Implementation of ObjectMath - a High-Level Programming Environment for Scientific Computing.",
+        "authors": [
+          "Lars Viklund",
+          "Johan Herber",
+          "Peter Fritzson"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc90.html": {
+    "header": "3th CC 1990: Schwerin, Germany",
+    "year": "1990",
+    "papers": [
+      {
+        "title": "Recursive Ascent-Descent Parsers.",
+        "authors": [
+          "R. Nigel Horspool"
+        ]
+      },
+      {
+        "title": "Application Development with the FNC-2 Attribute Grammar System.",
+        "authors": [
+          "Martin Jourdan",
+          "Didier Parigot"
+        ]
+      },
+      {
+        "title": "Compilation for Instruction Parallel Processors.",
+        "authors": [
+          "Uwe Kastens"
+        ]
+      },
+      {
+        "title": "A Generator for Production Quality Compilers.",
+        "authors": [
+          "Hanspeter Mössenböck"
+        ]
+      },
+      {
+        "title": "Rie and Jun: Towards the Generation of all Compiler Phases.",
+        "authors": [
+          "Masataka Sassa"
+        ]
+      },
+      {
+        "title": "STARLET: An Affix-Based Compiler Compiler Designed as a Logic Programming System.",
+        "authors": [
+          "Jean Beney",
+          "Jean-François Boulicaut"
+        ]
+      },
+      {
+        "title": "PAGODE: A Back End Generator Using Attribute Abstract Syntaxes and Term Rewritings.",
+        "authors": [
+          "Annie Despland",
+          "Monique Mazaud",
+          "Raymond Rakotozafy"
+        ]
+      },
+      {
+        "title": "A Tool Box for Compiler Construction.",
+        "authors": [
+          "Josef Grosch",
+          "Helmut Emmelmann"
+        ]
+      },
+      {
+        "title": "Tools and Techniques of Annotated Programming.",
+        "authors": [
+          "Victor N. Kasyanov"
+        ]
+      },
+      {
+        "title": "A Compiler with Scheduling for a Specialized Synchronous Multiprocessor System.",
+        "authors": [
+          "Petr Kroha",
+          "Peter Fritzson"
+        ]
+      },
+      {
+        "title": "Using an LALR Compiler Compiler to Generate Incremental Parsers.",
+        "authors": [
+          "Jean-Marie Larchevêque"
+        ]
+      },
+      {
+        "title": "Generating Efficient Code from Continuation Semantics.",
+        "authors": [
+          "Mikael Pettersson"
+        ]
+      },
+      {
+        "title": "Optimizing Directly Executable LR Parsers.",
+        "authors": [
+          "Peter Pfahler"
+        ]
+      },
+      {
+        "title": "SYS/3 - A Software Development Tool.",
+        "authors": [
+          "János Toczki",
+          "Ferenc Kocsis",
+          "Tibor Gyimóthy",
+          "G. Dányi",
+          "Gabriella Kókai"
+        ]
+      },
+      {
+        "title": "An Attributed ELL(1)-Parser Generator (Abstract).",
+        "authors": [
+          "Henk Alblas",
+          "Joos Schaap-Krueseman"
+        ]
+      },
+      {
+        "title": "A Hybrid Top-Down Parsing Technique (Abstract).",
+        "authors": [
+          "Heinz Dobler"
+        ]
+      },
+      {
+        "title": "Computer-Aided Building of a Compiler: An Example (Abstract).",
+        "authors": [
+          "Carine Fédèle",
+          "Olivier Lecarme"
+        ]
+      },
+      {
+        "title": "Specification and Implementation of a Tree-Abiding Interface for Ada (Extended Abstract).",
+        "authors": [
+          "Martin Hartwig",
+          "Eckhard Stein",
+          "Roland Strobel"
+        ]
+      },
+      {
+        "title": "Towards a Multilingual Natural Language Understanding Interface (Extended Abstract).",
+        "authors": [
+          "Tamás Horváth",
+          "Zoltán Alexin",
+          "Tibor Gyimóthy",
+          "Károly Fábricz"
+        ]
+      },
+      {
+        "title": "Mixed Dialogue Control Defined by an Attribute Grammar (Abstract).",
+        "authors": [
+          "Uwe Lämmel",
+          "Peter Forbrig"
+        ]
+      },
+      {
+        "title": "MATE - A Metasystem with Concurrent Attribute Evaluation (Abstract).",
+        "authors": [
+          "Jürgen Lampe"
+        ]
+      },
+      {
+        "title": "A Practical Implementation of DCGs (Abstract).",
+        "authors": [
+          "Jukka Paakki"
+        ]
+      },
+      {
+        "title": "Algorithmic Debugging for Imperative Languages with Side-Effects (Abstract).",
+        "authors": [
+          "Nahid Shahmehri",
+          "Peter Fritzson"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cc/cc88.html": {
+    "header": "2th CCHSC 1988: Berlin, GDR",
+    "year": "1988",
+    "papers": [
+      {
+        "title": "A Short Review of High Speed Compilation.",
+        "authors": [
+          "Werner Aßmann"
+        ]
+      },
+      {
+        "title": "Incremental Symbol Processing.",
+        "authors": [
+          "Peter Fritzson"
+        ]
+      },
+      {
+        "title": "Software Engineering Aspects in Language Implementation.",
+        "authors": [
+          "Kai Koskimies"
+        ]
+      },
+      {
+        "title": "OPTRAN - A Language/System for the Specification of Program Transformations: System Overview and Experiences.",
+        "authors": [
+          "Peter Lipps",
+          "Ulrich Möncke",
+          "Reinhard Wilhelm"
+        ]
+      },
+      {
+        "title": "Compiler Construction by Object-Oriented System Nut.",
+        "authors": [
+          "Jaan Penjam"
+        ]
+      },
+      {
+        "title": "Generators for High-Speed Front-Ends.",
+        "authors": [
+          "Josef Grosch"
+        ]
+      },
+      {
+        "title": "Incremental Algorithms in Prof-LP.",
+        "authors": [
+          "Tibor Gyimóthy",
+          "Tamás Horváth",
+          "Ferenc Kocsis",
+          "János Toczki"
+        ]
+      },
+      {
+        "title": "Abstract Interfaces for Compiler Generating Tools.",
+        "authors": [
+          "Uwe Kastens"
+        ]
+      },
+      {
+        "title": "The INDIA Lexic Generator.",
+        "authors": [
+          "Michael Albinus",
+          "Werner Aßmann"
+        ]
+      },
+      {
+        "title": "ILALR: An Incremental Generator of LALR(1) Parsers.",
+        "authors": [
+          "R. Nigel Horspool"
+        ]
+      },
+      {
+        "title": "Type Checking in the Large.",
+        "authors": [
+          "Michael R. Levy"
+        ]
+      },
+      {
+        "title": "A Compiler Generator for Attributive Evaluation During LR Parsing.",
+        "authors": [
+          "Jorma Tarhio"
+        ]
+      },
+      {
+        "title": "Attributed Tree Transformations with Delayed and Smart Re-Evaluation.",
+        "authors": [
+          "Henk Alblas"
+        ]
+      },
+      {
+        "title": "Incremental Attribute Evaluation with Side-effects.",
+        "authors": [
+          "Görel Hedin"
+        ]
+      },
+      {
+        "title": "Optimizing Implementation of Aggregates in the Compiler Specification System MAGIC.",
+        "authors": [
+          "Arnd Poetzsch-Heffter"
+        ]
+      },
+      {
+        "title": "Code Generation for a RISC Machine.",
+        "authors": [
+          "Petr Kroha"
+        ]
+      },
+      {
+        "title": "Two Tree Pattern Matchers for Code Selection.",
+        "authors": [
+          "Beatrix Weisgerber",
+          "Reinhard Wilhelm"
+        ]
+      },
+      {
+        "title": "Generation of Incremental Indirect Threaded Code for Language-Based Programming Environments.",
+        "authors": [
+          "Khalid Azim Mughal"
+        ]
+      }
+    ]
+  }
+}

@@ -1,4 +1,342 @@
 {
+  "https://dblp.org/db/journals/tosem/tosem35.html": {
+    "header": "ACM Transactions on Software Engineering and Methodology, Volume 35",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "A Year in TOSEM: New Research Award, Agentic AI Special Issue and Much More.",
+        "authors": [
+          "Abhik Roychoudhury"
+        ]
+      },
+      {
+        "title": "Failure Diagnosis in Microservice Systems: A Comprehensive Survey and Analysis.",
+        "authors": [
+          "Shenglin Zhang",
+          "Sibo Xia",
+          "Wenzhao Fan",
+          "Binpeng Shi",
+          "Xiao Xiong",
+          "Zhenyu Zhong",
+          "Minghua Ma",
+          "Yongqian Sun",
+          "Dan Pei"
+        ]
+      },
+      {
+        "title": "PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing.",
+        "authors": [
+          "Yuwei Zhang",
+          "Zhi Jin",
+          "Ying Xing",
+          "Ge Li",
+          "Fang Liu",
+          "Jiaxin Zhu",
+          "Wensheng Dou",
+          "Jun Wei"
+        ]
+      },
+      {
+        "title": "Towards On-the-Fly Code Performance Profiling.",
+        "authors": [
+          "Xing Hu",
+          "Weixin Lin",
+          "Zhuang Liu",
+          "Michael Ling",
+          "Xin Xia",
+          "Yuan Wang",
+          "David Lo"
+        ]
+      },
+      {
+        "title": "Bias Testing and Mitigation in LLM-based Code Generation.",
+        "authors": [
+          "Dong Huang",
+          "Jie M. Zhang",
+          "Qingwen Bu",
+          "Xiaofei Xie",
+          "Junjie Chen",
+          "Heming Cui"
+        ]
+      },
+      {
+        "title": "Variable Renaming-Based Adversarial Test Generation for Code Model: Benchmark and Enhancement.",
+        "authors": [
+          "Jin Wen",
+          "Qiang Hu",
+          "Yuejun Guo",
+          "Maxime Cordy",
+          "Yves Le Traon"
+        ]
+      },
+      {
+        "title": "Reeq: Testing and Mitigating Ethically Inconsistent Suggestions of Large Language Models with Reflective Equilibrium.",
+        "authors": [
+          "Pingchuan Ma",
+          "Zhaoyu Wang",
+          "Zongjie Li",
+          "Zhenlan Ji",
+          "Ao Sun",
+          "Juergen Rahmel",
+          "Shuai Wang"
+        ]
+      },
+      {
+        "title": "JailGuard: A Universal Detection Framework for Prompt-based Attacks on LLM Systems.",
+        "authors": [
+          "Xiaoyu Zhang",
+          "Cen Zhang",
+          "Tianlin Li",
+          "Yihao Huang",
+          "Xiaojun Jia",
+          "Ming Hu",
+          "Jie Zhang",
+          "Yang Liu",
+          "Shiqing Ma",
+          "Chao Shen"
+        ]
+      },
+      {
+        "title": "Prompt-Based Code Completion via Multi-Retrieval Augmented Generation.",
+        "authors": [
+          "Hanzhuo Tan",
+          "Qi Luo",
+          "Ling Jiang",
+          "Zizheng Zhan",
+          "Jing Li",
+          "Haotian Zhang",
+          "Yuqun Zhang"
+        ]
+      },
+      {
+        "title": "Why Personalizing Deep Learning-Based Code Completion Tools Matters.",
+        "authors": [
+          "Alessandro Giagnorio",
+          "Alberto Martin-Lopez",
+          "Gabriele Bavota"
+        ]
+      },
+      {
+        "title": "NeuSemSlice: Towards Effective DNN Model Maintenance via Neuron-Level Semantic Slicing.",
+        "authors": [
+          "Shide Zhou",
+          "Tianlin Li",
+          "Yihao Huang",
+          "Ling Shi",
+          "Kailong Wang",
+          "Yang Liu",
+          "Haoyu Wang"
+        ]
+      },
+      {
+        "title": "Ecosystem of Large Language Models for Code.",
+        "authors": [
+          "Zhou Yang",
+          "Jieke Shi",
+          "Premkumar T. Devanbu",
+          "David Lo"
+        ]
+      },
+      {
+        "title": "FairGenerate: Enhancing Fairness through Synthetic Data Generation and Two-Fold Biased Labels Removal.",
+        "authors": [
+          "Hem Chandra Joshi",
+          "Sandeep Kumar"
+        ]
+      },
+      {
+        "title": "VEglue: Testing Visual Entailment Systems via Object-Aligned Joint Erasing.",
+        "authors": [
+          "Zhiyuan Chang",
+          "Mingyang Li",
+          "Junjie Wang",
+          "Cheng Li",
+          "Qing Wang"
+        ]
+      },
+      {
+        "title": "FoC: Figure Out the Cryptographic Functions in Stripped Binaries with LLMs.",
+        "authors": [
+          "Xiuwei Shang",
+          "Guoqiang Chen",
+          "Shaoyin Cheng",
+          "Shikai Guo",
+          "Yanming Zhang",
+          "Weiming Zhang",
+          "Nenghai Yu"
+        ]
+      },
+      {
+        "title": "LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements.",
+        "authors": [
+          "Renyi Zhong",
+          "Yichen Li",
+          "Jinxi Kuang",
+          "Wenwei Gu",
+          "Yintong Huo",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "Efficient Generation of Test Cases for MPI Program Path Coverage through Elite Individual Selection.",
+        "authors": [
+          "Yong Wang",
+          "Wenzhong Cui",
+          "Gai-Ge Wang",
+          "Jian Wang",
+          "Dunwei Gong"
+        ]
+      },
+      {
+        "title": "Test Script Intention Generation for Mobile Application via GUI Image and Code Understanding.",
+        "authors": [
+          "Shengcheng Yu",
+          "Chunrong Fang",
+          "Jia Liu",
+          "Zhenyu Chen"
+        ]
+      },
+      {
+        "title": "Test Oracle Generation for REST APIs.",
+        "authors": [
+          "Juan C. Alonso",
+          "Michael D. Ernst",
+          "Sergio Segura",
+          "Antonio Ruiz-Cortés"
+        ]
+      },
+      {
+        "title": "Improving Test Efficacy for Large-Scale Android Applications by Exploiting GUI and Functional Equivalence.",
+        "authors": [
+          "Yifei Lu",
+          "Minxue Pan",
+          "Haochuan Lu",
+          "Yuetang Deng",
+          "Tian Zhang",
+          "Linzhang Wang",
+          "Xuandong Li"
+        ]
+      },
+      {
+        "title": "Characterizing Installation- and Run-time Compatibility Issues in Android Benign Apps and Malware.",
+        "authors": [
+          "Jiawei Guo",
+          "Xiaoqin Fu",
+          "Li Li",
+          "Tao Zhang",
+          "Mattia Fazzini",
+          "Haipeng Cai"
+        ]
+      },
+      {
+        "title": "WizardMerge - Save Us from Merging without Any Clues.",
+        "authors": [
+          "Qingyu Zhang",
+          "Junzhe Li",
+          "Jiayi Lin",
+          "Jie Ding",
+          "Lanteng Lin",
+          "Chenxiong Qian"
+        ]
+      },
+      {
+        "title": "Investigating the Role of Cultural Values in Adopting Large Language Models for Software Engineering.",
+        "authors": [
+          "Stefano Lambiase",
+          "Gemma Catolino",
+          "Fabio Palomba",
+          "Filomena Ferrucci",
+          "Daniel Russo"
+        ]
+      },
+      {
+        "title": "Improving Code Reviewer Recommendation: Accuracy, Latency, Workload, and Bystanders.",
+        "authors": [
+          "Peter C. Rigby",
+          "Seth Rogers",
+          "Sadruddin Saleem",
+          "Parth Suresh",
+          "Daniel Suskin",
+          "Patrick Riggs",
+          "Chandra Shekhar Maddila",
+          "Nachiappan Nagappan",
+          "Audris Mockus"
+        ]
+      },
+      {
+        "title": "Enhancing Log Sentiments: An Exploratory Study of Sentiments and Emotions with Software Logs.",
+        "authors": [
+          "Xiaohui Wang",
+          "Youshuai Tan",
+          "Zishuo Ding",
+          "Jinfu Chen",
+          "Jifeng Xuan",
+          "Weiyi Shang"
+        ]
+      },
+      {
+        "title": "Understanding Mirror Bugs in Multiple-Language Projects.",
+        "authors": [
+          "Ye Tang",
+          "Honghao Chen",
+          "Zhixing He",
+          "Hao Zhong"
+        ]
+      },
+      {
+        "title": "How Configurable Is the Linux Kernel? Analyzing Two Decades of Feature-Model History.",
+        "authors": [
+          "Elias Kuiter",
+          "Chico Sundermann",
+          "Thomas Thüm",
+          "Tobias Heß",
+          "Sebastian Krieter",
+          "Gunter Saake"
+        ]
+      },
+      {
+        "title": "A Survey on Failure Analysis and Fault Injection in AI Systems.",
+        "authors": [
+          "Guangba Yu",
+          "Gou Tan",
+          "Haojia Huang",
+          "Zhenyu Zhang",
+          "Pengfei Chen",
+          "Roberto Natella",
+          "Zibin Zheng",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "The Havoc Paradox in Generator-Based Fuzzing.",
+        "authors": [
+          "Ao Li",
+          "Madonna Huang",
+          "Vasudev Vikram",
+          "Caroline Lemieux",
+          "Rohan Padhye"
+        ]
+      },
+      {
+        "title": "Testing Abstractions for Cyber-Physical Control Systems - RCR Report.",
+        "authors": [
+          "Claudio Mandrioli",
+          "Max Nyberg Carlsson",
+          "Martina Maggio"
+        ]
+      },
+      {
+        "title": "The Havoc Paradox in Generator-Based Fuzzing - RCR Report.",
+        "authors": [
+          "Ao Li",
+          "Madonna Huang",
+          "Vasudev Vikram",
+          "Caroline Lemieux",
+          "Rohan Padhye"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/tosem/tosem34.html": {
     "header": "ACM Transactions on Software Engineering and Methodology, Volume 34",
     "year": "2025",

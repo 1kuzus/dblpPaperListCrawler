@@ -10,9 +10,9 @@
 
 ## 已有数据
 
-仓库中已经包含了[中国计算机学会推荐国际学术会议和期刊目录-2022更名版](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=FE0A8E6CB2A39A42BE7701819F54CBB01DD9A874BD99C2BEC97A342E61629613)
-（此文件的发布时间是2024年6月）中**网络与信息安全**、**计算机网络**、**软件工程/系统软件/程序设计语言**
-三个方向的A类、B类、C类及其他共`194`个期刊/会议的爬取结果。最近更新时间为`2026-01-10`。
+仓库中已经包含了[中国计算机学会推荐国际学术会议和期刊目录第七版（2026年3月更新）](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=B5639A3ECFB75821FF031018D0F092E8CFD36A85C39856A9AD87394A4F9124C2)
+（此文件的发布时间是2026年3月）中**网络与信息安全**、**计算机网络**、**软件工程/系统软件/程序设计语言**
+三个方向共`200`个期刊/会议的爬取结果。最近更新时间为`2026-03-09`。
 
 仓库中已爬取的期刊/会议列表见[`output/full_name_mapping.json`](output/full_name_mapping.json)
 ，每个期刊/会议的论文列表见[`output/paper_lists/`](output/paper_lists)。
@@ -40,4 +40,4 @@ if __name__ == "__main__":
 ```
 
 `indices`中的值应该与[dblp.org](https://dblp.org)
-中各个期刊/会议的URL路径一致，具体路径可以参考[`ccf2022.pdf`](ccf2022.pdf)。
+中各个期刊/会议的URL路径一致，具体路径可以参考[`ccf2026.pdf`](ccf2026.pdf)。

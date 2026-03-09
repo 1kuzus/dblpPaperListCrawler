@@ -1,4 +1,769 @@
 {
+  "https://dblp.org/db/conf/cisc/inscrypt2025-3.html": {
+    "header": "21st Inscrypt 2025: Xi'an, China - Part III",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Homomorphic MaxPooling via Bootstrapping for Privacy-Preserving Neural Networks.",
+        "authors": [
+          "Peng Zhang",
+          "Hengrui Lu",
+          "Tianbin Ding"
+        ]
+      },
+      {
+        "title": "PrivGGM: Private Data Synthesis Using Multivariate Gaussian Generative Models and Fuzzy Rough Sets.",
+        "authors": [
+          "Peirong Li",
+          "Li-Ping Wang"
+        ]
+      },
+      {
+        "title": "A Framework for Efficient Enhanced Privacy ID from Group Actions.",
+        "authors": [
+          "Ying Chen",
+          "Debiao He",
+          "Zijian Bao",
+          "Cong Peng",
+          "Min Luo"
+        ]
+      },
+      {
+        "title": "Publicly Verifiable Private Information Retrieval Protocols Based on Function Secret Sharing.",
+        "authors": [
+          "Lin Zhu",
+          "Lingwei Kong",
+          "Xin Ning",
+          "Xiaoyang Qu",
+          "Jianzong Wang"
+        ]
+      },
+      {
+        "title": "FH-TEE: Single Enclave for All Applications.",
+        "authors": [
+          "Jikang Bai",
+          "Ruida Wang",
+          "Xianhui Lu",
+          "Chunling Chen",
+          "Kunpeng Wang"
+        ]
+      },
+      {
+        "title": "Comparing and Improving Perturbation Mechanisms Under Local Differential Privacy.",
+        "authors": [
+          "She Sun",
+          "Li Zhou",
+          "Xiaoran Yan",
+          "Yi Liu",
+          "Huiwen Wu",
+          "Jian Yang"
+        ]
+      },
+      {
+        "title": "Anonymous Attribute-Based Multi-keyword Searchable Encryption Scheme for Medical Data Sharing Using Blockchain.",
+        "authors": [
+          "Ziheng Yan",
+          "Bo Zhang"
+        ]
+      },
+      {
+        "title": "Invisible Data Capsule: Bridging On-chain and Off-chain Data Collaboration.",
+        "authors": [
+          "Siyuan Shang",
+          "Xuehui Du",
+          "Aodi Liu",
+          "Xiaohan Wang",
+          "Shilong Yu"
+        ]
+      },
+      {
+        "title": "DNNKeyLock: Securing Deep Neural Network Intellectual Property with Steganography and Token Authentication.",
+        "authors": [
+          "Mengdi Li",
+          "Xiang Li",
+          "Feng Tian",
+          "Chuanyuan Zhao",
+          "Jie Ren"
+        ]
+      },
+      {
+        "title": "HBS Algorithmic Database Construction: A Chain-of-Thought-Driven Approach.",
+        "authors": [
+          "Kaili Dou",
+          "Yanyan Han",
+          "Xiaolin Li",
+          "Qi Zhu",
+          "Duo Zhang",
+          "Yanru He"
+        ]
+      },
+      {
+        "title": "EGNNFingers: Explainability-Driven Fingerprinting Framework for GNN Ownership Verification.",
+        "authors": [
+          "Wenqi Chen",
+          "Jie Zhou",
+          "Jinhao Sun",
+          "Shengke Zeng",
+          "Yiran Li"
+        ]
+      },
+      {
+        "title": "Vertical Federated Convolutional Framework Based on Function Secret Sharing.",
+        "authors": [
+          "Long Teng",
+          "Qi Feng",
+          "Min Luo",
+          "Debiao He"
+        ]
+      },
+      {
+        "title": "Transferable Dormant Backdoor: Covertly Embedding Transferable Backdoor via Knowledge Distillation in Pre-trained Models.",
+        "authors": [
+          "Zhenzhi Teng",
+          "Xu Ma",
+          "Xiaoyu Zhang"
+        ]
+      },
+      {
+        "title": "Detecting Stealthy Backdoor Attacks in Federated Learning via Wavelet Analysis on Dynamic Dimensions.",
+        "authors": [
+          "Tian Zhang",
+          "Bing Chen",
+          "Jiale Zhang",
+          "Hao Sui"
+        ]
+      },
+      {
+        "title": "Backdoor Attacks for Geographic Information Science with Principal Component Analysis and Singular Value Decomposition.",
+        "authors": [
+          "Wenyin Yang",
+          "Zhiliang Zhang",
+          "Fen Liu",
+          "Li Ma",
+          "Weidong Wu",
+          "Miaoji Zheng"
+        ]
+      },
+      {
+        "title": "SeqFuzz: Efficient Kernel Directed Fuzzing via Effective Component Inference.",
+        "authors": [
+          "Lu Zhang",
+          "Yuwei Li",
+          "Tingke Wen",
+          "Jiacheng Xu",
+          "Yanlin Li",
+          "Song Wang",
+          "Huimin Ma",
+          "Miao Hu",
+          "Zulie Pan"
+        ]
+      },
+      {
+        "title": "LLM-DAS: An LLM-Powered Deobfuscation System for ARM Binary Code.",
+        "authors": [
+          "Jiahan Liu",
+          "Jing Jing",
+          "Jian Lin",
+          "Haonan Sun",
+          "Bing Zhu"
+        ]
+      },
+      {
+        "title": "Dynamic Generation Method of SELinux Policy Based on Knowledge Graph.",
+        "authors": [
+          "Jin Li",
+          "Yina Hou",
+          "Jiaxin He",
+          "Hanyv Wang"
+        ]
+      },
+      {
+        "title": "CANalyze-AI: Semantic Zero-Day Detection and Rule Synthesis via LoRA-Fine-Tuned LLM for CAN Security.",
+        "authors": [
+          "Awais Bilal",
+          "Liehuang Zhu",
+          "Kashif Sharif",
+          "Fan Li",
+          "Sadaf Bukhari"
+        ]
+      },
+      {
+        "title": "FuzzyHawk: Unveiling Ransomware Behavior Patterns via Graph-Based Fuzzy Matching.",
+        "authors": [
+          "Lingbo Zhao",
+          "Yuhui Zhang",
+          "Rui Hou"
+        ]
+      },
+      {
+        "title": "SC-HNM: Filtering False Negatives for Network Service Embeddings.",
+        "authors": [
+          "Xuyun Wu",
+          "Yinbing Lu",
+          "Yong Yuan",
+          "Xuying Zhou",
+          "Cheng Qian"
+        ]
+      },
+      {
+        "title": "Min-Entropy Estimation for Physical Layer Key Generation: An Empirical Study.",
+        "authors": [
+          "Dongchi Han",
+          "Yuan Ma",
+          "Tianyu Chen",
+          "Liliang Guan",
+          "Xianhui Lu"
+        ]
+      },
+      {
+        "title": "Dual Modal Featuring Scheme for Learning Based Android Malware Prevention.",
+        "authors": [
+          "Jiaxiong Chen",
+          "Jinchuan Liu",
+          "Shuaishuai Tan",
+          "Zehua Zhang",
+          "Junhang Fu",
+          "Qiannan Lin",
+          "Haowen Tan"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cisc/inscrypt2025-2.html": {
+    "header": "21st Inscrypt 2025: Xi'an, China - Part II",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Quantum-Computation Classical-Communication Commitments from SZK-Hardness.",
+        "authors": [
+          "Kexin Gao",
+          "Shujiao Cao",
+          "Rui Xue"
+        ]
+      },
+      {
+        "title": "Concretely Efficient Constructions for Differentially Private Set Intersection.",
+        "authors": [
+          "Xinyu Peng",
+          "Yufei Wang",
+          "Weiran Liu",
+          "Liqiang Peng",
+          "Feng Han",
+          "Li Duan",
+          "Zhen Gu",
+          "Jianling Sun",
+          "Yuan Hong"
+        ]
+      },
+      {
+        "title": "MSFS: Maliciously Secure 3-Party Feature Selection via Mutual Information.",
+        "authors": [
+          "Peijun Zhao",
+          "Lin Liu",
+          "Shaojing Fu",
+          "Yuchuan Luo"
+        ]
+      },
+      {
+        "title": "Adaptive Batched K-out-of-N Oblivious Transfers Extension.",
+        "authors": [
+          "Zhaoyi Liu",
+          "Huijie Yang",
+          "Jian Shen",
+          "Jianfei Sun"
+        ]
+      },
+      {
+        "title": "Programming Equation Systems of Arithmetization-Oriented Primitives with Constraints.",
+        "authors": [
+          "Kexin Qiao",
+          "Mengyu Chang",
+          "Junjie Cheng",
+          "Changhai Ou",
+          "An Wang",
+          "Liehuang Zhu"
+        ]
+      },
+      {
+        "title": "Anomaly Detection for ADS-B Data Based on KAN-LSTM.",
+        "authors": [
+          "Lixia Xie",
+          "Yazhou Ning",
+          "Hongyu Yang",
+          "Youwen Zhu",
+          "Huiling Hu",
+          "Xiang Cheng"
+        ]
+      },
+      {
+        "title": "Network Intrusion Detection Method Based on Multi-scale Feature Clustering and Improved Honey Badger Algorithm.",
+        "authors": [
+          "Hanlei Wang",
+          "Yanqing Yang",
+          "Jiafei Dong"
+        ]
+      },
+      {
+        "title": "SAGE: Spatiotemporal Feature Fusion for Anomaly Detection in Multivariate Time Series.",
+        "authors": [
+          "Haojie Shi",
+          "Yong Wang",
+          "Lin Zhou"
+        ]
+      },
+      {
+        "title": "MoE-CNN with Dynamic Feature Selection and CSAM for Network Anomaly Detection.",
+        "authors": [
+          "Xinxin Wen",
+          "Xianfeng Guo",
+          "Xinyue Yan",
+          "Jiaxi Li",
+          "Hongyi Li"
+        ]
+      },
+      {
+        "title": "PP-MTAD: Privacy-Preserving and Efficient Multivariate Time Series Anomaly Detection.",
+        "authors": [
+          "Minhua Su",
+          "Jia-Nan Liu",
+          "Kai He",
+          "Jia-Si Weng",
+          "Anjia Yang",
+          "Xueqiao Liu",
+          "Jian Weng"
+        ]
+      },
+      {
+        "title": "LogWhisperer: Multi-log Semantic Similarity Analysis Based Intelligent Vehicle Anomaly Detection Without Log Template.",
+        "authors": [
+          "Hongyi Guo",
+          "Kun Yang",
+          "Kui Ren"
+        ]
+      },
+      {
+        "title": "An Early Detection of Risky Crowd Dynamics Scheme Based on Motion Entropy and Scene Semantics.",
+        "authors": [
+          "Sourabh Choudhary",
+          "Chunqiang Hu",
+          "Syed Murtoza Mushrul Pasha",
+          "MD Tanvir Islam",
+          "Rashedin Islam",
+          "Himo Arnob Barua"
+        ]
+      },
+      {
+        "title": "Enhancing Explainability in X-IDS Through Counterfactuals.",
+        "authors": [
+          "Quan Li",
+          "Yuhong Li"
+        ]
+      },
+      {
+        "title": "What Interferes with the Accurate Detection of Origin Hijacking Anomalies?",
+        "authors": [
+          "Yuancheng Xie",
+          "Zhaoxin Zhang",
+          "Ning Li"
+        ]
+      },
+      {
+        "title": "Verifiable and Privacy-Preserving Deep Packet Inspection for Multiple Rule Service Providers.",
+        "authors": [
+          "Zhentao Long",
+          "Pengfei Wu",
+          "Kai Zhang",
+          "Junqing Gong",
+          "Jianting Ning"
+        ]
+      },
+      {
+        "title": "Towards Adaptive Network Defense: A Self-evolving Threat Detection Framework.",
+        "authors": [
+          "Chaoqun Guo",
+          "Dalin Zhang"
+        ]
+      },
+      {
+        "title": "Early Detection of Malicious Traffic Based on Graph Modeling and Spatio-Temporal Attention Approach.",
+        "authors": [
+          "Jinchuan Liu",
+          "Shuaishuai Tan",
+          "Jiaxiong Chen",
+          "Zehua Zhang",
+          "Qiannan Lin",
+          "Zhaoyan Chen",
+          "Junhang Fu"
+        ]
+      },
+      {
+        "title": "Revealing the Frailty of Static Benchmarks: The DyNA-IDS Framework for Concept Drift Adaptation in Time-Series Network Intrusion Detection.",
+        "authors": [
+          "Kun Jia",
+          "Haizhen Gao",
+          "Jiyun Chen",
+          "Jiayin Qi"
+        ]
+      },
+      {
+        "title": "iSSH: Enabling In-Flight SSH Traffic Inspection Without Key Escrow.",
+        "authors": [
+          "Xincheng Tang",
+          "Jiahao Liu",
+          "Jinrong Chen",
+          "Yi Wang",
+          "Rongmao Chen"
+        ]
+      },
+      {
+        "title": "Tracing Your Roots: Exploring the Security Issues of Root Certificates in Android TLS Connections.",
+        "authors": [
+          "Xinyu Wei",
+          "Yuewu Wang",
+          "Lingguang Lei",
+          "Peng Wang",
+          "Chunjing Kou",
+          "Siyuan Ma"
+        ]
+      },
+      {
+        "title": "Exploring the Root Store Usage in TLS-Based Applications.",
+        "authors": [
+          "Yuxiang Shen",
+          "Wei Wang",
+          "Shushang Wen",
+          "Yu Fu",
+          "Yunhao Jia",
+          "Jingqiang Lin"
+        ]
+      },
+      {
+        "title": "LSDBFT: A Loose DAG-Based Asynchronous BFT Consensus Algorithm with Fair Ordering.",
+        "authors": [
+          "Chaofeng Zhuang",
+          "Haifeng Qian"
+        ]
+      },
+      {
+        "title": "FRanCS: A Fair and Randomized Anonymous Network Circuit Selection Mechanism with Blockchain.",
+        "authors": [
+          "Qiyuan Gao",
+          "Qianhong Wu",
+          "Junxiang Nong",
+          "Qi Liu"
+        ]
+      },
+      {
+        "title": "Robust Training of Efficient Traffic Classifier with Noisy Labels.",
+        "authors": [
+          "Zuoyu Qiu",
+          "Mingwei Zhan",
+          "Xianwen Deng",
+          "Zhi Xue",
+          "Yijun Wang",
+          "Ruijie Zhao"
+        ]
+      },
+      {
+        "title": "A Multimodal Asynchronous Federated Learning Approach for Encrypted Traffic Classification.",
+        "authors": [
+          "Xiangbin Wang",
+          "Qingjun Yuan",
+          "Yongjuan Wang",
+          "Yu Yan",
+          "Xiangyu Wang",
+          "Chunxiang Gu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/cisc/inscrypt2025-1.html": {
+    "header": "21st Inscrypt 2025: Xi'an, China - Part I",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Further Research on Meet-LWE and Its Application to Weakened Kyber.",
+        "authors": [
+          "Shengye Song",
+          "Zhongxiao Wang",
+          "Hong Xu",
+          "Qunxiong Zheng",
+          "Xiaoxin Zhao"
+        ]
+      },
+      {
+        "title": "Efficient Implementation of Post-quantum Signature Algorithms for Next Generation of Blockchains.",
+        "authors": [
+          "Souad N'Ait Bella",
+          "Yunusa Simpa Abdulsalam",
+          "Mustapha Hedabou"
+        ]
+      },
+      {
+        "title": "Accelerating NTRU-Based Bootstrapping with Block Key Distributions.",
+        "authors": [
+          "Jingwei Feng",
+          "Baofeng Wu",
+          "Dongdai Lin",
+          "Binwu Xiang"
+        ]
+      },
+      {
+        "title": "Lattice IBE from Non-spherical Gaussian Sampling with Tight Security.",
+        "authors": [
+          "Guotao Chai",
+          "Renjie Jin",
+          "Shuoqu Jian",
+          "Longjiang Qu"
+        ]
+      },
+      {
+        "title": "Fast Multi-key Bootstrapping Instantiated with NTRU and (R)LWE.",
+        "authors": [
+          "Zhen Han",
+          "Jia-Si Weng",
+          "Sen Dong",
+          "Jian Weng"
+        ]
+      },
+      {
+        "title": "An Area-Performance Balanced Hardware Accelerator of NTT for Kyber.",
+        "authors": [
+          "Jingyi Xu",
+          "Yingming Zeng",
+          "Wei Deng",
+          "Lei Han",
+          "Chong Luo"
+        ]
+      },
+      {
+        "title": "A Framework for Fully Compact Transparent Ring Signature on Lattice and Its Instantiation.",
+        "authors": [
+          "Weiping Ji",
+          "Siu-Ming Yiu",
+          "Zichen Li",
+          "Yanmin Zhao"
+        ]
+      },
+      {
+        "title": "Tighter Security Proof of Falcon+ in the Quantum Random Oracle Model.",
+        "authors": [
+          "Jiacheng Li",
+          "Haodong Jiang",
+          "Hong Wang",
+          "Qianheng Duan"
+        ]
+      },
+      {
+        "title": "Speedy Error Reconciliation.",
+        "authors": [
+          "Kaibo Liu",
+          "Xiaozhuo Gu",
+          "Peixin Ren",
+          "Xuwen Nie",
+          "Yunlv Lv"
+        ]
+      },
+      {
+        "title": "A Note on the Simpler Construction to Achieve Dynamic FE via IBE.",
+        "authors": [
+          "Dingding Jia"
+        ]
+      },
+      {
+        "title": "Onion Encryption Revisited: Relations Among Security Notions.",
+        "authors": [
+          "Daichong Chao",
+          "Liehuang Zhu",
+          "Dawei Xu",
+          "Tong Wu",
+          "Chuan Zhang",
+          "Fuchun Guo"
+        ]
+      },
+      {
+        "title": "New Key Combiner Schemes for Multiple Keys.",
+        "authors": [
+          "Haoyang Wang",
+          "Tianning Wang",
+          "Guilin Wang"
+        ]
+      },
+      {
+        "title": "Wildcarded Identity-Based Inner Product Encryption Based on SM9.",
+        "authors": [
+          "Zinan Shen",
+          "Xinyu Feng",
+          "Xu Dong",
+          "Cong Li",
+          "Qingni Shen"
+        ]
+      },
+      {
+        "title": "Dual-Threshold Verifiable Witness Encryption for Signatures and Its Applications.",
+        "authors": [
+          "Yalong Wang",
+          "Cong Peng",
+          "Qi Feng",
+          "Yulin Liu",
+          "Xiaohong Li"
+        ]
+      },
+      {
+        "title": "Improved Quantum Cryptanalysis on Generalized Feistel Structure.",
+        "authors": [
+          "Yingkai Wei",
+          "Qun Liu",
+          "Boyun Li",
+          "Zengpeng Li"
+        ]
+      },
+      {
+        "title": "Algebraic Cryptanalysis on Reduced-Round Trivium-LE.",
+        "authors": [
+          "Zhenguo Yan",
+          "Zhiyu Zhang",
+          "Shuai Chang",
+          "Lei Hu"
+        ]
+      },
+      {
+        "title": "Automated Periodic Distinguisher Search for AND-RX Ciphers.",
+        "authors": [
+          "Hongyu Lu",
+          "Qun Liu",
+          "Boyun Li",
+          "Jingbo Qiao",
+          "Jingwen Chen",
+          "Meiqin Wang"
+        ]
+      },
+      {
+        "title": "Efficient Reconstruction of S-Boxes from Partial Cryptographic Tables via MILP Modeling.",
+        "authors": [
+          "Yanqi Chen",
+          "Yao Sun"
+        ]
+      },
+      {
+        "title": "Quantum Bisimulation-Based Acceleration Method for Quantum Cryptographic Protocol Verification.",
+        "authors": [
+          "Min Guan",
+          "Juan Xu",
+          "Jian Lei"
+        ]
+      },
+      {
+        "title": "Arithmetic Autocorrelation of Certain Binary Half-ℓ-Sequences.",
+        "authors": [
+          "Lingmei Xiao",
+          "Vladimir Edemskiy"
+        ]
+      },
+      {
+        "title": "Related-Key Rectangle Attacks on Round-Reduced TWINE.",
+        "authors": [
+          "Chen Wang",
+          "Muzhou Li",
+          "Meiqin Wang"
+        ]
+      },
+      {
+        "title": "TwoLayerF: A Two-Layer Framework of PNB-Based Key Recovery Attacks on ChaCha.",
+        "authors": [
+          "Xinhai Wang",
+          "Lin Ding",
+          "Zhengting Li",
+          "Jiang Wan",
+          "Tairong Shi"
+        ]
+      },
+      {
+        "title": "Exploring AI-Assisted Cryptanalytic Attacks on Multisets.",
+        "authors": [
+          "Longxiang Wei",
+          "Hao Lei",
+          "Kai Hu",
+          "Liu Zhang",
+          "Meiqin Wang"
+        ]
+      },
+      {
+        "title": "Distributed Quantum Key Recovery Attack on Pseudorandom Functions.",
+        "authors": [
+          "Kun Zhang",
+          "Tao Shang",
+          "Yuanjing Zhang",
+          "Jianwei Liu"
+        ]
+      },
+      {
+        "title": "An Area-Efficient Design of ZUC-256 Through Hardware Optimization.",
+        "authors": [
+          "Ao Shen",
+          "Ding Deng",
+          "Yangbo Huang",
+          "Pengyue Sun",
+          "Feixue Wang"
+        ]
+      },
+      {
+        "title": "Revisit Bitslice Implementation of Dummy Shuffling.",
+        "authors": [
+          "Xujing Wu",
+          "Jinliang Wang",
+          "Runhao Wei",
+          "Yunling Zhang",
+          "Meiqin Wang"
+        ]
+      },
+      {
+        "title": "TS-Seg: Temporal-Spatial Feature Fusion Based Side-Channel Trace Segmentation.",
+        "authors": [
+          "Yuxuan Meng",
+          "Baosheng Wang",
+          "Qianqian Xing",
+          "Xiaofeng Wang",
+          "Yi Wang"
+        ]
+      },
+      {
+        "title": "Leakage-Abuse Attack Against Substring-SSE with Partially Known Dataset.",
+        "authors": [
+          "Xijie Ba",
+          "Qin Liu",
+          "Xiaohong Li",
+          "Jianting Ning"
+        ]
+      },
+      {
+        "title": "Bit-By-Bit Total Collapse: A Novel Side-Channel Attack on HQC-128 Decapsulation.",
+        "authors": [
+          "Yang Yi",
+          "Zhu Wang",
+          "Jianfeng Du",
+          "Aimin Yu"
+        ]
+      },
+      {
+        "title": "Multi-feature Fusion Leakage Abuse Attacks Against Dynamic Searchable Symmetric Encryption.",
+        "authors": [
+          "Ruizhong Du",
+          "Jiahao Wang",
+          "Mingyue Li"
+        ]
+      },
+      {
+        "title": "A Novel Checking Scheme for Parallel Key Recovery Side-Channel Attack Against Kyber.",
+        "authors": [
+          "Qian Du",
+          "Jinnuo Li",
+          "Ziran Lin",
+          "Chi Cheng"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/cisc/inscrypt2024-2.html": {
     "header": "20th Inscrypt 2024: Kunming, China - Part II",
     "year": "2024",

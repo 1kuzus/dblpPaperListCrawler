@@ -1,4 +1,462 @@
 {
+  "https://dblp.org/db/journals/infsof/infsof194.html": {
+    "header": "Information & Software Technology, Volume 194",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "Exploring and characterizing cross-service defects in microservice projects.",
+        "authors": [
+          "Chaochao Wu",
+          "Ran Mo",
+          "Wei Ding",
+          "Haopeng Song",
+          "Zengyang Li",
+          "Yutao Ma"
+        ]
+      },
+      {
+        "title": "SRSPSQL: A dual-stage Text-to-SQL framework with semantic rewriting and schema pruning.",
+        "authors": [
+          "Jianjun Lei",
+          "Zhichao Li",
+          "Ying Wang"
+        ]
+      },
+      {
+        "title": "AI Act high-risk AI compliance challenge and industry impact: A multiple case study.",
+        "authors": [
+          "Matthias Wagner",
+          "Qunying Song",
+          "Markus Borg",
+          "Emelie Engström",
+          "Michal Lysek"
+        ]
+      },
+      {
+        "title": "Integrating formal methods and automated tools for DO-178C compliance in UAV software.",
+        "authors": [
+          "Rim Zrelli",
+          "Henrique Amaral Misson",
+          "Sorelle Audrey K. Kamkuimo",
+          "Maroua Ben Attia",
+          "Abdo Shabah",
+          "Felipe Gohring de Magalhaes",
+          "Gabriela Nicolescu"
+        ]
+      },
+      {
+        "title": "SAME: A Similarity Analysis Method for Evaluating Metamorphic Relations in Testing AI systems.",
+        "authors": [
+          "Zhehao Li",
+          "Jinfu Chen",
+          "Xiaodong Xie",
+          "Tsong Yueh Chen",
+          "Saihua Cai"
+        ]
+      },
+      {
+        "title": "AI-gile: Revisiting Agile principles in the era of AI.",
+        "authors": [
+          "Salvatore F. Pileggi",
+          "Gnana Bharathy"
+        ]
+      },
+      {
+        "title": "SEDMR: A spreadsheet error detection approach based on metamorphic testing.",
+        "authors": [
+          "Bo Yang",
+          "Xuelian Hu",
+          "Jiatong Ma"
+        ]
+      },
+      {
+        "title": "Test automation with selenium: A survey.",
+        "authors": [
+          "Boni García",
+          "Filippo Ricca",
+          "Maurizio Leotta",
+          "Mario Muñoz Organero"
+        ]
+      },
+      {
+        "title": "PatchFuzz: Patch fuzzing for JavaScript engines.",
+        "authors": [
+          "Junjie Wang",
+          "Zhihua Xie",
+          "Xiaofei Xie",
+          "Xiaoning Du",
+          "Xiangwei Zhang"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/infsof/infsof193.html": {
+    "header": "Information & Software Technology, Volume 193",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "Speculation for RE: addressing unanticipated consequence.",
+        "authors": [
+          "Andrew Darby",
+          "Peter Sawyer",
+          "Nelly Bencomo"
+        ]
+      },
+      {
+        "title": "Beyond platforms - Growing distributed transaction networks for digital commerce.",
+        "authors": [
+          "Yvonne Dittrich",
+          "Kim Peiter Jørgensen",
+          "Ravi Prakash",
+          "Willard Rafnsson",
+          "Jonas Kastberg Hinrichsen"
+        ]
+      },
+      {
+        "title": "An architectural perspective on MLOps: Structures, processes, tools, and stakeholders.",
+        "authors": [
+          "Faezeh Amou Najafabadi",
+          "Justus Bogner",
+          "Ilias Gerostathopoulos",
+          "Patricia Lago"
+        ]
+      },
+      {
+        "title": "Uncovering challenges of cybersecurity cross-regulation in EU legislation.",
+        "authors": [
+          "Daniele Canavese",
+          "Afonso Ferreira",
+          "Liina Kamm",
+          "Adrian Quesada Rodriguez"
+        ]
+      },
+      {
+        "title": "Fairness-aware graph representation learning through bias disentanglement.",
+        "authors": [
+          "Shuhan Liu",
+          "Zheyun Qin",
+          "Xuan Hou",
+          "Yining Wang",
+          "Ziwen Wang",
+          "Zhaohui Peng"
+        ]
+      },
+      {
+        "title": "Designing an ISO 23247-compliant Hybrid Digital Twin Architecture for industry.",
+        "authors": [
+          "Alfredo Garro",
+          "Alessandro Sorrenti"
+        ]
+      },
+      {
+        "title": "Towards bias-free recruitment: Adversarial contrastive tuning for LLM-based resume screening.",
+        "authors": [
+          "Fengyu Wu",
+          "Ayong Ye",
+          "Zihan Cai",
+          "Jing Chen"
+        ]
+      },
+      {
+        "title": "Structured policy modeling and context-aware generation for multi-jurisdictional compliance in global software systems.",
+        "authors": [
+          "Zhixian Zhuang",
+          "Xiaodong Lee",
+          "Aiyao Zhang",
+          "Jiuqi Wei",
+          "Yufan Fu",
+          "Botao Peng"
+        ]
+      },
+      {
+        "title": "A decision model for selecting FaaS platforms.",
+        "authors": [
+          "Muhammad Hamza",
+          "Siamak Farshidi",
+          "Muhammad Azeem Akbar",
+          "Rafael Capilla",
+          "Slinger Jansen",
+          "Kari Smolander"
+        ]
+      },
+      {
+        "title": "COTVD: A function-level vulnerability detection framework using chain-of-thought reasoning with large language models.",
+        "authors": [
+          "Yinan Chen",
+          "Xiangping Chen",
+          "Yuan Huang",
+          "Changlin Yang",
+          "Lei Yun"
+        ]
+      },
+      {
+        "title": "Enhancing building environments: A digital twin approach for informed decision-making and better campus experiences.",
+        "authors": [
+          "Gianni Tumedei",
+          "Chiara Ceccarini",
+          "Luca Giulianini",
+          "Giovanni Delnevo",
+          "Catia Prandi"
+        ]
+      },
+      {
+        "title": "Synergistic enhancement of requirement-to-code traceability: A framework combining large language model based data augmentation and an advanced encoder.",
+        "authors": [
+          "Jianzhang Zhang",
+          "Jialong Zhou",
+          "Nan Niu",
+          "Jinping Hua",
+          "Chuang Liu"
+        ]
+      },
+      {
+        "title": "Broadening software value from technical to management perspectives: a stakeholder-driven exploration using a modified-Delphi approach.",
+        "authors": [
+          "Chalani Oruthotaarachchi",
+          "Janaka Wijayanayake"
+        ]
+      },
+      {
+        "title": "A first and fast symbolic approach for data-aware business process compliance checking.",
+        "authors": [
+          "Silvano Colombo Tosatto",
+          "Hannah M. S. Burke",
+          "Nick van Beest",
+          "Heerko Groefsema"
+        ]
+      },
+      {
+        "title": "Empirical insights on interoperability in digital twins: Challenges & LCIM perspectives.",
+        "authors": [
+          "Sarthak Acharya",
+          "Yueqiang Xu",
+          "Nirnaya Tripathi",
+          "Tero Päivärinta",
+          "Arif Ali Khan"
+        ]
+      },
+      {
+        "title": "CONKER: CONtrastive knowledge enhanced retrieval for app review bug classification.",
+        "authors": [
+          "Meysam Roostaee",
+          "Seyed Mostafa Fakhrahmad",
+          "Mohammad Hadi Sadreddini"
+        ]
+      },
+      {
+        "title": "A dynamic software start-up competence model.",
+        "authors": [
+          "Nana Assyne",
+          "Alfred Nyadroh",
+          "Emmanuel Adabor",
+          "Emmanuel Antwi-Boasiako",
+          "Isaac Wiafe"
+        ]
+      },
+      {
+        "title": "Template-guided interpretable reasoning with execution feedback for LLM-based program repair.",
+        "authors": [
+          "Sichong Hao",
+          "Xianjun Shi",
+          "Hongwei Liu",
+          "Yuyang Yin",
+          "Xi Chen"
+        ]
+      },
+      {
+        "title": "Transformer-aware sequence-to-sequence network for personalized tag recommendation in software information sites.",
+        "authors": [
+          "Shubhi Bansal",
+          "Jahnavi Sunchu",
+          "Shahid Shafi Dar",
+          "Nagendra Kumar"
+        ]
+      },
+      {
+        "title": "DeepFlaky: Deep hybrid representation learning for flaky test prediction.",
+        "authors": [
+          "Jingwen Cai",
+          "Yan Lei",
+          "Zheyuan Li",
+          "Chunyan Liu",
+          "Huan Xie",
+          "Zhenyu Wu"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/journals/infsof/infsof192.html": {
+    "header": "Information & Software Technology, Volume 192",
+    "year": "2026",
+    "papers": [
+      {
+        "title": "Gated transformer network for multivariate security patch identification with mixture-of-experts.",
+        "authors": [
+          "Jiajun Tong",
+          "Zhixiao Wang",
+          "Xiaobin Rui"
+        ]
+      },
+      {
+        "title": "VulSEG: Enhanced graph-based vulnerability detection system with advanced text embedding.",
+        "authors": [
+          "Wenjing Cai",
+          "Xin Liu",
+          "Lipeng Gao"
+        ]
+      },
+      {
+        "title": "A study on functionality validation for windows malware mutating using reinforcement learning.",
+        "authors": [
+          "Do Thi Thu Hien",
+          "Le Viet Tai Man",
+          "Le Trong Nhan",
+          "Phan Ngoc Yen Nhi",
+          "Hoang Thanh Lam",
+          "Nguyen Tan Cam",
+          "Van-Hau Pham"
+        ]
+      },
+      {
+        "title": "FlowRepair: Search-based automated program repair of CPS controllers modeled in Simulink-Stateflow.",
+        "authors": [
+          "Aitor Arrieta",
+          "Pablo Valle",
+          "Shaukat Ali"
+        ]
+      },
+      {
+        "title": "Android malware detection by using graph optimization of static features based on pre-trained language models.",
+        "authors": [
+          "Nghi Hoang Khoa",
+          "Doan Minh Trung",
+          "Duong The Dat",
+          "Phan The Duy",
+          "Van-Hau Pham",
+          "Nguyen Tan Cam"
+        ]
+      },
+      {
+        "title": "Automatic multi-language analysis of SOLID compliance via machine learning algorithms.",
+        "authors": [
+          "Caner Balim",
+          "Naim Karasekreter",
+          "Özkan Aslan"
+        ]
+      },
+      {
+        "title": "User-centric requirements prioritization in mHealth applications: Insights from a Discrete Choice Experiment.",
+        "authors": [
+          "Wei Wang",
+          "Hourieh Khalajzadeh",
+          "John C. Grundy",
+          "Anuradha Madugalla",
+          "Humphrey O. Obie"
+        ]
+      },
+      {
+        "title": "CSVD-AES: Cross-project software vulnerability detection based on active learning with metric fusion.",
+        "authors": [
+          "Zhidan Yuan",
+          "Xiang Chen",
+          "Juan Zhang",
+          "Weiming Zeng"
+        ]
+      },
+      {
+        "title": "Requirements-driven analysis of variability in configurable software.",
+        "authors": [
+          "Chin Khor",
+          "Robyn R. Lutz"
+        ]
+      },
+      {
+        "title": "BADS: A backdoor attack against code intent summarization engines.",
+        "authors": [
+          "Yubin Qu",
+          "Binyong Li",
+          "Song Huang",
+          "Peng Nie",
+          "Long Li",
+          "Yongming Yao"
+        ]
+      },
+      {
+        "title": "xPriMES: Explainable reinforcement learning-guided mutation strategy with dual-environment interaction for evading black-box malware detectors.",
+        "authors": [
+          "Phan The Duy",
+          "Nguyen Manh Cuong",
+          "Ha Trieu Yen Vy",
+          "Le Tuan Luong",
+          "Nguyen Tran Duc Anh",
+          "Nghi Hoang Khoa",
+          "Van-Hau Pham"
+        ]
+      },
+      {
+        "title": "Wise recommender: LLMs refined by iterative critics.",
+        "authors": [
+          "Zhisheng Yang",
+          "Xiaofei Xu",
+          "Ke Deng",
+          "Li Li"
+        ]
+      },
+      {
+        "title": "Artifact validity under varying agent configurations in LLM-assisted software development: A comparative analysis.",
+        "authors": [
+          "Dae-Kyoo Kim"
+        ]
+      },
+      {
+        "title": "EdgeSim: Firmware vulnerability detection with control transfer-enhanced binary code similarity detection.",
+        "authors": [
+          "Li Liu",
+          "Shen Wang",
+          "Xunzhi Jiang"
+        ]
+      },
+      {
+        "title": "Consensus planning boosts LLM code generation.",
+        "authors": [
+          "Chao Wen",
+          "Jie Liu",
+          "Liang Du"
+        ]
+      },
+      {
+        "title": "Unsupervised, robust, and lightweight detection of data pattern anomalies and outliers.",
+        "authors": [
+          "Qiaolin Qin",
+          "Heng Li",
+          "Ettore Merlo"
+        ]
+      },
+      {
+        "title": "Empirical analysis of generative AI tool adoption in software development.",
+        "authors": [
+          "Deo Shao",
+          "Fredrick Ishengoma"
+        ]
+      },
+      {
+        "title": "VulATMHD: Joint adaptive triplet mining and hybrid distillation for type-aware vulnerability classification.",
+        "authors": [
+          "Xuanye Wang",
+          "Lu Lu"
+        ]
+      },
+      {
+        "title": "AI systems' negative social impact and factors.",
+        "authors": [
+          "Nafen Haj Ahmad",
+          "Linnea Stigholt",
+          "Leticia Duboc",
+          "Birgit Penzenstadler"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/journals/infsof/infsof191.html": {
     "header": "Information & Software Technology, Volume 191",
     "year": "2026",
@@ -81,6 +539,131 @@
           "Maángeles Moraga",
           "Coral Calero",
           "Carlos Cetina"
+        ]
+      },
+      {
+        "title": "Introduction to the Special Issue - Agile and Lean: How far did we come and what's next?",
+        "authors": [
+          "Eduardo Guerra",
+          "Darja Smite",
+          "Xiaofeng Wang"
+        ]
+      },
+      {
+        "title": "Line-level defect prediction based on preceding line-aware and inter-line semantics enhancement.",
+        "authors": [
+          "Xiaoke Zhu",
+          "Tao Zhang",
+          "Xiaopan Chen",
+          "Zhiqiang Li",
+          "Xiao-Yuan Jing"
+        ]
+      },
+      {
+        "title": "The top 8+2 long-term success factors in public IS procurement: A retrospective case study.",
+        "authors": [
+          "Sanni Marjanen",
+          "Samuli Pekkola",
+          "Tommi Mikkonen"
+        ]
+      },
+      {
+        "title": "DeepRegion: Black-box efficient testing for DNNs based on region analysis.",
+        "authors": [
+          "Qing Sheng",
+          "Zhiyi Zhang",
+          "Shuxian Chen",
+          "Ziyuan Wang",
+          "Zhiqiu Huang"
+        ]
+      },
+      {
+        "title": "Toward an automated cross-multimodal verification of mobile app bug fixes integrating user feedback, developer responses, changelogs, and UI visual analysis.",
+        "authors": [
+          "Rhodes Massenon",
+          "Ishaya Peni Gambo",
+          "Javed Ali Khan"
+        ]
+      },
+      {
+        "title": "Navigating ASD barriers: a role-contextual framework for enhancing ASD implementation in self-organizing teams.",
+        "authors": [
+          "Soumya Prakash Rath",
+          "Gunjan Tomer"
+        ]
+      },
+      {
+        "title": "Balancing organizational alignment, team autonomy, and control in large-scale agile organizations.",
+        "authors": [
+          "Bart Daemen",
+          "Konstantinos Tsilionis",
+          "Oktay Turetken"
+        ]
+      },
+      {
+        "title": "On the use of extended reality to support software development activities: A systematic literature review.",
+        "authors": [
+          "Tiara Rojas-Stambuk",
+          "Juan Pablo Sandoval Alcocer",
+          "Leonel Merino",
+          "Andrés Neyem"
+        ]
+      },
+      {
+        "title": "Sustainability-aware reference architectures: Needs and future research directions.",
+        "authors": [
+          "Elisa Yumi Nakagawa",
+          "Rick Kazman"
+        ]
+      },
+      {
+        "title": "A model-driven approach to streamline the development of prescriptive services for digital twins.",
+        "authors": [
+          "Arturo Barriga",
+          "José A. Barriga",
+          "Pablo A. Portillo",
+          "Adolfo Lozano Tello",
+          "Pedro J. Clemente"
+        ]
+      },
+      {
+        "title": "Compositional security analysis of dynamic component-based systems.",
+        "authors": [
+          "Charilaos Skandylas",
+          "Narges Khakpour"
+        ]
+      },
+      {
+        "title": "Emotional expression in open- source: How project function shapes communication.",
+        "authors": [
+          "Matteo Vaccargiu",
+          "Silvia Bartolucci",
+          "Nicole Novielli",
+          "Marco Ortu",
+          "Roberto Tonelli",
+          "Giuseppe Destefanis"
+        ]
+      },
+      {
+        "title": "Symbolic runtime verification for monitoring under uncertainties and assumptions.",
+        "authors": [
+          "Raik Hipler",
+          "Hannes Kallwies",
+          "Martin Leucker",
+          "Marco Montali",
+          "César Sánchez",
+          "Sarah Winkler"
+        ]
+      },
+      {
+        "title": "Maximizing quantum hardware utilization via multiprogramming circuits and shot-wise distribution.",
+        "authors": [
+          "Giuseppe Bisicchia",
+          "Jaime Alvarado-Valiente",
+          "Javier Romero-Álvarez",
+          "José García-Alonso",
+          "Juan Manuel Murillo",
+          "Antonio Brogi"
         ]
       }
     ]

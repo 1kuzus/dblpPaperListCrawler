@@ -1,4 +1,257 @@
 {
+  "https://dblp.org/db/conf/sacrypt/sacrypt2025.html": {
+    "header": "32nd SAC 2025: Toronto, ON, Canada",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Preimage-Type Attacks for Reduced Ascon-Hash: Application to Ed25519.",
+        "authors": [
+          "Marcel Nageler",
+          "Lorenz Schmid",
+          "Maria Eichlseder"
+        ]
+      },
+      {
+        "title": "Collision Attacks on SPONGENT with Grouping Method.",
+        "authors": [
+          "Keita Toyama",
+          "Kosei Sakamoto",
+          "Takanori Isobe"
+        ]
+      },
+      {
+        "title": "Practical Collision Attacks on Reduced-Round Xoodyak Hash Mode.",
+        "authors": [
+          "Huina Li",
+          "Le He",
+          "Weidong Qiu"
+        ]
+      },
+      {
+        "title": "Breaking the Twinkle Authenticated Encryption Scheme and Analyzing Its Underlying Permutation.",
+        "authors": [
+          "Debasmita Chakraborty",
+          "Hosein Hadipour",
+          "Anup Kumar Kundu",
+          "Mostafizar Rahman",
+          "Prathamesh Ram",
+          "Yu Sasaki",
+          "Dilip Sau",
+          "Aman Sinha"
+        ]
+      },
+      {
+        "title": "Minimalist Model for Impossible Differentials.",
+        "authors": [
+          "Patrick Derbez",
+          "Marie Euler"
+        ]
+      },
+      {
+        "title": "Impossible Differentials Automation: Model Generation and New Techniques.",
+        "authors": [
+          "Emanuele Bellini",
+          "Alessandro De Piccoli",
+          "David Gérault",
+          "Paul Huynh",
+          "Simone Pelizzola",
+          "Andrea Visconti"
+        ]
+      },
+      {
+        "title": "Multiforked Iterated Even-Mansour and a Note on the Tightness of IEM Proofs.",
+        "authors": [
+          "Elena Andreeva",
+          "Amit Singh Bhati",
+          "Andreas Weninger"
+        ]
+      },
+      {
+        "title": "Blockcipher-Based Key Commitment for Nonce-Derived Schemes.",
+        "authors": [
+          "Panos Kampanakis",
+          "Shai Halevi",
+          "Nevine Maurice Ebeid",
+          "Matt Campagna"
+        ]
+      },
+      {
+        "title": "The Revisited Hidden Weight Bit Function.",
+        "authors": [
+          "Pierrick Méaux",
+          "Tim Seuré",
+          "Deng Tang"
+        ]
+      },
+      {
+        "title": "Bit Security of Quantum Key Search.",
+        "authors": [
+          "Marc Fischlin",
+          "Evangelos Gkoumas"
+        ]
+      },
+      {
+        "title": "High-Throughput EdDSA Verification on Intel Processors with Advanced Vector Extensions.",
+        "authors": [
+          "Bowen Zhang",
+          "Hao Cheng",
+          "Johann Großschädl",
+          "Peter Y. A. Ryan"
+        ]
+      },
+      {
+        "title": "Air-FRI: Acceleration of the FRI Protocol on the GPU for ZkSNARK Applications.",
+        "authors": [
+          "Tanmayi Jandhyala",
+          "Guang Gong"
+        ]
+      },
+      {
+        "title": "Accelerating Post-quantum Secure zkSNARKs by Optimizing Additive FFT.",
+        "authors": [
+          "Mohammadtaghi Badakhshan",
+          "Susanta Samanta",
+          "Guang Gong"
+        ]
+      },
+      {
+        "title": "Multi-precision PMNS with CIOS Reduction.",
+        "authors": [
+          "Nicolas Méloni",
+          "François Palma",
+          "Pascal Véron"
+        ]
+      },
+      {
+        "title": "Unified MEDS Accelerator.",
+        "authors": [
+          "Sanjay Deshpande",
+          "Yongseok Lee",
+          "Mamuri Nawan",
+          "Kashif Nawaz",
+          "Ruben Niederhagen",
+          "Yunheung Paek",
+          "Jakub Szefer"
+        ]
+      },
+      {
+        "title": "Bounded CCA2-Secure Proxy Re-encryption from Lattices.",
+        "authors": [
+          "Shingo Sato",
+          "Junji Shikata"
+        ]
+      },
+      {
+        "title": "Public-Key Encryption and Injective Trapdoor Functions from LWE with Large Noise Rate.",
+        "authors": [
+          "Liheng Ji",
+          "Yilei Chen"
+        ]
+      },
+      {
+        "title": "AI for Code-based Cryptography.",
+        "authors": [
+          "Mohamed Malhou",
+          "Ludovic Perret",
+          "Kristin E. Lauter"
+        ]
+      },
+      {
+        "title": "Practical Attack on All Parameters of the HPPC Signature Scheme.",
+        "authors": [
+          "Pierre Briaud",
+          "Maxime Bros",
+          "Ray A. Perlner",
+          "Daniel Smith-Tone"
+        ]
+      },
+      {
+        "title": "Algebraic Key-Recovery Side-Channel Attack on Classic McEliece.",
+        "authors": [
+          "Michaël Bulois",
+          "Pierre-Louis Cayrel",
+          "Vlad-Florin Dragoi",
+          "Vincent Grosso"
+        ]
+      },
+      {
+        "title": "An Attack on ML-DSA Using an Implicit Hint.",
+        "authors": [
+          "Paco Azevedo Oliveira",
+          "Jordan Beraud",
+          "Louis Goubin"
+        ]
+      },
+      {
+        "title": "How (not) to Build Identity-Based Encryption from Isogenies.",
+        "authors": [
+          "Elif Ozbay Gurler",
+          "Patrick Struck"
+        ]
+      },
+      {
+        "title": "PIsignHD: A New Structure for the SQIsign Family with Flexible Applicability.",
+        "authors": [
+          "Kaizhan Lin",
+          "Weize Wang",
+          "Chang-An Zhao",
+          "Yunlei Zhao"
+        ]
+      },
+      {
+        "title": "Downlink (T)FHE Ciphertexts Compression.",
+        "authors": [
+          "Antonina Bondarchuk",
+          "Olive Chakraborty",
+          "Geoffroy Couteau",
+          "Renaud Sirdey"
+        ]
+      },
+      {
+        "title": "Efficient Full Domain Functional Bootstrapping from Recursive LUT Decomposition.",
+        "authors": [
+          "Intak Hwang",
+          "Shinwon Lee",
+          "Seonhong Min",
+          "Yongsoo Song"
+        ]
+      },
+      {
+        "title": "Picking up the Fallen Mask: Breaking and Fixing the RS-Mask Countermeasure.",
+        "authors": [
+          "Dilara Toprakhisar",
+          "Svetla Nikova",
+          "Ventzislav Nikov"
+        ]
+      },
+      {
+        "title": "Diffuse Some Noise: Diffusion Models for Measurement Noise Removal in Side-Channel Analysis.",
+        "authors": [
+          "Sengim Karayalcin",
+          "Guilherme Perin",
+          "Stjepan Picek"
+        ]
+      },
+      {
+        "title": "Efficient SPA Countermeasures Using Redundant Number Representation with Application to ML-KEM.",
+        "authors": [
+          "Rishub Nagpal",
+          "Vedad Hadzic",
+          "Robert Primas",
+          "Stefan Mangard"
+        ]
+      },
+      {
+        "title": "Secret in OnePiece: Single-Bit Fault Attack on Kyber.",
+        "authors": [
+          "Jian Wang",
+          "Weiqiong Cao",
+          "Hua Chen",
+          "Haoyuan Li"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/sacrypt/sacrypt2024-2.html": {
     "header": "31st SAC 2024: Montreal, QC, Canada - Part II",
     "year": "2024",

@@ -1,4 +1,635 @@
 {
+  "https://dblp.org/db/conf/mobihoc/mobihoc2025.html": {
+    "header": "26th MobiHoc 2025:\nHouston, TX, USA",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "mmExpert: Integrating Large Language Models for Comprehensive mmWave Data Synthesis and Understanding.",
+        "authors": [
+          "Yifan Yan",
+          "Shuai Yang",
+          "Xiuzhen Guo",
+          "Xiangguang Wang",
+          "Wei Chow",
+          "Yuanchao Shu",
+          "Shibo He"
+        ]
+      },
+      {
+        "title": "SHRINK: Reducing MIMO Feedback Overhead in Wi-Fi with Dynamic Data-Driven Channel Sounding.",
+        "authors": [
+          "K. M. Rumman",
+          "Francesca Meneghello",
+          "Khandaker Foysal Haque",
+          "Francesco Gringoli",
+          "Francesco Restuccia"
+        ]
+      },
+      {
+        "title": "mm-NOLOC: mmWave-based Localization for Mobile Networks without 3GPP Location Service.",
+        "authors": [
+          "Phuc Dinh",
+          "Yufei Feng",
+          "Eduardo Baena",
+          "Yunmeng Han",
+          "Weiming Qi",
+          "Zihan Xu",
+          "Moinak Ghoshal",
+          "Pau Closas",
+          "Dimitrios Koutsonikolas",
+          "Joerg Widmer"
+        ]
+      },
+      {
+        "title": "FlexRFML: Dynamic Neural Networks on FPGAs for Next-Generation Radio Spectrum Perception.",
+        "authors": [
+          "Francesco Pessia",
+          "Sazzad Sayyed",
+          "Francesco Restuccia"
+        ]
+      },
+      {
+        "title": "InterSen: Boosting LoRa Sensing Capability Under Communication Interference.",
+        "authors": [
+          "Qiling Xu",
+          "Binbin Xie",
+          "Jie Xiong",
+          "Lu Wang",
+          "Zhimeng Yin"
+        ]
+      },
+      {
+        "title": "Mitigating Jamming Attacks in LoRa Networks: A Defense Strategy against LoRa-Based Jammers.",
+        "authors": [
+          "Md Ashikul Haque",
+          "Abusayeed Saifullah"
+        ]
+      },
+      {
+        "title": "SADIF: Spoofing Attack on BLE Direction Finding Based Localization System.",
+        "authors": [
+          "Runting Zhang",
+          "Yijie Li",
+          "Dian Ding",
+          "Hao Pan",
+          "Yongzhao Zhang",
+          "Yi-Chao Chen",
+          "Xiaoyu Ji",
+          "Jiadi Yu",
+          "Guangtao Xue"
+        ]
+      },
+      {
+        "title": "InterfO-RAN: Real-Time In-band Cellular Uplink Interference Detection with GPU-Accelerated dApps.",
+        "authors": [
+          "Neagin Neasamoni Santhi",
+          "Davide Villa",
+          "Michele Polese",
+          "Tommaso Melodia"
+        ]
+      },
+      {
+        "title": "TeraFocus: Wideband Beam Focusing with Radial Mobility.",
+        "authors": [
+          "Jy-Chin Liao",
+          "Burak Bilgin",
+          "Edward W. Knightly"
+        ]
+      },
+      {
+        "title": "Practical Design and Orchestration of Frequency-Shifting RIS for NLoS mmWave Sensing.",
+        "authors": [
+          "Aadesh Madnaik",
+          "Karthikeyan Sundaresan"
+        ]
+      },
+      {
+        "title": "REMARKABLE: RIS-Enabled Mobile Beamforming through Kernalized Bandit Learning.",
+        "authors": [
+          "Kubra Alemdar",
+          "Arnob Ghosh",
+          "Vini Chaudhary",
+          "Ness B. Shroff",
+          "Kaushik R. Chowdhury"
+        ]
+      },
+      {
+        "title": "FlexLink: Decoupling Control and Data Beams for Next-Generation Wideband Networks.",
+        "authors": [
+          "Ish Kumar Jain",
+          "Rohith Reddy Vennam",
+          "Dinesh Bharadia"
+        ]
+      },
+      {
+        "title": "A QoS Framework for Service Provision in Multi-Infrastructure-Sharing Networks.",
+        "authors": [
+          "Quang Minh Nguyen",
+          "Eytan H. Modiano"
+        ]
+      },
+      {
+        "title": "Odin: Effective End-to-End SLA Decomposition for 5G/6G Network Slicing via Online Learning.",
+        "authors": [
+          "Duo Cheng",
+          "Ramanujan K. Sheshadri",
+          "Ahan Kak",
+          "Nakjung Choi",
+          "Xingyu Zhou",
+          "Bo Ji"
+        ]
+      },
+      {
+        "title": "Functional Control: Leveraging Function-as-a-Service Platforms for Software-Defined Networking Controllers.",
+        "authors": [
+          "Shuwen Liu",
+          "Craig A. Shue"
+        ]
+      },
+      {
+        "title": "Beyond Static Populations: Efficient Delay-Constrained Scheduling for Dynamic Users via Deep Reinforcement Learning.",
+        "authors": [
+          "Xun Wang",
+          "Zhuoran Li",
+          "Longbo Huang"
+        ]
+      },
+      {
+        "title": "Lightweight Decentralized Federated Learning with Arbitrary Client Participation.",
+        "authors": [
+          "Xinghan Gong",
+          "Xiaowen Gong",
+          "Ying Sun",
+          "Shiwen Mao"
+        ]
+      },
+      {
+        "title": "Adaptive Sparsification for Communication-Efficient Distributed Learning.",
+        "authors": [
+          "Faeze Moradi Kalarde",
+          "Ben Liang",
+          "Min Dong",
+          "Yahia A. Eldemerdash Ahmed",
+          "Ho Ting Cheng"
+        ]
+      },
+      {
+        "title": "On the Out-of-Distribution Backdoor Attack for Federated Learning.",
+        "authors": [
+          "Jiahao Xu",
+          "Zikai Zhang",
+          "Rui Hu"
+        ]
+      },
+      {
+        "title": "Robust Collaborative Inference with Vertically Split Data Over Dynamic Device Environments.",
+        "authors": [
+          "Surojit Ganguli",
+          "Zeyu Zhou",
+          "Christopher Brinton",
+          "David I. Inouye"
+        ]
+      },
+      {
+        "title": "Local-Cloud Inference Offloading for LLMs in Multi-Modal, Multi-Task, Multi-Dialogue Settings.",
+        "authors": [
+          "Liangqi Yuan",
+          "Dong-Jun Han",
+          "Shiqiang Wang",
+          "Christopher Brinton"
+        ]
+      },
+      {
+        "title": "AODPart: Accuracy-Optimal Online Partitioning for Edge Inference with Delay Constraint.",
+        "authors": [
+          "Shiva Saxena",
+          "Ben Liang"
+        ]
+      },
+      {
+        "title": "DRAGON: Enhancing On-Device Model Performance with Distributed Retrieval-Augmented Generation.",
+        "authors": [
+          "Shangyu Liu",
+          "Zhenzhe Zheng",
+          "Xiaoyao Huang",
+          "Fan Wu",
+          "Guihai Chen",
+          "Jie Wu"
+        ]
+      },
+      {
+        "title": "AdvO-RAN: Adversarial Deep Reinforcement Learning in AI-Driven Open Radio Access Networks.",
+        "authors": [
+          "Tanzil Hassan",
+          "Francesca Meneghello",
+          "Francesco Restuccia"
+        ]
+      },
+      {
+        "title": "Consensus-based Decentralized Multi-agent Reinforcement Learning for Random Access Network Optimization.",
+        "authors": [
+          "Myeung Suk Oh",
+          "Zhiyao Zhang",
+          "Hairi",
+          "Alvaro Velasquez",
+          "Jia Liu"
+        ]
+      },
+      {
+        "title": "Generalizable Policy Learning using Graph Neural Networks.",
+        "authors": [
+          "Jerrod Wigmore",
+          "Eytan H. Modiano"
+        ]
+      },
+      {
+        "title": "To Theoretically Understand Transformer-Based In-Context Learning for Optimizing CSMA.",
+        "authors": [
+          "Shugang Hao",
+          "Hongbo Li",
+          "Lingjie Duan"
+        ]
+      },
+      {
+        "title": "Online Learning for Optimizing AoI-Energy Tradeoff under Unknown Channel Statistics.",
+        "authors": [
+          "Mohamed A. Abd-Elmagid",
+          "Ming Shi",
+          "Eylem Ekici",
+          "Ness B. Shroff"
+        ]
+      },
+      {
+        "title": "Understanding the Fundamental Trade-Off Between Age of Information and Throughput in Unreliable Wireless Networks.",
+        "authors": [
+          "Lin Wang",
+          "I-Hong Hou"
+        ]
+      },
+      {
+        "title": "Fresh Data Delivery: Joint Sampling and Routing for Minimizing the Age of Information.",
+        "authors": [
+          "Adem Utku Atasayar",
+          "Aimin Li",
+          "Çagri Ari",
+          "Elif Uysal"
+        ]
+      },
+      {
+        "title": "Two Levels Are All You Need: Simplifying Data Compression for Timely Edge Classification.",
+        "authors": [
+          "Chengzhang Li",
+          "Peizhong Ju",
+          "Atilla Eryilmaz",
+          "Ness B. Shroff"
+        ]
+      },
+      {
+        "title": "Online Contract Design for Creator Economy in the Era of GenAI.",
+        "authors": [
+          "Yumou Liu",
+          "Zhenzhe Zheng",
+          "Fan Wu",
+          "Guihai Chen"
+        ]
+      },
+      {
+        "title": "Honeybee: Byzantine Tolerant Decentralized Peer Sampling with Verifiable Random Walks.",
+        "authors": [
+          "Yunqi Zhang",
+          "Shaileshh Bojja Venkatakrishnan"
+        ]
+      },
+      {
+        "title": "Human-in-the-loop Learning Through Decentralized Communication Mechanisms.",
+        "authors": [
+          "Yiting Hu",
+          "Lingjie Duan"
+        ]
+      },
+      {
+        "title": "Optimal Hybrid Feedback-Driven Learning for Wireless Interactive Panoramic Scene Delivery.",
+        "authors": [
+          "Xiaoyi Wu",
+          "Juaren Steiger",
+          "Bin Li",
+          "R. Srikant"
+        ]
+      },
+      {
+        "title": "Privacy Promises Unmasked: A Comprehensive Study of Privacy Proxies for the Masses.",
+        "authors": [
+          "Heiko Kiesel",
+          "Jiska Classen"
+        ]
+      },
+      {
+        "title": "Beyond Right to be Forgotten: Managing Heterogeneity Side Effects Through Strategic Incentives.",
+        "authors": [
+          "Jiaqi Shao",
+          "Tao Lin",
+          "Xiaojin Zhang",
+          "Qiang Yang",
+          "Bing Luo"
+        ]
+      },
+      {
+        "title": "Enhancing Privacy in Decentralized Min-Max Optimization: A Differentially Private Approach.",
+        "authors": [
+          "Yueyang Quan",
+          "Chang Wang",
+          "Shengjie Zhai",
+          "Minghong Fang",
+          "Zhuqing Liu"
+        ]
+      },
+      {
+        "title": "Building Trust in IQ-Based Deep Learning Models for Wireless Applications.",
+        "authors": [
+          "Sage Trudeau",
+          "Kaushik R. Chowdhury"
+        ]
+      },
+      {
+        "title": "Demo: Human-in-the-Loop Agentic Reconfiguration of Edge 5G Networks via Dual-MCP and LLM Reasoning}.",
+        "authors": [
+          "Eduardo Baena",
+          "Ankita Mandal",
+          "Dimitrios Koutsonikolas"
+        ]
+      },
+      {
+        "title": "Demo: Feedback-Free Adaptive Multimedia Compression at Wireless Edge.",
+        "authors": [
+          "Harim Kang",
+          "Changhee Joo"
+        ]
+      },
+      {
+        "title": "Demo: ETHOS: Demystifying Performance, Energy, and Computational Efficiency in Virtualized 5G O-RAN Networks.",
+        "authors": [
+          "Zongshen Wu",
+          "Rahman Doost-Mohammady",
+          "Ashutosh Sabharwal"
+        ]
+      },
+      {
+        "title": "Demo: Smartphone Camera-aided RIS Beam Selection.",
+        "authors": [
+          "Divyadharshini Muruganandham",
+          "Brandon Nguyen",
+          "Varun Srinivasan",
+          "Kaushik R. Chowdhury"
+        ]
+      },
+      {
+        "title": "POSTER: Analysis of Fog Node Placement Algorithms Using Information Elasticity.",
+        "authors": [
+          "Peter Doichinov",
+          "Ram Mohan Narayanan",
+          "Ambrose Kam"
+        ]
+      },
+      {
+        "title": "Poster: Connected Vehicle Surveillance.",
+        "authors": [
+          "Can Cui",
+          "Seyhan Ucar",
+          "Yongkang Liu",
+          "Ahmadreza Moradipari",
+          "Akin Sisbot",
+          "Kentaro Oguchi"
+        ]
+      },
+      {
+        "title": "Poster: Context-Aware V2X for Improved Driver Situational Awareness.",
+        "authors": [
+          "Seyhan Ucar",
+          "Mohammad Irfan Khan",
+          "Onur Altintas"
+        ]
+      },
+      {
+        "title": "Poster: Triage Slicing: Online Detection and Containment of Disruptive UEs in O-RAN Slices.",
+        "authors": [
+          "Xingqi Wu",
+          "Ritesh Honnalli",
+          "Junaid Farooq"
+        ]
+      },
+      {
+        "title": "Poster: Sparsity-enhanced Lagrangian Relaxation (SeLR) for Computation Offloading at the Edge.",
+        "authors": [
+          "Negar Erfaniantaghvayi",
+          "Zhongyuan Zhao",
+          "Kevin S. Chan",
+          "Ananthram Swami",
+          "Santiago Segarra"
+        ]
+      },
+      {
+        "title": "Poster: Comparison of Market Models for Time/Frequency Prioritized Spectrum Sharing.",
+        "authors": [
+          "Qixuan Zai",
+          "Yaxuan Liu",
+          "Randall Berry"
+        ]
+      },
+      {
+        "title": "FedQ-Fraud: A Quantum-Enforced Federated Learning Framework for Financial Fraud Detection.",
+        "authors": [
+          "Parth Shah",
+          "Shrey Panwala",
+          "Mahek Desai",
+          "Deep Joshi",
+          "Rajesh Gupta",
+          "Sudeep Tanwar",
+          "Mohamed Abouhawwash"
+        ]
+      },
+      {
+        "title": "Enabling secure and trusted digital twin federations with data spaces.",
+        "authors": [
+          "Cristian Martella",
+          "Angelo Martella",
+          "Antonella Longo"
+        ]
+      },
+      {
+        "title": "Visual Encoding Method for Semantic Mapping with Federated Learning Concept.",
+        "authors": [
+          "Lukasz Sobczak",
+          "Piotr Biernacki",
+          "Joanna Domanska"
+        ]
+      },
+      {
+        "title": "Edge-Optimized Hybrid DNNs for Efficient High-Dimensional Visual Anomaly Detection in Industrial Federated Learning Environments.",
+        "authors": [
+          "Alexandre Niyomugaba",
+          "Dariusz Mrozek"
+        ]
+      },
+      {
+        "title": "BystandARIA: Enabling AR Bystander Privacy using LEDs.",
+        "authors": [
+          "Jad Al Aaraj",
+          "Athina Markopoulou"
+        ]
+      },
+      {
+        "title": "Continuous User Authentication for Extended Reality Using Pupil Reflexive Mechanisms as a Biometric.",
+        "authors": [
+          "Shuaikang Hou",
+          "Muyao Tang",
+          "Srinivasan Murali",
+          "Huadi Zhu"
+        ]
+      },
+      {
+        "title": "Lightweight DRM for Volumetric Point Clouds through Attribute-Based Selective Coordinate Encryption.",
+        "authors": [
+          "Mohammad Waquas Usmani",
+          "Susmit Shannigrahi",
+          "Michael Zink"
+        ]
+      },
+      {
+        "title": "Hunting Insecure UI Properties in Extended Reality.",
+        "authors": [
+          "Bertram Liu",
+          "Vamsi Shankar Simhadri",
+          "Xiaokuan Zhang"
+        ]
+      },
+      {
+        "title": "A Repository of Cognitive Attack Patterns for Extended-Reality Systems.",
+        "authors": [
+          "Heber Herencia-Zapana",
+          "Isaac Amundson"
+        ]
+      },
+      {
+        "title": "Detection and Recovery of Adversarial Slow-Pose Drift in Offloaded Visual-Inertial Odometry.",
+        "authors": [
+          "Sourya Saha",
+          "Md. Nurul Absur",
+          "Saptarshi Debroy"
+        ]
+      },
+      {
+        "title": "Modeling Object Attention in Mobile AR for Intrinsic Cognitive Security.",
+        "authors": [
+          "Shane Dirksen",
+          "Radha Kumaran",
+          "You-Jin Kim",
+          "Yilin Wang",
+          "Tobias Höllerer"
+        ]
+      },
+      {
+        "title": "YouKnowWho: Interpretable Framework for Classifying the Gender from Behavioral Motion Data in Extended Reality (XR).",
+        "authors": [
+          "Nazmus Shakib Shadin",
+          "Nasim Ahmed",
+          "Md Mahedi Hassan",
+          "Rifatul Islam",
+          "Xinyue Zhang"
+        ]
+      },
+      {
+        "title": "Personalized Bayesian Networks for Cybersickness Prediction in Virtual Reality.",
+        "authors": [
+          "Peng Wu",
+          "Nasim Ahmed",
+          "Kaiming Huang",
+          "Rifatul Islam",
+          "Tian Lan",
+          "Gang Tan",
+          "Mahdi Imani"
+        ]
+      },
+      {
+        "title": "Demo: More Than Just Compressions: Attentional Tunneling in Augmented Reality-Guided Cardiopulmonary Resuscitation.",
+        "authors": [
+          "Zhehan Qu",
+          "Tianyi Hu",
+          "Maria Gorlatova"
+        ]
+      },
+      {
+        "title": "Demo: Evaluating Attention Vulnerabilities to Distraction with an AR Trail Making Test (AR-TMT).",
+        "authors": [
+          "Sihun Baek",
+          "Zhehan Qu",
+          "Maria Gorlatova"
+        ]
+      },
+      {
+        "title": "Demonstrating Visual Information Manipulation Attacks in Augmented Reality: A Hands-On Miniature City-Based Setup.",
+        "authors": [
+          "Yanming Xiu",
+          "Maria Gorlatova"
+        ]
+      },
+      {
+        "title": "Demo: Investigating Immersive Attacks with REALITYCHECK.",
+        "authors": [
+          "Muhammad Shoaib",
+          "Wajih Ul Hassan"
+        ]
+      },
+      {
+        "title": "Demo: Perception Graph for Cognitive Attack Reasoning in Augmented Reality.",
+        "authors": [
+          "Rongqian Chen",
+          "Shu Hong",
+          "Rifatul Islam",
+          "Mahdi Imani",
+          "Gang Tan",
+          "Tian Lan"
+        ]
+      },
+      {
+        "title": "Validating Safety Guarantees of LSTM Models in MR Context.",
+        "authors": [
+          "Kaiming Huang",
+          "Peng Wu",
+          "Mahdi Imani",
+          "Tian Lan",
+          "Gang Tan"
+        ]
+      },
+      {
+        "title": "Understanding Security and Privacy Challenges in Enterprise Mixed Reality Spatial Sharing.",
+        "authors": [
+          "Mengyu Chen",
+          "Youngwook Do",
+          "Feiyu Lu",
+          "Blair MacIntyre"
+        ]
+      },
+      {
+        "title": "Poster: Exploring Privacy Challenges in Using Volumetric Video for Educational VR.",
+        "authors": [
+          "Yu Liu",
+          "Qiao Jin",
+          "Feng Qian"
+        ]
+      },
+      {
+        "title": "Poster: Time-Aware LSTM for Gaze Prediction in Mixed Reality Under Latency Perturbations.",
+        "authors": [
+          "Shu Hong",
+          "Rongqian Chen",
+          "Rifatul Islam",
+          "Mahdi Imani",
+          "Gang Tan",
+          "Tian Lan"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/mobihoc/mobihoc2024.html": {
     "header": "25th MobiHoc 2024:\nAthens, Greece",
     "year": "2024",

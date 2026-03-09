@@ -1,4 +1,992 @@
 {
+  "https://dblp.org/db/conf/imc/imc2025.html": {
+    "header": "IMC 2025:\nMadison, WI, USA",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Unraveling the Complexities of MTA-STS Deployment and Management in Securing Email.",
+        "authors": [
+          "Md. Ishtiaq Ashiq",
+          "Tobias Fiebig",
+          "Taejoong Chung"
+        ]
+      },
+      {
+        "title": "5G Metamorphosis: A Longitudinal Study of 5G Performance from the Beginning.",
+        "authors": [
+          "Omar Basit",
+          "Imran Khan",
+          "Moinak Ghoshal",
+          "Y. Charlie Hu",
+          "Dimitrios Koutsonikolas"
+        ]
+      },
+      {
+        "title": "Exploration of the Dynamics of Buy and Sale of Social Media Accounts.",
+        "authors": [
+          "Mario Beluri",
+          "Bhupendra Acharya",
+          "Soheil Khodayari",
+          "Giada Stivala",
+          "Giancarlo Pellegrino",
+          "Thorsten Holz"
+        ]
+      },
+      {
+        "title": "Fantastic Joules and Where to Find Them. Modeling and Optimizing Router Energy Demand.",
+        "authors": [
+          "Romain Jacob",
+          "Lukas Röllin",
+          "Jackie Lim",
+          "Jonathan Chung",
+          "Maurice Béhanzin",
+          "Weiran Wang",
+          "Andreas Hunziker",
+          "Theodor Moroianu",
+          "Seyedali Tabaeiaghdaei",
+          "Adrian Perrig",
+          "Laurent Vanbever"
+        ]
+      },
+      {
+        "title": "Dive into the Cloud: Unveiling the (Ab)Usage of Serverless Cloud Function in the Wild.",
+        "authors": [
+          "Yijing Liu",
+          "Mingxuan Liu",
+          "Yiming Zhang",
+          "Baojun Liu",
+          "Jia Zhang",
+          "Geng Hong",
+          "Haixin Duan",
+          "Min Yang"
+        ]
+      },
+      {
+        "title": "Somesite I Used To Crawl: Awareness, Agency and Efficacy in Protecting Content Creators From AI Crawlers.",
+        "authors": [
+          "Enze Liu",
+          "Elisa Luo",
+          "Shawn Shan",
+          "Geoffrey M. Voelker",
+          "Ben Y. Zhao",
+          "Stefan Savage"
+        ]
+      },
+      {
+        "title": "Sibling Prefixes: Identifying Similarities in IPv4 and IPv6 Prefixes.",
+        "authors": [
+          "Fariba Osali",
+          "Khwaja Zubair Sediqi",
+          "Oliver Gasser"
+        ]
+      },
+      {
+        "title": "Learning AS-to-Organization Mappings with Borges.",
+        "authors": [
+          "Carlos Selmo",
+          "Esteban Carisimo",
+          "Fabián E. Bustamante",
+          "J. Ignacio Alvarez-Hamelin"
+        ]
+      },
+      {
+        "title": "FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic.",
+        "authors": [
+          "Hari Venugopalan",
+          "Shaoor Munir",
+          "Shuaib Ahmed",
+          "Tangbaihe Wang",
+          "Samuel T. King",
+          "Zubair Shafiq"
+        ]
+      },
+      {
+        "title": "An In-Depth Investigation of Data Collection in LLM App Ecosystems.",
+        "authors": [
+          "Yuhao Wu",
+          "Evin Jaff",
+          "Ke Yang",
+          "Ning Zhang",
+          "Umar Iqbal"
+        ]
+      },
+      {
+        "title": "Chaos in the Chain: Evaluate Deployment and Construction Compliance of Web PKI Certificate Chain.",
+        "authors": [
+          "Jia Yao",
+          "Yiming Zhang",
+          "Baojun Liu",
+          "Zhan Liu",
+          "Mingming Zhang",
+          "Haixin Duan"
+        ]
+      },
+      {
+        "title": "RemapRoute: Local Remapping of Internet Path Changes.",
+        "authors": [
+          "Elverton C. Fazzion",
+          "Giancarlo Teixeira",
+          "Darryl Veitch",
+          "Christophe Diot",
+          "Renata Teixeira",
+          "Ítalo Cunha"
+        ]
+      },
+      {
+        "title": "Do Spammers Dream of Electric Sheep? Characterizing the Prevalence of LLM-Generated Malicious Emails.",
+        "authors": [
+          "Wei Hao",
+          "Van Tran",
+          "Vincent Rideout",
+          "Zixi Wang",
+          "AnMei Dasbach-Prisk",
+          "M. H. Afifi",
+          "Junfeng Yang",
+          "Ethan Katz-Bassett",
+          "Grant Ho",
+          "Asaf Cidon"
+        ]
+      },
+      {
+        "title": "InternetSim: A Fast and Memory-Efficient Internet-Scale Inter-Domain Routing Simulator.",
+        "authors": [
+          "Jiahong Lai",
+          "Jessie Hui Wang",
+          "Yunhao Liu",
+          "Jilong Wang"
+        ]
+      },
+      {
+        "title": "Lazy Eye Inspection: Capturing the State of Happy Eyeballs Implementations.",
+        "authors": [
+          "Patrick Sattler",
+          "Matthias Kirstein",
+          "Lars Wüstrich",
+          "Johannes Zirngibl",
+          "Georg Carle"
+        ]
+      },
+      {
+        "title": "Why Measure.",
+        "authors": [
+          "Ellen Zegura"
+        ]
+      },
+      {
+        "title": "Fishing for Smishing: Understanding SMS Phishing Infrastructure and Strategies by Mining Public User Reports.",
+        "authors": [
+          "Sharad Agarwal",
+          "Antonis Papasavva",
+          "Guillermo Suarez-Tangil",
+          "Marie Vasek"
+        ]
+      },
+      {
+        "title": "Decoding DNSSEC Errors at Scale: An Automated DNSSEC Error Resolution Framework using Insights from DNSViz Logs.",
+        "authors": [
+          "Md. Ishtiaq Ashiq",
+          "Olivier Hureau",
+          "Casey T. Deccio",
+          "Tijay Chung"
+        ]
+      },
+      {
+        "title": "The Developer, the RFC, and the Middlebox: An HTTP/2 Compliance Story.",
+        "authors": [
+          "Mahmoud Attia",
+          "Iliès Benhabbour",
+          "Marc Dacier"
+        ]
+      },
+      {
+        "title": "Assessing LEO Satellite Networks for National Emergency Failover.",
+        "authors": [
+          "Vaibhav Bhosale",
+          "Ying Zhang",
+          "Sameer S. Kapoor",
+          "Robin Kim",
+          "Miguel T. Schlicht",
+          "Muskaan Gupta",
+          "Ekaterina Tumanova",
+          "Zachary S. Bischof",
+          "Fabián E. Bustamante",
+          "Alberto Dainotti",
+          "Ahmed Saeed"
+        ]
+      },
+      {
+        "title": "Protocol Compliance in Popular RTC Applications.",
+        "authors": [
+          "Peiqing Chen",
+          "Peng Qiu",
+          "Lambda",
+          "Zaoxing Liu"
+        ]
+      },
+      {
+        "title": "Hello, GenAI? Dissecting Human to Generative AI Calling.",
+        "authors": [
+          "Ruizhi Cheng",
+          "Surendra Pathak",
+          "Guowu Xie",
+          "Matteo Varvello",
+          "Songqing Chen",
+          "Bo Han"
+        ]
+      },
+      {
+        "title": "Autonomous Systems under AReST: Advanced Revelation of Segment Routing Tunnels.",
+        "authors": [
+          "Florian Dekinder",
+          "Kevin Vermeulen",
+          "Benoit Donnet"
+        ]
+      },
+      {
+        "title": "A Permissions Odyssey: A Systematic Study of Browser Permissions on Modern Websites.",
+        "authors": [
+          "Alberto Fernández de Retana",
+          "Jannis Rautenstrauch",
+          "Igor Santos-Grueiro",
+          "Ben Stock"
+        ]
+      },
+      {
+        "title": "'How I learned to stop worrying and love IPv6':  Measuring the Internet's Readiness for DNS over IPv6.",
+        "authors": [
+          "Tobias Fiebig",
+          "Anja Feldmann"
+        ]
+      },
+      {
+        "title": "Replication: Performance of Cellular Networks on the Wheels.",
+        "authors": [
+          "Moinak Ghoshal",
+          "Omar Basit",
+          "Imran Khan",
+          "Z. Jonny Kong",
+          "Sizhe Wang",
+          "Yufei Feng",
+          "Phuc Dinh",
+          "Y. Charlie Hu",
+          "Dimitrios Koutsonikolas"
+        ]
+      },
+      {
+        "title": "Prefix2Org: Mapping BGP Prefixes to Organizations.",
+        "authors": [
+          "Deepak Gouda",
+          "Alberto Dainotti",
+          "Cecilia Testart"
+        ]
+      },
+      {
+        "title": "ru-RPKI-ready: the Road Left to Full ROA Adoption.",
+        "authors": [
+          "Deepak Gouda",
+          "Romain Fontugne",
+          "Cecilia Testart"
+        ]
+      },
+      {
+        "title": "Unmasking the Shadow Economy: A Deep Dive into Drainer-as-a-Service Phishing on Ethereum.",
+        "authors": [
+          "Bowen He",
+          "Yufeng Hu",
+          "Zhuo Chen",
+          "Yuan Chen",
+          "Ting Yu",
+          "Rui Chang",
+          "Lei Wu",
+          "Yajin Zhou"
+        ]
+      },
+      {
+        "title": "LACeS: An Open, Fast, Responsible and Efficient Longitudinal Anycast Census System.",
+        "authors": [
+          "Remi Hendriks",
+          "Matthew Luckie",
+          "Mattijs Jonker",
+          "Raffaele Sommese",
+          "Roland van Rijswijk-Deij"
+        ]
+      },
+      {
+        "title": "Unlocking Crowdsourced Propagation Measurements: Accuracy Guarantees for Mobile Phones.",
+        "authors": [
+          "Max Hollingsworth",
+          "Michael G. Cotton",
+          "Sangtae Ha",
+          "Dirk Grunwald"
+        ]
+      },
+      {
+        "title": "Tracking Internet Disruptions in Ukraine: Insights from Three Years of Active Full Block Scans.",
+        "authors": [
+          "Florian Holzbauer",
+          "Sebastian Strobl",
+          "Johanna Ullrich"
+        ]
+      },
+      {
+        "title": "Measuring the Time Source Vulnerabilities in the NTP Ecosystem.",
+        "authors": [
+          "Zhentian Huang",
+          "Shuai Wang",
+          "Li Chen",
+          "Dan Li",
+          "Yilun Liu"
+        ]
+      },
+      {
+        "title": "Replication: Characterizing MPLS Tunnels over Internet Paths.",
+        "authors": [
+          "Jarrett Huddleston",
+          "Matthew Luckie",
+          "Alexander Marder"
+        ]
+      },
+      {
+        "title": "Roam Without a Home: Unraveling the Airalo Ecosystem.",
+        "authors": [
+          "Hyundeok Daniel Jang",
+          "Matteo Varvello",
+          "Andra Lutu",
+          "Yasir Zaki"
+        ]
+      },
+      {
+        "title": "Scrapers Selectively Respect robots.txt Directives: Evidence From a Large-Scale Empirical Study.",
+        "authors": [
+          "Taein Kim",
+          "Karstan Bock",
+          "Claire Luo",
+          "Amanda Liswood",
+          "Chloe Poroslay",
+          "Emily Wenger"
+        ]
+      },
+      {
+        "title": "From Voice to Ads: Auditing Commercial Smart Speakers for Targeted Advertising based on Voice Characteristics.",
+        "authors": [
+          "Tu Le",
+          "Luca Baldesi",
+          "Athina Markopoulou",
+          "Carter T. Butts",
+          "Zubair Shafiq"
+        ]
+      },
+      {
+        "title": "Understanding and Characterizing Intermediate Paths of Email Delivery: The Hidden Dependencies.",
+        "authors": [
+          "Ruixuan Li",
+          "Chaoyi Lu",
+          "Baojun Liu",
+          "Yanzhong Lin",
+          "Haixin Duan",
+          "Qingfeng Pan",
+          "Jun Shao"
+        ]
+      },
+      {
+        "title": "An In-Depth Look into 5G ON-OFF Loops in the Wild.",
+        "authors": [
+          "Yanbing Liu",
+          "Jingqi Huang",
+          "Sonia Fahmy",
+          "Chunyi Peng"
+        ]
+      },
+      {
+        "title": "Demystifying the Mobile Control Plane Characteristics for Ubiquitous Connectivity.",
+        "authors": [
+          "Shiyi Liu",
+          "Yanbiao Li",
+          "Xin Wang",
+          "Xinyi Zhang",
+          "Zhuoran Ma",
+          "Haitao Liu",
+          "Gaogang Xie"
+        ]
+      },
+      {
+        "title": "Attacks Come to Those Who Wait: Long-Term Observations in an SSH Honeynet.",
+        "authors": [
+          "Cristian Munteanu",
+          "Yogesh Bhargav Suriyanarayanan",
+          "Georgios Smaragdakis",
+          "Anja Feldmann",
+          "Tobias Fiebig"
+        ]
+      },
+      {
+        "title": "$CookieGuard: $ Characterizing and Isolating the First-Party Cookie Jar.",
+        "authors": [
+          "Pouneh Nikkhah Bahrami",
+          "Aurore Fass",
+          "Zubair Shafiq"
+        ]
+      },
+      {
+        "title": "The Decentralization Dilemma: Performance Trade-Offs in IPFS and Breakpoints.",
+        "authors": [
+          "Ruizhe Shi",
+          "Yuqi Fu",
+          "Ruizhi Cheng",
+          "Bo Han",
+          "Yue Cheng",
+          "Songqing Chen"
+        ]
+      },
+      {
+        "title": "Patchwork: A Traffic Capture and Analysis Platform for Network Experiments on a Federated Testbed.",
+        "authors": [
+          "Nishanth Shyamkumar",
+          "Hyunsuk Bang",
+          "Bjoern Sagstad",
+          "Prajwal Somendyapanahalli Venkateshmurthy",
+          "Sean Cummings",
+          "Nik Sultana"
+        ]
+      },
+      {
+        "title": "Where in the World Are My Trackers? Mapping Web Tracking Flow Across Diverse Geographic Regions.",
+        "authors": [
+          "Sachin Kumar Singh",
+          "Robert Ricci",
+          "Alexander Gamero-Garrido"
+        ]
+      },
+      {
+        "title": "Decoy Databases: Analyzing Attacks on Public Facing Databases.",
+        "authors": [
+          "Yuqian Song",
+          "Georgios Smaragdakis",
+          "Harm Griffioen"
+        ]
+      },
+      {
+        "title": "Towards a Non-Binary View of IPv6 Adoption.",
+        "authors": [
+          "Sulyab Thottungal Valapu",
+          "John S. Heidemann"
+        ]
+      },
+      {
+        "title": "The SAP Cloud Infrastructure Dataset: A Reality Check of Scheduling and Placement of VMs in Cloud Computing.",
+        "authors": [
+          "Arno Uhlig",
+          "Iris Braun",
+          "Matthias Wählisch"
+        ]
+      },
+      {
+        "title": "Games Are Not Equal: Classifying Cloud Gaming Contexts for Effective User Experience Measurement.",
+        "authors": [
+          "Yifan Wang",
+          "Minzhao Lyu",
+          "Vijay Sivaraman"
+        ]
+      },
+      {
+        "title": "Replication: A Two Decade Review of Policy Atoms - Tracing the Evolution of AS Path Sharing Prefixes.",
+        "authors": [
+          "Weili Wu",
+          "Zachary S. Bischof",
+          "Cecilia Testart",
+          "Alberto Dainotti"
+        ]
+      },
+      {
+        "title": "PipHeap: Approximate Heap in the Pipeline Empowering Network Measurement.",
+        "authors": [
+          "Yuhan Wu",
+          "Fenghao Dong",
+          "Qizhi Chen",
+          "Aomufei Yuan",
+          "Kaicheng Yang",
+          "Hanglong Lv",
+          "Tong Yang",
+          "Wenrui Liu",
+          "Gaogang Xie"
+        ]
+      },
+      {
+        "title": "Approaching 100% Confidence in Stream Summary through ReliableSketch.",
+        "authors": [
+          "Yuhan Wu",
+          "Hanbo Wu",
+          "Xilai Liu",
+          "Yuxuan Tian",
+          "Yikai Zhao",
+          "Tong Yang",
+          "Rui Qiu",
+          "Kaicheng Yang",
+          "Sha Wang",
+          "Tao Li",
+          "Lihua Miao",
+          "Gaogang Xie"
+        ]
+      },
+      {
+        "title": "A First Look into Long-lived BGP Zombies.",
+        "authors": [
+          "Iliana Xygkou",
+          "Antonis Chariton",
+          "Xenofontas A. Dimitropoulos",
+          "Alberto Dainotti"
+        ]
+      },
+      {
+        "title": "Automated, Cross-Layer Root Cause Analysis of 5G Video-Conferencing Quality Degradation.",
+        "authors": [
+          "Fan Yi",
+          "Haoran Wan",
+          "Kyle Jamieson",
+          "Oliver Michel"
+        ]
+      },
+      {
+        "title": "Analyzing Compliance and Complications of Integrating Internationalized X.509 Certificates.",
+        "authors": [
+          "Mingming Zhang",
+          "Jinfeng Guo",
+          "Yiming Zhang",
+          "Shenglin Zhang",
+          "Baojun Liu",
+          "Hanqing Zhao",
+          "Xiang Li",
+          "Haixin Duan"
+        ]
+      },
+      {
+        "title": "Not All Visitors are Bilingual: A Measurement Study of the Multilingual Web from an Accessibility Perspective.",
+        "authors": [
+          "Masudul Hasan Masud Bhuiyan",
+          "Matteo Varvello",
+          "Yasir Zaki",
+          "Cristian-Alexandru Staicu"
+        ]
+      },
+      {
+        "title": "A Framework to Evaluate MPIC Security using Real-World BGP Announcements.",
+        "authors": [
+          "Henry Birge-Lee",
+          "Ari Brown",
+          "Christine Guo",
+          "Cyrill Krähenbühl",
+          "Sohom Pal",
+          "Liang Wang",
+          "Prateek Mittal"
+        ]
+      },
+      {
+        "title": "Satellite IoT in Practice: A First Measurement Study on Network Availability, Performance, and Costs.",
+        "authors": [
+          "Wenchang Chai",
+          "Jinhong Liu",
+          "Ziyue Zhang",
+          "Xianjin Xia",
+          "Yuanqing Zheng",
+          "Ningning Hou",
+          "Qiang Yang",
+          "Weiwei Chen",
+          "Tao Gu"
+        ]
+      },
+      {
+        "title": "The Reality of Chasing Shannon's Limit in Optical Wide-Area Networks.",
+        "authors": [
+          "Arjun Devraj",
+          "Bill Owens",
+          "Rachee Singh"
+        ]
+      },
+      {
+        "title": "Inside Certificate Chains Beyond Public Issuers: Structure and Usage Analysis from a Campus Network.",
+        "authors": [
+          "Hongying Dong",
+          "Yizhe Zhang",
+          "Hyeonmin Lee",
+          "Yixin Sun"
+        ]
+      },
+      {
+        "title": "On YouTube Search API Use in Research.",
+        "authors": [
+          "Alexandros Efstratiou"
+        ]
+      },
+      {
+        "title": "Have you SYN What I See? Analyzing TCP SYN Payloads in the Wild.",
+        "authors": [
+          "Dario Ferrero",
+          "Enrico Bassetti",
+          "Harm Griffioen",
+          "Georgios Smaragdakis"
+        ]
+      },
+      {
+        "title": "Quantifying the Threat of Sandwiching MEV on Jito: A Measurement of Solana's Leading Validator Client.",
+        "authors": [
+          "Nicole Gerzon",
+          "Ben Weintraub",
+          "Junbeom In",
+          "Alan Mislove",
+          "Cristina Nita-Rotaru"
+        ]
+      },
+      {
+        "title": "Congestion Patterns in a Large-scale RDMA Datacenter.",
+        "authors": [
+          "Soudeh Ghorbani",
+          "Yimeng Zhao",
+          "Srikanth Sundaresan",
+          "Ying Zhang",
+          "Yijing Zeng",
+          "Abhigyan Sharma",
+          "Prashanth Kannan",
+          "Cristian Lumezanu"
+        ]
+      },
+      {
+        "title": "From GEO to LEO: First Look Into Starlink In-Flight Connectivity.",
+        "authors": [
+          "Hyunseok Daniel Jang",
+          "Matteo Varvello",
+          "Aravindh Raman",
+          "Yasir Zaki"
+        ]
+      },
+      {
+        "title": "Mirror Mirror on the Wall, which APK Mirror Site is the Largest of Them All?",
+        "authors": [
+          "Neal Keating",
+          "Wellington Esposito Barbosa",
+          "Leo Phan",
+          "Viraj Prakash",
+          "Gianluca Stringhini",
+          "Adam J. Aviv"
+        ]
+      },
+      {
+        "title": "Time To Scan: Digging into NTP-based IPv6 Scanning.",
+        "authors": [
+          "Michael Klopsch",
+          "Constantin Sander",
+          "Klaus Wehrle",
+          "Markus Dahlmanns"
+        ]
+      },
+      {
+        "title": "R&E Routing Policy: Inference and Implication.",
+        "authors": [
+          "Matthew Luckie",
+          "Steven Wallace",
+          "Karl Newell",
+          "Jeff Bartig",
+          "Sadi Koçak",
+          "Niels den Otter",
+          "Kaj Koole",
+          "James Deaton",
+          "K. C. Claffy"
+        ]
+      },
+      {
+        "title": "Canvassing the Fingerprinters: Characterizing Canvas Fingerprinting Use Across the Web.",
+        "authors": [
+          "Elisa Luo",
+          "Tom Ritter",
+          "Stefan Savage",
+          "Geoffrey M. Voelker"
+        ]
+      },
+      {
+        "title": "Measuring the deployment of DNSSEC Bootstrapping Using Authenticated Signals.",
+        "authors": [
+          "Q. Misell",
+          "Florian Steurer",
+          "Johannes Zirngibl",
+          "Anja Feldmann",
+          "Tobias Fiebig"
+        ]
+      },
+      {
+        "title": "The Anatomy of Olympic Games: a Mobile Traffic Demand Perspective.",
+        "authors": [
+          "Máximo Pirri",
+          "Diego Madariaga",
+          "Zbigniew Smoreda",
+          "Marco Fiore"
+        ]
+      },
+      {
+        "title": "From WebGL to WebGPU: A Reality Check of Browser-Based GPU Acceleration.",
+        "authors": [
+          "Sthitadhi Sengupta",
+          "Nan Wu",
+          "Matteo Varvello",
+          "Krish Jana",
+          "Songqing Chen",
+          "Bo Han"
+        ]
+      },
+      {
+        "title": "Toward Better Efficiency vs. Fidelity Tradeoffs in Web Archives.",
+        "authors": [
+          "Jingyuan Zhu",
+          "Huanchen Sun",
+          "Harsha V. Madhyastha"
+        ]
+      },
+      {
+        "title": "Poster: Power Out, Internet Down? Measuring Internet Resilience in South Africa.",
+        "authors": [
+          "Yasin Alhamwy",
+          "Abdalmohimn Alshebane",
+          "Oliver Hohlfeld"
+        ]
+      },
+      {
+        "title": "Poster: Beyond IP: Amateur Radio PSKReporter as a Crisis Measurement Tool.",
+        "authors": [
+          "Yasin Alhamwy",
+          "Oliver Hohlfeld"
+        ]
+      },
+      {
+        "title": "Poster: ChatIYP: Enabling Natural Language Access to the Internet Yellow Pages Database.",
+        "authors": [
+          "Vasilis Andritsoudis",
+          "Pavlos Sermpezis",
+          "Ilias Dimitriadis",
+          "Athena Vakali"
+        ]
+      },
+      {
+        "title": "Poster: ECN-based Congestion Control for WebRTC.",
+        "authors": [
+          "Md. Mahir Ashhab",
+          "Hyojoon Kim"
+        ]
+      },
+      {
+        "title": "Poster: Forwarding Score: A New Metric for Assessing the Quality of Internet Route Surveys.",
+        "authors": [
+          "Ufuk Bombar",
+          "Kevin Vermeulen",
+          "Olivier Fourmaux",
+          "Timur Friedman"
+        ]
+      },
+      {
+        "title": "Poster: Is 5G a Hit? A Look into 5G Adoption in France.",
+        "authors": [
+          "Antonio Boiano",
+          "Máximo Pirri",
+          "Diego Madariaga",
+          "Nadezda Chukhno",
+          "Cezary Ziemlicki",
+          "Zbigniew Smoreda",
+          "Alessandro E. C. Redondi",
+          "Marco Fiore"
+        ]
+      },
+      {
+        "title": "Poster: Uncovering Lesser-Studied RTC Applications using RTP.",
+        "authors": [
+          "Sanjay Chandrasekaran",
+          "Jaber Daneshamooz",
+          "Oliver Michel",
+          "Arpit Gupta"
+        ]
+      },
+      {
+        "title": "Poster: A First Look at Large Language Model Applications in the Wild from Dual Perspectives.",
+        "authors": [
+          "Deliang Chang",
+          "Duowen Chen",
+          "Xuedong Wu",
+          "Xiang Li",
+          "Chenyang Li",
+          "Zhengpeng Yang",
+          "Rui Luo",
+          "Asiya",
+          "Zhicheng Wang",
+          "Shujun Tang",
+          "Xiaofeng Zheng"
+        ]
+      },
+      {
+        "title": "Poster: Rough Edges for IPv6 in VPNs.",
+        "authors": [
+          "Yejin Cho",
+          "John Heidemann"
+        ]
+      },
+      {
+        "title": "Poster: Measurements of Residential Broadband in a Midwest Town: Discerning Wi-Fi Performance Factors.",
+        "authors": [
+          "Francis A. Gatsi",
+          "Muhammad Iqbal Rochman",
+          "Saeid Mehrdad",
+          "Aaron D. Striegel",
+          "Monisha Ghosh"
+        ]
+      },
+      {
+        "title": "Poster: TopoHunter: Enabling Efficient and High-Coverage Active IPv6 Topology Discovery.",
+        "authors": [
+          "Wenwen Gong",
+          "Lin He",
+          "Hongwei Li",
+          "Guanglei Song",
+          "Wentong Wang",
+          "Daguo Cheng",
+          "Enhuan Dong",
+          "Chenglong Li",
+          "Hui Zhang",
+          "Zhiliang Wang",
+          "Jinlong E",
+          "Ying Liu",
+          "Jiahai Yang"
+        ]
+      },
+      {
+        "title": "Poster: Measuring Algorithmic Systems' Resilience Against Generative AI-Powered Attacks - Case Study on Exploiting a Code Search Platform.",
+        "authors": [
+          "Nathaniel Hahn",
+          "Tu Ouyang",
+          "An Wang"
+        ]
+      },
+      {
+        "title": "Poster: Did I Just Browse A Website Written by LLMs?",
+        "authors": [
+          "Sichang Steven He",
+          "Ramesh Govindan",
+          "Harsha V. Madhyastha"
+        ]
+      },
+      {
+        "title": "Poster: How Do You Know My Name? Investigating The Role of Domain Names for Target Reconnaissance among Web and IPv6 Scanners.",
+        "authors": [
+          "Sebastian Kappes"
+        ]
+      },
+      {
+        "title": "Poster: Enabling Data-Driven Policymaking using the Broadband-Plan Querying Tool (BQT+).",
+        "authors": [
+          "Laasya Koduru",
+          "Tejas N. Narechania",
+          "Elizabeth Belding",
+          "Arpit Gupta"
+        ]
+      },
+      {
+        "title": "Poster:  RMap: Uncovering Risky DNS Resolution Chains and Misconfigurations.",
+        "authors": [
+          "Fasheng Miao",
+          "Shuying Zhuang",
+          "Xiang Li",
+          "Changqing An",
+          "Deliang Chang",
+          "Baojun Liu",
+          "Jia Zhang",
+          "Jilong Wang"
+        ]
+      },
+      {
+        "title": "Poster: The Internet Quality Barometer Framework.",
+        "authors": [
+          "Lai Yi Ohlsen",
+          "Pavlos Sermpezis",
+          "Melissa Newcomb"
+        ]
+      },
+      {
+        "title": "Poster: A Case for Modeling Video Conferencing Applications.",
+        "authors": [
+          "Akhil Prasad",
+          "Nathaniel Cherian",
+          "Sonia Fahmy"
+        ]
+      },
+      {
+        "title": "Poster: Global Measurements of the Availability and Response Times of Public Encrypted DNS Resolvers.",
+        "authors": [
+          "Ranya Sharma",
+          "Nick Feamster"
+        ]
+      },
+      {
+        "title": "Poster: Unveiling the Nexus - Harnessing IoT Ecosystems for Internet Censorship Evasion.",
+        "authors": [
+          "Yining Shi",
+          "Wyatt Ashley",
+          "Patrick Tser Jern Kon"
+        ]
+      },
+      {
+        "title": "Poster: When Blocks Go Missing: The Timeliness and Trustworthiness of Blockchain RPC Providers.",
+        "authors": [
+          "Ye Shu",
+          "Deian Stefan",
+          "Stefan Savage",
+          "Geoffrey M. Voelker",
+          "Enze Liu"
+        ]
+      },
+      {
+        "title": "Poster: Rediscovering Recurring Routing Results.",
+        "authors": [
+          "Xiao Song",
+          "John Heidemann"
+        ]
+      },
+      {
+        "title": "Poster: Voltadomar: A Traceroute Library for Anycasted IPs.",
+        "authors": [
+          "David Song",
+          "Innocent Ndubuisi-Obi",
+          "Kurtis Heimerl"
+        ]
+      },
+      {
+        "title": "Poster: The Potential of Erroneous Outbound Traffic Analysis to Unveil Silent Internal Anomalies.",
+        "authors": [
+          "Andrea Sordello",
+          "Zhihao Wang",
+          "Kai Huang",
+          "Alessandro Cornacchia",
+          "Marco Mellia"
+        ]
+      },
+      {
+        "title": "Poster: Investigating the Survivability of the Experimental TCP Option.",
+        "authors": [
+          "Zahra Yazdani",
+          "Fahad Hilal",
+          "Cecilia Testart",
+          "Alberto Dainotti",
+          "Kevin Vermeulen",
+          "Tiago Heinrich",
+          "Taha Albakour"
+        ]
+      },
+      {
+        "title": "Poster: Collection and Sharing of A Residential Dataset.",
+        "authors": [
+          "Shuyue Yu",
+          "Thomas Koch",
+          "Ilgar Mammadov",
+          "Hangpu Cao",
+          "Gil Zussman",
+          "Ethan Katz-Bassett"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/imc/imc2024.html": {
     "header": "IMC 2024:\nMadrid, Spain",
     "year": "2024",

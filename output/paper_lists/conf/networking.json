@@ -1,4 +1,716 @@
 {
+  "https://dblp.org/db/conf/networking/networking2025.html": {
+    "header": "24th Networking 2025:\nLimassol, Cyprus",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "A Reinforcement Learning Approach to Demand Balancing and Tariff Optimization in Blockchain-Based Smart Water Networks.",
+        "authors": [
+          "Filippo Ansalone",
+          "Ioannis Chatzigiannakis",
+          "Vincenzo Taormina",
+          "Domenico Garlisi"
+        ]
+      },
+      {
+        "title": "Enhanced Water Leak Detection with Convolutional Neural Networks and One-Class Support Vector Machine.",
+        "authors": [
+          "Daniele Ugo Leonzio",
+          "Paolo Bestagini",
+          "Marco Marcon",
+          "Stefano Tubaro"
+        ]
+      },
+      {
+        "title": "Centrality-Aware Machine Learning for Water Network Pressure Prediction.",
+        "authors": [
+          "Federico Amato",
+          "Antonino Pagano",
+          "Gabriele Restuccia",
+          "Ilenia Tinnirello"
+        ]
+      },
+      {
+        "title": "Flash Flood Forecasting and the Role of Catchment Response Time: Predictions via Rainfall-Runoff and Deep Learning Models.",
+        "authors": [
+          "Thitipoom Chailert",
+          "Mark A. Trigg",
+          "Abdulrahman Altahhan",
+          "Evangelos Pournaras"
+        ]
+      },
+      {
+        "title": "Dyn-WNTR: Dynamic Network Adaptive Extension for Hydraulic Simulations with WNTR.",
+        "authors": [
+          "Pierluigi Locatelli",
+          "Tiziana Cattai",
+          "Simone Palumbo",
+          "Francesca Cuomo"
+        ]
+      },
+      {
+        "title": "Sloth: A Kernel-Bypass Scheduler Maximizing Energy Efficiency under Latency Constraints.",
+        "authors": [
+          "Clément Delzotti",
+          "Pol Maistriaux",
+          "Tom Barbette"
+        ]
+      },
+      {
+        "title": "Finding Global Top-K Flows in the Data Plane.",
+        "authors": [
+          "Shir Landau Feibish",
+          "Eitan Stein",
+          "Lior Zeno"
+        ]
+      },
+      {
+        "title": "Enhanced Open-Source NWDAF for Event-Driven Analytics in 5G Networks.",
+        "authors": [
+          "Henok Kahsay",
+          "Omar Alhussein",
+          "Jie Liang",
+          "Cheng Li",
+          "Ernesto Damiani"
+        ]
+      },
+      {
+        "title": "Dynamic Energy-Efficient User Plane Function Selection in 5G Networks.",
+        "authors": [
+          "Shima Afshar Borji",
+          "Roberto Bruschi",
+          "Chiara Lombardo",
+          "Cristina Emilia Costa"
+        ]
+      },
+      {
+        "title": "Dissecting 5G New-Radio Latency: Interacting Layers and Latency-Generating Operations.",
+        "authors": [
+          "Virgil Hamici-Aubert",
+          "Julien Saint-Martin",
+          "Renzo E. Navas",
+          "Georgios Z. Papadopoulos",
+          "Guillaume Doyen",
+          "Xavier Lagrange"
+        ]
+      },
+      {
+        "title": "The Slices Cloud Continuum Blueprint: a Resilient Infrastructure to Support Large-scale Cloud Continuum Experiments.",
+        "authors": [
+          "Andrea Sabbioni",
+          "Armir Bujari",
+          "Paolo Bellavista"
+        ]
+      },
+      {
+        "title": "Monitoring 6G UPFs: A Software-based Network Tomography Framework.",
+        "authors": [
+          "Florian Raskob",
+          "Wilton Arthur Poth",
+          "Tobias Meuser",
+          "Björn Scheuermann"
+        ]
+      },
+      {
+        "title": "AI-driven Anomaly Detection with ICS Protocols in Smart Grids.",
+        "authors": [
+          "Mamdouh Muhammad",
+          "Kanwardeep Singh",
+          "Reinhard German"
+        ]
+      },
+      {
+        "title": "LAPRAD: LLM-Assisted PRotocol Attack Discovery.",
+        "authors": [
+          "R. Can Aygun",
+          "Yehuda Afek",
+          "Anat Bremler-Barr",
+          "Leonard Kleinrock"
+        ]
+      },
+      {
+        "title": "Performance Evaluation of L4S in XR Scenarios.",
+        "authors": [
+          "Philipp Steininger",
+          "Rastin Pries",
+          "Yash Deshpande",
+          "Kaan Aykurt",
+          "Chia-Yu Chang",
+          "Koen De Schepper",
+          "Wolfgang Kellerer"
+        ]
+      },
+      {
+        "title": "Joint Resource Allocation and Trajectory Planning in Air-Ground Collaborative Edge Computing Power Offloading Network.",
+        "authors": [
+          "Meng Gu",
+          "Yaxi Liu",
+          "Xulong Li",
+          "Jiahao Huo",
+          "Wei Huangfu"
+        ]
+      },
+      {
+        "title": "GRANT: Genetic-based RAN orchestration Tuning for latency sensitive XR verticals.",
+        "authors": [
+          "Luca Mastrandrea",
+          "Alessandro Priviero",
+          "Ioannis Chatzigiannakis",
+          "Stefania Colonnese"
+        ]
+      },
+      {
+        "title": "XAI Based Technique for Detecting and Understanding Position Falsification Attacks in VANET.",
+        "authors": [
+          "Mahesh Abburi",
+          "Arunita Jaekel"
+        ]
+      },
+      {
+        "title": "Improving User Experience in Hybrid SATCOM with Deep Q-Learning.",
+        "authors": [
+          "Matthieu Petrou",
+          "Bastien Tauran",
+          "Laurent Chasserat",
+          "Matthieu Destruhaut",
+          "Moujahed Rebhi",
+          "David Pradas"
+        ]
+      },
+      {
+        "title": "Faster Latency Constrained Service Placement in Edge Computing with Deep Reinforcement Learning.",
+        "authors": [
+          "Orso Forghieri"
+        ]
+      },
+      {
+        "title": "Explaining Aggregated Network Traffic Predictors.",
+        "authors": [
+          "Aleksandra Knapinska",
+          "Krzysztof Walkowiak"
+        ]
+      },
+      {
+        "title": "Analyzing the Impact of Encryption on Traffic Classification through Explainable AI.",
+        "authors": [
+          "Davide Di Monda",
+          "Alfredo Nascita",
+          "Raffaele Carillo",
+          "Antonio Pescapè"
+        ]
+      },
+      {
+        "title": "TPOTI: A Triplet-Network-based Obfuscated Tor Traffic Identification.",
+        "authors": [
+          "Menglei Li",
+          "Chao Wu",
+          "Wentian Zhao",
+          "Tian Song"
+        ]
+      },
+      {
+        "title": "A Sybil Attack Traceability Detection Scheme Adapted to Vehicle Pseudonym Change Strategy.",
+        "authors": [
+          "Ye Chen",
+          "Yingxu Lai"
+        ]
+      },
+      {
+        "title": "Squatspotting: Towards the Systematic Measurement of Typosquatting Techniques.",
+        "authors": [
+          "Wei-Shiang Wung",
+          "Calvin Kranig",
+          "Eric Pauley",
+          "Paul Barford",
+          "Mark Crovella",
+          "Joel Sommers"
+        ]
+      },
+      {
+        "title": "Securing Software-Defined Tactical Networks: A Cyber Defense System.",
+        "authors": [
+          "Sean Kloth",
+          "Paulo Henrique L. Rettore",
+          "Philipp Zißner",
+          "Bruno Pereira Santos",
+          "Peter Sevenich"
+        ]
+      },
+      {
+        "title": "Forward Error Correction and Weighted Hierarchical Fair Multiplexing for HTTP/3 over QUIC.",
+        "authors": [
+          "Kilian Holzinger",
+          "Daniel Petri",
+          "Stefan Lachnit",
+          "Marcel Kempf",
+          "Henning Stubbe",
+          "Sebastian Gallenmüller",
+          "Stephan M. Günther",
+          "Georg Carle"
+        ]
+      },
+      {
+        "title": "Examining the Heterogeneous Throughput Performance Landscape of QUIC Implementations.",
+        "authors": [
+          "Michael König",
+          "Sebastian Rust",
+          "Martina Zitterbart",
+          "Björn Scheuermann"
+        ]
+      },
+      {
+        "title": "VGPrio: Visually Guided HTTP/3 Prioritization.",
+        "authors": [
+          "Constantin Sander",
+          "Ike Kunze",
+          "Dario Veltri",
+          "Klaus Wehrle"
+        ]
+      },
+      {
+        "title": "A First Look on Discovery of Designated Resolvers.",
+        "authors": [
+          "Steffen Sassalla",
+          "Vasilis Ververis",
+          "Vaibhav Bajpai"
+        ]
+      },
+      {
+        "title": "Secure and Efficient Data Spaces over Named Data Networking.",
+        "authors": [
+          "Yannis Thomas",
+          "Nikos Fotiou",
+          "Iakovos Pittaras",
+          "George Xylomenos"
+        ]
+      },
+      {
+        "title": "An Embedded Covert Channel Construction using HLS Protocol.",
+        "authors": [
+          "Dingming Liu",
+          "Tian Song",
+          "Wentian Zhao"
+        ]
+      },
+      {
+        "title": "A Lightweight Authentication Protocol for Wide-Range Drone Communications.",
+        "authors": [
+          "Wanting Li",
+          "Maode Ma",
+          "Lijun Gao"
+        ]
+      },
+      {
+        "title": "Unsteady Underwater - On the Constancy of Submarine Path Properties.",
+        "authors": [
+          "Mia Weaver",
+          "Paul Barford",
+          "Fabian E. Bustamante",
+          "Esteban Carisimo",
+          "Lynne Stokes",
+          "Weili Wu"
+        ]
+      },
+      {
+        "title": "Argus Lens: Innovating Internet Measurement Infrastructure via Relay Services.",
+        "authors": [
+          "Zhiquan Wang",
+          "Changqing An",
+          "Jilong Wang"
+        ]
+      },
+      {
+        "title": "Preserving Coreness while Reducing Connectivity in Network Graphs.",
+        "authors": [
+          "Ahmad Zareie",
+          "Rizos Sakellariou"
+        ]
+      },
+      {
+        "title": "Breaking Through the Clouds: Performance Insights into Starlink's Latency and Packet Loss.",
+        "authors": [
+          "Robert Alexander Uwe Richter",
+          "Vasilis Ververis",
+          "Vaibhav Bajpai"
+        ]
+      },
+      {
+        "title": "PASD-5GC: A Process-Based Approach for Anomalous Signaling Detection in 5G Core Network.",
+        "authors": [
+          "Cong Li",
+          "Yuhan Cao",
+          "Xingxing Liao",
+          "Zilong Wang",
+          "Wei You",
+          "Xinsheng Ji"
+        ]
+      },
+      {
+        "title": "Interpretable Outlier and Anomaly Detection for Mobile Networks from Small Tabular Data.",
+        "authors": [
+          "Juan Marcos Ramirez",
+          "Pablo J. Rojo Maroni",
+          "Vincenzo Mancuso",
+          "Antonio Fernández Anta"
+        ]
+      },
+      {
+        "title": "Self-Supervised Transformer-based Contrastive Learning for Intrusion Detection Systems.",
+        "authors": [
+          "Ippokratis Koukoulis",
+          "Ilias Syrigos",
+          "Thanasis Korakis"
+        ]
+      },
+      {
+        "title": "Bandwidth-Aware Adaptive Gradient Quantization for Cross-Organization Federated Learning.",
+        "authors": [
+          "Shu Liu",
+          "Hong Shen",
+          "Chan-Tong Lam",
+          "K. L. Eddie Law"
+        ]
+      },
+      {
+        "title": "FORESIGHT: Joint Time and Space Scheduling for Efficient Distributed ML Training.",
+        "authors": [
+          "Farid Zandi Shafagh",
+          "Manya Ghobadi",
+          "Yashar Ganjali"
+        ]
+      },
+      {
+        "title": "STAGS: A Graph-Sampling Approach for GNN-based Network Anomaly Detection.",
+        "authors": [
+          "Saikat Dey",
+          "Mark K. Gardner",
+          "Jeffry Lang",
+          "Wu-chun Feng"
+        ]
+      },
+      {
+        "title": "Constraint-Aware Probabilistic Packet Forwarding Based on Deep Reinforcement Learning.",
+        "authors": [
+          "Guocheng Lin",
+          "Yang Xiao",
+          "Jun Liu"
+        ]
+      },
+      {
+        "title": "E-MATRO: An Adaptive and Energy-Efficient Framework for Slicing within the O-RAN Architecture.",
+        "authors": [
+          "André Cédric Bessala",
+          "Guilherme Iecker Ricardo",
+          "Gentian Jakllari"
+        ]
+      },
+      {
+        "title": "Geo-distributed and Dynamic Control Plane Management toward Green Mobile Networks.",
+        "authors": [
+          "Masayuki Kurata",
+          "Akio Ikami",
+          "Masaki Suzuki"
+        ]
+      },
+      {
+        "title": "Deep Learning-Driven Two-Stage Distributed Radio Resource Allocation in 6G Cell-Free Communication Systems.",
+        "authors": [
+          "Iacovos Ioannou",
+          "Christophoros Christophorou",
+          "Gussan Mufti",
+          "Charalambos Klitis",
+          "Vasos Vassiliou",
+          "Christos V. Verikoukis"
+        ]
+      },
+      {
+        "title": "BlocBin: SLA-Compliant and Efficient RAN Slicing in Next-Generation Networks.",
+        "authors": [
+          "Juliana Olubukola Ojo",
+          "Guilherme Iecker Ricardo",
+          "Gentian Jakllari"
+        ]
+      },
+      {
+        "title": "TROPIC: Traffic-Engineering-Oriented Planning of IP Core Networks.",
+        "authors": [
+          "Leon Richardt",
+          "Alexander Brundiers",
+          "Timmy Schüller",
+          "Nils Aschenbruck"
+        ]
+      },
+      {
+        "title": "On the Resilience of Fast Failover Routing Against Dynamic Link Failures.",
+        "authors": [
+          "Wenkai Dai",
+          "Klaus-Tycho Foerster",
+          "Stefan Schmid"
+        ]
+      },
+      {
+        "title": "Non-Shortest Path Routing in Lossy Data Center Networks.",
+        "authors": [
+          "Tal Mizrahi",
+          "Shahar Belkar",
+          "Oren Spector",
+          "Reuven Cohen"
+        ]
+      },
+      {
+        "title": "Efficient Datacenter Load Balancing with Microslices.",
+        "authors": [
+          "Hafiza Ramzah Rehman",
+          "Sana Mahmood",
+          "Syed Mohammad Irteza",
+          "Fahad R. Dogar",
+          "Ihsan Ayyub Qazi"
+        ]
+      },
+      {
+        "title": "Detecting Stragglers in Programmable Data Plane.",
+        "authors": [
+          "Muhamad Rizka Maulana",
+          "Habib Mostafaei",
+          "Nirvana Meratnia"
+        ]
+      },
+      {
+        "title": "Detecting Manipulation to Table Rules in the Programmable Data Planes.",
+        "authors": [
+          "Ranjitha K.",
+          "Karuturi Havya Sree",
+          "Devansh Garg",
+          "Stavan Nilesh Christian",
+          "Dheekshitha Bheemanath",
+          "Rinku Shah",
+          "Praveen Tammana"
+        ]
+      },
+      {
+        "title": "Hocarest: Host Cardinality Estimation On-Switch using Randomized Algorithm and TCAM.",
+        "authors": [
+          "Timon Krack",
+          "Martina Zitterbart"
+        ]
+      },
+      {
+        "title": "ReBARC: Recovery-Budget-Aware In-Network Retransmission Control in ICN.",
+        "authors": [
+          "Kazuhisa Matsuzono",
+          "Hitoshi Asaeda"
+        ]
+      },
+      {
+        "title": "Towards End-to-End Network Intent Management with Large Language Models.",
+        "authors": [
+          "Lam Dinh",
+          "Sihem Cherrared",
+          "Xiaofeng Huang",
+          "Fabrice M. Guillemin"
+        ]
+      },
+      {
+        "title": "Min-Cost Multicast Streaming with Network Coding in Edge Computing Networks.",
+        "authors": [
+          "Yeqiao Hou",
+          "Han Yang",
+          "Xianglong Li",
+          "Ling Deng",
+          "Liang Du",
+          "Zongpeng Li",
+          "Yining Li"
+        ]
+      },
+      {
+        "title": "Multicast-partitioning in Time-triggered Stream Planning for Time-Sensitive Networks.",
+        "authors": [
+          "Heiko Geppert",
+          "Frank Dürr",
+          "Simon Naß",
+          "Kurt Rothermel"
+        ]
+      },
+      {
+        "title": "Selective Aggressive Caching in DNS Resolvers.",
+        "authors": [
+          "Hadar Cochavi Gorelik",
+          "Gil Einziger"
+        ]
+      },
+      {
+        "title": "Memory-efficient Online Caching Policies with Regret Guarantees.",
+        "authors": [
+          "Xufeng Zhang",
+          "Sara Alouf",
+          "Giovanni Neglia"
+        ]
+      },
+      {
+        "title": "A Holistic 3D Deployment and Connectivity Framework for IoT-Enabled Environments.",
+        "authors": [
+          "Andreas Andreou",
+          "Constandinos X. Mavromoustakis",
+          "George Mastorakis",
+          "Athina Bourdena",
+          "Evangelos K. Markakis"
+        ]
+      },
+      {
+        "title": "LoRa++: Mixed Up-Down CSS Modulation for Enhanced Scalability and Data Rate in LPWANs.",
+        "authors": [
+          "Shrutkirthi S. Godkhindi",
+          "Deeksha P. Rao",
+          "R. Venkatesha Prasad",
+          "T. Venkata Prabhakar"
+        ]
+      },
+      {
+        "title": "Measurement-Efficient Dynamics Change Detection in On-Off Models for Dynamic Spectrum Access.",
+        "authors": [
+          "Simon Lindståhl",
+          "Alexandre Proutière",
+          "Andreas Johnsson"
+        ]
+      },
+      {
+        "title": "SAGE: Transmission Power Management for Deadline-aware, Multihop IoT Edge Networks.",
+        "authors": [
+          "Shanti Chilukuri",
+          "Vinayaka Shashank Varanasi",
+          "Kalyana Chakravarthy C."
+        ]
+      },
+      {
+        "title": "Reminis: A Simple and Efficient Congestion Control Scheme for 5G Networks and Beyond.",
+        "authors": [
+          "Parsa Pazhooheshy",
+          "Soheil Abbasloo",
+          "Yashar Ganjali"
+        ]
+      },
+      {
+        "title": "PVD-TD3: A Latency-Oriented Multi-Agent Reinforcement Learning Algorithm for Multipath Routing in DetNet.",
+        "authors": [
+          "Ying Yang",
+          "Yang Xiao",
+          "Jun Liu"
+        ]
+      },
+      {
+        "title": "Insights into BBRv3's Performance and Behavior by Experimental Evaluation.",
+        "authors": [
+          "Roland Bless",
+          "Lukas Lihotzki",
+          "Martina Zitterbart"
+        ]
+      },
+      {
+        "title": "Demand-Aware Multi-Source IP-Multicast: Minimal Congestion via Link Weight Optimization.",
+        "authors": [
+          "Matthias Bentert",
+          "Max Franke",
+          "Darya Melnyk",
+          "Arash Pourdamghani",
+          "Stefan Schmid"
+        ]
+      },
+      {
+        "title": "BBR's Sharing Behavior with CUBIC and Reno.",
+        "authors": [
+          "Fatih Berkay Sarpkaya",
+          "Ashutosh Srivastava",
+          "Fraida Fund",
+          "Shivendra S. Panwar"
+        ]
+      },
+      {
+        "title": "Predicting Video QoE from Encrypted Traffic: Leveraging Video Fingerprinting and Providing System-Level Insights.",
+        "authors": [
+          "Somiya Kapoor",
+          "Ethan Witwer",
+          "David Hasselquist",
+          "Mikael Asplund",
+          "Niklas Carlsson"
+        ]
+      },
+      {
+        "title": "Precise Positioning for Healthcare Robotics with Retroreflective Tags in 5G Small Cell Networks.",
+        "authors": [
+          "Alireza Famili",
+          "Tolga O. Atalay",
+          "Angelos Stavrou"
+        ]
+      },
+      {
+        "title": "Zone-Fingerprinting: Unlocking the Power of Fingerprinting for Indoor Localization in 5G.",
+        "authors": [
+          "Antonin Le Floch",
+          "Rahim Kacimi",
+          "Pierre Druart",
+          "Yoann Lefebvre",
+          "André-Luc Beylot"
+        ]
+      },
+      {
+        "title": "Transferability of TCP/IP-based OS fingerprinting models.",
+        "authors": [
+          "Matej Hulák",
+          "Václav Bartos",
+          "Tomás Cejka"
+        ]
+      },
+      {
+        "title": "Distributed Fog Computing for Real-Time Surveillance.",
+        "authors": [
+          "Joaquín Olivares Bueno",
+          "Héctor Martínez Pérez",
+          "Fernando León-García",
+          "José M. Palomares"
+        ]
+      },
+      {
+        "title": "Modular ML-Based IDS: Layered Attack Detection via Header & Payload Analysis.",
+        "authors": [
+          "Mohammad Saghali",
+          "Mahdi Naderibeni",
+          "Vikramajeet Khatri",
+          "Siwar Kriaa",
+          "Serge Papillon",
+          "Mehrnoosh Monshizadeh"
+        ]
+      },
+      {
+        "title": "Group-aware Resource and Path Discovery for Collaborative Ultra-Low Latency Applications.",
+        "authors": [
+          "Hendrik Mahrt",
+          "Martina Zitterbart"
+        ]
+      },
+      {
+        "title": "Effectively Mimicking Datacenter Traffic Patterns Using Transformers.",
+        "authors": [
+          "Chen Griner"
+        ]
+      },
+      {
+        "title": "Privacy Preserving Integrated Sensing and Communication Architecture for 6G Networks.",
+        "authors": [
+          "Prajnamaya Dass",
+          "Yevhen Zolotavkin",
+          "Stefan Köpsell"
+        ]
+      },
+      {
+        "title": "D-Band Line-of-Sight MIMO Link Demonstration.",
+        "authors": [
+          "Darko Cvetkovski",
+          "Christoph Herold",
+          "Eckhard Grass"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/networking/networking2024.html": {
     "header": "Networking 2024: Thessaloniki, Greece",
     "year": "2024",

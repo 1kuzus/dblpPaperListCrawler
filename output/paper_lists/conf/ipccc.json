@@ -1,4 +1,592 @@
 {
+  "https://dblp.org/db/conf/ipccc/ipccc2025.html": {
+    "header": "45th IPCCC 2025: Austin, TX, USA",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "LASER: Line-Aware and Self-Balancing Learned Index for Rapid Key Lookup.",
+        "authors": [
+          "Shuaihua Zhao",
+          "Jian Zhou",
+          "Song Jiang"
+        ]
+      },
+      {
+        "title": "Affordable Crop Disease Detection with Drone Imagery and Artificial Intelligence.",
+        "authors": [
+          "Vedant Mohapatra",
+          "Sasmita Mohapatra"
+        ]
+      },
+      {
+        "title": "TMAC: A Transformer-Enabled Multi-Agent Actor-Critic Method for Low-Latency XR Delivery.",
+        "authors": [
+          "Xinyu Wang",
+          "Yinlin Ren",
+          "Zhengqiu Yang",
+          "Shao-Yong Guo",
+          "Qingfeng Li",
+          "Wenjing Li"
+        ]
+      },
+      {
+        "title": "BitRL-Light: 1-Bit LLM Agents with Deep Reinforcement Learning for Energy-Efficient Smart Home Lighting Optimization.",
+        "authors": [
+          "Ravi Gupta",
+          "Shabista Haider"
+        ]
+      },
+      {
+        "title": "Adaptive Hash Ring-Based Efficient Fuzzy and Over-Threshold Multi-Party PSI.",
+        "authors": [
+          "Li Guan",
+          "Xiaodong Li",
+          "Ruoyun Zhao",
+          "Yimeng Dou",
+          "Yuan Cui",
+          "Lan Ma"
+        ]
+      },
+      {
+        "title": "Understanding Job Configuration Impacts on Multiple Views of HPC Job Quality.",
+        "authors": [
+          "Strahinja Trecakov",
+          "Mohammad Al-Tahat",
+          "Jonathan E. Cook"
+        ]
+      },
+      {
+        "title": "Performance Evaluation of GPU-Accelerated Molecular Dynamics Simulations with Controlled Atom Counts and Varing System Compositions.",
+        "authors": [
+          "Minsung Ko",
+          "Soohwan Jeong",
+          "Seong-Min Kim",
+          "Joongyeon Choi",
+          "Hyunggun Kim"
+        ]
+      },
+      {
+        "title": "Comparative Study of Clustering Algorithms for Device Grouping in Wi-Fi HaLow Networks.",
+        "authors": [
+          "Md Saif Rahman",
+          "Marcelo M. Carvalho"
+        ]
+      },
+      {
+        "title": "Assessing and Visualizing Completeness, Co-Coverage, and Scalability in Multivariate Time-Series Data.",
+        "authors": [
+          "Long Vu",
+          "Madeline Frank",
+          "Honghui Xu",
+          "Sisi Chen",
+          "Tu N. Nguyen",
+          "Selena He",
+          "Bobin Deng",
+          "Kun Suo"
+        ]
+      },
+      {
+        "title": "Towards Profits Optimization in LLM Inference Model Deployment at the Network Edge.",
+        "authors": [
+          "Yuqi Zhang",
+          "Danyang Zheng",
+          "Huanlai Xing",
+          "Honghui Xu",
+          "Chengzong Peng",
+          "Chao Wang",
+          "Xiaojun Cao"
+        ]
+      },
+      {
+        "title": "Adaptive LLM Routing for Scientific Workflows: Predicting Query Complexity to Optimize Cost.",
+        "authors": [
+          "Jonas Thierfeldt",
+          "Dominik Scheinert",
+          "Thorsten Wittkopp",
+          "Odej Kao"
+        ]
+      },
+      {
+        "title": "Dockless Electric Scooters Worldwide: Tools, Methods, and Longitudinal Analysis.",
+        "authors": [
+          "Hassan Ali Khan",
+          "Muhammad Shahzad"
+        ]
+      },
+      {
+        "title": "An Efficient Push-Relabel Implementation for Max-Flow Computations on GPUs.",
+        "authors": [
+          "Avery Vanausdal",
+          "Martin Burtscher"
+        ]
+      },
+      {
+        "title": "Exploiting ML Task Correlation in the Minimization of Capital Expense for GPU Data Centers.",
+        "authors": [
+          "Srinivasan Subramaniyan",
+          "Xiaorui Wang"
+        ]
+      },
+      {
+        "title": "KRRD: An Overlay Architecture for Anti-Eavesdropping with K-Randomized Routing Dispersion.",
+        "authors": [
+          "Panzhi Du",
+          "Jiali You",
+          "Yang Li",
+          "Jun Chen"
+        ]
+      },
+      {
+        "title": "When FinTech Meets Privacy: Securing Financial LLMs with Differential Private Fine-Tuning.",
+        "authors": [
+          "Sichen Zhu",
+          "Hoyeung Leung",
+          "Xiaoyi Wang",
+          "Jia Wei",
+          "Honghui Xu"
+        ]
+      },
+      {
+        "title": "Optimizing Edge-AI on the ESP32-S3 Using SIMD.",
+        "authors": [
+          "Katherine Zhang",
+          "Hasan Poonawala"
+        ]
+      },
+      {
+        "title": "Turboindex: Making a Page-Based DB Index Both Memory-Space and Disk-I/O Efficient.",
+        "authors": [
+          "Sujit Maharjan",
+          "Shuaihua Zhao",
+          "Song Jiang"
+        ]
+      },
+      {
+        "title": "TFMana: A Traffic Feature Calibration Method to Empower Reliable Network Traffic Analysis.",
+        "authors": [
+          "Zhengpeng Li",
+          "Shuang Zhao",
+          "Shuhui Chen",
+          "Fei Wang",
+          "Biying Wang",
+          "Minxin Wang"
+        ]
+      },
+      {
+        "title": "Peer Learning through Distributed Computing Research for Diverse Undergraduate Students.",
+        "authors": [
+          "Pradeeban Kathiravelu",
+          "David Moxley"
+        ]
+      },
+      {
+        "title": "Exploiting Binary Semantics: Enhancing Function Name Inference in Stripped Binaries via LLMs.",
+        "authors": [
+          "Kailong Wang",
+          "Han Zhang",
+          "Dongliang Fang",
+          "Zhongwei Gu",
+          "Zhanwei Song",
+          "Yongle Chen",
+          "Zhiqiang Shi",
+          "Limin Sun"
+        ]
+      },
+      {
+        "title": "KIS-S: A GPU-Aware Kubernetes Inference Simulator with RL-Based Auto-Scaling.",
+        "authors": [
+          "Guilin Zhang",
+          "Wulan Guo",
+          "Ziqi Tan",
+          "Qiang Guan",
+          "Hailong Jiang"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving AI Inference in Edge Systems: Ethical and Architectural Tradeoffs.",
+        "authors": [
+          "Sunitha Kanipakam",
+          "Vishnupriya S. Devarajulu",
+          "Tulasi Kavarakuntla"
+        ]
+      },
+      {
+        "title": "FCC: Fast Fair Congestion Control in Data Center Networks with RDMA.",
+        "authors": [
+          "Yubing Li",
+          "Qingyun Liu"
+        ]
+      },
+      {
+        "title": "Task-Oriented Semantic Communication Via Federated Learning.",
+        "authors": [
+          "Zhe Xiang",
+          "Yuandi Li",
+          "Fei Yu",
+          "Yanhao Wang",
+          "Yuehua Li",
+          "Zeyang Rao"
+        ]
+      },
+      {
+        "title": "A Reinforcement Learning Framework for Application-Specific TCP Congestion-Control.",
+        "authors": [
+          "Jinming Xing",
+          "Muhammad Shahzad"
+        ]
+      },
+      {
+        "title": "Mitigating Syntax and Logic Errors in LLM Based Code Generation via XML-Structured Prompts.",
+        "authors": [
+          "Saket Sambaraju",
+          "Jeffrey Boman",
+          "Howell Wu",
+          "Ziliang Zong"
+        ]
+      },
+      {
+        "title": "CPINN-ABPI: Physics-Informed Neural Networks for Accurate Power Estimation in MPSoCs.",
+        "authors": [
+          "Mohamed R. Elshamy",
+          "Mehdi Elahi",
+          "Ahmad Patooghy",
+          "Abdel-Hameed A. Badawy"
+        ]
+      },
+      {
+        "title": "A Dual-Level Game-Theoretic Approach for Collaborative Learning in UAV-Assisted Heterogeneous Vehicle Networks.",
+        "authors": [
+          "Zihao Ding",
+          "Jun Huang",
+          "Qiang Duan",
+          "Cheng Zhang",
+          "Yanxiao Zhao",
+          "Shuyang Gu"
+        ]
+      },
+      {
+        "title": "Omni-Homomorphic Compression for Large Scientific Datasets.",
+        "authors": [
+          "Alex Fallin",
+          "Martin Burtscher"
+        ]
+      },
+      {
+        "title": "PBC-MWF: Robust Multi-Tab Website Fingerprinting via Interval-Aggregated Packet-Burst Counts.",
+        "authors": [
+          "Yuhao Wei",
+          "Zhen Li",
+          "Gang Xiong",
+          "Gaopeng Gou",
+          "Junzheng Shi",
+          "Yingchao Qin"
+        ]
+      },
+      {
+        "title": "TrafficBM: A Dual-Modality Pre-Training Framework for Network Traffic Classification.",
+        "authors": [
+          "Minxin Wang",
+          "Junhong Liao",
+          "Jinshu Su",
+          "Ziling Wei",
+          "Shuhui Chen",
+          "Zhengpeng Li",
+          "Biying Wang"
+        ]
+      },
+      {
+        "title": "STG-foF2: Spatio-Temporal Graph Networks for foF2 Prediction in High-Frequency Communication.",
+        "authors": [
+          "Dandan Che",
+          "Ying Li",
+          "Yi Gong"
+        ]
+      },
+      {
+        "title": "Patched Forecasting with Gumbel-Based Selector for Sparse Mobile Crowd Sensing.",
+        "authors": [
+          "Victor Li",
+          "Carson Lam",
+          "Ting Li"
+        ]
+      },
+      {
+        "title": "Registration and Geolocation of Aerial Thermal Images for Wildfire Monitoring.",
+        "authors": [
+          "Roberta Dal Lago Garcia",
+          "Nihar Nanjappa",
+          "Alex Alvarez",
+          "Philip Anand",
+          "Gustavo Vejarano"
+        ]
+      },
+      {
+        "title": "Secure and Efficient Vehicle-to-Vehicle Task Offloading via Trust-Aware Collaboration.",
+        "authors": [
+          "Xiaomei Zhang",
+          "Flowrence Dirisipamu",
+          "Khushi Jadhav"
+        ]
+      },
+      {
+        "title": "Efficiency of LLVM Compilers on High-Performance Architectures.",
+        "authors": [
+          "Vedant Mohapatra",
+          "Sasmita Mohapatra"
+        ]
+      },
+      {
+        "title": "DNSHolmes: A Scalable Framework for DNS Repair Using Large Language Models.",
+        "authors": [
+          "Kaiqiang Hu",
+          "Haizhou Du",
+          "Ziyi Wang"
+        ]
+      },
+      {
+        "title": "Modeling Rate-Distortion for Endpoint-Aware Lossy Compression in Scientific Data Transfer.",
+        "authors": [
+          "Md Hasanur Rahman",
+          "Sheng Di",
+          "Guanpeng Li",
+          "Franck Cappello"
+        ]
+      },
+      {
+        "title": "Flight State Calibration of Digital Twin Models for UAV Swarms.",
+        "authors": [
+          "Zhilin Li",
+          "Xiaochang Liu",
+          "Lei Lei",
+          "Gaoqing Shen",
+          "Xiaojiao Liu",
+          "Pan Cao"
+        ]
+      },
+      {
+        "title": "SNACK: Loss Recovery Through Explicit Notification Combined with Selective Nack.",
+        "authors": [
+          "Jiasheng Wang",
+          "Yuehao Xu",
+          "Song He",
+          "Haotian Wu",
+          "Jian Yu",
+          "Zhijun Ding"
+        ]
+      },
+      {
+        "title": "Transaction-Binding Based Collateral Cost Optimization for Payment Channel Networks.",
+        "authors": [
+          "Jingjing Zhang",
+          "Yi Zhou",
+          "Daozhe Luo",
+          "Weigang Wu",
+          "Yuzhi Liang"
+        ]
+      },
+      {
+        "title": "Secure and Privacy-Preserving Data Aggregation Against Malicious Gateway in RPL-Based Internet of Things.",
+        "authors": [
+          "Image Bhattarai",
+          "Cong Pu"
+        ]
+      },
+      {
+        "title": "Explaining the Black Box Through Ethical Decision Making in Large Language Models.",
+        "authors": [
+          "Julian Zarazua",
+          "Bishal Thapa",
+          "Heena Rathore"
+        ]
+      },
+      {
+        "title": "Asymmetric LEO Constellation Optimization: A Population-Based Approach.",
+        "authors": [
+          "Griffin Klevering",
+          "Samantha Kissel",
+          "Li Xiao",
+          "Wolfgang Banzhaf"
+        ]
+      },
+      {
+        "title": "Towards Accurate TCP Flightsize Estimation: A History-Aware Learning Approach.",
+        "authors": [
+          "Mingrui Zhang",
+          "Jianlin Zhang"
+        ]
+      },
+      {
+        "title": "Unsupervised Indoor Relative Positioning and Group Proximity Prediction Based on CIR Graph Convolutional Network and MDS Embedding.",
+        "authors": [
+          "Kaiqing Zhang",
+          "Xuemin Hong",
+          "Ao Peng"
+        ]
+      },
+      {
+        "title": "Machine Learning and AI Classification of HPC Job Quality Using Time-Series Heartbeat Data.",
+        "authors": [
+          "Mohammad Al-Tahat",
+          "Strahinja Trecakov",
+          "Jonathan E. Cook"
+        ]
+      },
+      {
+        "title": "Energy Efficiency Optimization for Active RIS-Assisted UAV Communication Networks.",
+        "authors": [
+          "Shiqi Ren",
+          "Zhongrui Zhang",
+          "Cheng Zhan",
+          "Fei Wang",
+          "Yang Yang",
+          "Zili Zhang"
+        ]
+      },
+      {
+        "title": "Accelerating TensorFlow Lite Micro on Embedded RISC-V Platforms via Multi-Hart Execution.",
+        "authors": [
+          "Pratik R. Kedar",
+          "Mukunda Aprameya",
+          "Mayank Mangla"
+        ]
+      },
+      {
+        "title": "Gumbel-Based Active Sparse Mobile Crowd Sensing with Time Series Transformer.",
+        "authors": [
+          "Victor Li",
+          "Carson Lam",
+          "Ting Li"
+        ]
+      },
+      {
+        "title": "Hybrid Case-Based Reasoning and Kalman Filtering for Cost-Aware Multi-Hop Task Offloading in IoT Edge Networks.",
+        "authors": [
+          "Jiale Zhan",
+          "Gang Xu",
+          "Xiaodong Xu"
+        ]
+      },
+      {
+        "title": "Learning from the Packet Sequences: Diffusion Model-Based Protocol Greybox Fuzzing.",
+        "authors": [
+          "Xin Ren",
+          "Pengfei Wang",
+          "Peihong Lin",
+          "Xu Zhou",
+          "Wei Xie"
+        ]
+      },
+      {
+        "title": "Exploiting Parasitic Dependency for Free-Rider Elimination in Blockchain-Based Federated Learning.",
+        "authors": [
+          "Donghang Duan",
+          "Xu Zheng",
+          "Yifu Zheng",
+          "Chong Mu",
+          "Ruozhou Wang",
+          "Ke Yan"
+        ]
+      },
+      {
+        "title": "On the Hidden Costs of Fairness in Byzantine-Robust Decentralized Federated Learning Under Data Heterogeneity.",
+        "authors": [
+          "Opeyemi Ajibuwa",
+          "Olusola Tolulope Odeyomi"
+        ]
+      },
+      {
+        "title": "DM-SCT: Side-Channel Trace Generation Via Attention-Enhanced Diffusion Model.",
+        "authors": [
+          "Yuxuan Meng",
+          "Baosheng Wang",
+          "Qianqian Xing",
+          "Xiaofeng Wang"
+        ]
+      },
+      {
+        "title": "How to Get Rid of Blockchain in Distributed Information Systems.",
+        "authors": [
+          "Michael Hofmeier",
+          "Michael Grabatin",
+          "Wolfgang Hommel"
+        ]
+      },
+      {
+        "title": "Semantic Segmentation in Natural Environments: An Analysis of Deep Learning Techniques.",
+        "authors": [
+          "Jahid Hasan Rony",
+          "Abdullah Al Shafi",
+          "Razib Hayat Khan",
+          "M. M. Mahbubul Syeed",
+          "Mohammad Faisal Uddin"
+        ]
+      },
+      {
+        "title": "Gate-Breaker: An LLM-Powered Netlist-to-RTL Reverse Engineering Tool.",
+        "authors": [
+          "Md. Omar Faruque",
+          "Peter Jamieson",
+          "Ahmad Patooghy",
+          "Abdel-Hameed A. Badawy"
+        ]
+      },
+      {
+        "title": "Trusted Medical AI: Blockchain-Backed Device Authentication With Digital Twin-Enhanced XAI for Lung Cancer Detection.",
+        "authors": [
+          "Gabriel Chukwunonso Amaizu",
+          "Akshita Maradapu Vera Venkata Sai",
+          "Zuobin Xiong",
+          "Yingshu Li"
+        ]
+      },
+      {
+        "title": "ALPHA: LLM-Enabled Active Learning for Human-Free Network Anomaly Detection.",
+        "authors": [
+          "Xuanhao Luo",
+          "Shivesh Madan Nath Jha",
+          "Akruti Sinha",
+          "Zhizhen Li",
+          "Yuchen Liu"
+        ]
+      },
+      {
+        "title": "Enriching Network Traffic Traces for Increasing Classification Accuracy.",
+        "authors": [
+          "Sripath Mishra",
+          "Akhil Prasad",
+          "Sonia Fahmy"
+        ]
+      },
+      {
+        "title": "I Know Who You are: An Identity Mapping Attack Based on Time Series Similarity in Mobile Networks.",
+        "authors": [
+          "Wenao Zhang",
+          "Shuhui Chen",
+          "Junhong Liao",
+          "Ziling Wei",
+          "Mengyi Gong"
+        ]
+      },
+      {
+        "title": "Intelligent and Efficient Single-Stage Sluice Scheduling via Reinforcement Learning.",
+        "authors": [
+          "Jun Feng",
+          "Yanan Lu",
+          "Jiamin Lu",
+          "Guozhu Zhu",
+          "Wei Zhou"
+        ]
+      },
+      {
+        "title": "Sum Rate Maximization for UAV-Mounted IRS-Assisted RSMA Networks with Hardware Impairments.",
+        "authors": [
+          "Habtamu Demeke Mihertie",
+          "Zhengqiang Wang",
+          "Hailay Teklehaimanot Belay"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/ipccc/ipccc2024.html": {
     "header": "43rd IPCCC 2024:\nOrlando, FL, USA",
     "year": "2024",

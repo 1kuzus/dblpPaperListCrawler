@@ -1,4 +1,625 @@
 {
+  "https://dblp.org/db/conf/icsoc/icsoc2025-2.html": {
+    "header": "23rd ICSOC 2025: Shenzhen, China - Part II",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "AI-Driven and QoS-Aware Orchestration of Interdependent Services in the Cloud Continuum.",
+        "authors": [
+          "Henda Sfaxi",
+          "Dia Jean Cédric Sanou",
+          "Imene Lahyani",
+          "Sami Yangui",
+          "Mohamed Jmaiel"
+        ]
+      },
+      {
+        "title": "Integrating Terms of Service and Service Level Agreements for Automating Cloud Service Management.",
+        "authors": [
+          "Elena Molino-Peña",
+          "José María García",
+          "Antonio Ruiz-Cortés"
+        ]
+      },
+      {
+        "title": "SDS-Cloud: Secure Deduplication and Sharing Without Third-Party Authorities for Clouds.",
+        "authors": [
+          "Yuhan Chen",
+          "Peng Liu",
+          "Lie Wang",
+          "Shanyu Gan",
+          "Danping Yang"
+        ]
+      },
+      {
+        "title": "iSubscription: Bridging the Gap Between Contracts and Runtime Access Control in SaaS.",
+        "authors": [
+          "Alejandro García-Fernández",
+          "José Antonio Parejo",
+          "Antonio Ruiz-Cortés"
+        ]
+      },
+      {
+        "title": "OSAF: Open Service-Available First Routing Mechanism for Computing Power Network.",
+        "authors": [
+          "Yunkang Zhang",
+          "Qiang Wu",
+          "Ran Wang",
+          "Jie Hao",
+          "Hao Liu",
+          "Yiyun Xu"
+        ]
+      },
+      {
+        "title": "A-MINT: An LLM Pipeline for Automated Modeling of iPricings from SaaS Pricing Pages.",
+        "authors": [
+          "Francisco Javier Cavero",
+          "José Antonio Parejo",
+          "Juan C. Alonso",
+          "Antonio Ruiz-Cortés"
+        ]
+      },
+      {
+        "title": "LightLoader: Accelerate Python FaaS Cold-Start via Multi-level Source Code Optimization.",
+        "authors": [
+          "Pengyu Chen",
+          "Wei Chen",
+          "Guoquan Wu",
+          "Jun Wei"
+        ]
+      },
+      {
+        "title": "Bridging Service Diversity and CPU Heterogeneity Through Program Similarity-Driven Scheduling.",
+        "authors": [
+          "Jiayin Luo",
+          "Yuxin Ma",
+          "Xinkui Zhao",
+          "Wei Zhou",
+          "Jianwei Yin"
+        ]
+      },
+      {
+        "title": "Optimizing QoS Fulfillment of Drone Services.",
+        "authors": [
+          "Syeda Amna Rizvi",
+          "Athman Bouguettaya"
+        ]
+      },
+      {
+        "title": "DIJS: A Dual Interference-Aware Job Scheduling Framework for Co-located Data Centers.",
+        "authors": [
+          "Qin Hua",
+          "Shiyou Qian",
+          "Yufeng Deng",
+          "Kaixuan Zhang",
+          "Dingyu Yang",
+          "Jian Cao",
+          "Guangtao Xue"
+        ]
+      },
+      {
+        "title": "QONNECT: A QoS-Aware Orchestration System for Distributed Kubernetes Clusters.",
+        "authors": [
+          "Haci Ismail Aslan",
+          "Syed Muhammad Mahmudul Haque",
+          "Joel Witzke",
+          "Odej Kao"
+        ]
+      },
+      {
+        "title": "Towards Trusted Service Monitoring: Verifiable Service Level Agreements.",
+        "authors": [
+          "Fernando Castillo",
+          "Eduardo Brito",
+          "Sebastian Werner",
+          "Pille Pullonen-Raudvere",
+          "Jonathan Heiss"
+        ]
+      },
+      {
+        "title": "A Service-Oriented Digital Twin Architecture for Seamless Reliability Verification of IoT Systems.",
+        "authors": [
+          "Janik-Vasily Benzin",
+          "Jürgen Mangler",
+          "Stefanie Rinderle-Ma"
+        ]
+      },
+      {
+        "title": "Detecting AI-Assisted Tampering in Crowdsourced IoT Service Trust Information.",
+        "authors": [
+          "Thilina Lokuruge",
+          "Athman Bouguettaya"
+        ]
+      },
+      {
+        "title": "LDP-QWSP: A General Local Differential Privacy Framework for QoS-Based Web Service Prediction.",
+        "authors": [
+          "Fuchang Luo",
+          "Haonan Wu",
+          "Shunshun Peng",
+          "Quanwang Wu",
+          "Hongbing Wang",
+          "Mengmeng Yang",
+          "Taolin Guo"
+        ]
+      },
+      {
+        "title": "Privacy-Preserving Revenue Prediction in Service-Oriented Industrial Supply Chains.",
+        "authors": [
+          "Xianghui Hu",
+          "Kai Di",
+          "Zhenyu Wang",
+          "Xinran Zhuang",
+          "Yichuan Jiang",
+          "Hang Liu",
+          "Pan Li"
+        ]
+      },
+      {
+        "title": "SLIE: A Secure and Lightweight Cryptosystem for Data Sharing in IoT Healthcare Services.",
+        "authors": [
+          "Ha Xuan Son",
+          "Nguyen Quoc Anh",
+          "Phat T. Tran Truong",
+          "Le Thanh Tuan",
+          "Nghiem Thanh Pham"
+        ]
+      },
+      {
+        "title": "P-MDP: A Framework to Optimize NFPs of Business Processes in Uncertain Environments.",
+        "authors": [
+          "Jun Peng",
+          "Jingwei Zhu",
+          "Liang Zhang",
+          "Hong Linh Truong"
+        ]
+      },
+      {
+        "title": "Business Process Discovery Through Agentic Generative AI.",
+        "authors": [
+          "Pierre Lindenberg",
+          "Indika Kumara",
+          "Joshua Owotogbe",
+          "Willem-Jan van den Heuvel",
+          "Damian Andrew Tamburri"
+        ]
+      },
+      {
+        "title": "Usage Control for Process Discovery Through a Trusted Execution Environment.",
+        "authors": [
+          "Valerio Goretti",
+          "Sabrina Kirrane",
+          "Claudio Di Ciccio"
+        ]
+      },
+      {
+        "title": "GOProQ: A Graphical Query Language for Object-Centric Process Analysis.",
+        "authors": [
+          "Gyunam Park",
+          "Jan Niklas Adams",
+          "Daniel Schuster"
+        ]
+      },
+      {
+        "title": "BPMN4BC: A Simple BPMN Extension for Blockchain-Enabled Business Process Modeling.",
+        "authors": [
+          "Hassan Atwi",
+          "Cesare Pautasso"
+        ]
+      },
+      {
+        "title": "ProcNet: Cross-Modal Process Recommendation via LLMs and GCNs.",
+        "authors": [
+          "Yumeng Jin",
+          "Leilei Lin",
+          "Siyu Li",
+          "Haipeng Wan",
+          "Wangyouqi Geng",
+          "Wenlong Chen"
+        ]
+      },
+      {
+        "title": "Reliable and Configurable Process Simulations via Probabilistic White-Box Models.",
+        "authors": [
+          "Francesco Vinci",
+          "Gyunam Park",
+          "Wil M. P. van der Aalst",
+          "Massimiliano de Leoni"
+        ]
+      },
+      {
+        "title": "MALL: A Mamba-Based Autoencoder Enhanced by an LLM for Multi-Perspective Business Process Anomaly Detection.",
+        "authors": [
+          "Zhihao Pei",
+          "Guiling Li"
+        ]
+      },
+      {
+        "title": "AI-Driven Resource Optimization of Quantum Service Computing.",
+        "authors": [
+          "Javier Romero-Álvarez",
+          "Jaime Alvarado-Valiente",
+          "Antonio Jesus Sanchez-Gil",
+          "Enrique Moguel",
+          "José García-Alonso"
+        ]
+      },
+      {
+        "title": "DeepQUBO: Quantum-Optimized Route Planning for Carpooling Service.",
+        "authors": [
+          "Zifeng Liu",
+          "Yuzhuo Zhao",
+          "Xiaofeng Gao",
+          "Kun Tian"
+        ]
+      },
+      {
+        "title": "IoT and LLM Supported Digital Twin Platform: A Case Study on a Net Zero Oriented Building.",
+        "authors": [
+          "Jiaqi Li",
+          "Xingchen Hu",
+          "Jun Shen"
+        ]
+      },
+      {
+        "title": "Edge-Native Lightweight Model Design and Scheduling for Vehicle Localization Services.",
+        "authors": [
+          "Jiaqi Chen",
+          "Zhicheng Cai"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/icsoc/icsoc2025-1.html": {
+    "header": "23rd ICSOC 2025: Shenzhen, China - Part I",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "From Natural Language to TOSCA: Leveraging LLMs for Automated Service Composition.",
+        "authors": [
+          "Wided Meflah",
+          "Hayet Brabra",
+          "Mehdi Acheli",
+          "Hosni Ben Douma",
+          "Mohamed Sellami",
+          "Walid Gaaloul",
+          "Djamal Zeghlache"
+        ]
+      },
+      {
+        "title": "RESTful API Service Discovery via Comprehensive Feature Mining, Deep Neural Networks, and Contrastive Learning.",
+        "authors": [
+          "Yueshen Xu",
+          "Gairui Bai",
+          "Weihao Xiao",
+          "Xinkui Zhao",
+          "Yuyu Yin",
+          "Rui Li",
+          "Fanhao Zeng"
+        ]
+      },
+      {
+        "title": "GCLP: Generative Contrastive Learning with Adaptive Prompt-Guided Diffusion for Temporal Reasoning over Service Knowledge Graphs.",
+        "authors": [
+          "Yukun Cao",
+          "Lisheng Wang",
+          "Yunfeng Li",
+          "Zhihao Guo",
+          "Xuefeng Xu",
+          "Luobin Huang",
+          "Zirui Xu"
+        ]
+      },
+      {
+        "title": "MCPybarra: A Multi-agent Framework for Low-Cost, High-Quality MCP Service Generation.",
+        "authors": [
+          "Bocheng Peng",
+          "Mingyi Liu",
+          "Yanguang Liu",
+          "Congcong Tian",
+          "Shuang Yu",
+          "Zhongjie Wang"
+        ]
+      },
+      {
+        "title": "DHGL: A Dual-Channel Heuristic Greedy Framework for End-to-End Service Solution Construction Under LLM Guidance.",
+        "authors": [
+          "Ying Sun",
+          "Xiao Wang",
+          "Hanchuan Xu",
+          "Zhongjie Wang"
+        ]
+      },
+      {
+        "title": "Automating Policy-as-Code Generation Pipeline for Data Products: An OpenAPI-Driven Rego Generator.",
+        "authors": [
+          "Matteo Brambilla",
+          "Matteo Falconi",
+          "Valeria Maria Fortina",
+          "Pierluigi Plebani",
+          "Monica Vitali"
+        ]
+      },
+      {
+        "title": "Optimal Subset Oracle-Based Web API Composition Recommendation for Mashup Creation.",
+        "authors": [
+          "Chao Yan",
+          "Qinghe Yan",
+          "Jiahui Dong",
+          "Boyuan Yan",
+          "Lianyong Qi",
+          "Weiyi Zhong"
+        ]
+      },
+      {
+        "title": "TSSGCF: Textual Similarity-Supervised Graph Collaborative Filtering for Web API Recommendation.",
+        "authors": [
+          "Jiayu Li",
+          "Xinci Qiu",
+          "Guosheng Kang",
+          "Yan Li",
+          "Jianxun Liu"
+        ]
+      },
+      {
+        "title": "Dynamic Reputation Measurement of Online Services for Maximizing User Group Satisfaction.",
+        "authors": [
+          "Hedan Zheng",
+          "Xiaodong Fu",
+          "Zhizhong Liu",
+          "Li Liu",
+          "Jiaman Ding",
+          "Lianyin Jia"
+        ]
+      },
+      {
+        "title": "A Multi-view Heterogeneous Hypergraph Augmented Self-gating Contrastive Fusion Framework for Service Recommendation.",
+        "authors": [
+          "Fenfang Xie",
+          "Runjun Zhang",
+          "Caijie Lin",
+          "Liang Chen",
+          "Mingdong Tang"
+        ]
+      },
+      {
+        "title": "ARrec: A GitHub Awesome Repository Recommendation Service Based on Graph Mining.",
+        "authors": [
+          "Jiaqi Zhang",
+          "Yanchun Sun",
+          "Sihan Wang",
+          "Xiaohan Zhao"
+        ]
+      },
+      {
+        "title": "GRACE: A Strategic LLM-Enhanced Graph Reinforcement Learning Framework for Adaptive Fault Recovery in Microservice Systems.",
+        "authors": [
+          "Ruibo Chen",
+          "Yanjun Pu",
+          "Ji Xin",
+          "Junle Wang",
+          "Xingchuang Liao",
+          "Kui Zhang",
+          "Wenjun Wu"
+        ]
+      },
+      {
+        "title": "Adaptive Modality Compensation via Bi-Mamba Dual-Stream Learning for Microservice Failure Diagnosis Under Incomplete Multimodal Data.",
+        "authors": [
+          "Kaiqi Ding",
+          "Yuanmu Ma",
+          "Kaigui Bian"
+        ]
+      },
+      {
+        "title": "Failure Classification for Microservice Systems Based on Variational Graph Auto-Encoders.",
+        "authors": [
+          "Wu Sun",
+          "Panfeng Chen",
+          "Mei Chen",
+          "Hui Li",
+          "Yanhao Wang",
+          "Gang Huang",
+          "Hongyuan Li"
+        ]
+      },
+      {
+        "title": "Using Guided Community Detection to Improve Existing Microservice Designs.",
+        "authors": [
+          "Patric Genfer",
+          "Uwe Zdun"
+        ]
+      },
+      {
+        "title": "A Pattern-Driven and LLM-Assisted Approach for Decomposing Monolithic ML-Based Systems into Microservices.",
+        "authors": [
+          "Hakim Ghlissi",
+          "Mohamed El Hadi Boukhatem",
+          "Manel Abdellatif",
+          "Naouel Moha"
+        ]
+      },
+      {
+        "title": "Service-Level Energy Modeling and Experimentation for Cloud-Native Microservices.",
+        "authors": [
+          "Julian Legler",
+          "Sebastian Werner",
+          "Maria C. Borges",
+          "Stefan Tai"
+        ]
+      },
+      {
+        "title": "MOTSAD: Multi-objective Optimization for Time Series Anomaly Detection in Microservice.",
+        "authors": [
+          "Xitao Tang",
+          "Gou Tan",
+          "Pengfei Chen"
+        ]
+      },
+      {
+        "title": "Predicting Security Weaknesses in Microservice Architectures Using Structural Metrics.",
+        "authors": [
+          "Soundos Benni",
+          "Meriem Hathat",
+          "Jeisson Vergara-Vargas",
+          "Soumia Zellagui",
+          "Chouki Tibermacine",
+          "Salah Sadou"
+        ]
+      },
+      {
+        "title": "Multi-agent-Driven Dual-Layer Serverless Adaptive Ensemble Inference Method.",
+        "authors": [
+          "Yingxin Wang",
+          "Binbin Feng",
+          "Zhijun Ding"
+        ]
+      },
+      {
+        "title": "Quantifying Serverless Elasticity: The gumeter Benchmark Suite.",
+        "authors": [
+          "Germán T. Eizaguirre",
+          "Enrique Molina-Giménez",
+          "Gerard Finol",
+          "Carlos Molina",
+          "Pedro García López"
+        ]
+      },
+      {
+        "title": "HybridFP: Divide-and-Conquer Serverless Function Provision for Mitigating Cold Starts.",
+        "authors": [
+          "Yifan Xie",
+          "Shuaiyu Xie",
+          "Jian Wang",
+          "Bing Li"
+        ]
+      },
+      {
+        "title": "Service-Oriented AI Model Compression for Computing Continuum Environments.",
+        "authors": [
+          "Adriano Puglisi",
+          "Flavia Monti",
+          "Christian Napoli",
+          "Massimo Mecella"
+        ]
+      },
+      {
+        "title": "Optimizing Containerized Edge Service Migration Through File-Level Storage Sharing.",
+        "authors": [
+          "Jiangwei Li",
+          "Zhangbing Zhou",
+          "Sami Yangui",
+          "Deng Zhao",
+          "Ruixi Pan",
+          "Walid Gaaloul"
+        ]
+      },
+      {
+        "title": "Anticipatory Service Migration in Mobile Edge Computing via Spatio-Behavioral Prediction.",
+        "authors": [
+          "Mengxuan Dai",
+          "Yuyin Ma",
+          "Yunni Xia",
+          "Yumin Dong",
+          "Yong Ma",
+          "Yujia Song"
+        ]
+      },
+      {
+        "title": "Ahead-of-Time Scheduling for Workflow Applications in Edge Computing.",
+        "authors": [
+          "Cheng Qian",
+          "Haoyu Luo",
+          "Gansen Zhao"
+        ]
+      },
+      {
+        "title": "OctoCross: Workload-Aware Request Offloading Scheduling in Cross-Camera Collaboration.",
+        "authors": [
+          "Jinghan Cheng",
+          "Thanh-Tung Nguyen",
+          "Lucas Liebe",
+          "Yuheng Wu",
+          "Nhat-Quang Tau",
+          "Pablo Espinosa",
+          "Dongman Lee"
+        ]
+      },
+      {
+        "title": "D3FU: Data-Free Distillation Driven Federated Unlearning for Service-Oriented Computing.",
+        "authors": [
+          "Xiuyi Zhang",
+          "Xuejun Li",
+          "Aiting Yao",
+          "Jia Xu",
+          "Chengzu Dong",
+          "Frank Jiang",
+          "Xiao Liu",
+          "Yun Yang"
+        ]
+      },
+      {
+        "title": "Preference-Aware Crowdsourcing of IoT Energy Services.",
+        "authors": [
+          "Abdallah Lakhdari",
+          "Amani Abusafia",
+          "Shing Tai Tony Lui",
+          "Athman Bouguettaya"
+        ]
+      },
+      {
+        "title": "LEADR: A Lyapunov-Based Energy-Aware Decentralized Routing Strategy for Continuous UAV Communication Services.",
+        "authors": [
+          "Yifan Li",
+          "Xiang He",
+          "Haomai Shi",
+          "Zhongjie Wang"
+        ]
+      },
+      {
+        "title": "A Non-Intrusive Framework for Deferred Integration of Cloud Patterns in Energy-Efficient Data-Sharing Pipelines.",
+        "authors": [
+          "Sepideh Masoudi",
+          "Mark Edward Michael Daly",
+          "Jannis Kiesel",
+          "Stefan Tai"
+        ]
+      },
+      {
+        "title": "SCSTL: Spatial Composite Signal Temporal Logic for IoT Service Monitoring.",
+        "authors": [
+          "Ruixi Pan",
+          "Zhangbing Zhou",
+          "Deng Zhao",
+          "Sami Yangui",
+          "Jiangwei Li"
+        ]
+      },
+      {
+        "title": "SDAD: A Service Deployment Method Based on Association Rule and Reinforcement Learning for Edge Computing.",
+        "authors": [
+          "Hanzhi Xu",
+          "Yanjun Shu",
+          "Wei Emma Zhang",
+          "Zhuangyu Ma",
+          "Zhan Zhang",
+          "Decheng Zuo"
+        ]
+      },
+      {
+        "title": "EdgeInfer-TP: A Collaborative Tensor Parallelism Inference System for Heterogeneous Edge Devices.",
+        "authors": [
+          "Yutao Zhang",
+          "Wentao Zhong",
+          "Xuerui Liu",
+          "Fengyi Huang",
+          "Wenhua Wang",
+          "Tian Wang",
+          "Weijia Jia"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/icsoc/icsoc2024w2.html": {
     "header": "22nd ICSOC 2024: Tunis, Tunisia - Workshops, Part II",
     "year": "2024",

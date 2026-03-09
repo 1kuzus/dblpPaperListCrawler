@@ -1,4 +1,412 @@
 {
+  "https://dblp.org/db/conf/fc/fc2025-2.html": {
+    "header": "Financial Cryptography and Data Security 2025: Miyakojima, Japan - Part I",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Piercing the Veil of TVL: DeFi Reappraised.",
+        "authors": [
+          "Yichen Luo",
+          "Yebo Feng",
+          "Jiahua Xu",
+          "Paolo Tasca"
+        ]
+      },
+      {
+        "title": "Transaction Fee Mechanism Design for Leaderless Blockchain Protocols.",
+        "authors": [
+          "Pranav Garimidi",
+          "Lioba Heimbach",
+          "Tim Roughgarden"
+        ]
+      },
+      {
+        "title": "Seahorse: Efficiently Mixing Encrypted and Normal Transactions.",
+        "authors": [
+          "Ben Riva",
+          "Alberto Sonnino",
+          "Lefteris Kokoris-Kogias"
+        ]
+      },
+      {
+        "title": "The Early Days of the Ethereum Blob Fee Market and Lessons Learnt.",
+        "authors": [
+          "Lioba Heimbach",
+          "Jason Milionis"
+        ]
+      },
+      {
+        "title": "Quantifying the Value of Revert Protection.",
+        "authors": [
+          "Brian Z. Zhu",
+          "Xin Wan",
+          "Ciamac C. Moallemi",
+          "Dan Robinson",
+          "Brad Bachu"
+        ]
+      },
+      {
+        "title": "Frosty: Bringing Strong Liveness Guarantees to the Snow Family of Consensus Protocols.",
+        "authors": [
+          "Aaron Buchwald",
+          "Stephen Buttolph",
+          "Andrew Lewis-Pye",
+          "Patrick O'Grady",
+          "Kevin Sekniqi"
+        ]
+      },
+      {
+        "title": "Consensus Under Adversary Majority Done Right.",
+        "authors": [
+          "Srivatsan Sridhar",
+          "Ertem Nusret Tas",
+          "Joachim Neu",
+          "Dionysis Zindros",
+          "David Tse"
+        ]
+      },
+      {
+        "title": "On the (in)security of Proofs-of-Space Based Longest-Chain Blockchains.",
+        "authors": [
+          "Mirza Ahad Baig",
+          "Krzysztof Pietrzak"
+        ]
+      },
+      {
+        "title": "Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems.",
+        "authors": [
+          "Giuliano Losa",
+          "Yifan Mao",
+          "Shaileshh Bojja Venkatakrishnan",
+          "Yunqi Zhang"
+        ]
+      },
+      {
+        "title": "Short Paper: A New Way to Achieve Round-Efficient Asynchronous Byzantine Agreement.",
+        "authors": [
+          "Simon Holmgaard Kamp"
+        ]
+      },
+      {
+        "title": "Blink: An Optimal Proof of Proof-of-Work.",
+        "authors": [
+          "Lukas Aumayr",
+          "Zeta Avarikioti",
+          "Matteo Maffei",
+          "Giulia Scaffino",
+          "Dionysis Zindros"
+        ]
+      },
+      {
+        "title": "Reward Schemes and Committee Sizes in Proof of Stake Governance.",
+        "authors": [
+          "Georgios Birmpas",
+          "Philip Lazos",
+          "Evangelos Markakis",
+          "Paolo Penna"
+        ]
+      },
+      {
+        "title": "Mining Power Destruction Attacks in the Presence of Petty-Compliant Mining Pools.",
+        "authors": [
+          "Roozbeh Sarenche",
+          "Svetla Nikova",
+          "Bart Preneel"
+        ]
+      },
+      {
+        "title": "A Theoretical Basis for MEV.",
+        "authors": [
+          "Massimo Bartoletti",
+          "Roberto Zunino"
+        ]
+      },
+      {
+        "title": "Short Paper: Rewardable Naysayer Proofs.",
+        "authors": [
+          "Gennaro Avitabile",
+          "Luisa Siniscalchi",
+          "Ivan Visconti"
+        ]
+      },
+      {
+        "title": "Verification-Efficient Homomorphic Signatures for Verifiable Computation over Data Streams.",
+        "authors": [
+          "Gaspard Anthoine",
+          "Daniele Cozzo",
+          "Dario Fiore"
+        ]
+      },
+      {
+        "title": "Rational Secret Sharing with Competition.",
+        "authors": [
+          "Tiantian Gong",
+          "Zeyu Liu"
+        ]
+      },
+      {
+        "title": "The Latency Price of Threshold Cryptosystem in Blockchains.",
+        "authors": [
+          "Zhuolun Xiang",
+          "Sourav Das",
+          "Zekun Li",
+          "Zhoujun Ma",
+          "Alexander Spiegelman"
+        ]
+      },
+      {
+        "title": "On Non-Interactive Blind Signatures in the Plain Model Using Complexity Leveraging.",
+        "authors": [
+          "Kazuki Yamamura",
+          "Tetsuya Okuda",
+          "Eiichiro Fujisaki"
+        ]
+      },
+      {
+        "title": "Do Compilers Break Constant-Time Guarantees?",
+        "authors": [
+          "Lukas Gerlach",
+          "Robert Pietsch",
+          "Michael Schwarz"
+        ]
+      },
+      {
+        "title": "PrivGNN: High-Performance Secure Inference for Cryptographic Graph Neural Networks.",
+        "authors": [
+          "Fuyi Wang",
+          "Zekai Chen",
+          "Mingyuan Fan",
+          "Jianying Zhou",
+          "Lei Pan",
+          "Leo Yu Zhang"
+        ]
+      },
+      {
+        "title": "Linking Cryptoasset Attribution Tags to Knowledge Graph Entities: An LLM-Based Approach.",
+        "authors": [
+          "Régnier Avice",
+          "Bernhard Haslhofer",
+          "Zhidong Li",
+          "Jianlong Zhou"
+        ]
+      },
+      {
+        "title": "CCBNet : Confidential Collaborative Bayesian Networks Inference.",
+        "authors": [
+          "Abele Malan",
+          "Thiago S. Guzella",
+          "Jérémie Decouchant",
+          "Lydia Y. Chen"
+        ]
+      }
+    ]
+  },
+  "https://dblp.org/db/conf/fc/fc2025-1.html": {
+    "header": "Financial Cryptography and Data Security 2025: Miyakojima, Japan - Part I",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "A Formally Verified Lightning Network.",
+        "authors": [
+          "Grzegorz Fabianski",
+          "Rafal Stefanski",
+          "Orfeas Stefanos Thyfronitis Litos"
+        ]
+      },
+      {
+        "title": "Strengthening Multi-hop Channels via Strategic Mesh Connections.",
+        "authors": [
+          "Shuyang Tang",
+          "Sherman S. M. Chow"
+        ]
+      },
+      {
+        "title": "IvyAPC: Auditable Generalized Payment Channels.",
+        "authors": [
+          "Ming Li",
+          "Yuxian Li",
+          "Jian Weng",
+          "Yingjiu Li",
+          "Jia-Si Weng",
+          "Junzuo Lai",
+          "Robert H. Deng"
+        ]
+      },
+      {
+        "title": "A Framework for Combined Transaction Posting and Pricing for Layer 2 Blockchains.",
+        "authors": [
+          "Shouqiao Wang",
+          "Davide Crapis",
+          "Ciamac C. Moallemi"
+        ]
+      },
+      {
+        "title": "X-Transfer: Enabling and Optimizing Cross-PCN Transactions.",
+        "authors": [
+          "Lukas Aumayr",
+          "Zeta Avarikioti",
+          "Iosif Salem",
+          "Stefan Schmid",
+          "Michelle Yeo"
+        ]
+      },
+      {
+        "title": "am-AMM: An Auction-Managed Automated Market Maker.",
+        "authors": [
+          "Austin Adams",
+          "Ciamac C. Moallemi",
+          "Sara Reynolds",
+          "Dan Robinson"
+        ]
+      },
+      {
+        "title": "The Case of FBA as a DEX Processing Model.",
+        "authors": [
+          "Tiantian Gong",
+          "Zeyu Liu",
+          "Aniket Kate"
+        ]
+      },
+      {
+        "title": "Securely Computing One-Sided Matching Markets.",
+        "authors": [
+          "James Hsin-yu Chiang",
+          "Ivan Damgård",
+          "Claudio Orlandi",
+          "Mahak Pancholi",
+          "Mark Simkin"
+        ]
+      },
+      {
+        "title": "Robust Double Auctions for Resource Allocation.",
+        "authors": [
+          "Arthur Lazzaretti",
+          "Charalampos Papamanthou",
+          "Ismael Hishon-Rezaizadeh"
+        ]
+      },
+      {
+        "title": "Verifying Jolt zkVM Lookup Semantics.",
+        "authors": [
+          "Carl Kwan",
+          "Quang Dao",
+          "Justin Thaler"
+        ]
+      },
+      {
+        "title": "$Proo\\upvarphi $: A ZKP Market Mechanism.",
+        "authors": [
+          "Wenhao Wang",
+          "Lulu Zhou",
+          "Aviv Yaish",
+          "Fan Zhang",
+          "Ben Fisch",
+          "Benjamin Livshits"
+        ]
+      },
+      {
+        "title": "SoK: Trusted Setups for Powers-of-Tau Strings.",
+        "authors": [
+          "Faxing Wang",
+          "Shaanan Cohney",
+          "Joseph Bonneau"
+        ]
+      },
+      {
+        "title": "Short Paper: Curve Forests - Transparent Zero-Knowledge Set Membership with Batching and Strong Security.",
+        "authors": [
+          "Matteo Campanelli",
+          "Mathias Hall-Andersen",
+          "Simon Holmgaard Kamp"
+        ]
+      },
+      {
+        "title": "A Composability Treatment of Bitcoin's Transaction Ledger with Variable Difficulty.",
+        "authors": [
+          "Juan Garay",
+          "Yun Lu",
+          "Julien Prat",
+          "Brady Testa",
+          "Vassilis Zikas"
+        ]
+      },
+      {
+        "title": "Rapidash: Atomic Swaps Secure Under User-Miner Collusion.",
+        "authors": [
+          "Hao Chung",
+          "Elisaweta Masserova",
+          "Elaine Shi",
+          "Sri Aravinda Krishnan Thyagarajan"
+        ]
+      },
+      {
+        "title": "Serial Monopoly on Blockchains with Quasi-patient Users.",
+        "authors": [
+          "Paolo Penna",
+          "Manvir Schneider"
+        ]
+      },
+      {
+        "title": "Pilotfish: Distributed Execution for Scalable Blockchains.",
+        "authors": [
+          "Quentin Kniep",
+          "Lefteris Kokoris-Kogias",
+          "Alberto Sonnino",
+          "Igor Zablotchi",
+          "Nuda Zhang"
+        ]
+      },
+      {
+        "title": "Anthemius: Efficient and Modular Block Assembly for Concurrent Execution.",
+        "authors": [
+          "Ray Neiheiser",
+          "Eleftherios Kokoris-Kogias"
+        ]
+      },
+      {
+        "title": "Communication and Round Efficient Parallel Broadcast Protocols.",
+        "authors": [
+          "Nibesh Shrestha",
+          "Ittai Abraham",
+          "Kartik Nayak"
+        ]
+      },
+      {
+        "title": "Towards Optimal Parallel Broadcast Under a Dishonest Majority.",
+        "authors": [
+          "Daniel Collins",
+          "Sisi Duan",
+          "Julian Loss",
+          "Charalampos Papamanthou",
+          "Giorgos Tsimos",
+          "Haochen Wang"
+        ]
+      },
+      {
+        "title": "Overlapped Bootstrapping for FHEW/TFHE and Its Application to SHA3.",
+        "authors": [
+          "Deokhwa Hong",
+          "Youngjin Choi",
+          "Yongwoo Lee",
+          "Young-Sik Kim"
+        ]
+      },
+      {
+        "title": "Lixom: Protecting Encryption Keys with Execute-Only Memory.",
+        "authors": [
+          "Tristan Hornetz",
+          "Lukas Gerlach",
+          "Michael Schwarz"
+        ]
+      },
+      {
+        "title": "Leveraging Homomorphic Encryption for Maximal Extractable Value (MEV) Mitigation: Blind Arbitrage on Decentralised Exchanges.",
+        "authors": [
+          "Jonathan Passerat-Palmbach"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/fc/fc2024w.html": {
     "header": "27th Financial Cryptography 2024: Willemstad, Curaçao - Workshops",
     "year": "2024",

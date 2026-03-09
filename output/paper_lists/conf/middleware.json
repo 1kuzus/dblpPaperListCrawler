@@ -1,4 +1,337 @@
 {
+  "https://dblp.org/db/conf/middleware/middleware2025.html": {
+    "header": "25th Middleware 2025:\nNashville, TN, USA",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "Recipe: Hardware-Accelerated Replication Protocols: Rethinking Crash Fault Tolerance Protocols for Untrusted Cloud Environments.",
+        "authors": [
+          "Dimitra Giantsidi",
+          "Emmanouil Giortamis",
+          "Julian Pritzi",
+          "Maurice Bailleu",
+          "Manos Kapritsos",
+          "Pramod Bhatotia"
+        ]
+      },
+      {
+        "title": "IM-PIR: In-Memory Private Information Retrieval.",
+        "authors": [
+          "Mpoki Mwaisela",
+          "Peterson Yuhala",
+          "Pascal Felber",
+          "Valerio Schiavoni"
+        ]
+      },
+      {
+        "title": "Capybara: an Edge-Friendly Distributed Object Store for Diverse Serverless Functions.",
+        "authors": [
+          "Xin Chen",
+          "Manoj Prabhakar Paidiparthy",
+          "Chen Qian",
+          "Liting Hu"
+        ]
+      },
+      {
+        "title": "Argus: Quality-Aware High-Throughput Text-to-Image Inference Serving System.",
+        "authors": [
+          "Shubham Agarwal",
+          "Subrata Mitra",
+          "Saud Iqbal"
+        ]
+      },
+      {
+        "title": "ER-π: Exhaustive Interleaving Replay for Testing Replicated Data Library Integration.",
+        "authors": [
+          "Provakar Mondal",
+          "Eli Tilevich"
+        ]
+      },
+      {
+        "title": "Byzantine-Resilient Federated Computation of Differentially Private Summary Statistics.",
+        "authors": [
+          "Giulio Segalini",
+          "Maria Fernandes",
+          "Jérémie Decouchant"
+        ]
+      },
+      {
+        "title": "MTAT: Adaptive Fast Memory Management for Co-located Latency-Critical Workloads in Tiered Memory System.",
+        "authors": [
+          "Minho Kim",
+          "Seonggyu Han",
+          "Gyeongseo Park",
+          "Daehoon Kim"
+        ]
+      },
+      {
+        "title": "Efficient Performance Guarantees for Function-as-a-Service with Cloud Allocators.",
+        "authors": [
+          "Hai Duc Nguyen",
+          "Andrew A. Chien"
+        ]
+      },
+      {
+        "title": "EdgeConnector: Enabling Seamless and Efficient Cross-Cluster Device Access in Edge Environment.",
+        "authors": [
+          "Yunna Cui",
+          "Liwei Shen",
+          "Bingkun Sun",
+          "Wente Lu",
+          "Haojie Zhang",
+          "Xin Peng"
+        ]
+      },
+      {
+        "title": "FreeRide: Harvesting Bubbles in Pipeline Parallelism.",
+        "authors": [
+          "Jiashu Zhang",
+          "Zihan Pan",
+          "Molly Yiming Xu",
+          "Khuzaima Daudjee",
+          "Sihang Liu"
+        ]
+      },
+      {
+        "title": "PAMO: Pattern Matching Offload for Intrusion Detection Systems.",
+        "authors": [
+          "Lukas Sismis",
+          "Colin Evrard",
+          "Etienne Rivière",
+          "Tom Barbette"
+        ]
+      },
+      {
+        "title": "FaaSImage: An Efficient Image Manager for FaaS.",
+        "authors": [
+          "Abhisek Panda",
+          "Smruti R. Sarangi"
+        ]
+      },
+      {
+        "title": "PANDAS: Peer-to-peer, Adaptive Networking Allowing Data Availability Sampling within Ethereum Consensus Timebounds.",
+        "authors": [
+          "Matthieu Pigaglio",
+          "Onur Ascigil",
+          "Michal Król",
+          "Felix Lange",
+          "Kaleem Peeroo",
+          "Sergi Rene",
+          "Ramin Sadre",
+          "Vladimir Stankovic",
+          "Etienne Rivière"
+        ]
+      },
+      {
+        "title": "Exposing the Vulnerability of Decentralized Learning to Membership Inference Attacks Through the Lens of Graph Mixing.",
+        "authors": [
+          "Ousmane Touat",
+          "Jezekael Brunon",
+          "Yacine Belal",
+          "Julien Nicolas",
+          "César Sabater",
+          "Mohamed Maouche",
+          "Sonia Ben Mokhtar"
+        ]
+      },
+      {
+        "title": "svc-hook: hooking system calls on ARM64 by binary rewriting.",
+        "authors": [
+          "Akira Moroo",
+          "Hajime Tazaki",
+          "Kenichi Yasukata"
+        ]
+      },
+      {
+        "title": "Stabl: The Sensitivity of Blockchains to Failures.",
+        "authors": [
+          "Vincent Gramoli",
+          "Rachid Guerraoui",
+          "Andrei Lebedev",
+          "Gauthier Voron"
+        ]
+      },
+      {
+        "title": "Adjusted Objects: An Efficient and Principled Approach to Scalable Programming.",
+        "authors": [
+          "Boubacar Kane",
+          "Pierre Sutra"
+        ]
+      },
+      {
+        "title": "MiAR-BFT: Efficient Leaderless Consensus Based on Multi-instance Asynchronous Running for Blockchain.",
+        "authors": [
+          "Zhenyu Zhang",
+          "Xing Tong",
+          "Zhao Zhang",
+          "Cheqing Jin"
+        ]
+      },
+      {
+        "title": "Clair Obscur: The Light and Shadow of System Call Interposition - From Pitfalls to Solutions with K23.",
+        "authors": [
+          "Jesús María Gómez Moreno",
+          "Vissarion Moutafis",
+          "Antreas Dionysiou",
+          "Fernando Kuipers",
+          "Georgios Smaragdakis",
+          "Bart Coppens",
+          "Alexios Voulimeneas"
+        ]
+      },
+      {
+        "title": "xMem: A CPU-Based Approach for Accurate Estimation of GPU Memory in Deep Learning Training Workloads.",
+        "authors": [
+          "Jiabo Shi",
+          "Dimitrios Pezaros",
+          "Yehia Elkhatib"
+        ]
+      },
+      {
+        "title": "HARP: Energy-Aware and Adaptive Management of Heterogeneous Processors.",
+        "authors": [
+          "Till Smejkal",
+          "Robert Khasanov",
+          "Jerónimo Castrillon",
+          "Hermann Härtig"
+        ]
+      },
+      {
+        "title": "UnifyFL: Enabling Decentralized Cross-Silo Federated Learning.",
+        "authors": [
+          "Sarang S",
+          "Druva Dhakshinamoorthy",
+          "Aditya Shiva Sharma",
+          "Yuvraj Singh Bhadauria",
+          "Siddharth Chaitra Vivek",
+          "Arihant Bansal",
+          "Arnab K. Paul"
+        ]
+      },
+      {
+        "title": "MVTEE: Multi-Variant Trusted Execution for Secure Model Inference.",
+        "authors": [
+          "Kailun Qin",
+          "Dawu Gu"
+        ]
+      },
+      {
+        "title": "WasmEye: Language- and Platform-independent Anomaly Detection for WebAssembly.",
+        "authors": [
+          "Arne Vogel",
+          "Timothee Glörfeld",
+          "Alexander Szekely-Schenker",
+          "Thomas Trenner",
+          "Rene Ermler",
+          "Rüdiger Kapitza"
+        ]
+      },
+      {
+        "title": "Always-On, Always-Mine: Federated Recommendation Systems on Personal Home Routers.",
+        "authors": [
+          "Zhengquan Li",
+          "Myungjin Lee",
+          "Zheng Song"
+        ]
+      },
+      {
+        "title": "Leveraging Approximate Caching for Faster Retrieval-Augmented Generation.",
+        "authors": [
+          "Shai Bergman",
+          "Anne-Marie Kermarrec",
+          "Diana Petrescu",
+          "Rafael Pires",
+          "Mathis Randl",
+          "Martijn de Vos",
+          "Ji Zhang"
+        ]
+      },
+      {
+        "title": "Roadrunner: Accelerating Data Delivery to WebAssembly-Based Serverless Functions.",
+        "authors": [
+          "Cynthia Marcelino",
+          "Thomas W. Pusztai",
+          "Stefan Nastic"
+        ]
+      },
+      {
+        "title": "Full Trust Alchemist: Reforging Attestation for Cloud-based Confidential Workloads.",
+        "authors": [
+          "Anna Galanou",
+          "Florian Lubitz",
+          "Hajeong Jeon",
+          "Christof Fetzer",
+          "Rüdiger Kapitza"
+        ]
+      },
+      {
+        "title": "FlexClone: Efficient, Flexible and Pluggable File Cloning Support for Filesystems.",
+        "authors": [
+          "Rohit Singh",
+          "Debadatta Mishra"
+        ]
+      },
+      {
+        "title": "Mocha: Scalable and Compliant Function Scheduling for Federated Serverless Computing.",
+        "authors": [
+          "Yuqiu Zhang",
+          "Hans-Arno Jacobsen"
+        ]
+      },
+      {
+        "title": "XChainWatcher: Identifying Anomalies in Cross-Chain Bridges.",
+        "authors": [
+          "André Augusto",
+          "Rafael Belchior",
+          "Jonas Pfannschmidt",
+          "André Vasconcelos",
+          "Miguel Correia"
+        ]
+      },
+      {
+        "title": "Message Size Matters: AlterBFT's Approach to Practical Synchronous BFT in Public Clouds.",
+        "authors": [
+          "Nenad Milosevic",
+          "Daniel Cason",
+          "Zarko Milosevic",
+          "Robert Soulé",
+          "Fernando Pedone"
+        ]
+      },
+      {
+        "title": "Tiaccoon: Unified Access Control with Multiple Transports in Container Networks.",
+        "authors": [
+          "Hiroya Onoe",
+          "Daisuke Kotani",
+          "Yasuo Okabe"
+        ]
+      },
+      {
+        "title": "Shift Happens: Mixture of Experts based Continual Adaptation in Federated Learning.",
+        "authors": [
+          "Rahul Atul Bhope",
+          "K. R. Jayaram",
+          "Praveen Venkateswaran",
+          "Nalini Venkatasubramanian"
+        ]
+      },
+      {
+        "title": "A Hybrid Runtime for Function-as-a-Service at the Edge.",
+        "authors": [
+          "Adam Hall",
+          "Umakishore Ramachandran"
+        ]
+      },
+      {
+        "title": "CliqueSensus: Ephemeral Overlays for Efficient Attestation Dissemination in Ethereum 2.0.",
+        "authors": [
+          "Alexandros Antonov",
+          "Evangelos Kolyvas",
+          "Spyros Voulgaris"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/middleware/middleware2024p.html": {
     "header": "Middleware Demos/Posters/Doctoral Symposium 2024:\nHong Kong, SAR, China",
     "year": "2024",

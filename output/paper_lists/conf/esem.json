@@ -1,4 +1,508 @@
 {
+  "https://dblp.org/db/conf/esem/esem2025.html": {
+    "header": "ESEM 2025: Honolulu, HI, USA",
+    "year": "2025",
+    "papers": [
+      {
+        "title": "The Shifting Sands of Toxicity: The Evolving Nature of Interpersonal Challenges in Open Source.",
+        "authors": [
+          "Sarthak Bharadwaj",
+          "Fabio Santos",
+          "Bianca Trinkenreich"
+        ]
+      },
+      {
+        "title": "Mapping Code Smells and Refactorings Accurately: Insights from an Empirical Study.",
+        "authors": [
+          "Gautam Shetty",
+          "Tushar Sharma"
+        ]
+      },
+      {
+        "title": "SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews.",
+        "authors": [
+          "Aleksi Huotala",
+          "Miikka Kuutila",
+          "Mika Mäntylä"
+        ]
+      },
+      {
+        "title": "Assessing Diversity in Creating Seed Set for Snowballing Search for Systematic Literature Review in Software Engineering.",
+        "authors": [
+          "Kátia Romero Felizardo",
+          "Francisco Carlos M. Souza",
+          "Alinne Cristinne Corrêa Souza",
+          "Bianca Minetto Napoleão",
+          "Igor Steinmacher",
+          "Marco Aurélio Gerosa"
+        ]
+      },
+      {
+        "title": "Interrogative Comments Posed by Review Comment Generators: An Empirical Study of Gerrit.",
+        "authors": [
+          "Farshad Kazemi",
+          "Maxime Lamothe",
+          "Shane McIntosh"
+        ]
+      },
+      {
+        "title": "How do Community Smells Influence Self-Admitted Technical Debt in Machine Learning Projects?",
+        "authors": [
+          "Shamse Tasnim Cynthia",
+          "Nuri Almarimi",
+          "Banani Roy"
+        ]
+      },
+      {
+        "title": "Where Tests Fall Short: Empirically Analyzing Oracle Gaps in Covered Code.",
+        "authors": [
+          "Megan Maton",
+          "Gregory M. Kapfhammer",
+          "Phil McMinn"
+        ]
+      },
+      {
+        "title": "Beyond Binary Moderation: Identifying Fine-Grained Sexist and Misogynistic Behavior on GitHub with Large Language Models.",
+        "authors": [
+          "Tanni Dev",
+          "Sayma Sultana",
+          "Amiangshu Bosu"
+        ]
+      },
+      {
+        "title": "Is Diversity a Meaningful Metric in Fairness Testing?",
+        "authors": [
+          "Kazuki Funamoto",
+          "Takashi Kitamura",
+          "Shingo Takada"
+        ]
+      },
+      {
+        "title": "Beyond the Job Posting: What Hiring Managers Seek in Entry-Level Software Engineering Candidates.",
+        "authors": [
+          "Spencer Baloga Loufek",
+          "Fabio Santos",
+          "Bianca Trinkenreich"
+        ]
+      },
+      {
+        "title": "Understanding Everything as Code: A Taxonomy and Conceptual Model.",
+        "authors": [
+          "Haoran Wei",
+          "Nazim H. Madhavji",
+          "John Steinbacher"
+        ]
+      },
+      {
+        "title": "A Defect Taxonomy for Infrastructure as Code: A Replication Study.",
+        "authors": [
+          "Wendell Oliveira",
+          "Filipe Paiva",
+          "Thiago Emmanuel Pereira",
+          "João Brunet"
+        ]
+      },
+      {
+        "title": "Aggregating Empirical Evidence from Data Strategies Studies: A Case on Model Quantization.",
+        "authors": [
+          "Santiago del Rey",
+          "Paulo Sérgio Medeiros dos Santos",
+          "Guilherme Horta Travassos",
+          "Xavier Franch",
+          "Silverio Martínez-Fernández"
+        ]
+      },
+      {
+        "title": "Another Systematic Review? A Critical Analysis of Systematic Literature Reviews on Agile Effort and Cost Estimation.",
+        "authors": [
+          "Henry Edison",
+          "Nauman Bin Ali"
+        ]
+      },
+      {
+        "title": "Can User Feedback Help Issue Detection? An Empirical Study on a One-Billion-User Online Service System.",
+        "authors": [
+          "Shuyao Jiang",
+          "Jiazhen Gu",
+          "Wujie Zheng",
+          "Yangfan Zhou",
+          "Michael R. Lyu"
+        ]
+      },
+      {
+        "title": "Developer Prompts in Practice: An Empirical Study of Bias, Security, and Optimization.",
+        "authors": [
+          "Dhia Elhaq Rzig",
+          "Dhruba Jyothi Paul",
+          "Kaiser Pister",
+          "Jordan Henkel",
+          "Foyzul Hassan"
+        ]
+      },
+      {
+        "title": "Exploring Engagement in Hybrid Meetings.",
+        "authors": [
+          "Daniela Grassi",
+          "Fabio Calefato",
+          "Darja Smite",
+          "Nicole Novielli",
+          "Filippo Lanubile"
+        ]
+      },
+      {
+        "title": "Exploring the Jupyter Ecosystem: An Empirical Study of Bugs and Vulnerabilities.",
+        "authors": [
+          "Wenyuan Jiang",
+          "Diany Pressato",
+          "Harsh Darji",
+          "Thibaud Lutellier"
+        ]
+      },
+      {
+        "title": "Go-Oracle: Automated Test Oracle for Go Concurrency Bugs.",
+        "authors": [
+          "Foivos Tsimpourlas",
+          "Chao Peng",
+          "Carlos Rosuero",
+          "Ping Yang",
+          "Ajitha Rajan"
+        ]
+      },
+      {
+        "title": "Is LLM-Generated Code More Maintainable & Reliable Than Human-Written Code?",
+        "authors": [
+          "Alfred Santa Molison",
+          "Marcia Moraes",
+          "Glaucia Melo",
+          "Fabio Santos",
+          "Wesley K. G. Assunção"
+        ]
+      },
+      {
+        "title": "One Size Does Not Fit All: How to Organize Hybrid Work in Agile Software Development?",
+        "authors": [
+          "Fateme Broomandi",
+          "Emily Laue Christensen",
+          "Maria Paasivaara"
+        ]
+      },
+      {
+        "title": "On the Harmfulness of Test Smells in Manual System Testing: A Controlled Experiment.",
+        "authors": [
+          "Gabriela Soares",
+          "Vanessa Santos",
+          "Márcio Ribeiro",
+          "Luana Almeida Martins",
+          "Valeria Pontillo",
+          "Manoel Aranda III",
+          "Rohit Gheyi",
+          "Ivan Machado",
+          "Fabio Palomba"
+        ]
+      },
+      {
+        "title": "Perspectives, Needs and Challenges for Sustainable Software Engineering Teams: A FinServ Case Study.",
+        "authors": [
+          "Satwik Ghanta",
+          "Peggy Gregory",
+          "Gül Çalikli"
+        ]
+      },
+      {
+        "title": "Secret Breach Detection in Source Code with Large Language Models.",
+        "authors": [
+          "Md Nafiu Rahman",
+          "Sadif Ahmed",
+          "Zahin Wahab",
+          "S. M. Sohan",
+          "Rifat Shahriyar"
+        ]
+      },
+      {
+        "title": "SIExVulTS: Sensitive Information Exposure Vulnerability Detection System Using Transformer Models and Static Analysis.",
+        "authors": [
+          "Kyler Katz",
+          "Sara Moshtari",
+          "Ibrahim Mujhid",
+          "Mehdi Mirakhorli",
+          "Derek Garcia"
+        ]
+      },
+      {
+        "title": "Using Voting and Stacking Ensemble Techniques to Optimize Software Requirements Classification.",
+        "authors": [
+          "María Isabel Limaylla Lunarejo",
+          "Nelly Condori-Fernández",
+          "Miguel R. Luaces"
+        ]
+      },
+      {
+        "title": "We Know What You're Looking For: Recommendation for Large-Scale Open Source Software.",
+        "authors": [
+          "Xing Cui",
+          "Jingzheng Wu",
+          "Xiang Ling",
+          "Tianyue Luo"
+        ]
+      },
+      {
+        "title": "What About Our Bug? A Study on the Responsiveness of NPM Package Maintainers.",
+        "authors": [
+          "Mohammadreza Saeidi",
+          "Ethan Thoma",
+          "Raula Gaikovina Kula",
+          "Gema Rodríguez-Pérez"
+        ]
+      },
+      {
+        "title": "When Domains Collide: An Activity Theory Exploration of Cross-Disciplinary Collaboration.",
+        "authors": [
+          "Zixuan Feng",
+          "Thomas Zimmermann",
+          "Lorenzo Pisani",
+          "Christopher Gooley",
+          "Jeremiah Wander",
+          "Anita Sarma"
+        ]
+      },
+      {
+        "title": "A Fully Automated Agent for End-to-End Code Translation and Validation.",
+        "authors": [
+          "Eray Erer",
+          "Aysun Bozanta",
+          "Turgay Aytac",
+          "Ayse Basar"
+        ]
+      },
+      {
+        "title": "An Empirical Investigation into Maintenance of Load Testing Scripts.",
+        "authors": [
+          "Ibuki Nakamura",
+          "Kosei Horikawa",
+          "Brittany Reid",
+          "Yutaro Kashiwa",
+          "Hajimu Iida"
+        ]
+      },
+      {
+        "title": "A Preliminary Assessment of SLR's Reliance on Preprints, in the Area of LLMs4SE.",
+        "authors": [
+          "Sarah Buckley",
+          "Abdul Razzaq",
+          "Michael English"
+        ]
+      },
+      {
+        "title": "A Vision for Debiasing Confirmation Bias in Software Testing via LLM.",
+        "authors": [
+          "Iflaah Salman",
+          "Muhammad Waseem",
+          "Vladimir Mandic",
+          "Rasanjana Dhanushkha De Alwis"
+        ]
+      },
+      {
+        "title": "Cognitive Biases in Software Engineering: Debiasing Through Reconception.",
+        "authors": [
+          "Heidi Hietala",
+          "Burak Turhan"
+        ]
+      },
+      {
+        "title": "Contextual Code Retrieval for Commit Message Generation: A Preliminary Study.",
+        "authors": [
+          "Bo Xiong",
+          "Linghao Zhang",
+          "Chong Wang",
+          "Peng Liang"
+        ]
+      },
+      {
+        "title": "Contribution History as a Key Feature in OSS Task Recommendation: An LLM-Based Empirical Study.",
+        "authors": [
+          "Md Abdul Hannan",
+          "Mohammad Habibullah Rakib",
+          "Khondaker Masfiq Reza",
+          "Fabio Santos"
+        ]
+      },
+      {
+        "title": "Dealing with SonarQube Cloud: Initial Results from a Mining Software Repository Study.",
+        "authors": [
+          "Sabato Nocera",
+          "Davide Fucci",
+          "Giuseppe Scanniello"
+        ]
+      },
+      {
+        "title": "Exploring Large Language Models for Analyzing and Improving Method Names in Scientific Code.",
+        "authors": [
+          "Gunnar Larsen",
+          "Carol Wong",
+          "Anthony Peruma"
+        ]
+      },
+      {
+        "title": "Exploring the Evidence-Based SE Beliefs of Generative AI Tools.",
+        "authors": [
+          "Chris Brown",
+          "Jason Cusati"
+        ]
+      },
+      {
+        "title": "How Small is Enough? Empirical Evidence of Quantized Small Language Models for Automated Program Repair.",
+        "authors": [
+          "Kazuki Kusama",
+          "Honglin Shu",
+          "Masanari Kondo",
+          "Yasutaka Kamei"
+        ]
+      },
+      {
+        "title": "Identifier Name Similarities: An Exploratory Study.",
+        "authors": [
+          "Carol Wong",
+          "Mai Abe",
+          "Silvia De Benedictis",
+          "Marissa Halim",
+          "Anthony Peruma"
+        ]
+      },
+      {
+        "title": "\"Is It Responsible?\"Emerging Results on Comparing Guardrails for Harm Mitigation in LLM-Enhanced Software Applications.",
+        "authors": [
+          "Manoel Veríssimo dos Santos Neto",
+          "Valdemar Vicente Graciano Neto",
+          "Arlindo Rodrigues Galvão Filho",
+          "Mohamad Kassab",
+          "Edson OliveiraJr"
+        ]
+      },
+      {
+        "title": "Robust or Overfitted? Investigating the Generalization of Pretrained Models in Requirement Classification.",
+        "authors": [
+          "Farha Kamal",
+          "Md Rakibul Islam"
+        ]
+      },
+      {
+        "title": "ROSE: Transformer-Based Refactoring Recommendation for Architectural Smells.",
+        "authors": [
+          "Samal Nursapa",
+          "Anastassiya Samuilova",
+          "Alessio Bucaioni",
+          "Phuong T. Nguyen"
+        ]
+      },
+      {
+        "title": "Toward Real-Time Intrusion Detection for Autonomous Vehicles: A Vision for Deep Learning-Based Security Frameworks.",
+        "authors": [
+          "Damiano Torre",
+          "Amirpasha Javid"
+        ]
+      },
+      {
+        "title": "When Retriever Meets Generator: A Joint Model for Code Comment Generation.",
+        "authors": [
+          "Tien P. T. Le",
+          "Anh M. T. Bui",
+          "Huy N. D. Pham",
+          "Alessio Bucaioni",
+          "Phuong T. Nguyen"
+        ]
+      },
+      {
+        "title": "Invisible Risks, Visible Code: A Vision for Understanding Ethical Debt in AI-Based Coding.",
+        "authors": [
+          "Dina Salah"
+        ]
+      },
+      {
+        "title": "Empirical Insights into Microservice Language Heterogeneity in Practice.",
+        "authors": [
+          "Amr S. Abdelfattah",
+          "Tomás Cerný",
+          "Marwa Elsayed"
+        ]
+      },
+      {
+        "title": "Exploring LLMs for Stakeholder-Specific Insight Generation from Software Contracts.",
+        "authors": [
+          "Jyoti S. Shukla",
+          "Aditya Kahol",
+          "Mohit Chaudhary",
+          "Preethu Rose Anish"
+        ]
+      },
+      {
+        "title": "From Assessment to Enhancement of Pull Requests at Scale: Aligning Code Reviews with Developer Competencies Using Large Language Models.",
+        "authors": [
+          "Luca Mariotto",
+          "Christian Medeiros Adriano",
+          "René Eichhorn",
+          "Daniel Burgstahler",
+          "Holger Giese"
+        ]
+      },
+      {
+        "title": "Rethinking Code Review Workflows with LLM Assistance: An Empirical Study.",
+        "authors": [
+          "Fannar Steinn Aðalsteinsson",
+          "Björn Borgar Magnússon",
+          "Mislav Milicevic",
+          "Adam Nirving Davidsson",
+          "Chih-Hong Cheng"
+        ]
+      },
+      {
+        "title": "Project OSCAR: Promoting CrOss-Cutting Digital Skills Through Europe-Wide Non-Conventional LeARning Experiences.",
+        "authors": [
+          "Ilenia Fronza",
+          "Tommi Mikkonen"
+        ]
+      },
+      {
+        "title": "Secure Software Engineering Through Sensible AutoMation (SESAM).",
+        "authors": [
+          "Davide Fucci"
+        ]
+      },
+      {
+        "title": "Threat Modeling for Large Language Model-Integrated Applications (Thremolia).",
+        "authors": [
+          "Felix Viktor Jedrzejewski",
+          "Oleksandr Adamov",
+          "Davide Fucci"
+        ]
+      },
+      {
+        "title": "A Proposal on an AI-Based Framework for Software Defect Detection Using Multimodality in Software Industries.",
+        "authors": [
+          "Shrabanti Kundu",
+          "Deepti Mishra",
+          "Alok Mishra"
+        ]
+      },
+      {
+        "title": "Human Factors in Industrial Software Engineering - A Theory-Based Empirical Study Focused on Challenges in the Context of Software Quality and Cyber Resilience.",
+        "authors": [
+          "Philipp A. Mueller"
+        ]
+      },
+      {
+        "title": "How Do Programmers Evaluate AI-Generated Code?",
+        "authors": [
+          "Samuli Määttä"
+        ]
+      },
+      {
+        "title": "Explainable AI for Identifying and Managing Test Debt in Automated Testing.",
+        "authors": [
+          "Mahsa Radnejad"
+        ]
+      }
+    ]
+  },
   "https://dblp.org/db/conf/esem/esem2024.html": {
     "header": "ESEM 2024:\nBarcelona, Spain",
     "year": "2024",
